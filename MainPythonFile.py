@@ -84,9 +84,12 @@ class GeneList:
     def __init__(self):
         # Read in original data
 
-        original_data = pd.read_csv(r"C:\Users\Josh\Documents\PythonProjects\PythonAnywhere\GeneListProject\assets\Homo_sapiens.gene_info.csv")
+        # Original_Data = pd.read_csv(r"C:\Users\Josh\Google Drive\Projects\GeneLists\Homo_sapiens.gene_info.csv")
+        # Original_Data = pd.read_csv(r"E:\Google Drive\Projects\GeneLists\Homo_sapiens.gene_info.csv")
+        Original_Data = pd.read_csv(
+            r"C:\Users\Josh\Documents\PythonProjects\PythonAnywhere\GeneListProject\assets\Homo_sapiens.gene_info.csv")
 
-        columns_to_keep = original_data[[
+        columns_to_keep = Original_Data[[
             '#tax_id',
             'GeneID',
             'Symbol',
@@ -113,7 +116,10 @@ class GeneList:
             dict.fromkeys(self.search))  # Utilizes a transformation to a dictionary and back to remove duplicates
         for term in self.search:
 
-            print(term)
+            upper = term.upper()
+            # print(upper)
+
+            # print (term)
             if term in list(self.slim_df.Symbol):
                 term_found_df = self.slim_df.loc[self.slim_df['Symbol'] == term]
                 self.matches_df = pd.concat([self.matches_df, term_found_df]).drop_duplicates().reset_index(drop=True)
@@ -124,6 +130,14 @@ class GeneList:
                 self.matchNumber += 1
             elif True in ((pd.Series(list(self.slim_df.Synonyms))).str.contains(term).values):
                 alias_df = self.slim_df[self.slim_df['Synonyms'].str.contains(term)]
+                self.alias_dict[term] = alias_df  # Dictionaries don't allow redundant key entries
+                self.aliasNumber += 1
+            elif upper in list(self.slim_df.Symbol):
+                alias_df = self.slim_df.loc[self.slim_df['Symbol'] == upper]
+                self.alias_dict[term] = alias_df  # Dictionaries don't allow redundant key entries
+                self.aliasNumber += 1
+            elif True in ((pd.Series(list(self.slim_df.Synonyms))).str.contains(upper).values):
+                alias_df = self.slim_df[self.slim_df['Synonyms'].str.contains(upper)]
                 self.alias_dict[term] = alias_df  # Dictionaries don't allow redundant key entries
                 self.aliasNumber += 1
             else:
