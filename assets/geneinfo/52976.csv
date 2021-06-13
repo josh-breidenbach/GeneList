@@ -1,0 +1,192 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+52976,19907131,trnK (UUU),BapoM_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907132,cox1,BapoM_p01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20210417,-
+52976,19907133,atp4,BapoM_p02,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20210417,-
+52976,19907134,atp8,BapoM_p03,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,ATPase subunit 8,20210417,-
+52976,19907135,rps1,BapoM_p04,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20210417,-
+52976,19907136,trnC (GCA),BapoM_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907137,trnF (GAA),BapoM_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907138,rps2,BapoM_p05,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200908,-
+52976,19907139,ccmB,BapoM_p06,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,cytochrome c biogenesis B,20210417,-
+52976,19907140,ccmC,BapoM_p07,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,cytochrome c biogenesis C,20200804,-
+52976,19907141,ccmFN,BapoM_p08,-,-,MT,-,cytochrome c biogenesis factor N,protein-coding,-,-,-,cytochrome c biogenesis factor N,20210417,-
+52976,19907142,ccmFC,BapoM_p09,-,-,MT,-,cytochrome c biogenesis factor C,protein-coding,-,-,-,cytochrome c biogenesis factor C,20210417,-
+52976,19907143,trnQ (UUG),BapoM_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907144,trnL (UAG),BapoM_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907145,trnS (UGA),BapoM_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907146,trnG (UCC),BapoM_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907147,rps4,BapoM_p10,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210417,-
+52976,19907148,tatC,BapoM_p11,-,-,MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,Sec-independent protein translocase protein,20210417,-
+52976,19907149,trnR (UCU),BapoM_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907150,trnY (GUA),BapoM_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907151,nad4L,BapoM_p12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200912,-
+52976,19907152,sdh4,BapoM_p13,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,succinate dehydrogenase subunit 4,20210417,-
+52976,19907153,sdh3,BapoM_p14,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20200908,-
+52976,19907154,trnP (UGG),BapoM_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907155,rrn18,BapoM_r01,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,19907156,trnM (CAU),BapoM_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907157,rrn5,BapoM_r02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,19907158,trnMf (CAU),BapoM_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907159,rrn26,BapoM_r03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,19907160,rpl10,BapoM_p15,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,ribosomal protein L10,20200908,-
+52976,19907161,trnH (GUG),BapoM_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907162,trnL (CAA),BapoM_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907163,trnL (UAA),BapoM_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907164,nad5,BapoM_p16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210417,-
+52976,19907165,nad4,BapoM_p17,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200804,-
+52976,19907166,nad2,BapoM_p18,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200908,-
+52976,19907167,trnG (GCC),BapoM_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907168,trnR (ACG),BapoM_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907169,trnE (UUC),BapoM_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907170,rps12,BapoM_p19,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-
+52976,19907171,rps7,BapoM_p20,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200908,-
+52976,19907172,atp6,BapoM_p21,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20200804,-
+52976,19907173,nad6,BapoM_p22,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210129,-
+52976,19907174,cox2,BapoM_p23,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20210417,-
+52976,19907175,cox3,BapoM_p24,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210406,-
+52976,19907176,nad1,BapoM_p25,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200908,-
+52976,19907177,cob,BapoM_p26,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20210417,-
+52976,19907178,nad9,BapoM_p27,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20200804,-
+52976,19907179,atp1,BapoM_p28,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,ATP synthase F1 subunit alpha,20210417,-
+52976,19907180,trnW (CCA),BapoM_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907181,nad3,BapoM_p29,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20200908,-
+52976,19907182,trnV (UAC),BapoM_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907183,trnD (GUC),BapoM_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907184,trnA (UGC),BapoM_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907185,trnT (GGU),BapoM_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907186,nad7,BapoM_p30,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20200926,-
+52976,19907187,trnI (CAU),BapoM_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,19907188,rpL2,BapoM_p31,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210417,-
+52976,19907189,rps19,BapoM_p32,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+52976,19907190,rps3,BapoM_p33,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210417,-
+52976,19907191,rpL16,BapoM_p34,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200908,-
+52976,19907192,rpL5,BapoM_p35,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210417,-
+52976,19907193,rps14,BapoM_p36,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210406,-
+52976,19907194,rpL6,BapoM_p37,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210417,-
+52976,19907195,rps13,BapoM_p38,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210417,-
+52976,19907196,rps11,BapoM_p39,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200908,-
+52976,19907197,atp9,BapoM_p40,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20200908,-
+52976,58117258,rpl2,H4P77_pgp081,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210522,-
+52976,58117259,rps19,H4P77_pgp080,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200912,-
+52976,58117260,rpl22,H4P77_pgp079,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210522,-
+52976,58117261,rps3,H4P77_pgp078,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210522,-
+52976,58117262,rpl16,H4P77_pgp077,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210522,-
+52976,58117263,rpl14,H4P77_pgp076,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210313,-
+52976,58117264,rps8,H4P77_pgp075,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210522,-
+52976,58117265,infA,H4P77_pgp074,-,-,-,-,InfA,protein-coding,-,-,-,InfA,20200912,-
+52976,58117266,rpl36,H4P77_pgp073,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200926,-
+52976,58117267,rps11,H4P77_pgp072,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200919,-
+52976,58117268,petD,H4P77_pgp071,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20210522,-
+52976,58117269,petB,H4P77_pgp070,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20210522,-
+52976,58117270,psbH,H4P77_pgp069,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20210522,-
+52976,58117271,psbN,H4P77_pgp068,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein,20200926,-
+52976,58117272,psbT,H4P77_pgp067,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20210417,-
+52976,58117273,clpP,H4P77_pgp065,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210522,-
+52976,58117274,rps12,H4P77_pgp064,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210522,-
+52976,58117275,rpl20,H4P77_pgp063,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210522,-
+52976,58117276,rps18,H4P77_pgp062,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210313,-
+52976,58117277,rpl33,H4P77_pgp061,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210327,-
+52976,58117278,psaJ,H4P77_pgp060,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200912,-
+52976,58117279,trnP (UGG),H4P77_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117280,petL,H4P77_pgp058,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20210522,-
+52976,58117281,psbE,H4P77_pgp057,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,photosystem II protein V,20200926,-
+52976,58117282,psbF,H4P77_pgp056,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,photosystem II protein VI,20201010,-
+52976,58117283,psbL,H4P77_pgp055,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20201003,-
+52976,58117284,psbJ,H4P77_pgp054,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20201010,-
+52976,58117285,petA,H4P77_pgp053,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210522,-
+52976,58117286,cemA,H4P77_pgp052,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20210522,-
+52976,58117287,ycf4,H4P77_pgp051,-,-,-,-,hypothetical protein Ycf4,protein-coding,-,-,-,hypothetical protein Ycf4,20210522,-
+52976,58117288,psaI,H4P77_pgp050,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20210130,-
+52976,58117289,accD,H4P77_pgp049,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20210522,-
+52976,58117290,trnR (CCG),H4P77_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117291,atpB,H4P77_pgp047,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20210522,-
+52976,58117292,atpE,H4P77_pgp046,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20210522,-
+52976,58117293,trnM (CAU),H4P77_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117294,ndhC,H4P77_pgp045,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210522,-
+52976,58117295,ndhK,H4P77_pgp044,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,NADH dehydrogenase subunit K,20210522,-
+52976,58117296,ndhJ,H4P77_pgp043,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit,20210522,-
+52976,58117297,trnF (GAA),H4P77_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117298,trnT (UGU),H4P77_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117299,trnS (GGA),H4P77_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117300,psaA,H4P77_pgp040,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20210522,-
+52976,58117301,psaB,H4P77_pgp039,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20210522,-
+52976,58117302,rps14,H4P77_pgp038,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210522,-
+52976,58117303,trnfM (CAU),H4P77_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117304,trnS (UGA),H4P77_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117305,psbD,H4P77_pgp035,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20210522,-
+52976,58117306,trnT (GGU),H4P77_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117307,trnH (GUG),H4P77_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117308,trnK-UUU,H4P77_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117309,matK,H4P77_pgp032,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210522,-
+52976,58117310,chlB,H4P77_pgp031,-,-,-,-,protochlorophyllide reductase ChlB subunit,protein-coding,-,-,-,protochlorophyllide reductase ChlB subunit,20210522,-
+52976,58117311,trnQ (UUG),H4P77_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117312,psbI,H4P77_pgp029,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20201010,-
+52976,58117313,trnS (GCU),H4P77_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117314,ycf12,H4P77_pgp027,-,-,-,-,Ycf12,protein-coding,-,-,-,Ycf12,20200912,-
+52976,58117315,trnG-UCC,H4P77_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117316,trnR-UCU,H4P77_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117317,atpF,H4P77_pgp025,-,-,-,-,ATP synthase I subunit,protein-coding,-,-,-,ATP synthase I subunit,20210522,-
+52976,58117318,atpH,H4P77_pgp024,-,-,-,-,ATP synthase III subunit,protein-coding,-,-,-,ATP synthase III subunit,20201003,-
+52976,58117319,atpI,H4P77_pgp023,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20210424,-
+52976,58117320,rps2,H4P77_pgp022,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210522,-
+52976,58117321,rpoC2,H4P77_pgp021,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210522,-
+52976,58117322,rpoC1,H4P77_pgp020,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210522,-
+52976,58117323,rpoB,H4P77_pgp019,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210522,-
+52976,58117324,trnC (GCA),H4P77_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117325,psbM,H4P77_pgp017,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200926,-
+52976,58117326,ndhB,H4P77_pgp016,-,-,-,-,NADH dehydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase ND2 subunit,20210522,-
+52976,58117327,rps7,H4P77_pgp015,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210123,-
+52976,58117328,trnV (GAC),H4P77_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117329,trnA-UGC,H4P77_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117330,rrn23,H4P77_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117331,chlN,H4P77_pgp013,-,-,-,-,photochlorophyllide reductase subunit N,protein-coding,-,-,-,photochlorophyllide reductase subunit N,20210522,-
+52976,58117332,ycf1,H4P77_pgp012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+52976,58117333,rps15,H4P77_pgp011,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210522,-
+52976,58117334,ndhH,H4P77_pgp010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20210522,-
+52976,58117335,ndhA,H4P77_pgp009,-,-,-,-,NADH dehydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase ND1 subunit,20210522,-
+52976,58117336,ndhI,H4P77_pgp008,-,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit,20210522,-
+52976,58117337,ndhG,H4P77_pgp007,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20210522,-
+52976,58117338,ndhE,H4P77_pgp006,-,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase ND4L subunit,20210522,-
+52976,58117339,psaC,H4P77_pgp005,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20210522,-
+52976,58117340,ndhD,H4P77_pgp004,-,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase ND4 subunit,20210522,-
+52976,58117341,trnL (UAG),H4P77_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117342,rpl21,H4P77_pgp002,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20210522,-
+52976,58117343,ndhF,H4P77_pgp001,-,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase ND5 subunit,20210522,-
+52976,58117344,trnN (GUU),H4P77_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117345,trnI-GAU,H4P77_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117346,rrn16,H4P77_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117347,psbB,H4P77_pgp066,-,-,-,-,photosystem II CP47 protein,protein-coding,-,-,-,photosystem II CP47 protein,20210522,-
+52976,58117348,rpl23,H4P77_pgp082,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210522,-
+52976,58117349,trnW (CAA),H4P77_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117350,petG,H4P77_pgp059,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+52976,58117351,rbcL,H4P77_pgp048,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210522,-
+52976,58117352,trnV-UAC,H4P77_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117353,trnL-UAA,H4P77_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117354,rps4,H4P77_pgp042,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210129,-
+52976,58117355,ycf3,H4P77_pgp041,-,-,-,-,hypothetical protein Ycf3,protein-coding,-,-,-,hypothetical protein Ycf3,20210313,-
+52976,58117356,trnG (GCC),H4P77_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117357,psbZ,H4P77_pgp037,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20200919,-
+52976,58117358,psbC,H4P77_pgp036,-,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,photosystem II CP43 protein,20210522,-
+52976,58117359,trnE (UUC),H4P77_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117360,trnD (GUC),H4P77_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117361,ycf2,H4P77_pgp034,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+52976,58117362,psbA,H4P77_pgp033,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210522,-
+52976,58117363,PsbK,H4P77_pgp030,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20201010,-
+52976,58117364,psaM,H4P77_pgp028,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,photosystem I subunit XII,20210417,-
+52976,58117365,atpA,H4P77_pgp026,-,-,-,-,ATP synthase alpha subunit,protein-coding,-,-,-,ATP synthase alpha subunit,20210522,-
+52976,58117366,ycf66,H4P77_pgp018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+52976,58117367,rrn16,H4P77_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117368,trnI-GAU,H4P77_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117369,rrn4.5,H4P77_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117370,rrn5,H4P77_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117371,trnR (ACG),H4P77_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117372,trnN (GUU),H4P77_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117373,chlL,H4P77_pgp014,-,-,-,-,photochlorophyllide reductase subunit L,protein-coding,-,-,-,photochlorophyllide reductase subunit L,20210522,-
+52976,58117374,rpl32,H4P77_pgp003,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210522,-
+52976,58117375,trnR (ACG),H4P77_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117376,rn5,H4P77_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117377,rrn4.5,H4P77_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117378,rrn23,H4P77_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+52976,58117379,trnA-UGC,H4P77_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117380,trnV (GAC),H4P77_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+52976,58117381,trnl (CAU),H4P77_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-

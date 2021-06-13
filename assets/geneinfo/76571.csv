@@ -1,0 +1,140 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+76571,26381792,psbA,AT290_gp094,Br_inPt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20160730,-
+76571,26381793,rbcL,AT290_gp093,Br_inPt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+76571,26381794,atpB,AT290_gp092,Br_inPt0048,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+76571,26381795,atpE,AT290_gp091,Br_inPt0063,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20160309,-
+76571,26381796,trnM (CAU),AT290_gt002,Br_inPt0069,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381797,trnV (UAC),AT290_gt003,Br_inPt0072,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381798,trnK (UUU),AT290_gt004,Br_inPt0082,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381799,matK,AT290_gp090,Br_inPt0085,-,-,-,maturase K,protein-coding,-,-,-,-,20160730,-
+76571,26381800,rps16,AT290_gp089,Br_inPt0114,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160309,-
+76571,26381801,ORF201,AT290_gp088,Br_inPt0118,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+76571,26381802,trnQ (UUG),AT290_gt005,Br_inPt0127,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381803,psbK,AT290_gp087,Br_inPt0134,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20160325,-
+76571,26381804,psbI,AT290_gp086,Br_inPt0140,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20160309,-
+76571,26381805,trnS (GCU),AT290_gt006,Br_inPt0142,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381806,trnG (UCC),AT290_gt007,Br_inPt0150,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381807,trnR (UCU),AT290_gt008,Br_inPt0159,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381808,atpA,AT290_gp085,Br_inPt0161,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+76571,26381809,atpF,AT290_gp084,Br_inPt0177,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+76571,26381810,atpH,AT290_gp083,Br_inPt0194,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20160309,-
+76571,26381811,atpI,AT290_gp082,Br_inPt0204,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20160309,-
+76571,26381812,rps2,AT290_gp081,Br_inPt0214,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160730,-
+76571,26381813,rpoC2,AT290_gp080,Br_inPt0224,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160730,-
+76571,26381814,rpoC1,AT290_gp079,Br_inPt0267,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160730,-
+76571,26381815,rpoB,AT290_gp078,Br_inPt0295,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160730,-
+76571,26381816,ORF301,AT290_gp077,Br_inPt0332,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+76571,26381817,trnC (GCA),AT290_gt009,Br_inPt0348,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381818,petN,AT290_gp076,Br_inPt0351,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+76571,26381819,psbM,AT290_gp075,Br_inPt0357,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+76571,26381820,trnD (GUC),AT290_gt010,Br_inPt0368,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381821,trnY (GUA),AT290_gt011,Br_inPt0370,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381822,trnE (UUC),AT290_gt012,Br_inPt0371,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381823,trnT (GGU),AT290_gt013,Br_inPt0378,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381824,psbD,AT290_gp074,Br_inPt0390,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20160730,-
+76571,26381825,psbC,AT290_gp073,Br_inPt0401,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20160309,-
+76571,26381826,trnS (UGA),AT290_gt014,Br_inPt0417,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381827,psbZ,AT290_gp072,Br_inPt0421,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20160309,-
+76571,26381828,trnG (GCC),AT290_gt015,Br_inPt0425,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381829,trnfM (CAU),AT290_gt016,Br_inPt0428,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381830,rps14,AT290_gp071,Br_inPt0430,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160309,-
+76571,26381831,psaB,AT290_gp070,Br_inPt0434,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20160309,-
+76571,26381832,psaA,AT290_gp069,Br_inPt0457,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20160309,-
+76571,26381833,pafI,AT290_gp068,Br_inPt0486,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+76571,26381834,trnS (GGA),AT290_gt017,Br_inPt0515,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381835,rps4,AT290_gp067,Br_inPt0518,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160730,-
+76571,26381836,trnT (UGU),AT290_gt018,Br_inPt0529,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381837,trnL (UAA),AT290_gt019,Br_inPt0537,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381838,trnF (GAA),AT290_gt020,Br_inPt0546,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381839,ndhJ,AT290_gp066,Br_inPt0553,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20160309,-
+76571,26381840,ndhK,AT290_gp065,Br_inPt0559,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20160730,-
+76571,26381841,ndhC,AT290_gp064,Br_inPt0566,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20160309,-
+76571,26381842,ORF227,AT290_gp063,Br_inPt0574,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+76571,26381843,psaI,AT290_gp062,Br_inPt0582,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20160325,-
+76571,26381844,pafII,AT290_gp061,Br_inPt0587,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20160309,-
+76571,26381845,cemA,AT290_gp060,Br_inPt0597,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160309,-
+76571,26381846,petA,AT290_gp059,Br_inPt0607,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+76571,26381847,psbJ,AT290_gp058,Br_inPt0626,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20160309,-
+76571,26381848,psbL,AT290_gp057,Br_inPt0629,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20160309,-
+76571,26381849,psbF,AT290_gp056,Br_inPt0630,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20160325,-
+76571,26381850,psbE,AT290_gp055,Br_inPt0632,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+76571,26381851,petL,AT290_gp054,Br_inPt0643,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160309,-
+76571,26381852,petG,AT290_gp053,Br_inPt0646,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+76571,26381853,trnW (CCA),AT290_gt021,Br_inPt0648,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381854,trnP (UGG),AT290_gt022,Br_inPt0651,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381855,psaJ,AT290_gp052,Br_inPt0656,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20160309,-
+76571,26381856,rpl33,AT290_gp051,Br_inPt0662,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160309,-
+76571,26381857,rps18,AT290_gp050,Br_inPt0665,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160309,-
+76571,26381858,rpl20,AT290_gp049,Br_inPt0672,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160730,-
+76571,26381859,rps12,AT290_gp048,Br_inPt1501,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-
+76571,26381860,psbB,AT290_gp045,Br_inPt0710,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20160309,-
+76571,26381861,psbT,AT290_gp044,Br_inPt0728,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20160309,-
+76571,26381862,psbN,AT290_gp043,Br_inPt0730,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20160309,-
+76571,26381863,psbH,AT290_gp042,Br_inPt0732,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20160325,-
+76571,26381864,petB,AT290_gp041,Br_inPt0735,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+76571,26381865,petD,AT290_gp040,Br_inPt0751,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160730,-
+76571,26381866,rpoA,AT290_gp039,Br_inPt0765,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160730,-
+76571,26381867,rps11,AT290_gp038,Br_inPt0776,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160309,-
+76571,26381868,rpl36,AT290_gp037,Br_inPt0781,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160309,-
+76571,26381869,infA,AT290_gp036,Br_inPt0783,-,-,-,pseudo,pseudo,-,-,-,-,20151208,-
+76571,26381870,rps8,AT290_gp035,Br_inPt0787,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160309,-
+76571,26381871,rpl14,AT290_gp034,Br_inPt0793,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160309,-
+76571,26381872,rpl16,AT290_gp033,Br_inPt0798,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160730,-
+76571,26381873,rps3,AT290_gp032,Br_inPt0815,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+76571,26381874,rpl22,AT290_gp031,Br_inPt0821,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160730,-
+76571,26381875,rps19,AT290_gp030,Br_inPt0827,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160309,-
+76571,26381876,rpl2,AT290_gp029,Br_inPt0830,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160730,-
+76571,26381877,rpl23,AT290_gp028,Br_inPt0845,-,-,-,pseudo,pseudo,-,-,-,-,20151208,-
+76571,26381878,trnI (CAU),AT290_gt023,Br_inPt0851,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381879,ycf2,AT290_gp027,Br_inPt0853,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20160730,-
+76571,26381880,trnL (CAA),AT290_gt024,Br_inPt0917,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381881,ndhB,AT290_gp026,Br_inPt0924,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+76571,26381882,rps7,AT290_gp025,Br_inPt0949,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160730,-
+76571,26381883,trnV (GAC),AT290_gt025,Br_inPt0980,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381884,trnH (GUG),AT290_gt001,Br_inPt0001,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381885,rrn16,AT290_gr008,Br_inPt0983,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381886,trnI (GAU),AT290_gt026,Br_inPt1001,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381887,trnA (UGC),AT290_gt027,Br_inPt1012,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381888,rrn23,AT290_gr007,Br_inPt1022,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381889,rrn4.5,AT290_gr006,Br_inPt1051,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381890,rrn5,AT290_gr005,Br_inPt1055,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381891,trnR (ACG),AT290_gt028,Br_inPt1058,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381892,trnN (GUU),AT290_gt029,Br_inPt1062,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381893,ycf1,AT290_gp024,Br_inPt1068,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20160730,-
+76571,26381894,rps15,AT290_gp023,Br_inPt1140,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+76571,26381895,ndhH,AT290_gp022,Br_inPt1145,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+76571,26381896,ndhA,AT290_gp021,Br_inPt1156,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20160309,-
+76571,26381897,ndhI,AT290_gp020,Br_inPt1178,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+76571,26381898,ndhG,AT290_gp019,Br_inPt1187,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20160309,-
+76571,26381899,ndhE,AT290_gp018,Br_inPt1195,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20160309,-
+76571,26381900,psaC,AT290_gp017,Br_inPt1200,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+76571,26381901,ndhD,AT290_gp016,Br_inPt1203,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160730,-
+76571,26381902,ccsA,AT290_gp015,Br_inPt1221,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20160309,-
+76571,26381903,trnL (UAG),AT290_gt030,Br_inPt1231,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381904,rpl32,AT290_gp014,Br_inPt1238,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160309,-
+76571,26381905,ndhF,AT290_gp013,Br_inPt1251,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20160730,-
+76571,26381906,ndhE,AT290_gp012,Br_inPt1275,-,-,-,pseudo,pseudo,-,-,-,-,20151208,-
+76571,26381907,ndhG,AT290_gp011,Br_inPt1279,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160309,-
+76571,26381908,ndhI,AT290_gp010,Br_inPt1288,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+76571,26381909,ndhA,AT290_gp009,Br_inPt1294,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20160309,-
+76571,26381910,ndhH,AT290_gp008,Br_inPt1315,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+76571,26381911,rps15,AT290_gp007,Br_inPt1328,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+76571,26381912,ycf1,AT290_gp006,Br_inPt1335,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20160730,-
+76571,26381913,trnN (GUU),AT290_gt031,Br_inPt1409,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381914,trnR (ACG),AT290_gt032,Br_inPt1412,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381915,rrn5,AT290_gr004,Br_inPt1416,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381916,rrn4.5,AT290_gr003,Br_inPt1419,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381917,rrn23,AT290_gr002,Br_inPt1421,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381918,trnA (UGC),AT290_gt033,Br_inPt1451,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381919,trnI (GAU),AT290_gt034,Br_inPt1460,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381920,rrn16,AT290_gr001,Br_inPt1473,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+76571,26381921,trnV (GAC),AT290_gt035,Br_inPt1490,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381922,rps7,AT290_gp005,Br_inPt1517,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160730,-
+76571,26381923,clpP,AT290_gp046,Br_inPt0686,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20160730,-
+76571,26381924,ndhB,AT290_gp004,Br_inPt1525,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+76571,26381925,trnL (CAA),AT290_gt036,Br_inPt1553,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381926,ycf2,AT290_gp003,Br_inPt1556,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20160730,-
+76571,26381927,trnI (CAU),AT290_gt037,Br_inPt1620,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+76571,26381928,rpl23,AT290_gp002,Br_inPt1623,-,-,-,pseudo,pseudo,-,-,-,-,20151208,-
+76571,26381929,rpl2,AT290_gp001,Br_inPt1626,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160730,-
+76571,26381930,rps12,AT290_gp047,Br_inPt0955,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-

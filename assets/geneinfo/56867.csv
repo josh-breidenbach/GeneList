@@ -1,0 +1,244 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+56867,2702454,cob,MapooMp46,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20200908,-
+56867,2702455,nad6,MapooMp11,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210212,-
+56867,2702456,trnN(guu),MapooMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702457,trnP(ugg),MapooMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702458,trnW(cca),MapooMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702459,nad3,MapooMp14,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210212,-
+56867,2702460,trnV(uac),MapooMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702461,trnD(guc),MapooMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702462,trnS(gcu),MapooMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702463,trnA(ugc),MapooMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702464,trnT(ggu),MapooMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702465,nad7,MapooMp20,-,-,MT,-,pseudo,pseudo,-,-,-,-,20171220,-
+56867,2702466,rps10,MapooMp21,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20200908,-
+56867,2702467,rpl2,MapooMp22,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200908,-
+56867,2702468,rps19,MapooMp23,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+56867,2702469,rps3,MapooMp24,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200908,-
+56867,2702470,rpl16,MapooMp25,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200908,-
+56867,2702471,rpl5,MapooMp26,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20200908,-
+56867,2702472,rps14,MapooMp27,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210212,-
+56867,2702473,rps8,MapooMp28,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200908,-
+56867,2702474,rpl6,MapooMp29,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210212,-
+56867,2702475,rps13,MapooMp30,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210212,-
+56867,2702476,rps11,MapooMp31,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200908,-
+56867,2702477,rps1,MapooMp32,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20200908,-
+56867,2702478,nad4L,MapooMp36,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20201003,-
+56867,2702479,cox2,MapooMp38,coxII,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20200908,-
+56867,2702480,cox3,MapooMp40,coxIII,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200908,-
+56867,2702481,nad1,MapooMp44,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200908,-
+56867,2702482,atp1,MapooMp49,atpA,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,ATP synthase F1 subunit alpha,20200908,-
+56867,2702483,cox1,MapooMp54,coxI,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20200908,-
+56867,2702485,trnY(gua),MapooMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702486,trnR(ucg),MapooMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702488,MapoCt100,MapoCt100,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702489,MapoCt101,MapoCt101,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702490,MapoCt102,MapoCt102,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702491,MapoCt103,MapoCt103,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702492,MapoCt104,MapoCt104,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702493,MapoCt105,MapoCt105,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702494,MapoCt106,MapoCt106,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702495,MapoCt107,MapoCt107,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702496,MapoCt108,MapoCt108,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702497,MapoCt109,MapoCt109,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702498,MapoCt110,MapoCt110,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702499,MapoCt111,MapoCt111,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702500,MapoCt112,MapoCt112,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702501,MapoCt113,MapoCt113,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702502,MapoCt114,MapoCt114,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702503,MapoCt115,MapoCt115,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702504,MapoCt116,MapoCt116,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702505,MapoCt117,MapoCt117,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702506,MapoCt118,MapoCt118,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702507,MapoCt119,MapoCt119,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702508,MapoCt120,MapoCt120,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702509,MapoCt121,MapoCt121,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702510,MapoCt122,MapoCt122,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702511,MapoCt123,MapoCt123,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702512,MapoCr090,MapoCr090,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702513,MapoCt124,MapoCt124,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702514,MapoCt125,MapoCt125,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702515,MapoCr091,MapoCr091,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702516,MapoCr092,MapoCr092,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702517,MapoCr093,MapoCr093,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702518,MapoCt126,MapoCt126,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702519,MapoCt127,MapoCt127,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702520,MapoCt129,MapoCt129,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702521,MapoCt130,MapoCt130,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702522,MapoCt131,MapoCt131,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702523,MapoCr094,MapoCr094,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702524,MapoCr095,MapoCr095,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702525,MapoCr096,MapoCr096,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702526,MapoCt132,MapoCt132,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702527,MapoCt133,MapoCt133,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702528,MapoCr097,MapoCr097,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20171219,-
+56867,2702529,MapoCt134,MapoCt134,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702530,rps12,MapoCp001,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-
+56867,2702531,rps7,MapoCp002,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200908,-
+56867,2702532,ndhB,MapoCp003,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200908,-
+56867,2702533,rpoB,MapoCp006,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200908,-
+56867,2702534,rpoC1,MapoCp007,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20200908,-
+56867,2702535,rpoC2,MapoCp008,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20200908,-
+56867,2702536,rps2,MapoCp009,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200908,-
+56867,2702537,atpI,MapoCp010,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,ATP synthase CF0 A subunit,20200908,-
+56867,2702538,atpH,MapoCp011,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,ATP synthase CF0 C subunit,20200908,-
+56867,2702539,atpF,MapoCp012,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,ATP synthase CF0 B subunit,20200908,-
+56867,2702540,atpA,MapoCp013,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200908,-
+56867,2702541,psbA,MapoCp022,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200908,-
+56867,2702542,mbpX,MapoCp024,-,-,-,-,sulfate ABC transporter protein,protein-coding,-,-,-,sulfate ABC transporter protein,20200908,-
+56867,2702543,psbD,MapoCp025,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200908,-
+56867,2702544,psbC,MapoCp026,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,photosystem II 44 kDa protein,20200908,-
+56867,2702545,psbZ,MapoCp027,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20200908,-
+56867,2702546,rps14,MapoCp028,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200908,-
+56867,2702547,psaB,MapoCp029,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20200908,-
+56867,2702548,psaA,MapoCp030,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20200908,-
+56867,2702549,rps4,MapoCp031,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200908,-
+56867,2702550,ndhK,MapoCp033,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,NADH dehydrogenase subunit K,20200908,-
+56867,2702551,ndhC,MapoCp034,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20200908,-
+56867,2702552,atpE,MapoCp035,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200908,-
+56867,2702553,atpB,MapoCp036,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200908,-
+56867,2702554,rbcL,MapoCp037,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200908,-
+56867,2702555,petA,MapoCp042,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20200908,-
+56867,2702556,psbF,MapoCp045,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,photosystem II protein VI,20200908,-
+56867,2702557,psbE,MapoCp046,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,photosystem II protein V,20200908,-
+56867,2702558,rpl33,MapoCp051,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200908,-
+56867,2702559,rps18,MapoCp052,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200908,-
+56867,2702560,rpl20,MapoCp053,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200908,-
+56867,2702561,psbB,MapoCp055,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20200908,-
+56867,2702562,petB,MapoCp060,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200908,-
+56867,2702563,petD,MapoCp061,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20200908,-
+56867,2702564,rpoA,MapoCp062,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200908,-
+56867,2702565,rps11,MapoCp063,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200908,-
+56867,2702566,rpl36,MapoCp064,secX,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200908,-
+56867,2702567,infA,MapoCp065,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,translation initiation factor 1,20200908,-
+56867,2702568,rps8,MapoCp066,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200908,-
+56867,2702569,rpl14,MapoCp067,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200908,-
+56867,2702570,rpl16,MapoCp068,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200908,-
+56867,2702571,rps3,MapoCp069,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200908,-
+56867,2702572,rpl22,MapoCp070,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200908,-
+56867,2702573,rps19,MapoCp071,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+56867,2702574,rpl23,MapoCp073,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200908,-
+56867,2702575,ndhF,MapoCp074,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200908,-
+56867,2702576,rpl21,MapoCp075,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20200908,-
+56867,2702577,ndhD,MapoCp079,ndh4,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200908,-
+56867,2702578,ndhE,MapoCp081,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200908,-
+56867,2702579,ndhI,MapoCp083,frxB,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,NADH dehydrogenase subunit I,20200908,-
+56867,2702580,ndhA,MapoCp084,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200908,-
+56867,2702581,rps15,MapoCp086,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200908,-
+56867,2702582,chlL,MapoCp089,-,-,-,-,photochlorophyllide reductase subunit L,protein-coding,-,-,-,photochlorophyllide reductase subunit L,20200908,-
+56867,2702583,MapoCt128,MapoCt128,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702584,psbM,MapoCp004,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200908,-
+56867,2702585,MapoCp005,MapoCp005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702586,ycf12,MapoCp014,-,-,-,-,Ycf12,protein-coding,-,-,-,Ycf12,20200908,-
+56867,2702587,MapoCp015,MapoCp015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702588,MapoCp016,MapoCp016,-,-,-,-,photosystem I protein M,protein-coding,-,-,-,photosystem I protein M,20200908,-
+56867,2702589,psbI,MapoCp017,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200908,-
+56867,2702590,psbK,MapoCp018,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200908,-
+56867,2702591,chlB,MapoCp019,-,-,-,-,photochlorophyllide reductase subunit B,protein-coding,-,-,-,photochlorophyllide reductase subunit B,20200908,-
+56867,2702592,MapoCp020,MapoCp020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702593,MapoCp021,MapoCp021,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20200908,-
+56867,2702594,MapoCp023,MapoCp023,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702595,ndhJ,MapoCp032,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J,20200908,-
+56867,2702596,accD,MapoCp038,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20200908,-
+56867,2702597,psaI,MapoCp039,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20200908,-
+56867,2702598,ycf4,MapoCp040,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20200908,-
+56867,2702599,cemA,MapoCp041,ycf10,-,-,-,envelope membrane protein,protein-coding,-,-,-,envelope membrane protein,20200908,-
+56867,2702600,psbJ,MapoCp043,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200908,-
+56867,2702601,psbL,MapoCp044,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200908,-
+56867,2702602,MapoCp047,MapoCp047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702603,MapoCp048,MapoCp048,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702604,petG,MapoCp049,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210417,-
+56867,2702605,psaJ,MapoCp050,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200908,-
+56867,2702606,clpP,MapoCp054,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200908,-
+56867,2702607,psbT,MapoCp056,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20200908,-
+56867,2702608,MapoCp058,MapoCp058,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702609,psbN,MapoCp057,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200908,-
+56867,2702610,psbH,MapoCp059,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20200908,-
+56867,2702611,rpl2,MapoCp072,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200908,-
+56867,2702612,rpl32,MapoCp076,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200908,-
+56867,2702613,cysT,MapoCp077,-,-,-,-,sulfate transport protein,protein-coding,-,-,-,sulfate transport protein,20200908,-
+56867,2702614,ccsA,MapoCp078,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20200908,-
+56867,2702615,ndhG,MapoCp082,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20200908,-
+56867,2702616,ndhH,MapoCp085,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20200908,-
+56867,2702617,MapoCp087,MapoCp087,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702618,MapoCp088,MapoCp088,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702619,MapoCt098,MapoCt098,-,-,-,-,tRNA,tRNA,-,-,-,-,20171219,-
+56867,2702620,rnl,MapooMr01,rrn26,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20171220,-
+56867,2702621,rrn5,MapooMr02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20171220,-
+56867,2702622,rns,MapooMp56,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20171220,-
+56867,2702623,rps4,MapooMp57,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200908,-
+56867,2702624,trnK(uuu),MapooMt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702625,trnI(cau),MapooMt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702626,atp9,MapooMp58,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20200908,-
+56867,2702627,trnC(gca),MapooMt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702628,trnF(gaa),MapooMt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702629,rps2,MapooMp59,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200908,-
+56867,2702630,trnQ(uug),MapooMt27,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702631,trnH(gug),MapooMt28,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702632,orf64,MapooMp01,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702633,orf63,MapooMp05,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702634,orf69,MapooMp13,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702635,orf139,MapooMp15,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702636,orf207,MapooMp41,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702637,orf196,MapooMp42,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702638,orf61,MapooMp43,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702639,orf62,MapooMp51,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702640,orf136,MapooMp52,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702641,orf74,MapooMp53,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702642,orf264,MapooMp66,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702643,orf302,MapooMp67,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702644,MapooMp69,MapooMp69,orf743,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702645,orf887,MapooMp71,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702646,atp4,MapooMp55,-,-,MT,-,ATP synthase F0 subunit b,protein-coding,-,-,-,ATP synthase F0 subunit b,20210212,-
+56867,2702647,orf502,MapooMp68,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702648,orf681,MapooMp72,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702649,ccmB,MapooMp60,orf277|yejV,-,MT,-,ABC transporter channel subunit,protein-coding,-,-,-,ABC transporter channel subunit,20200908,-
+56867,2702650,ccmC,MapooMp61,orf228|yejU,-,MT,-,ABC transporter subunit,protein-coding,-,-,-,ABC transporter subunit,20200908,-
+56867,2702651,ccmF,MapooMp62,ccl1|orf509|yejR,-,MT,-,heme lyase,protein-coding,-,-,-,heme lyase,20200908,-
+56867,2702652,ccmF,MapooMp63,ccl1|orf169|yejR,-,MT,-,heme lyase,protein-coding,-,-,-,heme lyase,20200908,-
+56867,2702653,ccmF,MapooMp64,ccl1|orf322|yejR,-,MT,-,heme lyase,protein-coding,-,-,-,heme lyase,20200908,-
+56867,2702654,orf168,MapooMp65,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2702655,trnG(ucc),MapooMt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702656,trnS(uga),MapooMt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702657,trnL(uag),MapooMt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702658,trnL(caa),MapooMt29,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702659,trnL(uaa),MapooMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702660,nad5,MapooMp02,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200908,-
+56867,2702661,nad4,MapooMp03,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200908,-
+56867,2702662,nad2,MapooMp04,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200908,-
+56867,2702666,trnE(uuc),MapooMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2702667,rps12,MapooMp07,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-
+56867,2702668,rps7,MapooMp08,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200908,-
+56867,2702669,atp6,MapooMp09,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20200908,-
+56867,2702670,psaC,MapoCp080,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200908,-
+56867,2948409,trnM(cau)f,MapooMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948410,trnR(acg),MapooMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948411,trnM(cau)f,MapooMt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948412,trnM(cau)e,MapooMt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948413,orf60,MapooMp06,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948414,sdh3,MapooMp12,orf137,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20200908,-
+56867,2948415,orf99,MapooMp16,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948416,orf79,MapooMp17,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948417,orf180,MapooMp18,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948418,orf167,MapooMp19,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948419,atp8,MapooMp33,orf172,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20210212,-
+56867,2948420,orf155,MapooMp34,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201003,-
+56867,2948421,sdh4,MapooMp35,orf86a,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,succinate dehydrogenase subunit 4,20210212,-
+56867,2948422,tatC,MapooMp37,orf238,-,MT,-,Sec-Y independent protein translocase component TatA,protein-coding,-,-,-,Sec-Y independent protein translocase component TatA,20200908,-
+56867,2948423,orf109,MapooMp39,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948424,orf154,MapooMp45,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948425,rtl,MapooMp47,orf732,-,MT,-,reverse transcriptase,protein-coding,-,-,-,reverse transcriptase,20200908,-
+56867,2948426,nad9,MapooMp48,orf212,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20200908,-
+56867,2948427,orf86,MapooMp50,orf86b,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,2948428,orf224,MapooMp10,orf214,-,MT,-,-,other,-,-,-,-,20171220,-
+56867,2948429,trnR(ucu),MapooMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948430,trnY(gua),MapooMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,2948431,trnG(gcc),MapooMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20171220,-
+56867,4237860,orf116,MapooMp80,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237861,orf100,MapooMp81,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237862,orf743,MapooMp73,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237863,orf172,MpooMp74,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237864,orf949,MapooMp76,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237865,orf1065,MapooMp77,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237866,orf909,MapooMp78,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+56867,4237867,orf146,MapooMp79,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-

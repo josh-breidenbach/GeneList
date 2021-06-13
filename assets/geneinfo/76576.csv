@@ -1,0 +1,139 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+76576,30859602,psbA,BW209_gp093,De_rhPt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20170908,-
+76576,30859603,rbcL,BW209_gp092,De_rhPt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+76576,30859604,atpB,BW209_gp091,De_rhPt0047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+76576,30859605,atpE,BW209_gp090,De_rhPt0062,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20170908,-
+76576,30859606,trnM (CAU),BW209_gt002,De_rhPt0069,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859607,trnV (UAC),BW209_gt003,De_rhPt0071,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859608,trnK (UUU),BW209_gt004,De_rhPt0081,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859609,matK,BW209_gp089,De_rhPt0084,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+76576,30859610,rps16,BW209_gp088,De_rhPt0113,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+76576,30859611,ORF191,BW209_gp087,De_rhPt0118,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170510,-
+76576,30859612,trnQ (UUG),BW209_gt005,De_rhPt0126,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859613,psbK,BW209_gp086,De_rhPt0133,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20170908,-
+76576,30859614,psbI,BW209_gp085,De_rhPt0140,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20170908,-
+76576,30859615,trnS (GCU),BW209_gt006,De_rhPt0142,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859616,trnG (UCC),BW209_gt007,De_rhPt0150,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859617,trnR (UCU),BW209_gt008,De_rhPt0159,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859618,atpA,BW209_gp084,De_rhPt0161,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+76576,30859619,atpF,BW209_gp083,De_rhPt0176,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+76576,30859620,atpH,BW209_gp082,De_rhPt0194,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20170908,-
+76576,30859621,atpI,BW209_gp081,De_rhPt0204,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20170908,-
+76576,30859622,rps2,BW209_gp080,De_rhPt0214,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+76576,30859623,rpoC2,BW209_gp079,De_rhPt0223,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170908,-
+76576,30859624,rpoC1,BW209_gp078,De_rhPt0267,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+76576,30859625,rpoB,BW209_gp077,De_rhPt0295,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+76576,30859626,ORF299,BW209_gp076,De_rhPt0332,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170510,-
+76576,30859627,trnC (GCA),BW209_gt009,De_rhPt0346,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859628,petN,BW209_gp075,De_rhPt0349,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+76576,30859629,psbM,BW209_gp074,De_rhPt0355,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+76576,30859630,trnD (GUC),BW209_gt010,De_rhPt0366,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859631,trnY (GUA),BW209_gt011,De_rhPt0368,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859632,trnE (UUC),BW209_gt012,De_rhPt0370,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859633,trnT (GGU),BW209_gt013,De_rhPt0376,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859634,psbD,BW209_gp073,De_rhPt0389,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20170908,-
+76576,30859635,psbC,BW209_gp072,De_rhPt0399,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20170908,-
+76576,30859636,trnS (UGA),BW209_gt014,De_rhPt0416,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859637,psbZ,BW209_gp071,De_rhPt0419,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20170908,-
+76576,30859638,trnG (GCC),BW209_gt015,De_rhPt0424,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859639,trnfM (CAU),BW209_gt016,De_rhPt0426,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859640,rps14,BW209_gp070,De_rhPt0429,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+76576,30859641,psaB,BW209_gp069,De_rhPt0433,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20170908,-
+76576,30859642,psaA,BW209_gp068,De_rhPt0455,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20170908,-
+76576,30859643,pafI,BW209_gp067,De_rhPt0485,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+76576,30859644,trnS (GGA),BW209_gt017,De_rhPt0513,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859645,rps4,BW209_gp066,De_rhPt0517,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+76576,30859646,trnT (UGU),BW209_gt018,De_rhPt0527,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859647,trnL (UAA),BW209_gt019,De_rhPt0535,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859648,trnF (GAA),BW209_gt020,De_rhPt0544,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859649,ndhJ,BW209_gp065,De_rhPt0551,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20170908,-
+76576,30859650,ndhK,BW209_gp064,De_rhPt0557,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20170908,-
+76576,30859651,ndhC,BW209_gp063,De_rhPt0564,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20170908,-
+76576,30859652,ORF227,BW209_gp062,De_rhPt0572,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170510,-
+76576,30859653,psaI,BW209_gp061,De_rhPt0580,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20170908,-
+76576,30859654,pafII,BW209_gp060,De_rhPt0585,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20170908,-
+76576,30859655,cemA,BW209_gp059,De_rhPt0595,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+76576,30859656,petA,BW209_gp058,De_rhPt0605,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+76576,30859657,psbJ,BW209_gp057,De_rhPt0624,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20170908,-
+76576,30859658,psbL,BW209_gp056,De_rhPt0627,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20170908,-
+76576,30859659,psbF,BW209_gp055,De_rhPt0628,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20170908,-
+76576,30859660,psbE,BW209_gp054,De_rhPt0630,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+76576,30859661,petL,BW209_gp053,De_rhPt0641,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170908,-
+76576,30859662,petG,BW209_gp052,De_rhPt0644,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+76576,30859663,trnW (CCA),BW209_gt021,De_rhPt0646,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859664,trnP (UGG),BW209_gt022,De_rhPt0649,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859665,psaJ,BW209_gp051,De_rhPt0653,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20170908,-
+76576,30859666,rpl33,BW209_gp050,De_rhPt0659,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+76576,30859667,rps18,BW209_gp049,De_rhPt0663,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+76576,30859668,rpl20,BW209_gp048,De_rhPt0670,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+76576,30859669,rps12,BW209_gp047,De_rhPt1504,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+76576,30859670,psbB,BW209_gp044,De_rhPt0708,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20170908,-
+76576,30859671,psbT,BW209_gp043,De_rhPt0726,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20170908,-
+76576,30859672,psbN,BW209_gp042,De_rhPt0727,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20170908,-
+76576,30859673,psbH,BW209_gp041,De_rhPt0729,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20170908,-
+76576,30859674,petB,BW209_gp040,De_rhPt0733,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+76576,30859675,petD,BW209_gp039,De_rhPt0749,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+76576,30859676,rpoA,BW209_gp038,De_rhPt0763,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+76576,30859677,rps11,BW209_gp037,De_rhPt0773,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+76576,30859678,rpl36,BW209_gp036,De_rhPt0778,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+76576,30859679,infA,BW209_gp035,De_rhPt0781,-,-,-,pseudo,pseudo,-,-,-,-,20170119,-
+76576,30859680,rps8,BW209_gp034,De_rhPt0784,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+76576,30859681,rpl14,BW209_gp033,De_rhPt0791,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+76576,30859682,rpl16,BW209_gp032,De_rhPt0796,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+76576,30859683,rps3,BW209_gp031,De_rhPt0812,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+76576,30859684,rpl22,BW209_gp030,De_rhPt0819,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+76576,30859685,rps19,BW209_gp029,De_rhPt0825,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+76576,30859686,rpl2,BW209_gp028,De_rhPt0828,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+76576,30859687,rpl23,BW209_gp027,De_rhPt0843,-,-,-,pseudo,pseudo,-,-,-,-,20170119,-
+76576,30859688,trnI (CAU),BW209_gt023,De_rhPt0848,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859689,ycf2,BW209_gp026,De_rhPt0850,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+76576,30859690,trnL (CAA),BW209_gt024,De_rhPt0915,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859691,ndhB,BW209_gp025,De_rhPt0922,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+76576,30859692,rps7,BW209_gp024,De_rhPt0947,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+76576,30859693,trnV (GAC),BW209_gt025,De_rhPt0978,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859694,trnH (GUG),BW209_gt001,De_rhPt0001,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859695,rrn16,BW209_gr008,De_rhPt0981,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859696,trnI (GAU),BW209_gt026,De_rhPt0999,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859697,trnA (UGC),BW209_gt027,De_rhPt1009,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859698,rrn23,BW209_gr007,De_rhPt1020,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859699,rrn4.5,BW209_gr006,De_rhPt1049,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859700,rrn5,BW209_gr005,De_rhPt1052,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859701,trnR (ACG),BW209_gt028,De_rhPt1056,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859702,trnN (GUU),BW209_gt029,De_rhPt1059,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859703,ycf1,BW209_gp023,De_rhPt1065,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+76576,30859704,rps15,BW209_gp022,De_rhPt1137,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+76576,30859705,ndhH,BW209_gp021,De_rhPt1141,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+76576,30859706,ndhA,BW209_gp020,De_rhPt1153,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+76576,30859707,ndhI,BW209_gp019,De_rhPt1175,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+76576,30859708,ndhG,BW209_gp018,De_rhPt1184,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+76576,30859709,ndhE,BW209_gp017,De_rhPt1192,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20170908,-
+76576,30859710,psaC,BW209_gp016,De_rhPt1197,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+76576,30859711,ndhD,BW209_gp015,De_rhPt1200,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20170908,-
+76576,30859712,ccsA,BW209_gp014,De_rhPt1218,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+76576,30859713,trnL (UAG),BW209_gt030,De_rhPt1228,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859714,rpl32,BW209_gp013,De_rhPt1234,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+76576,30859715,ndhF,BW209_gp012,De_rhPt1247,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20170908,-
+76576,30859716,ndhG,BW209_gp011,De_rhPt1275,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+76576,30859717,ndhI,BW209_gp010,De_rhPt1284,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+76576,30859718,ndhA,BW209_gp009,De_rhPt1290,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+76576,30859719,ndhH,BW209_gp008,De_rhPt1311,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+76576,30859720,rps15,BW209_gp007,De_rhPt1324,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+76576,30859721,ycf1,BW209_gp006,De_rhPt1331,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+76576,30859722,trnN (GUU),BW209_gt031,De_rhPt1404,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859723,trnR (ACG),BW209_gt032,De_rhPt1408,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859724,rrn5,BW209_gr004,De_rhPt1411,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859725,rrn4.5,BW209_gr003,De_rhPt1414,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859726,rrn23,BW209_gr002,De_rhPt1416,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859727,trnA (UGC),BW209_gt033,De_rhPt1446,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859728,trnI (GAU),BW209_gt034,De_rhPt1455,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859729,rrn16,BW209_gr001,De_rhPt1468,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170119,-
+76576,30859730,rps12,BW209_gp046,De_rhPt0952,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+76576,30859731,trnV (GAC),BW209_gt035,De_rhPt1486,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859732,rps7,BW209_gp005,De_rhPt1513,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+76576,30859733,clpP,BW209_gp045,De_rhPt0683,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+76576,30859734,ndhB,BW209_gp004,De_rhPt1520,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+76576,30859735,trnL (CAA),BW209_gt036,De_rhPt1548,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859736,ycf2,BW209_gp003,De_rhPt1556,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+76576,30859737,trnI (CAU),BW209_gt037,De_rhPt1615,-,-,-,tRNA,tRNA,-,-,-,-,20170119,-
+76576,30859738,rpl23,BW209_gp002,De_rhPt1618,-,-,-,pseudo,pseudo,-,-,-,-,20170119,-
+76576,30859739,rpl2,BW209_gp001,De_rhPt1621,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-

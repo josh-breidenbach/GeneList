@@ -1,0 +1,134 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+59011,59144082,psbA,IGW22_pgp001,SZ_001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20201201,-
+59011,59144083,trnK-UUU,IGW22_pgt001,SZ_002,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144084,matK,IGW22_pgp087,ZZL01_003,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210529,-
+59011,59144085,rps16,IGW22_pgp086,SZ_004,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210417,-
+59011,59144086,trnQ-UUG,IGW22_pgt002,SZ_005,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144087,psbK,IGW22_pgp085,SZ_006,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20210529,-
+59011,59144088,psbI,IGW22_pgp084,SZ_007,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20201217,-
+59011,59144089,trnS-GCU,IGW22_pgt003,SZ_008,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144090,trnG-UCC,IGW22_pgt004,SZ_009,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144091,trnR-UCU,IGW22_pgt005,SZ_010,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144092,atpA,IGW22_pgp083,SZ_011,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20210529,-
+59011,59144093,atpF,IGW22_pgp082,SZ_012,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATP synthase CF0 subunit I,20210529,-
+59011,59144094,atpH,IGW22_pgp081,SZ_013,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,ATP synthase CF0 subunit III,20201111,-
+59011,59144095,atpI,IGW22_pgp080,SZ_014,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20210424,-
+59011,59144096,rps2,IGW22_pgp079,SZ_015,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210417,-
+59011,59144097,rpoC2,IGW22_pgp078,SZ_016,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210529,-
+59011,59144098,rpoC1,IGW22_pgp077,SZ_017,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210417,-
+59011,59144099,rpoB,IGW22_pgp076,SZ_018,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210424,-
+59011,59144100,trnC-GCA,IGW22_pgt006,SZ_019,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144101,petN,IGW22_pgp075,SZ_020,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20201217,-
+59011,59144102,psbM,IGW22_pgp074,SZ_021,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20201110,-
+59011,59144103,trnD-GUC,IGW22_pgt007,SZ_022,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144104,trnY-GUA,IGW22_pgt008,SZ_023,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144105,trnE-UUC,IGW22_pgt009,SZ_024,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144106,trnT-GGU,IGW22_pgt010,SZ_025,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144107,psbD,IGW22_pgp073,SZ_026,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20210129,-
+59011,59144108,psbC,IGW22_pgp072,SZ_027,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20210424,-
+59011,59144109,trnS-UGA,IGW22_pgt011,SZ_028,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144110,psbZ,IGW22_pgp071,SZ_029,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein,20210424,-
+59011,59144111,trnG-GCC,IGW22_pgt012,SZ_030,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144112,trnfM-CAU,IGW22_pgt013,SZ_031,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144113,rps14,IGW22_pgp070,SZ_032,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210424,-
+59011,59144114,psaB,IGW22_pgp069,SZ_033,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20210424,-
+59011,59144115,psaA,IGW22_pgp068,SZ_034,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20210529,-
+59011,59144116,ycf3,IGW22_pgp067,SZ_035,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,hypothetical chloroplast RF34,20210424,-
+59011,59144117,trnS-GGA,IGW22_pgt014,SZ_036,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144118,rps4,IGW22_pgp066,SZ_037,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210529,-
+59011,59144119,trnT-UGU,IGW22_pgt015,SZ_038,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144120,trnL-UAA,IGW22_pgt016,SZ_039,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144121,trnF-GAA,IGW22_pgt017,SZ_040,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144122,ndhJ,IGW22_pgp065,SZ_041,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20210417,-
+59011,59144123,ndhK,IGW22_pgp064,SZ_042,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20210529,-
+59011,59144124,ndhC,IGW22_pgp063,SZ_043,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20201026,-
+59011,59144125,trnV-UAC,IGW22_pgt018,SZ_044,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144126,trnM-CAU,IGW22_pgt019,SZ_045,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144127,atpE,IGW22_pgp062,SZ_046,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20210417,-
+59011,59144128,atpB,IGW22_pgp061,SZ_047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20210424,-
+59011,59144129,rbcL,IGW22_pgp060,SZ_048,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210417,-
+59011,59144130,accD,IGW22_pgp059,SZ_049,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20210529,-
+59011,59144131,psaI,IGW22_pgp058,SZ_050,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20201201,-
+59011,59144132,ycf4,IGW22_pgp057,SZ_051,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20210424,-
+59011,59144133,cemA,IGW22_pgp056,SZ_052,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20210417,-
+59011,59144134,petA,IGW22_pgp055,SZ_053,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210424,-
+59011,59144135,psbJ,IGW22_pgp054,SZ_054,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20201201,-
+59011,59144136,psbL,IGW22_pgp053,SZ_055,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20201217,-
+59011,59144137,psbF,IGW22_pgp052,SZ_056,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20201217,-
+59011,59144138,psbE,IGW22_pgp051,SZ_057,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20201110,-
+59011,59144139,petL,IGW22_pgp050,SZ_058,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20201201,-
+59011,59144140,petG,IGW22_pgp049,SZ_059,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+59011,59144141,trnW-CCA,IGW22_pgt020,SZ_060,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144142,trnP-UGG,IGW22_pgt021,SZ_061,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144143,psaJ,IGW22_pgp048,SZ_062,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20201201,-
+59011,59144144,rpl33,IGW22_pgp047,SZ_063,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20201201,-
+59011,59144145,rps18,IGW22_pgp046,SZ_064,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20201201,-
+59011,59144146,rpl20,IGW22_pgp045,SZ_065,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210424,-
+59011,59144147,rps12,IGW22_pgp044,SZ_067,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210529,-
+59011,59144148,clpP,IGW22_pgp042,SZ_068,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20210417,-
+59011,59144149,psbB,IGW22_pgp041,SZ_069,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20210424,-
+59011,59144150,psbT,IGW22_pgp040,SZ_070,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20201102,-
+59011,59144151,psbN,IGW22_pgp039,SZ_071,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20201217,-
+59011,59144152,psbH,IGW22_pgp038,SZ_072,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20210424,-
+59011,59144153,petB,IGW22_pgp037,SZ_073,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20201107,-
+59011,59144154,petD,IGW22_pgp036,SZ_074,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20201102,-
+59011,59144155,rpoA,IGW22_pgp035,SZ_075,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210424,-
+59011,59144156,rps11,IGW22_pgp034,SZ_076,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210424,-
+59011,59144157,rpl36,IGW22_pgp033,SZ_077,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20201110,-
+59011,59144158,infA,IGW22_pgp032,SZ_078,-,-,-,translational initiation factor 1,protein-coding,-,-,-,translational initiation factor 1,20201217,-
+59011,59144159,rps8,IGW22_pgp031,SZ_079,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210424,-
+59011,59144160,rpl14,IGW22_pgp030,SZ_080,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210424,-
+59011,59144161,rpl16,IGW22_pgp029,SZ_081,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210417,-
+59011,59144162,rps3,IGW22_pgp028,SZ_082,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210424,-
+59011,59144163,rpl22,IGW22_pgp027,SZ_083,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210417,-
+59011,59144164,rps19,IGW22_pgp026,SZ_084,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20201201,-
+59011,59144165,trnH-GUG,IGW22_pgt022,SZ_085,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144166,rpl2,IGW22_pgp025,SZ_086,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210424,-
+59011,59144167,rpl23,IGW22_pgp024,SZ_087,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210417,-
+59011,59144168,trnI-CAU,IGW22_pgt023,SZ_088,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144169,ycf2,IGW22_pgp023,SZ_089,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20210529,-
+59011,59144170,trnL-CAA,IGW22_pgt024,SZ_090,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144171,ndhB,IGW22_pgp022,SZ_091,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20210417,-
+59011,59144172,rps7,IGW22_pgp021,SZ_092,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201113,-
+59011,59144173,trnV-GAC,IGW22_pgt025,SZ_093,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144174,rrn16,IGW22_pgr008,SZ_094,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144175,trnI-GAU,IGW22_pgt026,SZ_095,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144176,trnA-UGC,IGW22_pgt027,SZ_096,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144177,rrn23,IGW22_pgr007,SZ_097,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144178,rrn4.5,IGW22_pgr006,SZ_098,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144179,rrn5,IGW22_pgr005,SZ_099,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144180,trnR-ACG,IGW22_pgt028,SZ_100,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144181,trnN-GUU,IGW22_pgt029,SZ_101,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144182,ycf1,IGW22_pgp020,SZ_102,-,-,-,pseudo,pseudo,-,-,-,-,20201010,-
+59011,59144183,ndhF,IGW22_pgp019,SZ_103,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20210529,-
+59011,59144184,rpl32,IGW22_pgp018,SZ_104,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210424,-
+59011,59144185,trnL-UAG,IGW22_pgt030,SZ_105,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144186,ccsA,IGW22_pgp017,SZ_106,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20210529,-
+59011,59144187,ndhD,IGW22_pgp016,SZ_107,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20210417,-
+59011,59144188,psaC,IGW22_pgp015,SZ_108,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20201112,-
+59011,59144189,ndhE,IGW22_pgp014,SZ_109,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,20201026,-
+59011,59144190,ndhG,IGW22_pgp013,SZ_110,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20210529,-
+59011,59144191,ndhI,IGW22_pgp012,SZ_111,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit I,20210529,-
+59011,59144192,ndhA,IGW22_pgp011,SZ_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,20210529,-
+59011,59144193,ndhH,IGW22_pgp010,SZ_113,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20210529,-
+59011,59144194,rps15,IGW22_pgp009,SZ_114,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210424,-
+59011,59144195,ycf1,IGW22_pgp008,SZ_115,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20210529,-
+59011,59144196,trnN-GUU,IGW22_pgt031,SZ_116,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144197,trnR-ACG,IGW22_pgt032,SZ_117,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144198,rrn5,IGW22_pgr004,SZ_118,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144199,rrn4.5,IGW22_pgr003,SZ_119,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144200,rrn23,IGW22_pgr002,SZ_120,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144201,trnA-UGC,IGW22_pgt033,SZ_121,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144202,trnI-GAU,IGW22_pgt034,SZ_122,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144203,rrn16,IGW22_pgr001,SZ_123,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201010,-
+59011,59144204,trnV-GAC,IGW22_pgt035,SZ_124,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144205,rps7,IGW22_pgp007,SZ_125,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201113,-
+59011,59144206,ndhB,IGW22_pgp006,SZ_126,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20210417,-
+59011,59144207,trnL-CAA,IGW22_pgt036,SZ_127,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144208,ycf2,IGW22_pgp005,SZ_128,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20210529,-
+59011,59144209,trnI-CAU,IGW22_pgt037,SZ_129,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144210,rpl23,IGW22_pgp004,SZ_130,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210417,-
+59011,59144211,rpl2,IGW22_pgp003,SZ_131,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210424,-
+59011,59144212,trnH-GUG,IGW22_pgt038,SZ_133,-,-,-,tRNA,tRNA,-,-,-,-,20201010,-
+59011,59144213,rps19,IGW22_pgp002,SZ_132,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20201201,-
+59011,59144214,rps12,IGW22_pgp043,SZ_066,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210529,-

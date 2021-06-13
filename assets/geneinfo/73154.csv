@@ -1,0 +1,136 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+73154,32891840,rps3,CCM79_pgp002,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+73154,32891841,rpl16,CCM79_pgp003,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+73154,32891842,rpl14,CCM79_pgp004,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+73154,32891843,rps8,CCM79_pgp005,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+73154,32891844,infA,CCM79_pgp006,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891845,rpl36,CCM79_pgp007,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+73154,32891846,rps11,CCM79_pgp008,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+73154,32891847,rpoA,CCM79_pgp009,-,-,-,-,RpoA,protein-coding,-,-,-,-,20170908,-
+73154,32891848,petD,CCM79_pgp010,-,-,-,-,PetD,protein-coding,-,-,-,-,20170908,-
+73154,32891849,petB,CCM79_pgp011,-,-,-,-,PetB,protein-coding,-,-,-,-,20170908,-
+73154,32891850,psbH,CCM79_pgp012,-,-,-,-,PsbH,protein-coding,-,-,-,-,20170908,-
+73154,32891851,psbN,CCM79_pgp013,-,-,-,-,PsbN,protein-coding,-,-,-,-,20170908,-
+73154,32891852,psbT,CCM79_pgp014,-,-,-,-,PsbT,protein-coding,-,-,-,-,20170908,-
+73154,32891853,psbB,CCM79_pgp015,-,-,-,-,PsbB,protein-coding,-,-,-,-,20170908,-
+73154,32891854,clpP,CCM79_pgp016,-,-,-,-,ClpP,protein-coding,-,-,-,-,20170908,-
+73154,32891855,rps12,CCM79_pgp017,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+73154,32891856,rps18,CCM79_pgp020,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+73154,32891857,rpl33,CCM79_pgp021,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+73154,32891858,psaJ,CCM79_pgp022,-,-,-,-,PsaJ,protein-coding,-,-,-,-,20170908,-
+73154,32891859,trnP-UGG,CCM79_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891860,trnW-CCA,CCM79_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891861,petG,CCM79_pgp091,-,-,-,-,PetG,protein-coding,-,-,-,-,20210129,-
+73154,32891862,petL,CCM79_pgp090,-,-,-,-,PetL,protein-coding,-,-,-,-,20170908,-
+73154,32891863,psbE,CCM79_pgp089,-,-,-,-,PsbE,protein-coding,-,-,-,-,20170908,-
+73154,32891864,psbF,CCM79_pgp088,-,-,-,-,PsbF,protein-coding,-,-,-,-,20170908,-
+73154,32891865,psbL,CCM79_pgp087,-,-,-,-,PsbL,protein-coding,-,-,-,-,20170908,-
+73154,32891866,psbJ,CCM79_pgp086,-,-,-,-,PsbJ,protein-coding,-,-,-,-,20170908,-
+73154,32891867,petA,CCM79_pgp085,-,-,-,-,PetA,protein-coding,-,-,-,-,20170908,-
+73154,32891868,cemA,CCM79_pgp084,-,-,-,-,CemA,protein-coding,-,-,-,-,20170908,-
+73154,32891869,ycf4,CCM79_pgp083,-,-,-,-,Ycf4,protein-coding,-,-,-,-,20170908,-
+73154,32891870,psaI,CCM79_pgp082,-,-,-,-,PsaI,protein-coding,-,-,-,-,20170908,-
+73154,32891871,accD,CCM79_pgp081,-,-,-,-,AccD,protein-coding,-,-,-,-,20170908,-
+73154,32891872,rbcL,CCM79_pgp080,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+73154,32891873,atpB,CCM79_pgp079,-,-,-,-,AtpB,protein-coding,-,-,-,-,20170908,-
+73154,32891874,atpE,CCM79_pgp078,-,-,-,-,AtpE,protein-coding,-,-,-,-,20170908,-
+73154,32891875,trnM-CAU,CCM79_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891876,trnV-UAC,CCM79_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891877,ndhC,CCM79_pgp077,-,-,-,-,NdhC,protein-coding,-,-,-,-,20170908,-
+73154,32891878,ndhK,CCM79_pgp076,-,-,-,-,NdhK,protein-coding,-,-,-,-,20170908,-
+73154,32891879,ndhJ,CCM79_pgp075,-,-,-,-,NdhJ,protein-coding,-,-,-,-,20170908,-
+73154,32891880,trnF-GAA,CCM79_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891881,trnL-UAA,CCM79_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891882,trnT-UGU,CCM79_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891883,rps4,CCM79_pgp074,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+73154,32891884,trnS-GGA,CCM79_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891885,ycf3,CCM79_pgp073,-,-,-,-,Ycf3,protein-coding,-,-,-,-,20170908,-
+73154,32891886,psaA,CCM79_pgp072,-,-,-,-,PsaA,protein-coding,-,-,-,-,20170908,-
+73154,32891887,psaB,CCM79_pgp071,-,-,-,-,PsaB,protein-coding,-,-,-,-,20170908,-
+73154,32891888,rps14,CCM79_pgp070,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+73154,32891889,trnfM-CAU,CCM79_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891890,trnG-GCC,CCM79_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891891,lhbA,CCM79_pgp069,-,-,-,-,LhbA,protein-coding,-,-,-,-,20170908,-
+73154,32891892,trnS-UGA,CCM79_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891893,psbC,CCM79_pgp068,-,-,-,-,PsbC,protein-coding,-,-,-,-,20170908,-
+73154,32891894,psbD,CCM79_pgp067,-,-,-,-,PsbD,protein-coding,-,-,-,-,20170908,-
+73154,32891895,trnT-GGU,CCM79_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891896,trnE-UUC,CCM79_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891897,trnY-GUA,CCM79_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891898,trnD-GUC,CCM79_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891899,psbM,CCM79_pgp066,-,-,-,-,PsbM,protein-coding,-,-,-,-,20190525,-
+73154,32891900,petN,CCM79_pgp065,-,-,-,-,PetN,protein-coding,-,-,-,-,20170908,-
+73154,32891901,trnC-GCA,CCM79_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891902,rpoB,CCM79_pgp064,-,-,-,-,RpoB,protein-coding,-,-,-,-,20170908,-
+73154,32891903,rpoC1,CCM79_pgp063,-,-,-,-,RpoC1,protein-coding,-,-,-,-,20170908,-
+73154,32891904,rpoC2,CCM79_pgp062,-,-,-,-,RpoC2,protein-coding,-,-,-,-,20170908,-
+73154,32891905,rps2,CCM79_pgp061,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+73154,32891906,atpI,CCM79_pgp060,-,-,-,-,AtpI,protein-coding,-,-,-,-,20170908,-
+73154,32891907,atpH,CCM79_pgp059,-,-,-,-,AtpH,protein-coding,-,-,-,-,20170908,-
+73154,32891908,atpF,CCM79_pgp058,-,-,-,-,AtpF,protein-coding,-,-,-,-,20170908,-
+73154,32891909,atpA,CCM79_pgp057,-,-,-,-,AtpA,protein-coding,-,-,-,-,20170908,-
+73154,32891910,trnR-UCU,CCM79_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891911,trnS-GCU,CCM79_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891912,psbI,CCM79_pgp056,-,-,-,-,PsbI,protein-coding,-,-,-,-,20170908,-
+73154,32891913,psbK,CCM79_pgp055,-,-,-,-,PsbK,protein-coding,-,-,-,-,20170908,-
+73154,32891914,trnQ-UUG,CCM79_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891915,rps16,CCM79_pgp054,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891916,trnK-UUU,CCM79_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891917,matK,CCM79_pgp053,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+73154,32891918,psbA,CCM79_pgp052,-,-,-,-,PsbA,protein-coding,-,-,-,-,20170908,-
+73154,32891919,trnH-GUG,CCM79_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891920,rps19,CCM79_pgp051,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+73154,32891921,rpl2,CCM79_pgp050,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+73154,32891922,rpl23,CCM79_pgp049,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+73154,32891923,trnI-CAU,CCM79_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891924,ycf2,CCM79_pgp048,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170908,-
+73154,32891925,ycf15,CCM79_pgp047,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891926,ndhB,CCM79_pgp046,-,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+73154,32891927,rps7,CCM79_pgp045,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+73154,32891928,trnV-GAC,CCM79_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891929,rrn16,CCM79_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891930,trnI-GAU,CCM79_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891931,ycf68,CCM79_pgp044,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891932,trnA-UGC,CCM79_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891933,rrn23,CCM79_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891934,rrn4.5,CCM79_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891935,rrn5,CCM79_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891936,trnR-ACG,CCM79_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891937,trnN-GUU,CCM79_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891938,ycf1,CCM79_pgp043,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20170908,-
+73154,32891939,rps15,CCM79_pgp042,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+73154,32891940,ndhH,CCM79_pgp041,-,-,-,-,NdhH,protein-coding,-,-,-,-,20170908,-
+73154,32891941,ndhA,CCM79_pgp040,-,-,-,-,NdhA,protein-coding,-,-,-,-,20170908,-
+73154,32891942,ndhI,CCM79_pgp039,-,-,-,-,NdhI,protein-coding,-,-,-,-,20170908,-
+73154,32891943,ndhG,CCM79_pgp038,-,-,-,-,NdhG,protein-coding,-,-,-,-,20170908,-
+73154,32891944,ndhE,CCM79_pgp037,-,-,-,-,NdhE,protein-coding,-,-,-,-,20170908,-
+73154,32891945,psaC,CCM79_pgp036,-,-,-,-,PsaC,protein-coding,-,-,-,-,20170908,-
+73154,32891946,ndhD,CCM79_pgp035,-,-,-,-,NdhD,protein-coding,-,-,-,-,20170908,-
+73154,32891947,ccsA,CCM79_pgp034,-,-,-,-,CcsA,protein-coding,-,-,-,-,20170908,-
+73154,32891948,trnL-UAG,CCM79_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891949,rpl32,CCM79_pgp033,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+73154,32891950,ndhF,CCM79_pgp032,-,-,-,-,NdhF,protein-coding,-,-,-,-,20170908,-
+73154,32891951,ycf1,CCM79_pgp031,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20170908,-
+73154,32891952,trnN-GUU,CCM79_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891953,trnR-ACG,CCM79_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891954,rrn5,CCM79_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891955,rrn4.5,CCM79_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891956,rrn23,CCM79_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891957,trnA-UGC,CCM79_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891958,trnI-GAU,CCM79_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891959,ycf68,CCM79_pgp030,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891960,rrn16,CCM79_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170605,-
+73154,32891961,trnV-GAC,CCM79_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891962,rps7,CCM79_pgp029,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+73154,32891963,ndhB,CCM79_pgp028,-,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+73154,32891964,trnL-CAA,CCM79_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891965,ycf15,CCM79_pgp027,-,-,-,-,pseudo,pseudo,-,-,-,-,20170605,-
+73154,32891966,ycf2,CCM79_pgp026,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170908,-
+73154,32891967,trnI-CAU,CCM79_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-
+73154,32891968,rpl23,CCM79_pgp025,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+73154,32891969,rpl22,CCM79_pgp001,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+73154,32891970,rpl2,CCM79_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+73154,32891971,rps19,CCM79_pgp023,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+73154,32891972,rpl20,CCM79_pgp019,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+73154,32891973,rps12,CCM79_pgp018,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+73154,32891974,trnL-CAA,CCM79_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170605,-

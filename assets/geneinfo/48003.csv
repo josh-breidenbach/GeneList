@@ -1,0 +1,781 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+48003,43419824,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Mycoplasmopsis pullorum.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20201228,-
+48003,57134083,C4M82_RS00005,C4M82_RS00005,C4M82_00005,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134084,ffh,C4M82_RS00010,C4M82_00015,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200803,-
+48003,57134085,C4M82_RS00015,C4M82_RS00015,C4M82_00020,-,-,-,YwaF family protein,protein-coding,-,-,-,YwaF family protein,20200829,-
+48003,57134086,dnaX,C4M82_RS00020,C4M82_00025,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200829,-
+48003,57134087,C4M82_RS00025,C4M82_RS00025,C4M82_00030,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200829,-
+48003,57134088,recR,C4M82_RS00030,C4M82_00035,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200829,-
+48003,57134089,C4M82_RS00035,C4M82_RS00035,C4M82_00040,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200829,-
+48003,57134090,C4M82_RS00040,C4M82_RS00040,C4M82_00045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134091,rsmI,C4M82_RS00045,C4M82_00050,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200829,-
+48003,57134092,serS,C4M82_RS00050,C4M82_00055,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200829,-
+48003,57134093,C4M82_RS00055,C4M82_RS00055,C4M82_00060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134094,C4M82_RS00060,C4M82_RS00060,C4M82_00065,-,-,-,GAF domain-containing protein,protein-coding,-,-,-,GAF domain-containing protein,20200829,-
+48003,57134095,C4M82_RS00065,C4M82_RS00065,C4M82_00070,-,-,-,zinc-binding dehydrogenase,protein-coding,-,-,-,zinc-binding dehydrogenase,20200829,-
+48003,57134096,C4M82_RS00070,C4M82_RS00070,C4M82_00075,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210522,-
+48003,57134097,C4M82_RS00075,C4M82_RS00075,C4M82_00080,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200829,-
+48003,57134098,dnaN,C4M82_RS00080,C4M82_00085,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200829,-
+48003,57134099,C4M82_RS00085,C4M82_RS00085,C4M82_00090,-,-,-,RNA-binding S4 domain-containing protein,protein-coding,-,-,-,RNA-binding S4 domain-containing protein,20201217,-
+48003,57134100,C4M82_RS00090,C4M82_RS00090,C4M82_00095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134101,C4M82_RS00095,C4M82_RS00095,C4M82_00100,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134102,C4M82_RS00100,C4M82_RS00100,C4M82_00105,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134103,C4M82_RS00105,C4M82_RS00105,C4M82_00110,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20200829,-
+48003,57134104,C4M82_RS00110,C4M82_RS00110,C4M82_00115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134105,rsmA,C4M82_RS00115,C4M82_00120,-,-,-,ribosomal RNA small subunit methyltransferase A,protein-coding,-,-,-,ribosomal RNA small subunit methyltransferase A,20200829,-
+48003,57134106,C4M82_RS00120,C4M82_RS00120,C4M82_00125,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200829,-
+48003,57134107,C4M82_RS00125,C4M82_RS00125,C4M82_00130,-,-,-,M13 family peptidase,protein-coding,-,-,-,M13 family peptidase,20200829,-
+48003,57134108,rpmH,C4M82_RS00130,C4M82_00135,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20201217,-
+48003,57134109,rnpA,C4M82_RS00135,C4M82_00140,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20201217,-
+48003,57134110,yidC,C4M82_RS00140,C4M82_00145,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200829,-
+48003,57134111,C4M82_RS00145,C4M82_RS00145,C4M82_00150,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200829,-
+48003,57134112,C4M82_RS00150,C4M82_RS00150,C4M82_00155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134113,C4M82_RS00155,C4M82_RS00155,C4M82_00160,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20200829,-
+48003,57134114,C4M82_RS00160,C4M82_RS00160,C4M82_00165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134115,C4M82_RS00165,C4M82_RS00165,C4M82_00170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134116,C4M82_RS00170,C4M82_RS00170,C4M82_00175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134117,C4M82_RS00175,C4M82_RS00175,C4M82_00180,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20200829,-
+48003,57134118,C4M82_RS00180,C4M82_RS00180,C4M82_00185,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200829,-
+48003,57134119,C4M82_RS00185,C4M82_RS00185,C4M82_00190,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134120,C4M82_RS00190,C4M82_RS00190,C4M82_00195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134121,C4M82_RS00195,C4M82_RS00195,C4M82_00200,-,-,-,thioredoxin fold domain-containing protein,protein-coding,-,-,-,thioredoxin fold domain-containing protein,20200829,-
+48003,57134122,C4M82_RS00200,C4M82_RS00200,C4M82_00205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134123,C4M82_RS00205,C4M82_RS00205,C4M82_00210,-,-,-,DUF4231 domain-containing protein,protein-coding,-,-,-,DUF4231 domain-containing protein,20200829,-
+48003,57134124,C4M82_RS00210,C4M82_RS00210,C4M82_00215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134125,C4M82_RS00215,C4M82_RS00215,C4M82_00220,-,-,-,histidinol-phosphatase HisJ family protein,protein-coding,-,-,-,histidinol-phosphatase HisJ family protein,20200829,-
+48003,57134126,C4M82_RS00220,C4M82_RS00220,C4M82_00225,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200829,-
+48003,57134127,C4M82_RS00225,C4M82_RS00225,C4M82_00235,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200829,-
+48003,57134128,rsmG,C4M82_RS00230,C4M82_00240,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20200829,-
+48003,57134129,C4M82_RS00235,C4M82_RS00235,C4M82_00245,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20200829,-
+48003,57134130,C4M82_RS00240,C4M82_RS00240,C4M82_00250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134131,trmB,C4M82_RS00245,C4M82_00255,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200829,-
+48003,57134132,gyrA,C4M82_RS00250,C4M82_00260,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200829,-
+48003,57134133,C4M82_RS00255,C4M82_RS00255,C4M82_00265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134134,C4M82_RS00260,C4M82_RS00260,C4M82_00270,-,-,-,M24 family metallopeptidase,protein-coding,-,-,-,M24 family metallopeptidase,20200829,-
+48003,57134135,C4M82_RS00265,C4M82_RS00265,C4M82_00275,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20200829,-
+48003,57134136,rpmG,C4M82_RS00270,C4M82_00280,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201217,-
+48003,57134137,C4M82_RS00275,C4M82_RS00275,C4M82_00285,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200829,-
+48003,57134138,C4M82_RS00280,C4M82_RS00280,C4M82_00290,-,-,-,LacI family DNA-binding transcriptional regulator,protein-coding,-,-,-,LacI family DNA-binding transcriptional regulator,20200829,-
+48003,57134139,C4M82_RS00285,C4M82_RS00285,C4M82_00295,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134140,uvrB,C4M82_RS00290,C4M82_00300,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20200829,-
+48003,57134141,uvrA,C4M82_RS00295,C4M82_00305,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200829,-
+48003,57134142,C4M82_RS00300,C4M82_RS00300,C4M82_00310,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20200829,-
+48003,57134143,C4M82_RS00305,C4M82_RS00305,C4M82_00315,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200829,-
+48003,57134144,C4M82_RS00310,C4M82_RS00310,C4M82_00320,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200829,-
+48003,57134145,C4M82_RS00315,C4M82_RS00315,C4M82_00325,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200829,-
+48003,57134146,C4M82_RS00320,C4M82_RS00320,C4M82_00330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134147,C4M82_RS00325,C4M82_RS00325,C4M82_00335,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200829,-
+48003,57134148,rpsJ,C4M82_RS00330,C4M82_00340,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201217,-
+48003,57134149,rplC,C4M82_RS00335,C4M82_00345,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20201217,-
+48003,57134150,rplD,C4M82_RS00340,C4M82_00350,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200829,-
+48003,57134151,rplW,C4M82_RS00345,C4M82_00355,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200829,-
+48003,57134152,rplB,C4M82_RS00350,C4M82_00360,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20201217,-
+48003,57134153,rpsS,C4M82_RS00355,C4M82_00365,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201217,-
+48003,57134154,rplV,C4M82_RS00360,C4M82_00370,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200829,-
+48003,57134155,rpsC,C4M82_RS00365,C4M82_00375,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200829,-
+48003,57134156,rplP,C4M82_RS00370,C4M82_00380,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201217,-
+48003,57134157,C4M82_RS00375,C4M82_RS00375,C4M82_00385,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201217,-
+48003,57134158,rpsQ,C4M82_RS00380,C4M82_00390,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201217,-
+48003,57134159,rplN,C4M82_RS00385,C4M82_00395,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201217,-
+48003,57134160,C4M82_RS00390,C4M82_RS00390,C4M82_00400,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20201217,-
+48003,57134161,rplE,C4M82_RS00395,C4M82_00405,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200829,-
+48003,57134162,C4M82_RS00400,C4M82_RS00400,C4M82_00410,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20200905,-
+48003,57134163,rpsH,C4M82_RS00405,C4M82_00415,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201217,-
+48003,57134164,rplF,C4M82_RS00410,C4M82_00420,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200829,-
+48003,57134165,C4M82_RS00415,C4M82_RS00415,C4M82_00425,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200829,-
+48003,57134166,rpsE,C4M82_RS00420,C4M82_00430,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200829,-
+48003,57134167,rplO,C4M82_RS00425,C4M82_00435,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20201217,-
+48003,57134168,C4M82_RS00430,C4M82_RS00430,C4M82_00440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134169,secY,C4M82_RS00435,C4M82_00445,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201217,-
+48003,57134170,C4M82_RS00440,C4M82_RS00440,C4M82_00450,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20210522,-
+48003,57134171,map,C4M82_RS00445,C4M82_00455,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20201217,-
+48003,57134172,infA,C4M82_RS00450,C4M82_00460,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200829,-
+48003,57134173,rpmJ,C4M82_RS00455,C4M82_00465,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201217,-
+48003,57134174,rpsM,C4M82_RS00460,C4M82_00470,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201217,-
+48003,57134175,rpsK,C4M82_RS00465,C4M82_00475,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201217,-
+48003,57134176,C4M82_RS00470,C4M82_RS00470,C4M82_00480,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200829,-
+48003,57134177,rplQ,C4M82_RS00475,C4M82_00485,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201217,-
+48003,57134178,truB,C4M82_RS00480,C4M82_00490,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200829,-
+48003,57134179,C4M82_RS00485,C4M82_RS00485,C4M82_00495,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20200829,-
+48003,57134180,C4M82_RS00490,C4M82_RS00490,C4M82_00500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134181,rpsO,C4M82_RS00495,C4M82_00505,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200829,-
+48003,57134182,recA,C4M82_RS00500,C4M82_00510,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200829,-
+48003,57134183,C4M82_RS00505,C4M82_RS00505,C4M82_00515,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200829,-
+48003,57134184,C4M82_RS00510,C4M82_RS00510,C4M82_00520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134185,C4M82_RS00515,C4M82_RS00515,C4M82_00525,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200829,-
+48003,57134186,C4M82_RS00520,C4M82_RS00520,C4M82_00530,-,-,-,DUF4256 domain-containing protein,protein-coding,-,-,-,DUF4256 domain-containing protein,20200829,-
+48003,57134187,C4M82_RS00525,C4M82_RS00525,C4M82_00535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134188,def,C4M82_RS00530,C4M82_00540,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201217,-
+48003,57134189,rsmD,C4M82_RS00535,C4M82_00545,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20200829,-
+48003,57134190,C4M82_RS00540,C4M82_RS00540,C4M82_00550,-,-,-,recombination protein O N-terminal domain-containing protein,protein-coding,-,-,-,recombination protein O N-terminal domain-containing protein,20200829,-
+48003,57134191,C4M82_RS00545,C4M82_RS00545,C4M82_00555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134192,C4M82_RS00550,C4M82_RS00550,C4M82_00560,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200829,-
+48003,57134193,plsX,C4M82_RS00555,C4M82_00565,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200829,-
+48003,57134194,rnc,C4M82_RS00560,C4M82_00570,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200829,-
+48003,57134195,C4M82_RS00565,C4M82_RS00565,C4M82_00575,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200829,-
+48003,57134196,C4M82_RS00570,C4M82_RS00570,C4M82_00580,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134197,C4M82_RS00575,C4M82_RS00575,C4M82_00585,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200829,-
+48003,57134198,C4M82_RS00580,C4M82_RS00580,C4M82_00590,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200829,-
+48003,57134199,C4M82_RS00585,C4M82_RS00585,C4M82_00595,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200829,-
+48003,57134200,C4M82_RS00590,C4M82_RS00590,C4M82_00600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134201,C4M82_RS00595,C4M82_RS00595,C4M82_00605,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200829,-
+48003,57134202,C4M82_RS00600,C4M82_RS00600,C4M82_00610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134203,C4M82_RS00605,C4M82_RS00605,C4M82_00615,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20200829,-
+48003,57134204,C4M82_RS00610,C4M82_RS00610,C4M82_00620,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201217,-
+48003,57134205,C4M82_RS00615,C4M82_RS00615,C4M82_00625,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200829,-
+48003,57134206,C4M82_RS00620,C4M82_RS00620,C4M82_00630,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20200829,-
+48003,57134207,C4M82_RS00625,C4M82_RS00625,C4M82_00635,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200829,-
+48003,57134208,C4M82_RS00630,C4M82_RS00630,C4M82_00640,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,20200829,-
+48003,57134209,gatA,C4M82_RS00635,C4M82_00645,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200829,-
+48003,57134210,gatB,C4M82_RS00640,C4M82_00650,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200829,-
+48003,57134211,C4M82_RS00645,C4M82_RS00645,C4M82_00655,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20200829,-
+48003,57134212,C4M82_RS00650,C4M82_RS00650,C4M82_00660,-,-,-,endonuclease,protein-coding,-,-,-,endonuclease,20200829,-
+48003,57134213,C4M82_RS00655,C4M82_RS00655,C4M82_00665,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134214,C4M82_RS00660,C4M82_RS00660,C4M82_00670,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134215,C4M82_RS00665,C4M82_RS00665,C4M82_00675,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134216,C4M82_RS00670,C4M82_RS00670,C4M82_00680,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134217,C4M82_RS00675,C4M82_RS00675,C4M82_00685,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134218,C4M82_RS00680,C4M82_RS00680,C4M82_00690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134219,C4M82_RS00685,C4M82_RS00685,C4M82_00695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134220,C4M82_RS00690,C4M82_RS00690,C4M82_00700,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20201217,-
+48003,57134221,C4M82_RS00695,C4M82_RS00695,C4M82_00705,-,-,-,phosphoketolase,protein-coding,-,-,-,phosphoketolase,20200829,-
+48003,57134222,C4M82_RS00700,C4M82_RS00700,C4M82_00710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134223,C4M82_RS00705,C4M82_RS00705,C4M82_00715,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20200829,-
+48003,57134224,secA,C4M82_RS00710,C4M82_00725,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200829,-
+48003,57134225,C4M82_RS00715,C4M82_RS00715,C4M82_00730,-,-,-,viroplasmin family protein,protein-coding,-,-,-,viroplasmin family protein,20200829,-
+48003,57134226,C4M82_RS00720,C4M82_RS00720,C4M82_00735,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201217,-
+48003,57134227,C4M82_RS00725,C4M82_RS00725,C4M82_00740,-,-,-,YfcE family phosphodiesterase,protein-coding,-,-,-,YfcE family phosphodiesterase,20200829,-
+48003,57134228,C4M82_RS00730,C4M82_RS00730,C4M82_00745,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20200829,-
+48003,57134229,C4M82_RS00735,C4M82_RS00735,C4M82_00750,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200829,-
+48003,57134230,C4M82_RS00740,C4M82_RS00740,C4M82_00755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134231,ylqF,C4M82_RS00745,C4M82_00760,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200829,-
+48003,57134232,asnS,C4M82_RS00750,C4M82_00765,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20200829,-
+48003,57134233,C4M82_RS00755,C4M82_RS00755,C4M82_00770,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+48003,57134234,C4M82_RS00760,C4M82_RS00760,C4M82_00775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134235,C4M82_RS00765,C4M82_RS00765,C4M82_00780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134236,C4M82_RS00770,C4M82_RS00770,C4M82_00785,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20210522,-
+48003,57134237,C4M82_RS00775,C4M82_RS00775,C4M82_00790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134238,C4M82_RS00780,C4M82_RS00780,C4M82_00795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134239,C4M82_RS00785,C4M82_RS00785,C4M82_00800,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20200829,-
+48003,57134240,C4M82_RS00790,C4M82_RS00790,C4M82_00805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134241,C4M82_RS00795,C4M82_RS00795,C4M82_00810,-,-,-,RNase H,protein-coding,-,-,-,RNase H,20200829,-
+48003,57134242,C4M82_RS00800,C4M82_RS00800,C4M82_00815,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134243,C4M82_RS00805,C4M82_RS00805,C4M82_00820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134244,C4M82_RS00810,C4M82_RS00810,C4M82_00825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134245,C4M82_RS00815,C4M82_RS00815,C4M82_00830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134246,C4M82_RS00820,C4M82_RS00820,C4M82_00835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134247,C4M82_RS00825,C4M82_RS00825,C4M82_00840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134248,C4M82_RS00830,C4M82_RS00830,C4M82_00845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134249,C4M82_RS00835,C4M82_RS00835,C4M82_00850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134250,C4M82_RS00840,C4M82_RS00840,C4M82_00855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134251,C4M82_RS00845,C4M82_RS00845,C4M82_00860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134252,C4M82_RS00850,C4M82_RS00850,C4M82_00865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134253,C4M82_RS00855,C4M82_RS00855,C4M82_00870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134254,C4M82_RS00860,C4M82_RS00860,C4M82_00875,-,-,-,plasmid recombination protein,protein-coding,-,-,-,plasmid recombination protein,20200829,-
+48003,57134255,C4M82_RS00865,C4M82_RS00865,C4M82_00880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134256,C4M82_RS00870,C4M82_RS00870,C4M82_00885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134257,C4M82_RS00875,C4M82_RS00875,C4M82_00890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134258,C4M82_RS00880,C4M82_RS00880,C4M82_00895,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134259,C4M82_RS00885,C4M82_RS00885,C4M82_00900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134260,C4M82_RS00890,C4M82_RS00890,C4M82_00905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134261,C4M82_RS00895,C4M82_RS00895,C4M82_00910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134262,C4M82_RS00900,C4M82_RS00900,C4M82_00915,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134263,C4M82_RS00905,C4M82_RS00905,C4M82_00920,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20200829,-
+48003,57134264,C4M82_RS00910,C4M82_RS00910,C4M82_00925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134265,holA,C4M82_RS00915,C4M82_00930,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200829,-
+48003,57134266,C4M82_RS00920,C4M82_RS00920,C4M82_00935,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20200829,-
+48003,57134267,C4M82_RS00925,C4M82_RS00925,C4M82_00940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134268,rnpB,C4M82_RS00930,C4M82_00945,-,-,-,-,ncRNA,-,-,-,-,20200802,-
+48003,57134269,C4M82_RS00935,C4M82_RS00935,C4M82_00950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134270,C4M82_RS00940,C4M82_RS00940,C4M82_00955,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200829,-
+48003,57134271,C4M82_RS00945,C4M82_RS00945,C4M82_00960,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20200829,-
+48003,57134272,C4M82_RS00950,C4M82_RS00950,C4M82_00965,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134273,C4M82_RS00955,C4M82_RS00955,C4M82_00970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134274,C4M82_RS00960,C4M82_RS00960,C4M82_00975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134275,efp,C4M82_RS00965,C4M82_00980,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201217,-
+48003,57134276,C4M82_RS00970,C4M82_RS00970,C4M82_00985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134277,C4M82_RS00975,C4M82_RS00975,C4M82_00990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134278,C4M82_RS00980,C4M82_RS00980,C4M82_00995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134279,C4M82_RS00985,C4M82_RS00985,C4M82_01000,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201217,-
+48003,57134280,rpsB,C4M82_RS00990,C4M82_01005,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200829,-
+48003,57134281,atpC,C4M82_RS00995,C4M82_01010,-,-,-,ATP synthase F1 subunit epsilon,protein-coding,-,-,-,ATP synthase F1 subunit epsilon,20200829,-
+48003,57134282,atpD,C4M82_RS01000,C4M82_01015,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200829,-
+48003,57134283,C4M82_RS01005,C4M82_RS01005,C4M82_01020,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200829,-
+48003,57134284,C4M82_RS01010,C4M82_RS01010,C4M82_01025,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200829,-
+48003,57134285,atpH,C4M82_RS01015,C4M82_01030,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20201217,-
+48003,57134286,atpF,C4M82_RS01020,C4M82_01035,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200829,-
+48003,57134287,atpE,C4M82_RS01025,C4M82_01040,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20200829,-
+48003,57134288,C4M82_RS01030,C4M82_RS01030,C4M82_01045,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200829,-
+48003,57134289,C4M82_RS01035,C4M82_RS01035,C4M82_01055,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20210522,-
+48003,57134290,fusA,C4M82_RS01040,C4M82_01060,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200829,-
+48003,57134291,rpsG,C4M82_RS01045,C4M82_01065,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201217,-
+48003,57134292,rpsL,C4M82_RS01050,C4M82_01070,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201217,-
+48003,57134293,plsY,C4M82_RS01055,C4M82_01075,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20200829,-
+48003,57134294,C4M82_RS01060,C4M82_RS01060,C4M82_01080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134295,C4M82_RS01065,C4M82_RS01065,C4M82_01090,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200829,-
+48003,57134296,trpS,C4M82_RS01070,C4M82_01095,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200829,-
+48003,57134297,nagB,C4M82_RS01075,C4M82_01100,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20200829,-
+48003,57134298,nagA,C4M82_RS01080,C4M82_01105,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,protein-coding,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,20200829,-
+48003,57134299,secDF,C4M82_RS01085,C4M82_01110,-,-,-,protein translocase subunit SecDF,protein-coding,-,-,-,protein translocase subunit SecDF,20200829,-
+48003,57134300,ruvB,C4M82_RS01090,C4M82_01115,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200829,-
+48003,57134301,ruvA,C4M82_RS01095,C4M82_01120,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20201217,-
+48003,57134302,C4M82_RS01100,C4M82_RS01100,C4M82_01125,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134303,C4M82_RS01105,C4M82_RS01105,C4M82_01130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134304,C4M82_RS01110,C4M82_RS01110,C4M82_01135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134305,C4M82_RS01115,C4M82_RS01115,C4M82_01140,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134306,C4M82_RS01120,C4M82_RS01120,C4M82_01145,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134307,C4M82_RS01125,C4M82_RS01125,C4M82_01150,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134308,C4M82_RS01130,C4M82_RS01130,C4M82_01155,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134309,C4M82_RS01135,C4M82_RS01135,C4M82_01160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134310,pepF,C4M82_RS01140,C4M82_01165,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20200829,-
+48003,57134311,lon,C4M82_RS01145,C4M82_01170,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200829,-
+48003,57134312,C4M82_RS01150,C4M82_RS01150,C4M82_01175,-,-,-,class I tRNA ligase family protein,protein-coding,-,-,-,class I tRNA ligase family protein,20200829,-
+48003,57134313,C4M82_RS01155,C4M82_RS01155,C4M82_01180,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200802,-
+48003,57134314,mgtE,C4M82_RS01160,C4M82_01185,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200829,-
+48003,57134315,C4M82_RS01165,C4M82_RS01165,C4M82_01190,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,protein-coding,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,20200829,-
+48003,57134316,C4M82_RS01170,C4M82_RS01170,C4M82_01200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134317,C4M82_RS01175,C4M82_RS01175,C4M82_01205,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201217,-
+48003,57134318,rpsP,C4M82_RS01180,C4M82_01210,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200829,-
+48003,57134319,trmD,C4M82_RS01185,C4M82_01215,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201217,-
+48003,57134320,rplS,C4M82_RS01190,C4M82_01220,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200829,-
+48003,57134321,C4M82_RS01195,C4M82_RS01195,C4M82_01225,-,-,-,LLM class flavin-dependent oxidoreductase,protein-coding,-,-,-,LLM class flavin-dependent oxidoreductase,20200829,-
+48003,57134322,C4M82_RS01200,C4M82_RS01200,C4M82_01230,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20200829,-
+48003,57134323,ptsP,C4M82_RS01205,C4M82_01235,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200829,-
+48003,57134324,hflB,C4M82_RS01210,C4M82_01240,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20200829,-
+48003,57134325,tilS,C4M82_RS01215,C4M82_01245,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200829,-
+48003,57134326,C4M82_RS01220,C4M82_RS01220,C4M82_01250,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20201217,-
+48003,57134327,C4M82_RS01225,C4M82_RS01225,C4M82_01255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134328,C4M82_RS01230,C4M82_RS01230,C4M82_01260,-,-,-,C5 methylase (MAV1virus-like) protein,protein-coding,-,-,-,C5 methylase (MAV1virus-like) protein,20210522,-
+48003,57134329,C4M82_RS01235,C4M82_RS01235,C4M82_01270,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134330,C4M82_RS01240,C4M82_RS01240,C4M82_01275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134331,nadE,C4M82_RS01245,C4M82_01280,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20200829,-
+48003,57134332,C4M82_RS01250,C4M82_RS01250,C4M82_01285,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20200829,-
+48003,57134333,C4M82_RS01255,C4M82_RS01255,C4M82_01290,-,-,-,ZIP family metal transporter,protein-coding,-,-,-,ZIP family metal transporter,20210522,-
+48003,57134334,C4M82_RS01260,C4M82_RS01260,C4M82_01295,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200829,-
+48003,57134335,C4M82_RS01265,C4M82_RS01265,C4M82_01300,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20200829,-
+48003,57134336,C4M82_RS01270,C4M82_RS01270,C4M82_01305,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20201217,-
+48003,57134337,pheS,C4M82_RS01275,C4M82_01310,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200829,-
+48003,57134338,C4M82_RS01280,C4M82_RS01280,C4M82_01315,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200829,-
+48003,57134339,C4M82_RS01285,C4M82_RS01285,C4M82_01320,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200829,-
+48003,57134340,C4M82_RS01290,C4M82_RS01290,C4M82_01325,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200829,-
+48003,57134341,C4M82_RS01295,C4M82_RS01295,C4M82_01330,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210522,-
+48003,57134342,C4M82_RS01300,C4M82_RS01300,C4M82_01335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134343,C4M82_RS01305,C4M82_RS01305,C4M82_01340,-,-,-,polysaccharide biosynthesis C-terminal domain-containing protein,protein-coding,-,-,-,polysaccharide biosynthesis C-terminal domain-containing protein,20210522,-
+48003,57134344,C4M82_RS01310,C4M82_RS01310,C4M82_01345,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20200829,-
+48003,57134345,C4M82_RS01315,C4M82_RS01315,C4M82_01350,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134346,C4M82_RS01320,C4M82_RS01320,C4M82_01355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134347,C4M82_RS01325,C4M82_RS01325,C4M82_01360,-,-,-,NINE protein,protein-coding,-,-,-,NINE protein,20200829,-
+48003,57134348,C4M82_RS01330,C4M82_RS01330,C4M82_01365,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200829,-
+48003,57134349,C4M82_RS01335,C4M82_RS01335,C4M82_01370,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20200829,-
+48003,57134350,C4M82_RS01340,C4M82_RS01340,C4M82_01375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134351,C4M82_RS01345,C4M82_RS01345,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134352,C4M82_RS01350,C4M82_RS01350,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134353,C4M82_RS01355,C4M82_RS01355,C4M82_01385,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200829,-
+48003,57134354,C4M82_RS01360,C4M82_RS01360,C4M82_01390,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134355,C4M82_RS01365,C4M82_RS01365,C4M82_01395,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200829,-
+48003,57134356,C4M82_RS01370,C4M82_RS01370,C4M82_01400,-,-,-,alpha-amylase,protein-coding,-,-,-,alpha-amylase,20200829,-
+48003,57134357,C4M82_RS01375,C4M82_RS01375,C4M82_01405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134358,C4M82_RS01380,C4M82_RS01380,C4M82_01410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134359,C4M82_RS01385,C4M82_RS01385,C4M82_01420,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134360,C4M82_RS01390,C4M82_RS01390,C4M82_01425,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134361,C4M82_RS01395,C4M82_RS01395,C4M82_01430,-,-,-,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,protein-coding,-,-,-,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,20200829,-
+48003,57134362,C4M82_RS01400,C4M82_RS01400,C4M82_01435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134363,C4M82_RS01405,C4M82_RS01405,C4M82_01440,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20200829,-
+48003,57134364,C4M82_RS01410,C4M82_RS01410,C4M82_01445,-,-,-,alpha-amylase,protein-coding,-,-,-,alpha-amylase,20200829,-
+48003,57134365,C4M82_RS01415,C4M82_RS01415,C4M82_01450,-,-,-,sucrase-isomaltase,protein-coding,-,-,-,sucrase-isomaltase,20200829,-
+48003,57134366,C4M82_RS01420,C4M82_RS01420,C4M82_01455,-,-,-,glycoside hydrolase family 65 protein,protein-coding,-,-,-,glycoside hydrolase family 65 protein,20200829,-
+48003,57134367,pgmB,C4M82_RS01425,C4M82_01460,-,-,-,beta-phosphoglucomutase,protein-coding,-,-,-,beta-phosphoglucomutase,20200829,-
+48003,57134368,C4M82_RS01430,C4M82_RS01430,C4M82_01465,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200829,-
+48003,57134369,C4M82_RS01435,C4M82_RS01435,C4M82_01470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134370,C4M82_RS01440,C4M82_RS01440,C4M82_01475,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200829,-
+48003,57134371,C4M82_RS01445,C4M82_RS01445,C4M82_01480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134372,C4M82_RS01450,C4M82_RS01450,C4M82_01485,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200829,-
+48003,57134373,C4M82_RS01455,C4M82_RS01455,C4M82_01490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134374,C4M82_RS01460,C4M82_RS01460,C4M82_01495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134375,C4M82_RS01465,C4M82_RS01465,C4M82_01500,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20200829,-
+48003,57134376,C4M82_RS01470,C4M82_RS01470,C4M82_01505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134377,C4M82_RS01475,C4M82_RS01475,C4M82_01510,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20200829,-
+48003,57134378,C4M82_RS01480,C4M82_RS01480,C4M82_01515,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200829,-
+48003,57134379,C4M82_RS01485,C4M82_RS01485,C4M82_01520,-,-,-,endonuclease,protein-coding,-,-,-,endonuclease,20200829,-
+48003,57134380,C4M82_RS01490,C4M82_RS01490,C4M82_01525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134381,C4M82_RS01495,C4M82_RS01495,C4M82_01530,-,-,-,class I tRNA ligase family protein,protein-coding,-,-,-,class I tRNA ligase family protein,20200829,-
+48003,57134382,C4M82_RS01500,C4M82_RS01500,C4M82_01535,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,protein-coding,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,20200829,-
+48003,57134383,rnr,C4M82_RS01505,C4M82_01540,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200829,-
+48003,57134384,secG,C4M82_RS01510,C4M82_01545,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200802,-
+48003,57134385,C4M82_RS01515,C4M82_RS01515,C4M82_01550,-,-,-,ion transporter,protein-coding,-,-,-,ion transporter,20200829,-
+48003,57134386,C4M82_RS01520,C4M82_RS01520,C4M82_01555,-,-,-,HAD-IC family P-type ATPase,protein-coding,-,-,-,HAD-IC family P-type ATPase,20200829,-
+48003,57134387,C4M82_RS01525,C4M82_RS01525,C4M82_01560,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134388,C4M82_RS01530,C4M82_RS01530,C4M82_01565,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134389,C4M82_RS01535,C4M82_RS01535,C4M82_01570,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134390,C4M82_RS01540,C4M82_RS01540,C4M82_01575,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134391,C4M82_RS01545,C4M82_RS01545,C4M82_01580,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134392,C4M82_RS01550,C4M82_RS01550,C4M82_01585,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200829,-
+48003,57134393,C4M82_RS01555,C4M82_RS01555,-,-,-,-,low temperature requirement protein A,protein-coding,-,-,-,low temperature requirement protein A,20200829,-
+48003,57134394,C4M82_RS01560,C4M82_RS01560,C4M82_01590,-,-,-,low temperature requirement protein A,protein-coding,-,-,-,low temperature requirement protein A,20200829,-
+48003,57134395,rpmE,C4M82_RS01565,C4M82_01595,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20201217,-
+48003,57134396,rpsD,C4M82_RS01570,C4M82_01600,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201217,-
+48003,57134397,C4M82_RS01575,C4M82_RS01575,C4M82_01605,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20200829,-
+48003,57134398,C4M82_RS01580,C4M82_RS01580,C4M82_01610,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+48003,57134399,ybeY,C4M82_RS01585,C4M82_01620,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200829,-
+48003,57134400,cdd,C4M82_RS01590,C4M82_01625,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20201217,-
+48003,57134401,era,C4M82_RS01595,C4M82_01630,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20200829,-
+48003,57134402,C4M82_RS01600,C4M82_RS01600,C4M82_01635,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200829,-
+48003,57134403,C4M82_RS01605,C4M82_RS01605,C4M82_01640,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20200829,-
+48003,57134404,C4M82_RS01610,C4M82_RS01610,C4M82_01645,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20200829,-
+48003,57134405,C4M82_RS01615,C4M82_RS01615,C4M82_01650,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20200829,-
+48003,57134406,C4M82_RS01620,C4M82_RS01620,C4M82_01655,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20200829,-
+48003,57134407,C4M82_RS01625,C4M82_RS01625,C4M82_01660,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20200829,-
+48003,57134408,C4M82_RS01630,C4M82_RS01630,C4M82_01665,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20200829,-
+48003,57134409,C4M82_RS01635,C4M82_RS01635,C4M82_01670,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200829,-
+48003,57134410,C4M82_RS01640,C4M82_RS01640,C4M82_01675,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210522,-
+48003,57134411,C4M82_RS01645,C4M82_RS01645,C4M82_01680,-,-,-,M13 family metallopeptidase,protein-coding,-,-,-,M13 family metallopeptidase,20200829,-
+48003,57134412,C4M82_RS01650,C4M82_RS01650,C4M82_01685,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20200829,-
+48003,57134413,C4M82_RS01655,C4M82_RS01655,C4M82_01690,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134414,C4M82_RS01660,C4M82_RS01660,C4M82_01695,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134415,tsaE,C4M82_RS01665,C4M82_01700,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20200829,-
+48003,57134416,tsaB,C4M82_RS01670,C4M82_01705,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200829,-
+48003,57134417,tsaD,C4M82_RS01675,C4M82_01710,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20201217,-
+48003,57134418,C4M82_RS01680,C4M82_RS01680,C4M82_01715,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20200829,-
+48003,57134419,C4M82_RS01685,C4M82_RS01685,C4M82_01720,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20200829,-
+48003,57134420,tuf,C4M82_RS01690,C4M82_01725,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201217,-
+48003,57134421,C4M82_RS01695,C4M82_RS01695,C4M82_01730,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200829,-
+48003,57134422,C4M82_RS01700,C4M82_RS01700,C4M82_01735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134423,thiI,C4M82_RS01705,C4M82_01740,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20201217,-
+48003,57134424,C4M82_RS01710,C4M82_RS01710,C4M82_01745,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134425,C4M82_RS01715,C4M82_RS01715,C4M82_01750,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134426,C4M82_RS01720,C4M82_RS01720,C4M82_01755,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20201217,-
+48003,57134427,C4M82_RS01725,C4M82_RS01725,C4M82_01760,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20200829,-
+48003,57134428,C4M82_RS01730,C4M82_RS01730,C4M82_01765,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20200829,-
+48003,57134429,C4M82_RS01735,C4M82_RS01735,C4M82_01770,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20201217,-
+48003,57134430,C4M82_RS01740,C4M82_RS01740,C4M82_01775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134431,C4M82_RS01745,C4M82_RS01745,C4M82_01780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134432,C4M82_RS01750,C4M82_RS01750,C4M82_01785,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20201217,-
+48003,57134433,C4M82_RS01755,C4M82_RS01755,C4M82_01790,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20200829,-
+48003,57134434,C4M82_RS01760,C4M82_RS01760,C4M82_01795,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20200829,-
+48003,57134435,C4M82_RS01765,C4M82_RS01765,C4M82_01800,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200829,-
+48003,57134436,C4M82_RS01770,C4M82_RS01770,C4M82_01805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134437,C4M82_RS01775,C4M82_RS01775,C4M82_01815,-,-,-,Fic family protein,protein-coding,-,-,-,Fic family protein,20200829,-
+48003,57134438,C4M82_RS01780,C4M82_RS01780,C4M82_01825,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134439,C4M82_RS01790,C4M82_RS01790,C4M82_01835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134440,C4M82_RS01795,C4M82_RS01795,C4M82_01840,-,-,-,M20/M25/M40 family metallo-hydrolase,protein-coding,-,-,-,M20/M25/M40 family metallo-hydrolase,20200829,-
+48003,57134441,C4M82_RS01800,C4M82_RS01800,C4M82_01845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134442,C4M82_RS01805,C4M82_RS01805,C4M82_01850,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134443,C4M82_RS01810,C4M82_RS01810,C4M82_01855,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200829,-
+48003,57134444,C4M82_RS01815,C4M82_RS01815,C4M82_01860,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20201217,-
+48003,57134445,C4M82_RS01820,C4M82_RS01820,C4M82_01865,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200829,-
+48003,57134446,C4M82_RS01825,C4M82_RS01825,C4M82_01870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134447,C4M82_RS01830,C4M82_RS01830,C4M82_01875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134448,C4M82_RS01835,C4M82_RS01835,C4M82_01880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134449,rbfA,C4M82_RS01840,C4M82_01885,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20201217,-
+48003,57134450,C4M82_RS01845,C4M82_RS01845,C4M82_01890,-,-,-,DUF3137 domain-containing protein,protein-coding,-,-,-,DUF3137 domain-containing protein,20200829,-
+48003,57134451,C4M82_RS01850,C4M82_RS01850,C4M82_01895,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134452,C4M82_RS01855,C4M82_RS01855,C4M82_01900,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20210522,-
+48003,57134453,C4M82_RS01860,C4M82_RS01860,C4M82_01905,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200829,-
+48003,57134454,C4M82_RS01865,C4M82_RS01865,C4M82_01910,-,-,-,GH32 C-terminal domain-containing protein,protein-coding,-,-,-,GH32 C-terminal domain-containing protein,20200829,-
+48003,57134455,C4M82_RS01870,C4M82_RS01870,C4M82_01920,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200829,-
+48003,57134456,C4M82_RS01875,C4M82_RS01875,C4M82_01925,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20200829,-
+48003,57134457,C4M82_RS01880,C4M82_RS01880,C4M82_01930,-,-,-,HsdR family type I site-specific deoxyribonuclease,protein-coding,-,-,-,HsdR family type I site-specific deoxyribonuclease,20200829,-
+48003,57134458,C4M82_RS01885,C4M82_RS01885,C4M82_01935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134459,C4M82_RS01890,C4M82_RS01890,C4M82_01940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134460,C4M82_RS01895,C4M82_RS01895,C4M82_01945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134461,deoC,C4M82_RS01900,C4M82_01950,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20200829,-
+48003,57134462,C4M82_RS01905,C4M82_RS01905,C4M82_01955,-,-,-,pyrimidine-nucleoside phosphorylase,protein-coding,-,-,-,pyrimidine-nucleoside phosphorylase,20201217,-
+48003,57134463,deoD,C4M82_RS01910,C4M82_01960,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200829,-
+48003,57134464,C4M82_RS01915,C4M82_RS01915,C4M82_01965,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134465,C4M82_RS01920,C4M82_RS01920,C4M82_01970,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134466,C4M82_RS01925,C4M82_RS01925,C4M82_01975,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200829,-
+48003,57134467,C4M82_RS01930,C4M82_RS01930,C4M82_01980,-,-,-,DUF45 domain-containing protein,protein-coding,-,-,-,DUF45 domain-containing protein,20200829,-
+48003,57134468,C4M82_RS01935,C4M82_RS01935,C4M82_01985,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20200829,-
+48003,57134469,C4M82_RS01940,C4M82_RS01940,C4M82_01990,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20200829,-
+48003,57134470,C4M82_RS01945,C4M82_RS01945,C4M82_01995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134471,C4M82_RS01950,C4M82_RS01950,C4M82_02000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134472,C4M82_RS01955,C4M82_RS01955,C4M82_02005,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200829,-
+48003,57134473,C4M82_RS01960,C4M82_RS01960,C4M82_02010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134474,hrcA,C4M82_RS01965,C4M82_02015,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200829,-
+48003,57134475,grpE,C4M82_RS01970,C4M82_02020,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210522,-
+48003,57134476,dnaK,C4M82_RS01975,C4M82_02025,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200829,-
+48003,57134477,C4M82_RS01980,C4M82_RS01980,C4M82_02030,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134478,C4M82_RS01985,C4M82_RS01985,C4M82_02035,-,-,-,NAD-binding protein,protein-coding,-,-,-,NAD-binding protein,20200829,-
+48003,57134479,C4M82_RS01990,C4M82_RS01990,C4M82_02040,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200829,-
+48003,57134480,C4M82_RS01995,C4M82_RS01995,C4M82_02045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134481,C4M82_RS02000,C4M82_RS02000,C4M82_02050,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200829,-
+48003,57134482,parE,C4M82_RS02005,C4M82_02055,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200829,-
+48003,57134483,C4M82_RS02010,C4M82_RS02010,C4M82_02060,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134484,C4M82_RS02015,C4M82_RS02015,C4M82_02065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134485,C4M82_RS02020,C4M82_RS02020,C4M82_02070,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200829,-
+48003,57134486,C4M82_RS02025,C4M82_RS02025,C4M82_02075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134487,C4M82_RS02030,C4M82_RS02030,C4M82_02080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134488,C4M82_RS02035,C4M82_RS02035,C4M82_02085,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20200829,-
+48003,57134489,C4M82_RS02040,C4M82_RS02040,C4M82_02090,-,-,-,argininosuccinate synthase,protein-coding,-,-,-,argininosuccinate synthase,20200829,-
+48003,57134490,argH,C4M82_RS02045,C4M82_02095,-,-,-,argininosuccinate lyase,protein-coding,-,-,-,argininosuccinate lyase,20200829,-
+48003,57134491,C4M82_RS02050,C4M82_RS02050,C4M82_02100,-,-,-,PTS sugar transporter subunit IIC,protein-coding,-,-,-,PTS sugar transporter subunit IIC,20200829,-
+48003,57134492,C4M82_RS02055,C4M82_RS02055,C4M82_02105,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20201217,-
+48003,57134493,C4M82_RS02060,C4M82_RS02060,C4M82_02110,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201217,-
+48003,57134494,C4M82_RS02065,C4M82_RS02065,C4M82_02115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134495,C4M82_RS02070,C4M82_RS02070,C4M82_02120,-,-,-,tripartite tricarboxylate transporter permease,protein-coding,-,-,-,tripartite tricarboxylate transporter permease,20200829,-
+48003,57134496,C4M82_RS02075,C4M82_RS02075,C4M82_02125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134497,C4M82_RS02080,C4M82_RS02080,C4M82_02130,-,-,-,ribulose phosphate epimerase,protein-coding,-,-,-,ribulose phosphate epimerase,20200829,-
+48003,57134498,C4M82_RS02085,C4M82_RS02085,C4M82_02135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134499,C4M82_RS02090,C4M82_RS02090,C4M82_02140,-,-,-,SPFH/Band 7/PHB domain protein,protein-coding,-,-,-,SPFH/Band 7/PHB domain protein,20201217,-
+48003,57134500,C4M82_RS02095,C4M82_RS02095,C4M82_02145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134501,mraZ,C4M82_RS02100,C4M82_02150,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20201217,-
+48003,57134502,rsmH,C4M82_RS02105,C4M82_02155,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200829,-
+48003,57134503,C4M82_RS02110,C4M82_RS02110,C4M82_02160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134504,ftsZ,C4M82_RS02115,C4M82_02165,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200829,-
+48003,57134505,C4M82_RS02120,C4M82_RS02120,C4M82_02170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134506,C4M82_RS02125,C4M82_RS02125,C4M82_02175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134507,C4M82_RS02130,C4M82_RS02130,C4M82_02180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134508,C4M82_RS02135,C4M82_RS02135,C4M82_02185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134509,C4M82_RS02140,C4M82_RS02140,C4M82_02190,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20200829,-
+48003,57134510,C4M82_RS02150,C4M82_RS02150,C4M82_02200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134511,C4M82_RS02155,C4M82_RS02155,C4M82_02205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134512,C4M82_RS02160,C4M82_RS02160,C4M82_02210,-,-,-,low temperature requirement protein A,protein-coding,-,-,-,low temperature requirement protein A,20200829,-
+48003,57134513,whiA,C4M82_RS02165,C4M82_02215,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200829,-
+48003,57134514,C4M82_RS02170,C4M82_RS02170,C4M82_02220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134515,lpdA,C4M82_RS02175,C4M82_02225,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200829,-
+48003,57134516,C4M82_RS02180,C4M82_RS02180,C4M82_02230,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200829,-
+48003,57134517,C4M82_RS02185,C4M82_RS02185,C4M82_02235,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200829,-
+48003,57134518,pdhA,C4M82_RS02190,C4M82_02240,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20201217,-
+48003,57134519,uvrC,C4M82_RS02195,C4M82_02245,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20200829,-
+48003,57134520,C4M82_RS02200,C4M82_RS02200,C4M82_02250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134521,C4M82_RS02205,C4M82_RS02205,C4M82_02255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134522,C4M82_RS02210,C4M82_RS02210,C4M82_02260,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200829,-
+48003,57134523,C4M82_RS02215,C4M82_RS02215,C4M82_02265,-,-,-,Rrf2 family transcriptional regulator,protein-coding,-,-,-,Rrf2 family transcriptional regulator,20200829,-
+48003,57134524,C4M82_RS02220,C4M82_RS02220,C4M82_02270,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134525,C4M82_RS02225,C4M82_RS02225,C4M82_02275,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134526,C4M82_RS02230,C4M82_RS02230,C4M82_02280,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20200829,-
+48003,57134527,C4M82_RS02235,C4M82_RS02235,C4M82_02285,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201217,-
+48003,57134528,dnaB,C4M82_RS02240,C4M82_02290,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200829,-
+48003,57134529,C4M82_RS02245,C4M82_RS02245,C4M82_02295,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20200829,-
+48003,57134530,C4M82_RS02250,C4M82_RS02250,C4M82_02300,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20201217,-
+48003,57134531,C4M82_RS02255,C4M82_RS02255,C4M82_02305,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20210522,-
+48003,57134532,rpmF,C4M82_RS02260,C4M82_02310,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201217,-
+48003,57134533,rpsF,C4M82_RS02265,C4M82_02315,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200829,-
+48003,57134534,C4M82_RS02270,C4M82_RS02270,C4M82_02320,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200829,-
+48003,57134535,C4M82_RS02275,C4M82_RS02275,C4M82_02325,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201217,-
+48003,57134536,C4M82_RS02280,C4M82_RS02280,C4M82_02330,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20200829,-
+48003,57134537,C4M82_RS02285,C4M82_RS02285,C4M82_02335,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20200829,-
+48003,57134538,C4M82_RS02290,C4M82_RS02290,C4M82_02340,-,-,-,DUF2179 domain-containing protein,protein-coding,-,-,-,DUF2179 domain-containing protein,20200829,-
+48003,57134539,pgsA,C4M82_RS02295,C4M82_02345,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200829,-
+48003,57134540,C4M82_RS02300,C4M82_RS02300,C4M82_02350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134541,pfkA,C4M82_RS02305,C4M82_02355,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20200829,-
+48003,57134542,C4M82_RS02310,C4M82_RS02310,C4M82_02360,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20200829,-
+48003,57134543,C4M82_RS02315,C4M82_RS02315,C4M82_02365,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134544,C4M82_RS02320,C4M82_RS02320,C4M82_02370,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200829,-
+48003,57134545,C4M82_RS02325,C4M82_RS02325,C4M82_02375,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201217,-
+48003,57134546,C4M82_RS02330,C4M82_RS02330,C4M82_02380,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201217,-
+48003,57134547,rpmI,C4M82_RS02335,C4M82_02385,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200829,-
+48003,57134548,rplT,C4M82_RS02340,C4M82_02390,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201217,-
+48003,57134549,C4M82_RS02345,C4M82_RS02345,C4M82_02395,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200829,-
+48003,57134550,C4M82_RS02350,C4M82_RS02350,C4M82_02400,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200829,-
+48003,57134551,C4M82_RS02355,C4M82_RS02355,C4M82_02405,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200829,-
+48003,57134552,C4M82_RS02360,C4M82_RS02360,C4M82_02410,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20200829,-
+48003,57134553,C4M82_RS02365,C4M82_RS02365,C4M82_02415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134554,mnmG,C4M82_RS02370,C4M82_02420,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200829,-
+48003,57134555,C4M82_RS02375,C4M82_RS02375,C4M82_02425,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20200829,-
+48003,57134556,C4M82_RS02380,C4M82_RS02380,C4M82_02430,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200829,-
+48003,57134557,C4M82_RS02385,C4M82_RS02385,C4M82_02435,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134558,C4M82_RS02390,C4M82_RS02390,C4M82_02440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134559,C4M82_RS02395,C4M82_RS02395,C4M82_02445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134560,C4M82_RS02400,C4M82_RS02400,C4M82_02450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134561,C4M82_RS02405,C4M82_RS02405,C4M82_02455,-,-,-,PHP domain-containing protein,protein-coding,-,-,-,PHP domain-containing protein,20200829,-
+48003,57134562,C4M82_RS02410,C4M82_RS02410,C4M82_02460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134563,C4M82_RS02415,C4M82_RS02415,C4M82_02465,-,-,-,redoxin domain-containing protein,protein-coding,-,-,-,redoxin domain-containing protein,20201217,-
+48003,57134564,C4M82_RS02420,C4M82_RS02420,C4M82_02470,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200829,-
+48003,57134565,C4M82_RS02425,C4M82_RS02425,C4M82_02475,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20200829,-
+48003,57134566,fba,C4M82_RS02430,C4M82_02480,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200829,-
+48003,57134567,C4M82_RS02435,C4M82_RS02435,C4M82_02485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+48003,57134568,C4M82_RS02440,C4M82_RS02440,C4M82_02490,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200829,-
+48003,57134569,C4M82_RS02445,C4M82_RS02445,C4M82_02495,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200829,-
+48003,57134570,C4M82_RS02450,C4M82_RS02450,C4M82_02500,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200829,-
+48003,57134571,rlmB,C4M82_RS02455,C4M82_02505,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200829,-
+48003,57134572,C4M82_RS02460,C4M82_RS02460,C4M82_02510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134573,gap,C4M82_RS02465,C4M82_02515,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201217,-
+48003,57134574,C4M82_RS02470,C4M82_RS02470,C4M82_02520,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200829,-
+48003,57134575,rsgA,C4M82_RS02475,C4M82_02525,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20200829,-
+48003,57134576,C4M82_RS02480,C4M82_RS02480,C4M82_02530,-,-,-,Kae1-associated serine/threonine protein kinase,protein-coding,-,-,-,Kae1-associated serine/threonine protein kinase,20200829,-
+48003,57134577,C4M82_RS02485,C4M82_RS02485,C4M82_02535,-,-,-,protein phosphatase 2C domain-containing protein,protein-coding,-,-,-,protein phosphatase 2C domain-containing protein,20200829,-
+48003,57134578,gmk,C4M82_RS02490,C4M82_02540,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200829,-
+48003,57134579,C4M82_RS02495,C4M82_RS02495,C4M82_02545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201217,-
+48003,57134580,ftsY,C4M82_RS02500,C4M82_02550,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200829,-
+48003,57134581,C4M82_RS02505,C4M82_RS02505,C4M82_02555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134582,C4M82_RS02510,C4M82_RS02510,C4M82_02560,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201217,-
+48003,57134583,der,C4M82_RS02515,C4M82_02565,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200829,-
+48003,57134584,C4M82_RS02520,C4M82_RS02520,C4M82_02570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134585,C4M82_RS02525,C4M82_RS02525,C4M82_02575,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20200829,-
+48003,57134586,C4M82_RS02530,C4M82_RS02530,C4M82_02580,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20200829,-
+48003,57134587,C4M82_RS02535,C4M82_RS02535,C4M82_02585,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134588,C4M82_RS02540,C4M82_RS02540,C4M82_02590,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134589,lepA,C4M82_RS02545,C4M82_02595,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20201217,-
+48003,57134590,upp,C4M82_RS02550,C4M82_02600,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200829,-
+48003,57134591,C4M82_RS02555,C4M82_RS02555,C4M82_02605,-,-,-,NERD domain-containing protein,protein-coding,-,-,-,NERD domain-containing protein,20200829,-
+48003,57134592,C4M82_RS02560,C4M82_RS02560,C4M82_02610,-,-,-,helix-hairpin-helix domain-containing protein,protein-coding,-,-,-,helix-hairpin-helix domain-containing protein,20200829,-
+48003,57134593,C4M82_RS02565,C4M82_RS02565,C4M82_02615,-,-,-,RNase J family beta-CASP ribonuclease,protein-coding,-,-,-,RNase J family beta-CASP ribonuclease,20200829,-
+48003,57134594,C4M82_RS02570,C4M82_RS02570,C4M82_02620,-,-,-,aquaporin,protein-coding,-,-,-,aquaporin,20200829,-
+48003,57134595,glpK,C4M82_RS02575,C4M82_02625,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20200829,-
+48003,57134596,glpO,C4M82_RS02580,C4M82_02630,-,-,-,type 2 glycerol-3-phosphate oxidase,protein-coding,-,-,-,type 2 glycerol-3-phosphate oxidase,20201026,-
+48003,57134597,C4M82_RS02585,C4M82_RS02585,C4M82_02635,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200829,-
+48003,57134598,ligA,C4M82_RS02590,C4M82_02640,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200829,-
+48003,57134599,C4M82_RS02595,C4M82_RS02595,C4M82_02645,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200829,-
+48003,57134600,C4M82_RS02600,C4M82_RS02600,C4M82_02650,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20200829,-
+48003,57134601,C4M82_RS02605,C4M82_RS02605,C4M82_02655,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20200829,-
+48003,57134602,C4M82_RS02610,C4M82_RS02610,C4M82_02660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134603,C4M82_RS02615,C4M82_RS02615,C4M82_02665,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200829,-
+48003,57134604,C4M82_RS02620,C4M82_RS02620,C4M82_02670,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200829,-
+48003,57134605,dnaG,C4M82_RS02625,C4M82_02675,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200829,-
+48003,57134606,C4M82_RS02630,C4M82_RS02630,C4M82_02680,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201217,-
+48003,57134607,C4M82_RS02635,C4M82_RS02635,C4M82_02685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134608,C4M82_RS02640,C4M82_RS02640,C4M82_02690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134609,topA,C4M82_RS02645,C4M82_02695,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200829,-
+48003,57134610,C4M82_RS02650,C4M82_RS02650,C4M82_02700,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200829,-
+48003,57134611,dhaK,C4M82_RS02655,C4M82_02705,-,-,-,dihydroxyacetone kinase subunit DhaK,protein-coding,-,-,-,dihydroxyacetone kinase subunit DhaK,20200829,-
+48003,57134612,dhaL,C4M82_RS02660,C4M82_02710,-,-,-,dihydroxyacetone kinase subunit L,protein-coding,-,-,-,dihydroxyacetone kinase subunit L,20200919,-
+48003,57134613,C4M82_RS02665,C4M82_RS02665,C4M82_02715,-,-,-,diguanylate cyclase,protein-coding,-,-,-,diguanylate cyclase,20200829,-
+48003,57134614,C4M82_RS02670,C4M82_RS02670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134615,rpsI,C4M82_RS02675,C4M82_02725,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201217,-
+48003,57134616,rplM,C4M82_RS02680,C4M82_02730,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200829,-
+48003,57134617,C4M82_RS02685,C4M82_RS02685,C4M82_02735,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200829,-
+48003,57134618,C4M82_RS02690,C4M82_RS02690,C4M82_02740,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200829,-
+48003,57134619,rplL,C4M82_RS02695,C4M82_02745,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201217,-
+48003,57134620,C4M82_RS02700,C4M82_RS02700,C4M82_02750,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201217,-
+48003,57134621,C4M82_RS02705,C4M82_RS02705,C4M82_02755,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200829,-
+48003,57134622,greA,C4M82_RS02710,C4M82_02760,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201217,-
+48003,57134623,C4M82_RS02715,C4M82_RS02715,C4M82_02765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134624,ruvX,C4M82_RS02720,C4M82_02770,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20201217,-
+48003,57134625,alaS,C4M82_RS02725,C4M82_02775,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200829,-
+48003,57134626,mnmA,C4M82_RS02730,C4M82_02780,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200829,-
+48003,57134627,C4M82_RS02735,C4M82_RS02735,C4M82_02785,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200829,-
+48003,57134628,C4M82_RS02740,C4M82_RS02740,C4M82_02790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134629,C4M82_RS02745,C4M82_RS02745,C4M82_02795,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20200829,-
+48003,57134630,C4M82_RS02750,C4M82_RS02750,C4M82_02800,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20200829,-
+48003,57134631,C4M82_RS02755,C4M82_RS02755,C4M82_02805,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20200829,-
+48003,57134632,C4M82_RS02760,C4M82_RS02760,C4M82_02810,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200829,-
+48003,57134633,C4M82_RS02765,C4M82_RS02765,C4M82_02815,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20200829,-
+48003,57134634,C4M82_RS02770,C4M82_RS02770,C4M82_02825,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20200829,-
+48003,57134635,C4M82_RS02775,C4M82_RS02775,C4M82_02830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134636,aspS,C4M82_RS02780,C4M82_02835,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200829,-
+48003,57134637,C4M82_RS02785,C4M82_RS02785,C4M82_02840,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200829,-
+48003,57134638,obgE,C4M82_RS02790,C4M82_02845,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200829,-
+48003,57134639,C4M82_RS02795,C4M82_RS02795,C4M82_02850,-,-,-,transposase,protein-coding,-,-,-,transposase,20200829,-
+48003,57134640,C4M82_RS02800,C4M82_RS02800,C4M82_02855,-,-,-,LlaJI family restriction endonuclease,protein-coding,-,-,-,LlaJI family restriction endonuclease,20200829,-
+48003,57134641,C4M82_RS02805,C4M82_RS02805,C4M82_02860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134642,dnaE,C4M82_RS02810,C4M82_02865,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200829,-
+48003,57134643,C4M82_RS02815,C4M82_RS02815,C4M82_02870,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200829,-
+48003,57134644,C4M82_RS02820,C4M82_RS02820,C4M82_02875,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200829,-
+48003,57134645,C4M82_RS02825,C4M82_RS02825,C4M82_02880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134646,C4M82_RS02830,C4M82_RS02830,C4M82_02885,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200829,-
+48003,57134647,C4M82_RS02835,C4M82_RS02835,C4M82_02890,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200829,-
+48003,57134648,C4M82_RS02840,C4M82_RS02840,C4M82_02895,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20200829,-
+48003,57134649,C4M82_RS02845,C4M82_RS02845,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134650,C4M82_RS02850,C4M82_RS02850,C4M82_02900,-,-,-,HsdR family type I site-specific deoxyribonuclease,protein-coding,-,-,-,HsdR family type I site-specific deoxyribonuclease,20200829,-
+48003,57134651,C4M82_RS02855,C4M82_RS02855,C4M82_02905,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200829,-
+48003,57134652,C4M82_RS02860,C4M82_RS02860,C4M82_02910,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20200829,-
+48003,57134653,C4M82_RS02865,C4M82_RS02865,C4M82_02915,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20200829,-
+48003,57134654,ssrA,C4M82_RS02870,C4M82_02920,-,-,-,-,miscRNA,-,-,-,-,20200802,-
+48003,57134655,smpB,C4M82_RS02875,C4M82_02925,-,-,-,SsrA-binding protein,protein-coding,-,-,-,SsrA-binding protein,20201217,-
+48003,57134656,C4M82_RS02880,C4M82_RS02880,C4M82_02930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134657,C4M82_RS02885,C4M82_RS02885,C4M82_02935,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200829,-
+48003,57134658,C4M82_RS02890,C4M82_RS02890,C4M82_02940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134659,C4M82_RS02895,C4M82_RS02895,C4M82_02945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134660,C4M82_RS02900,C4M82_RS02900,C4M82_02950,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134661,C4M82_RS02905,C4M82_RS02905,C4M82_02955,-,-,-,aquaporin,protein-coding,-,-,-,aquaporin,20200829,-
+48003,57134662,C4M82_RS02910,C4M82_RS02910,C4M82_02960,-,-,-,2-hydroxyacid dehydrogenase,protein-coding,-,-,-,2-hydroxyacid dehydrogenase,20201217,-
+48003,57134663,adhP,C4M82_RS02915,C4M82_02965,-,-,-,alcohol dehydrogenase AdhP,protein-coding,-,-,-,alcohol dehydrogenase AdhP,20200829,-
+48003,57134664,C4M82_RS02920,C4M82_RS02920,C4M82_02970,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20200829,-
+48003,57134665,rpmA,C4M82_RS02925,C4M82_02975,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20201217,-
+48003,57134666,rplU,C4M82_RS02930,C4M82_02980,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201217,-
+48003,57134667,C4M82_RS02935,C4M82_RS02935,C4M82_02985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134668,prmC,C4M82_RS02940,C4M82_02990,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200829,-
+48003,57134669,prfA,C4M82_RS02945,C4M82_02995,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200829,-
+48003,57134670,C4M82_RS02950,C4M82_RS02950,C4M82_03000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134671,C4M82_RS02955,C4M82_RS02955,C4M82_03005,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210522,-
+48003,57134672,C4M82_RS02960,C4M82_RS02960,C4M82_03010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134673,C4M82_RS02965,C4M82_RS02965,C4M82_03015,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200829,-
+48003,57134674,C4M82_RS02970,C4M82_RS02970,C4M82_03020,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20201217,-
+48003,57134675,rplK,C4M82_RS02975,C4M82_03025,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200829,-
+48003,57134676,C4M82_RS02980,C4M82_RS02980,C4M82_03030,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200829,-
+48003,57134677,C4M82_RS02985,C4M82_RS02985,C4M82_03035,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200829,-
+48003,57134678,C4M82_RS02990,C4M82_RS02990,C4M82_03040,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200829,-
+48003,57134679,C4M82_RS02995,C4M82_RS02995,C4M82_03045,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20200829,-
+48003,57134680,C4M82_RS03000,C4M82_RS03000,C4M82_03050,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20201217,-
+48003,57134681,C4M82_RS03005,C4M82_RS03005,C4M82_03055,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20200829,-
+48003,57134682,C4M82_RS03010,C4M82_RS03010,C4M82_03060,-,-,-,Smr/MutS family protein,protein-coding,-,-,-,Smr/MutS family protein,20200829,-
+48003,57134683,C4M82_RS03015,C4M82_RS03015,C4M82_03065,-,-,-,isochorismatase family protein,protein-coding,-,-,-,isochorismatase family protein,20200829,-
+48003,57134684,mutM,C4M82_RS03020,C4M82_03070,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20200829,-
+48003,57134685,C4M82_RS03025,C4M82_RS03025,C4M82_03075,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20200829,-
+48003,57134686,C4M82_RS03030,C4M82_RS03030,C4M82_03080,-,-,-,PLDc N-terminal domain-containing protein,protein-coding,-,-,-,PLDc N-terminal domain-containing protein,20200829,-
+48003,57134687,C4M82_RS03035,C4M82_RS03035,C4M82_03085,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134688,C4M82_RS03040,C4M82_RS03040,C4M82_03090,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200829,-
+48003,57134689,C4M82_RS03045,C4M82_RS03045,C4M82_03100,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134690,C4M82_RS03050,C4M82_RS03050,C4M82_03105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134691,C4M82_RS03055,C4M82_RS03055,C4M82_03110,-,-,-,sugar isomerase,protein-coding,-,-,-,sugar isomerase,20200829,-
+48003,57134692,C4M82_RS03060,C4M82_RS03060,C4M82_03115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134693,C4M82_RS03065,C4M82_RS03065,C4M82_03120,-,-,-,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,protein-coding,-,-,-,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,20200829,-
+48003,57134694,kduD,C4M82_RS03070,C4M82_03125,-,-,-,2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD,protein-coding,-,-,-,2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD,20201217,-
+48003,57134695,yajC,C4M82_RS03075,C4M82_03130,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200829,-
+48003,57134696,C4M82_RS03080,C4M82_RS03080,C4M82_03135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134697,C4M82_RS03085,C4M82_RS03085,C4M82_03140,-,-,-,PTS system mannose/fructose/sorbose family transporter subunit IID,protein-coding,-,-,-,PTS system mannose/fructose/sorbose family transporter subunit IID,20200829,-
+48003,57134698,C4M82_RS03090,C4M82_RS03090,C4M82_03145,-,-,-,PTS sugar transporter subunit IIC,protein-coding,-,-,-,PTS sugar transporter subunit IIC,20200829,-
+48003,57134699,C4M82_RS03095,C4M82_RS03095,C4M82_03150,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20201217,-
+48003,57134700,C4M82_RS03100,C4M82_RS03100,C4M82_03155,-,-,-,glycoside hydrolase family 88 protein,protein-coding,-,-,-,glycoside hydrolase family 88 protein,20200829,-
+48003,57134701,kduI,C4M82_RS03105,C4M82_03160,-,-,-,5-dehydro-4-deoxy-D-glucuronate isomerase,protein-coding,-,-,-,5-dehydro-4-deoxy-D-glucuronate isomerase,20200829,-
+48003,57134702,C4M82_RS03110,C4M82_RS03110,C4M82_03165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134703,C4M82_RS03115,C4M82_RS03115,C4M82_03170,-,-,-,SIS domain-containing protein,protein-coding,-,-,-,SIS domain-containing protein,20210522,-
+48003,57134704,lysS,C4M82_RS03120,C4M82_03175,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200829,-
+48003,57134705,C4M82_RS03125,C4M82_RS03125,C4M82_03180,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201217,-
+48003,57134706,C4M82_RS03130,C4M82_RS03130,C4M82_03185,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20200829,-
+48003,57134707,C4M82_RS03135,C4M82_RS03135,C4M82_03190,-,-,-,flippase-like domain-containing protein,protein-coding,-,-,-,flippase-like domain-containing protein,20200829,-
+48003,57134708,C4M82_RS03140,C4M82_RS03140,C4M82_03195,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200829,-
+48003,57134709,C4M82_RS03145,C4M82_RS03145,C4M82_03200,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20201217,-
+48003,57134710,C4M82_RS03150,C4M82_RS03150,C4M82_03205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134711,rrf,C4M82_RS03155,C4M82_03210,-,-,-,-,rRNA,-,-,-,-,20200802,-
+48003,57134712,C4M82_RS03160,C4M82_RS03160,C4M82_03215,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201217,-
+48003,57134713,C4M82_RS03165,C4M82_RS03165,C4M82_03220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134714,C4M82_RS03170,C4M82_RS03170,C4M82_03225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134715,C4M82_RS03175,C4M82_RS03175,C4M82_03230,-,-,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20200829,-
+48003,57134716,C4M82_RS03180,C4M82_RS03180,C4M82_03235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134717,C4M82_RS03185,C4M82_RS03185,C4M82_03240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134718,C4M82_RS03190,C4M82_RS03190,C4M82_03245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134719,rrf,C4M82_RS03195,C4M82_03250,-,-,-,-,rRNA,-,-,-,-,20200802,-
+48003,57134720,C4M82_RS03200,C4M82_RS03200,C4M82_03255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134721,C4M82_RS03205,C4M82_RS03205,C4M82_03260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134722,C4M82_RS03210,C4M82_RS03210,C4M82_03265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134723,C4M82_RS03215,C4M82_RS03215,C4M82_03270,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20200829,-
+48003,57134724,C4M82_RS03220,C4M82_RS03220,C4M82_03275,-,-,-,DNA topoisomerase 4 subunit A,protein-coding,-,-,-,DNA topoisomerase 4 subunit A,20200829,-
+48003,57134725,C4M82_RS03225,C4M82_RS03225,C4M82_03280,-,-,-,type III restriction endonuclease subunit M,protein-coding,-,-,-,type III restriction endonuclease subunit M,20200802,-
+48003,57134726,C4M82_RS03235,C4M82_RS03235,C4M82_03285,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20200829,-
+48003,57134727,C4M82_RS03240,C4M82_RS03240,C4M82_03290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+48003,57134728,C4M82_RS03245,C4M82_RS03245,C4M82_03295,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20200829,-
+48003,57134729,C4M82_RS03250,C4M82_RS03250,C4M82_03300,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134730,C4M82_RS03255,C4M82_RS03255,C4M82_03305,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20200829,-
+48003,57134731,C4M82_RS03260,C4M82_RS03260,C4M82_03310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134732,C4M82_RS03265,C4M82_RS03265,C4M82_03315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134733,C4M82_RS03270,C4M82_RS03270,C4M82_03320,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+48003,57134734,C4M82_RS03275,C4M82_RS03275,C4M82_03325,-,-,-,PhnD/SsuA/transferrin family substrate-binding protein,protein-coding,-,-,-,PhnD/SsuA/transferrin family substrate-binding protein,20200829,-
+48003,57134735,C4M82_RS03280,C4M82_RS03280,C4M82_03330,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20201217,-
+48003,57134736,frr,C4M82_RS03285,C4M82_03335,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200829,-
+48003,57134737,C4M82_RS03290,C4M82_RS03290,C4M82_03340,-,-,-,ribosome assembly cofactor RimP,protein-coding,-,-,-,ribosome assembly cofactor RimP,20200829,-
+48003,57134738,C4M82_RS03295,C4M82_RS03295,C4M82_03345,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200829,-
+48003,57134739,C4M82_RS03300,C4M82_RS03300,C4M82_03350,-,-,-,DUF448 domain-containing protein,protein-coding,-,-,-,DUF448 domain-containing protein,20200829,-
+48003,57134740,C4M82_RS03305,C4M82_RS03305,C4M82_03355,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200829,-
+48003,57134741,C4M82_RS03310,C4M82_RS03310,C4M82_03360,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200829,-
+48003,57134742,eno,C4M82_RS03315,C4M82_03365,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200829,-
+48003,57134743,C4M82_RS03320,C4M82_RS03320,C4M82_03370,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134744,C4M82_RS03325,C4M82_RS03325,C4M82_03375,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134745,C4M82_RS03330,C4M82_RS03330,C4M82_03380,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134746,C4M82_RS03335,C4M82_RS03335,C4M82_03385,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134747,C4M82_RS03340,C4M82_RS03340,C4M82_03390,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134748,C4M82_RS03345,C4M82_RS03345,C4M82_03395,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134749,C4M82_RS03350,C4M82_RS03350,C4M82_03400,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134750,C4M82_RS03355,C4M82_RS03355,C4M82_03405,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134751,C4M82_RS03360,C4M82_RS03360,C4M82_03410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134752,ileS,C4M82_RS03365,C4M82_03415,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200829,-
+48003,57134753,C4M82_RS03370,C4M82_RS03370,C4M82_03420,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210522,-
+48003,57134754,C4M82_RS03375,C4M82_RS03375,C4M82_03425,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20200829,-
+48003,57134755,C4M82_RS03380,C4M82_RS03380,C4M82_03430,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134756,C4M82_RS03385,C4M82_RS03385,C4M82_03435,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200829,-
+48003,57134757,C4M82_RS03390,C4M82_RS03390,C4M82_03440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134758,C4M82_RS03395,C4M82_RS03395,C4M82_03445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134759,C4M82_RS03400,C4M82_RS03400,C4M82_03450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134760,pyk,C4M82_RS03405,C4M82_03455,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200829,-
+48003,57134761,nusG,C4M82_RS03410,C4M82_03460,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200829,-
+48003,57134762,secE,C4M82_RS03415,C4M82_03465,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210424,-
+48003,57134763,rpmG,C4M82_RS03420,C4M82_03470,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201010,-
+48003,57134764,C4M82_RS03425,C4M82_RS03425,C4M82_03475,-,-,-,antibiotic biosynthesis monooxygenase,protein-coding,-,-,-,antibiotic biosynthesis monooxygenase,20200805,-
+48003,57134765,C4M82_RS03430,C4M82_RS03430,C4M82_03480,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200829,-
+48003,57134766,C4M82_RS03435,C4M82_RS03435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134767,C4M82_RS03440,C4M82_RS03440,C4M82_03490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134768,C4M82_RS03445,C4M82_RS03445,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134769,C4M82_RS03450,C4M82_RS03450,C4M82_03505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134770,C4M82_RS03455,C4M82_RS03455,C4M82_03510,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200829,-
+48003,57134771,C4M82_RS03465,C4M82_RS03465,C4M82_03520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134772,C4M82_RS03470,C4M82_RS03470,C4M82_03525,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134773,C4M82_RS03475,C4M82_RS03475,C4M82_03530,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200829,-
+48003,57134774,C4M82_RS03480,C4M82_RS03480,C4M82_03535,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20200829,-
+48003,57134775,C4M82_RS03485,C4M82_RS03485,C4M82_03540,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200829,-
+48003,57134776,C4M82_RS03490,C4M82_RS03490,C4M82_03545,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200829,-
+48003,57134777,C4M82_RS03495,C4M82_RS03495,C4M82_03550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134778,C4M82_RS03500,C4M82_RS03500,C4M82_03560,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134779,C4M82_RS03505,C4M82_RS03505,C4M82_03565,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20200829,-
+48003,57134780,C4M82_RS03510,C4M82_RS03510,C4M82_03570,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200829,-
+48003,57134781,C4M82_RS03515,C4M82_RS03515,C4M82_03575,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210522,-
+48003,57134782,C4M82_RS03520,C4M82_RS03520,C4M82_03580,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20200829,-
+48003,57134783,C4M82_RS03525,C4M82_RS03525,C4M82_03585,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,DNA gyrase subunit B,20200829,-
+48003,57134784,C4M82_RS03530,C4M82_RS03530,C4M82_03590,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200829,-
+48003,57134785,C4M82_RS03535,C4M82_RS03535,C4M82_03595,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200829,-
+48003,57134786,C4M82_RS03540,C4M82_RS03540,C4M82_03600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134787,C4M82_RS03545,C4M82_RS03545,C4M82_03605,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20200829,-
+48003,57134788,C4M82_RS03550,C4M82_RS03550,C4M82_03615,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134789,pip,C4M82_RS03555,C4M82_03620,-,-,-,prolyl aminopeptidase,protein-coding,-,-,-,prolyl aminopeptidase,20200829,-
+48003,57134790,C4M82_RS03560,C4M82_RS03560,C4M82_03625,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134791,mnmE,C4M82_RS03565,C4M82_03630,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200829,-
+48003,57134792,C4M82_RS03570,C4M82_RS03570,C4M82_03635,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20200829,-
+48003,57134793,coaBC,C4M82_RS03575,C4M82_03640,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20200829,-
+48003,57134794,C4M82_RS03580,C4M82_RS03580,C4M82_03645,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200802,-
+48003,57134795,C4M82_RS03585,C4M82_RS03585,C4M82_03650,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134796,ychF,C4M82_RS03590,C4M82_03655,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200829,-
+48003,57134797,C4M82_RS03595,C4M82_RS03595,C4M82_03660,-,-,-,-,tRNA,-,-,-,-,20200802,-
+48003,57134798,C4M82_RS03635,C4M82_RS03635,C4M82_03670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134799,C4M82_RS03640,C4M82_RS03640,-,-,-,-,type III restriction endonuclease subunit M,protein-coding,-,-,-,type III restriction endonuclease subunit M,20200802,-
+48003,57134800,C4M82_RS03650,C4M82_RS03650,C4M82_03680,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20200829,-
+48003,57134801,C4M82_RS03655,C4M82_RS03655,C4M82_03685,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20210522,-
+48003,57134802,C4M82_RS03660,C4M82_RS03660,C4M82_03695,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201217,-
+48003,57134803,C4M82_RS03665,C4M82_RS03665,C4M82_03700,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20210522,-
+48003,57134804,C4M82_RS03670,C4M82_RS03670,C4M82_03705,-,-,-,-,rRNA,-,-,-,-,20200802,-
+48003,57134805,C4M82_RS03675,C4M82_RS03675,C4M82_03710,-,-,-,-,rRNA,-,-,-,-,20200802,-
+48003,57134806,C4M82_RS03680,C4M82_RS03680,C4M82_03715,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134807,C4M82_RS03685,C4M82_RS03685,C4M82_03720,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134808,C4M82_RS03690,C4M82_RS03690,C4M82_03725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134809,C4M82_RS03695,C4M82_RS03695,C4M82_03730,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200829,-
+48003,57134810,C4M82_RS03700,C4M82_RS03700,C4M82_03735,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210522,-
+48003,57134811,C4M82_RS03705,C4M82_RS03705,C4M82_03740,-,-,-,N-acetylmuramic acid 6-phosphate etherase,protein-coding,-,-,-,N-acetylmuramic acid 6-phosphate etherase,20200829,-
+48003,57134812,C4M82_RS03710,C4M82_RS03710,C4M82_03745,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134813,C4M82_RS03715,C4M82_RS03715,C4M82_03750,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134814,C4M82_RS03720,C4M82_RS03720,C4M82_03755,-,-,-,family 1 glycosylhydrolase,protein-coding,-,-,-,family 1 glycosylhydrolase,20200829,-
+48003,57134815,C4M82_RS03725,C4M82_RS03725,C4M82_03760,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20200829,-
+48003,57134816,hpt,C4M82_RS03730,C4M82_03765,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200829,-
+48003,57134817,C4M82_RS03735,C4M82_RS03735,C4M82_03770,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20200829,-
+48003,57134818,C4M82_RS03740,C4M82_RS03740,C4M82_03775,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134819,C4M82_RS03750,C4M82_RS03750,C4M82_03785,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210417,-
+48003,57134820,C4M82_RS03755,C4M82_RS03755,C4M82_03795,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134821,C4M82_RS03760,C4M82_RS03760,C4M82_03800,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134822,C4M82_RS03765,C4M82_RS03765,C4M82_03810,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134823,C4M82_RS03770,C4M82_RS03770,C4M82_03815,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200829,-
+48003,57134824,C4M82_RS03775,C4M82_RS03775,C4M82_03825,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134825,C4M82_RS03780,C4M82_RS03780,C4M82_03855,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200802,-
+48003,57134826,C4M82_RS03785,C4M82_RS03785,C4M82_03860,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200802,-
+48003,57134827,C4M82_RS03790,C4M82_RS03790,C4M82_03865,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200829,-
+48003,57134828,C4M82_RS03795,C4M82_RS03795,C4M82_03900,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200802,-
+48003,57134829,C4M82_RS03800,C4M82_RS03800,C4M82_03910,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20210522,-
+48003,57134830,C4M82_RS03805,C4M82_RS03805,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134831,secA,C4M82_RS03810,C4M82_00720,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134832,C4M82_RS03815,C4M82_RS03815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134833,C4M82_RS03820,C4M82_RS03820,C4M82_01050,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134834,C4M82_RS03825,C4M82_RS03825,C4M82_01265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134835,C4M82_RS03830,C4M82_RS03830,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134836,C4M82_RS03835,C4M82_RS03835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134837,C4M82_RS03840,C4M82_RS03840,C4M82_01810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134838,C4M82_RS03845,C4M82_RS03845,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+48003,57134839,C4M82_RS03850,C4M82_RS03850,-,-,-,-,YhcH/YjgK/YiaL family protein,protein-coding,-,-,-,YhcH/YjgK/YiaL family protein,20210522,-
+48003,57134840,C4M82_RS03855,C4M82_RS03855,C4M82_03095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+48003,57134841,C4M82_RS03860,C4M82_RS03860,C4M82_03555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134842,C4M82_RS03865,C4M82_RS03865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134843,C4M82_RS03870,C4M82_RS03870,C4M82_03610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134844,C4M82_RS03875,C4M82_RS03875,C4M82_03665,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20210522,-
+48003,57134845,C4M82_RS03880,C4M82_RS03880,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134846,C4M82_RS03885,C4M82_RS03885,C4M82_03790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134847,C4M82_RS03890,C4M82_RS03890,C4M82_03805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+48003,57134848,C4M82_RS03895,C4M82_RS03895,C4M82_03820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134849,C4M82_RS03900,C4M82_RS03900,C4M82_03830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134850,C4M82_RS03905,C4M82_RS03905,C4M82_03835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134851,C4M82_RS03910,C4M82_RS03910,C4M82_03840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+48003,57134852,C4M82_RS03915,C4M82_RS03915,C4M82_03845,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200829,-
+48003,57134853,C4M82_RS03920,C4M82_RS03920,C4M82_03850,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200802,-
+48003,57134854,C4M82_RS03925,C4M82_RS03925,C4M82_03870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134855,C4M82_RS03930,C4M82_RS03930,C4M82_03875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134856,C4M82_RS03935,C4M82_RS03935,C4M82_03880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134857,C4M82_RS03940,C4M82_RS03940,C4M82_03885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134858,C4M82_RS03945,C4M82_RS03945,C4M82_03890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+48003,57134859,C4M82_RS03950,C4M82_RS03950,C4M82_03895,-,-,-,-,pseudo,-,-,-,-,20200802,-
+48003,57134860,C4M82_RS03955,C4M82_RS03955,C4M82_03905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+48003,57134861,C4M82_RS03960,C4M82_RS03960,-,-,-,-,-,pseudo,-,-,-,-,20200802,-

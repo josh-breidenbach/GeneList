@@ -1,0 +1,810 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+55529,856943,trnY(gua),GuthCt154,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856944,rpl19,GuthCp001,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,ribosomal protein L19,20210607,-
+55529,856945,clpC,GuthCp002,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,Clp protease ATP binding subunit,20210607,-
+55529,856946,trnF(gaa),GuthCt155,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856947,dnaB,GuthCp003,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,replication helicase subunit,20210607,-
+55529,856948,trnW(cca),GuthCt156,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856949,rpl11,GuthCp004,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,ribosomal protein L11,20210607,-
+55529,856950,rpl1,GuthCp005,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,ribosomal protein L1,20210607,-
+55529,856951,rpl12,GuthCp006,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20210607,-
+55529,856952,petD,GuthCp007,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20210607,-
+55529,856953,petB,GuthCp008,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20210607,-
+55529,856954,ycf29,GuthCp009,-,-,-,-,tctD homolog,protein-coding,-,-,-,tctD homolog,20210607,-
+55529,856955,trnH(gug),GuthCt157,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856956,psbW,GuthCp010,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,photosystem II protein W,20210607,-
+55529,856957,trnQ(uug),GuthCt158,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856958,trnR(acg),GuthCt159,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856959,groEL,GuthCp011,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210607,-
+55529,856960,rps16,GuthCp015,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210607,-
+55529,856961,ycf19,GuthCp016,-,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20210607,-
+55529,856962,ycf17,GuthCp017,-,-,-,-,hypothetical chloroplast RF17,protein-coding,-,-,-,hypothetical chloroplast RF17,20210607,-
+55529,856963,psbC,GuthCp018,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,photosystem II 44 kDa protein,20210607,-
+55529,856964,psbD,GuthCp019,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20210607,-
+55529,856965,orf27,GuthCp020,-,-,-,-,Ycf27,protein-coding,-,-,-,Ycf27,20210607,-
+55529,856966,rns_1,GuthCr148,-,-,-,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856967,trnI(gau)_1,GuthCt160,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856968,trnA(ugc)_1,GuthCt161,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856969,rnl_1,GuthCr149,-,-,-,-,23S large subunit ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856970,rrn5_1,GuthCr150,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856971,rpl21,GuthCp021,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20210607,-
+55529,856972,rpl27,GuthCp022,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,ribosomal protein L27,20210607,-
+55529,856973,rbcR,GuthCp024,-,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,LysR transcriptional regulator,20210607,-
+55529,856974,psbY,GuthCp025,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,photosystem II protein Y,20210607,-
+55529,856975,rpl32,GuthCp026,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210607,-
+55529,856976,minE,GuthCp027,-,-,-,-,septum site-determining protein,protein-coding,-,-,-,septum site-determining protein,20210607,-
+55529,856977,minD,GuthCp028,-,-,-,-,septum-site determining protein,protein-coding,-,-,-,septum-site determining protein,20210607,-
+55529,856978,ccs1,GuthCp029,-,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,c-type cytochrome biogenensis protein,20210607,-
+55529,856979,trnN(guu),GuthCt162,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856980,trnL(uag),GuthCt163,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856981,ycf35,GuthCp030,-,-,-,-,Ycf35,protein-coding,-,-,-,Ycf35,20210607,-
+55529,856982,ycf46,GuthCp031,-,-,-,-,Ycf46,protein-coding,-,-,-,Ycf46,20210607,-
+55529,856983,rpl34,GuthCp032,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,ribosomal protein L34,20210607,-
+55529,856984,secA,GuthCp033,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210607,-
+55529,856985,psaC,GuthCp035,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20210607,-
+55529,856986,psaK,GuthCp036,-,-,-,-,photosystem I subunit X,protein-coding,-,-,-,photosystem I subunit X,20210607,-
+55529,856987,ccsA,GuthCp037,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20210607,-
+55529,856988,cpeB,GuthCp038,-,-,-,-,phycoerythrin beta subunit,protein-coding,-,-,-,phycoerythrin beta subunit,20210607,-
+55529,856989,ycf20,GuthCp039,-,-,-,-,hypothetical chloroplast RF20,protein-coding,-,-,-,hypothetical chloroplast RF20,20210607,-
+55529,856990,psbA,GuthCp040,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20210607,-
+55529,856991,rps6,GuthCp041,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,ribosomal protein S6,20210607,-
+55529,856992,rrn5_2,GuthCr151,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856993,rnl_2,GuthCr152,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856994,trnA(ugc)_2,GuthCt164,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856995,trnI(gau)_2,GuthCt165,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,856996,rns_2,GuthCr153,-,-,-,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,856997,psaM,GuthCp042,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,photosystem I subunit XII,20210607,-
+55529,856998,chlI,GuthCp043,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,Mg-protoporyphyrin IX chelatase,20210607,-
+55529,856999,trnR(ucu),GuthCt166,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857000,trnV(uac),GuthCt167,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857001,trnT(ugu),GuthCt168,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857002,rps4,GuthCp044,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210607,-
+55529,857003,rbcL,GuthCp046,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210607,-
+55529,857004,rbcS,GuthCp047,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20210607,-
+55529,857005,cbbX,GuthCp048,-,-,-,-,CbbX,protein-coding,-,-,-,CbbX,20210607,-
+55529,857006,trnC(gca),GuthCt169,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857007,trnL(uaa),GuthCt170,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857008,ilvH,GuthCp049,-,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,acetohydroxyacid synthase small subunit,20210607,-
+55529,857009,trnM(cau)_1,GuthCt171,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857010,trnR(ccg),GuthCt172,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857011,rne,GuthCp051,-,-,-,-,ribonuclease E,protein-coding,-,-,-,ribonuclease E,20210607,-
+55529,857012,psbV,GuthCp052,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,photosystem II cytochrome c550,20210607,-
+55529,857013,psbX,GuthCp053,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,photosystem II protein X,20210607,-
+55529,857014,psaJ,GuthCp054,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20210607,-
+55529,857015,psaF,GuthCp055,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,photosystem I subunit III,20210607,-
+55529,857016,trnP(ugg),GuthCt173,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857017,ycf37,GuthCp056,-,-,-,-,hypothetical chloroplast RF37,protein-coding,-,-,-,hypothetical chloroplast RF37,20210607,-
+55529,857018,trnE(uuc),GuthCt174,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857019,trnK(uuu),GuthCt175,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857020,ycf12,GuthCp058,-,-,-,-,Ycf12,protein-coding,-,-,-,Ycf12,20210607,-
+55529,857021,ftrB,GuthCp059,-,-,-,-,ferredoxin thioreductase subunit beta,protein-coding,-,-,-,ferredoxin thioreductase subunit beta,20210607,-
+55529,857022,psaI,GuthCp060,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20210607,-
+55529,857023,psbJ,GuthCp061,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20210607,-
+55529,857024,psbL,GuthCp062,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20210607,-
+55529,857025,psbF,GuthCp063,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,photosystem II protein VI,20210607,-
+55529,857026,psbE,GuthCp064,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,photosystem II protein V,20210607,-
+55529,857027,trnG(ucc),GuthCt176,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857028,ycf4,GuthCp065,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20210607,-
+55529,857029,petL,GuthCp066,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20210607,-
+55529,857030,psaL,GuthCp067,-,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,photosystem I subunit XI,20210607,-
+55529,857031,cemA,GuthCp068,ycf10,-,-,-,envelope membrane protein,protein-coding,-,-,-,envelope membrane protein,20210607,-
+55529,857032,psbI,GuthCp069,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20210607,-
+55529,857033,ycf39,GuthCp070,-,-,-,-,Ycf39,protein-coding,-,-,-,Ycf39,20210607,-
+55529,857034,trnL(caa),GuthCt177,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857035,ycf24,GuthCp071,-,-,-,-,putative ABC transporter,protein-coding,-,-,-,putative ABC transporter,20210607,-
+55529,857036,ycf16,GuthCp072,-,-,-,-,sulfate ABC transporter protein,protein-coding,-,-,-,sulfate ABC transporter protein,20210607,-
+55529,857037,atpA,GuthCp073,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20210607,-
+55529,857038,atpD,GuthCp074,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,ATP synthase CF1 delta subunit,20210607,-
+55529,857039,atpF,GuthCp075,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,ATP synthase CF0 B subunit,20210607,-
+55529,857040,atpG,GuthCp076,-,-,-,-,ATP synthase CF0 B' subunit,protein-coding,-,-,-,ATP synthase CF0 B' subunit,20210607,-
+55529,857041,atpH,GuthCp077,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,ATP synthase CF0 C subunit,20210607,-
+55529,857042,atpI,GuthCp078,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,ATP synthase CF0 A subunit,20210607,-
+55529,857043,tsf,GuthCp079,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210607,-
+55529,857044,rps2,GuthCp080,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210607,-
+55529,857045,rpoC2,GuthCp081,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210607,-
+55529,857046,rpoC1,GuthCp082,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210607,-
+55529,857047,rpoB,GuthCp083,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210607,-
+55529,857048,rps20,GuthCp084,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,ribosomal protein S20,20210607,-
+55529,857049,rpl33,GuthCp085,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210607,-
+55529,857050,rps18,GuthCp086,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210607,-
+55529,857051,infB,GuthCp087,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,translation initiation factor 2,20210607,-
+55529,857052,ycf3,GuthCp088,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20210607,-
+55529,857053,atpB,GuthCp089,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20210607,-
+55529,857054,atpE,GuthCp090,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20210607,-
+55529,857055,tatC,GuthCp091,-,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,Sec-independent translocase component C,20210607,-
+55529,857056,petA,GuthCp092,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210607,-
+55529,857057,rpl20,GuthCp093,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210607,-
+55529,857058,rpl35,GuthCp094,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,ribosomal protein L35,20210607,-
+55529,857059,pbsA,GuthCp095,-,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20210607,-
+55529,857060,petN,GuthCp096,ycf6,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20210607,-
+55529,857061,ycf31,GuthCp097,-,-,-,-,hypothetical chloroplast RF31,protein-coding,-,-,-,hypothetical chloroplast RF31,20210607,-
+55529,857062,ycf47,GuthCp098,-,-,-,-,hypothetical chloroplast RF47,protein-coding,-,-,-,hypothetical chloroplast RF47,20210607,-
+55529,857063,ycf36,GuthCp099,-,-,-,-,hypothetical chloroplast RF36,protein-coding,-,-,-,hypothetical chloroplast RF36,20210607,-
+55529,857064,trnM(cau)_2,GuthCt178,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857065,psaD,GuthCp100,-,-,-,-,photosystem I subunit II,protein-coding,-,-,-,photosystem I subunit II,20210607,-
+55529,857066,trnS(uga),GuthCt179,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857067,trnG(gcc),GuthCt180,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857068,psbZ,GuthCp101,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20210607,-
+55529,857069,psbK,GuthCp102,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20210607,-
+55529,857070,petG,GuthCp103,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210607,-
+55529,857071,rps14,GuthCp104,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210607,-
+55529,857072,psaB,GuthCp105,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20210607,-
+55529,857073,psaA,GuthCp106,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20210607,-
+55529,857074,acpP,GuthCp107,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210607,-
+55529,857075,hlp,GuthCp108,-,-,-,-,DNA-binding protein hu homolog,protein-coding,-,-,-,DNA-binding protein hu homolog,20210607,-
+55529,857076,dnaK,GuthCp109,-,-,-,-,heat shock protein 70,protein-coding,-,-,-,heat shock protein 70,20210607,-
+55529,857077,rpl3,GuthCp110,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,ribosomal protein L3,20210607,-
+55529,857078,rpl4,GuthCp111,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,ribosomal protein L4,20210607,-
+55529,857079,rpl23,GuthCp112,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210607,-
+55529,857080,rpl2,GuthCp113,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210607,-
+55529,857081,rps19,GuthCp114,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210607,-
+55529,857082,rpl22,GuthCp115,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210607,-
+55529,857083,rps3,GuthCp116,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210607,-
+55529,857084,rpl16,GuthCp117,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210607,-
+55529,857085,rpl29,GuthCp118,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,ribosomal protein L29,20210607,-
+55529,857086,rps17,GuthCp119,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,ribosomal protein S17,20210607,-
+55529,857087,rpl14,GuthCp120,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210607,-
+55529,857088,rpl24,GuthCp121,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,ribosomal protein L24,20210607,-
+55529,857089,rpl5,GuthCp122,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210607,-
+55529,857090,rps8,GuthCp123,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210607,-
+55529,857091,rpl6,GuthCp124,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210607,-
+55529,857092,rpl18,GuthCp125,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,ribosomal protein L18,20210607,-
+55529,857093,rps5,GuthCp126,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,ribosomal protein S5,20210607,-
+55529,857094,secY,GuthCp127,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210607,-
+55529,857095,rpl36,GuthCp128,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20210607,-
+55529,857096,rps13,GuthCp129,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210607,-
+55529,857097,rps11,GuthCp130,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210607,-
+55529,857098,rpoA,GuthCp131,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210607,-
+55529,857099,rpl13,GuthCp132,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,ribosomal protein L13,20210607,-
+55529,857100,rps9,GuthCp133,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20210607,-
+55529,857101,rpl31,GuthCp134,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20210607,-
+55529,857102,rps12,GuthCp135,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210607,-
+55529,857103,rps7,GuthCp136,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210607,-
+55529,857104,tufA,GuthCp137,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210607,-
+55529,857105,rps10,GuthCp138,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20210607,-
+55529,857106,petF,GuthCp139,-,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20210607,-
+55529,857107,psbB,GuthCp140,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20210607,-
+55529,857108,psbT,GuthCp141,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20210607,-
+55529,857109,psbN,GuthCp142,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20210607,-
+55529,857110,psbH,GuthCp143,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20210607,-
+55529,857111,psaE,GuthCp144,-,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,photosystem I subunit IV,20210607,-
+55529,857112,ftsH,GuthCp145,-,-,-,-,cell division protein,protein-coding,-,-,-,cell division protein,20210607,-
+55529,857113,trnD(guc),GuthCt181,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857114,trnS(gcu),GuthCt182,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857115,trnI(cau),GuthCt183,-,-,-,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857116,ycf33,GuthCp146,-,-,-,-,hypothetical chloroplast RF33,protein-coding,-,-,-,hypothetical chloroplast RF33,20210607,-
+55529,857117,ilvB,GuthCp147,-,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,acetohydroxyacid synthase large subunit,20210607,-
+55529,857118,cenp-A,GTHECHR3013,-,-,3,-,centromeric histone-3 like protein,protein-coding,-,-,-,centromeric histone-3 like protein,20210607,-
+55529,857119,rpl27,GTHECHR3014,-,-,3,-,60S ribosomal protein L27,protein-coding,-,-,-,60S ribosomal protein L27,20210607,-
+55529,857120,kin(snf2),GTHECHR3011,-,-,3,-,SNF1-related protein kinase,protein-coding,-,-,-,SNF1-related protein kinase,20210607,-
+55529,857121,rps29A,GTHECHR3012,-,-,3,-,40S ribosomal protein S29A,protein-coding,-,-,-,40S ribosomal protein S29A,20210607,-
+55529,857122,rpl35A,GTHECHR3009,-,-,3,-,60S ribosomal protein 35A,protein-coding,-,-,-,60S ribosomal protein 35A,20210607,-
+55529,857123,orf323,GTHECHR3010,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857124,rpc9,GTHECHR3015,-,-,3,-,DNA-DIRECTED RNA POLYMERASES I AND III 16 KD POLYPEPTIDE,protein-coding,-,-,-,DNA-DIRECTED RNA POLYMERASES I AND III 16 KD POLYPEPTIDE,20210607,-
+55529,857125,orf176,GTHECHR3016,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857126,orf357,GTHECHR3017,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857127,orf406,GTHECHR3018,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857128,pcna,GTHECHR3019,-,-,3,-,proliferating cell nuclear antigen,protein-coding,-,-,-,proliferating cell nuclear antigen,20210607,-
+55529,857129,orf380,GTHECHR3005,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857130,orf272,GTHECHR3006,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857131,snrpG,GTHECHR3002,-,-,3,-,probable small nuclear ribonucleoprotein G,protein-coding,-,-,-,probable small nuclear ribonucleoprotein G,20210607,-
+55529,857132,orf247,GTHECHR3003,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857133,orf274,GTHECHR3004,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857134,ubc4,GTHECHR3001,-,-,3,-,ubiquitin conjugating enzyme,protein-coding,-,-,-,ubiquitin conjugating enzyme,20210607,-
+55529,857135,rps21,GTHECHR3007,-,-,3,-,40S ribosomal protein S21,protein-coding,-,-,-,40S ribosomal protein S21,20210607,-
+55529,857136,orf199,GTHECHR3008,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857137,rad25,GTHECHR3020,-,-,3,-,DNA repair helicase,protein-coding,-,-,-,DNA repair helicase,20210607,-
+55529,857138,orf224,GTHECHR3021,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857139,rad51,GTHECHR3022,-,-,3,-,DNA repair protein Rad51 homolog,protein-coding,-,-,-,DNA repair protein Rad51 homolog,20210607,-
+55529,857140,kin,GTHECHR3023,-,-,3,-,putative protein kinase,protein-coding,-,-,-,putative protein kinase,20210607,-
+55529,857141,orf81,GTHECHR3024,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857142,orf116,GTHECHR3025,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857143,rli1,GTHECHR3026,-,-,3,-,RNase L inhibitor,protein-coding,-,-,-,RNase L inhibitor,20210607,-
+55529,857144,rla1,GTHECHR3027,-,-,3,-,acidic ribosomal protein P1,protein-coding,-,-,-,acidic ribosomal protein P1,20210607,-
+55529,857145,cbf5,GTHECHR3028,-,-,3,-,putative pseudouridylate synthase,protein-coding,-,-,-,putative pseudouridylate synthase,20210607,-
+55529,857146,dbp4,GTHECHR3029,-,-,3,-,putative helicase,protein-coding,-,-,-,putative helicase,20210607,-
+55529,857147,orf301,GTHECHR3030,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857148,rpb8,GTHECHR3031,-,-,3,-,putative RNA polymerase II subunit,protein-coding,-,-,-,putative RNA polymerase II subunit,20210607,-
+55529,857149,orf370,GTHECHR3032,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857150,rpbY,GTHECHR3033,-,-,3,-,dna directed RNA polymerase II 13.6 kDa chain,protein-coding,-,-,-,dna directed RNA polymerase II 13.6 kDa chain,20210607,-
+55529,857151,rpl34,GTHECHR3034,-,-,3,-,60S ribosomal protein L34,protein-coding,-,-,-,60S ribosomal protein L34,20210607,-
+55529,857152,hira,GTHECHR3035,-,-,3,-,probable histone transcriptional regulator,protein-coding,-,-,-,probable histone transcriptional regulator,20210607,-
+55529,857153,rps6,GTHECHR3036,-,-,3,-,40S ribosomal protein S6,protein-coding,-,-,-,40S ribosomal protein S6,20210607,-
+55529,857154,orf261,GTHECHR3037,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857155,orf283,GTHECHR3038,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857156,orf85,GTHECHR3039,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857157,rps27A,GTHECHR3040,-,-,3,-,40S ribosomal protein S27A,protein-coding,-,-,-,40S ribosomal protein S27A,20210607,-
+55529,857158,orf142,GTHECHR3041,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857159,orf187,GTHECHR3042,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857160,rpc2,GTHECHR3043,-,-,3,-,second-largest subunit of RNA polymerase III,protein-coding,-,-,-,second-largest subunit of RNA polymerase III,20210607,-
+55529,857161,rpb7,GTHECHR3044,-,-,3,-,RNA polymerase II RPB7 subunit-like protein,protein-coding,-,-,-,RNA polymerase II RPB7 subunit-like protein,20210607,-
+55529,857162,rad3,GTHECHR3045,-,-,3,-,DNA repair helicase component of transcription factor b,protein-coding,-,-,-,DNA repair helicase component of transcription factor b,20210607,-
+55529,857163,reb1,GTHECHR3046,-,-,3,-,putative myb like DNA-binding protein,protein-coding,-,-,-,putative myb like DNA-binding protein,20210607,-
+55529,857164,tcpH,GTHECHR3047,-,-,3,-,t-complex protein1 eta SU,protein-coding,-,-,-,t-complex protein1 eta SU,20210607,-
+55529,857165,orf744,GTHECHR3048,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857166,orf753,GTHECHR3049,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857167,rps11,GTHECHR3050,-,-,3,-,40S ribosomal protein S11,protein-coding,-,-,-,40S ribosomal protein S11,20210607,-
+55529,857168,orf112,GTHECHR3051,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857169,orf144,GTHECHR3052,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857170,orf214,GTHECHR3053,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857171,orf134,GTHECHR3054,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857172,orf193,GTHECHR3055,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857173,tcpA,GTHECHR3056,-,-,3,-,t-complex protein 1 alpha SU,protein-coding,-,-,-,t-complex protein 1 alpha SU,20210607,-
+55529,857174,orf187,GTHECHR3057,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857175,orf177,GTHECHR3058,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857176,rpa5,GTHECHR3059,-,-,3,-,DNA-directed RNA polymerase 40k chain,protein-coding,-,-,-,DNA-directed RNA polymerase 40k chain,20210607,-
+55529,857177,ubc2,GTHECHR3060,-,-,3,-,ubiquitin-conjugating enzyme E2-17 KD subunit,protein-coding,-,-,-,ubiquitin-conjugating enzyme E2-17 KD subunit,20210607,-
+55529,857178,orf258,GTHECHR3061,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857179,fkbp,GTHECHR3062,-,-,3,-,FK506-binding protein 5(PEPTIDYL-PROLYL CIS-TRANS ISOMERASE),protein-coding,-,-,-,FK506-binding protein 5(PEPTIDYL-PROLYL CIS-TRANS ISOMERASE),20210607,-
+55529,857180,orf223,GTHECHR3063,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857181,orf379,GTHECHR3064,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857182,orf625,GTHECHR3065,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857183,rpa2,GTHECHR3066,-,-,3,-,DNA-directed RNA polymerase I 135K chain,protein-coding,-,-,-,DNA-directed RNA polymerase I 135K chain,20210607,-
+55529,857184,rps2,GTHECHR3067,-,-,3,-,40S ribosomal protein S2,protein-coding,-,-,-,40S ribosomal protein S2,20210607,-
+55529,857185,orf247,GTHECHR3068,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857186,orf158,GTHECHR3069,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857187,orf590,GTHECHR3070,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857188,mrs2,GTHECHR3071,-,-,3,-,Mrs2p,protein-coding,-,-,-,Mrs2p,20210607,-
+55529,857189,rla0,GTHECHR3072,-,-,3,-,60S acidic ribosomal protein P0,protein-coding,-,-,-,60S acidic ribosomal protein P0,20210607,-
+55529,857190,orf222,GTHECHR3073,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857191,orf479,GTHECHR3074,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857192,orf160,GTHECHR3075,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857193,orf341,GTHECHR3076,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857194,orf416,GTHECHR3077,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857195,EF2,GTHECHR3078,-,-,3,-,elongation factor EF-2,protein-coding,-,-,-,elongation factor EF-2,20210607,-
+55529,857196,orf209,GTHECHR3079,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857197,orf470,GTHECHR3080,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857198,prsA3,GTHECHR3081,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20210607,-
+55529,857199,rpb10,GTHECHR3082,-,-,3,-,Putative RNA polymerase II subunit Rpb10,protein-coding,-,-,-,Putative RNA polymerase II subunit Rpb10,20210607,-
+55529,857200,orf1613,GTHECHR3083,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857201,nop1,GTHECHR3084,-,-,3,-,fibrillarin like-protein,protein-coding,-,-,-,fibrillarin like-protein,20210607,-
+55529,857202,orf338,GTHECHR3085,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857203,orf118,GTHECHR3086,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857204,orf160,GTHECHR3087,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857205,orf141,GTHECHR3088,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857206,orf180,GTHECHR3089,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857207,snrpF,GTHECHR3090,-,-,3,-,small nuclear ribonucleoprotein F,protein-coding,-,-,-,small nuclear ribonucleoprotein F,20210607,-
+55529,857208,orf845,GTHECHR3091,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857209,orf395,GTHECHR3092,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857210,orf228,GTHECHR3093,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857211,tfIIB,GTHECHR3094,-,-,3,-,transcription initiation factor IIB,protein-coding,-,-,-,transcription initiation factor IIB,20210607,-
+55529,857212,rpl1,GTHECHR3095,-,-,3,-,60s ribosomal protein L1,protein-coding,-,-,-,60s ribosomal protein L1,20210607,-
+55529,857213,kin(aaB),GTHECHR3096,-,-,3,-,"AMP-activated protein kinase, beta 2 non-catalytic SU",protein-coding,-,-,-,"AMP-activated protein kinase, beta 2 non-catalytic SU",20210607,-
+55529,857214,orf153,GTHECHR3097,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857215,orf132,GTHECHR3098,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857216,orf266,GTHECHR3099,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857217,kin(cdc2),GTHECHR3100,-,-,3,-,putative cdc2 kinase,protein-coding,-,-,-,putative cdc2 kinase,20210607,-
+55529,857218,prsS8,GTHECHR3101,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20210607,-
+55529,857219,orf62,GTHECHR3102,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857220,rps3,GTHECHR3103,-,-,3,-,40S ribosomal protein S3,protein-coding,-,-,-,40S ribosomal protein S3,20210607,-
+55529,857221,orf72,GTHECHR3104,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857222,prsB7,GTHECHR3105,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20210607,-
+55529,857223,kin(mps1),GTHECHR3106,-,-,3,-,putative protein kinase,protein-coding,-,-,-,putative protein kinase,20210607,-
+55529,857224,orf127,GTHECHR3107,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857225,orf203,GTHECHR3108,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857226,sui1,GTHECHR3109,-,-,3,-,translation factor sui1 homolog,protein-coding,-,-,-,translation factor sui1 homolog,20210607,-
+55529,857227,rpl7,GTHECHR3110,-,-,3,-,60S ribosomal protein L7,protein-coding,-,-,-,60S ribosomal protein L7,20210607,-
+55529,857228,prsB3,GTHECHR3111,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20210607,-
+55529,857229,nop56,GTHECHR3112,-,-,3,-,nucleolar protein,protein-coding,-,-,-,nucleolar protein,20210607,-
+55529,857230,tcpB,GTHECHR3113,-,-,3,-,t-complex protein 1 beta SU,protein-coding,-,-,-,t-complex protein 1 beta SU,20210607,-
+55529,857231,rps14,GTHECHR3114,-,-,3,-,40S ribosomal protein S14,protein-coding,-,-,-,40S ribosomal protein S14,20210607,-
+55529,857232,rps20,GTHECHR3115,-,-,3,-,40S ribosomal protein S20,protein-coding,-,-,-,40S ribosomal protein S20,20210607,-
+55529,857233,orf387,GTHECHR3116,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857234,mak16,GTHECHR3117,-,-,3,-,mak16-like protein,protein-coding,-,-,-,mak16-like protein,20210607,-
+55529,857235,rpl3,GTHECHR3118,-,-,3,-,60S ribosomal protein L3,protein-coding,-,-,-,60S ribosomal protein L3,20210607,-
+55529,857236,orf232,GTHECHR3119,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857237,orf201,GTHECHR3120,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857238,mcm2,GTHECHR3121,-,-,3,-,similarity to yeast mcm2 protein,protein-coding,-,-,-,similarity to yeast mcm2 protein,20210607,-
+55529,857239,sbp1,GTHECHR3122,-,-,3,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20210607,-
+55529,857240,nop2,GTHECHR3123,-,-,3,-,nucleolar protein,protein-coding,-,-,-,nucleolar protein,20210607,-
+55529,857241,orf277,GTHECHR3124,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857242,rpl17,GTHECHR3125,-,-,3,-,60S ribosomal protein L17,protein-coding,-,-,-,60S ribosomal protein L17,20210607,-
+55529,857243,rpl10A,GTHECHR3126,-,-,3,-,60S ribosomal protein L10A,protein-coding,-,-,-,60S ribosomal protein L10A,20210607,-
+55529,857244,orf319,GTHECHR3127,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857245,orf185,GTHECHR3128,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857246,cdc48,GTHECHR3129,-,-,3,-,cell division cycle protein 48 homolog,protein-coding,-,-,-,cell division cycle protein 48 homolog,20210607,-
+55529,857247,orf456,GTHECHR3130,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857248,orf305,GTHECHR3131,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857249,prsS6,GTHECHR3132,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20210607,-
+55529,857250,orf272,GTHECHR3133,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857251,tubB,GTHECHR3134,-,-,3,-,tubulin beta subunit,protein-coding,-,-,-,tubulin beta subunit,20210607,-
+55529,857252,rpl32,GTHECHR3135,-,-,3,-,60S ribosomal protein L32,protein-coding,-,-,-,60S ribosomal protein L32,20210607,-
+55529,857253,orf177,GTHECHR3136,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857254,ste13,GTHECHR3137,-,-,3,-,RNA helicase,protein-coding,-,-,-,RNA helicase,20210607,-
+55529,857255,orf143,GTHECHR3138,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857256,sut,GTHECHR3139,-,-,3,-,sulfate permease,protein-coding,-,-,-,sulfate permease,20210607,-
+55529,857257,eif4a,GTHECHR3140,-,-,3,-,eukaryotic initiation factor 4a,protein-coding,-,-,-,eukaryotic initiation factor 4a,20210607,-
+55529,857258,ufd,GTHECHR3141,-,-,3,-,ubiquitin fusion degradation protein,protein-coding,-,-,-,ubiquitin fusion degradation protein,20210607,-
+55529,857259,tfIID,GTHECHR3142,-,-,3,-,TATA binding protein of transcription factor IID,protein-coding,-,-,-,TATA binding protein of transcription factor IID,20210607,-
+55529,857260,ubc4b,GTHECHR3143,-,-,3,-,ubiquitin conjugating enzyme,protein-coding,-,-,-,ubiquitin conjugating enzyme,20210607,-
+55529,857261,tfIIDb,GTHECHR3144,-,-,3,-,-,other,-,-,-,-,20210607,-
+55529,857262,orf160,GTHECHR3145,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857263,Ebi,GTHECHR3146,-,-,3,-,regulator of epidermal growth factor receptor,protein-coding,-,-,-,regulator of epidermal growth factor receptor,20210607,-
+55529,857264,prsA7,GTHECHR3147,-,-,3,-,26S proteasome SU alpha7,protein-coding,-,-,-,26S proteasome SU alpha7,20210607,-
+55529,857265,rps16,GTHECHR3148,-,-,3,-,40S ribosomal protein S16,protein-coding,-,-,-,40S ribosomal protein S16,20210607,-
+55529,857266,rps9,GTHECHR3149,-,-,3,-,40S ribosomal protein S9,protein-coding,-,-,-,40S ribosomal protein S9,20210607,-
+55529,857267,rpl18A,GTHECHR3150,-,-,3,-,60S ribosomal protein L18A,protein-coding,-,-,-,60S ribosomal protein L18A,20210607,-
+55529,857268,orf263,GTHECHR3151,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857269,orf110,GTHECHR3152,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857270,orf210,GTHECHR3153,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857271,orf151,GTHECHR3154,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857272,orf65,GTHECHR3155,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857273,orf69,GTHECHR3156,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857274,orf65b,GTHECHR3157,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857275,orf69b,GTHECHR3158,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857276,orf110b,GTHECHR3159,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857277,orf210b,GTHECHR3160,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857278,orf151b,GTHECHR3161,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857279,snrpD1,GTHECHR3162,-,-,3,-,probable small nuclear ribonucleoprotein D1,protein-coding,-,-,-,probable small nuclear ribonucleoprotein D1,20210607,-
+55529,857280,orf150,GTHECHR3163,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857281,ubc4,GTHECHR1001,-,-,1,-,ubiquitin conjugating enzyme,protein-coding,-,-,-,ubiquitin conjugating enzyme,20210607,-
+55529,857282,hsp82,GTHECHR1002,-,-,1,-,heat shock protein 82,protein-coding,-,-,-,heat shock protein 82,20210607,-
+55529,857283,orf119,GTHECHR1003,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857284,orf470,GTHECHR1004,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857285,tubG,GTHECHR1005,-,-,1,-,gamma-tubulin,protein-coding,-,-,-,gamma-tubulin,20210607,-
+55529,857286,orf113,GTHECHR1006,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857287,ski2,GTHECHR1007,-,-,1,-,putative helicase-like protein,protein-coding,-,-,-,putative helicase-like protein,20210607,-
+55529,857288,tcpE,GTHECHR1008,-,-,1,-,"t-complex protein1, epsilon-SU",protein-coding,-,-,-,"t-complex protein1, epsilon-SU",20210607,-
+55529,857289,rpl13A,GTHECHR1009,-,-,1,-,60s ribosomal protein L13A,protein-coding,-,-,-,60s ribosomal protein L13A,20210607,-
+55529,857290,orf433,GTHECHR1010,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857291,pab1,GTHECHR1011,-,-,1,-,polyadenylate-binding protein,protein-coding,-,-,-,polyadenylate-binding protein,20210607,-
+55529,857292,orf291,GTHECHR1012,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857293,orf419,GTHECHR1013,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857294,orf177,GTHECHR1014,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857295,rpoD,GTHECHR1015,-,-,1,-,RNA-polymerase sigma factor,protein-coding,-,-,-,RNA-polymerase sigma factor,20210607,-
+55529,857296,kea1,GTHECHR1016,-,-,1,-,similarity to A.thaliana KEA1 protein,protein-coding,-,-,-,similarity to A.thaliana KEA1 protein,20210607,-
+55529,857297,orf341,GTHECHR1017,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857298,orf201,GTHECHR1018,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857299,orf1061,GTHECHR1019,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857300,eif5A,GTHECHR1020,-,-,1,-,translation initiation factor eIF-5A.2,protein-coding,-,-,-,translation initiation factor eIF-5A.2,20210607,-
+55529,857301,rpl23,GTHECHR1021,-,-,1,-,60S ribosomal protein L23,protein-coding,-,-,-,60S ribosomal protein L23,20210607,-
+55529,857302,orf519,GTHECHR1022,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857303,rpb2,GTHECHR1023,-,-,1,-,DNA-directed RNA polymerase II second largest subunit,protein-coding,-,-,-,DNA-directed RNA polymerase II second largest subunit,20210607,-
+55529,857304,H3,GTHECHR1024,-,-,1,-,Histone H3,protein-coding,-,-,-,Histone H3,20210607,-
+55529,857305,H4,GTHECHR1025,-,-,1,-,Histone H4,protein-coding,-,-,-,Histone H4,20210607,-
+55529,857306,orf532,GTHECHR1026,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857307,orf225,GTHECHR1027,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857308,orf115,GTHECHR1028,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857309,orf236,GTHECHR1029,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857310,orf197,GTHECHR1030,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857311,gyrA,GTHECHR1031,-,-,1,-,DNA gyrase A-subunit,protein-coding,-,-,-,DNA gyrase A-subunit,20210607,-
+55529,857312,tcpD,GTHECHR1032,-,-,1,-,"t-complex protein 1, delta SU",protein-coding,-,-,-,"t-complex protein 1, delta SU",20210607,-
+55529,857313,CRM,GTHECHR1033,-,-,1,-,chromosomal region maintenance protein CRM1,protein-coding,-,-,-,chromosomal region maintenance protein CRM1,20210607,-
+55529,857314,orf216,GTHECHR1034,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857315,orf68,GTHECHR1035,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857316,PP1,GTHECHR1036,-,-,1,-,serine/threonine protein phosphatase type 1 alpha,protein-coding,-,-,-,serine/threonine protein phosphatase type 1 alpha,20210607,-
+55529,857317,orf176,GTHECHR1037,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857318,fet5,GTHECHR1038,-,-,1,-,purine nucleotide binding protein,protein-coding,-,-,-,purine nucleotide binding protein,20210607,-
+55529,857319,rpl26,GTHECHR1039,-,-,1,-,60S ribosomal protein L26,protein-coding,-,-,-,60S ribosomal protein L26,20210607,-
+55529,857320,rps10B,GTHECHR1040,-,-,1,-,40S ribosomal protein S10B,protein-coding,-,-,-,40S ribosomal protein S10B,20210607,-
+55529,857321,clpP1,GTHECHR1041,-,-,1,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210607,-
+55529,857322,tic22,GTHECHR1042,-,-,1,-,Tic22,protein-coding,-,-,-,Tic22,20210607,-
+55529,857323,orf272,GTHECHR1043,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857324,orf556,GTHECHR1044,-,-,1,-,similarity to S. pombe hypothetical protein,protein-coding,-,-,-,similarity to S. pombe hypothetical protein,20210607,-
+55529,857325,prsA2,GTHECHR1045,-,-,1,-,similar to proteasome A-type submit,protein-coding,-,-,-,similar to proteasome A-type submit,20210607,-
+55529,857326,orf859,GTHECHR1046,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857327,orf541,GTHECHR1047,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857328,orf171,GTHECHR1048,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857329,prsA5,GTHECHR1049,-,-,1,-,26S proteasome SU A5,protein-coding,-,-,-,26S proteasome SU A5,20210607,-
+55529,857330,rps5,GTHECHR1050,-,-,1,-,40S ribosomal protein S5,protein-coding,-,-,-,40S ribosomal protein S5,20210607,-
+55529,857331,orf665,GTHECHR1051,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857332,cycB,GTHECHR1052,-,-,1,-,cyclin B,protein-coding,-,-,-,cyclin B,20210607,-
+55529,857333,rpl23A,GTHECHR1053,-,-,1,-,60S ribosomal protein L23A,protein-coding,-,-,-,60S ribosomal protein L23A,20210607,-
+55529,857334,orf744,GTHECHR1054,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857335,rpl12,GTHECHR1055,-,-,1,-,60s ribosomal protein L12,protein-coding,-,-,-,60s ribosomal protein L12,20210607,-
+55529,857336,orf590,GTHECHR1056,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857337,orf224,GTHECHR1057,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857338,orf532,GTHECHR1058,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857339,rcl1,GTHECHR1059,-,-,1,-,RNA 3'phosphate cyclase,protein-coding,-,-,-,RNA 3'phosphate cyclase,20210607,-
+55529,857340,dhm,GTHECHR1060,-,-,1,-,very similar to mouse Dhm1 and Dhm2,protein-coding,-,-,-,very similar to mouse Dhm1 and Dhm2,20210607,-
+55529,857341,ATP/GTP-bp,GTHECHR1061,-,-,1,-,ATP(GTP)-binding protein,protein-coding,-,-,-,ATP(GTP)-binding protein,20210607,-
+55529,857342,eif4E,GTHECHR1062,-,-,1,-,mRNA cap binding protein eIF-4E,protein-coding,-,-,-,mRNA cap binding protein eIF-4E,20210607,-
+55529,857343,rpl7A,GTHECHR1063,-,-,1,-,60s ribosomal protein L7A,protein-coding,-,-,-,60s ribosomal protein L7A,20210607,-
+55529,857344,rpl18,GTHECHR1064,-,-,1,-,60s ribosomal protein L18,protein-coding,-,-,-,60s ribosomal protein L18,20210607,-
+55529,857345,clpP2,GTHECHR1065,-,-,1,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210607,-
+55529,857346,orf461,GTHECHR1066,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857347,cdc48,GTHECHR1067,-,-,1,-,CDC48 like protein,protein-coding,-,-,-,CDC48 like protein,20210607,-
+55529,857348,snrpG,GTHECHR1068,-,-,1,-,small nucleolar ribonucleoprotein G,protein-coding,-,-,-,small nucleolar ribonucleoprotein G,20210607,-
+55529,857349,orf168,GTHECHR1069,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857350,orf153,GTHECHR1070,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857351,orf414,GTHECHR1071,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857352,orf670,GTHECHR1072,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857353,orf127,GTHECHR1073,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857354,orf382,GTHECHR1074,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857355,eif2G,GTHECHR1075,-,-,1,-,eukaryotic translation initiation factor gamma SU,protein-coding,-,-,-,eukaryotic translation initiation factor gamma SU,20210607,-
+55529,857356,orf665,GTHECHR1076,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857357,orf128,GTHECHR1077,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857358,orf248,GTHECHR1078,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857359,U5snRNP,GTHECHR1079,-,-,1,-,U5 small nuclear ribonucleoprotein 116 kDa subunit,protein-coding,-,-,-,U5 small nuclear ribonucleoprotein 116 kDa subunit,20210607,-
+55529,857360,orf391,GTHECHR1080,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857361,orf308,GTHECHR1081,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857362,orf313,GTHECHR1082,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857363,prsB6,GTHECHR1083,-,-,1,-,26S proteasome SU B6,protein-coding,-,-,-,26S proteasome SU B6,20210607,-
+55529,857364,hsp70,GTHECHR1084,-,-,1,-,heat shock protein 70KD,protein-coding,-,-,-,heat shock protein 70KD,20210607,-
+55529,857365,orf100,GTHECHR1085,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857366,imp4,GTHECHR1086,-,-,1,-,U3 snoRNP protein IMP4,protein-coding,-,-,-,U3 snoRNP protein IMP4,20210607,-
+55529,857367,orf304,GTHECHR1087,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857368,rpl31,GTHECHR1088,-,-,1,-,60S ribosomal protein L31,protein-coding,-,-,-,60S ribosomal protein L31,20210607,-
+55529,857369,rpl11B,GTHECHR1089,-,-,1,-,60S ribosomal protein L11B,protein-coding,-,-,-,60S ribosomal protein L11B,20210607,-
+55529,857370,orf147,GTHECHR1090,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857371,orf471,GTHECHR1091,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857372,prsB5,GTHECHR1092,-,-,1,-,26S proteasome SU B5,protein-coding,-,-,-,26S proteasome SU B5,20210607,-
+55529,857373,orf636,GTHECHR1093,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857374,orf244,GTHECHR1094,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857375,orf446,GTHECHR1095,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857376,rps25,GTHECHR1096,-,-,1,-,40S ribosomal protein S25,protein-coding,-,-,-,40S ribosomal protein S25,20210607,-
+55529,857377,orf472,GTHECHR1097,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857378,orf228,GTHECHR1098,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857379,eif2B,GTHECHR1099,-,-,1,-,translation initiation factor eiF2 beta-subunit,protein-coding,-,-,-,translation initiation factor eiF2 beta-subunit,20210607,-
+55529,857380,orf168,GTHECHR1100,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857381,orf755,GTHECHR1101,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857382,orf304,GTHECHR1102,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857383,hsf,GTHECHR1103,-,-,1,-,heat shock transcription factor,protein-coding,-,-,-,heat shock transcription factor,20210607,-
+55529,857384,orf222,GTHECHR1104,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857385,orf122,GTHECHR1105,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857386,orf370,GTHECHR1106,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857387,orf101,GTHECHR1107,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857388,hlip,GTHECHR1108,-,-,1,-,high light inducible protein,protein-coding,-,-,-,high light inducible protein,20210607,-
+55529,857389,orf160,GTHECHR1109,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857390,erf1,GTHECHR1110,-,-,1,-,eukaryotic release factor 1 homolog,protein-coding,-,-,-,eukaryotic release factor 1 homolog,20210607,-
+55529,857391,orf313,GTHECHR1111,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857392,impA,GTHECHR1112,-,-,1,-,importin alpha,protein-coding,-,-,-,importin alpha,20210607,-
+55529,857393,orf85,GTHECHR1113,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857394,orf467,GTHECHR1114,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857395,orf1019,GTHECHR1115,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857396,met,GTHECHR1116,-,-,1,-,"putative ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit N-methyltransferase I",protein-coding,-,-,-,"putative ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit N-methyltransferase I",20210607,-
+55529,857397,rpabc5,GTHECHR1117,-,-,1,-,"RNA polymerase I, II and III 24.3 kDa subunit",protein-coding,-,-,-,"RNA polymerase I, II and III 24.3 kDa subunit",20210607,-
+55529,857398,rpabc6,GTHECHR1118,-,-,1,-,"DNA-DIRECTED RNA POLYMERASES I, II, AND III 15 KD POLYPEPTIDE(RPABC6)",protein-coding,-,-,-,"DNA-DIRECTED RNA POLYMERASES I, II, AND III 15 KD POLYPEPTIDE(RPABC6)",20210607,-
+55529,857399,tha4,GTHECHR1119,-,-,1,-,similarity to thyakoid membrane protein,protein-coding,-,-,-,similarity to thyakoid membrane protein,20210607,-
+55529,857400,orf443,GTHECHR1120,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857401,orf365,GTHECHR1121,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857402,prsA6,GTHECHR1122,-,-,1,-,26s proteasome SU A6,protein-coding,-,-,-,26s proteasome SU A6,20210607,-
+55529,857403,rpc1,GTHECHR1123,-,-,1,-,RNA polymerase III largest subunit,protein-coding,-,-,-,RNA polymerase III largest subunit,20210607,-
+55529,857404,nip7,GTHECHR1124,-,-,1,-,putative ribosome biogenesis protein,protein-coding,-,-,-,putative ribosome biogenesis protein,20210607,-
+55529,857405,rps15,GTHECHR1125,-,-,1,-,40S ribosomal protein S15,protein-coding,-,-,-,40S ribosomal protein S15,20210607,-
+55529,857406,eif6,GTHECHR1126,-,-,1,-,translation initiation factor eIF6,protein-coding,-,-,-,translation initiation factor eIF6,20210607,-
+55529,857407,orf222,GTHECHR1127,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857408,orf262,GTHECHR1128,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857409,orf124,GTHECHR1129,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857410,orf773,GTHECHR1130,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857411,orf365,GTHECHR1131,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857412,orf1005,GTHECHR1132,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857413,rps15,GTHECHR1133,-,-,1,-,plastidal 30S ribosomal protein S15,protein-coding,-,-,-,plastidal 30S ribosomal protein S15,20210607,-
+55529,857414,orf534,GTHECHR1134,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857415,PI4K,GTHECHR1135,-,-,1,-,phosphatidylinositol 4-kinase,protein-coding,-,-,-,phosphatidylinositol 4-kinase,20210607,-
+55529,857416,kin(snf1),GTHECHR1136,-,-,1,-,SNF-related kinase,protein-coding,-,-,-,SNF-related kinase,20210607,-
+55529,857417,orf714,GTHECHR1137,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857418,rpl6B,GTHECHR1138,-,-,1,-,60S ribosomal protein L6B,protein-coding,-,-,-,60S ribosomal protein L6B,20210607,-
+55529,857419,snrpD,GTHECHR1139,-,-,1,-,small nuclear ribonucleoprotein D-like protein,protein-coding,-,-,-,small nuclear ribonucleoprotein D-like protein,20210607,-
+55529,857420,ggt,GTHECHR1140,-,-,1,-,geranylgeranyl transferase,protein-coding,-,-,-,geranylgeranyl transferase,20210607,-
+55529,857421,hda,GTHECHR1141,-,-,1,-,histone deacetylase,protein-coding,-,-,-,histone deacetylase,20210607,-
+55529,857422,trf,GTHECHR1142,-,-,1,-,putative transcription factor subunit,protein-coding,-,-,-,putative transcription factor subunit,20210607,-
+55529,857423,pab2,GTHECHR1143,-,-,1,-,polyadenylate binding protein,protein-coding,-,-,-,polyadenylate binding protein,20210607,-
+55529,857424,orf312,GTHECHR1144,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857425,orf147,GTHECHR1145,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857426,orf110,GTHECHR1146,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857427,orf210,GTHECHR1147,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857428,orf151,GTHECHR1148,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857429,orf65,GTHECHR1149,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857430,orf69,GTHECHR1150,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857431,orf65b,GTHECHR1151,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857432,orf69b,GTHECHR1152,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857433,orf110b,GTHECHR1153,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857434,orf210b,GTHECHR1154,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857435,orf151b,GTHECHR1155,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857436,rfC,GTHECHR1156,-,-,1,-,replication factor C 37 KD subunit,protein-coding,-,-,-,replication factor C 37 KD subunit,20210607,-
+55529,857437,rpl19,GTHECHR1157,-,-,1,-,60S ribosomal protein L19,protein-coding,-,-,-,60S ribosomal protein L19,20210607,-
+55529,857438,orf183,GTHECHR1158,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857439,gblp,GTHECHR1159,-,-,1,-,guanine nucleotide binding-like protein,protein-coding,-,-,-,guanine nucleotide binding-like protein,20210607,-
+55529,857440,gyrB,GTHECHR1160,-,-,1,-,DNA gyrase subunit B,protein-coding,-,-,-,DNA gyrase subunit B,20210607,-
+55529,857441,GTHECHR2151,GTHECHR2151,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857442,18SrRNA,GTHECHR2r002,-,-,2,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857443,28SrRNA,GTHECHR2r003,-,-,2,-,28S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857444,28SrRNA,GTHECHR2r004,-,-,2,-,28S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857445,5.8SrRNA,GTHECHR2r005,-,-,2,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857446,5.8SrRNA,GTHECHR2r006,-,-,2,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857447,5SrRNA,GTHECHR2r007,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857448,5SrRNA,GTHECHR2r008,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,857449,cbbX,GTHECHR2009,-,-,2,-,CbbX protein homolog,protein-coding,-,-,-,CbbX protein homolog,20210607,-
+55529,857450,cbp,GTHECHR2010,-,-,2,-,cap-binding protein,protein-coding,-,-,-,cap-binding protein,20210607,-
+55529,857451,cdc2,GTHECHR2011,-,-,2,-,cell division cycle 2 homolog,protein-coding,-,-,-,cell division cycle 2 homolog,20210607,-
+55529,857452,cdc28,GTHECHR2012,-,-,2,-,putative ATP-dependent RNA helicase CDC28,protein-coding,-,-,-,putative ATP-dependent RNA helicase CDC28,20210607,-
+55529,857453,cpn60,GTHECHR2013,-,-,2,-,CPN60 protein,protein-coding,-,-,-,CPN60 protein,20210607,-
+55529,857454,dnaG,GTHECHR2014,-,-,2,-,DNA primase,protein-coding,-,-,-,DNA primase,20210607,-
+55529,857455,eif1A,GTHECHR2015,-,-,2,-,eukaryotic translation initiation factor 1A,protein-coding,-,-,-,eukaryotic translation initiation factor 1A,20210607,-
+55529,857456,ftsZ,GTHECHR2016,-,-,2,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210607,-
+55529,857457,gblp,GTHECHR2017,-,-,2,-,guanine nucleotide-binding protein beta SU like protein,protein-coding,-,-,-,guanine nucleotide-binding protein beta SU like protein,20210607,-
+55529,857458,gidA,GTHECHR2018,-,-,2,-,glucose inhibited division protein A,protein-coding,-,-,-,glucose inhibited division protein A,20210607,-
+55529,857459,gsp2,GTHECHR2019,-,-,2,-,GTP-binding nuclear protein RAN,protein-coding,-,-,-,GTP-binding nuclear protein RAN,20210607,-
+55529,857460,h2B,GTHECHR2020,-,-,2,-,histon H2B,protein-coding,-,-,-,histon H2B,20210607,-
+55529,857461,has1,GTHECHR2021,-,-,2,-,putative RNA-dependent helicase,protein-coding,-,-,-,putative RNA-dependent helicase,20210607,-
+55529,857462,hcf136,GTHECHR2022,-,-,2,-,photosystem II stability/assembly factor HCF136,protein-coding,-,-,-,photosystem II stability/assembly factor HCF136,20210607,-
+55529,857463,iap100,GTHECHR2023,-,-,2,-,IAP100 protein,protein-coding,-,-,-,IAP100 protein,20210607,-
+55529,857464,imb1,GTHECHR2024,-,-,2,-,importin beta-1 SU,protein-coding,-,-,-,importin beta-1 SU,20210607,-
+55529,857465,mce,GTHECHR2025,-,-,2,-,mRNA capping enzyme,protein-coding,-,-,-,mRNA capping enzyme,20210607,-
+55529,857466,ncbP2,GTHECHR2026,-,-,2,-,nuclear cap binding protein subunit 2,protein-coding,-,-,-,nuclear cap binding protein subunit 2,20210607,-
+55529,857467,nmt1,GTHECHR2027,-,-,2,-,N-myristoyltransferase,protein-coding,-,-,-,N-myristoyltransferase,20210607,-
+55529,857468,nog1,GTHECHR2028,-,-,2,-,putative nucleolar G-protein,protein-coding,-,-,-,putative nucleolar G-protein,20210607,-
+55529,857469,nop5,GTHECHR2029,-,-,2,-,putative SAR DNA-binding protein-1,protein-coding,-,-,-,putative SAR DNA-binding protein-1,20210607,-
+55529,857470,p-bp,GTHECHR2030,-,-,2,-,putative GTP-binding protein,protein-coding,-,-,-,putative GTP-binding protein,20210607,-
+55529,857471,pop2,GTHECHR2031,-,-,2,-,putative CCR4-associated factor,protein-coding,-,-,-,putative CCR4-associated factor,20210607,-
+55529,857472,prl1,GTHECHR2032,-,-,2,-,prl1/prl2-like protein,protein-coding,-,-,-,prl1/prl2-like protein,20210607,-
+55529,857473,prp8,GTHECHR2033,-,-,2,-,splicing factor Prp8,protein-coding,-,-,-,splicing factor Prp8,20210607,-
+55529,857474,prsA1,GTHECHR2034,-,-,2,-,26S proteasome IOTA SU,protein-coding,-,-,-,26S proteasome IOTA SU,20210607,-
+55529,857475,prsB1,GTHECHR2035,-,-,2,-,"26S proteasome, beta-1 SU",protein-coding,-,-,-,"26S proteasome, beta-1 SU",20210607,-
+55529,857476,prsB4,GTHECHR2036,-,-,2,-,26S proteasome chain protein,protein-coding,-,-,-,26S proteasome chain protein,20210607,-
+55529,857477,prsS1,GTHECHR2037,-,-,2,-,26S proteasome regulatory subunit,protein-coding,-,-,-,26S proteasome regulatory subunit,20210607,-
+55529,857478,prsS10b,GTHECHR2038,-,-,2,-,26S proteasome AAA-ATPase subunit,protein-coding,-,-,-,26S proteasome AAA-ATPase subunit,20210607,-
+55529,857479,prsS12,GTHECHR2039,-,-,2,-,26S proteasome regulatory SU,protein-coding,-,-,-,26S proteasome regulatory SU,20210607,-
+55529,857480,prsS13,GTHECHR2040,-,-,2,-,26S proteasome regulatory subunit,protein-coding,-,-,-,26S proteasome regulatory subunit,20210607,-
+55529,857481,prsS4,GTHECHR2041,-,-,2,-,26S proteasome AAA-ATPase subunit,protein-coding,-,-,-,26S proteasome AAA-ATPase subunit,20210607,-
+55529,857482,prsS6,GTHECHR2042,-,-,2,-,26S protease regulatory SU 6A,protein-coding,-,-,-,26S protease regulatory SU 6A,20210607,-
+55529,857483,prsS7,GTHECHR2043,-,-,2,-,26S protease regulatory SU 7,protein-coding,-,-,-,26S protease regulatory SU 7,20210607,-
+55529,857484,ranbpm,GTHECHR2044,-,-,2,-,putative RanBPM protein,protein-coding,-,-,-,putative RanBPM protein,20210607,-
+55529,857485,rbp1,GTHECHR2045,-,-,2,-,Rbp1 protein,protein-coding,-,-,-,Rbp1 protein,20210607,-
+55529,857486,rip1,GTHECHR2046,-,-,2,-,Rev interacting protein Rip-1-like protein,protein-coding,-,-,-,Rev interacting protein Rip-1-like protein,20210607,-
+55529,857487,rpa1,GTHECHR2047,-,-,2,-,DNA-directed RNA polymerase I chain-like protein,protein-coding,-,-,-,DNA-directed RNA polymerase I chain-like protein,20210607,-
+55529,857488,rpb1,GTHECHR2048,-,-,2,-,DNA-directed RNA polymerase II largest chain,protein-coding,-,-,-,DNA-directed RNA polymerase II largest chain,20210607,-
+55529,857489,rpb3,GTHECHR2049,-,-,2,-,DNA-directed RNA polymerase II,protein-coding,-,-,-,DNA-directed RNA polymerase II,20210607,-
+55529,857490,rpc10,GTHECHR2050,-,-,2,-,"DNA-directed RNA polymerases I, II and III",protein-coding,-,-,-,"DNA-directed RNA polymerases I, II and III",20210607,-
+55529,857491,rpl10,GTHECHR2051,-,-,2,-,60S ribosomal protein L10,protein-coding,-,-,-,60S ribosomal protein L10,20210607,-
+55529,857492,rpl13,GTHECHR2052,-,-,2,-,60S ribosomal protein L13,protein-coding,-,-,-,60S ribosomal protein L13,20210607,-
+55529,857493,rpl14,GTHECHR2053,-,-,2,-,60S ribosomal protein L14,protein-coding,-,-,-,60S ribosomal protein L14,20210607,-
+55529,857494,rpl15,GTHECHR2054,-,-,2,-,60S ribosomal protein L15,protein-coding,-,-,-,60S ribosomal protein L15,20210607,-
+55529,857495,rpl21,GTHECHR2055,-,-,2,-,60S ribosomal protein L21,protein-coding,-,-,-,60S ribosomal protein L21,20210607,-
+55529,857496,rpl24,GTHECHR2056,-,-,2,-,pseudo,pseudo,-,-,-,-,20210607,-
+55529,857497,rpl24,GTHECHR2057,-,-,2,-,60S ribosomal protein L24,protein-coding,-,-,-,60S ribosomal protein L24,20210607,-
+55529,857498,rpl27A,GTHECHR2058,-,-,2,-,60S ribosomal protein L27A,protein-coding,-,-,-,60S ribosomal protein L27A,20210607,-
+55529,857499,rpl30,GTHECHR2059,-,-,2,-,60S ribosomal protein L30,protein-coding,-,-,-,60S ribosomal protein L30,20210607,-
+55529,857500,rpl36,GTHECHR2060,-,-,2,-,60S ribosomal protein L36,protein-coding,-,-,-,60S ribosomal protein L36,20210607,-
+55529,857501,rpl37A,GTHECHR2061,-,-,2,-,60S ribosomal protein L37A,protein-coding,-,-,-,60S ribosomal protein L37A,20210607,-
+55529,857502,rpl40,GTHECHR2062,-,-,2,-,ubiquitin,protein-coding,-,-,-,ubiquitin,20210607,-
+55529,857503,rpl5,GTHECHR2063,-,-,2,-,60S ribosomal protein L5,protein-coding,-,-,-,60S ribosomal protein L5,20210607,-
+55529,857504,rpl8,GTHECHR2064,-,-,2,-,60S ribosomal protein L8,protein-coding,-,-,-,60S ribosomal protein L8,20210607,-
+55529,857505,rpl9,GTHECHR2065,-,-,2,-,60S ribosomal protein L9,protein-coding,-,-,-,60S ribosomal protein L9,20210607,-
+55529,857506,rps13,GTHECHR2066,-,-,2,-,40S ribosomal protein S13,protein-coding,-,-,-,40S ribosomal protein S13,20210607,-
+55529,857507,rps15A,GTHECHR2067,-,-,2,-,40S ribosomal protein S15A,protein-coding,-,-,-,40S ribosomal protein S15A,20210607,-
+55529,857508,rps17,GTHECHR2068,-,-,2,-,rpS17 protein,protein-coding,-,-,-,rpS17 protein,20210607,-
+55529,857509,rps19,GTHECHR2069,-,-,2,-,40S ribosomal protein S19,protein-coding,-,-,-,40S ribosomal protein S19,20210607,-
+55529,857510,rps23,GTHECHR2070,-,-,2,-,40S ribosomal protein S23,protein-coding,-,-,-,40S ribosomal protein S23,20210607,-
+55529,857511,rps24,GTHECHR2071,-,-,2,-,40S ribosomal protein S24,protein-coding,-,-,-,40S ribosomal protein S24,20210607,-
+55529,857512,rps26,GTHECHR2072,-,-,2,-,40S ribosomal protein S26,protein-coding,-,-,-,40S ribosomal protein S26,20210607,-
+55529,857513,rps27,GTHECHR2073,-,-,2,-,40S ribosomal protein S27,protein-coding,-,-,-,40S ribosomal protein S27,20210607,-
+55529,857514,rps28,GTHECHR2074,-,-,2,-,40S ribosomal protein S28,protein-coding,-,-,-,40S ribosomal protein S28,20210607,-
+55529,857515,rps3a,GTHECHR2075,-,-,2,-,40S ribosomal Protein S3a,protein-coding,-,-,-,40S ribosomal Protein S3a,20210607,-
+55529,857516,rps4,GTHECHR2076,-,-,2,-,40S ribosomal protein S4,protein-coding,-,-,-,40S ribosomal protein S4,20210607,-
+55529,857517,rps8,GTHECHR2077,-,-,2,-,40S ribosomal protein S8,protein-coding,-,-,-,40S ribosomal protein S8,20210607,-
+55529,857518,rrp3,GTHECHR2078,-,-,2,-,DEAD box protein,protein-coding,-,-,-,DEAD box protein,20210607,-
+55529,857519,rsp4,GTHECHR2079,-,-,2,-,40S ribosomal protein SSA,protein-coding,-,-,-,40S ribosomal protein SSA,20210607,-
+55529,857520,rub,GTHECHR2080,-,-,2,-,rubredoxin,protein-coding,-,-,-,rubredoxin,20210607,-
+55529,857521,secE,GTHECHR2081,-,-,2,-,preprotein translocase secE subunit,protein-coding,-,-,-,preprotein translocase secE subunit,20210607,-
+55529,857522,sen1,GTHECHR2082,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857523,sen34,GTHECHR2083,-,-,2,-,putative tetrameric tRNA splicing endonuclease,protein-coding,-,-,-,putative tetrameric tRNA splicing endonuclease,20210607,-
+55529,857524,snR1,GTHECHR2s084,-,-,2,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,857525,snR4,GTHECHR2s085,-,-,2,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,857526,snrpD2,GTHECHR2086,-,-,2,-,small nuclear ribonucleoprotein SM D2,protein-coding,-,-,-,small nuclear ribonucleoprotein SM D2,20210607,-
+55529,857527,snrpD3,GTHECHR2087,-,-,2,-,putative small nuclear ribonucleoprotein Sm D3,protein-coding,-,-,-,putative small nuclear ribonucleoprotein Sm D3,20210607,-
+55529,857528,snrpE,GTHECHR2088,-,-,2,-,putative small nuclear ribonucleoprotein E,protein-coding,-,-,-,putative small nuclear ribonucleoprotein E,20210607,-
+55529,857529,snu13,GTHECHR2089,-,-,2,-,SNU13 snRNP subunit homolog,protein-coding,-,-,-,SNU13 snRNP subunit homolog,20210607,-
+55529,857530,sof1,GTHECHR2090,-,-,2,-,nucleolar snRNP protein,protein-coding,-,-,-,nucleolar snRNP protein,20210607,-
+55529,857531,ste4,GTHECHR2091,-,-,2,-,beta subunit of G protein,protein-coding,-,-,-,beta subunit of G protein,20210607,-
+55529,857532,sys1,GTHECHR2092,-,-,2,-,seryl-tRNA synthetase (serin-tRNA ligase),protein-coding,-,-,-,seryl-tRNA synthetase (serin-tRNA ligase),20210607,-
+55529,857533,tRNA-Arg,GTHECHR2t102,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857534,tRNA-Cys,GTHECHR2t104,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857535,tRNA-Gln,GTHECHR2t105,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857536,tRNA-His,GTHECHR2t106,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857537,tRNA-Ile,GTHECHR2t108,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857538,tRNA-Leu,GTHECHR2t110,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857539,tRNA-Lys,GTHECHR2t111,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857540,tRNA-Lys,GTHECHR2t112,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857541,tRNA-Phe,GTHECHR2t114,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857542,tRNA-Ser,GTHECHR2t116,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857543,tRNA-Ser,GTHECHR2t117,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857544,tRNA-Thr,GTHECHR2t118,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857545,tRNA-Val,GTHECHR2t120,-,-,2,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,857546,taf30,GTHECHR2093,-,-,2,-,transcription initiation factor IID SU beta,protein-coding,-,-,-,transcription initiation factor IID SU beta,20210607,-
+55529,857547,taf90,GTHECHR2094,-,-,2,-,TATA box-binding protein-associated factor chain TAFII 90,protein-coding,-,-,-,TATA box-binding protein-associated factor chain TAFII 90,20210607,-
+55529,857548,tcpG,GTHECHR2095,-,-,2,-,T-complex protein gamma SU,protein-coding,-,-,-,T-complex protein gamma SU,20210607,-
+55529,857549,tcpT,GTHECHR2096,-,-,2,-,chaperonin-containing-TCP1 theta subunit,protein-coding,-,-,-,chaperonin-containing-TCP1 theta subunit,20210607,-
+55529,857550,tcpZ,GTHECHR2097,-,-,2,-,"T-complex protein 1, zeta SU",protein-coding,-,-,-,"T-complex protein 1, zeta SU",20210607,-
+55529,857551,tfIIA-S,GTHECHR2098,-,-,2,-,transcription initiation factor IIA gamma chain,protein-coding,-,-,-,transcription initiation factor IIA gamma chain,20210607,-
+55529,857552,tfIIB-brf,GTHECHR2099,-,-,2,-,TFIIB related factor hBRF,protein-coding,-,-,-,TFIIB related factor hBRF,20210607,-
+55529,857553,tfIId,GTHECHR2100,-,-,2,-,TATA binding protein of transcription factor IID,protein-coding,-,-,-,TATA binding protein of transcription factor IID,20210607,-
+55529,857554,tif211,GTHECHR2101,-,-,2,-,translational initiation factor 2 alpha SU,protein-coding,-,-,-,translational initiation factor 2 alpha SU,20210607,-
+55529,857555,tubA,GTHECHR2121,-,-,2,-,tubulin alpha-1 chain,protein-coding,-,-,-,tubulin alpha-1 chain,20210607,-
+55529,857556,u5snRNP,GTHECHR2122,-,-,2,-,putative U5 snRNP-specific protein,protein-coding,-,-,-,putative U5 snRNP-specific protein,20210607,-
+55529,857557,ubc4,GTHECHR2123,-,-,2,-,ubiquitin conjugating enzyme,protein-coding,-,-,-,ubiquitin conjugating enzyme,20210607,-
+55529,857558,ubc4,GTHECHR2124,-,-,2,-,ubiquitin conjugating enzyme,protein-coding,-,-,-,ubiquitin conjugating enzyme,20210607,-
+55529,857559,uce-E2,GTHECHR2125,-,-,2,-,ubiquitin-conjugating enzyme E2-21 KD,protein-coding,-,-,-,ubiquitin-conjugating enzyme E2-21 KD,20210607,-
+55529,857560,GTHECHR2126,GTHECHR2126,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857561,GTHECHR2127,GTHECHR2127,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857562,GTHECHR2128,GTHECHR2128,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857563,GTHECHR2129,GTHECHR2129,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857564,GTHECHR2130,GTHECHR2130,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857565,GTHECHR2131,GTHECHR2131,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857566,GTHECHR2132,GTHECHR2132,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857567,GTHECHR2133,GTHECHR2133,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857568,GTHECHR2134,GTHECHR2134,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857569,GTHECHR2135,GTHECHR2135,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857570,GTHECHR2136,GTHECHR2136,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857571,GTHECHR2137,GTHECHR2137,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857572,GTHECHR2138,GTHECHR2138,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857573,GTHECHR2139,GTHECHR2139,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857574,GTHECHR2140,GTHECHR2140,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857575,GTHECHR2141,GTHECHR2141,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857576,GTHECHR2142,GTHECHR2142,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857577,GTHECHR2143,GTHECHR2143,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857578,GTHECHR2144,GTHECHR2144,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857579,GTHECHR2145,GTHECHR2145,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857580,GTHECHR2146,GTHECHR2146,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857581,GTHECHR2147,GTHECHR2147,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857582,GTHECHR2148,GTHECHR2148,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857583,GTHECHR2149,GTHECHR2149,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857584,GTHECHR2150,GTHECHR2150,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857585,GTHECHR2152,GTHECHR2152,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857586,GTHECHR2153,GTHECHR2153,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857587,GTHECHR2154,GTHECHR2154,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857588,GTHECHR2155,GTHECHR2155,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857589,GTHECHR2156,GTHECHR2156,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857590,GTHECHR2157,GTHECHR2157,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857591,GTHECHR2158,GTHECHR2158,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857592,GTHECHR2159,GTHECHR2159,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857593,GTHECHR2160,GTHECHR2160,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857594,GTHECHR2161,GTHECHR2161,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857595,GTHECHR2162,GTHECHR2162,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857596,GTHECHR2163,GTHECHR2163,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857597,GTHECHR2164,GTHECHR2164,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857598,GTHECHR2165,GTHECHR2165,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857599,GTHECHR2166,GTHECHR2166,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857600,GTHECHR2167,GTHECHR2167,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857601,GTHECHR2168,GTHECHR2168,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857602,GTHECHR2169,GTHECHR2169,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857603,GTHECHR2170,GTHECHR2170,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857604,GTHECHR2171,GTHECHR2171,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857605,GTHECHR2172,GTHECHR2172,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857606,GTHECHR2173,GTHECHR2173,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857607,GTHECHR2174,GTHECHR2174,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857608,GTHECHR2175,GTHECHR2175,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857609,GTHECHR2176,GTHECHR2176,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857610,GTHECHR2177,GTHECHR2177,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857611,GTHECHR2178,GTHECHR2178,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857612,GTHECHR2179,GTHECHR2179,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857613,GTHECHR2180,GTHECHR2180,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857614,GTHECHR2181,GTHECHR2181,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857615,GTHECHR2182,GTHECHR2182,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857616,GTHECHR2183,GTHECHR2183,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857617,GTHECHR2184,GTHECHR2184,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857618,GTHECHR2185,GTHECHR2185,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857619,GTHECHR2186,GTHECHR2186,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857620,GTHECHR2187,GTHECHR2187,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857621,GTHECHR2188,GTHECHR2188,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857622,GTHECHR2189,GTHECHR2189,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857623,GTHECHR2190,GTHECHR2190,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857624,GTHECHR2191,GTHECHR2191,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,857625,GTHECHR2192,GTHECHR2192,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444454,GuthCp012,GuthCp012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444455,GuthCp013,GuthCp013,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444456,ycf65,GuthCp014,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,putative ribosomal protein 3,20210607,-
+55529,1444457,GuthCp023,GuthCp023,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444458,ycf61,GuthCp034,-,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210607,-
+55529,1444459,GuthCp045,GuthCp045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444460,GuthCp050,GuthCp050,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,1444461,GuthCp057,GuthCp057,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,2673707,18SrRNA,GTHECHR2r001,-,-,2,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,2673708,tRNA-Phe,GTHECHR2113,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,2673711,tRNA-Cys,GTHECHR2103,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,2673712,tRNA-Val,GTHECHR2119,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,2673713,tRNA-Ile,GTHECHR2107,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,2673714,tRNA-Leu,GTHECHR2109,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,2829621,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene.,other,-,-,-,-,20200118,-
+55529,5814244,tRNA-Ser,GTHECHR2115,-,-,2,-,-,other,-,-,-,-,20210607,-
+55529,5814245,GTHECHR3s186,GTHECHR3s186,-,-,3,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,5814246,GTHECHR3t182,GTHECHR3t182,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814247,GTHECHR3r187,GTHECHR3r187,-,-,3,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814248,GTHECHR3t184,GTHECHR3t184,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814249,GTHECHR3t176,GTHECHR3t176,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814250,GTHECHR3t172,GTHECHR3t172,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814251,GTHECHR3t173,GTHECHR3t173,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814252,GTHECHR3t168,GTHECHR3t168,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814253,GTHECHR3r189,GTHECHR3r189,-,-,3,-,28S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814254,GTHECHR3t169,GTHECHR3t169,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814255,GTHECHR1t162,GTHECHR1t162,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814256,GTHECHR1t168,GTHECHR1t168,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814257,GTHECHR1t169,GTHECHR1t169,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814258,GTHECHR1r170,GTHECHR1r170,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814259,GTHECHR1r174,GTHECHR1r174,-,-,1,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814260,GTHECHR1t163,GTHECHR1t163,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814261,GTHECHR1r171,GTHECHR1r171,-,-,1,-,28 S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814262,GTHECHR1r172,GTHECHR1r172,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814263,GTHECHR1r173,GTHECHR1r173,-,-,1,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814264,GTHECHR1r175,GTHECHR1r175,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814265,GTHECHR1r176,GTHECHR1r176,-,-,1,-,28S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814266,GTHECHR1r177,GTHECHR1r177,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814267,GTHECHR3r179,GTHECHR3r179,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814268,GTHECHR3r180,GTHECHR3r180,-,-,3,-,18S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814269,GTHECHR3r181,GTHECHR3r181,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814270,GTHECHR3t174,GTHECHR3t174,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814271,GTHECHR3190,GTHECHR3190,-,-,3,-,TATA binding protein of transcription factor IID,protein-coding,-,-,-,TATA binding protein of transcription factor IID,20210607,-
+55529,5814272,GTHECHR3r188,GTHECHR3r188,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814273,GTHECHR3r178,GTHECHR3r178,-,-,3,-,28S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814274,GTHECHR1t161,GTHECHR1t161,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814275,GTHECHR1s178,GTHECHR1s178,-,-,1,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,5814276,GTHECHR3t175,GTHECHR3t175,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814277,GTHECHR3s183,GTHECHR3s183,-,-,3,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,5814278,GTHECHR3t170,GTHECHR3t170,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814279,GTHECHR3t167,GTHECHR3t167,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814280,GTHECHR3r177,GTHECHR3r177,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,5814281,GTHECHR3s185,GTHECHR3s185,-,-,3,-,ncRNA,ncRNA,-,-,-,-,20210607,-
+55529,5814282,GTHECHR3t164,GTHECHR3t164,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814283,GTHECHR3t171,GTHECHR3t171,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814284,GTHECHR3t166,GTHECHR3t166,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814285,GTHECHR1t164,GTHECHR1t164,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814286,GTHECHR1t165,GTHECHR1t165,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814287,GTHECHR1t166,GTHECHR1t166,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814288,GTHECHR1t167,GTHECHR1t167,-,-,1,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,5814289,GTHECHR3t165,GTHECHR3t165,-,-,3,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703293,cob,E6R72_mgp02,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20210608,-
+55529,39703294,nad11,E6R72_mgp03,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,NADH dehydrogenase subunit 11,20210608,-
+55529,39703295,rns,E6R72_mgr01,-,-,MT,-,12S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,39703296,trnY(gta),E6R72_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703297,nad7,E6R72_mgp31,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20210608,-
+55529,39703298,trnK(ttt),E6R72_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703299,atp4,E6R72_mgp35,-,-,MT,-,ATP synthase F0 subunit 4,protein-coding,-,-,-,ATP synthase F0 subunit 4,20210608,-
+55529,39703300,atp9,E6R72_mgp33,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20210608,-
+55529,39703301,trnT(tgt),E6R72_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703302,tatA,E6R72_mgp22,-,-,MT,-,Sec-independent protein translocase component tatA/E,protein-coding,-,-,-,Sec-independent protein translocase component tatA/E,20210607,-
+55529,39703303,rpl14,E6R72_mgp29,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210608,-
+55529,39703304,trnC(gca),E6R72_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703305,cox2,E6R72_mgp21,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20210608,-
+55529,39703306,rps8,E6R72_mgp13,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210608,-
+55529,39703307,rps19,E6R72_mgp26,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210608,-
+55529,39703308,rps13,E6R72_mgp15,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210608,-
+55529,39703309,rps14,E6R72_mgp20,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210608,-
+55529,39703310,rps3,E6R72_mgp27,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210608,-
+55529,39703311,rpl16,E6R72_mgp28,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210608,-
+55529,39703312,rps7,E6R72_mgp25,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210608,-
+55529,39703313,nad9,E6R72_mgp19,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20210608,-
+55529,39703314,cox3,E6R72_mgp23,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210608,-
+55529,39703315,rps12,E6R72_mgp24,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210608,-
+55529,39703316,trnW(cca),E6R72_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703317,rpl6,E6R72_mgp14,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210608,-
+55529,39703318,nad10,E6R72_mgp18,-,-,MT,-,NADH dehydrogenase subunit 10,protein-coding,-,-,-,NADH dehydrogenase subunit 10,20210608,-
+55529,39703319,trnD(gtc),E6R72_mgt27,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703320,rps2,E6R72_mgp04,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210608,-
+55529,39703321,nad4L,E6R72_mgp06,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210608,-
+55529,39703322,nad5,E6R72_mgp07,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210608,-
+55529,39703323,trnV(tac),E6R72_mgt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703324,nad4,E6R72_mgp08,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210608,-
+55529,39703325,trnM(cat),E6R72_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703326,trnP(tgg),E6R72_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703327,trnF(gaa),E6R72_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703328,trnH(gtg),E6R72_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703329,rnl,E6R72_mgr02,-,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20210607,-
+55529,39703330,atp8,E6R72_mgp36,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20210608,-
+55529,39703331,trnN(gtt),E6R72_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703332,trnG(gcc),E6R72_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703333,trnR(tct),E6R72_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703334,trnG(tcc),E6R72_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703335,trnL(taa),E6R72_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703336,rps4,E6R72_mgp34,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210608,-
+55529,39703337,trnL(tag),E6R72_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703338,trnM(cat),E6R72_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703339,trnS(tga),E6R72_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703340,tatC,E6R72_mgp32,-,-,MT,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20210608,-
+55529,39703341,trnR(tcg),E6R72_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703342,rpl5,E6R72_mgp30,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210608,-
+55529,39703343,trnA(tgc),E6R72_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703344,trnE(ttc),E6R72_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703345,trnR(gcg),E6R72_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703346,trnL(gag),E6R72_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703347,trnQ(ttg),E6R72_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703348,trnI(gat),E6R72_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703349,atp6,E6R72_mgp17,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20210608,-
+55529,39703350,rps11,E6R72_mgp16,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210608,-
+55529,39703351,ORF193,E6R72_mgp12,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210607,-
+55529,39703352,rps1,E6R72_mgp11,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20210607,-
+55529,39703353,atp1,E6R72_mgp10,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,ATP synthase F1 subunit alpha,20210608,-
+55529,39703354,nad2,E6R72_mgp09,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210608,-
+55529,39703355,trnM(cat),E6R72_mgt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210607,-
+55529,39703356,nad3,E6R72_mgp05,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210608,-
+55529,39703357,cox1,E6R72_mgp01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20210608,-

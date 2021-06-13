@@ -1,0 +1,69 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+62313,3860952,trnV(uac),DevioMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860953,atp9,DevioMp02,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9|ATP synthase F0 subunit c,20190608,-
+62313,3860954,trnM(cau)e,DevioMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860955,trnL(uaa),DevioMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860956,trnH(gug),DevioMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860957,trnC(gca),DevioMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860958,trnN(guu),DevioMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860959,trnF(gaa),DevioMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860960,rps8,DevioMp03,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20160820,-
+62313,3860961,rpl6,DevioMp04,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160820,-
+62313,3860962,cox1,DevioMp26,-,-,MT,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I|cytochrome c oxidase subunit 1,20160820,-
+62313,3860963,trnI(gau),DevioMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860964,trnE(uuc),DevioMt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860965,nad9,DevioMp27,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20150626,-
+62313,3860966,cob,DevioMp28,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b|apocytochrome b,20160820,-
+62313,3860967,cox2,DevioMp29,-,-,MT,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II|cytochrome c oxidase subunit 2,20160820,-
+62313,3860968,nad4,DevioMp30,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160820,-
+62313,3860969,trnX,DevioMt19,trnK2,-,MT,-,pseudo,pseudo,-,-,-,-,20130401,-
+62313,3860970,nad5,DevioMp31,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160820,-
+62313,3860971,nad6,DevioMp32,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160820,-
+62313,3860972,nad11,DevioMp33,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,-,20160820,-
+62313,3860973,nad3,DevioMp34,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160820,-
+62313,3860974,rps14,DevioMp35,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160820,-
+62313,3860975,atp8,DevioMp36,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160820,-
+62313,3860976,rps2,DevioMp05,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20160325,-
+62313,3860977,rps4,DevioMp06,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20150702,-
+62313,3860978,nad1,DevioMp07,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160820,-
+62313,3860979,tatC,DevioMp08,-,-,MT,-,SecY-independent protein translocase component tatC,protein-coding,-,-,-,-,20160820,-
+62313,3860980,trnW(cca),DevioMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860981,trnI(cau),DevioMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860982,trnQ(uug),DevioMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860983,trnL(uag),DevioMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860984,rps12,DevioMp10,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160820,-
+62313,3860985,rps7,DevioMp11,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160910,-
+62313,3860986,nad4L,DevioMp12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160820,-
+62313,3860987,trnL(caa),DevioMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860988,rpl14,DevioMp13,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20160820,-
+62313,3860989,rpl5,DevioMp14,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160820,-
+62313,3860990,trnG(gcc),DevioMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860991,orf143,DevioMp15,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+62313,3860992,rpl16,DevioMp16,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160820,-
+62313,3860993,rps3,DevioMp17,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160820,-
+62313,3860994,rps19,DevioMp18,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160820,-
+62313,3860995,rpl2,DevioMp19,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160820,-
+62313,3860996,rps13,DevioMp20,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160820,-
+62313,3860997,rps11,DevioMp21,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160820,-
+62313,3860998,trnY(gua),DevioMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3860999,cox3,DevioMp22,-,-,MT,-,cytochrome c oxidase subunit III,protein-coding,-,-,-,cytochrome c oxidase subunit III|cytochrome c oxidase subunit 3,20160820,-
+62313,3861000,orf622,DevioMp23,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+62313,3861001,atp6,DevioMp24,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6|ATP synthase F0 subunit a,20150702,-
+62313,3861002,trnR(ucu),DevioMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861003,nad2,DevioMp25,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160820,-
+62313,3861004,trnS(gcu),DevioMt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861005,trnD(guc),DevioMt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861006,trnA(ugc),DevioMt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861007,rps10,DevioMp37,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20160820,-
+62313,3861008,trnS(uga),DevioMt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861009,rpl31,DevioMp38,-,-,MT,-,ribosomal protein L31,protein-coding,-,-,-,-,20150626,-
+62313,3861010,rns,DevioMr02,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20130401,-
+62313,3861011,rrn5,DevioMr03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20130401,-
+62313,3861012,trnM(cau)f,DevioMt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861013,nad7,DevioMp39,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150702,-
+62313,3861014,trnP(ugg),DevioMt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861015,orf39,DevioMp09,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+62313,3861016,trnY(aua),DevioMt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861017,rnl,DevioMr01,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20130401,-
+62313,3861018,trnK(uuu),DevioMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20130401,-
+62313,3861019,orf211,DevioMp01,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-

@@ -1,0 +1,130 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+50454,55290252,psbA,HRV15_pgp085,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200908,-
+50454,55290253,matK,HRV15_pgp084,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210327,-
+50454,55290254,trnQ(UUG),HRV15_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290255,psbK,HRV15_pgp083,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20210327,-
+50454,55290256,psbI,HRV15_pgp082,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200908,-
+50454,55290257,trnS(GCU),HRV15_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290258,trnR(UCU),HRV15_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290259,atpA,HRV15_pgp081,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20210129,-
+50454,55290260,atpF,HRV15_pgp080,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20210116,-
+50454,55290261,atpH,HRV15_pgp079,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200908,-
+50454,55290262,atpI,HRV15_pgp078,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20210129,-
+50454,55290263,rps2,HRV15_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210327,-
+50454,55290264,rpoC2,HRV15_pgp076,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210327,-
+50454,55290265,rpoC1,HRV15_pgp075,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210327,-
+50454,55290266,rpoB,HRV15_pgp074,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20210327,-
+50454,55290267,trnC(GCA),HRV15_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290268,petN,HRV15_pgp073,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200926,-
+50454,55290269,psbM,HRV15_pgp072,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200908,-
+50454,55290270,trnD(GUC),HRV15_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290271,trnY(GUA),HRV15_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290272,trnE(UUC),HRV15_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290273,trnT(GGU),HRV15_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290274,psbD,HRV15_pgp071,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20201003,-
+50454,55290275,psbC,HRV15_pgp070,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20201003,-
+50454,55290276,trnS(UGA),HRV15_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290277,psbZ,HRV15_pgp069,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20210129,-
+50454,55290278,trnG(UCC),HRV15_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290279,trnfM(CAU),HRV15_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290280,rps14,HRV15_pgp068,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200926,-
+50454,55290281,psaB,HRV15_pgp067,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20200926,-
+50454,55290282,psaA,HRV15_pgp066,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20210327,-
+50454,55290283,ycf3,HRV15_pgp065,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20201010,-
+50454,55290284,trnS(GGA),HRV15_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290285,rps4,HRV15_pgp064,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210327,-
+50454,55290286,trnT(UGU),HRV15_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290287,trnL(UAA),HRV15_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290288,trnF(GAA),HRV15_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290289,ndhJ,HRV15_pgp063,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20210129,-
+50454,55290290,ndhK,HRV15_pgp062,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20210327,-
+50454,55290291,ndhC,HRV15_pgp061,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20210129,-
+50454,55290292,trnV(UAC),HRV15_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290293,trnM(CAU),HRV15_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290294,atpE,HRV15_pgp060,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20210327,-
+50454,55290295,atpB,HRV15_pgp059,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20210129,-
+50454,55290296,rbcL,HRV15_pgp058,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210129,-
+50454,55290297,accD,HRV15_pgp057,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20210327,-
+50454,55290298,psaI,HRV15_pgp056,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200926,-
+50454,55290299,ycf4,HRV15_pgp055,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20210327,-
+50454,55290300,cemA,HRV15_pgp054,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20210327,-
+50454,55290301,petA,HRV15_pgp053,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20210327,-
+50454,55290302,psbJ,HRV15_pgp052,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200926,-
+50454,55290303,psbL,HRV15_pgp051,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200908,-
+50454,55290304,psbF,HRV15_pgp050,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200908,-
+50454,55290305,psbE,HRV15_pgp049,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200908,-
+50454,55290306,petL,HRV15_pgp048,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200908,-
+50454,55290307,petG,HRV15_pgp047,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210129,-
+50454,55290308,trnW(CCA),HRV15_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290309,trnP(UGG),HRV15_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290310,trnP(GGG),HRV15_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290311,psaJ,HRV15_pgp046,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200908,-
+50454,55290312,rpl33,HRV15_pgp045,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210327,-
+50454,55290313,rps18,HRV15_pgp044,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210327,-
+50454,55290314,rpl20,HRV15_pgp043,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210129,-
+50454,55290315,rps12,HRV15_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-
+50454,55290316,clpP,HRV15_pgp040,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20210327,-
+50454,55290317,trnH(GUG),HRV15_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290318,psbB,HRV15_pgp039,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20210129,-
+50454,55290319,psbT,HRV15_pgp038,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20201003,-
+50454,55290320,psbN,HRV15_pgp037,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200908,-
+50454,55290321,psbH,HRV15_pgp036,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20210129,-
+50454,55290322,petD,HRV15_pgp035,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20210320,-
+50454,55290323,rpoA,HRV15_pgp034,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20210327,-
+50454,55290324,rps11,HRV15_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210129,-
+50454,55290325,rpl36,HRV15_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200908,-
+50454,55290326,rps8,HRV15_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210327,-
+50454,55290327,rpl14,HRV15_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210129,-
+50454,55290328,rpl16,HRV15_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210320,-
+50454,55290329,rps3,HRV15_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210403,-
+50454,55290330,rpl22,HRV15_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210327,-
+50454,55290331,rps19,HRV15_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20201003,-
+50454,55290332,rpl2,HRV15_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210327,-
+50454,55290333,rpl23,HRV15_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200912,-
+50454,55290334,trnI(CAU),HRV15_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290335,ycf2,HRV15_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+50454,55290336,ycf15,HRV15_pgp022,-,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200926,-
+50454,55290337,trnL(CAA),HRV15_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290338,ndhB,HRV15_pgp021,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210327,-
+50454,55290339,rps7,HRV15_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201003,-
+50454,55290340,trnV(GAC),HRV15_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290341,16S rRNA,HRV15_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290342,trnI(GAU),HRV15_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290343,trnA(UGC),HRV15_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290344,23S rRNA,HRV15_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290345,4.5S rRNA,HRV15_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290346,5S rRNA,HRV15_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290347,trnR(ACG),HRV15_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290348,trnN(GUU),HRV15_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290349,ycf1,HRV15_pgp019,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210327,-
+50454,55290350,ndhF,HRV15_pgp018,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20210327,-
+50454,55290351,rpl32,HRV15_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210129,-
+50454,55290352,trnL(TAG),HRV15_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290353,ccsA,HRV15_pgp016,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20210327,-
+50454,55290354,ndhD,HRV15_pgp015,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20210327,-
+50454,55290355,psaC,HRV15_pgp014,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200908,-
+50454,55290356,ndhE,HRV15_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200926,-
+50454,55290357,ndhG,HRV15_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20210327,-
+50454,55290358,ndhI,HRV15_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20210327,-
+50454,55290359,ndhA,HRV15_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20210327,-
+50454,55290360,ndhH,HRV15_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20210327,-
+50454,55290361,rps15,HRV15_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210327,-
+50454,55290362,ycf1,HRV15_pgp007,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210327,-
+50454,55290363,trnN(GUU),HRV15_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290364,trnR(ACG),HRV15_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290365,5S rRNA,HRV15_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290366,4.5S rRNA,HRV15_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290367,23S rRNA,HRV15_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290368,trnA(UGC),HRV15_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290369,trnI(GAU),HRV15_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290370,16S rRNA,HRV15_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+50454,55290371,trnV(GAC),HRV15_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290372,rps7,HRV15_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201003,-
+50454,55290373,ndhB,HRV15_pgp005,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210327,-
+50454,55290374,trnL(CAA),HRV15_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290375,ycf15,HRV15_pgp004,-,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200926,-
+50454,55290376,ycf2,HRV15_pgp003,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+50454,55290377,trnI(CAU),HRV15_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+50454,55290378,rpl23,HRV15_pgp002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200912,-
+50454,55290379,rpl2,HRV15_pgp001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210327,-
+50454,55290380,rps12,HRV15_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-

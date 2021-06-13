@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+53042,24018717,rbcL,WX21_gp072,WX21_p072,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160325,-
+53042,24018718,atpE,WX21_gp070,WX21_p070,-,-,-,ATP synthase CF1 subunit epsilon,protein-coding,-,-,-,-,20180317,-
+53042,24018720,atpH,WX21_gp051,WX21_p051,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20160325,-
+53042,24018721,atpF,WX21_gp050,WX21_p050,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20160910,-
+53042,24018722,atpA,WX21_gp049,WX21_p049,-,-,-,ATP synthase CF1 subunit alpha,protein-coding,-,-,-,-,20210424,-
+53042,24018724,ndhD,WX21_gp016,WX21_p016,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160910,-
+53042,24018725,ycf4,WX21_gp075,WX21_p075,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150715,-
+53042,24018726,psbB,WX21_gp041,WX21_p041,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20150715,-
+53042,24018727,rps8,WX21_gp031,WX21_p031,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150715,-
+53042,24018728,rps16,WX21_gp086,WX21_p086,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150715,-
+53042,24018729,rps15,WX21_gp009,WX21_p009,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160910,-
+53042,24018730,ndhH,WX21_gp010,WX21_p010,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20150725,-
+53042,24018731,ndhA,WX21_gp011,WX21_p011,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150715,-
+53042,24018732,ndhI,WX21_gp012,WX21_p012,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20160910,-
+53042,24018733,ndhG,WX21_gp013,WX21_p013,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150715,-
+53042,24018734,psaC,WX21_gp015,WX21_p015,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+53042,24018735,rpl32,WX21_gp018,WX21_p018,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150715,-
+53042,24018736,ndhK,WX21_gp068,WX21_p068,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160910,-
+53042,24018737,ndhJ,WX21_gp067,WX21_p067,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20160325,-
+53042,24018740,rps7,WX21_gp021,WX21_p021,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+53042,24018742,cemA,WX21_gp076,WX21_p076,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20150715,-
+53042,24018743,psbE,WX21_gp081,WX21_p081,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20160910,-
+53042,24018744,petL,WX21_gp082,WX21_p082,-,-,-,cytochrome b6/f complex subunit 6,protein-coding,-,-,-,-,20150715,-
+53042,24018745,petD,WX21_gp036,WX21_p036,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,-,20160910,-
+53042,24018746,rpoA,WX21_gp035,WX21_p035,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20180317,-
+53042,24018747,rps14,WX21_gp062,WX21_p062,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150715,-
+53042,24018748,psaB,WX21_gp063,WX21_p063,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150715,-
+53042,24018749,accD,WX21_gp073,WX21_p073,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit beta,protein-coding,-,-,-,-,20150715,-
+53042,24018750,rpl33,WX21_gp047,WX21_p047,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150715,-
+53042,24018751,ndhE,WX21_gp014,WX21_p014,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150715,-
+53042,24018753,psbI,WX21_gp084,WX21_p084,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150715,-
+53042,24018755,petN,WX21_gp057,WX21_p057,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20150715,-
+53042,24018757,psbD,WX21_gp059,WX21_p059,-,-,-,photosystem II reaction center protein D2,protein-coding,-,-,-,-,20160910,-
+53042,24018759,petA,WX21_gp077,WX21_p077,-,-,-,apocytochrome f,protein-coding,-,-,-,-,20180317,-
+53042,24018760,psbJ,WX21_gp078,WX21_p078,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150715,-
+53042,24018761,psbL,WX21_gp079,WX21_p079,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150715,-
+53042,24018762,psbF,WX21_gp080,WX21_p080,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20150715,-
+53042,24018763,psbT,WX21_gp040,WX21_p040,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150715,-
+53042,24018764,psbN,WX21_gp039,WX21_p039,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150715,-
+53042,24018765,psbH,WX21_gp038,WX21_p038,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20150715,-
+53042,24018766,petB,WX21_gp037,WX21_p037,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20171118,-
+53042,24018767,atpB,WX21_gp071,WX21_p071,-,-,-,ATP synthase CF1 subunit beta,protein-coding,-,-,-,-,20160910,-
+53042,24018768,rps18,WX21_gp046,WX21_p046,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150715,-
+53042,24018770,rpl23,WX21_gp024,WX21_p024,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150715,-
+53042,24018771,rpl2,WX21_gp003,WX21_p003,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160910,-
+53042,24018773,rps12,WX21_gp044,WX21_p044,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+53042,24018774,infA,WX21_gp032,WX21_p032,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160910,-
+53042,24018775,rpl16,WX21_gp029,WX21_p029,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+53042,24018776,rps3,WX21_gp028,WX21_p028,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+53042,24018777,rps19,WX21_gp026,WX21_p026,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160325,-
+53042,24018779,rpoC2,WX21_gp054,WX21_p054,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160910,-
+53042,24018780,rps2,WX21_gp053,WX21_p053,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160910,-
+53042,24018781,rpoC1,WX21_gp055,WX21_p055,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160910,-
+53042,24018782,rps11,WX21_gp034,WX21_p034,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150715,-
+53042,24018784,ndhF,WX21_gp019,WX21_p019,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160910,-
+53042,24018785,psaI,WX21_gp074,WX21_p074,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,-,20150715,-
+53042,24018786,psaA,WX21_gp064,WX21_p064,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150715,-
+53042,24018790,atpI,WX21_gp052,WX21_p052,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150715,-
+53042,24018793,rpl20,WX21_gp045,WX21_p045,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160910,-
+53042,24018794,rpl36,WX21_gp033,WX21_p033,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150715,-
+53042,24018795,rpl14,WX21_gp030,WX21_p030,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150715,-
+53042,24018796,rpl22,WX21_gp027,WX21_p027,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160910,-
+53042,24018797,ycf1,WX21_gp008,WX21_p008,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+53042,24018799,ndhB,WX21_gp006,WX21_p006,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20160910,-
+53042,24018801,rpoB,WX21_gp056,WX21_p056,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160910,-
+53042,24018802,psbM,WX21_gp058,WX21_p058,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+53042,24018806,matK,WX21_gp087,WX21_p087,-,-,-,maturase K,protein-coding,-,-,-,-,20160910,-
+53042,24018808,psbK,WX21_gp085,WX21_p085,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150715,-
+53042,24018809,ycf3,WX21_gp065,WX21_p065,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,-,20170906,-
+53042,24018810,psbC,WX21_gp060,WX21_p060,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20150715,-
+53042,24018813,rps4,WX21_gp066,WX21_p066,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20200905,-
+53042,24018814,petG,WX21_gp083,WX21_p083,-,-,-,cytochrome b6/f complex subunit 5,protein-coding,-,-,-,-,20160827,-
+53042,24018818,rpl2,WX21_gp025,WX21_p025,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160910,-
+53042,24018819,rps19,WX21_gp002,WX21_p002,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150715,-
+53042,24018820,rps12,WX21_gp043,WX21_p043,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+53042,24018821,psaJ,WX21_gp048,WX21_p048,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,-,20150715,-
+53042,24018822,psbZ,WX21_gp061,WX21_p061,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150715,-
+53042,24018823,rpl23,WX21_gp004,WX21_p004,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150715,-
+53042,24018824,ycf2,WX21_gp023,WX21_p023,-,-,-,conserved hypothetical protein ycf2,protein-coding,-,-,-,-,20160910,-
+53042,24018827,ccsA,WX21_gp017,WX21_p017,-,-,-,heme attachment to plastid cytochrome c,protein-coding,-,-,-,-,20150715,-
+53042,24018829,ycf2,WX21_gp005,WX21_p005,-,-,-,conserved hypothetical protein ycf2,protein-coding,-,-,-,-,20160910,-
+53042,24018830,ndhB,WX21_gp022,WX21_p022,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20160910,-
+53042,24018834,ycf1,WX21_gp020,WX21_p020,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+53042,24018838,ndhC,WX21_gp069,WX21_p069,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150715,-
+53042,24018840,rps7,WX21_gp007,WX21_p007,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+53042,24018849,clpP,WX21_gp042,WX21_p042,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160910,-
+53042,24018850,psbA,WX21_gp001,WX21_p001,-,-,-,photosystem II reaction center protein D1,protein-coding,-,-,-,-,20160827,-
+53042,24119835,trnM_CAU,WX21_gt007,WX21_t007,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119836,trnR_UCU,WX21_gt021,WX21_t021,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119837,trnF_GAA,WX21_gt009,WX21_t009,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119838,trnL_CAA,WX21_gt037,WX21_t037,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119839,trnC_GCA,WX21_gt020,WX21_t020,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119840,trnK_UUU,WX21_gt001,WX21_t001,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119841,trnS_GCU,WX21_gt003,WX21_t003,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119842,trnT_GGU,WX21_gt016,WX21_t016,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119843,trnS_UGA,WX21_gt015,WX21_t015,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119844,trnH_GUG,WX21_gt039,WX21_t039,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119845,trnI_CAU,WX21_gt024,WX21_t024,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119846,trnL_UAG,WX21_gt031,WX21_t031,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119847,trnN_GUU,WX21_gt032,WX21_t032,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119848,trnL_CAA,WX21_gt025,WX21_t025,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119849,trnI_CAU,WX21_gt038,WX21_t038,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119850,trnQ_UUG,WX21_gt002,WX21_t002,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119851,trnfM_CAU,WX21_gt013,WX21_t013,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119852,trnS_GGA,WX21_gt012,WX21_t012,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119853,trnH_GUG,WX21_gt023,WX21_t023,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119854,trnV_GAC,WX21_gt026,WX21_t026,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119855,trnY_GUA,WX21_gt018,WX21_t018,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119856,trnL_UAA,WX21_gt010,WX21_t010,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119857,trnG_UCC,WX21_gt014,WX21_t014,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119858,trnV_UAC,WX21_gt008,WX21_t008,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119859,trnP_UGG,WX21_gt004,WX21_t004,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119860,trnE_UUC,WX21_gt017,WX21_t017,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119861,trnD_GUC,WX21_gt019,WX21_t019,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119862,rrn23,WX21_gr007,WX21_r007,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119863,trnI_GAU,WX21_gt035,WX21_t035,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119864,trnA_UGC,WX21_gt028,WX21_t028,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119865,rrn16,WX21_gr001,WX21_r001,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119866,trnT_UGU,WX21_gt011,WX21_t011,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119867,trnP_GGG,WX21_gt005,WX21_t005,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119868,trnW_CCA,WX21_gt006,WX21_t006,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119869,trnR_ACG,WX21_gt033,WX21_t033,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119870,trnG_GCC,WX21_gt022,WX21_t022,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119871,trnN_GUU,WX21_gt030,WX21_t030,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119872,rrn5,WX21_gr004,WX21_r004,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119873,rrn16,WX21_gr008,WX21_r008,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119874,trnI_GAU,WX21_gt027,WX21_t027,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119875,trnV_GAC,WX21_gt036,WX21_t036,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119876,rrn4.5,WX21_gr006,WX21_r006,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119877,trnA_UGC,WX21_gt034,WX21_t034,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119878,rrn5,WX21_gr005,WX21_r005,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119879,rrn23,WX21_gr002,WX21_r002,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20150423,-
+53042,24119880,trnR_ACG,WX21_gt029,WX21_t029,-,-,-,tRNA,tRNA,-,-,-,-,20150423,-
+53042,24119881,rrn4.5,WX21_gr003,WX21_r003,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20150423,-

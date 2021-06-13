@@ -1,0 +1,134 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+65970,20522765,trnK-UUU,Arpu_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522766,matK,Arpu_g002,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160917,-
+65970,20522767,rps16,Arpu_g003,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160325,-
+65970,20522768,trnQ-UUG,Arpu_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522769,psbK,Arpu_g004,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150805,-
+65970,20522770,psbI,Arpu_g005,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150805,-
+65970,20522771,trnS-GCU,Arpu_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522772,psbD,Arpu_g006,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160813,-
+65970,20522773,psbC,Arpu_g007,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150805,-
+65970,20522774,trnS-UGA,Arpu_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522775,psbZ,Arpu_g008,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150805,-
+65970,20522776,trnG-GCC,Arpu_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522777,trnfM-CAU,Arpu_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522778,trnG-UCC,Arpu_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522779,trnM-CAU,Arpu_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522780,trnT-GGU,Arpu_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522781,trnE-UUC,Arpu_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522782,trnY-GUA,Arpu_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522783,trnD-GUC,Arpu_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522784,psbM,Arpu_g009,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+65970,20522785,petN,Arpu_g010,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150805,-
+65970,20522786,trnC-GCA,Arpu_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522787,rpoB,Arpu_g011,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160917,-
+65970,20522788,rpoC1,Arpu_g012,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20191025,-
+65970,20522789,rpoC2,Arpu_g013,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160917,-
+65970,20522790,rps2,Arpu_g014,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160917,-
+65970,20522791,atpI,Arpu_g015,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150805,-
+65970,20522792,atpH,Arpu_g016,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150805,-
+65970,20522793,atpF,Arpu_g017,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20171014,-
+65970,20522794,atpA,Arpu_g018,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20180219,-
+65970,20522795,trnR-UCU,Arpu_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522796,trnfM-CAU,Arpu_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522797,rps14,Arpu_g019,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150805,-
+65970,20522798,psaB,Arpu_g020,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150805,-
+65970,20522799,psaA,Arpu_g021,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150805,-
+65970,20522800,ycf3,Arpu_g022,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20171014,-
+65970,20522801,trnS-GGA,Arpu_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522802,rps4,Arpu_g023,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20171014,-
+65970,20522803,trnT-UGU,Arpu_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522804,trnL-UAA,Arpu_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522805,trnF-GAA,Arpu_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522806,ndhJ,Arpu_g024,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150805,-
+65970,20522807,ndhK,Arpu_g025,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160917,-
+65970,20522808,ndhC,Arpu_g026,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150805,-
+65970,20522809,trnV-UAC,Arpu_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522810,trnM-CAU,Arpu_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522811,atpE,Arpu_g027,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20171014,-
+65970,20522812,atpB,Arpu_g028,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20180219,-
+65970,20522813,rbcL,Arpu_g029,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenas",protein-coding,-,-,-,-,20150805,-
+65970,20522814,psaI,Arpu_g030,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150805,-
+65970,20522815,ycf4,Arpu_g031,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150805,-
+65970,20522816,cemA,Arpu_g032,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20150805,-
+65970,20522817,petA,Arpu_g033,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20191025,-
+65970,20522818,psbJ,Arpu_g034,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150805,-
+65970,20522819,psbL,Arpu_g035,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150805,-
+65970,20522820,psbF,Arpu_g036,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150805,-
+65970,20522821,psbE,Arpu_g037,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+65970,20522822,petL,Arpu_g038,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150805,-
+65970,20522823,petG,Arpu_g039,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+65970,20522824,trnW-CCA,Arpu_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522825,trnP-UGG,Arpu_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522826,psaJ,Arpu_g040,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150805,-
+65970,20522827,rpl33,Arpu_g041,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160325,-
+65970,20522828,rps18,Arpu_g042,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150805,-
+65970,20522829,rpl20,Arpu_g043,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160917,-
+65970,20522830,rps12,Arpu_g045,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+65970,20522831,clpP,Arpu_g046,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160806,-
+65970,20522832,psbA,Arpu_g001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160806,-
+65970,20522833,psbB,Arpu_g047,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150805,-
+65970,20522834,psbT,Arpu_g048,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150805,-
+65970,20522835,psbN,Arpu_g049,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150805,-
+65970,20522836,psbH,Arpu_g050,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150805,-
+65970,20522837,petB,Arpu_g051,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+65970,20522838,petD,Arpu_g052,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160917,-
+65970,20522839,rpoA,Arpu_g053,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160917,-
+65970,20522840,rps11,Arpu_g054,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150805,-
+65970,20522841,rpl36,Arpu_g055,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20210212,-
+65970,20522842,infA,Arpu_g056,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160917,-
+65970,20522843,rps8,Arpu_g057,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150805,-
+65970,20522844,rpl14,Arpu_g058,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150805,-
+65970,20522845,rpl16,Arpu_g059,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160917,-
+65970,20522846,rps3,Arpu_g060,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20210327,-
+65970,20522847,rpl22,Arpu_g061,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160917,-
+65970,20522848,rps19,Arpu_g062,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150805,-
+65970,20522849,trnH-GUG,Arpu_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522850,rpl2,Arpu_g063,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20210327,-
+65970,20522851,rpl23,Arpu_g064,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150805,-
+65970,20522852,trnI-CAU,Arpu_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522853,trnL-CAA,Arpu_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522854,ndhB,Arpu_g065,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20210327,-
+65970,20522855,rps7,Arpu_g066,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160917,-
+65970,20522856,trnV-GAC,Arpu_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522857,Arpu_r1,Arpu_r1,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522858,trnI-GAU,Arpu_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522859,ycf68,Arpu_g067,-,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160917,-
+65970,20522860,trnA-UGC,Arpu_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522861,Arpu_r2,Arpu_r2,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522862,Arpu_r3,Arpu_r3,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522863,Arpu_r4,Arpu_r4,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522864,trnR-ACG,Arpu_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522865,trnN-GUU,Arpu_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522866,rps15,Arpu_g068,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160716,-
+65970,20522867,ndhF,Arpu_g069,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160917,-
+65970,20522868,rpl32,Arpu_g070,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150805,-
+65970,20522869,trnL-UAG,Arpu_t038,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522870,ccsA,Arpu_g071,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20160325,-
+65970,20522871,ndhD,Arpu_g072,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160917,-
+65970,20522872,psaC,Arpu_g073,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+65970,20522873,ndhE,Arpu_g074,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150805,-
+65970,20522874,ndhG,Arpu_g075,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150805,-
+65970,20522875,ndhI,Arpu_g076,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20160917,-
+65970,20522876,ndhA,Arpu_g077,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150805,-
+65970,20522877,ndhH,Arpu_g078,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20150805,-
+65970,20522878,rps15,Arpu_g079,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160716,-
+65970,20522879,trnN-GUU,Arpu_t039,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522880,trnR-ACG,Arpu_t040,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522881,Arpu_r5,Arpu_r5,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522882,Arpu_r6,Arpu_r6,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522883,Arpu_r7,Arpu_r7,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522884,trnA-UGC,Arpu_t041,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522885,trnI-GAU,Arpu_t043,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522886,ycf68,Arpu_g080,-,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160917,-
+65970,20522887,Arpu_r8,Arpu_r8,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20141005,-
+65970,20522888,trnV-GAC,Arpu_t045,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522889,rps7,Arpu_g081,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160917,-
+65970,20522890,ndhB,Arpu_g082,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20210327,-
+65970,20522891,trnL-CAA,Arpu_t046,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522892,trnI-CAU,Arpu_t047,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522893,rpl23,Arpu_g083,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150805,-
+65970,20522894,rpl2,Arpu_g084,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20210327,-
+65970,20522895,trnH-GUG,Arpu_t048,-,-,-,-,tRNA,tRNA,-,-,-,-,20141005,-
+65970,20522896,rps12,Arpu_g044,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+65970,20522897,rps19,Arpu_g085,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150805,-

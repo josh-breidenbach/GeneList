@@ -1,0 +1,239 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+74381,18251235,trnK,QDC_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251236,trnA,QDC_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251237,trnV,QDC_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251238,atp9,QDC_p01,-,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,-,20190608,-
+74381,18251239,trnM,QDC_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251240,trnL,QDC_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251241,trnH,QDC_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251242,trnC,QDC_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251243,trnN,QDC_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251244,trnF,QDC_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251245,rps8,QDC_p02,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20160910,-
+74381,18251246,rpl6,QDC_p03,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160910,-
+74381,18251247,rps2,QDC_p04,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20160910,-
+74381,18251248,rps4,QDC_p05,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20150626,-
+74381,18251249,nad1,QDC_p06,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160910,-
+74381,18251250,tatC,QDC_p07,-,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20160910,-
+74381,18251251,trnW,QDC_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251252,orf40,QDC_p08,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+74381,18251253,trnI,QDC_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251254,trnQ,QDC_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251255,trnL,QDC_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251256,rps12,QDC_p09,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20150626,-
+74381,18251257,rps7,QDC_p10,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160910,-
+74381,18251258,nad4L,QDC_p11,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160910,-
+74381,18251259,trnL,QDC_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251260,rpl14,QDC_p12,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20160910,-
+74381,18251261,rpl5,QDC_p13,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160910,-
+74381,18251262,trnG,QDC_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251263,orf130,QDC_p14,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+74381,18251264,rpl16,QDC_p15,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+74381,18251265,rps3,QDC_p16,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+74381,18251266,rps19,QDC_p17,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160910,-
+74381,18251267,rpl2,QDC_p18,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160910,-
+74381,18251268,rps13,QDC_p19,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160910,-
+74381,18251269,rps11,QDC_p20,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160910,-
+74381,18251270,trnY,QDC_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251271,cox3,QDC_p21,-,-,MT,-,cytochrome oxidase subunit III,protein-coding,-,-,-,-,20160910,-
+74381,18251272,orf379,QDC_p22,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+74381,18251273,atp6,QDC_p23,-,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,-,20150718,-
+74381,18251274,trnR,QDC_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251275,nad2,QDC_p24,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160910,-
+74381,18251276,cox1,QDC_p25,-,-,MT,-,cytochrome oxidase subunit I,protein-coding,-,-,-,-,20160910,-
+74381,18251277,trnI,QDC_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251278,trnE,QDC_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251279,nad9,QDC_p26,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20150626,-
+74381,18251280,cob,QDC_p27,-,-,MT,-,apocytochrome B,protein-coding,-,-,-,-,20150626,-
+74381,18251281,cox2,QDC_p28,-,-,MT,-,cytochrome oxidase subunit II,protein-coding,-,-,-,-,20160910,-
+74381,18251282,nad4,QDC_p29,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160910,-
+74381,18251283,nad5,QDC_p30,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170908,-
+74381,18251284,nad6,QDC_p31,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170906,-
+74381,18251285,nad11,QDC_p32,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,-,20160910,-
+74381,18251286,nad3,QDC_p33,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160910,-
+74381,18251287,rps14,QDC_p34,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160910,-
+74381,18251288,atp8,QDC_p35,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20160910,-
+74381,18251289,trnS,QDC_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251290,trnD,QDC_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251291,rps10,QDC_p36,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20160910,-
+74381,18251292,trnS,QDC_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251293,rpl31,QDC_p37,-,-,MT,-,ribosomal protein L31,protein-coding,-,-,-,-,20150626,-
+74381,18251294,rns,QDC_r02,-,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20140124,-
+74381,18251295,rrn5,QDC_r03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20140124,-
+74381,18251296,trnM,QDC_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251297,nad7,QDC_p38,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150718,-
+74381,18251298,trnP,QDC_t25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140124,-
+74381,18251299,rnl,QDC_r01,-,-,MT,-,23S ribosomal RNA,rRNA,-,-,-,-,20140124,-
+74381,26381248,rnl,AT91_gr005,LEIZ2,-,-,-,23S large subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-
+74381,26381249,trnA,AT91_gt001,LEIZ3,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381250,trnI,AT91_gt002,LEIZ4,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381251,rns,AT91_gr006,LEIZ5,-,-,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-
+74381,26381252,ycf37,AT91_gp139,LEIZ6,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381253,psaM,AT91_gp138,LEIZ7,-,-,-,photosystem I reaction center subunit XII,protein-coding,-,-,-,-,20160716,-
+74381,26381254,chlI,AT91_gp137,LEIZ8,-,-,-,magnesium-chelatase subunit I,protein-coding,-,-,-,-,20160309,-
+74381,26381255,trnF,AT91_gt003,LEIZ9,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381256,petB,AT91_gp136,LEIZ10,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20200905,-
+74381,26381257,petD,AT91_gp135,LEIZ11,-,-,-,cytochrome b6-f complex subunit IV,protein-coding,-,-,-,-,20160820,-
+74381,26381258,atpA,AT91_gp134,LEIZ12,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,-,20160716,-
+74381,26381259,atpD,AT91_gp133,LEIZ13,-,-,-,ATP synthase CF1 delta chain,protein-coding,-,-,-,-,20160716,-
+74381,26381260,atpF,AT91_gp132,LEIZ14,-,-,-,ATP synthase CF0 B chain subunit I,protein-coding,-,-,-,-,20160716,-
+74381,26381261,atpG,AT91_gp131,LEIZ15,-,-,-,ATP synthase CF0 B' chain subunit II,protein-coding,-,-,-,-,20160716,-
+74381,26381262,atpH,AT91_gp130,LEIZ16,-,-,-,ATP synthase CF0 C chain subunit III,protein-coding,-,-,-,-,20160325,-
+74381,26381263,atpI,AT91_gp129,LEIZ17,-,-,-,ATP synthase CF0 A chain subunit IV,protein-coding,-,-,-,-,20160309,-
+74381,26381264,tsf,AT91_gp128,LEIZ18,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20160716,-
+74381,26381265,rps2,AT91_gp127,LEIZ19,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20160820,-
+74381,26381266,rpoC2,AT91_gp126,LEIZ20,-,-,-,DNA-directed RNA polymerase beta' chain,protein-coding,-,-,-,-,20160716,-
+74381,26381267,rpoC1,AT91_gp125,LEIZ21,-,-,-,DNA-directed RNA polymerase beta' chain,protein-coding,-,-,-,-,20160716,-
+74381,26381268,rpoB,AT91_gp124,LEIZ22,-,-,-,DNA-directed RNA polymerase beta chain,protein-coding,-,-,-,-,20160716,-
+74381,26381269,rps20,AT91_gp123,LEIZ23,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,-,20160309,-
+74381,26381270,trnS,AT91_gt004,LEIZ24,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381271,psaD,AT91_gp122,LEIZ25,-,-,-,photosystem I ferredoxin-binding protein,protein-coding,-,-,-,-,20160309,-
+74381,26381272,trnM,AT91_gt005,LEIZ26,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381273,trnP,AT91_gt006,LEIZ27,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381274,chlB,AT91_gp121,LEIZ28,-,-,-,photochlorophyllide reductase subunit B,protein-coding,-,-,-,-,20160716,-
+74381,26381275,trnY,AT91_gt007,LEIZ29,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381276,AT91_gp120,AT91_gp120,LEIZ30,-,-,-,Upcp30,protein-coding,-,-,-,Upcp30|hypothetical protein,20160716,-
+74381,26381277,ccs1,AT91_gp119,LEIZ31,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20160309,-
+74381,26381278,ycf46,AT91_gp118,LEIZ32,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200919,-
+74381,26381279,rpl34,AT91_gp117,LEIZ33,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20210424,-
+74381,26381280,secA,AT91_gp116,LEIZ34,-,-,-,preprotein translocase subunit A,protein-coding,-,-,-,-,20160716,-
+74381,26381281,thiG,AT91_gp115,LEIZ35,-,-,-,thiamine biosynthesis protein G,protein-coding,-,-,-,-,20160716,-
+74381,26381282,trnG,AT91_gt008,LEIZ36,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381283,psbI,AT91_gp114,LEIZ37,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20180512,-
+74381,26381284,dnaK,AT91_gp113,LEIZ38,-,-,-,Hsp70-type chaperone,protein-coding,-,-,-,-,20160716,-
+74381,26381285,trnS,AT91_gt009,LEIZ39,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381286,trnM,AT91_gt010,LEIZ40,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381287,trnD,AT91_gt011,LEIZ41,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381288,groEL,AT91_gp112,LEIZ42,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,-,20160716,-
+74381,26381289,petJ,AT91_gp111,LEIZ43,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20160716,-
+74381,26381290,psbV,AT91_gp110,LEIZ44,-,-,-,PsbV,protein-coding,-,-,-,-,20160309,-
+74381,26381291,ycf66,AT91_gp109,LEIZ45,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381292,psbX,AT91_gp108,LEIZ46,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20160716,-
+74381,26381293,rpl27,AT91_gp107,LEIZ47,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,-,20160309,-
+74381,26381294,rpl19,AT91_gp106,LEIZ48,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,-,20160309,-
+74381,26381295,trnM_3,AT91_gt012,LEIZ49,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381296,ycf47,AT91_gp105,LEIZ50,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+74381,26381297,petM,AT91_gp104,LEIZ51,-,-,-,cytochrome b6-f complex subunit VII,protein-coding,-,-,-,-,20210406,-
+74381,26381298,petN,AT91_gp103,LEIZ52,-,-,-,cytochrome b6-f complex subunit 8,protein-coding,-,-,-,-,20160309,-
+74381,26381299,acsF,AT91_gp102,LEIZ53,-,-,-,phytochrome-regulated protein,protein-coding,-,-,-,-,20160716,-
+74381,26381300,ycf42,AT91_gp101,LEIZ54,-,-,-,putative peroxiredoxin ycf42,protein-coding,-,-,-,-,20160309,-
+74381,26381301,rpl35,AT91_gp100,LEIZ55,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,-,20160309,-
+74381,26381302,rpl20,AT91_gp099,LEIZ56,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20160716,-
+74381,26381303,ilvH,AT91_gp098,LEIZ57,-,-,-,aceohydroxyacid synthase small subunit,protein-coding,-,-,-,-,20160716,-
+74381,26381304,ycf34,AT91_gp097,LEIZ58,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160716,-
+74381,26381305,trnC,AT91_gt013,LEIZ59,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381306,rbcL,AT91_gp096,LEIZ60,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160309,-
+74381,26381307,rbcS,AT91_gp095,LEIZ61,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160716,-
+74381,26381308,trnR,AT91_gt014,LEIZ62,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381309,trnE,AT91_gt015,LEIZ63,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381310,psaA,AT91_gp094,LEIZ64,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160309,-
+74381,26381311,psaB,AT91_gp093,LEIZ65,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160309,-
+74381,26381312,rps14,AT91_gp092,LEIZ66,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20160309,-
+74381,26381313,petG,AT91_gp091,LEIZ67,-,-,-,cytochrome b6-f complex subunit V,protein-coding,-,-,-,-,20210123,-
+74381,26381314,psbK,AT91_gp090,LEIZ68,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20210123,-
+74381,26381315,ccsA,AT91_gp089,LEIZ69,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20160309,-
+74381,26381316,chlL,AT91_gp088,LEIZ70,-,-,-,photochlorophyllide reductase subunit L,protein-coding,-,-,-,-,20160716,-
+74381,26381317,chlN,AT91_gp087,LEIZ71,-,-,-,photochlorophyllide reductase subunit N,protein-coding,-,-,-,-,20160716,-
+74381,26381318,psaF,AT91_gp086,LEIZ72,-,-,-,photosystem I protein F,protein-coding,-,-,-,-,20160309,-
+74381,26381319,psaJ,AT91_gp085,LEIZ73,-,-,-,photosystem I protein J,protein-coding,-,-,-,-,20160309,-
+74381,26381320,AT91_gp084,AT91_gp084,LEIZ74,-,-,-,Upcp74,protein-coding,-,-,-,Upcp74|hypothetical protein,20160309,-
+74381,26381321,petA,AT91_gp083,LEIZ75,-,-,-,cytochrome f,protein-coding,-,-,-,-,20160716,-
+74381,26381322,tatC,AT91_gp082,LEIZ76,-,-,-,Sec-independent protein translocase component TatC,protein-coding,-,-,-,-,20160325,-
+74381,26381323,atpE,AT91_gp081,LEIZ77,-,-,-,ATP synthase CF1 epsilon chain,protein-coding,-,-,-,-,20160309,-
+74381,26381324,atpB,AT91_gp080,LEIZ78,-,-,-,ATP synthase CF1 beta chain,protein-coding,-,-,-,-,20160716,-
+74381,26381325,ycf3,AT91_gp079,LEIZ79,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,-,20200905,-
+74381,26381326,rps18,AT91_gp078,LEIZ80,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,-,20160716,-
+74381,26381327,rpl33,AT91_gp077,LEIZ81,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,-,20160309,-
+74381,26381328,clpC,AT91_gp076,LEIZ82,-,-,-,ATP-dependent clp protease ATP-binding subunit,protein-coding,-,-,-,-,20160716,-
+74381,26381329,trnK,AT91_gt016,LEIZ83,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381330,psaC,AT91_gp075,LEIZ84,-,-,-,photosystem I iron-sulfur cente,protein-coding,-,-,-,-,20180512,-
+74381,26381331,psbA,AT91_gp074,LEIZ85,-,-,-,photosystem II reaction center protein D1,protein-coding,-,-,-,-,20160716,-
+74381,26381332,cbbx,AT91_gp073,LEIZ86,-,-,-,cfxQ-like protein,protein-coding,-,-,-,-,20160716,-
+74381,26381333,ycf12,AT91_gp072,LEIZ87,-,-,-,Ycf12,protein-coding,-,-,-,-,20210406,-
+74381,26381334,ftrB,AT91_gp071,LEIZ88,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,-,20160716,-
+74381,26381335,psaI,AT91_gp070,LEIZ89,-,-,-,photosystem I protein I,protein-coding,-,-,-,-,20160309,-
+74381,26381336,psbJ,AT91_gp069,LEIZ90,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20210123,-
+74381,26381337,psbL,AT91_gp068,LEIZ91,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160309,-
+74381,26381338,psbF,AT91_gp067,LEIZ92,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,-,20200905,-
+74381,26381339,psbE,AT91_gp066,LEIZ93,-,-,-,cytochrome b559 alpha chain,protein-coding,-,-,-,-,20200905,-
+74381,26381340,trnG,AT91_gt017,LEIZ94,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381341,ycf4,AT91_gp065,LEIZ95,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160716,-
+74381,26381342,psaL,AT91_gp064,LEIZ96,-,-,-,photosystem I protein L,protein-coding,-,-,-,-,20160309,-
+74381,26381343,rbcR,AT91_gp063,LEIZ97,-,-,-,lysR transcriptional regulator,protein-coding,-,-,-,-,20160716,-
+74381,26381344,psbY,AT91_gp062,LEIZ98,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20160309,-
+74381,26381345,rpl32,AT91_gp061,LEIZ99,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,-,20160716,-
+74381,26381346,trnL,AT91_gt018,LEIZ100,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381347,rns,AT91_gr003,LEIZ101,-,-,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-
+74381,26381348,trnI,AT91_gt019,LEIZ102,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381349,trnA,AT91_gt020,LEIZ103,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381350,rnl,AT91_gr002,LEIZ104,-,-,-,23S large subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-
+74381,26381351,rrn5,AT91_gr001,LEIZ105,-,-,-,5S subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-
+74381,26381352,rpl21,AT91_gp060,LEIZ106,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,-,20160309,-
+74381,26381353,rpl3,AT91_gp059,LEIZ107,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,-,20160309,-
+74381,26381354,rpl4,AT91_gp058,LEIZ108,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20160309,-
+74381,26381355,rpl23,AT91_gp057,LEIZ109,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20160309,-
+74381,26381356,rpl2,AT91_gp056,LEIZ110,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20160716,-
+74381,26381357,rpl22,AT91_gp054,LEIZ112,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,-,20160716,-
+74381,26381358,rps19,AT91_gp055,LEIZ111,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20160309,-
+74381,26381359,rps3,AT91_gp053,LEIZ113,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20160716,-
+74381,26381360,rpl16,AT91_gp052,LEIZ114,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20160716,-
+74381,26381361,rpl29,AT91_gp051,LEIZ115,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,-,20160716,-
+74381,26381362,rps17,AT91_gp050,LEIZ116,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20160309,-
+74381,26381363,rpl14,AT91_gp049,LEIZ117,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20160309,-
+74381,26381364,rpl24,AT91_gp048,LEIZ118,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20160716,-
+74381,26381365,rpl5,AT91_gp047,LEIZ119,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,-,20160716,-
+74381,26381366,rps8,AT91_gp046,LEIZ120,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20160309,-
+74381,26381367,rpl6,AT91_gp045,LEIZ121,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20160716,-
+74381,26381368,rpl18,AT91_gp044,LEIZ122,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20160716,-
+74381,26381369,rps5,AT91_gp043,LEIZ123,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20160716,-
+74381,26381370,secY,AT91_gp042,LEIZ124,-,-,-,preprotein translocase subunit secY,protein-coding,-,-,-,-,20160716,-
+74381,26381371,rpl36,AT91_gp041,LEIZ125,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,-,20160309,-
+74381,26381372,rps13,AT91_gp040,LEIZ126,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20160716,-
+74381,26381373,rps11,AT91_gp039,LEIZ127,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20160309,-
+74381,26381374,rpoA,AT91_gp038,LEIZ128,-,-,-,DNA-directed RNA polymerase alpha chain,protein-coding,-,-,-,-,20160716,-
+74381,26381375,rpl13,AT91_gp037,LEIZ129,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20160716,-
+74381,26381376,rps9,AT91_gp036,LEIZ130,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,-,20160309,-
+74381,26381377,rpl31,AT91_gp035,LEIZ131,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,-,20160309,-
+74381,26381378,rps12,AT91_gp034,LEIZ132,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160806,-
+74381,26381379,rps7,AT91_gp033,LEIZ133,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160716,-
+74381,26381380,tufA,AT91_gp032,LEIZ134,-,-,-,translation elongation factor Tu,protein-coding,-,-,-,-,20160716,-
+74381,26381381,rps10,AT91_gp031,LEIZ135,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20160309,-
+74381,26381382,psaE,AT91_gp030,LEIZ136,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,-,20160716,-
+74381,26381383,ftsH,AT91_gp029,LEIZ137,-,-,-,cell division protein FtsH-like protein,protein-coding,-,-,-,-,20160716,-
+74381,26381384,psbH,AT91_gp028,LEIZ138,-,-,-,photosystem II 10 kDa phosphoprotein,protein-coding,-,-,-,-,20160309,-
+74381,26381385,psbN,AT91_gp027,LEIZ139,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160820,-
+74381,26381386,psbT,AT91_gp026,LEIZ140,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160309,-
+74381,26381387,psbB,AT91_gp025,LEIZ141,-,-,-,photosystem II chlorophyll A core antenna apoprotein,protein-coding,-,-,-,-,20160309,-
+74381,26381388,petF,AT91_gp024,LEIZ142,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160716,-
+74381,26381389,rpl12,AT91_gp023,LEIZ143,-,-,-,50S ribosomal protein L12,protein-coding,-,-,-,-,20160716,-
+74381,26381390,rpl1,AT91_gp022,LEIZ144,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20160716,-
+74381,26381391,rpl11,AT91_gp021,LEIZ145,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20160309,-
+74381,26381392,trnW,AT91_gt021,LEIZ146,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381393,dnaB,AT91_gp020,LEIZ147,-,-,-,DNA replication helicase,protein-coding,-,-,-,-,20160716,-
+74381,26381394,rpl9,AT91_gp019,LEIZ148,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,-,20160716,-
+74381,26381395,psbW,AT91_gp018,LEIZ149,-,-,-,photosystem II reaction center protein W,protein-coding,-,-,-,-,20160716,-
+74381,26381396,syfB,AT91_gp017,LEIZ150,-,-,-,phenylalanyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+74381,26381397,rps1,AT91_gp016,LEIZ151,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20160716,-
+74381,26381398,ycf40,AT91_gp015,LEIZ152,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381399,trnH,AT91_gt022,LEIZ153,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381400,trnT,AT91_gt023,LEIZ154,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381401,trnV,AT91_gt024,LEIZ155,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381402,trnR,AT91_gt025,LEIZ156,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381403,ycf35,AT91_gp014,LEIZ157,-,-,-,Ycf35,protein-coding,-,-,-,-,20160716,-
+74381,26381404,ycf24,AT91_gp013,LEIZ158,-,-,-,Ycf24,protein-coding,-,-,-,-,20160716,-
+74381,26381405,ycf16,AT91_gp012,LEIZ159,-,-,-,Ycf16,protein-coding,-,-,-,-,20160325,-
+74381,26381406,trnN,AT91_gt026,LEIZ160,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381407,psbD,AT91_gp011,LEIZ161,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,-,20160820,-
+74381,26381408,psbC,AT91_gp010,LEIZ162,-,-,-,photosystem II chlorophyll A core antenna apoprotein CP43,protein-coding,-,-,-,-,20160325,-
+74381,26381409,ycf41,AT91_gp009,LEIZ163,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+74381,26381410,ycf39,AT91_gp008,LEIZ164,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381411,ycf33,AT91_gp007,LEIZ165,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381412,ilvB,AT91_gp006,LEIZ166,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,-,20160716,-
+74381,26381413,rps4,AT91_gp005,LEIZ167,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20160716,-
+74381,26381414,trnR_3,AT91_gt027,LEIZ168,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381415,trnQ,AT91_gt028,LEIZ169,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+74381,26381416,ycf65,AT91_gp004,LEIZ170,-,-,-,putative plastid-specific 30S ribosomal protein,protein-coding,-,-,-,-,20160309,-
+74381,26381417,rps16,AT91_gp003,LEIZ171,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,-,20160716,-
+74381,26381418,ycf19,AT91_gp002,LEIZ172,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+74381,26381419,ycf17,AT91_gp001,LEIZ173,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160309,-
+74381,26381420,rrn5,AT91_gr004,LEIZ1,-,-,-,5S subunit ribosomal RNA,rRNA,-,-,-,-,20151208,-

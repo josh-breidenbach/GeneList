@@ -1,0 +1,193 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+70131,60448353,rpl23,JAA23_pgp082,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210529,-
+70131,60448354,rpl2,JAA23_pgp081,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210529,-
+70131,60448355,rps19,JAA23_pgp080,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210417,-
+70131,60448356,rpl22,JAA23_pgp079,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210529,-
+70131,60448357,rps3,JAA23_pgp078,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210529,-
+70131,60448358,rpl16,JAA23_pgp077,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210529,-
+70131,60448359,rpl14,JAA23_pgp076,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210522,-
+70131,60448360,rps8,JAA23_pgp075,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210529,-
+70131,60448361,infA,JAA23_pgp074,-,-,-,-,InfA,protein-coding,-,-,-,InfA,20210522,-
+70131,60448362,rpl36,JAA23_pgp073,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20210424,-
+70131,60448363,rps11,JAA23_pgp072,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210529,-
+70131,60448364,petD,JAA23_pgp071,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20210529,-
+70131,60448365,petB,JAA23_pgp070,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20210529,-
+70131,60448366,psbH,JAA23_pgp069,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20210424,-
+70131,60448367,psbN,JAA23_pgp068,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein,20210130,-
+70131,60448368,psbT,JAA23_pgp067,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20210417,-
+70131,60448369,psbB,JAA23_pgp066,-,-,-,-,photosystem II CP47 protein,protein-coding,-,-,-,photosystem II CP47 protein,20210522,-
+70131,60448370,clpP,JAA23_pgp065,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210320,-
+70131,60448371,rps12,JAA23_pgp064,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210424,-
+70131,60448372,rpl20,JAA23_pgp063,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210529,-
+70131,60448373,rps18,JAA23_pgp062,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210130,-
+70131,60448374,rpl33,JAA23_pgp061,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210529,-
+70131,60448375,psaJ,JAA23_pgp060,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20210424,-
+70131,60448376,trnP(UGG),JAA23_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448377,trnW(CAA),JAA23_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448378,petG,JAA23_pgp059,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+70131,60448379,petL,JAA23_pgp058,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20201211,-
+70131,60448380,psbE,JAA23_pgp057,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,photosystem II protein V,20210130,-
+70131,60448381,psbF,JAA23_pgp056,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,photosystem II protein VI,20210129,-
+70131,60448382,psbL,JAA23_pgp055,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20210212,-
+70131,60448383,psbJ,JAA23_pgp054,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20210522,-
+70131,60448384,petA,JAA23_pgp053,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210529,-
+70131,60448385,cemA,JAA23_pgp052,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20210529,-
+70131,60448386,ycf4,JAA23_pgp051,-,-,-,-,hypothetical protein Ycf4,protein-coding,-,-,-,hypothetical protein Ycf4,20210529,-
+70131,60448387,psaI,JAA23_pgp050,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20210130,-
+70131,60448388,accD,JAA23_pgp049,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20210529,-
+70131,60448389,trnR(CCG),JAA23_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448390,rbcL,JAA23_pgp048,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210529,-
+70131,60448391,atpB,JAA23_pgp047,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20210529,-
+70131,60448392,atpE,JAA23_pgp046,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20210529,-
+70131,60448393,trnM(CAU),JAA23_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448394,trnV-UAC,JAA23_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448395,ndhC,JAA23_pgp045,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210529,-
+70131,60448396,ndhK,JAA23_pgp044,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,NADH dehydrogenase subunit K,20210529,-
+70131,60448397,ndhJ,JAA23_pgp043,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit,20210529,-
+70131,60448398,trnF(GAA),JAA23_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448399,trnL-UAA,JAA23_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448400,trnT(UGU),JAA23_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448401,rps4,JAA23_pgp042,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210529,-
+70131,60448402,trnS(GGA),JAA23_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448403,ycf3,JAA23_pgp041,-,-,-,-,hypothetical protein Ycf3,protein-coding,-,-,-,hypothetical protein Ycf3,20210424,-
+70131,60448404,psaA,JAA23_pgp040,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20210529,-
+70131,60448405,psaB,JAA23_pgp039,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20210529,-
+70131,60448406,rps14,JAA23_pgp038,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210529,-
+70131,60448407,trnfM(CAU),JAA23_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448408,trnG(GCC),JAA23_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448409,psbZ,JAA23_pgp037,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20210522,-
+70131,60448410,trnS(UGA),JAA23_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448411,psbC,JAA23_pgp036,-,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,photosystem II CP43 protein,20210522,-
+70131,60448412,psbD,JAA23_pgp035,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20210417,-
+70131,60448413,trnT(GGU),JAA23_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448414,trnE(UUC),JAA23_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448415,trnY(GUA),JAA23_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448416,trnD(GUC),JAA23_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448417,ycf2,JAA23_pgp034,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210529,-
+70131,60448418,trnH(GUG),JAA23_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448419,psbA,JAA23_pgp033,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210522,-
+70131,60448420,trnK-UUU,JAA23_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448421,matK,JAA23_pgp032,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210529,-
+70131,60448422,chlB,JAA23_pgp031,-,-,-,-,protochlorophyllide reductase ChlB subunit,protein-coding,-,-,-,protochlorophyllide reductase ChlB subunit,20210529,-
+70131,60448423,trnQ(UUG),JAA23_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448424,PsbK,JAA23_pgp030,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20210320,-
+70131,60448425,psbI,JAA23_pgp029,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20210424,-
+70131,60448426,trnS(GCU),JAA23_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448427,psaM,JAA23_pgp028,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,photosystem I subunit XII,20210424,-
+70131,60448428,ycf12,JAA23_pgp027,-,-,-,-,Ycf12,protein-coding,-,-,-,Ycf12,20210417,-
+70131,60448429,trnG-UCC,JAA23_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448430,atpA,JAA23_pgp026,-,-,-,-,ATP synthase alpha subunit,protein-coding,-,-,-,ATP synthase alpha subunit,20210529,-
+70131,60448431,atpF,JAA23_pgp025,-,-,-,-,ATP synthase I subunit,protein-coding,-,-,-,ATP synthase I subunit,20210529,-
+70131,60448432,atpH,JAA23_pgp024,-,-,-,-,ATP synthase III subunit,protein-coding,-,-,-,ATP synthase III subunit,20210529,-
+70131,60448433,atpI,JAA23_pgp023,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20210529,-
+70131,60448434,rps2,JAA23_pgp022,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210529,-
+70131,60448435,rpoC2,JAA23_pgp021,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210529,-
+70131,60448436,rpoC1,JAA23_pgp020,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210529,-
+70131,60448437,rpoB,JAA23_pgp019,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210529,-
+70131,60448438,trnC(GCA),JAA23_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448439,ycf66,JAA23_pgp018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210529,-
+70131,60448440,psbM,JAA23_pgp017,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20210522,-
+70131,60448441,trnL(CAA),JAA23_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448442,ndhB,JAA23_pgp016,-,-,-,-,NADH dehydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase ND2 subunit,20210529,-
+70131,60448443,rps7,JAA23_pgp015,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210529,-
+70131,60448444,trnV(GAC),JAA23_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448445,rrn16,JAA23_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448446,trnI-GAU,JAA23_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448447,trnA-UGC,JAA23_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448448,rrn23,JAA23_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448449,rrn4.5,JAA23_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448450,rrn5,JAA23_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448451,trnR(ACG),JAA23_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448452,trnN(GUU),JAA23_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448453,chlL,JAA23_pgp014,-,-,-,-,photochlorophyllide reductase subunit L,protein-coding,-,-,-,photochlorophyllide reductase subunit L,20210529,-
+70131,60448454,chlN,JAA23_pgp013,-,-,-,-,photochlorophyllide reductase subunit N,protein-coding,-,-,-,photochlorophyllide reductase subunit N,20210529,-
+70131,60448455,ycf1,JAA23_pgp012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210529,-
+70131,60448456,rps15,JAA23_pgp011,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210529,-
+70131,60448457,ndhH,JAA23_pgp010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20210529,-
+70131,60448458,ndhA,JAA23_pgp009,-,-,-,-,NADH dehydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase ND1 subunit,20210529,-
+70131,60448459,ndhI,JAA23_pgp008,-,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit,20210529,-
+70131,60448460,ndhG,JAA23_pgp007,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20210529,-
+70131,60448461,ndhE,JAA23_pgp006,-,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase ND4L subunit,20210522,-
+70131,60448462,psaC,JAA23_pgp005,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20210417,-
+70131,60448463,ndhD,JAA23_pgp004,-,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase ND4 subunit,20210529,-
+70131,60448464,trnL(UAG),JAA23_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448465,rpl32,JAA23_pgp003,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210529,-
+70131,60448466,rpl21,JAA23_pgp002,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20210529,-
+70131,60448467,ndhF,JAA23_pgp001,-,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase ND5 subunit,20210529,-
+70131,60448468,trnN(GUU),JAA23_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448469,trnR(ACG),JAA23_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448470,rn5,JAA23_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448471,rrn4.5,JAA23_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448472,rrn23,JAA23_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448473,trnA-UGC,JAA23_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448474,trnI-GAU,JAA23_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448475,rrn16,JAA23_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201211,-
+70131,60448476,trnV(GAC),JAA23_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,60448477,trnI(CAU),JAA23_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20201211,-
+70131,63379130,trnK(UUU),JAA23_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379131,cox1,JAA23_mgp40,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20210417,-
+70131,63379132,atp4,JAA23_mgp39,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20210417,-
+70131,63379133,atp8,JAA23_mgp38,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,ATPase subunit 8,20210417,-
+70131,63379134,rps1,JAA23_mgp37,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20210529,-
+70131,63379135,trnC(GCA),JAA23_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379136,trnF(GAA),JAA23_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379137,rps2,JAA23_mgp36,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210417,-
+70131,63379138,ccmB,JAA23_mgp35,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,cytochrome c biogenesis B,20210529,-
+70131,63379139,ccmC,JAA23_mgp34,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,cytochrome c biogenesis C,20210417,-
+70131,63379140,ccmFN,JAA23_mgp33,-,-,MT,-,cytochrome c biogenesis factor N,protein-coding,-,-,-,cytochrome c biogenesis factor N,20210529,-
+70131,63379141,ccmFC,JAA23_mgp32,-,-,MT,-,cytochrome c biogenesis factor C,protein-coding,-,-,-,cytochrome c biogenesis factor C,20210529,-
+70131,63379142,trnQ(UUG),JAA23_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379143,trnL(UAG),JAA23_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379144,trnS(UGA),JAA23_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379145,trnG(UCC),JAA23_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379146,rps4,JAA23_mgp31,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210417,-
+70131,63379147,tatC,JAA23_mgp30,-,-,MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,Sec-independent protein translocase protein,20210529,-
+70131,63379148,trnR(UCU),JAA23_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379149,trnY(GUA),JAA23_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379150,nad4L,JAA23_mgp29,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210406,-
+70131,63379151,sdh4,JAA23_mgp28,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,succinate dehydrogenase subunit 4,20210406,-
+70131,63379152,sdh3,JAA23_mgp27,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20210417,-
+70131,63379153,trnP(UGG),JAA23_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379154,rrn18,JAA23_mgr03,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20210326,-
+70131,63379155,trnM(CAU),JAA23_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379156,rrn5,JAA23_mgr02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20210326,-
+70131,63379157,trnMf(CAU),JAA23_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379158,rrn26,JAA23_mgr01,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20210326,-
+70131,63379159,rpl10,JAA23_mgp26,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,ribosomal protein L10,20210326,-
+70131,63379160,trnH(GUG),JAA23_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379161,trnL(CAA),JAA23_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379162,trnL(UAA),JAA23_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379163,nad5,JAA23_mgp25,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210529,-
+70131,63379164,nad4,JAA23_mgp24,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210529,-
+70131,63379165,nad2,JAA23_mgp23,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210417,-
+70131,63379166,trnG(GCC),JAA23_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379167,trnR(ACG),JAA23_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379168,trnE(UUC),JAA23_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379169,rps12,JAA23_mgp22,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210417,-
+70131,63379170,rps7,JAA23_mgp21,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210529,-
+70131,63379171,atp6,JAA23_mgp20,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20210529,-
+70131,63379172,nad6,JAA23_mgp19,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210417,-
+70131,63379173,cox2,JAA23_mgp18,-,-,MT,-,cytochrome oxidase subunit 2,protein-coding,-,-,-,cytochrome oxidase subunit 2,20210406,-
+70131,63379174,cox3,JAA23_mgp17,-,-,MT,-,cytochrome oxidase subunit 3,protein-coding,-,-,-,cytochrome oxidase subunit 3,20210529,-
+70131,63379175,nad1,JAA23_mgp16,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210529,-
+70131,63379176,cob,JAA23_mgp15,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20210529,-
+70131,63379177,nad9,JAA23_mgp14,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20210529,-
+70131,63379178,atp1,JAA23_mgp13,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,ATP synthase F1 subunit alpha,20210529,-
+70131,63379179,trnW(CCA),JAA23_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379180,nad3,JAA23_mgp12,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210406,-
+70131,63379181,trnV(UAC),JAA23_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379182,trnD(GUC),JAA23_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379183,trnA(UGC),JAA23_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379184,trnT(GGU),JAA23_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379185,nad7,JAA23_mgp11,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20210417,-
+70131,63379186,trnl(CAU),JAA23_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20210326,-
+70131,63379187,rpl2,JAA23_mgp10,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210529,-
+70131,63379188,rps19,JAA23_mgp09,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210417,-
+70131,63379189,rps3,JAA23_mgp08,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210529,-
+70131,63379190,rpl16,JAA23_mgp07,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210529,-
+70131,63379191,rpl5,JAA23_mgp06,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210406,-
+70131,63379192,rps14,JAA23_mgp05,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210417,-
+70131,63379193,rpl6,JAA23_mgp04,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210417,-
+70131,63379194,rps13,JAA23_mgp03,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210406,-
+70131,63379195,rps11,JAA23_mgp02,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210406,-
+70131,63379196,atp9,JAA23_mgp01,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20210424,-

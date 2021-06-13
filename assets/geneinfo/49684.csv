@@ -1,0 +1,130 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+49684,17960798,psbA,Y770_p084,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160730,-
+49684,17960799,trnK-UUU,Y770_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960800,rps16,Y770_p082,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+49684,17960801,matK,Y770_p083,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160827,-
+49684,17960802,trnQ-UUG,Y770_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960803,psbK,Y770_p081,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+49684,17960804,psbI,Y770_p080,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+49684,17960805,trnS-GCU,Y770_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960806,trnG-GCC,Y770_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960807,trnR-UCU,Y770_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960808,atpA,Y770_p079,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160827,-
+49684,17960809,atpF,Y770_p078,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20160827,-
+49684,17960810,atpH,Y770_p077,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+49684,17960811,atpI,Y770_p076,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+49684,17960812,rps2,Y770_p075,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+49684,17960813,rpoC2,Y770_p074,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160827,-
+49684,17960814,rpoC1,Y770_p073,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160827,-
+49684,17960815,rpoB,Y770_p072,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160827,-
+49684,17960816,trnC-GCA,Y770_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960817,petN,Y770_p071,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+49684,17960818,psbM,Y770_p070,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+49684,17960819,trnD-GUC,Y770_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960820,trnY-GUA,Y770_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960821,trnE-UUC,Y770_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960822,trnT-GGU,Y770_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960823,psbD,Y770_p069,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160813,-
+49684,17960824,psbC,Y770_p068,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+49684,17960825,trnS-UGA,Y770_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960826,lhbA,Y770_p067,-,-,-,-,LhbA,protein-coding,-,-,-,-,20150626,-
+49684,17960827,trnG-UCC,Y770_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960828,trnfM-CAU,Y770_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960829,rps14,Y770_p066,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160325,-
+49684,17960830,psaB,Y770_p065,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+49684,17960831,psaA,Y770_p064,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+49684,17960832,ycf3,Y770_p063,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170906,-
+49684,17960833,trnS-GGA,Y770_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960834,rps4,Y770_p062,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160827,-
+49684,17960835,trnT-UGU,Y770_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960836,trnL-UAA,Y770_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960837,trnF-GAA,Y770_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960838,ndhJ,Y770_p061,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+49684,17960839,ndhK,Y770_p060,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160827,-
+49684,17960840,ndhC,Y770_p059,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+49684,17960841,trnV-UAC,Y770_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960842,trnM-CAU,Y770_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960843,atpE,Y770_p058,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20150626,-
+49684,17960844,atpB,Y770_p057,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160827,-
+49684,17960845,rbcL,Y770_p056,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20150626,-
+49684,17960846,accD,Y770_p055,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20150626,-
+49684,17960847,psaI,Y770_p054,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+49684,17960848,ycf4,Y770_p053,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+49684,17960849,cemA,Y770_p052,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160325,-
+49684,17960850,petA,Y770_p051,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20160827,-
+49684,17960851,psbJ,Y770_p050,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+49684,17960852,psbL,Y770_p049,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160325,-
+49684,17960853,psbF,Y770_p048,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+49684,17960854,psbE,Y770_p047,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+49684,17960855,petL,Y770_p046,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160325,-
+49684,17960856,petG,Y770_p045,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+49684,17960857,trnW-CCA,Y770_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960858,trnP-UGG,Y770_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960859,psaJ,Y770_p044,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+49684,17960860,rpl33,Y770_p043,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+49684,17960861,rps18,Y770_p042,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+49684,17960862,rpl20,Y770_p041,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160827,-
+49684,17960863,rps12,Y770_p039,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+49684,17960864,trnH-GUG,Y770_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960865,psbT,Y770_p037,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+49684,17960866,psbN,Y770_p036,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+49684,17960867,psbH,Y770_p035,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150626,-
+49684,17960868,petB,Y770_p034,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+49684,17960869,petD,Y770_p033,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160827,-
+49684,17960870,rpoA,Y770_p032,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160827,-
+49684,17960871,rps11,Y770_p031,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+49684,17960872,rpl36,Y770_p030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160325,-
+49684,17960873,infA,Y770_p029,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160806,-
+49684,17960874,rps8,Y770_p028,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+49684,17960875,rpl14,Y770_p027,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+49684,17960876,rps3,Y770_p026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160827,-
+49684,17960877,rpl22,Y770_p025,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160827,-
+49684,17960878,rps19,Y770_p024,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+49684,17960879,rpl2,Y770_p023,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160827,-
+49684,17960880,rpl23,Y770_p022,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+49684,17960881,trnI-CAU,Y770_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960882,ycf2,Y770_p021,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20160827,-
+49684,17960883,trnL-CAA,Y770_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960884,ndhB,Y770_p020,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20180421,-
+49684,17960885,rps7,Y770_p019,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+49684,17960886,ycf15,Y770_p018,-,-,-,-,pseudo,pseudo,-,-,-,-,20131225,-
+49684,17960887,trnV-GAC,Y770_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960888,trnI-GAU,Y770_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960889,trnA-UGC,Y770_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960890,trnR-ACG,Y770_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960891,trnN-GUU,Y770_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960892,ycf1,Y770_p017,-,-,-,-,pseudo,pseudo,-,-,-,-,20131225,-
+49684,17960893,ndhF,Y770_p016,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160827,-
+49684,17960894,rpl32,Y770_p015,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+49684,17960895,trnL-UAG,Y770_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960896,ccsA,Y770_p014,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20150626,-
+49684,17960897,ndhD,Y770_p013,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160827,-
+49684,17960898,psaC,Y770_p012,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+49684,17960899,ndhE,Y770_p011,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+49684,17960900,ndhG,Y770_p010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150626,-
+49684,17960901,ndhI,Y770_p009,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20160827,-
+49684,17960902,ndhA,Y770_p008,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+49684,17960903,ndhH,Y770_p007,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20150711,-
+49684,17960904,rps15,Y770_p006,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160827,-
+49684,17960905,ycf1,Y770_p005,-,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,-,20160827,-
+49684,17960906,trnN-GUU,Y770_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960907,trnR-ACG,Y770_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960908,trnA-UGC,Y770_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960909,trnI-GAU,Y770_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960910,trnV-GAC,Y770_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960911,rps7,Y770_p004,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+49684,17960912,ndhB,Y770_p003,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20180421,-
+49684,17960913,trnL-CAA,Y770_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960914,ycf2,Y770_p002,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20160827,-
+49684,17960915,trnI-CAU,Y770_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20131225,-
+49684,17960916,rpl23,Y770_p001,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+49684,17960917,rps12,Y770_p040,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+49684,17960918,clpP,Y770_p038,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160827,-
+49684,18007743,Y770_r008,Y770_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007744,Y770_r007,Y770_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007745,Y770_r004,Y770_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007746,Y770_r001,Y770_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007747,Y770_r006,Y770_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007748,Y770_r005,Y770_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007749,Y770_r003,Y770_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131225,-
+49684,18007750,Y770_r002,Y770_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131225,-
