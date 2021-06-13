@@ -1,0 +1,303 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2786,13540040,trnL(uag),C320_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540041,orf543,C320_p26,-,-,MT,-,RNA-directed DNA polymerase,protein-coding,-,-,-,-,20170825,-
+2786,13540042,sdh2,C320_p25,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20170825,-
+2786,13540043,trnL(uaa),C320_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540044,trnS(gcu),C320_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540045,trnD(guc),C320_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540046,trnH(gug),C320_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540047,cob,C320_p24,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20170825,-
+2786,13540048,trnM(cau)f,C320_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540049,trnS(uga),C320_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540050,trnQ(uug),C320_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540051,trnW(uca),C320_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540052,trnG(ucc),C320_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540053,nad6,C320_p23,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170825,-
+2786,13540054,atp9,C320_p22,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20201003,-
+2786,13540055,nad3,C320_p21,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170825,-
+2786,13540056,nad1,C320_p20,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170825,-
+2786,13540057,nad2,C320_p19,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170825,-
+2786,13540058,sdh4,C320_p18,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20170825,-
+2786,13540059,nad4,C320_p17,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170825,-
+2786,13540060,nad5,C320_p16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170825,-
+2786,13540061,atp8,C320_p15,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20170825,-
+2786,13540062,atp6,C320_p14,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20170825,-
+2786,13540063,trnI(gau),C320_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540064,ymf39,C320_p13,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20170825,-
+2786,13540065,cox3,C320_p12,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20170825,-
+2786,13540066,cox2,C320_p11,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20170825,-
+2786,13540067,cox1,C320_p10,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20170825,-
+2786,13540068,trnE(uuc),C320_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540069,trnM(cau)e,C320_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540070,orf176,C320_p09,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20170825,-
+2786,13540071,trnA(ugc),C320_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540072,trnR(acg),C320_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540073,trnV(uac),C320_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540074,rps12,C320_p08,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20170825,-
+2786,13540075,trnF(gaa),C320_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540076,ymf16,C320_p07,-,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20170825,-
+2786,13540077,trnK(uuu),C320_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540078,trnY(gua),C320_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540079,trnR(ucu),C320_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540080,rps3,C320_p06,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20170825,-
+2786,13540081,rpl16,C320_p05,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20170825,-
+2786,13540082,trnC(gca),C320_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540083,rps11,C320_p04,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20170825,-
+2786,13540084,sdh3,C320_p03,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20170825,-
+2786,13540085,trnG(gcc),C320_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540086,trnN(guu),C320_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540087,trnP(ugg),C320_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120915,-
+2786,13540088,rpl20,C320_p02,-,-,MT,-,ribosomal protein L20,protein-coding,-,-,-,-,20170825,-
+2786,13540089,rns,C320_r01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20120915,-
+2786,13540090,nad4L,C320_p01,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170825,-
+2786,13540091,rnl,C320_r02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20120915,-
+2786,33873459,chlN,CKM33_pgp002,-,-,-,-,photochlorophyllide reductase subunit N,protein-coding,-,-,-,-,20180130,-
+2786,33873460,ycf46,CKM33_pgp003,-,-,-,-,Ycf46,protein-coding,-,-,-,-,20170923,-
+2786,33873461,rpl34,CKM33_pgp004,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20180130,-
+2786,33873462,ycf37,CKM33_pgp005,-,-,-,-,Ycf37,protein-coding,-,-,-,-,20180130,-
+2786,33873463,trnP(ugg),CKM33_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873464,orf174,CKM33_pgp207,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873465,psaF,CKM33_pgp206,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20180130,-
+2786,33873466,psaJ,CKM33_pgp205,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20180130,-
+2786,33873467,apcD,CKM33_pgp204,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873468,fabH,CKM33_pgp203,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20170923,-
+2786,33873469,trnL(gag),CKM33_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873470,psbX,CKM33_pgp202,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20201003,-
+2786,33873471,accD,CKM33_pgp201,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873472,psbV,CKM33_pgp200,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,-,20180130,-
+2786,33873473,petJ,CKM33_pgp199,-,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20180130,-
+2786,33873474,carA,CKM33_pgp198,-,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873475,orf238,CKM33_pgp197,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873476,orf320,CKM33_pgp196,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873477,orf108,CKM33_pgp195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873478,rbcR,CKM33_pgp194,-,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,-,20180130,-
+2786,33873479,ycf32,CKM33_pgp193,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20180130,-
+2786,33873480,rpl32,CKM33_pgp192,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170923,-
+2786,33873481,orf263a,CKM33_pgp191,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873482,rpl21,CKM33_pgp190,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20180130,-
+2786,33873483,rpl27,CKM33_pgp189,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20170923,-
+2786,33873484,rne,CKM33_pgp188,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20170923,-
+2786,33873485,psbA,CKM33_pgp187,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20180130,-
+2786,33873486,ycf35,CKM33_pgp186,-,-,-,-,Ycf35,protein-coding,-,-,-,-,20180130,-
+2786,33873487,trnL(uag),CKM33_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873488,ycf20,CKM33_pgp185,-,-,-,-,Ycf20,protein-coding,-,-,-,-,20180130,-
+2786,33873489,apcF,CKM33_pgp184,-,-,-,-,allophycocyanin beta 18 subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873490,orf121,CKM33_pgp183,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873491,trnR(ccg),CKM33_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873492,orf110a,CKM33_pgp182,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873493,orf450,CKM33_pgp181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170825,-
+2786,33873494,rps4,CKM33_pgp180,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20180130,-
+2786,33873495,trnG(ucc),CKM33_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873496,ycf4,CKM33_pgp179,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20180130,-
+2786,33873497,ycf7,CKM33_pgp178,-,-,-,-,Ycf7,protein-coding,-,-,-,-,20180130,-
+2786,33873498,psaL,CKM33_pgp177,-,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,-,20180130,-
+2786,33873499,trnT(ugu),CKM33_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873500,orf58,CKM33_pgp176,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873501,rpl28,CKM33_pgp175,-,-,-,-,ribosomal protein L28,protein-coding,-,-,-,-,20180130,-
+2786,33873502,trxA,CKM33_pgp174,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20180130,-
+2786,33873503,rbcL,CKM33_pgp173,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20180130,-
+2786,33873504,rbcS,CKM33_pgp172,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20180130,-
+2786,33873505,cbbX,CKM33_pgp171,-,-,-,-,Cbbx,protein-coding,-,-,-,-,20180130,-
+2786,33873506,trnC(gca),CKM33_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873507,trnL(uaa),CKM33_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873508,ycf34,CKM33_pgp170,-,-,-,-,Ycf34,protein-coding,-,-,-,-,20180130,-
+2786,33873509,ilvH,CKM33_pgp169,-,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873510,infC,CKM33_pgp168,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20180130,-
+2786,33873511,trnM1(cau),CKM33_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873512,cemA,CKM33_pgp167,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20170923,-
+2786,33873513,orf62,CKM33_pgp166,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873514,orf74,CKM33_pgp165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170825,-
+2786,33873515,orf149,CKM33_pgp164,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873516,psbI,CKM33_pgp163,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20180130,-
+2786,33873517,orf110,CKM33_pgp162,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873518,ycf39,CKM33_pgp161,-,-,-,-,Ycf39,protein-coding,-,-,-,-,20180130,-
+2786,33873519,trnL(caa),CKM33_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873520,orf288,CKM33_pgp160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873521,ycf24,CKM33_pgp159,-,-,-,-,putative ABC transporter,protein-coding,-,-,-,-,20170923,-
+2786,33873522,ycf16,CKM33_pgp158,-,-,-,-,sulfate ABC transporter protein,protein-coding,-,-,-,-,20170923,-
+2786,33873523,atpA,CKM33_pgp157,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873524,atpD,CKM33_pgp156,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873525,atpF,CKM33_pgp155,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873526,atpG,CKM33_pgp154,-,-,-,-,ATP synthase CF0 B' subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873527,atpH,CKM33_pgp153,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873528,atpI,CKM33_pgp152,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873529,tsf,CKM33_pgp151,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20170923,-
+2786,33873530,rps2,CKM33_pgp150,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20180130,-
+2786,33873531,rpoC2,CKM33_pgp149,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873532,rpoC1,CKM33_pgp148,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873533,rpoB,CKM33_pgp147,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873534,rps20,CKM33_pgp146,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20180130,-
+2786,33873535,glnB,CKM33_pgp145,-,-,-,-,nitrogen regulatory protein PII,protein-coding,-,-,-,-,20170923,-
+2786,33873536,rpl33,CKM33_pgp144,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20180130,-
+2786,33873537,rps18,CKM33_pgp143,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20180130,-
+2786,33873538,infB,CKM33_pgp142,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,-,20180130,-
+2786,33873539,ycf3,CKM33_pgp141,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20180130,-
+2786,33873540,atpB,CKM33_pgp140,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873541,atpE,CKM33_pgp139,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873542,apcB,CKM33_pgp138,-,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873543,apcA,CKM33_pgp137,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873544,apcE,CKM33_pgp136,-,-,-,-,phycobillisome linker protein,protein-coding,-,-,-,-,20180130,-
+2786,33873545,tatC,CKM33_pgp135,-,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,-,20180130,-
+2786,33873546,petA,CKM33_pgp134,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20180130,-
+2786,33873547,odpB,CKM33_pgp133,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873548,odpA,CKM33_pgp132,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873549,rpl20,CKM33_pgp131,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170923,-
+2786,33873550,rpl35,CKM33_pgp130,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20180130,-
+2786,33873551,pbsA,CKM33_pgp129,-,-,-,-,heme oxygenase,protein-coding,-,-,-,-,20180130,-
+2786,33873552,orf199,CKM33_pgp128,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873553,trnMf(cau),CKM33_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873554,ycf36,CKM33_pgp127,-,-,-,-,Ycf36,protein-coding,-,-,-,-,20180130,-
+2786,33873555,orf71a,CKM33_pgp126,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873556,ycf31,CKM33_pgp125,-,-,-,-,Ycf31,protein-coding,-,-,-,-,20180130,-
+2786,33873557,petN,CKM33_pgp124,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20210212,-
+2786,33873558,Ycf59,CKM33_pgp123,-,-,-,-,Ycf59,protein-coding,-,-,-,-,20170923,-
+2786,33873559,chlB,CKM33_pgp122,-,-,-,-,photochlorophyllide reductase subunit B,protein-coding,-,-,-,-,20180130,-
+2786,33873560,psaD,CKM33_pgp121,-,-,-,-,photosystem I subunit II,protein-coding,-,-,-,-,20170923,-
+2786,33873561,trnS(uga),CKM33_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873562,acpP,CKM33_pgp120,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20170923,-
+2786,33873563,orf565,CKM33_pgp119,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873564,orf65,CKM33_pgp118,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873565,accB,CKM33_pgp117,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20180130,-
+2786,33873566,psaA,CKM33_pgp116,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20180130,-
+2786,33873567,psaB,CKM33_pgp115,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20180130,-
+2786,33873568,rps10,CKM33_pgp114,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20180130,-
+2786,33873569,tufA,CKM33_pgp113,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20170923,-
+2786,33873570,rps7,CKM33_pgp112,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20180130,-
+2786,33873571,rps12,CKM33_pgp111,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20180130,-
+2786,33873572,rpl31,CKM33_pgp110,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20180130,-
+2786,33873573,rps9,CKM33_pgp109,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20170923,-
+2786,33873574,rpl13,CKM33_pgp108,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20170923,-
+2786,33873575,rpoA,CKM33_pgp107,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873576,rps11,CKM33_pgp106,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170923,-
+2786,33873577,rps13,CKM33_pgp105,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20180130,-
+2786,33873578,rpl36,CKM33_pgp104,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20180130,-
+2786,33873579,secY,CKM33_pgp103,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20180130,-
+2786,33873580,rps5,CKM33_pgp102,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20180130,-
+2786,33873581,rpl18,CKM33_pgp101,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20180130,-
+2786,33873582,rpl6,CKM33_pgp100,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20180130,-
+2786,33873583,rps8,CKM33_pgp099,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20180130,-
+2786,33873584,rpl5,CKM33_pgp098,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20180130,-
+2786,33873585,rpl24,CKM33_pgp097,-,-,-,-,ribosoma protein L24,protein-coding,-,-,-,-,20180130,-
+2786,33873586,rpl14,CKM33_pgp096,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20180130,-
+2786,33873587,rps17,CKM33_pgp095,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20180130,-
+2786,33873588,rpl16,CKM33_pgp094,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20180130,-
+2786,33873589,rps3,CKM33_pgp093,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20180130,-
+2786,33873590,rpl22,CKM33_pgp092,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20180130,-
+2786,33873591,rps19,CKM33_pgp091,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20180130,-
+2786,33873592,rpl2,CKM33_pgp090,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170923,-
+2786,33873593,rpl23,CKM33_pgp089,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20180130,-
+2786,33873594,rpl4,CKM33_pgp088,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20180130,-
+2786,33873595,rpl3,CKM33_pgp087,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20170923,-
+2786,33873596,dnaK,CKM33_pgp086,-,-,-,-,heat shock protein 70,protein-coding,-,-,-,-,20180130,-
+2786,33873597,trnG(gcc),CKM33_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873598,psbZ,CKM33_pgp085,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20170923,-
+2786,33873599,psbK,CKM33_pgp084,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20180130,-
+2786,33873600,petG,CKM33_pgp083,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20180130,-
+2786,33873601,rps14,CKM33_pgp082,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20180130,-
+2786,33873602,petF,CKM33_pgp081,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20180130,-
+2786,33873603,ycf38,CKM33_pgp080,-,-,-,-,Ycf38,protein-coding,-,-,-,-,20180130,-
+2786,33873604,psbB,CKM33_pgp079,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20180130,-
+2786,33873605,psbT,CKM33_pgp078,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20180130,-
+2786,33873606,psbN,CKM33_pgp077,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20180130,-
+2786,33873607,psbH,CKM33_pgp076,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20201003,-
+2786,33873608,psaE,CKM33_pgp075,-,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,-,20180130,-
+2786,33873609,trnS(cga),CKM33_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873610,ftsH,CKM33_pgp074,-,-,-,-,cell division protein,protein-coding,-,-,-,-,20170923,-
+2786,33873611,trnD(guc),CKM33_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873612,trnS(gcu),CKM33_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873613,trnA(ggc),CKM33_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873614,trnM2(cau),CKM33_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873615,argB,CKM33_pgp073,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20170923,-
+2786,33873616,ycf33,CKM33_pgp072,-,-,-,-,Ycf33,protein-coding,-,-,-,-,20180130,-
+2786,33873617,ilvB,CKM33_pgp071,-,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873618,trnT(ggu),CKM33_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873619,trnY(gua),CKM33_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873620,trnV(gac),CKM33_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873621,rpl19,CKM33_pgp070,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20170923,-
+2786,33873622,clpC,CKM33_pgp069,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873623,trnF(gaa),CKM33_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873624,dnaB,CKM33_pgp068,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873625,rpl9,CKM33_pgp067,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20170923,-
+2786,33873626,trnS(gga),CKM33_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873627,orf383,CKM33_pgp066,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873628,orf75,CKM33_pgp065,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873629,trnW(cca),CKM33_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873630,rpl11,CKM33_pgp064,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20170923,-
+2786,33873631,rpl1,CKM33_pgp063,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20180130,-
+2786,33873632,rpl12,CKM33_pgp062,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20180130,-
+2786,33873633,petD,CKM33_pgp061,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170923,-
+2786,33873634,petB,CKM33_pgp060,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20180130,-
+2786,33873635,ycf28,CKM33_pgp059,-,-,-,-,Ycf28,protein-coding,-,-,-,-,20180130,-
+2786,33873636,Ycf29,CKM33_pgp058,-,-,-,-,Ycf29,protein-coding,-,-,-,-,20180130,-
+2786,33873637,trnH(gug),CKM33_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873638,orf71,CKM33_pgp057,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873639,rps1,CKM33_pgp056,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,-,20180130,-
+2786,33873640,syfB,CKM33_pgp055,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20180130,-
+2786,33873641,psbW,CKM33_pgp054,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,-,20180130,-
+2786,33873642,trnR(ccu),CKM33_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873643,trnQ(uug),CKM33_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873644,syh,CKM33_pgp053,-,-,-,-,histidine-tRNA synthetase,protein-coding,-,-,-,-,20180130,-
+2786,33873645,trnR(acg),CKM33_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873646,groEL,CKM33_pgp052,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20170923,-
+2786,33873647,orf148,CKM33_pgp051,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873648,ycf65,CKM33_pgp050,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873649,rps16,CKM33_pgp049,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170923,-
+2786,33873650,ycf19,CKM33_pgp048,-,-,-,-,Ycf19,protein-coding,-,-,-,-,20210212,-
+2786,33873651,orf198,CKM33_pgp047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873652,ycf17,CKM33_pgp046,-,-,-,-,Ycf17,protein-coding,-,-,-,-,20180130,-
+2786,33873653,psbC,CKM33_pgp045,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20170923,-
+2786,33873654,psbD,CKM33_pgp044,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20180130,-
+2786,33873655,orf243,CKM33_pgp043,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170923,-
+2786,33873656,rns1,CKM33_pgr006,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873657,trnI1(gau),CKM33_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873658,trnA1(UGC),CKM33_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873659,rnl1,CKM33_pgr005,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873660,rnf1,CKM33_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873661,rps6,CKM33_pgp042,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20180130,-
+2786,33873662,orf203,CKM33_pgp041,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873663,thiG,CKM33_pgp040,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20180130,-
+2786,33873664,trpG,CKM33_pgp039,-,-,-,-,anthranilate synthase component 2,protein-coding,-,-,-,-,20180130,-
+2786,33873665,ccs1,CKM33_pgp038,-,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,-,20180130,-
+2786,33873666,orf240,CKM33_pgp037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2786,33873667,trnN(guu),CKM33_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873668,cpcG,CKM33_pgp036,-,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,-,20180130,-
+2786,33873669,ycf18,CKM33_pgp035,-,-,-,-,Ycf18,protein-coding,-,-,-,-,20180130,-
+2786,33873670,cpeB,CKM33_pgp034,-,-,-,-,phycoerythrin beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873671,cpeA,CKM33_pgp033,-,-,-,-,phycoerythrin alpha subunit,protein-coding,-,-,-,-,20201003,-
+2786,33873672,ccsA,CKM33_pgp032,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20180130,-
+2786,33873673,psaK,CKM33_pgp031,-,-,-,-,photosystem I subunit X,protein-coding,-,-,-,-,20180130,-
+2786,33873674,accA,CKM33_pgp030,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873675,ycf22,CKM33_pgp029,-,-,-,-,Ycf22,protein-coding,-,-,-,-,20170923,-
+2786,33873676,ycf23,CKM33_pgp028,-,-,-,-,Ycf23,protein-coding,-,-,-,-,20180130,-
+2786,33873677,psaC,CKM33_pgp027,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20180130,-
+2786,33873678,gltB,CKM33_pgp026,-,-,-,-,glutamate synthase,protein-coding,-,-,-,-,20180130,-
+2786,33873679,ycf61,CKM33_pgp025,-,-,-,-,Ycf61,protein-coding,-,-,-,-,20180130,-
+2786,33873680,cpcB,CKM33_pgp024,-,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873681,cpcA,CKM33_pgp023,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20170923,-
+2786,33873682,pgmA,CKM33_pgp022,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20180130,-
+2786,33873683,ycf21,CKM33_pgp021,-,-,-,-,Ycf21,protein-coding,-,-,-,-,20170923,-
+2786,33873684,secA,CKM33_pgp020,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20170923,-
+2786,33873685,trnE(uuc),CKM33_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873686,trpA,CKM33_pgp019,-,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2786,33873687,trnK(uuu),CKM33_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873688,orf327,CKM33_pgp018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170923,-
+2786,33873689,orf107,CKM33_pgp017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170923,-
+2786,33873690,ycf12,CKM33_pgp016,-,-,-,-,Ycf12,protein-coding,-,-,-,-,20170923,-
+2786,33873691,ftrB,CKM33_pgp015,-,-,-,-,ferredoxin thioreductase subunit beta,protein-coding,-,-,-,-,20180130,-
+2786,33873692,psaI,CKM33_pgp014,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20180130,-
+2786,33873693,psbJ,CKM33_pgp013,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20170923,-
+2786,33873694,psbL,CKM33_pgp012,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20180130,-
+2786,33873695,psbF,CKM33_pgp011,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20180130,-
+2786,33873696,psbE,CKM33_pgp010,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170923,-
+2786,33873697,ycf26,CKM33_pgp009,-,-,-,-,Ycf26,protein-coding,-,-,-,-,20180130,-
+2786,33873698,orf263,CKM33_pgp008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170923,-
+2786,33873699,trnV(uac),CKM33_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873700,trnR(ucu),CKM33_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873701,chlI,CKM33_pgp007,-,-,-,-,g-protoporyphyrin IX chelatase,protein-coding,-,-,-,-,20180130,-
+2786,33873702,psaM,CKM33_pgp006,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20180130,-
+2786,33873703,rns2,CKM33_pgr003,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873704,trnI2(gau),CKM33_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873705,trnA2(ugc),CKM33_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20170825,-
+2786,33873706,rnl2,CKM33_pgr002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873707,rnf2,CKM33_pgr001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170825,-
+2786,33873708,chlL,CKM33_pgp001,-,-,-,-,photochlorophyllide reductase subunit L,protein-coding,-,-,-,-,20180130,-

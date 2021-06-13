@@ -1,0 +1,635 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2898,8715155,orf335,CRPAC_p002,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,8715156,rbcL,CRPAC_p003,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200908,-
+2898,8715157,rbcS,CRPAC_p004,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20200908,-
+2898,8715158,cbbX,CRPAC_p005,-,-,-,-,CbbX,protein-coding,-,-,-,CbbX,20200908,-
+2898,8715159,trnC(GCA),CRPAC_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715160,trnL(TAA),CRPAC_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715161,ilvH,CRPAC_p006,-,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,acetohydroxyacid synthase small subunit,20200908,-
+2898,8715162,trnM(CAT),CRPAC_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715163,trnR(CCG),CRPAC_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715164,trnP(TGG),CRPAC_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715165,trnE(TTC),CRPAC_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715166,trnK(TTT),CRPAC_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715167,trnG(TCC),CRPAC_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715168,cemA,CRPAC_p007,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,envelope membrane protein,20200908,-
+2898,8715169,trnL(CAA),CRPAC_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715170,ycf24,CRPAC_p008,-,-,-,-,putative ABC transporter,protein-coding,-,-,-,putative ABC transporter,20200908,-
+2898,8715171,ycf16,CRPAC_p009,-,-,-,-,sulfate ABC transporter protein,protein-coding,-,-,-,sulfate ABC transporter protein,20200908,-
+2898,8715172,atpA,CRPAC_p010,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200908,-
+2898,8715173,atpD,CRPAC_p011,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,ATP synthase CF1 delta subunit,20200908,-
+2898,8715174,atpF-like,CRPAC_p012,-,-,-,-,-,other,-,-,-,-,20120827,-
+2898,8715175,atpG,CRPAC_p013,-,-,-,-,ATP synthase CF0 B' subunit,protein-coding,-,-,-,ATP synthase CF0 B' subunit,20200908,-
+2898,8715176,atpH,CRPAC_p014,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,ATP synthase CF0 C subunit,20200908,-
+2898,8715177,atpI,CRPAC_p015,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,ATP synthase CF0 A subunit,20200908,-
+2898,8715178,tsf,CRPAC_p016,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200908,-
+2898,8715179,rps2,CRPAC_p017,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200908,-
+2898,8715180,rpoC2,CRPAC_p018,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20200908,-
+2898,8715181,rpoC1,CRPAC_p019,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20200908,-
+2898,8715182,rpoB,CRPAC_p020,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200908,-
+2898,8715183,rps20,CRPAC_p021,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,ribosomal protein S20,20200908,-
+2898,8715184,rpl33,CRPAC_p022,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200908,-
+2898,8715185,rps18,CRPAC_p023,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200908,-
+2898,8715186,infB,CRPAC_p024,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,translation initiation factor 2,20200908,-
+2898,8715187,atpB,CRPAC_p025,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200908,-
+2898,8715188,atpE,CRPAC_p026,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200908,-
+2898,8715189,tatC,CRPAC_p027,-,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,Sec-independent translocase component C,20200908,-
+2898,8715190,rpl20,CRPAC_p028,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200908,-
+2898,8715191,rpl35,CRPAC_p029,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,ribosomal protein L35,20200908,-
+2898,8715192,pbsA,CRPAC_p030,-,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20200908,-
+2898,8715193,trnM(CAT),CRPAC_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715194,trnS(TGA),CRPAC_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715195,trnG(GCC),CRPAC_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715196,rps14,CRPAC_p031,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200908,-
+2898,8715197,acpP,CRPAC_p032,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200908,-
+2898,8715198,dnaK,CRPAC_p033,-,-,-,-,heat shock protein 70,protein-coding,-,-,-,heat shock protein 70,20200908,-
+2898,8715199,rpl3,CRPAC_p034,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,ribosomal protein L3,20200908,-
+2898,8715200,rpl4,CRPAC_p035,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,ribosomal protein L4,20200908,-
+2898,8715201,rpl23,CRPAC_p036,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200908,-
+2898,8715202,rpl2,CRPAC_p037,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200908,-
+2898,8715203,rps19,CRPAC_p038,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+2898,8715204,rpl22,CRPAC_p039,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200908,-
+2898,8715205,rps3,CRPAC_p040,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200908,-
+2898,8715206,rpl16,CRPAC_p041,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200908,-
+2898,8715207,rpl29,CRPAC_p042,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,ribosomal protein L29,20200908,-
+2898,8715208,rps17,CRPAC_p043,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,ribosomal protein S17,20200908,-
+2898,8715209,rpl14,CRPAC_p044,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200908,-
+2898,8715210,rpl24,CRPAC_p045,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,ribosomal protein L24,20200908,-
+2898,8715211,rpl5,CRPAC_p046,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20200908,-
+2898,8715212,rps8,CRPAC_p047,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200908,-
+2898,8715213,rpl6,CRPAC_p048,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20200908,-
+2898,8715214,rpl18,CRPAC_p049,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,ribosomal protein L18,20200908,-
+2898,8715215,rps5,CRPAC_p050,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,ribosomal protein S5,20200908,-
+2898,8715216,secY,CRPAC_p051,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200908,-
+2898,8715217,rpl36,CRPAC_p052,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200908,-
+2898,8715218,rps13,CRPAC_p053,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20200908,-
+2898,8715219,rps11,CRPAC_p054,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200908,-
+2898,8715220,rpoA,CRPAC_p055,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200908,-
+2898,8715221,rpl13,CRPAC_p056,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,ribosomal protein L13,20200908,-
+2898,8715222,rps9,CRPAC_p057,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20200908,-
+2898,8715223,rpl31,CRPAC_p058,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20200908,-
+2898,8715224,rps12,CRPAC_p059,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200908,-
+2898,8715225,rps7,CRPAC_p060,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200908,-
+2898,8715226,tufA,CRPAC_p061,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200908,-
+2898,8715227,rps10,CRPAC_p062,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20200908,-
+2898,8715228,petF,CRPAC_p063,-,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20200908,-
+2898,8715229,trnD(GTC),CRPAC_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715230,trnS(GCT),CRPAC_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715231,trnM(CAT),CRPAC_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715232,ilvB,CRPAC_p064,-,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,acetohydroxyacid synthase large subunit,20200908,-
+2898,8715233,trnY(GTA),CRPAC_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715234,rpl19,CRPAC_p065,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,ribosomal protein L19,20200908,-
+2898,8715235,clpC,CRPAC_p066,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,Clp protease ATP binding subunit,20200908,-
+2898,8715236,trnF(GAA),CRPAC_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715237,trnS(GGA),CRPAC_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715238,trnW(CCA),CRPAC_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715239,rpl11,CRPAC_p067,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,ribosomal protein L11,20200908,-
+2898,8715240,rpl1,CRPAC_p068,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,ribosomal protein L1,20200908,-
+2898,8715241,rpl12,CRPAC_p069,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20200908,-
+2898,8715242,ycf20,CRPAC_p070,-,-,-,-,hypothetical chloroplast RF20,protein-coding,-,-,-,hypothetical chloroplast RF20,20200908,-
+2898,8715243,orf91,CRPAC_p071,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,8715244,secA,CRPAC_p072,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200908,-
+2898,8715245,rpl34,CRPAC_p073,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,ribosomal protein L34,20200908,-
+2898,8715246,trnL(TAG),CRPAC_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715247,trnN(GTT),CRPAC_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715248,orf555,CRPAC_p074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,8715249,rps16,CRPAC_p075,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200908,-
+2898,8715250,ycf19,CRPAC_p076,-,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20200908,-
+2898,8715251,orf147,CRPAC_p077,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,8715252,groEL,CRPAC_p078,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200908,-
+2898,8715253,trnR(ACG),CRPAC_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715254,trnQ(TTG),CRPAC_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715255,trnH(GTG),CRPAC_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715256,ycf29,CRPAC_p079,-,-,-,-,TctD-like protein,protein-coding,-,-,-,TctD-like protein,20200908,-
+2898,8715257,orf164,CRPAC_p080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,8715258,rpl27,CRPAC_p081,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,ribosomal protein L27,20200908,-
+2898,8715259,rpl21,CRPAC_p082,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20200908,-
+2898,8715260,rrn5,CRPAC_r001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,8715261,rrn23,CRPAC_r002,-,-,-,-,23S large subunit ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,8715262,trnA(TGC),CRPAC_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715263,trnI(GAT),CRPAC_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715264,rrn16,CRPAC_r003,-,-,-,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,8715265,chlI,CRPAC_p083,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,Mg-protoporyphyrin IX chelatase,20200908,-
+2898,8715266,trnR(TCT),CRPAC_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715267,trnV(TAC),CRPAC_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715268,trnT(TGT),CRPAC_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,8715269,rps4,CRPAC_p001,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200908,-
+2898,10446916,rps4,CPARA_1gp032,-,-,1,-,40S ribosomal protein S4,protein-coding,-,-,-,40S ribosomal protein S4,20200908,-
+2898,10446917,snu13,CPARA_1gp160,-,-,1,-,SNU13 snRNP subunit,protein-coding,-,-,-,SNU13 snRNP subunit,20200908,-
+2898,10446918,prsA2,CPARA_1gp009,-,-,1,-,proteasome A-type subunit-like protein,protein-coding,-,-,-,proteasome A-type subunit-like protein,20200908,-
+2898,10446919,CPARA_1gp005,CPARA_1gp005,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446920,CPARA_1gp012,CPARA_1gp012,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446921,CPARA_1gp007,CPARA_1gp007,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446922,rrn18,CPARA_1gr004,-,-,1,-,18S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10446923,ubc4,CPARA_1gp001,-,-,1,-,ubiquitin-conjugating enzyme E2,protein-coding,-,-,-,ubiquitin-conjugating enzyme E2,20200908,-
+2898,10446924,BRSK,CPARA_1gp002,-,-,1,-,BR-serine/threonine kinase-like protein,protein-coding,-,-,-,BR-serine/threonine kinase-like protein,20200908,-
+2898,10446925,CPARA_1gp006,CPARA_1gp006,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446926,rpl40,CPARA_1gp003,-,-,1,-,ubiquitin,protein-coding,-,-,-,ubiquitin,20200908,-
+2898,10446927,nat10,CPARA_1gp008,-,-,1,-,N-acetyltransferase 10,protein-coding,-,-,-,N-acetyltransferase 10,20200908,-
+2898,10446928,hsp90,CPARA_1gp004,-,-,1,-,heat shock protein,protein-coding,-,-,-,heat shock protein,20200908,-
+2898,10446929,kin(cdc),CPARA_1gp089,-,-,1,-,cyclin-dependent kinase regulatory subunit,protein-coding,-,-,-,cyclin-dependent kinase regulatory subunit,20200908,-
+2898,10446930,CPARA_1gp105,CPARA_1gp105,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446931,CPARA_1gp172,CPARA_1gp172,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446932,CPARA_1gp155,CPARA_1gp155,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446933,CPARA_1gp133,CPARA_1gp133,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446934,rrn28,CPARA_1gr002,-,-,1,-,28S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10446935,CPARA_1gp072,CPARA_1gp072,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446936,CPARA_1gp071,CPARA_1gp071,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446937,CPARA_1gp103,CPARA_1gp103,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446938,CPARA_1gp104,CPARA_1gp104,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446939,trnA,CPARA_1gt009,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10446940,CPARA_1gp153,CPARA_1gp153,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446941,CPARA_1gp101,CPARA_1gp101,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446942,tcpA,CPARA_1gp090,-,-,1,-,t-complex protein 1 alpha SU,protein-coding,-,-,-,t-complex protein 1 alpha SU,20200908,-
+2898,10446943,CPARA_1gp148,CPARA_1gp148,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446944,cbbX,CPARA_1gp111,-,-,1,-,CbbX protein,protein-coding,-,-,-,CbbX protein,20200908,-
+2898,10446945,sui1,CPARA_1gp118,-,-,1,-,translation factor sui1,protein-coding,-,-,-,translation factor sui1,20200908,-
+2898,10446946,CPARA_1gp077,CPARA_1gp077,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446947,CPARA_1gp091,CPARA_1gp091,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446948,gsp2,CPARA_1gp142,-,-,1,-,GTP-binding nuclear protein RAN,protein-coding,-,-,-,GTP-binding nuclear protein RAN,20200908,-
+2898,10446949,CPARA_1gp060,CPARA_1gp060,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446950,taf30,CPARA_1gp116,-,-,1,-,transcription initiation factor IID SU beta,protein-coding,-,-,-,transcription initiation factor IID SU beta,20200908,-
+2898,10446951,ggt,CPARA_1gp044,-,-,1,-,geranylgeranyl transferase,protein-coding,-,-,-,geranylgeranyl transferase,20200908,-
+2898,10446952,tcpT,CPARA_1gp117,-,-,1,-,chaperonin-containing-TCP1 theta subunit,protein-coding,-,-,-,chaperonin-containing-TCP1 theta subunit,20200908,-
+2898,10446953,CPARA_1gp083,CPARA_1gp083,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446954,trnM,CPARA_1gt003,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10446955,CPARA_1gp170,CPARA_1gp170,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446956,CPARA_1gp061,CPARA_1gp061,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446957,CPARA_1gp124,CPARA_1gp124,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446958,CPARA_1gp168,CPARA_1gp168,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446959,CPARA_1gp029,CPARA_1gp029,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446960,tcpD,CPARA_1gp120,-,-,1,-,"t-complex protein 1, delta SU",protein-coding,-,-,-,"t-complex protein 1, delta SU",20200908,-
+2898,10446961,CPARA_1gp147,CPARA_1gp147,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446962,CPARA_1gp102,CPARA_1gp102,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446963,CPARA_1gp163,CPARA_1gp163,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446964,CPARA_1gp167,CPARA_1gp167,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446965,rpf1,CPARA_1gp139,-,-,1,-,ribosome production factor 1,protein-coding,-,-,-,ribosome production factor 1,20200908,-
+2898,10446966,CPARA_1gp097,CPARA_1gp097,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446967,rpb7,CPARA_1gp135,-,-,1,-,RNA polymerase II RPB7 subunit-like protein,protein-coding,-,-,-,RNA polymerase II RPB7 subunit-like protein,20200908,-
+2898,10446968,CPARA_1gp085,CPARA_1gp085,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446969,CPARA_1gp068,CPARA_1gp068,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446970,rpa1,CPARA_1gp161,-,-,1,-,DNA-directed RNA polymerase I chain-like protein,protein-coding,-,-,-,DNA-directed RNA polymerase I chain-like protein,20200908,-
+2898,10446971,trnH,CPARA_1gt006,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10446972,CPARA_1gp121,CPARA_1gp121,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446973,CPARA_1gp057,CPARA_1gp057,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446974,fet5,CPARA_1gp130,-,-,1,-,purine nucleotide binding protein,protein-coding,-,-,-,purine nucleotide binding protein,20200908,-
+2898,10446975,CPARA_1gp115,CPARA_1gp115,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446976,CPARA_1gp084,CPARA_1gp084,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446977,bysl,CPARA_1gp106,-,-,1,-,bystin-like protein,protein-coding,-,-,-,bystin-like protein,20200908,-
+2898,10446978,sof1,CPARA_1gp166,-,-,1,-,nucleolar snRNP protein,protein-coding,-,-,-,nucleolar snRNP protein,20200908,-
+2898,10446979,rpa5,CPARA_1gp086,-,-,1,-,DNA-directed RNA polymerase 40k chain,protein-coding,-,-,-,DNA-directed RNA polymerase 40k chain,20200908,-
+2898,10446980,CPARA_1gp092,CPARA_1gp092,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446981,CPARA_1gp169,CPARA_1gp169,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446982,CPARA_1gp021,CPARA_1gp021,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446983,tfIID,CPARA_1gp030,-,-,1,-,TATA binding protein of transcription factor IID,protein-coding,-,-,-,TATA binding protein of transcription factor IID,20200908,-
+2898,10446984,CPARA_1gp051,CPARA_1gp051,-,-,1,-,small nuclear ribonucleoprotein E-like protein,protein-coding,-,-,-,small nuclear ribonucleoprotein E-like protein,20200908,-
+2898,10446985,CPARA_1gp052,CPARA_1gp052,-,-,1,-,TATA binding protein of transcription factor IIB-like protein,protein-coding,-,-,-,TATA binding protein of transcription factor IIB-like protein,20200908,-
+2898,10446986,CPARA_1gp151,CPARA_1gp151,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446987,CPARA_1gp074,CPARA_1gp074,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446988,trnT,CPARA_1gt005,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10446989,CPARA_1gp058,CPARA_1gp058,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446990,CPARA_1gp154,CPARA_1gp154,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446991,rpl26,CPARA_1gp131,-,-,1,-,60S ribosomal protein L26,protein-coding,-,-,-,60S ribosomal protein L26,20200908,-
+2898,10446992,CPARA_1gp078,CPARA_1gp078,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10446993,sen2,CPARA_1gp113,-,-,1,-,tRNA-splicing endonuclease subunit Sen2,protein-coding,-,-,-,tRNA-splicing endonuclease subunit Sen2,20200908,-
+2898,10446994,rrn5.8,CPARA_1gr003,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10446995,rps2,CPARA_1gp080,-,-,1,-,40S ribosomal protein S2,protein-coding,-,-,-,40S ribosomal protein S2,20200908,-
+2898,10446996,rps27,CPARA_1gp162,-,-,1,-,40S ribosomal protein S27,protein-coding,-,-,-,40S ribosomal protein S27,20200908,-
+2898,10446997,mcm3,CPARA_1gp031,-,-,1,-,minichromosome maintenance complex component 3-like protein,protein-coding,-,-,-,minichromosome maintenance complex component 3-like protein,20200908,-
+2898,10446998,smc1,CPARA_1gp062,-,-,1,-,structural maintenance of chromosomes 1,protein-coding,-,-,-,structural maintenance of chromosomes 1,20200908,-
+2898,10446999,rpc2,CPARA_1gp134,-,-,1,-,second-largest subunit of RNA polymerase III,protein-coding,-,-,-,second-largest subunit of RNA polymerase III,20200908,-
+2898,10447000,CPARA_1gp171,CPARA_1gp171,-,-,1,-,pleiotropic regulatory locus1-like protein,protein-coding,-,-,-,pleiotropic regulatory locus1-like protein,20200908,-
+2898,10447001,CPARA_1gp055,CPARA_1gp055,-,-,1,-,RuvB-like protein 1,protein-coding,-,-,-,RuvB-like protein 1,20200908,-
+2898,10447002,CPARA_1gp076,CPARA_1gp076,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447003,prsS10B,CPARA_1gp114,-,-,1,-,26S proteasome AAA-ATPase subunit,protein-coding,-,-,-,26S proteasome AAA-ATPase subunit,20200908,-
+2898,10447004,snrpD3,CPARA_1gp112,-,-,1,-,small nuclear ribonucleoprotein Sm D3,protein-coding,-,-,-,small nuclear ribonucleoprotein Sm D3,20200908,-
+2898,10447005,rpb10,CPARA_1gp150,-,-,1,-,RNA polymerase II subunit,protein-coding,-,-,-,RNA polymerase II subunit,20200908,-
+2898,10447006,snrpD1,CPARA_1gp079,-,-,1,-,small nuclear ribonucleoprotein D1,protein-coding,-,-,-,small nuclear ribonucleoprotein D1,20200908,-
+2898,10447007,rps15A,CPARA_1gp094,-,-,1,-,40S ribosomal protein S15A,protein-coding,-,-,-,40S ribosomal protein S15A,20200908,-
+2898,10447008,CPARA_1gp066,CPARA_1gp066,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447009,CPARA_1gp049,CPARA_1gp049,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447010,mrs2,CPARA_1gp075,-,-,1,-,CorA Metal Ion Transporter (MIT) Family,protein-coding,-,-,-,CorA Metal Ion Transporter (MIT) Family,20200908,-
+2898,10447011,trnS,CPARA_1gt010,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447012,snrpD2,CPARA_1gp095,-,-,1,-,small nuclear ribonucleoprotein SM D2,protein-coding,-,-,-,small nuclear ribonucleoprotein SM D2,20200908,-
+2898,10447013,CPARA_1gp064,CPARA_1gp064,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447014,prsS13,CPARA_1gp119,-,-,1,-,26S proteasome regulatory subunit,protein-coding,-,-,-,26S proteasome regulatory subunit,20200908,-
+2898,10447015,hda,CPARA_1gp043,-,-,1,-,histone deacetylase,protein-coding,-,-,-,histone deacetylase,20200908,-
+2898,10447016,pp1,CPARA_1gp122,-,-,1,-,serine/threonine protein phosphatase type 1 alpha,protein-coding,-,-,-,serine/threonine protein phosphatase type 1 alpha,20200908,-
+2898,10447017,CPARA_1gp126,CPARA_1gp126,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447018,CPARA_1gp165,CPARA_1gp165,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447019,CPARA_1gp128,CPARA_1gp128,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447020,rbp1,CPARA_1gp164,-,-,1,-,ring-box protein 1,protein-coding,-,-,-,ring-box protein 1,20200908,-
+2898,10447021,rps10B,CPARA_1gp132,-,-,1,-,40S ribosomal protein S10B,protein-coding,-,-,-,40S ribosomal protein S10B,20200908,-
+2898,10447022,prsA3,CPARA_1gp149,-,-,1,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20200908,-
+2898,10447023,rpc10,CPARA_1gp140,-,-,1,-,"DNA-directed RNA polymerases I, II and III",protein-coding,-,-,-,"DNA-directed RNA polymerases I, II and III",20200908,-
+2898,10447024,trnQ,CPARA_1gt011,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447025,rrn5,CPARA_1gr005,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447026,rrn5,CPARA_1gr001,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447027,rpl6B,CPARA_1gp047,-,-,1,-,60S ribosomal protein L6B,protein-coding,-,-,-,60S ribosomal protein L6B,20200908,-
+2898,10447028,trnK,CPARA_1gt008,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447029,CPARA_1gp125,CPARA_1gp125,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447030,CPARA_1gp129,CPARA_1gp129,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447031,CPARA_1gp087,CPARA_1gp087,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447032,CPARA_1gp110,CPARA_1gp110,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447033,prp8,CPARA_1gp158,-,-,1,-,splicing factor Prp8,protein-coding,-,-,-,splicing factor Prp8,20200908,-
+2898,10447034,CPARA_1gp038,CPARA_1gp038,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447035,CPARA_1gp144,CPARA_1gp144,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447036,CPARA_1gp146,CPARA_1gp146,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447037,GTP-bp,CPARA_1gp026,-,-,1,-,GTP-binding protein,protein-coding,-,-,-,GTP-binding protein,20200908,-
+2898,10447038,pi4K,CPARA_1gp065,-,-,1,-,phosphatidylinositol 4-kinase,protein-coding,-,-,-,phosphatidylinositol 4-kinase,20200908,-
+2898,10447039,CPARA_1gp028,CPARA_1gp028,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447040,ef2,CPARA_1gp145,-,-,1,-,elongation factor EF-2,protein-coding,-,-,-,elongation factor EF-2,20200908,-
+2898,10447041,rla0,CPARA_1gp073,-,-,1,-,60S acidic ribosomal protein P0,protein-coding,-,-,-,60S acidic ribosomal protein P0,20200908,-
+2898,10447042,trnV,CPARA_1gt002,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447043,prsB6,CPARA_1gp059,-,-,1,-,26S proteasome SU B6,protein-coding,-,-,-,26S proteasome SU B6,20200908,-
+2898,10447044,snrpD,CPARA_1gp046,-,-,1,-,small nuclear ribonucleoprotein D-like protein,protein-coding,-,-,-,small nuclear ribonucleoprotein D-like protein,20200908,-
+2898,10447045,ftsZ,CPARA_1gp033,-,-,1,-,cell division protein,protein-coding,-,-,-,cell division protein,20200908,-
+2898,10447046,CPARA_1gp056,CPARA_1gp056,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447047,tcpZ,CPARA_1gp157,-,-,1,-,"T-complex protein 1, zeta SU",protein-coding,-,-,-,"T-complex protein 1, zeta SU",20200908,-
+2898,10447048,tfIIE,CPARA_1gp096,-,-,1,-,TATA binding protein of transcription factor IIE,protein-coding,-,-,-,TATA binding protein of transcription factor IIE,20200908,-
+2898,10447049,CPARA_1gp040,CPARA_1gp040,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447050,snrpE,CPARA_1gp107,-,-,1,-,small nuclear ribonucleoprotein E,protein-coding,-,-,-,small nuclear ribonucleoprotein E,20200908,-
+2898,10447051,CPARA_1gp088,CPARA_1gp088,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447052,tif211,CPARA_1gp034,-,-,1,-,translational initiation factor 2 alpha SU,protein-coding,-,-,-,translational initiation factor 2 alpha SU,20200908,-
+2898,10447053,prsS6A,CPARA_1gp109,-,-,1,-,26S protease regulatory SU 6A,protein-coding,-,-,-,26S protease regulatory SU 6A,20200908,-
+2898,10447054,kin(snf1),CPARA_1gp067,-,-,1,-,SNF1-related kinase,protein-coding,-,-,-,SNF1-related kinase,20200908,-
+2898,10447055,CPARA_1gp053,CPARA_1gp053,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447056,CPARA_1gp054,CPARA_1gp054,-,-,1,-,U5 small nuclear ribonucleoprotein 116 kDa subunit,protein-coding,-,-,-,U5 small nuclear ribonucleoprotein 116 kDa subunit,20200908,-
+2898,10447057,prsS7,CPARA_1gp093,-,-,1,-,26S protease regulatory SU 7,protein-coding,-,-,-,26S protease regulatory SU 7,20200908,-
+2898,10447058,CPARA_1gp152,CPARA_1gp152,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447059,rps5,CPARA_1gp019,-,-,1,-,40S ribosomal protein S5,protein-coding,-,-,-,40S ribosomal protein S5,20200908,-
+2898,10447060,trnT,CPARA_1gt007,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447061,CPARA_1gp050,CPARA_1gp050,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447062,rps15,CPARA_1gp063,-,-,1,-,plastidial 30S ribosomal protein S15,protein-coding,-,-,-,plastidial 30S ribosomal protein S15,20200908,-
+2898,10447063,rps26,CPARA_1gp159,-,-,1,-,40S ribosomal protein S26,protein-coding,-,-,-,40S ribosomal protein S26,20200908,-
+2898,10447064,cycB,CPARA_1gp022,-,-,1,-,cyclin B,protein-coding,-,-,-,cyclin B,20200908,-
+2898,10447065,trnI,CPARA_1gt012,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447066,CPARA_1gp039,CPARA_1gp039,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447067,mcm4,CPARA_1gp015,-,-,1,-,minichromosome maintenance complex component 4-like protein,protein-coding,-,-,-,minichromosome maintenance complex component 4-like protein,20200908,-
+2898,10447068,rpl30,CPARA_1gp141,-,-,1,-,60S ribosomal protein L30,protein-coding,-,-,-,60S ribosomal protein L30,20200908,-
+2898,10447069,CPARA_1gp069,CPARA_1gp069,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447070,prsA1,CPARA_1gp035,-,-,1,-,26S proteasome IOTA SU,protein-coding,-,-,-,26S proteasome IOTA SU,20200908,-
+2898,10447071,rps27A,CPARA_1gp138,-,-,1,-,40S ribosomal protein S27A,protein-coding,-,-,-,40S ribosomal protein S27A,20200908,-
+2898,10447072,trnA,CPARA_1gt004,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447073,CPARA_1gp082,CPARA_1gp082,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447074,CPARA_1gp099,CPARA_1gp099,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447075,CPARA_1gp123,CPARA_1gp123,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447076,tfIIIC,CPARA_1gp020,-,-,1,-,TATA binding protein of transcription factor IIIC,protein-coding,-,-,-,TATA binding protein of transcription factor IIIC,20200908,-
+2898,10447077,CPARA_1gp070,CPARA_1gp070,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447078,rps6,CPARA_1gp127,-,-,1,-,40S ribosomal protein S6,protein-coding,-,-,-,40S ribosomal protein S6,20200908,-
+2898,10447079,CPARA_1gp098,CPARA_1gp098,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447080,rpa2,CPARA_1gp081,-,-,1,-,DNA-directed RNA polymerase I 135K chain,protein-coding,-,-,-,DNA-directed RNA polymerase I 135K chain,20200908,-
+2898,10447081,CPARA_1gp010,CPARA_1gp010,-,-,1,-,BMS1-like protein,protein-coding,-,-,-,BMS1-like protein,20200908,-
+2898,10447082,rad3,CPARA_1gp136,-,-,1,-,DNA repair helicase component of transcription factor b,protein-coding,-,-,-,DNA repair helicase component of transcription factor b,20200908,-
+2898,10447083,reb1,CPARA_1gp137,-,-,1,-,myb-like DNA binding protein,protein-coding,-,-,-,myb-like DNA binding protein,20200908,-
+2898,10447084,CPARA_1gp156,CPARA_1gp156,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447085,CPARA_1gp011,CPARA_1gp011,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447086,CPARA_1gp045,CPARA_1gp045,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447087,trnK,CPARA_1gt001,-,-,1,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447088,tfIIB-brf,CPARA_1gp108,-,-,1,-,TFIIB related factor hBRF,protein-coding,-,-,-,TFIIB related factor hBRF,20200908,-
+2898,10447089,h2B,CPARA_1gp143,-,-,1,-,histon H2B,protein-coding,-,-,-,histon H2B,20200908,-
+2898,10447090,CPARA_1gp024,CPARA_1gp024,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447091,tcpG,CPARA_1gp036,-,-,1,-,T-complex protein gamma SU,protein-coding,-,-,-,T-complex protein gamma SU,20200908,-
+2898,10447092,tic22,CPARA_1gp013,-,-,1,-,translocator of the inner chloroplast membrane,protein-coding,-,-,-,translocator of the inner chloroplast membrane,20200908,-
+2898,10447093,CPARA_1gp042,CPARA_1gp042,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447094,rpl23A,CPARA_1gp023,-,-,1,-,60S ribosomal protein L23A,protein-coding,-,-,-,60S ribosomal protein L23A,20200908,-
+2898,10447095,CPARA_1gp016,CPARA_1gp016,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447096,CPARA_1gp027,CPARA_1gp027,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447097,prsA5,CPARA_1gp018,-,-,1,-,26S proteasome SU A5,protein-coding,-,-,-,26S proteasome SU A5,20200908,-
+2898,10447098,rpb1,CPARA_1gp025,-,-,1,-,DNA-directed RNA polymerase II largest chain,protein-coding,-,-,-,DNA-directed RNA polymerase II largest chain,20200908,-
+2898,10447099,clpP1,CPARA_1gp014,-,-,1,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200908,-
+2898,10447100,CPARA_1gp048,CPARA_1gp048,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447101,CPARA_1gp017,CPARA_1gp017,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447102,CPARA_1gp100,CPARA_1gp100,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447103,CPARA_1gp041,CPARA_1gp041,-,-,1,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447104,tfIIA-S,CPARA_1gp037,-,-,1,-,transcription initiation factor IIA gamma chain,protein-coding,-,-,-,transcription initiation factor IIA gamma chain,20200908,-
+2898,10447105,rrn28,CPARA_2gr007,-,-,2,-,28S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447106,nop56,CPARA_2gp214,-,-,2,-,nucleolar protein,protein-coding,-,-,-,nucleolar protein,20200908,-
+2898,10447107,trnL,CPARA_2gt015,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447108,CPARA_2gsn001,CPARA_2gsn001,-,-,2,-,ncRNA,ncRNA,-,-,-,-,20120827,-
+2898,10447109,prsB3,CPARA_2gp215,-,-,2,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20200908,-
+2898,10447110,rpl7,CPARA_2gp216,-,-,2,-,60S ribosomal protein L7,protein-coding,-,-,-,60S ribosomal protein L7,20200908,-
+2898,10447111,CPARA_2gp217,CPARA_2gp217,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447112,trnL,CPARA_2gt016,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447113,CPARA_2gp218,CPARA_2gp218,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447114,CPARA_2gp219,CPARA_2gp219,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447115,CPARA_2gp220,CPARA_2gp220,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447116,hsf,CPARA_2gp221,-,-,2,-,heat shock transcription factor,protein-coding,-,-,-,heat shock transcription factor,20200908,-
+2898,10447117,CPARA_2gp222,CPARA_2gp222,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447118,trnY,CPARA_2gt017,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447119,CPARA_2gp223,CPARA_2gp223,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447120,CPARA_2gp224,CPARA_2gp224,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447121,eif2B,CPARA_2gp225,-,-,2,-,translation initiation factor eiF2 beta-subunit,protein-coding,-,-,-,translation initiation factor eiF2 beta-subunit,20200908,-
+2898,10447122,CPARA_2gp226,CPARA_2gp226,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447123,rps25,CPARA_2gp227,-,-,2,-,40S ribosomal protein S25,protein-coding,-,-,-,40S ribosomal protein S25,20200908,-
+2898,10447124,CPARA_2gp228,CPARA_2gp228,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447125,prsB5,CPARA_2gp229,-,-,2,-,26S proteasome SU B5,protein-coding,-,-,-,26S proteasome SU B5,20200908,-
+2898,10447126,rpl11B,CPARA_2gp230,-,-,2,-,60S ribosomal protein L11B,protein-coding,-,-,-,60S ribosomal protein L11B,20200908,-
+2898,10447127,rpl31,CPARA_2gp231,-,-,2,-,60S ribosomal protein L31,protein-coding,-,-,-,60S ribosomal protein L31,20200908,-
+2898,10447128,gblp1,CPARA_2gp232,-,-,2,-,guanine nucleotide-binding protein beta SU like protein,protein-coding,-,-,-,guanine nucleotide-binding protein beta SU like protein,20200908,-
+2898,10447129,CPARA_2gp233,CPARA_2gp233,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447130,rpl8,CPARA_2gp234,-,-,2,-,60S ribosomal protein L8,protein-coding,-,-,-,60S ribosomal protein L8,20200908,-
+2898,10447131,uceE2,CPARA_2gp235,-,-,2,-,ubiquitin-conjugating enzyme E2-21 KD,protein-coding,-,-,-,ubiquitin-conjugating enzyme E2-21 KD,20200908,-
+2898,10447132,trnF,CPARA_2gt018,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447133,CPARA_2gp236,CPARA_2gp236,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447134,rps24,CPARA_2gp237,-,-,2,-,40S ribosomal protein S24,protein-coding,-,-,-,40S ribosomal protein S24,20200908,-
+2898,10447135,CPARA_2gp238,CPARA_2gp238,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447136,ATPbp,CPARA_2gp239,-,-,2,-,ATP binding protein,protein-coding,-,-,-,ATP binding protein,20200908,-
+2898,10447137,trnE,CPARA_2gt019,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447138,CPARA_2gp240,CPARA_2gp240,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447139,CPARA_2gp241,CPARA_2gp241,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447140,CPARA_2gp242,CPARA_2gp242,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447141,CPARA_2gp243,CPARA_2gp243,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447142,CPARA_2gp244,CPARA_2gp244,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447143,CPARA_2gp245,CPARA_2gp245,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447144,trnQ,CPARA_2gt020,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447145,fcf1,CPARA_2gp246,-,-,2,-,"pre-rRNA processing protein, FCF1",protein-coding,-,-,-,"pre-rRNA processing protein, FCF1",20200908,-
+2898,10447146,mcm7,CPARA_2gp247,-,-,2,-,minichromosome maintenance component complex 7-like protein,protein-coding,-,-,-,minichromosome maintenance component complex 7-like protein,20200908,-
+2898,10447147,dph1,CPARA_2gp248,-,-,2,-,Diphthamide biosynthesis protein 1,protein-coding,-,-,-,Diphthamide biosynthesis protein 1,20200908,-
+2898,10447148,asf,CPARA_2gp249,-,-,2,-,ASF1-like histone chaperone,protein-coding,-,-,-,ASF1-like histone chaperone,20200908,-
+2898,10447149,tcpH,CPARA_2gp250,-,-,2,-,t-complex protein1 eta SU,protein-coding,-,-,-,t-complex protein1 eta SU,20200908,-
+2898,10447150,CPARA_2gp251,CPARA_2gp251,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447151,mcm5,CPARA_2gp252,-,-,2,-,minichromosome maintenance component complex 5-like protein,protein-coding,-,-,-,minichromosome maintenance component complex 5-like protein,20200908,-
+2898,10447152,h4,CPARA_2gp253,-,-,2,-,histon H4,protein-coding,-,-,-,histon H4,20200908,-
+2898,10447153,h3,CPARA_2gp254,-,-,2,-,histon H3,protein-coding,-,-,-,histon H3,20200908,-
+2898,10447154,rpb2,CPARA_2gp255,-,-,2,-,DNA-directed RNA polymerase II second largest subunit,protein-coding,-,-,-,DNA-directed RNA polymerase II second largest subunit,20200908,-
+2898,10447155,CPARA_2gp256,CPARA_2gp256,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447156,CPARA_2gp257,CPARA_2gp257,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447157,rpl23,CPARA_2gp258,-,-,2,-,60S ribosomal protein L23,protein-coding,-,-,-,60S ribosomal protein L23,20200908,-
+2898,10447158,eif5A,CPARA_2gp259,-,-,2,-,translation initiation factor eIF-5A.2,protein-coding,-,-,-,translation initiation factor eIF-5A.2,20200908,-
+2898,10447159,CPARA_2gp260,CPARA_2gp260,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447160,CPARA_2gp261,CPARA_2gp261,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447161,CPARA_2gp262,CPARA_2gp262,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447162,der1,CPARA_2gp263,-,-,2,-,"protein degradation protein, DER1",protein-coding,-,-,-,"protein degradation protein, DER1",20200908,-
+2898,10447163,kea1,CPARA_2gp264,-,-,2,-,potassium:hydrogen antiporter 1,protein-coding,-,-,-,potassium:hydrogen antiporter 1,20200908,-
+2898,10447164,rpoD,CPARA_2gp265,-,-,2,-,RNA-polymerase sigma factor,protein-coding,-,-,-,RNA-polymerase sigma factor,20200908,-
+2898,10447165,CPARA_2gp266,CPARA_2gp266,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447166,CPARA_2gp267,CPARA_2gp267,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447167,CPARA_2gp268,CPARA_2gp268,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447168,CPARA_2gp269,CPARA_2gp269,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447169,trnR,CPARA_2gt021,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447170,pab1,CPARA_2gp270,-,-,2,-,polyadenylate-binding protein,protein-coding,-,-,-,polyadenylate-binding protein,20200908,-
+2898,10447171,CPARA_2gp271,CPARA_2gp271,-,-,2,-,transcription factor protein,protein-coding,-,-,-,transcription factor protein,20200908,-
+2898,10447172,rpl13A,CPARA_2gp272,-,-,2,-,60S ribosomal protein L13A,protein-coding,-,-,-,60S ribosomal protein L13A,20200908,-
+2898,10447173,CPARA_2gp273,CPARA_2gp273,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447174,CPARA_2gp274,CPARA_2gp274,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447175,rps11,CPARA_2gp275,-,-,2,-,40S ribosomal protein S11,protein-coding,-,-,-,40S ribosomal protein S11,20200908,-
+2898,10447176,rpl18A,CPARA_2gp276,-,-,2,-,60S ribosomal protein L18A,protein-coding,-,-,-,60S ribosomal protein L18A,20200908,-
+2898,10447177,CPARA_2gp277,CPARA_2gp277,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447178,CPARA_2gp278,CPARA_2gp278,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447179,tbl3,CPARA_2gp279,-,-,2,-,transducin (beta) 3-like protein,protein-coding,-,-,-,transducin (beta) 3-like protein,20200908,-
+2898,10447180,CPARA_2gp280,CPARA_2gp280,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447181,CPARA_2gp281,CPARA_2gp281,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447182,imp4,CPARA_2gp282,-,-,2,-,"U3 snoRNP protein, IMP4",protein-coding,-,-,-,"U3 snoRNP protein, IMP4",20200908,-
+2898,10447183,CPARA_2gp283,CPARA_2gp283,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447184,rpl14,CPARA_2gp284,-,-,2,-,60S ribosomal protein L14A,protein-coding,-,-,-,60S ribosomal protein L14A,20200908,-
+2898,10447185,nop5,CPARA_2gp285,-,-,2,-,SAR DNA-binding protein-1,protein-coding,-,-,-,SAR DNA-binding protein-1,20200908,-
+2898,10447186,has1,CPARA_2gp286,-,-,2,-,RNA-dependent helicase,protein-coding,-,-,-,RNA-dependent helicase,20200908,-
+2898,10447187,trnR,CPARA_2gt022,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447188,rip1,CPARA_2gp287,-,-,2,-,Rev interacting protein Rip-1-like protein,protein-coding,-,-,-,Rev interacting protein Rip-1-like protein,20200908,-
+2898,10447189,secE,CPARA_2gp288,-,-,2,-,preprotein translocase secE subunit,protein-coding,-,-,-,preprotein translocase secE subunit,20200908,-
+2898,10447190,CPARA_2gp289,CPARA_2gp289,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447191,CPARA_2gp290,CPARA_2gp290,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447192,CPARA_2gp291,CPARA_2gp291,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447193,engA,CPARA_2gp292,-,-,2,-,GTP-binding protein EngA,protein-coding,-,-,-,GTP-binding protein EngA,20200908,-
+2898,10447194,CPARA_2gp293,CPARA_2gp293,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447195,CPARA_2gp294,CPARA_2gp294,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447196,CPARA_2gp295,CPARA_2gp295,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447197,CPARA_2gp296,CPARA_2gp296,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447198,CPARA_2gp297,CPARA_2gp297,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447199,rsp4,CPARA_2gp298,-,-,2,-,40S ribosomal protein SSA,protein-coding,-,-,-,40S ribosomal protein SSA,20200908,-
+2898,10447200,taf,CPARA_2gp299,-,-,2,-,transcriotion associated factor,protein-coding,-,-,-,transcriotion associated factor,20200908,-
+2898,10447201,imb1,CPARA_2gp300,-,-,2,-,importin beta-1 SU,protein-coding,-,-,-,importin beta-1 SU,20200908,-
+2898,10447202,iap100,CPARA_2gp301,-,-,2,-,"plastid import machinery, IAP100 protein",protein-coding,-,-,-,"plastid import machinery, IAP100 protein",20200908,-
+2898,10447203,CPARA_2gp302,CPARA_2gp302,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447204,rpl9,CPARA_2gp303,-,-,2,-,60S ribosomal protein L9,protein-coding,-,-,-,60S ribosomal protein L9,20200908,-
+2898,10447205,nog1,CPARA_2gp304,-,-,2,-,nucleolar G-protein,protein-coding,-,-,-,nucleolar G-protein,20200908,-
+2898,10447206,CPARA_2gp305,CPARA_2gp305,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447207,pop2,CPARA_2gp306,-,-,2,-,CCR4-associated factor,protein-coding,-,-,-,CCR4-associated factor,20200908,-
+2898,10447208,CPARA_2gp307,CPARA_2gp307,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447209,CPARA_2gp308,CPARA_2gp308,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447210,eif1A,CPARA_2gp309,-,-,2,-,eukaryotic translation initiation factor 1A,protein-coding,-,-,-,eukaryotic translation initiation factor 1A,20200908,-
+2898,10447211,CPARA_2gp310,CPARA_2gp310,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447212,CPARA_2gp311,CPARA_2gp311,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447213,tubG,CPARA_2gp312,-,-,2,-,gamma-tubulin,protein-coding,-,-,-,gamma-tubulin,20200908,-
+2898,10447214,tcpE,CPARA_2gp313,-,-,2,-,"t-complex protein1, epsilon-SU",protein-coding,-,-,-,"t-complex protein1, epsilon-SU",20200908,-
+2898,10447215,trnD,CPARA_2gt023,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447216,erf1,CPARA_2gp314,-,-,2,-,eukaryotic release factor 1,protein-coding,-,-,-,eukaryotic release factor 1,20200908,-
+2898,10447217,impA,CPARA_2gp315,-,-,2,-,importin alpha,protein-coding,-,-,-,importin alpha,20200908,-
+2898,10447218,CPARA_2gp316,CPARA_2gp316,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447219,sufD,CPARA_2gp317,-,-,2,-,Fe-S cluster assembly protein SufD,protein-coding,-,-,-,Fe-S cluster assembly protein SufD,20200908,-
+2898,10447220,smc3,CPARA_2gp318,-,-,2,-,structural maintenance of chromosomes 3,protein-coding,-,-,-,structural maintenance of chromosomes 3,20200908,-
+2898,10447221,rpabc5,CPARA_2gp319,-,-,2,-,"RNA polymerase I, II and III 24.3 kDa subunit",protein-coding,-,-,-,"RNA polymerase I, II and III 24.3 kDa subunit",20200908,-
+2898,10447222,rpabc6,CPARA_2gp320,-,-,2,-,"DNA-directed RNA polymerase I, II, and III 15kDa polypeptide",protein-coding,-,-,-,"DNA-directed RNA polymerase I, II, and III 15kDa polypeptide",20200908,-
+2898,10447223,CPARA_2gp321,CPARA_2gp321,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447224,CPARA_2gp322,CPARA_2gp322,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447225,prsA6,CPARA_2gp323,-,-,2,-,26s proteasome SU A6,protein-coding,-,-,-,26s proteasome SU A6,20200908,-
+2898,10447226,rpc1,CPARA_2gp324,-,-,2,-,RNA polymerase III largest subunit,protein-coding,-,-,-,RNA polymerase III largest subunit,20200908,-
+2898,10447227,nip7,CPARA_2gp325,-,-,2,-,ribosome biogenesis protein,protein-coding,-,-,-,ribosome biogenesis protein,20200908,-
+2898,10447228,hsp70,CPARA_2gp326,-,-,2,-,heat shock protein 70KD,protein-coding,-,-,-,heat shock protein 70KD,20200908,-
+2898,10447229,CPARA_2gp327,CPARA_2gp327,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447230,rrn5,CPARA_2gr010,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447231,rrn5,CPARA_2gr006,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447232,eif4A,CPARA_2gp181,-,-,2,-,eukaryotic initiation factor 4a,protein-coding,-,-,-,eukaryotic initiation factor 4a,20200908,-
+2898,10447233,CPARA_2gp182,CPARA_2gp182,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447234,ste13,CPARA_2gp183,-,-,2,-,RNA helicase,protein-coding,-,-,-,RNA helicase,20200908,-
+2898,10447235,CPARA_2gp184,CPARA_2gp184,-,-,2,-,U3 small nucleolar ribonucleoprotein,protein-coding,-,-,-,U3 small nucleolar ribonucleoprotein,20200908,-
+2898,10447236,rpl32,CPARA_2gp185,-,-,2,-,60S ribosomal protein L32,protein-coding,-,-,-,60S ribosomal protein L32,20200908,-
+2898,10447237,pab2,CPARA_2gp177,-,-,2,-,polyadenylate binding protein,protein-coding,-,-,-,polyadenylate binding protein,20200908,-
+2898,10447238,nol10,CPARA_2gp178,-,-,2,-,nucleolar protein 10,protein-coding,-,-,-,nucleolar protein 10,20200908,-
+2898,10447239,CPARA_2gp179,CPARA_2gp179,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447240,ufd,CPARA_2gp180,-,-,2,-,ubiquitin fusion degradation protein,protein-coding,-,-,-,ubiquitin fusion degradation protein,20200908,-
+2898,10447241,rrn5.8,CPARA_2gr008,-,-,2,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447242,rrn18,CPARA_2gr009,-,-,2,-,18S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447243,ubc4,CPARA_2gp173,-,-,2,-,ubiquitin-conjugating enayme E2,protein-coding,-,-,-,ubiquitin-conjugating enayme E2,20200908,-
+2898,10447244,BRSK,CPARA_2gp174,-,-,2,-,BR-serine/threonine kinase-like protein,protein-coding,-,-,-,BR-serine/threonine kinase-like protein,20200908,-
+2898,10447245,rpl40,CPARA_2gp175,-,-,2,-,ubiquitin,protein-coding,-,-,-,ubiquitin,20200908,-
+2898,10447246,trf,CPARA_2gp176,-,-,2,-,transcription factor subunit,protein-coding,-,-,-,transcription factor subunit,20200908,-
+2898,10447247,trnR,CPARA_2gt013,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447248,trnW,CPARA_2gt014,-,-,2,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447249,CPARA_2gp186,CPARA_2gp186,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447250,CPARA_2gp187,CPARA_2gp187,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447251,CPARA_2gp188,CPARA_2gp188,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447252,CPARA_2gp189,CPARA_2gp189,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447253,cdc48b,CPARA_2gp190,-,-,2,-,cell division control protein 48,protein-coding,-,-,-,cell division control protein 48,20200908,-
+2898,10447254,G10,CPARA_2gp191,-,-,2,-,"G10 protein, predict nuclear transcrption regulator",protein-coding,-,-,-,"G10 protein, predict nuclear transcrption regulator",20200908,-
+2898,10447255,CPARA_2gp192,CPARA_2gp192,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447256,tubB,CPARA_2gp193,-,-,2,-,tubulin beta subunit,protein-coding,-,-,-,tubulin beta subunit,20200908,-
+2898,10447257,prsS6B,CPARA_2gp194,-,-,2,-,26S protease regulatory subunit 6b,protein-coding,-,-,-,26S protease regulatory subunit 6b,20200908,-
+2898,10447258,CPARA_2gp195,CPARA_2gp195,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447259,sbp1,CPARA_2gp196,-,-,2,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200908,-
+2898,10447260,nop2,CPARA_2gp197,-,-,2,-,nucleolar protein,protein-coding,-,-,-,nucleolar protein,20200908,-
+2898,10447261,CPARA_2gp198,CPARA_2gp198,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447262,rpl17,CPARA_2gp199,-,-,2,-,60S ribosomal protein L17,protein-coding,-,-,-,60S ribosomal protein L17,20200908,-
+2898,10447263,rpl10A,CPARA_2gp200,-,-,2,-,60S ribosomal protein L10A,protein-coding,-,-,-,60S ribosomal protein L10A,20200908,-
+2898,10447264,CPARA_2gp201,CPARA_2gp201,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447265,CPARA_2gp202,CPARA_2gp202,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447266,mcm2,CPARA_2gp203,-,-,2,-,minichromosome maintenance component complex 2-like protein,protein-coding,-,-,-,minichromosome maintenance component complex 2-like protein,20200908,-
+2898,10447267,rps9,CPARA_2gp204,-,-,2,-,40S ribosomal protein S9,protein-coding,-,-,-,40S ribosomal protein S9,20200908,-
+2898,10447268,CPARA_2gp205,CPARA_2gp205,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447269,CPARA_2gp206,CPARA_2gp206,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447270,rpl3,CPARA_2gp207,-,-,2,-,60S ribosomal protein L3,protein-coding,-,-,-,60S ribosomal protein L3,20200908,-
+2898,10447271,mak16,CPARA_2gp208,-,-,2,-,"maintenance of killer 16, mak16-like protein",protein-coding,-,-,-,"maintenance of killer 16, mak16-like protein",20200908,-
+2898,10447272,rps16,CPARA_2gp209,-,-,2,-,40S ribosomal protein S16,protein-coding,-,-,-,40S ribosomal protein S16,20200908,-
+2898,10447273,CPARA_2gp210,CPARA_2gp210,-,-,2,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447274,rps20,CPARA_2gp211,-,-,2,-,40S ribosomal protein S20,protein-coding,-,-,-,40S ribosomal protein S20,20200908,-
+2898,10447275,rps14,CPARA_2gp212,-,-,2,-,40S ribosomal protein S14,protein-coding,-,-,-,40S ribosomal protein S14,20200908,-
+2898,10447276,tcpB,CPARA_2gp213,-,-,2,-,t-complex protein 1 beta SU,protein-coding,-,-,-,t-complex protein 1 beta SU,20200908,-
+2898,10447277,prsA7,CPARA_3gp367,-,-,3,-,26S proteasome SU alpha7,protein-coding,-,-,-,26S proteasome SU alpha7,20200908,-
+2898,10447278,trnN,CPARA_3gt027,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447279,rps3,CPARA_3gp368,-,-,3,-,40S ribosomal protein S3,protein-coding,-,-,-,40S ribosomal protein S3,20200908,-
+2898,10447280,ebi,CPARA_3gp369,-,-,3,-,regulator of epidermal growth factor receptor,protein-coding,-,-,-,regulator of epidermal growth factor receptor,20200908,-
+2898,10447281,CPARA_3gp370,CPARA_3gp370,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447282,prsS8,CPARA_3gp371,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20200908,-
+2898,10447283,trnS,CPARA_3gt028,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447284,prsS1,CPARA_3gp372,-,-,3,-,26S proteasome regulatory subunit,protein-coding,-,-,-,26S proteasome regulatory subunit,20200908,-
+2898,10447285,taf90,CPARA_3gp373,-,-,3,-,TATA box-binding protein-associated factor chain TAFII 90,protein-coding,-,-,-,TATA box-binding protein-associated factor chain TAFII 90,20200908,-
+2898,10447286,CPARA_3gp374,CPARA_3gp374,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447287,rps19,CPARA_3gp375,-,-,3,-,40S ribosomal protein S19,protein-coding,-,-,-,40S ribosomal protein S19,20200908,-
+2898,10447288,rpl21,CPARA_3gp376,-,-,3,-,60S ribosomal protein L21,protein-coding,-,-,-,60S ribosomal protein L21,20200908,-
+2898,10447289,rps17,CPARA_3gp377,-,-,3,-,40S ribosomal protein S17,protein-coding,-,-,-,40S ribosomal protein S17,20200908,-
+2898,10447290,prsS12,CPARA_3gp378,-,-,3,-,26S proteasome regulatory SU,protein-coding,-,-,-,26S proteasome regulatory SU,20200908,-
+2898,10447291,prsB4,CPARA_3gp379,-,-,3,-,26S proteasome chain protein,protein-coding,-,-,-,26S proteasome chain protein,20200908,-
+2898,10447292,prsS4,CPARA_3gp380,-,-,3,-,26S proteasome AAA-ATPase subunit,protein-coding,-,-,-,26S proteasome AAA-ATPase subunit,20200908,-
+2898,10447293,rpb3,CPARA_3gp381,-,-,3,-,DNA-directed RNA polymerase II,protein-coding,-,-,-,DNA-directed RNA polymerase II,20200908,-
+2898,10447294,CPARA_3gp382,CPARA_3gp382,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447295,CPARA_3gp383,CPARA_3gp383,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447296,CPARA_3gp384,CPARA_3gp384,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447297,CPARA_3gp385,CPARA_3gp385,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447298,rps8,CPARA_3gp386,-,-,3,-,40S ribosomal protein S8,protein-coding,-,-,-,40S ribosomal protein S8,20200908,-
+2898,10447299,CPARA_3gp387,CPARA_3gp387,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447300,CPARA_3gp388,CPARA_3gp388,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447301,CPARA_3gp389,CPARA_3gp389,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447302,dnaG,CPARA_3gp390,-,-,3,-,DNA primase,protein-coding,-,-,-,DNA primase,20200908,-
+2898,10447303,rpl36,CPARA_3gp391,-,-,3,-,60S ribosomal protein L36,protein-coding,-,-,-,60S ribosomal protein L36,20200908,-
+2898,10447304,prsB1,CPARA_3gp392,-,-,3,-,"26S proteasome, beta-1 SU",protein-coding,-,-,-,"26S proteasome, beta-1 SU",20200908,-
+2898,10447305,CPARA_3gp393,CPARA_3gp393,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447306,rps23,CPARA_3gp394,-,-,3,-,40S ribosomal protein S23,protein-coding,-,-,-,40S ribosomal protein S23,20200908,-
+2898,10447307,rpl15,CPARA_3gp395,-,-,3,-,60S ribosomal protein L15,protein-coding,-,-,-,60S ribosomal protein L15,20200908,-
+2898,10447308,rpl10,CPARA_3gp396,-,-,3,-,60S ribosomal protein L10,protein-coding,-,-,-,60S ribosomal protein L10,20200908,-
+2898,10447309,CPARA_3gp397,CPARA_3gp397,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447310,CPARA_3gp398,CPARA_3gp398,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447311,CPARA_3gp399,CPARA_3gp399,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447312,CPARA_3gp400,CPARA_3gp400,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447313,rps3A,CPARA_3gp401,-,-,3,-,40S ribosomal protein S3A,protein-coding,-,-,-,40S ribosomal protein S3A,20200908,-
+2898,10447314,taf13,CPARA_3gp402,-,-,3,-,TBP-assosiated factor 13,protein-coding,-,-,-,TBP-assosiated factor 13,20200908,-
+2898,10447315,snrpG,CPARA_3gp403,-,-,3,-,small nuclear ribonucleoprotein G,protein-coding,-,-,-,small nuclear ribonucleoprotein G,20200908,-
+2898,10447316,rpl19,CPARA_3gp404,-,-,3,-,60S ribosomal protein L19,protein-coding,-,-,-,60S ribosomal protein L19,20200908,-
+2898,10447317,cdc48a,CPARA_3gp405,-,-,3,-,Cell division control protein 48,protein-coding,-,-,-,Cell division control protein 48,20200908,-
+2898,10447318,CPARA_3gp406,CPARA_3gp406,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447319,CPARA_3gp407,CPARA_3gp407,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447320,trnS,CPARA_3gt029,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447321,clpP2,CPARA_3gp408,-,-,3,-,"ATP-dependent, proteolytic subunit",protein-coding,-,-,-,"ATP-dependent, proteolytic subunit",20200908,-
+2898,10447322,rpl18,CPARA_3gp409,-,-,3,-,60S ribosomal protein L18,protein-coding,-,-,-,60S ribosomal protein L18,20200908,-
+2898,10447323,rpl7A,CPARA_3gp410,-,-,3,-,60S ribosomal protein L7A,protein-coding,-,-,-,60S ribosomal protein L7A,20200908,-
+2898,10447324,eif4E,CPARA_3gp411,-,-,3,-,eukaryotic translation initiation factor 4E,protein-coding,-,-,-,eukaryotic translation initiation factor 4E,20200908,-
+2898,10447325,ATP/GTP-bp,CPARA_3gp412,-,-,3,-,ATP(GTP)-binding protein,protein-coding,-,-,-,ATP(GTP)-binding protein,20200908,-
+2898,10447326,dhm,CPARA_3gp413,-,-,3,-,dhm exonuclease,protein-coding,-,-,-,dhm exonuclease,20200908,-
+2898,10447327,rcl1,CPARA_3gp414,-,-,3,-,RNA 3'phosphate cyclase,protein-coding,-,-,-,RNA 3'phosphate cyclase,20200908,-
+2898,10447328,CPARA_3gp415,CPARA_3gp415,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447329,CPARA_3gp416,CPARA_3gp416,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447330,trnP,CPARA_3gt030,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447331,rfc2,CPARA_3gp417,-,-,3,-,DNA replication factor C complex subunit Rfc2,protein-coding,-,-,-,DNA replication factor C complex subunit Rfc2,20200908,-
+2898,10447332,CPARA_3gp418,CPARA_3gp418,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447333,rpl12,CPARA_3gp419,-,-,3,-,60S ribosomal protein L12,protein-coding,-,-,-,60S ribosomal protein L12,20200908,-
+2898,10447334,trnS,CPARA_3gt031,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447335,mcm6,CPARA_3gp420,-,-,3,-,minichromosome maintenance complex component 6-like protein,protein-coding,-,-,-,minichromosome maintenance complex component 6-like protein,20200908,-
+2898,10447336,rpl34,CPARA_3gp421,-,-,3,-,60S ribosomal protein L34,protein-coding,-,-,-,60S ribosomal protein L34,20200908,-
+2898,10447337,CPARA_3gp422,CPARA_3gp422,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447338,rpb11,CPARA_3gp423,-,-,3,-,DNA-directed RNA polymerase II complex subunit Rpb11,protein-coding,-,-,-,DNA-directed RNA polymerase II complex subunit Rpb11,20200908,-
+2898,10447339,CPARA_3gp424,CPARA_3gp424,-,-,3,-,RuvB-like protein 2,protein-coding,-,-,-,RuvB-like protein 2,20200908,-
+2898,10447340,rpb8,CPARA_3gp425,-,-,3,-,RNA polymerase II subunit,protein-coding,-,-,-,RNA polymerase II subunit,20200908,-
+2898,10447341,dbp4,CPARA_3gp426,-,-,3,-,helicase,protein-coding,-,-,-,helicase,20200908,-
+2898,10447342,cbf5,CPARA_3gp427,-,-,3,-,pseudouridylate synthase,protein-coding,-,-,-,pseudouridylate synthase,20200908,-
+2898,10447343,CPARA_3gp428,CPARA_3gp428,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447344,rli1,CPARA_3gp429,-,-,3,-,RNase L inhibitor,protein-coding,-,-,-,RNase L inhibitor,20200908,-
+2898,10447345,gidB,CPARA_3gp430,-,-,3,-,glucose-inhibited division protein B,protein-coding,-,-,-,glucose-inhibited division protein B,20200908,-
+2898,10447346,kin(gs),CPARA_3gp431,-,-,3,-,glycogen synthesis kinase-like kinase,protein-coding,-,-,-,glycogen synthesis kinase-like kinase,20200908,-
+2898,10447347,rad51,CPARA_3gp432,-,-,3,-,DNA repair protein Rad51,protein-coding,-,-,-,DNA repair protein Rad51,20200908,-
+2898,10447348,CPARA_3gp433,CPARA_3gp433,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447349,rad25,CPARA_3gp434,-,-,3,-,DNA repair helicase,protein-coding,-,-,-,DNA repair helicase,20200908,-
+2898,10447350,pcna,CPARA_3gp435,-,-,3,-,proliferating cell nuclear antigen,protein-coding,-,-,-,proliferating cell nuclear antigen,20200908,-
+2898,10447351,CPARA_3gp436,CPARA_3gp436,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447352,rps29A,CPARA_3gp437,-,-,3,-,40S ribosomal protein S29A,protein-coding,-,-,-,40S ribosomal protein S29A,20200908,-
+2898,10447353,cenp-A,CPARA_3gp438,-,-,3,-,centromeric histone-3 like protein,protein-coding,-,-,-,centromeric histone-3 like protein,20200908,-
+2898,10447354,trnG,CPARA_3gt032,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447355,rpl27,CPARA_3gp439,-,-,3,-,60S ribosomal protein L27,protein-coding,-,-,-,60S ribosomal protein L27,20200908,-
+2898,10447356,rpc9,CPARA_3gp440,-,-,3,-,DNA-deirected RNA polymerases I and III 16kDa polypeptide,protein-coding,-,-,-,DNA-deirected RNA polymerases I and III 16kDa polypeptide,20200908,-
+2898,10447357,trnP,CPARA_3gt033,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447358,CPARA_3gp441,CPARA_3gp441,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447359,CPARA_3gp442,CPARA_3gp442,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447360,rpl37A,CPARA_3gp443,-,-,3,-,60S ribosomal protein L37A,protein-coding,-,-,-,60S ribosomal protein L37A,20200908,-
+2898,10447361,rpl5,CPARA_3gp444,-,-,3,-,60S ribosomal protein L5,protein-coding,-,-,-,60S ribosomal protein L5,20200908,-
+2898,10447362,CPARA_3gp445,CPARA_3gp445,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447363,mce,CPARA_3gp446,-,-,3,-,mRNA capping enzyme,protein-coding,-,-,-,mRNA capping enzyme,20200908,-
+2898,10447364,gblp2,CPARA_3gp447,-,-,3,-,guanine nucleotide-binding protein beta SU like protein,protein-coding,-,-,-,guanine nucleotide-binding protein beta SU like protein,20200908,-
+2898,10447365,rpl24,CPARA_3gp448,-,-,3,-,60S ribosomal protein L24,protein-coding,-,-,-,60S ribosomal protein L24,20200908,-
+2898,10447366,rps28,CPARA_3gp449,-,-,3,-,40S ribosomal protein S28,protein-coding,-,-,-,40S ribosomal protein S28,20200908,-
+2898,10447367,rps13,CPARA_3gp450,-,-,3,-,40S ribosomal protein S13,protein-coding,-,-,-,40S ribosomal protein S13,20200908,-
+2898,10447368,tubA,CPARA_3gp451,-,-,3,-,tubulin alpha-1 chain,protein-coding,-,-,-,tubulin alpha-1 chain,20200908,-
+2898,10447369,CPARA_3gp452,CPARA_3gp452,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447370,CPARA_3gp453,CPARA_3gp453,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447371,CPARA_3gp454,CPARA_3gp454,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447372,sen34,CPARA_3gp455,-,-,3,-,tetrameric tRNA splicing endonuclease,protein-coding,-,-,-,tetrameric tRNA splicing endonuclease,20200908,-
+2898,10447373,rpl13,CPARA_3gp456,-,-,3,-,60S ribosomal protein L13,protein-coding,-,-,-,60S ribosomal protein L13,20200908,-
+2898,10447374,cdc28,CPARA_3gp457,-,-,3,-,ATP-dependent RNA helicase CDC28,protein-coding,-,-,-,ATP-dependent RNA helicase CDC28,20200908,-
+2898,10447375,CPARA_3gp458,CPARA_3gp458,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447376,CPARA_3gp459,CPARA_3gp459,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447377,rps15,CPARA_3gp460,-,-,3,-,40S ribosomal protein S15,protein-coding,-,-,-,40S ribosomal protein S15,20200908,-
+2898,10447378,trnI,CPARA_3gt034,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447379,eif6,CPARA_3gp461,-,-,3,-,translation initiation factor eIF6,protein-coding,-,-,-,translation initiation factor eIF6,20200908,-
+2898,10447380,CPARA_3gp462,CPARA_3gp462,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447381,nop1,CPARA_3gp463,-,-,3,-,fibrillarin like-protein,protein-coding,-,-,-,fibrillarin like-protein,20200908,-
+2898,10447382,CPARA_3gp464,CPARA_3gp464,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447383,CPARA_3gp465,CPARA_3gp465,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447384,ubc4,CPARA_3gp466,-,-,3,-,ubiquitin-conjugating enayme E2,protein-coding,-,-,-,ubiquitin-conjugating enayme E2,20200908,-
+2898,10447385,rrn18,CPARA_3gr015,-,-,3,-,18S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447386,rrn5.8,CPARA_3gr016,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447387,rrn28,CPARA_3gr017,-,-,3,-,28S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447388,rrn5,CPARA_3gr018,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447389,rrn5,CPARA_3gr011,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447390,rrn28,CPARA_3gr012,-,-,3,-,28S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447391,rrn5.8,CPARA_3gr013,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447392,rrn18,CPARA_3gr014,-,-,3,-,18S ribosomal RNA,rRNA,-,-,-,-,20120827,-
+2898,10447393,ubc4,CPARA_3gp328,-,-,3,-,ubiquitin-conjugating enayme E2,protein-coding,-,-,-,ubiquitin-conjugating enayme E2,20200908,-
+2898,10447394,BRSK,CPARA_3gp329,-,-,3,-,BR-serine/threonine kinase-like protein,protein-coding,-,-,-,BR-serine/threonine kinase-like protein,20200908,-
+2898,10447395,rfc3,CPARA_3gp330,-,-,3,-,DNA replication factor C complex subunit 3,protein-coding,-,-,-,DNA replication factor C complex subunit 3,20200908,-
+2898,10447396,CPARA_3gp331,CPARA_3gp331,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447397,brx1,CPARA_3gp332,-,-,3,-,ribosome biogenesis protein BRX1,protein-coding,-,-,-,ribosome biogenesis protein BRX1,20200908,-
+2898,10447398,rpl35A,CPARA_3gp333,-,-,3,-,60S ribosomal protein L35A,protein-coding,-,-,-,60S ribosomal protein L35A,20200908,-
+2898,10447399,rps30,CPARA_3gp334,-,-,3,-,40S ribosomal protein S30,protein-coding,-,-,-,40S ribosomal protein S30,20200908,-
+2898,10447400,CPARA_3gp335,CPARA_3gp335,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447401,CPARA_3gp336,CPARA_3gp336,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447402,CPARA_3gp337,CPARA_3gp337,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447403,trnR,CPARA_3gt024,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447404,CPARA_3gp338,CPARA_3gp338,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447405,CPARA_3gp339,CPARA_3gp339,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447406,CPARA_3gp340,CPARA_3gp340,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447407,CPARA_3gp341,CPARA_3gp341,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447408,kin(ABC),CPARA_3gp342,-,-,3,-,ABC1 family protein,protein-coding,-,-,-,ABC1 family protein,20200908,-
+2898,10447409,CPARA_3gp343,CPARA_3gp343,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447410,sen1,CPARA_3gp344,-,-,3,-,"component of a tRNA splicing complex, sen1",protein-coding,-,-,-,"component of a tRNA splicing complex, sen1",20200908,-
+2898,10447411,CPARA_3gp345,CPARA_3gp345,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447412,CPARA_3gp346,CPARA_3gp346,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447413,gidA,CPARA_3gp347,-,-,3,-,glucose inhibited division protein A,protein-coding,-,-,-,glucose inhibited division protein A,20200908,-
+2898,10447414,sys1,CPARA_3gp348,-,-,3,-,seryl-tRNA synthetase (serin-tRNA ligase),protein-coding,-,-,-,seryl-tRNA synthetase (serin-tRNA ligase),20200908,-
+2898,10447415,rpl27A,CPARA_3gp349,-,-,3,-,60S ribosomal protein L27A,protein-coding,-,-,-,60S ribosomal protein L27A,20200908,-
+2898,10447416,cpn60,CPARA_3gp350,-,-,3,-,"60 kDa heat shock protein, CPN60 protein",protein-coding,-,-,-,"60 kDa heat shock protein, CPN60 protein",20200908,-
+2898,10447417,nmt1,CPARA_3gp351,-,-,3,-,N-myristoyltransferase,protein-coding,-,-,-,N-myristoyltransferase,20200908,-
+2898,10447418,rrp3,CPARA_3gp352,-,-,3,-,DEAD box protein,protein-coding,-,-,-,DEAD box protein,20200908,-
+2898,10447419,eif2G,CPARA_3gp353,-,-,3,-,eukaryotic translation initiation factor gamma SU,protein-coding,-,-,-,eukaryotic translation initiation factor gamma SU,20200908,-
+2898,10447420,kin(cdc2),CPARA_3gp354,-,-,3,-,cyclin-dependent kinase-like 2,protein-coding,-,-,-,cyclin-dependent kinase-like 2,20200908,-
+2898,10447421,CPARA_3gp355,CPARA_3gp355,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447422,CPARA_3gp356,CPARA_3gp356,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447423,rpb4,CPARA_3gp357,-,-,3,-,"RNA polymerase II, subunit F",protein-coding,-,-,-,"RNA polymerase II, subunit F",20200908,-
+2898,10447424,CPARA_3gp358,CPARA_3gp358,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447425,kin(aaB),CPARA_3gp359,-,-,3,-,"AMP-activated protein kinase, beta 2",protein-coding,-,-,-,"AMP-activated protein kinase, beta 2",20200908,-
+2898,10447426,rpl1,CPARA_3gp360,-,-,3,-,60S ribosomal protein L1,protein-coding,-,-,-,60S ribosomal protein L1,20200908,-
+2898,10447427,tfIIB,CPARA_3gp361,-,-,3,-,TATA binding protein of transcription factor IID,protein-coding,-,-,-,TATA binding protein of transcription factor IID,20200908,-
+2898,10447428,trnG,CPARA_3gt025,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447429,CPARA_3gp362,CPARA_3gp362,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447430,CPARA_3gp363,CPARA_3gp363,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447431,CPARA_3gp364,CPARA_3gp364,-,-,3,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+2898,10447432,dib1,CPARA_3gp365,-,-,3,-,DIM1 family protein,protein-coding,-,-,-,DIM1 family protein,20200908,-
+2898,10447433,trnT,CPARA_3gt026,-,-,3,-,tRNA,tRNA,-,-,-,-,20120827,-
+2898,10447434,prsB7,CPARA_3gp366,-,-,3,-,26S proteasome SU,protein-coding,-,-,-,26S proteasome SU,20200908,-

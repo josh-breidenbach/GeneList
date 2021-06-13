@@ -1,0 +1,85 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1502,6989447,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene ('Clostridium plagarum'; Bacillus perfringens; Bacterium welchii; Clostridium plagarum.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20210501,-
+1502,20469165,regB,pNetB_00002,-,-,-,-,LexA-like putative transcriptional repressor,protein-coding,-,-,-,-,20160813,-
+1502,20469166,pNetB_00003,pNetB_00003,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469167,pNetB_00004,pNetB_00004,-,-,-,-,putative ATPase,protein-coding,-,-,-,-,20180130,-
+1502,20469168,rep,pNetB_00005,-,-,-,-,plasmid replication protein Rep,protein-coding,-,-,-,-,20180130,-
+1502,20469169,regCB,pNetB_00006,-,-,-,-,putative transcription regulator,protein-coding,-,-,-,-,20160813,-
+1502,20469170,regD,pNetB_00007,-,-,-,-,DNA-binding transcriptional repressor,protein-coding,-,-,-,-,20210313,-
+1502,20469171,pNetB_00008,pNetB_00008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180707,-
+1502,20469172,pNetB_00009,pNetB_00009,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469173,pNetB_00010,pNetB_00010,-,-,-,-,cysteine-rich hypothetical protein,protein-coding,-,-,-,-,20160813,-
+1502,20469174,pNetB_00011,pNetB_00011,-,-,-,-,PemK-like protein,protein-coding,-,-,-,-,20210129,-
+1502,20469175,cna,pNetB_00012,-,-,-,-,collagen adhesion protein,pseudo,-,-,-,-,20150908,-
+1502,20469176,pNetB_00015,pNetB_00015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469177,pNetB_00016,pNetB_00016,-,-,-,-,sortase family protein,protein-coding,-,-,-,-,20160813,-
+1502,20469178,pNetB_00017,pNetB_00017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469179,pNetB_00018,pNetB_00018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210129,-
+1502,20469180,dam,pNetB_00019,-,-,-,-,adenine-specific DNA-methyltransferase,protein-coding,-,-,-,-,20180130,-
+1502,20469181,pNetB_00020,pNetB_00020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1502,20469182,pNetB_00021,pNetB_00021,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469183,intP,pNetB_00022,-,-,-,-,tyrosine recombinase/integrase IntP,protein-coding,-,-,-,-,20180130,-
+1502,20469184,tcpA,pNetB_00023,-,-,-,-,FtsK/SpoIIIE DNA translocase TcpA,protein-coding,-,-,-,-,20180707,-
+1502,20469185,tcpC,pNetB_00024,-,-,-,-,conjugation protein TcpC,protein-coding,-,-,-,-,20180707,-
+1502,20469186,tcpD,pNetB_00025,-,-,-,-,conjugation protein TcpD,protein-coding,-,-,-,-,20180130,-
+1502,20469187,tcpE,pNetB_00026,-,-,-,-,conjugation protein TcpE,protein-coding,-,-,-,-,20180707,-
+1502,20469188,tcpF,pNetB_00027,-,-,-,-,ATPase conjugation protein TcpF,protein-coding,-,-,-,-,20180707,-
+1502,20469189,tcpG,pNetB_00028,-,-,-,-,TcpG,protein-coding,-,-,-,TcpG|conjugation-related peptidoglycan hydrolase,20180707,-
+1502,20469190,ltrA,pNetB_00029,-,-,-,-,group II intron-encoded protein LtrA,protein-coding,-,-,-,-,20200912,-
+1502,20469191,tcpH,pNetB_00030,-,-,-,-,conjugation pore/forming membrane protein TcpH,protein-coding,-,-,-,-,20160813,-
+1502,20469192,tcpI,pNetB_00031,-,-,-,-,membrane-bound metal-dependent hydrolase TcpI,protein-coding,-,-,-,-,20180707,-
+1502,20469193,tcpJ,pNetB_00032,-,-,-,-,TcpJ,protein-coding,-,-,-,TcpJ|hypothetical protein,20180130,-
+1502,20469194,pNetB_00033,pNetB_00033,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469195,pNetB_00034,pNetB_00034,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469196,dcm,pNetB_00035,-,-,-,-,DNA-cytosine methyltransferase,protein-coding,-,-,-,-,20180130,-
+1502,20469197,pNetB_00036,pNetB_00036,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469198,pNetB_00037,pNetB_00037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469199,pNetB_00038,pNetB_00038,-,-,-,-,putative amidoligase enzyme,protein-coding,-,-,-,-,20180129,-
+1502,20469200,pNetB_00039,pNetB_00039,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469201,pNetB_00040,pNetB_00040,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160813,-
+1502,20469202,pNetB_00041,pNetB_00041,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469203,pNetB_00042,pNetB_00042,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469204,pNetB_00043,pNetB_00043,-,-,-,-,nuclease family transposase,protein-coding,-,-,-,-,20180707,-
+1502,20469205,pNetB_00044,pNetB_00044,-,-,-,-,GGDEF domain-containing protein,protein-coding,-,-,-,-,20180130,-
+1502,20469206,pNetB_00045,pNetB_00045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469207,pNetB_00046,pNetB_00046,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469208,pNetB_00047,pNetB_00047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210313,-
+1502,20469209,pNetB_00048,pNetB_00048,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469210,pNetB_00049,pNetB_00049,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201026,-
+1502,20469211,pNetB_00050,pNetB_00050,-,-,-,-,cell wall surface protein,protein-coding,-,-,-,-,20160813,-
+1502,20469212,pNetB_00051,pNetB_00051,-,-,-,-,putative surface protein,protein-coding,-,-,-,-,20200912,-
+1502,20469213,pNetB_00052,pNetB_00052,-,-,-,-,sortase family protein,protein-coding,-,-,-,-,20160813,-
+1502,20469214,pNetB_00053,pNetB_00053,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469215,pNetB_00054,pNetB_00054,-,-,-,-,putative diguanylate cyclase,protein-coding,-,-,-,-,20180130,-
+1502,20469216,pNetB_00055,pNetB_00055,-,-,-,-,F5/8 type C domain-containing protein,protein-coding,-,-,-,-,20180707,-
+1502,20469217,pNetB_00056,pNetB_00056,-,-,-,-,putative integral membrane protein,protein-coding,-,-,-,-,20150908,-
+1502,20469218,pNetB_00057,pNetB_00057,-,-,-,-,lysyl-tRNA synthetase,protein-coding,-,-,-,-,20160813,-
+1502,20469219,pNetB_00058,pNetB_00058,-,-,-,-,N terminal domain,protein-coding,-,-,-,N terminal domain|resolvase,20160813,-
+1502,20469220,pNetB_00059,pNetB_00059,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469221,pNetB_00060,pNetB_00060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150908,-
+1502,20469222,pNetB_00061,pNetB_00061,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180707,-
+1502,20469223,pNetB_00062,pNetB_00062,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469224,pNetB_00063,pNetB_00063,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469225,pNetB_00064,pNetB_00064,-,-,-,-,pore-forming toxin NetB (part),protein-coding,-,-,-,-,20180130,-
+1502,20469226,pNetB_00065,pNetB_00065,-,-,-,-,pore-forming toxin NetB (part),protein-coding,-,-,-,-,20200912,-
+1502,20469227,pNetB_00066,pNetB_00066,-,-,-,-,CAAX amino terminal protease family protein,protein-coding,-,-,-,-,20200912,-
+1502,20469228,pNetB_00067,pNetB_00067,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210123,-
+1502,20469229,pNetB_00068,pNetB_00068,-,-,-,-,glycosyl hydrolase,protein-coding,-,-,-,-,20180707,-
+1502,20469230,pNetB_00069,pNetB_00069,-,-,-,-,glycosyl hydrolase,protein-coding,-,-,-,-,20180130,-
+1502,20469231,pNetB_00070,pNetB_00070,-,-,-,-,putative transposase,pseudo,-,-,-,-,20150908,-
+1502,20469232,pNetB_00072,pNetB_00072,-,-,-,-,putative Tn3-family transposase,pseudo,-,-,-,-,20150908,-
+1502,20469233,pNetB_00074,pNetB_00074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469234,catP,pNetB_00075,-,-,-,-,chloramphenicol O-acetyltransferase CatP,protein-coding,-,-,-,-,20210212,-
+1502,20469235,netB,pNetB_00076,-,-,-,-,pore-forming toxin NetB,pseudo,-,-,-,-,20150908,-
+1502,20469236,pNetB_00078,pNetB_00078,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469237,netI,pNetB_00079,-,-,-,-,putative surface protein NetI,protein-coding,-,-,-,-,20210123,-
+1502,20469238,pNetB_00080,pNetB_00080,-,-,-,-,SAM domain-containing protein,protein-coding,-,-,-,-,20210123,-
+1502,20469239,pNetB_00081,pNetB_00081,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210123,-
+1502,20469240,pNetB_00082,pNetB_00082,-,-,-,-,beta-lactamase domain-containing protein,protein-coding,-,-,-,-,20210123,-
+1502,20469241,pNetB_00083,pNetB_00083,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20180130,-
+1502,20469242,cna,pNetB_00013,-,-,-,-,collagen adhesion protein,pseudo,-,-,-,-,20150908,-
+1502,20469243,pNetB_00014,pNetB_00014,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469244,pNetB_00071,pNetB_00071,-,-,-,-,putative transposase,protein-coding,-,-,-,-,20180130,-
+1502,20469245,netH,pNetB_00073,-,-,-,-,putative carbohydrate binding protein NetH,protein-coding,-,-,-,-,20210123,-
+1502,20469246,pNetB_00077,pNetB_00077,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1502,20469247,pNetB_00001,pNetB_00001,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-

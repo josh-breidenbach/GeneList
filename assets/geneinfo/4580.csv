@@ -1,0 +1,190 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+4580,4266954,nad3,ZepepMp16,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20210212,-
+4580,4266955,nad4,ZepepMp31,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160813,-
+4580,4266956,nad4L,ZepepMp12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160612,-
+4580,4266957,nad1,ZepepMp02,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20210417,-
+4580,4266958,nad5,ZepepMp08,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160813,-
+4580,4266959,nad2,ZepepMp27,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160813,-
+4580,4266960,trnF-cp,ZepepMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266961,trnfM,ZepepMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266962,trnH-cp,ZepepMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266963,trnI-1,ZepepMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266964,trnK,ZepepMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266965,trnM,ZepepMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266966,trnM-cp,ZepepMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266967,trnN-cp-1,ZepepMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266968,trnP-a-1,ZepepMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266969,trnP-b-cp,ZepepMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266970,trnQ,ZepepMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266971,trnS-a,ZepepMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266972,trnS-b,ZepepMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266973,trn-Y,ZepepMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266974,trnD,ZepepMp29,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266975,trnL-a-cp,ZepepMp26,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266976,trnL-b,ZepepMp15,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266977,trnL-c-cp,ZepepMp20,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266978,trnI-cp,ZepepMp24,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266979,trnR-b-cp-1,ZepepMp32,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266980,trnV-cp,ZepepMp19,-,-,MT,-,pseudo,pseudo,-,-,-,-,20160612,-
+4580,4266981,nad6,ZepepMp39,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160910,-
+4580,4266982,nad7,ZepepMp21,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20210417,-
+4580,4266983,nad9,ZepepMp28,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20160612,-
+4580,4266984,rpl16,ZepepMp22,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+4580,4266985,rps1,ZepepMp10,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,-,20160612,-
+4580,4266986,rps12,ZepepMp17,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20210612,-
+4580,4266987,rps13,ZepepMp03,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20210417,-
+4580,4266988,rps2-1,ZepepMp06,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20160910,-
+4580,4266989,rps3,ZepepMp23,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+4580,4266990,rps4,ZepepMp34,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20160813,-
+4580,4266991,rps7,ZepepMp35,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160612,-
+4580,4266992,rrn18,ZepepMr02,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,4266993,rrn26,ZepepMr03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,4266994,rrn5,ZepepMr01,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,4266995,trnC-cp,ZepepMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266996,trnD-1,ZepepMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266997,trnE-1,ZepepMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,4266998,ccmC,ZepepMp25,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,-,20160612,-
+4580,4266999,ccmFC,ZepepMp30,-,-,MT,-,cytochrome c biogenesis FC,protein-coding,-,-,-,-,20160813,-
+4580,4267000,ccmFN,ZepepMp11,-,-,MT,-,cytochrome c biogenesis FN,protein-coding,-,-,-,-,20160910,-
+4580,4267001,cob,ZepepMp04,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20210417,-
+4580,4267002,cox1,ZepepMp05,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20210417,-
+4580,4267003,cox2,ZepepMp18,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20210417,-
+4580,4267004,cox3,ZepepMp36,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20210417,-
+4580,4267005,mat-r,ZepepMp09,-,-,MT,-,maturase,protein-coding,-,-,-,-,20160917,-
+4580,4267006,mttB,ZepepMp33,-,-,MT,-,transport membrane protein,protein-coding,-,-,-,-,20210417,-
+4580,4267007,atp1,ZepepMp14,-,-,MT,-,ATPase subunit 1,protein-coding,-,-,-,-,20170906,-
+4580,4267008,atp4,ZepepMp38,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,-,20160910,-
+4580,4267009,atp6-1,ZepepMp01,-,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,-,20160910,-
+4580,4267010,atp8,ZepepMp07,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20210417,-
+4580,4267011,atp9,ZepepMp37,-,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,-,20210417,-
+4580,4267012,ccmB,ZepepMp13,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,-,20160612,-
+4580,27964076,psbA,A9278_gp001,ZPER_g01,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20161005,-
+4580,27964077,clpP,A9278_gp039,ZPER_g46,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20161005,-
+4580,27964078,trnK-UUU,A9278_gt001,ZPER_t02,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964079,matK,A9278_gp083,ZPER_g02,-,-,-,maturase K,protein-coding,-,-,-,-,20161005,-
+4580,27964080,rps16,A9278_gp082,ZPER_g03,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20161005,-
+4580,27964081,psbK,A9278_gp081,ZPER_g04,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20161005,-
+4580,27964082,psbI,A9278_gp080,ZPER_g05,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20161005,-
+4580,27964083,trnS-GCU,A9278_gt002,ZPER_t04,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964084,psbD,A9278_gp079,ZPER_g06,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20161005,-
+4580,27964085,psbC,A9278_gp078,ZPER_g07,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20161005,-
+4580,27964086,trnS-UGA,A9278_gt003,ZPER_t05,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964087,psbZ,A9278_gp077,ZPER_g08,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20161005,-
+4580,27964088,trnG-GCC,A9278_gt004,ZPER_t06,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964089,trnfM-CAU,A9278_gt005,ZPER_t07,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964090,trnG-UCC,A9278_gt006,ZPER_t09,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964091,trnM-CAU,A9278_gt007,ZPER_t10,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964092,trnT-GGU,A9278_gt008,ZPER_t11,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964093,trnE-UUC,A9278_gt009,ZPER_t12,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964094,trnY-GUA,A9278_gt010,ZPER_t13,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964095,trnD-GUC,A9278_gt011,ZPER_t14,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964096,psbM,A9278_gp076,ZPER_g09,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+4580,27964097,petN,A9278_gp075,ZPER_g10,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20161005,-
+4580,27964098,trnC-GCA,A9278_gt012,ZPER_t15,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964099,rpoB,A9278_gp074,ZPER_g11,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20201026,-
+4580,27964100,rpoC1,A9278_gp073,ZPER_g12,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20201026,-
+4580,27964101,rpoC2,A9278_gp072,ZPER_g13,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20161005,-
+4580,27964102,rps2,A9278_gp071,ZPER_g14,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20161005,-
+4580,27964103,atpI,A9278_gp070,ZPER_g15,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20161005,-
+4580,27964104,atpH,A9278_gp069,ZPER_g16,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20161005,-
+4580,27964105,atpF,A9278_gp068,ZPER_g17,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20200926,-
+4580,27964106,atpA,A9278_gp067,ZPER_g18,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170908,-
+4580,27964107,trnR-UCU,A9278_gt013,ZPER_t16,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964108,trnfM-CAU,A9278_gt014,ZPER_t17,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964109,rps14,A9278_gp066,ZPER_g19,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20161005,-
+4580,27964110,psaB,A9278_gp065,ZPER_g20,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20161005,-
+4580,27964111,psaA,A9278_gp064,ZPER_g21,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20161005,-
+4580,27964112,ycf3,A9278_gp063,ZPER_g22,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170908,-
+4580,27964113,trnS-GGA,A9278_gt015,ZPER_t18,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964114,rps4,A9278_gp062,ZPER_g23,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+4580,27964115,trnT-UGU,A9278_gt016,ZPER_t19,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964116,trnL-UAA,A9278_gt017,ZPER_t20,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964117,trnF-GAA,A9278_gt018,ZPER_t22,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964118,ndhJ,A9278_gp061,ZPER_g24,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20161005,-
+4580,27964119,ndhK,A9278_gp060,ZPER_g25,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20161005,-
+4580,27964120,ndhC,A9278_gp059,ZPER_g26,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20161005,-
+4580,27964121,trnV-UAC,A9278_gt019,ZPER_t24,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964122,trnM-CAU,A9278_gt020,ZPER_t25,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964123,atpE,A9278_gp058,ZPER_g27,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+4580,27964124,atpB,A9278_gp057,ZPER_g28,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+4580,27964125,rbcL,A9278_gp056,ZPER_g29,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase",protein-coding,-,-,-,-,20180317,-
+4580,27964126,psaI,A9278_gp055,ZPER_g30,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20161005,-
+4580,27964127,ycf4,A9278_gp054,ZPER_g31,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20161005,-
+4580,27964128,cemA,A9278_gp053,ZPER_g32,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20161005,-
+4580,27964129,petA,A9278_gp052,ZPER_g33,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+4580,27964130,psbJ,A9278_gp051,ZPER_g34,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20161005,-
+4580,27964131,psbL,A9278_gp050,ZPER_g35,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20161005,-
+4580,27964132,psbF,A9278_gp049,ZPER_g36,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20161005,-
+4580,27964133,psbE,A9278_gp048,ZPER_g37,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+4580,27964134,petL,A9278_gp047,ZPER_g38,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20161005,-
+4580,27964135,petG,A9278_gp046,ZPER_g39,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+4580,27964136,trnW-CCA,A9278_gt021,ZPER_t26,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964137,trnP-UGG,A9278_gt022,ZPER_t27,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964138,psaJ,A9278_gp045,ZPER_g40,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20161005,-
+4580,27964139,rpl33,A9278_gp044,ZPER_g41,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20161005,-
+4580,27964140,rps18,A9278_gp043,ZPER_g42,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20161005,-
+4580,27964141,rpl20,A9278_gp042,ZPER_g43,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20161005,-
+4580,27964142,rps12,A9278_gp040,ZPER_g45,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20161005,-
+4580,27964143,psbB,A9278_gp038,ZPER_g47,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20161005,-
+4580,27964144,psbT,A9278_gp037,ZPER_g48,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20161005,-
+4580,27964145,psbN,A9278_gp036,ZPER_g49,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20161005,-
+4580,27964146,psbH,A9278_gp035,ZPER_g50,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20161005,-
+4580,27964147,petB,A9278_gp034,ZPER_g51,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+4580,27964148,petD,A9278_gp033,ZPER_g52,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20161005,-
+4580,27964149,rpoA,A9278_gp032,ZPER_g53,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20201003,-
+4580,27964150,rps11,A9278_gp031,ZPER_g54,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20161005,-
+4580,27964151,rpl36,A9278_gp030,ZPER_g55,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20210212,-
+4580,27964152,infA,A9278_gp029,ZPER_g56,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20161005,-
+4580,27964153,rps8,A9278_gp028,ZPER_g57,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20161005,-
+4580,27964154,rpl14,A9278_gp027,ZPER_g58,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20161005,-
+4580,27964155,rpl16,A9278_gp026,ZPER_g59,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20161005,-
+4580,27964156,rps3,A9278_gp025,ZPER_g60,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20200926,-
+4580,27964157,rpl22,A9278_gp024,ZPER_g61,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20161005,-
+4580,27964158,rps19,A9278_gp023,ZPER_g62,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20161005,-
+4580,27964159,trnH-GUG,A9278_gt023,ZPER_t28,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964160,rpl2,A9278_gp022,ZPER_g63,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+4580,27964161,rpl23,A9278_gp021,ZPER_g64,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20161005,-
+4580,27964162,trnI-CAU,A9278_gt024,ZPER_t29,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964163,trnL-CAA,A9278_gt025,ZPER_t30,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964164,ndhB,A9278_gp020,ZPER_g65,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+4580,27964165,rps7,A9278_gp019,ZPER_g66,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20161005,-
+4580,27964166,trnV-GAC,A9278_gt026,ZPER_t31,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964167,A9278_gr008,A9278_gr008,ZPER_r1,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964168,trnI-GAU,A9278_gt027,ZPER_t32,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964169,trnA-UGC,A9278_gt028,ZPER_t34,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964170,A9278_gr007,A9278_gr007,ZPER_r2,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964171,A9278_gr006,A9278_gr006,ZPER_r3,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964172,A9278_gr005,A9278_gr005,ZPER_r4,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964173,trnR-ACG,A9278_gt029,ZPER_t36,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964174,trnN-GUU,A9278_gt030,ZPER_t37,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964175,rps15,A9278_gp018,ZPER_g68,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20161005,-
+4580,27964176,ndhF,A9278_gp017,ZPER_g69,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20161005,-
+4580,27964177,rpl32,A9278_gp016,ZPER_g70,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20161005,-
+4580,27964178,trnL-UAG,A9278_gt031,ZPER_t38,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964179,ccsA,A9278_gp015,ZPER_g71,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20161005,-
+4580,27964180,ndhD,A9278_gp014,ZPER_g72,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20170908,-
+4580,27964181,psaC,A9278_gp013,ZPER_g73,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+4580,27964182,ndhE,A9278_gp012,ZPER_g74,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20161005,-
+4580,27964183,ndhG,A9278_gp011,ZPER_g75,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20161005,-
+4580,27964184,ndhI,A9278_gp010,ZPER_g76,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170908,-
+4580,27964185,ndhA,A9278_gp009,ZPER_g77,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20161005,-
+4580,27964186,ndhH,A9278_gp008,ZPER_g78,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20201026,-
+4580,27964187,rps15,A9278_gp007,ZPER_g79,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20161005,-
+4580,27964188,trnN-GUU,A9278_gt032,ZPER_t39,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964189,trnR-ACG,A9278_gt033,ZPER_t40,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964190,A9278_gr004,A9278_gr004,ZPER_r5,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964191,A9278_gr003,A9278_gr003,ZPER_r6,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964192,A9278_gr002,A9278_gr002,ZPER_r7,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964193,trnA-UGC,A9278_gt034,ZPER_t41,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964194,trnI-GAU,A9278_gt035,ZPER_t43,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964195,A9278_gr001,A9278_gr001,ZPER_r8,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160612,-
+4580,27964196,trnV-GAC,A9278_gt036,ZPER_t45,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964197,rps7,A9278_gp006,ZPER_g81,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20161005,-
+4580,27964198,ndhB,A9278_gp005,ZPER_g82,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+4580,27964199,trnL-CAA,A9278_gt037,ZPER_t46,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964200,trnI-CAU,A9278_gt038,ZPER_t47,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964201,rpl23,A9278_gp004,ZPER_g83,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20161005,-
+4580,27964202,rpl2,A9278_gp003,ZPER_g84,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+4580,27964203,trnH-GUG,A9278_gt039,ZPER_t48,-,-,-,tRNA,tRNA,-,-,-,-,20160612,-
+4580,27964204,rps19,A9278_gp002,ZPER_g85,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20161005,-
+4580,27964205,rps12,A9278_gp041,ZPER_g44,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20161005,-

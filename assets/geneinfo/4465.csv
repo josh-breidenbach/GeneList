@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+4465,3677389,ndhC,AccaCp027,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20150520,-
+4465,3677390,tRNA-Trp (CCA),AccaCt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677391,tRNA-Tyr (GUA),AccaCt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677392,tRNA-Val (GAC),AccaCt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677393,tRNA-Val (GAC),AccaCt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677394,tRNA-Val (UAC),AccaCt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677395,ycf1,AccaCp081,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20160903,-
+4465,3677396,ycf2,AccaCp067,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160903,-
+4465,3677397,ycf2,AccaCp086,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160903,-
+4465,3677398,ycf3,AccaCp023,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20200926,-
+4465,3677399,ycf4,AccaCp032,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20150520,-
+4465,3677400,rps12,AccaCp046,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+4465,3677401,rps12,AccaCp047,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+4465,3677403,tRNA-His (GUG),AccaCt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677404,tRNA-Ile (CAU),AccaCt038,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677405,tRNA-Ile (CAU),AccaCt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677406,tRNA-Ile (GAU),AccaCt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677408,tRNA-Ile (GAU),AccaCt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677409,tRNA-Leu (CAA),AccaCt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677410,tRNA-Leu (CAA),AccaCt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677411,tRNA-Leu (UAA),AccaCt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677412,tRNA-Leu (UAG),AccaCt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677414,tRNA-Lys (UUU),AccaCt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677415,tRNA-Met (CAU),AccaCt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677416,tRNA-Phe (GAA),AccaCt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677417,tRNA-Pro (UGG),AccaCt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677418,tRNA-Ser (GCU),AccaCt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677419,tRNA-Ser (GGA),AccaCt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677420,tRNA-Ser (UGA),AccaCt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677421,tRNA-Thr (GGU),AccaCt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677422,tRNA-Thr (UGU),AccaCt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677423,rps7,AccaCp084,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160806,-
+4465,3677424,rps7,AccaCp069,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160806,-
+4465,3677425,rps8,AccaCp059,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8|ribosomal protein S8,20150520,-
+4465,3677426,tRNA-Ala (UGC),AccaCt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677428,tRNA-Ala (UGC),AccaCt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677429,tRNA-Arg (ACG),AccaCt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677430,tRNA-Arg (ACG),AccaCt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677431,tRNA-Arg (UCU),AccaCt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677432,tRNA-Asn (GUU),AccaCt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677433,tRNA-Asn (GUU),AccaCt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677434,tRNA-Asp (GUC),AccaCt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677435,tRNA-Cys (GCA),AccaCt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677436,tRNA-fMet (CAU),AccaCt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677437,tRNA-Gln (UUG),AccaCt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677438,tRNA-Glu (UUC),AccaCt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677439,tRNA-Gly (GCC),AccaCt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677440,tRNA-Gly (UCC),AccaCt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677441,tRNA-His (GUG),AccaCt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20120917,-
+4465,3677442,rpl20,AccaCp044,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20|ribosomal protein L20,20160827,-
+4465,3677443,rpl22,AccaCp063,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160903,-
+4465,3677444,rpl23,AccaCp087,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20150520,-
+4465,3677445,rpl23,AccaCp066,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20150520,-
+4465,3677446,rpl32,AccaCp071,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150520,-
+4465,3677447,rpl33,AccaCp042,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150520,-
+4465,3677448,rpl36,AccaCp057,secX,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36|ribosomal protein L36,20150520,-
+4465,3677449,rpoA,AccaCp055,-,-,-,-,RNA polymerase alpha chain,protein-coding,-,-,-,RNA polymerase alpha chain|RNA polymerase alpha subunit,20160827,-
+4465,3677450,rpoB,AccaCp014,-,-,-,-,RNA polymerase beta chain,protein-coding,-,-,-,RNA polymerase beta chain|RNA polymerase beta subunit,20160903,-
+4465,3677451,rpoC1,AccaCp013,-,-,-,-,RNA polymerase beta' chain,protein-coding,-,-,-,RNA polymerase beta' chain|RNA polymerase beta' subunit,20200926,-
+4465,3677452,rpoC2,AccaCp012,-,-,-,-,RNA polymerase beta'' chain,protein-coding,-,-,-,RNA polymerase beta'' chain|RNA polymerase beta'' subunit,20160917,-
+4465,3677453,rps11,AccaCp056,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11|ribosomal protein S11,20150520,-
+4465,3677454,rps14,AccaCp020,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14|ribosomal protein S14,20150520,-
+4465,3677455,rps15,AccaCp080,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160827,-
+4465,3677456,rps16,AccaCp004,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150520,-
+4465,3677457,rps18,AccaCp043,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18|ribosomal protein S18,20150520,-
+4465,3677458,rps19,AccaCp064,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20150520,-
+4465,3677459,rps2,AccaCp011,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160903,-
+4465,3677460,rps3,AccaCp062,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3|ribosomal protein S3,20160827,-
+4465,3677461,rps4,AccaCp024,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160903,-
+4465,3677462,psbA,AccaCp001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160827,-
+4465,3677463,psbB,AccaCp049,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein|photosystem II 47 kDa protein,20150520,-
+4465,3677464,psbC,AccaCp018,-,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,PSII 43 kDa protein|photosystem II 44 kDa protein,20141004,-
+4465,3677465,psbD,AccaCp017,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160827,-
+4465,3677466,psbE,AccaCp038,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20170906,-
+4465,3677467,psbF,AccaCp037,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20150520,-
+4465,3677468,psbH,AccaCp052,-,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H|photosystem II protein H,20150520,-
+4465,3677469,psbI,AccaCp006,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150520,-
+4465,3677470,psbJ,AccaCp035,-,-,-,-,photosystem II reaction center subunit X,protein-coding,-,-,-,photosystem II reaction center subunit X|photosystem II protein J,20150520,-
+4465,3677471,psbK,AccaCp005,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein|photosystem II protein K,20150520,-
+4465,3677472,psbL,AccaCp036,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20150520,-
+4465,3677473,psbM,AccaCp016,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+4465,3677474,psbN,AccaCp051,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein|photosystem II protein N,20150520,-
+4465,3677475,psbT,AccaCp050,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20141004,-
+4465,3677476,rbcL,AccaCp030,-,-,-,-,RuBisCO large subunit,protein-coding,-,-,-,"RuBisCO large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20141004,-
+4465,3677477,rpl14,AccaCp060,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14|ribosomal protein L14,20150520,-
+4465,3677478,rpl16,AccaCp061,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160903,-
+4465,3677479,rpl2,AccaCp088,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20160903,-
+4465,3677480,rpl2,AccaCp065,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20160903,-
+4465,3677481,ndhD,AccaCp073,ndh4,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+4465,3677482,ndhE,AccaCp075,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150520,-
+4465,3677483,ndhF,AccaCp070,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160903,-
+4465,3677484,ndhG,AccaCp076,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20150520,-
+4465,3677485,ndhH,AccaCp079,-,-,-,-,NADH dehydrogenase 49 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 49 kDa subunit|NADH dehydrogenase subunit 7,20210417,-
+4465,3677486,ndhI,AccaCp077,frxB,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit|NADH dehydrogenase subunit I,20210424,-
+4465,3677487,ndhJ,AccaCp025,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit|NADH dehydrogenase subunit J,20150520,-
+4465,3677488,ndhK,AccaCp026,-,-,-,-,NADH dehydrogenase 27 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 27 kDa subunit|NADH dehydrogenase subunit K,20160924,-
+4465,3677489,petA,AccaCp034,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor|cytochrome f,20160827,-
+4465,3677490,petB,AccaCp053,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20200926,-
+4465,3677491,petD,AccaCp054,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4|cytochrome b6/f complex subunit IV,20160903,-
+4465,3677492,petG,AccaCp040,-,-,-,-,cytochrome B6-F complex subunit 5,protein-coding,-,-,-,cytochrome B6-F complex subunit 5|cytochrome b6/f complex subunit V,20210212,-
+4465,3677493,petL,AccaCp039,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150520,-
+4465,3677494,petN,AccaCp015,ycf6,-,-,-,cytochrome b6/f complex subunit N,protein-coding,-,-,-,cytochrome b6/f complex subunit N|cytochrome b6/f complex subunit VIII,20141004,-
+4465,3677495,psaA,AccaCp022,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1|photosystem I P700 chlorophyll a apoprotein A1,20150520,-
+4465,3677496,psaB,AccaCp021,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2|photosystem I P700 chlorophyll a apoprotein A2,20150520,-
+4465,3677497,psaC,AccaCp074,-,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center|photosystem I subunit VII,20200926,-
+4465,3677498,psaI,AccaCp031,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150520,-
+4465,3677499,psaJ,AccaCp041,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150520,-
+4465,3677500,4.5S rRNA,AccaCr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677501,4.5S rRNA,AccaCr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677502,5S rRNA,AccaCr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677503,5S rRNA,AccaCr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677504,atpA,AccaCp007,-,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,ATP synthase CF1 alpha chain|ATP synthase CF1 alpha subunit,20210424,-
+4465,3677505,atpB,AccaCp029,-,-,-,-,ATPase beta chain,protein-coding,-,-,-,ATPase beta chain|ATP synthase CF1 beta subunit,20160827,-
+4465,3677506,atpE,AccaCp028,-,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain|ATP synthase CF1 epsilon subunit,20150520,-
+4465,3677507,atpF,AccaCp008,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I|ATP synthase CF0 B subunit,20210424,-
+4465,3677508,atpH,AccaCp009,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C subunit,20150520,-
+4465,3677509,atpI,AccaCp010,-,-,-,-,ATPase IV subunit,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A subunit,20150520,-
+4465,3677510,ccsA,AccaCp072,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20150520,-
+4465,3677511,cemA,AccaCp033,ycf10,-,-,-,heme-binding protein,protein-coding,-,-,-,heme-binding protein|envelope membrane protein,20150520,-
+4465,3677512,clpP,AccaCp048,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160903,-
+4465,3677513,infA,AccaCp058,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160903,-
+4465,3677514,psbZ,AccaCp019,-,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein|photosystem II protein Z,20150520,-
+4465,3677515,matK,AccaCp003,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160903,-
+4465,3677516,ndhA,AccaCp078,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150520,-
+4465,3677517,ndhB,AccaCp085,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160903,-
+4465,3677518,ndhB,AccaCp068,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160903,-
+4465,3677519,16S rRNA,AccaCr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677520,16S rRNA,AccaCr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677521,23S rRNA,AccaCr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120917,-
+4465,3677522,23S rRNA,AccaCr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120917,-

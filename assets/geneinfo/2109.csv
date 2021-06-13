@@ -1,0 +1,727 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2109,3758900,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Mycoplasmopsis synoviae.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20201228,-
+2109,61970211,DEH79_RS00005,DEH79_RS00005,DEH79_00005,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210417,-
+2109,61970212,DEH79_RS00010,DEH79_RS00010,DEH79_00010,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210424,-
+2109,61970213,yaaA,DEH79_RS00015,DEH79_00015,-,-,-,S4 domain-containing protein YaaA,protein-coding,-,-,-,S4 domain-containing protein YaaA,20210424,-
+2109,61970214,DEH79_RS00020,DEH79_RS00020,DEH79_00020,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20210424,-
+2109,61970215,DEH79_RS00025,DEH79_RS00025,DEH79_00025,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210424,-
+2109,61970216,DEH79_RS00030,DEH79_RS00030,DEH79_00030,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20210424,-
+2109,61970217,coaBC,DEH79_RS00035,DEH79_00035,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20210424,-
+2109,61970218,DEH79_RS00040,DEH79_RS00040,DEH79_00040,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201230,-
+2109,61970219,DEH79_RS00045,DEH79_RS00045,DEH79_00045,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970220,DEH79_RS00050,DEH79_RS00050,DEH79_00050,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970221,DEH79_RS00055,DEH79_RS00055,DEH79_00055,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970222,DEH79_RS00060,DEH79_RS00060,DEH79_00060,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970223,DEH79_RS00065,DEH79_RS00065,DEH79_00065,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970224,eno,DEH79_RS00070,DEH79_00070,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201231,-
+2109,61970225,rpsP,DEH79_RS00075,DEH79_00075,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210101,-
+2109,61970226,trmD,DEH79_RS00080,DEH79_00080,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210101,-
+2109,61970227,rplS,DEH79_RS00085,DEH79_00085,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210101,-
+2109,61970228,tsaE,DEH79_RS00090,DEH79_00090,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210424,-
+2109,61970229,tsaB,DEH79_RS00095,DEH79_00095,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20201231,-
+2109,61970230,tsaD,DEH79_RS00100,DEH79_00100,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210417,-
+2109,61970231,DEH79_RS00105,DEH79_RS00105,DEH79_00105,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20201231,-
+2109,61970232,DEH79_RS00110,DEH79_RS00110,DEH79_00110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970233,DEH79_RS00115,DEH79_RS00115,DEH79_00115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970234,def,DEH79_RS00120,DEH79_00120,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210101,-
+2109,61970235,DEH79_RS00125,DEH79_RS00125,DEH79_00125,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,glycerol-3-phosphate acyltransferase,20210424,-
+2109,61970236,ffh,DEH79_RS00130,DEH79_00130,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201231,-
+2109,61970237,uvrA,DEH79_RS00135,DEH79_00135,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210424,-
+2109,61970238,DEH79_RS00140,DEH79_RS00140,DEH79_00140,-,-,-,glycerophosphodiester phosphodiesterase,protein-coding,-,-,-,glycerophosphodiester phosphodiesterase,20201231,-
+2109,61970239,DEH79_RS00145,DEH79_RS00145,-,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210327,-
+2109,61970240,DEH79_RS00150,DEH79_RS00150,DEH79_00150,-,-,-,dihydrodipicolinate synthase family protein,protein-coding,-,-,-,dihydrodipicolinate synthase family protein,20210424,-
+2109,61970241,DEH79_RS00155,DEH79_RS00155,DEH79_00155,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970242,DEH79_RS00160,DEH79_RS00160,DEH79_00160,-,-,-,phosphotriesterase,protein-coding,-,-,-,phosphotriesterase,20201231,-
+2109,61970243,DEH79_RS00165,DEH79_RS00165,DEH79_00165,-,-,-,PTS ascorbate transporter subunit IIC,protein-coding,-,-,-,PTS ascorbate transporter subunit IIC,20201231,-
+2109,61970244,DEH79_RS00170,DEH79_RS00170,DEH79_00170,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20210424,-
+2109,61970245,DEH79_RS00175,DEH79_RS00175,DEH79_00175,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210424,-
+2109,61970246,DEH79_RS00180,DEH79_RS00180,DEH79_00180,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,protein-coding,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,20210101,-
+2109,61970247,DEH79_RS00185,DEH79_RS00185,DEH79_00185,-,-,-,L-ribulose-5-phosphate 3-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 3-epimerase,20210101,-
+2109,61970248,DEH79_RS00190,DEH79_RS00190,DEH79_00190,-,-,-,L-ribulose-5-phosphate 4-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 4-epimerase,20210424,-
+2109,61970249,DEH79_RS00195,DEH79_RS00195,DEH79_00195,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210424,-
+2109,61970250,DEH79_RS00200,DEH79_RS00200,DEH79_00205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210327,-
+2109,61970251,DEH79_RS00205,DEH79_RS00205,DEH79_00210,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970252,DEH79_RS00210,DEH79_RS00210,DEH79_00215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970253,DEH79_RS00215,DEH79_RS00215,DEH79_00225,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970254,DEH79_RS00220,DEH79_RS00220,DEH79_00230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970255,fusA,DEH79_RS00225,DEH79_00235,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970256,lepB,DEH79_RS00230,DEH79_00240,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210101,-
+2109,61970257,DEH79_RS00235,DEH79_RS00235,DEH79_00245,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970258,DEH79_RS00240,DEH79_RS00240,DEH79_00250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970259,DEH79_RS00245,DEH79_RS00245,DEH79_00255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970260,DEH79_RS00250,DEH79_RS00250,DEH79_00260,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20201231,-
+2109,61970261,DEH79_RS00255,DEH79_RS00255,DEH79_00265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970262,fusA,DEH79_RS00260,DEH79_00270,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20201231,-
+2109,61970263,rpsG,DEH79_RS00265,DEH79_00275,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210101,-
+2109,61970264,rpsL,DEH79_RS00270,DEH79_00280,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210101,-
+2109,61970265,rsmI,DEH79_RS00275,DEH79_00285,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20210424,-
+2109,61970266,DEH79_RS00280,DEH79_RS00280,DEH79_00290,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20210424,-
+2109,61970267,DEH79_RS00285,DEH79_RS00285,DEH79_00295,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20201231,-
+2109,61970268,recR,DEH79_RS00290,DEH79_00300,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210424,-
+2109,61970269,DEH79_RS00295,DEH79_RS00295,DEH79_00305,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210424,-
+2109,61970270,dnaX,DEH79_RS00300,DEH79_00310,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210424,-
+2109,61970271,DEH79_RS00305,DEH79_RS00305,DEH79_00315,-,-,-,YwaF family protein,protein-coding,-,-,-,YwaF family protein,20210424,-
+2109,61970272,DEH79_RS00310,DEH79_RS00310,DEH79_00320,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210424,-
+2109,61970273,uvrB,DEH79_RS00315,DEH79_00325,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210424,-
+2109,61970274,DEH79_RS00320,DEH79_RS00320,DEH79_00330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970275,DEH79_RS00325,DEH79_RS00325,DEH79_00335,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20210424,-
+2109,61970276,DEH79_RS00330,DEH79_RS00330,DEH79_00340,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20210424,-
+2109,61970277,DEH79_RS00335,DEH79_RS00335,DEH79_00345,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970278,DEH79_RS00340,DEH79_RS00340,DEH79_00350,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210424,-
+2109,61970279,DEH79_RS00345,DEH79_RS00345,DEH79_00355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970280,DEH79_RS00350,DEH79_RS00350,DEH79_00360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970281,DEH79_RS00355,DEH79_RS00355,DEH79_00365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970282,DEH79_RS00360,DEH79_RS00360,DEH79_00370,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20201231,-
+2109,61970283,DEH79_RS00365,DEH79_RS00365,DEH79_00375,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20210424,-
+2109,61970284,DEH79_RS00370,DEH79_RS00370,DEH79_00380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970285,DEH79_RS00375,DEH79_RS00375,DEH79_00385,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970286,DEH79_RS00380,DEH79_RS00380,DEH79_00390,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210424,-
+2109,61970287,DEH79_RS00385,DEH79_RS00385,DEH79_00395,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210424,-
+2109,61970288,DEH79_RS00390,DEH79_RS00390,DEH79_00400,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201231,-
+2109,61970289,rnpB,DEH79_RS00395,DEH79_00405,-,-,-,ncRNA,ncRNA,-,-,-,-,20201230,-
+2109,61970290,DEH79_RS00400,DEH79_RS00400,DEH79_00410,-,-,-,helix-hairpin-helix domain-containing protein,protein-coding,-,-,-,helix-hairpin-helix domain-containing protein,20210424,-
+2109,61970291,DEH79_RS00405,DEH79_RS00405,DEH79_00415,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210424,-
+2109,61970292,DEH79_RS00410,DEH79_RS00410,DEH79_00420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970293,DEH79_RS00415,DEH79_RS00415,DEH79_00425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970294,rplM,DEH79_RS00420,DEH79_00430,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210101,-
+2109,61970295,rpsI,DEH79_RS00425,DEH79_00435,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210101,-
+2109,61970296,DEH79_RS00430,DEH79_RS00430,DEH79_00440,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970297,DEH79_RS00435,DEH79_RS00435,DEH79_00445,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20210424,-
+2109,61970298,DEH79_RS00440,DEH79_RS00440,DEH79_00450,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210424,-
+2109,61970299,DEH79_RS00445,DEH79_RS00445,DEH79_00455,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970300,DEH79_RS00450,DEH79_RS00450,DEH79_00460,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970301,DEH79_RS00455,DEH79_RS00455,DEH79_00465,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20210101,-
+2109,61970302,DEH79_RS00460,DEH79_RS00460,DEH79_00470,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20201231,-
+2109,61970303,rbfA,DEH79_RS00465,DEH79_00475,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210424,-
+2109,61970304,DEH79_RS00470,DEH79_RS00470,DEH79_00480,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20201231,-
+2109,61970305,DEH79_RS00475,DEH79_RS00475,DEH79_00485,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970306,DEH79_RS00480,DEH79_RS00480,DEH79_00490,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210424,-
+2109,61970307,DEH79_RS00485,DEH79_RS00485,DEH79_00495,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970308,DEH79_RS00490,DEH79_RS00490,DEH79_00500,-,-,-,P37-like ABC transporter substrate-binding lipoprotein,protein-coding,-,-,-,P37-like ABC transporter substrate-binding lipoprotein,20201231,-
+2109,61970309,DEH79_RS00495,DEH79_RS00495,DEH79_00505,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20201231,-
+2109,61970310,DEH79_RS00500,DEH79_RS00500,DEH79_00510,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20210424,-
+2109,61970311,DEH79_RS00505,DEH79_RS00505,DEH79_00515,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210424,-
+2109,61970312,gatB,DEH79_RS00510,DEH79_00520,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210424,-
+2109,61970313,gatA,DEH79_RS00515,DEH79_00525,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20201231,-
+2109,61970314,DEH79_RS00520,DEH79_RS00520,DEH79_00530,-,-,-,aspartyl-tRNA amidotransferase,protein-coding,-,-,-,aspartyl-tRNA amidotransferase,20210424,-
+2109,61970315,DEH79_RS00525,DEH79_RS00525,DEH79_00535,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201231,-
+2109,61970316,DEH79_RS00530,DEH79_RS00530,DEH79_00540,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20201231,-
+2109,61970317,DEH79_RS00535,DEH79_RS00535,DEH79_00545,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20201231,-
+2109,61970318,DEH79_RS00540,DEH79_RS00540,DEH79_00550,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201231,-
+2109,61970319,DEH79_RS00545,DEH79_RS00545,DEH79_00555,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20210424,-
+2109,61970320,DEH79_RS00550,DEH79_RS00550,DEH79_00560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970321,DEH79_RS00555,DEH79_RS00555,DEH79_00565,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210101,-
+2109,61970322,DEH79_RS00560,DEH79_RS00560,DEH79_00570,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201231,-
+2109,61970323,DEH79_RS00565,DEH79_RS00565,DEH79_00575,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970324,DEH79_RS00570,DEH79_RS00570,DEH79_00580,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201231,-
+2109,61970325,DEH79_RS00575,DEH79_RS00575,DEH79_00585,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201231,-
+2109,61970326,DEH79_RS00580,DEH79_RS00580,DEH79_00590,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210424,-
+2109,61970327,pgmB,DEH79_RS00585,DEH79_00595,-,-,-,beta-phosphoglucomutase,protein-coding,-,-,-,beta-phosphoglucomutase,20210424,-
+2109,61970328,DEH79_RS00590,DEH79_RS00590,DEH79_00600,-,-,-,glycoside hydrolase family 65 protein,protein-coding,-,-,-,glycoside hydrolase family 65 protein,20210101,-
+2109,61970329,DEH79_RS00595,DEH79_RS00595,DEH79_00605,-,-,-,sucrase-isomaltase,protein-coding,-,-,-,sucrase-isomaltase,20210424,-
+2109,61970330,DEH79_RS00600,DEH79_RS00600,DEH79_00610,-,-,-,winged helix-turn-helix transcriptional regulator,protein-coding,-,-,-,winged helix-turn-helix transcriptional regulator,20201231,-
+2109,61970331,DEH79_RS00605,DEH79_RS00605,DEH79_00615,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210424,-
+2109,61970332,DEH79_RS00610,DEH79_RS00610,DEH79_00620,-,-,-,class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent RNA methyltransferase,20201231,-
+2109,61970333,rsmD,DEH79_RS00615,DEH79_00625,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210424,-
+2109,61970334,trmB,DEH79_RS00620,DEH79_00630,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20210101,-
+2109,61970335,DEH79_RS00625,DEH79_RS00625,DEH79_00635,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201231,-
+2109,61970336,DEH79_RS00630,DEH79_RS00630,DEH79_00640,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20210424,-
+2109,61970337,DEH79_RS00635,DEH79_RS00635,DEH79_00645,-,-,-,GAF domain-containing protein,protein-coding,-,-,-,GAF domain-containing protein,20201231,-
+2109,61970338,DEH79_RS00640,DEH79_RS00640,DEH79_00650,-,-,-,DUF3137 domain-containing protein,protein-coding,-,-,-,DUF3137 domain-containing protein,20210424,-
+2109,61970339,DEH79_RS00645,DEH79_RS00645,DEH79_00655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970340,DEH79_RS00650,DEH79_RS00650,DEH79_00660,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201231,-
+2109,61970341,rsgA,DEH79_RS00655,DEH79_00665,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20210101,-
+2109,61970342,DEH79_RS00660,DEH79_RS00660,DEH79_00670,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20201231,-
+2109,61970343,DEH79_RS00665,DEH79_RS00665,DEH79_00675,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210424,-
+2109,61970344,gmk,DEH79_RS00670,DEH79_00680,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210101,-
+2109,61970345,rpmG,DEH79_RS00675,DEH79_00685,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201231,-
+2109,61970346,DEH79_RS00680,DEH79_RS00680,DEH79_00690,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20210101,-
+2109,61970347,DEH79_RS00685,DEH79_RS00685,DEH79_00695,-,-,-,potassium channel family protein,protein-coding,-,-,-,potassium channel family protein,20210424,-
+2109,61970348,DEH79_RS00690,DEH79_RS00690,DEH79_00700,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970349,secA,DEH79_RS00695,DEH79_00705,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970350,DEH79_RS00700,DEH79_RS00700,DEH79_00710,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970351,DEH79_RS00705,DEH79_RS00705,DEH79_00715,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210101,-
+2109,61970352,DEH79_RS00710,DEH79_RS00710,DEH79_00720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970353,DEH79_RS00715,DEH79_RS00715,DEH79_00725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970354,DEH79_RS00720,DEH79_RS00720,DEH79_00730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970355,DEH79_RS00725,DEH79_RS00725,DEH79_00735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970356,DEH79_RS00730,DEH79_RS00730,DEH79_00740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970357,DEH79_RS00735,DEH79_RS00735,DEH79_00745,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20210424,-
+2109,61970358,DEH79_RS00740,DEH79_RS00740,DEH79_00750,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970359,DEH79_RS00745,DEH79_RS00745,DEH79_00755,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970360,DEH79_RS00750,DEH79_RS00750,DEH79_00760,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970361,DEH79_RS00755,DEH79_RS00755,DEH79_00765,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210424,-
+2109,61970362,DEH79_RS00760,DEH79_RS00760,DEH79_00770,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210424,-
+2109,61970363,der,DEH79_RS00765,DEH79_00775,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20201231,-
+2109,61970364,DEH79_RS00770,DEH79_RS00770,DEH79_00780,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201231,-
+2109,61970365,DEH79_RS00775,DEH79_RS00775,DEH79_00785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970366,ftsY,DEH79_RS00780,DEH79_00790,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20201231,-
+2109,61970367,DEH79_RS00785,DEH79_RS00785,DEH79_00795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970368,DEH79_RS00790,DEH79_RS00790,DEH79_00800,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210424,-
+2109,61970369,DEH79_RS00795,DEH79_RS00795,DEH79_00805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970370,DEH79_RS00800,DEH79_RS00800,DEH79_00810,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210101,-
+2109,61970371,DEH79_RS00805,DEH79_RS00805,DEH79_00815,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210424,-
+2109,61970372,DEH79_RS00810,DEH79_RS00810,DEH79_00820,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210424,-
+2109,61970373,rsmG,DEH79_RS00815,DEH79_00825,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210424,-
+2109,61970374,DEH79_RS00820,DEH79_RS00820,DEH79_00830,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20201231,-
+2109,61970375,DEH79_RS00825,DEH79_RS00825,DEH79_00835,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210424,-
+2109,61970376,DEH79_RS00830,DEH79_RS00830,DEH79_00840,-,-,-,peptidase M17,protein-coding,-,-,-,peptidase M17,20210424,-
+2109,61970377,DEH79_RS00835,DEH79_RS00835,DEH79_00845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970378,DEH79_RS00840,DEH79_RS00840,DEH79_00850,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20210424,-
+2109,61970379,DEH79_RS00845,DEH79_RS00845,DEH79_00855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970380,DEH79_RS00850,DEH79_RS00850,DEH79_00860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970381,DEH79_RS00855,DEH79_RS00855,DEH79_00865,-,-,-,DUF2768 domain-containing protein,protein-coding,-,-,-,DUF2768 domain-containing protein,20201230,-
+2109,61970382,DEH79_RS00860,DEH79_RS00860,DEH79_00870,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20201231,-
+2109,61970383,DEH79_RS00865,DEH79_RS00865,DEH79_00875,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201231,-
+2109,61970384,DEH79_RS00870,DEH79_RS00870,DEH79_00880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970385,DEH79_RS00875,DEH79_RS00875,DEH79_00885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970386,DEH79_RS00880,DEH79_RS00880,DEH79_00890,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201231,-
+2109,61970387,DEH79_RS00885,DEH79_RS00885,DEH79_00895,-,-,-,type III restriction endonuclease subunit M,protein-coding,-,-,-,type III restriction endonuclease subunit M,20201230,-
+2109,61970388,DEH79_RS00890,DEH79_RS00890,DEH79_00900,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20210424,-
+2109,61970389,rpmF,DEH79_RS00895,DEH79_00905,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210101,-
+2109,61970390,ruvA,DEH79_RS00900,DEH79_00910,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210424,-
+2109,61970391,ruvB,DEH79_RS00905,DEH79_00915,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210424,-
+2109,61970392,DEH79_RS00910,DEH79_RS00910,DEH79_00920,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210424,-
+2109,61970393,DEH79_RS00915,DEH79_RS00915,DEH79_00925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970394,DEH79_RS00920,DEH79_RS00920,DEH79_00930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970395,DEH79_RS00925,DEH79_RS00925,DEH79_00935,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970396,DEH79_RS00930,DEH79_RS00930,DEH79_00940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970397,DEH79_RS00935,DEH79_RS00935,DEH79_00945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970398,DEH79_RS00940,DEH79_RS00940,DEH79_00950,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970399,DEH79_RS00945,DEH79_RS00945,DEH79_00955,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970400,secDF,DEH79_RS00950,DEH79_00960,-,-,-,protein translocase subunit SecDF,protein-coding,-,-,-,protein translocase subunit SecDF,20201231,-
+2109,61970401,obgE,DEH79_RS00955,DEH79_00965,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201231,-
+2109,61970402,trpS,DEH79_RS00960,DEH79_00970,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210101,-
+2109,61970403,DEH79_RS00965,DEH79_RS00965,DEH79_00975,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201231,-
+2109,61970404,DEH79_RS00970,DEH79_RS00970,DEH79_00980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970405,rmuC,DEH79_RS00975,DEH79_00985,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210424,-
+2109,61970406,DEH79_RS00980,DEH79_RS00980,DEH79_00990,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20201231,-
+2109,61970407,DEH79_RS00985,DEH79_RS00985,DEH79_00995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970408,DEH79_RS00990,DEH79_RS00990,DEH79_01000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970409,DEH79_RS00995,DEH79_RS00995,DEH79_01005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970410,rrf,DEH79_RS01000,DEH79_01010,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970411,DEH79_RS01005,DEH79_RS01005,DEH79_01015,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970412,DEH79_RS01010,DEH79_RS01010,DEH79_01020,-,-,-,type II restriction endonuclease,protein-coding,-,-,-,type II restriction endonuclease,20210424,-
+2109,61970413,DEH79_RS01015,DEH79_RS01015,DEH79_01025,-,-,-,Dam family site-specific DNA-(adenine-N6)-methyltransferase,protein-coding,-,-,-,Dam family site-specific DNA-(adenine-N6)-methyltransferase,20201231,-
+2109,61970414,DEH79_RS01020,DEH79_RS01020,DEH79_01030,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970415,DEH79_RS01025,DEH79_RS01025,DEH79_01035,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210424,-
+2109,61970416,DEH79_RS01030,DEH79_RS01030,DEH79_01040,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210424,-
+2109,61970417,DEH79_RS01035,DEH79_RS01035,DEH79_01045,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201231,-
+2109,61970418,prmC,DEH79_RS01040,DEH79_01050,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20201231,-
+2109,61970419,prfA,DEH79_RS01045,DEH79_01055,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201231,-
+2109,61970420,DEH79_RS01050,DEH79_RS01050,DEH79_01060,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970421,DEH79_RS01055,DEH79_RS01055,DEH79_01065,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970422,DEH79_RS01060,DEH79_RS01060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970423,DEH79_RS01065,DEH79_RS01065,DEH79_01070,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970424,DEH79_RS01070,DEH79_RS01070,DEH79_01075,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210101,-
+2109,61970425,DEH79_RS01075,DEH79_RS01075,DEH79_01080,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970426,DEH79_RS01080,DEH79_RS01080,DEH79_01085,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970427,DEH79_RS01085,DEH79_RS01085,DEH79_01090,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20210424,-
+2109,61970428,DEH79_RS01090,DEH79_RS01090,DEH79_01095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970429,DEH79_RS01095,DEH79_RS01095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210403,-
+2109,61970430,DEH79_RS01100,DEH79_RS01100,DEH79_01105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970431,DEH79_RS01105,DEH79_RS01105,DEH79_01110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970432,DEH79_RS01110,DEH79_RS01110,DEH79_01115,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20201231,-
+2109,61970433,DEH79_RS01115,DEH79_RS01115,DEH79_01120,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,protein-coding,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,20201231,-
+2109,61970434,DEH79_RS01120,DEH79_RS01120,DEH79_01125,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20201231,-
+2109,61970435,DEH79_RS01125,DEH79_RS01125,DEH79_01130,-,-,-,YhcH/YjgK/YiaL family protein,protein-coding,-,-,-,YhcH/YjgK/YiaL family protein,20210424,-
+2109,61970436,DEH79_RS01130,DEH79_RS01130,DEH79_01135,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,protein-coding,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,20210424,-
+2109,61970437,DEH79_RS01135,DEH79_RS01135,DEH79_01140,-,-,-,N-acetylneuraminate lyase,protein-coding,-,-,-,N-acetylneuraminate lyase,20210424,-
+2109,61970438,DEH79_RS01140,DEH79_RS01140,DEH79_01145,-,-,-,exo-alpha-sialidase,protein-coding,-,-,-,exo-alpha-sialidase,20210424,-
+2109,61970439,gap,DEH79_RS01145,DEH79_01150,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210101,-
+2109,61970440,DEH79_RS01150,DEH79_RS01150,DEH79_01155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970441,DEH79_RS01155,DEH79_RS01155,DEH79_01160,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970442,DEH79_RS01160,DEH79_RS01160,-,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970443,DEH79_RS01165,DEH79_RS01165,DEH79_01170,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970444,DEH79_RS01170,DEH79_RS01170,DEH79_01175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970445,DEH79_RS01175,DEH79_RS01175,DEH79_01180,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201231,-
+2109,61970446,DEH79_RS01180,DEH79_RS01180,DEH79_01185,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970447,DEH79_RS01185,DEH79_RS01185,DEH79_01190,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970448,DEH79_RS01190,DEH79_RS01190,DEH79_01195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970449,DEH79_RS01195,DEH79_RS01195,DEH79_01200,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970450,DEH79_RS01200,DEH79_RS01200,DEH79_01205,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970451,DEH79_RS01205,DEH79_RS01205,DEH79_01210,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970452,DEH79_RS01210,DEH79_RS01210,DEH79_01215,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970453,DEH79_RS01215,DEH79_RS01215,DEH79_01220,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970454,DEH79_RS01220,DEH79_RS01220,DEH79_01225,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970455,DEH79_RS01225,DEH79_RS01225,DEH79_01230,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970456,DEH79_RS01230,DEH79_RS01230,DEH79_01235,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970457,DEH79_RS01235,DEH79_RS01235,DEH79_01240,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970458,DEH79_RS01240,DEH79_RS01240,DEH79_01245,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970459,DEH79_RS01245,DEH79_RS01245,DEH79_01250,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970460,DEH79_RS01250,DEH79_RS01250,DEH79_01255,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970461,DEH79_RS01255,DEH79_RS01255,DEH79_01260,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970462,DEH79_RS01260,DEH79_RS01260,DEH79_01265,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970463,DEH79_RS01265,DEH79_RS01265,DEH79_01270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970464,DEH79_RS01270,DEH79_RS01270,DEH79_01275,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970465,DEH79_RS01275,DEH79_RS01275,DEH79_01280,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970466,DEH79_RS01280,DEH79_RS01280,DEH79_01285,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970467,DEH79_RS01285,DEH79_RS01285,DEH79_01290,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970468,DEH79_RS01290,DEH79_RS01290,DEH79_01295,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970469,DEH79_RS01295,DEH79_RS01295,-,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970470,DEH79_RS01300,DEH79_RS01300,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970471,DEH79_RS01305,DEH79_RS01305,DEH79_01310,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970472,DEH79_RS01310,DEH79_RS01310,DEH79_01315,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20210424,-
+2109,61970473,DEH79_RS01315,DEH79_RS01315,DEH79_01320,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970474,DEH79_RS01320,DEH79_RS01320,DEH79_01325,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970475,DEH79_RS01325,DEH79_RS01325,DEH79_01330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970476,DEH79_RS01330,DEH79_RS01330,DEH79_01335,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970477,DEH79_RS01335,DEH79_RS01335,DEH79_01340,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970478,DEH79_RS01340,DEH79_RS01340,DEH79_01345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970479,DEH79_RS01345,DEH79_RS01345,DEH79_01350,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970480,DEH79_RS01350,DEH79_RS01350,DEH79_01355,-,-,-,hemagglutinin,protein-coding,-,-,-,hemagglutinin,20201230,-
+2109,61970481,DEH79_RS01355,DEH79_RS01355,DEH79_01360,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970482,gap,DEH79_RS01360,DEH79_01365,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210101,-
+2109,61970483,DEH79_RS01365,DEH79_RS01365,DEH79_01370,-,-,-,GIY-YIG nuclease family protein,protein-coding,-,-,-,GIY-YIG nuclease family protein,20210424,-
+2109,61970484,pdhA,DEH79_RS01370,DEH79_01375,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210101,-
+2109,61970485,DEH79_RS01375,DEH79_RS01375,DEH79_01380,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20201231,-
+2109,61970486,DEH79_RS01380,DEH79_RS01380,DEH79_01385,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20201231,-
+2109,61970487,lpdA,DEH79_RS01385,DEH79_01390,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210424,-
+2109,61970488,DEH79_RS01390,DEH79_RS01390,DEH79_01395,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970489,DEH79_RS01395,DEH79_RS01395,DEH79_01400,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201231,-
+2109,61970490,DEH79_RS01400,DEH79_RS01400,DEH79_01410,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970491,DEH79_RS01405,DEH79_RS01405,DEH79_01415,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210424,-
+2109,61970492,DEH79_RS01410,DEH79_RS01410,-,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210327,-
+2109,61970493,DEH79_RS01415,DEH79_RS01415,DEH79_01425,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210424,-
+2109,61970494,DEH79_RS01420,DEH79_RS01420,DEH79_01430,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210424,-
+2109,61970495,DEH79_RS01425,DEH79_RS01425,DEH79_01435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970496,DEH79_RS01430,DEH79_RS01430,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970497,DEH79_RS01435,DEH79_RS01435,DEH79_01445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970498,DEH79_RS01440,DEH79_RS01440,DEH79_01450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970499,DEH79_RS01445,DEH79_RS01445,DEH79_01455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970500,DEH79_RS01450,DEH79_RS01450,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970501,DEH79_RS01455,DEH79_RS01455,DEH79_01460,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970502,DEH79_RS01460,DEH79_RS01460,DEH79_01465,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20210424,-
+2109,61970503,DEH79_RS01465,DEH79_RS01465,DEH79_01470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970504,DEH79_RS01470,DEH79_RS01470,DEH79_01475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970505,DEH79_RS01475,DEH79_RS01475,DEH79_01480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970506,DEH79_RS01480,DEH79_RS01480,DEH79_01485,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20201231,-
+2109,61970507,DEH79_RS01485,DEH79_RS01485,DEH79_01490,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20201231,-
+2109,61970508,DEH79_RS01490,DEH79_RS01490,DEH79_01495,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20210424,-
+2109,61970509,DEH79_RS01495,DEH79_RS01495,DEH79_01500,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20201231,-
+2109,61970510,DEH79_RS01500,DEH79_RS01500,DEH79_01505,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201231,-
+2109,61970511,gyrA,DEH79_RS01505,DEH79_01510,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20201231,-
+2109,61970512,DEH79_RS01510,DEH79_RS01510,DEH79_01515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970513,DEH79_RS01515,DEH79_RS01515,DEH79_01520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970514,DEH79_RS01520,DEH79_RS01520,DEH79_01525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970515,DEH79_RS01525,DEH79_RS01525,DEH79_01530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970516,lon,DEH79_RS01530,DEH79_01535,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210424,-
+2109,61970517,DEH79_RS01535,DEH79_RS01535,DEH79_01540,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20201231,-
+2109,61970518,DEH79_RS01540,DEH79_RS01540,DEH79_01545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970519,upp,DEH79_RS01545,DEH79_01550,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20201231,-
+2109,61970520,pheS,DEH79_RS01550,DEH79_01555,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20201231,-
+2109,61970521,DEH79_RS01555,DEH79_RS01555,DEH79_01560,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210424,-
+2109,61970522,DEH79_RS01560,DEH79_RS01560,DEH79_01565,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20201231,-
+2109,61970523,DEH79_RS01565,DEH79_RS01565,DEH79_01570,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210101,-
+2109,61970524,DEH79_RS01570,DEH79_RS01570,DEH79_01575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970525,DEH79_RS01575,DEH79_RS01575,DEH79_01580,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201231,-
+2109,61970526,DEH79_RS01580,DEH79_RS01580,DEH79_01585,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20201231,-
+2109,61970527,rnr,DEH79_RS01585,DEH79_01590,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20210424,-
+2109,61970528,DEH79_RS01590,DEH79_RS01590,DEH79_01595,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20201231,-
+2109,61970529,DEH79_RS01595,DEH79_RS01595,DEH79_01600,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20210424,-
+2109,61970530,DEH79_RS01600,DEH79_RS01600,DEH79_01605,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201231,-
+2109,61970531,DEH79_RS01605,DEH79_RS01605,DEH79_01610,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20210101,-
+2109,61970532,pfkA,DEH79_RS01610,DEH79_01615,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20201231,-
+2109,61970533,DEH79_RS01615,DEH79_RS01615,DEH79_01620,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970534,DEH79_RS01620,DEH79_RS01620,DEH79_01625,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210424,-
+2109,61970535,DEH79_RS01625,DEH79_RS01625,DEH79_01630,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970536,DEH79_RS01630,DEH79_RS01630,DEH79_01635,-,-,-,asparagine ligase,protein-coding,-,-,-,asparagine ligase,20201231,-
+2109,61970537,DEH79_RS01635,DEH79_RS01635,DEH79_01640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970538,DEH79_RS01640,DEH79_RS01640,DEH79_01645,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970539,DEH79_RS01645,DEH79_RS01645,DEH79_01650,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20201231,-
+2109,61970540,DEH79_RS01650,DEH79_RS01650,DEH79_01655,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210424,-
+2109,61970541,DEH79_RS01655,DEH79_RS01655,DEH79_01660,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970542,DEH79_RS01660,DEH79_RS01660,DEH79_01665,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20210101,-
+2109,61970543,DEH79_RS01665,DEH79_RS01665,DEH79_01670,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201231,-
+2109,61970544,DEH79_RS01670,DEH79_RS01670,DEH79_01675,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970545,DEH79_RS01675,DEH79_RS01675,DEH79_01680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970546,DEH79_RS01680,DEH79_RS01680,DEH79_01685,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210424,-
+2109,61970547,DEH79_RS01685,DEH79_RS01685,DEH79_01690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970548,DEH79_RS01690,DEH79_RS01690,DEH79_01695,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201231,-
+2109,61970549,DEH79_RS01695,DEH79_RS01695,DEH79_01700,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201231,-
+2109,61970550,DEH79_RS01700,DEH79_RS01700,DEH79_01705,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20210424,-
+2109,61970551,DEH79_RS01705,DEH79_RS01705,DEH79_01710,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210424,-
+2109,61970552,ftsZ,DEH79_RS01710,DEH79_01715,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20201231,-
+2109,61970553,DEH79_RS01715,DEH79_RS01715,DEH79_01720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970554,rsmH,DEH79_RS01720,DEH79_01725,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210424,-
+2109,61970555,DEH79_RS01725,DEH79_RS01725,DEH79_01730,-,-,-,transcriptional regulator MraZ,protein-coding,-,-,-,transcriptional regulator MraZ,20210424,-
+2109,61970556,DEH79_RS01730,DEH79_RS01730,DEH79_01735,-,-,-,DUF3899 domain-containing protein,protein-coding,-,-,-,DUF3899 domain-containing protein,20201230,-
+2109,61970557,DEH79_RS01735,DEH79_RS01735,DEH79_01740,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970558,DEH79_RS01740,DEH79_RS01740,DEH79_01745,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970559,DEH79_RS01745,DEH79_RS01745,DEH79_01750,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970560,DEH79_RS01750,DEH79_RS01750,DEH79_01755,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210424,-
+2109,61970561,DEH79_RS01755,DEH79_RS01755,DEH79_01760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970562,pepF,DEH79_RS01760,DEH79_01765,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210424,-
+2109,61970563,dnaK,DEH79_RS01765,DEH79_01770,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201231,-
+2109,61970564,grpE,DEH79_RS01770,DEH79_01775,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210424,-
+2109,61970565,hrcA,DEH79_RS01775,DEH79_01780,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20210424,-
+2109,61970566,fba,DEH79_RS01780,DEH79_01785,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20210101,-
+2109,61970567,DEH79_RS01785,DEH79_RS01785,DEH79_01790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970568,DEH79_RS01790,DEH79_RS01790,DEH79_01795,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20201231,-
+2109,61970569,DEH79_RS01795,DEH79_RS01795,DEH79_01800,-,-,-,class I tRNA ligase family protein,protein-coding,-,-,-,class I tRNA ligase family protein,20210424,-
+2109,61970570,rlmB,DEH79_RS01800,DEH79_01805,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20201231,-
+2109,61970571,DEH79_RS01805,DEH79_RS01805,DEH79_01810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970572,rpmG,DEH79_RS01810,DEH79_01815,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210424,-
+2109,61970573,secE,DEH79_RS01815,DEH79_01820,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210101,-
+2109,61970574,DEH79_RS01820,DEH79_RS01820,DEH79_01825,-,-,-,transcription antitermination protein NusG,protein-coding,-,-,-,transcription antitermination protein NusG,20210101,-
+2109,61970575,mnmE,DEH79_RS01825,DEH79_01830,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201231,-
+2109,61970576,DEH79_RS01830,DEH79_RS01830,DEH79_01835,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210424,-
+2109,61970577,rsmA,DEH79_RS01835,DEH79_01840,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210424,-
+2109,61970578,DEH79_RS01840,DEH79_RS01840,DEH79_01845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970579,DEH79_RS01845,DEH79_RS01845,DEH79_01850,-,-,-,DUF4231 domain-containing protein,protein-coding,-,-,-,DUF4231 domain-containing protein,20201230,-
+2109,61970580,DEH79_RS01850,DEH79_RS01850,DEH79_01855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970581,DEH79_RS01855,DEH79_RS01855,DEH79_01860,-,-,-,redoxin domain-containing protein,protein-coding,-,-,-,redoxin domain-containing protein,20210424,-
+2109,61970582,DEH79_RS01860,DEH79_RS01860,DEH79_01865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970583,DEH79_RS01865,DEH79_RS01865,DEH79_01870,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210424,-
+2109,61970584,DEH79_RS01870,DEH79_RS01870,DEH79_01875,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20210424,-
+2109,61970585,DEH79_RS01875,DEH79_RS01875,DEH79_01880,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970586,DEH79_RS01880,DEH79_RS01880,DEH79_01885,-,-,-,ZIP family metal transporter,protein-coding,-,-,-,ZIP family metal transporter,20210424,-
+2109,61970587,DEH79_RS01885,DEH79_RS01885,DEH79_01890,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210424,-
+2109,61970588,DEH79_RS01890,DEH79_RS01890,DEH79_01895,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+2109,61970589,mnmA,DEH79_RS01895,DEH79_01900,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20201231,-
+2109,61970590,alaS,DEH79_RS01900,DEH79_01905,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210424,-
+2109,61970591,ruvX,DEH79_RS01905,DEH79_01910,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210424,-
+2109,61970592,DEH79_RS01910,DEH79_RS01910,DEH79_01915,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970593,greA,DEH79_RS01915,DEH79_01920,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201231,-
+2109,61970594,DEH79_RS01920,DEH79_RS01920,DEH79_01925,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210424,-
+2109,61970595,hpt,DEH79_RS01925,DEH79_01930,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20201231,-
+2109,61970596,DEH79_RS01930,DEH79_RS01930,DEH79_01935,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210101,-
+2109,61970597,DEH79_RS01935,DEH79_RS01935,DEH79_01940,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210101,-
+2109,61970598,DEH79_RS01940,DEH79_RS01940,DEH79_01945,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201231,-
+2109,61970599,DEH79_RS01945,DEH79_RS01945,DEH79_01950,-,-,-,glycerol transporter subunit C,protein-coding,-,-,-,glycerol transporter subunit C,20210424,-
+2109,61970600,DEH79_RS01950,DEH79_RS01950,DEH79_01955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970601,era,DEH79_RS01955,DEH79_01960,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20201231,-
+2109,61970602,cdd,DEH79_RS01960,DEH79_01965,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20210101,-
+2109,61970603,ybeY,DEH79_RS01965,DEH79_01970,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210424,-
+2109,61970604,DEH79_RS01970,DEH79_RS01970,DEH79_01975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970605,DEH79_RS01975,DEH79_RS01975,DEH79_01980,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970606,DEH79_RS01980,DEH79_RS01980,DEH79_01985,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20210101,-
+2109,61970607,DEH79_RS01985,DEH79_RS01985,DEH79_01990,-,-,-,PLDc N-terminal domain-containing protein,protein-coding,-,-,-,PLDc N-terminal domain-containing protein,20210424,-
+2109,61970608,DEH79_RS01990,DEH79_RS01990,DEH79_01995,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210424,-
+2109,61970609,DEH79_RS01995,DEH79_RS01995,DEH79_02000,-,-,-,YqaJ viral recombinase family protein,protein-coding,-,-,-,YqaJ viral recombinase family protein,20210424,-
+2109,61970610,DEH79_RS02000,DEH79_RS02000,DEH79_02005,-,-,-,dCMP deaminase family protein,protein-coding,-,-,-,dCMP deaminase family protein,20201231,-
+2109,61970611,DEH79_RS02005,DEH79_RS02005,DEH79_02010,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20210101,-
+2109,61970612,DEH79_RS02010,DEH79_RS02010,DEH79_02015,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20210424,-
+2109,61970613,nrdF,DEH79_RS02015,DEH79_02020,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20210424,-
+2109,61970614,nrdI,DEH79_RS02020,DEH79_02025,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20210424,-
+2109,61970615,nrdE,DEH79_RS02025,DEH79_02030,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20210424,-
+2109,61970616,DEH79_RS02030,DEH79_RS02030,DEH79_02035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970617,DEH79_RS02035,DEH79_RS02035,DEH79_02040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970618,DEH79_RS02040,DEH79_RS02040,DEH79_02045,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20210424,-
+2109,61970619,atpD,DEH79_RS02045,DEH79_02050,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210101,-
+2109,61970620,DEH79_RS02050,DEH79_RS02050,DEH79_02055,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20210101,-
+2109,61970621,DEH79_RS02055,DEH79_RS02055,DEH79_02060,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20201231,-
+2109,61970622,atpH,DEH79_RS02060,DEH79_02065,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20210424,-
+2109,61970623,atpF,DEH79_RS02065,DEH79_02070,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20201231,-
+2109,61970624,atpE,DEH79_RS02070,DEH79_02075,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20210101,-
+2109,61970625,DEH79_RS02075,DEH79_RS02075,DEH79_02080,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201231,-
+2109,61970626,DEH79_RS02080,DEH79_RS02080,DEH79_02085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970627,rpsB,DEH79_RS02085,DEH79_02090,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210101,-
+2109,61970628,DEH79_RS02090,DEH79_RS02090,DEH79_02095,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210101,-
+2109,61970629,DEH79_RS02095,DEH79_RS02095,DEH79_02100,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20210424,-
+2109,61970630,DEH79_RS02100,DEH79_RS02100,DEH79_02105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970631,DEH79_RS02105,DEH79_RS02105,DEH79_02110,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201231,-
+2109,61970632,DEH79_RS02110,DEH79_RS02110,DEH79_02115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970633,DEH79_RS02115,DEH79_RS02115,DEH79_02120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970634,DEH79_RS02120,DEH79_RS02120,DEH79_02125,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201231,-
+2109,61970635,rplL,DEH79_RS02125,DEH79_02130,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201231,-
+2109,61970636,asnS,DEH79_RS02130,DEH79_02135,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20201231,-
+2109,61970637,DEH79_RS02135,DEH79_RS02135,DEH79_02140,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210424,-
+2109,61970638,DEH79_RS02140,DEH79_RS02140,DEH79_02145,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20210424,-
+2109,61970639,DEH79_RS02145,DEH79_RS02145,DEH79_02150,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20201231,-
+2109,61970640,DEH79_RS02150,DEH79_RS02150,DEH79_02155,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201231,-
+2109,61970641,DEH79_RS02155,DEH79_RS02155,DEH79_02160,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20210424,-
+2109,61970642,DEH79_RS02160,DEH79_RS02160,DEH79_02165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970643,DEH79_RS02165,DEH79_RS02165,DEH79_02170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970644,DEH79_RS02170,DEH79_RS02170,DEH79_02175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970645,DEH79_RS02175,DEH79_RS02175,DEH79_02180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970646,efp,DEH79_RS02180,DEH79_02185,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210101,-
+2109,61970647,DEH79_RS02185,DEH79_RS02185,DEH79_02190,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970648,DEH79_RS02190,DEH79_RS02190,DEH79_02195,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210424,-
+2109,61970649,DEH79_RS02195,DEH79_RS02195,DEH79_02200,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970650,DEH79_RS02200,DEH79_RS02200,DEH79_02205,-,-,-,winged helix-turn-helix transcriptional regulator,protein-coding,-,-,-,winged helix-turn-helix transcriptional regulator,20210424,-
+2109,61970651,DEH79_RS02205,DEH79_RS02205,DEH79_02210,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210424,-
+2109,61970652,DEH79_RS02210,DEH79_RS02210,DEH79_02215,-,-,-,PTS glucose enzyme IIB subunit,protein-coding,-,-,-,PTS glucose enzyme IIB subunit,20210424,-
+2109,61970653,DEH79_RS02215,DEH79_RS02215,DEH79_02220,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20210101,-
+2109,61970654,aspS,DEH79_RS02220,DEH79_02225,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210101,-
+2109,61970655,hisS,DEH79_RS02225,DEH79_02230,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210101,-
+2109,61970656,DEH79_RS02230,DEH79_RS02230,DEH79_02235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970657,DEH79_RS02235,DEH79_RS02235,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970658,dcm,DEH79_RS02240,DEH79_02240,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210424,-
+2109,61970659,DEH79_RS02245,DEH79_RS02245,DEH79_02245,-,-,-,DUF262 domain-containing protein,protein-coding,-,-,-,DUF262 domain-containing protein,20210424,-
+2109,61970660,DEH79_RS02250,DEH79_RS02250,DEH79_02255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970661,deoC,DEH79_RS02255,DEH79_02260,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20201231,-
+2109,61970662,DEH79_RS02260,DEH79_RS02260,DEH79_02265,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20210424,-
+2109,61970663,deoD,DEH79_RS02265,DEH79_02270,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20210424,-
+2109,61970664,mutM,DEH79_RS02270,DEH79_02275,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20210424,-
+2109,61970665,DEH79_RS02275,DEH79_RS02275,DEH79_02280,-,-,-,isochorismatase family protein,protein-coding,-,-,-,isochorismatase family protein,20201230,-
+2109,61970666,DEH79_RS02280,DEH79_RS02280,DEH79_02285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970667,DEH79_RS02285,DEH79_RS02285,DEH79_02290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970668,DEH79_RS02290,DEH79_RS02290,DEH79_02295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970669,DEH79_RS02295,DEH79_RS02295,DEH79_02300,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201231,-
+2109,61970670,dnaG,DEH79_RS02300,DEH79_02305,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210424,-
+2109,61970671,DEH79_RS02310,DEH79_RS02310,DEH79_02315,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210424,-
+2109,61970672,secG,DEH79_RS02315,DEH79_02320,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210101,-
+2109,61970673,DEH79_RS02320,DEH79_RS02320,DEH79_02325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970674,DEH79_RS02325,DEH79_RS02325,DEH79_02330,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970675,DEH79_RS02330,DEH79_RS02330,DEH79_02335,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970676,DEH79_RS02335,DEH79_RS02335,DEH79_02340,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970677,DEH79_RS02340,DEH79_RS02340,DEH79_02345,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970678,DEH79_RS02345,DEH79_RS02345,DEH79_02350,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970679,DEH79_RS02350,DEH79_RS02350,DEH79_02355,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20210101,-
+2109,61970680,DEH79_RS02355,DEH79_RS02355,DEH79_02360,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210424,-
+2109,61970681,DEH79_RS02360,DEH79_RS02360,DEH79_02365,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+2109,61970682,DEH79_RS02365,DEH79_RS02365,DEH79_02370,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201231,-
+2109,61970683,DEH79_RS02370,DEH79_RS02370,DEH79_02375,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20210424,-
+2109,61970684,DEH79_RS02375,DEH79_RS02375,DEH79_02380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970685,DEH79_RS02380,DEH79_RS02380,DEH79_02385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970686,DEH79_RS02385,DEH79_RS02385,DEH79_02390,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20201230,-
+2109,61970687,DEH79_RS02390,DEH79_RS02390,DEH79_02395,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20210424,-
+2109,61970688,DEH79_RS02395,DEH79_RS02395,DEH79_02400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970689,DEH79_RS02400,DEH79_RS02400,DEH79_02405,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210424,-
+2109,61970690,DEH79_RS02405,DEH79_RS02405,DEH79_02410,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970691,DEH79_RS02410,DEH79_RS02410,DEH79_02415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970692,DEH79_RS02415,DEH79_RS02415,DEH79_02420,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970693,rpmE,DEH79_RS02420,DEH79_02425,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20210101,-
+2109,61970694,rpsD,DEH79_RS02425,DEH79_02430,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201231,-
+2109,61970695,DEH79_RS02430,DEH79_RS02430,DEH79_02435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970696,smpB,DEH79_RS02435,DEH79_02440,-,-,-,SsrA-binding protein,protein-coding,-,-,-,SsrA-binding protein,20210424,-
+2109,61970697,ssrA,DEH79_RS02440,DEH79_02445,-,-,-,miscRNA,miscRNA,-,-,-,-,20201230,-
+2109,61970698,DEH79_RS02445,DEH79_RS02445,DEH79_02450,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210424,-
+2109,61970699,DEH79_RS02450,DEH79_RS02450,DEH79_02455,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20201231,-
+2109,61970700,DEH79_RS02455,DEH79_RS02455,DEH79_02460,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201231,-
+2109,61970701,DEH79_RS02460,DEH79_RS02460,DEH79_02465,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210424,-
+2109,61970702,DEH79_RS02465,DEH79_RS02465,DEH79_02470,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210101,-
+2109,61970703,DEH79_RS02470,DEH79_RS02470,DEH79_02475,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210101,-
+2109,61970704,recU,DEH79_RS02475,DEH79_02480,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20201231,-
+2109,61970705,DEH79_RS02480,DEH79_RS02480,DEH79_02485,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210101,-
+2109,61970706,lepA,DEH79_RS02485,DEH79_02490,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20201231,-
+2109,61970707,DEH79_RS02490,DEH79_RS02490,DEH79_02495,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210424,-
+2109,61970708,DEH79_RS02495,DEH79_RS02495,DEH79_02500,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20210424,-
+2109,61970709,DEH79_RS02500,DEH79_RS02500,DEH79_02505,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20201231,-
+2109,61970710,DEH79_RS02505,DEH79_RS02505,DEH79_02510,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970711,DEH79_RS02510,DEH79_RS02510,DEH79_02515,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970712,DEH79_RS02515,DEH79_RS02515,DEH79_02520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970713,pgsA,DEH79_RS02520,DEH79_02525,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210424,-
+2109,61970714,DEH79_RS02525,DEH79_RS02525,DEH79_02530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970715,DEH79_RS02530,DEH79_RS02530,DEH79_02535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970716,mgtE,DEH79_RS02535,DEH79_02540,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201231,-
+2109,61970717,DEH79_RS02540,DEH79_RS02540,DEH79_02545,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,protein-coding,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,20210424,-
+2109,61970718,DEH79_RS02545,DEH79_RS02545,DEH79_02550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970719,DEH79_RS02550,DEH79_RS02550,DEH79_02555,-,-,-,endopeptidase O,protein-coding,-,-,-,endopeptidase O,20210424,-
+2109,61970720,DEH79_RS02555,DEH79_RS02555,DEH79_02560,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201231,-
+2109,61970721,DEH79_RS02560,DEH79_RS02560,DEH79_02565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970722,DEH79_RS02565,DEH79_RS02565,DEH79_02570,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970723,DEH79_RS02570,DEH79_RS02570,DEH79_02575,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210424,-
+2109,61970724,DEH79_RS02575,DEH79_RS02575,DEH79_02580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970725,thiI,DEH79_RS02580,DEH79_02585,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20210101,-
+2109,61970726,DEH79_RS02585,DEH79_RS02585,DEH79_02590,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970727,DEH79_RS02590,DEH79_RS02590,DEH79_02595,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970728,DEH79_RS02595,DEH79_RS02595,DEH79_02600,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970729,DEH79_RS02600,DEH79_RS02600,DEH79_02605,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201231,-
+2109,61970730,DEH79_RS02605,DEH79_RS02605,DEH79_02610,-,-,-,spermidine/putrescine ABC transporter permease,protein-coding,-,-,-,spermidine/putrescine ABC transporter permease,20201231,-
+2109,61970731,DEH79_RS02610,DEH79_RS02610,DEH79_02615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970732,DEH79_RS02615,DEH79_RS02615,DEH79_02620,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970733,DEH79_RS02620,DEH79_RS02620,DEH79_02625,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970734,mnmG,DEH79_RS02625,DEH79_02630,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210424,-
+2109,61970735,DEH79_RS02630,DEH79_RS02630,DEH79_02635,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20210424,-
+2109,61970736,DEH79_RS02635,DEH79_RS02635,DEH79_02640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970737,DEH79_RS02640,DEH79_RS02640,DEH79_02645,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20210101,-
+2109,61970738,DEH79_RS02645,DEH79_RS02645,DEH79_02650,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210424,-
+2109,61970739,whiA,DEH79_RS02650,DEH79_02655,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20210424,-
+2109,61970740,DEH79_RS02655,DEH79_RS02655,DEH79_02660,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210101,-
+2109,61970741,DEH79_RS02660,DEH79_RS02660,DEH79_02665,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210424,-
+2109,61970742,ptsP,DEH79_RS02665,DEH79_02670,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20201231,-
+2109,61970743,fmt,DEH79_RS02670,DEH79_02675,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20201231,-
+2109,61970744,DEH79_RS02675,DEH79_RS02675,DEH79_02680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970745,DEH79_RS02680,DEH79_RS02680,DEH79_02685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970746,DEH79_RS02685,DEH79_RS02685,DEH79_02690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970747,DEH79_RS02690,DEH79_RS02690,DEH79_02695,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210424,-
+2109,61970748,dnaE,DEH79_RS02695,DEH79_02700,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210424,-
+2109,61970749,DEH79_RS02700,DEH79_RS02700,DEH79_02705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970750,topA,DEH79_RS02705,DEH79_02710,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210424,-
+2109,61970751,DEH79_RS02710,DEH79_RS02710,DEH79_02715,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210101,-
+2109,61970752,ssb,DEH79_RS02715,DEH79_02720,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210424,-
+2109,61970753,DEH79_RS02720,DEH79_RS02720,DEH79_02725,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210101,-
+2109,61970754,DEH79_RS02725,DEH79_RS02725,DEH79_02730,-,-,-,HpcH/HpaI aldolase/citrate lyase family protein,protein-coding,-,-,-,HpcH/HpaI aldolase/citrate lyase family protein,20210424,-
+2109,61970755,DEH79_RS02730,DEH79_RS02730,DEH79_02735,-,-,-,MaoC family dehydratase,protein-coding,-,-,-,MaoC family dehydratase,20201231,-
+2109,61970756,DEH79_RS02735,DEH79_RS02735,DEH79_02740,-,-,-,acetyl-CoA hydrolase/transferase family protein,protein-coding,-,-,-,acetyl-CoA hydrolase/transferase family protein,20201231,-
+2109,61970757,DEH79_RS02740,DEH79_RS02740,DEH79_02745,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20201231,-
+2109,61970758,DEH79_RS02745,DEH79_RS02745,DEH79_02750,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20210101,-
+2109,61970759,DEH79_RS02750,DEH79_RS02750,DEH79_02765,-,-,-,NYN domain-containing protein,protein-coding,-,-,-,NYN domain-containing protein,20210424,-
+2109,61970760,DEH79_RS02755,DEH79_RS02755,DEH79_02770,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20201231,-
+2109,61970761,DEH79_RS02760,DEH79_RS02760,DEH79_02775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970762,DEH79_RS02765,DEH79_RS02765,DEH79_02780,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201231,-
+2109,61970763,DEH79_RS02770,DEH79_RS02770,DEH79_02785,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20210424,-
+2109,61970764,DEH79_RS02775,DEH79_RS02775,DEH79_02790,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20201230,-
+2109,61970765,DEH79_RS02780,DEH79_RS02780,DEH79_02795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970766,rrf,DEH79_RS02785,DEH79_02800,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970767,DEH79_RS02790,DEH79_RS02790,DEH79_02805,-,-,-,helix-hairpin-helix domain-containing protein,protein-coding,-,-,-,helix-hairpin-helix domain-containing protein,20210424,-
+2109,61970768,DEH79_RS02795,DEH79_RS02795,DEH79_02810,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210424,-
+2109,61970769,rpmA,DEH79_RS02800,DEH79_02815,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210101,-
+2109,61970770,rplU,DEH79_RS02805,DEH79_02820,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210101,-
+2109,61970771,DEH79_RS02810,DEH79_RS02810,DEH79_02825,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201231,-
+2109,61970772,rrf,DEH79_RS02815,DEH79_02830,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970773,DEH79_RS02820,DEH79_RS02820,DEH79_02835,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970774,DEH79_RS02825,DEH79_RS02825,DEH79_02840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970775,DEH79_RS02830,DEH79_RS02830,DEH79_02845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970776,DEH79_RS02835,DEH79_RS02835,DEH79_02850,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970777,DEH79_RS02840,DEH79_RS02840,DEH79_02855,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210424,-
+2109,61970778,ileS,DEH79_RS02845,DEH79_02860,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20201231,-
+2109,61970779,DEH79_RS02850,DEH79_RS02850,DEH79_02865,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970780,DEH79_RS02855,DEH79_RS02855,DEH79_02870,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970781,DEH79_RS02860,DEH79_RS02860,DEH79_02875,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970782,DEH79_RS02865,DEH79_RS02865,DEH79_02880,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970783,DEH79_RS02870,DEH79_RS02870,DEH79_02885,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970784,DEH79_RS02875,DEH79_RS02875,DEH79_02890,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970785,DEH79_RS02880,DEH79_RS02880,DEH79_02895,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970786,DEH79_RS02885,DEH79_RS02885,DEH79_02900,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970787,DEH79_RS02890,DEH79_RS02890,DEH79_02905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970788,DEH79_RS02895,DEH79_RS02895,DEH79_02910,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970789,DEH79_RS02900,DEH79_RS02900,DEH79_02915,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970790,DEH79_RS02905,DEH79_RS02905,DEH79_02920,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20210424,-
+2109,61970791,recA,DEH79_RS02910,DEH79_02925,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201231,-
+2109,61970792,rpsO,DEH79_RS02915,DEH79_02930,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210101,-
+2109,61970793,DEH79_RS02920,DEH79_RS02920,DEH79_02935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210101,-
+2109,61970794,DEH79_RS02925,DEH79_RS02925,DEH79_02940,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210424,-
+2109,61970795,DEH79_RS02930,DEH79_RS02930,DEH79_02945,-,-,-,tRNA pseudouridine synthase B,protein-coding,-,-,-,tRNA pseudouridine synthase B,20210424,-
+2109,61970796,DEH79_RS02935,DEH79_RS02935,DEH79_02950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970797,ligA,DEH79_RS02940,DEH79_02955,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201231,-
+2109,61970798,DEH79_RS02945,DEH79_RS02945,DEH79_02960,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210101,-
+2109,61970799,DEH79_RS02950,DEH79_RS02950,DEH79_02965,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210424,-
+2109,61970800,DEH79_RS02955,DEH79_RS02955,DEH79_02970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970801,ffs,DEH79_RS02960,DEH79_02975,-,-,-,ncRNA,ncRNA,-,-,-,-,20201230,-
+2109,61970802,DEH79_RS02965,DEH79_RS02965,DEH79_02980,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20210424,-
+2109,61970803,rplQ,DEH79_RS02970,DEH79_02985,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210101,-
+2109,61970804,DEH79_RS02975,DEH79_RS02975,DEH79_02990,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210424,-
+2109,61970805,rpsK,DEH79_RS02980,DEH79_02995,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210101,-
+2109,61970806,rpsM,DEH79_RS02985,DEH79_03000,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210101,-
+2109,61970807,rpmJ,DEH79_RS02990,DEH79_03005,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210101,-
+2109,61970808,infA,DEH79_RS02995,DEH79_03010,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210101,-
+2109,61970809,map,DEH79_RS03000,DEH79_03015,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210101,-
+2109,61970810,DEH79_RS03005,DEH79_RS03005,DEH79_03020,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20201231,-
+2109,61970811,secY,DEH79_RS03010,DEH79_03025,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201231,-
+2109,61970812,DEH79_RS03015,DEH79_RS03015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210327,-
+2109,61970813,cas9,DEH79_RS03020,DEH79_03030,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,protein-coding,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,20210424,-
+2109,61970814,cas1,DEH79_RS03025,DEH79_03035,-,-,-,type II CRISPR-associated endonuclease Cas1,protein-coding,-,-,-,type II CRISPR-associated endonuclease Cas1,20201231,-
+2109,61970815,cas2,DEH79_RS03030,DEH79_03040,-,-,-,CRISPR-associated endonuclease Cas2,protein-coding,-,-,-,CRISPR-associated endonuclease Cas2,20210424,-
+2109,61970816,DEH79_RS03035,DEH79_RS03035,DEH79_03045,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970817,DEH79_RS03040,DEH79_RS03040,DEH79_03050,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970818,DEH79_RS03045,DEH79_RS03045,DEH79_03055,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20210424,-
+2109,61970819,DEH79_RS03050,DEH79_RS03050,DEH79_03060,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20210424,-
+2109,61970820,serS,DEH79_RS03055,DEH79_03065,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201231,-
+2109,61970821,DEH79_RS03060,DEH79_RS03060,DEH79_03070,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20201231,-
+2109,61970822,DEH79_RS03065,DEH79_RS03065,DEH79_03075,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20201231,-
+2109,61970823,DEH79_RS03070,DEH79_RS03070,DEH79_03080,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970824,DEH79_RS03075,DEH79_RS03075,DEH79_03085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970825,DEH79_RS03080,DEH79_RS03080,DEH79_03090,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201231,-
+2109,61970826,DEH79_RS03085,DEH79_RS03085,DEH79_03095,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210424,-
+2109,61970827,DEH79_RS03090,DEH79_RS03090,DEH79_03100,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210101,-
+2109,61970828,DEH79_RS03095,DEH79_RS03095,DEH79_03105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970829,yidC,DEH79_RS03100,DEH79_03110,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210424,-
+2109,61970830,rnpA,DEH79_RS03105,DEH79_03115,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210424,-
+2109,61970831,rpmH,DEH79_RS03110,DEH79_03120,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210424,-
+2109,61970832,DEH79_RS03115,DEH79_RS03115,DEH79_03125,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+2109,61970833,tig,DEH79_RS03120,DEH79_03130,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20201231,-
+2109,61970834,DEH79_RS03125,DEH79_RS03125,DEH79_03135,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20210424,-
+2109,61970835,DEH79_RS03130,DEH79_RS03130,DEH79_03140,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20210424,-
+2109,61970836,DEH79_RS03135,DEH79_RS03135,DEH79_03145,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201231,-
+2109,61970837,rpmI,DEH79_RS03140,DEH79_03150,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210101,-
+2109,61970838,rplT,DEH79_RS03145,DEH79_03155,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201231,-
+2109,61970839,DEH79_RS03150,DEH79_RS03150,DEH79_03160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970840,DEH79_RS03155,DEH79_RS03155,DEH79_03165,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20201231,-
+2109,61970841,lysS,DEH79_RS03160,DEH79_03170,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201231,-
+2109,61970842,DEH79_RS03165,DEH79_RS03165,DEH79_03175,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970843,DEH79_RS03170,DEH79_RS03170,DEH79_03180,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210424,-
+2109,61970844,ftsH,DEH79_RS03175,DEH79_03185,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210424,-
+2109,61970845,tilS,DEH79_RS03180,DEH79_03190,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201231,-
+2109,61970846,DEH79_RS03185,DEH79_RS03185,DEH79_03195,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20201231,-
+2109,61970847,DEH79_RS03190,DEH79_RS03190,DEH79_03200,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201231,-
+2109,61970848,DEH79_RS03195,DEH79_RS03195,DEH79_03205,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201231,-
+2109,61970849,DEH79_RS03200,DEH79_RS03200,DEH79_03210,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20201231,-
+2109,61970850,DEH79_RS03205,DEH79_RS03205,DEH79_03215,-,-,-,DegV family EDD domain-containing protein,protein-coding,-,-,-,DegV family EDD domain-containing protein,20210424,-
+2109,61970851,DEH79_RS03210,DEH79_RS03210,DEH79_03220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201231,-
+2109,61970852,DEH79_RS03215,DEH79_RS03215,DEH79_03225,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201231,-
+2109,61970853,DEH79_RS03220,DEH79_RS03220,DEH79_03230,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210101,-
+2109,61970854,rplK,DEH79_RS03225,DEH79_03235,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210424,-
+2109,61970855,rplO,DEH79_RS03230,DEH79_03240,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20201231,-
+2109,61970856,rpsE,DEH79_RS03235,DEH79_03245,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20201231,-
+2109,61970857,DEH79_RS03240,DEH79_RS03240,DEH79_03250,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210101,-
+2109,61970858,rplF,DEH79_RS03245,DEH79_03255,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210101,-
+2109,61970859,rpsH,DEH79_RS03250,DEH79_03260,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210101,-
+2109,61970860,DEH79_RS03255,DEH79_RS03255,DEH79_03265,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210101,-
+2109,61970861,rplE,DEH79_RS03260,DEH79_03270,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201231,-
+2109,61970862,DEH79_RS03265,DEH79_RS03265,DEH79_03275,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210101,-
+2109,61970863,rplN,DEH79_RS03270,DEH79_03280,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210101,-
+2109,61970864,rpsQ,DEH79_RS03275,DEH79_03285,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210101,-
+2109,61970865,DEH79_RS03280,DEH79_RS03280,DEH79_03290,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210101,-
+2109,61970866,rplP,DEH79_RS03285,DEH79_03295,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210101,-
+2109,61970867,rpsC,DEH79_RS03290,DEH79_03300,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210101,-
+2109,61970868,rplV,DEH79_RS03295,DEH79_03305,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210320,-
+2109,61970869,rpsS,DEH79_RS03300,DEH79_03310,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210101,-
+2109,61970870,rplB,DEH79_RS03305,DEH79_03315,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210101,-
+2109,61970871,rplW,DEH79_RS03310,DEH79_03320,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201231,-
+2109,61970872,rplD,DEH79_RS03315,DEH79_03325,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210424,-
+2109,61970873,rplC,DEH79_RS03320,DEH79_03330,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210101,-
+2109,61970874,rpsJ,DEH79_RS03325,DEH79_03335,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210101,-
+2109,61970875,DEH79_RS03330,DEH79_RS03330,DEH79_03340,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210101,-
+2109,61970876,DEH79_RS03335,DEH79_RS03335,DEH79_03345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970877,DEH79_RS03340,DEH79_RS03340,DEH79_03350,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20201231,-
+2109,61970878,pyk,DEH79_RS03345,DEH79_03355,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20201231,-
+2109,61970879,DEH79_RS03350,DEH79_RS03350,DEH79_03360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970880,DEH79_RS03355,DEH79_RS03355,DEH79_03365,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20201231,-
+2109,61970881,DEH79_RS03360,DEH79_RS03360,DEH79_03370,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210101,-
+2109,61970882,DEH79_RS03365,DEH79_RS03365,DEH79_03375,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20210101,-
+2109,61970883,DEH79_RS03370,DEH79_RS03370,DEH79_03380,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20210101,-
+2109,61970884,DEH79_RS03375,DEH79_RS03375,DEH79_03385,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210424,-
+2109,61970885,DEH79_RS03380,DEH79_RS03380,DEH79_03390,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201231,-
+2109,61970886,DEH79_RS03385,DEH79_RS03385,DEH79_03395,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210424,-
+2109,61970887,DEH79_RS03390,DEH79_RS03390,DEH79_03400,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201231,-
+2109,61970888,DEH79_RS03395,DEH79_RS03395,DEH79_03405,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201231,-
+2109,61970889,DEH79_RS03400,DEH79_RS03400,DEH79_03410,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210101,-
+2109,61970890,DEH79_RS03405,DEH79_RS03405,DEH79_03415,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201231,-
+2109,61970891,DEH79_RS03410,DEH79_RS03410,DEH79_03420,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210424,-
+2109,61970892,DEH79_RS03415,DEH79_RS03415,DEH79_03425,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20210101,-
+2109,61970893,DEH79_RS03420,DEH79_RS03420,DEH79_03430,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20210101,-
+2109,61970894,DEH79_RS03425,DEH79_RS03425,DEH79_03435,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210424,-
+2109,61970895,DEH79_RS03430,DEH79_RS03430,DEH79_03440,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+2109,61970896,DEH79_RS03435,DEH79_RS03435,DEH79_03445,-,-,-,tRNA,tRNA,-,-,-,-,20201230,-
+2109,61970897,ychF,DEH79_RS03440,DEH79_03450,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210424,-
+2109,61970898,ylqF,DEH79_RS03445,DEH79_03455,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20201231,-
+2109,61970899,DEH79_RS03450,DEH79_RS03450,DEH79_03460,-,-,-,DUF45 domain-containing protein,protein-coding,-,-,-,DUF45 domain-containing protein,20210424,-
+2109,61970900,DEH79_RS03455,DEH79_RS03455,DEH79_03465,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210424,-
+2109,61970901,tuf,DEH79_RS03460,DEH79_03470,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201231,-
+2109,61970902,DEH79_RS03465,DEH79_RS03465,DEH79_03475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970903,DEH79_RS03470,DEH79_RS03470,DEH79_03480,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210424,-
+2109,61970904,DEH79_RS03475,DEH79_RS03475,DEH79_03485,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970905,DEH79_RS03480,DEH79_RS03480,DEH79_03490,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201230,-
+2109,61970906,DEH79_RS03485,DEH79_RS03485,DEH79_03495,-,-,-,recombination protein O N-terminal domain-containing protein,protein-coding,-,-,-,recombination protein O N-terminal domain-containing protein,20210424,-
+2109,61970907,DEH79_RS03490,DEH79_RS03490,DEH79_03500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970908,DEH79_RS03495,DEH79_RS03495,DEH79_03505,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20201231,-
+2109,61970909,plsX,DEH79_RS03500,DEH79_03510,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210424,-
+2109,61970910,rnc,DEH79_RS03505,DEH79_03515,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210101,-
+2109,61970911,DEH79_RS03510,DEH79_RS03510,DEH79_03520,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201231,-
+2109,61970912,DEH79_RS03515,DEH79_RS03515,DEH79_03525,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210424,-
+2109,61970913,frr,DEH79_RS03520,DEH79_03530,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201231,-
+2109,61970914,DEH79_RS03525,DEH79_RS03525,DEH79_03535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970915,DEH79_RS03530,DEH79_RS03530,DEH79_03540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970916,DEH79_RS03535,DEH79_RS03535,DEH79_03545,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20210123,-
+2109,61970917,DEH79_RS03540,DEH79_RS03540,DEH79_03550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2109,61970918,DEH79_RS03545,DEH79_RS03545,DEH79_03555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970919,DEH79_RS03550,DEH79_RS03550,DEH79_03560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970920,DEH79_RS03555,DEH79_RS03555,DEH79_03565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+2109,61970921,DEH79_RS03560,DEH79_RS03560,DEH79_03570,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20201231,-
+2109,61970922,DEH79_RS03565,DEH79_RS03565,DEH79_03575,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210424,-
+2109,61970923,DEH79_RS03570,DEH79_RS03570,DEH79_03580,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210424,-
+2109,61970924,DEH79_RS03575,DEH79_RS03575,DEH79_03585,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20201231,-
+2109,61970925,DEH79_RS03580,DEH79_RS03580,DEH79_03590,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20210424,-
+2109,61970926,DEH79_RS03585,DEH79_RS03585,DEH79_03595,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970927,DEH79_RS03590,DEH79_RS03590,DEH79_03600,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210424,-
+2109,61970928,DEH79_RS03595,DEH79_RS03595,DEH79_03605,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970929,DEH79_RS03600,DEH79_RS03600,DEH79_03610,-,-,-,pseudo,pseudo,-,-,-,-,20201230,-
+2109,61970930,DEH79_RS03605,DEH79_RS03605,DEH79_03615,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,DNA gyrase subunit B,20210424,-
+2109,61970931,nusA,DEH79_RS03610,DEH79_03620,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201231,-
+2109,61970932,DEH79_RS03615,DEH79_RS03615,DEH79_03625,-,-,-,DUF448 domain-containing protein,protein-coding,-,-,-,DUF448 domain-containing protein,20210129,-
+2109,61970933,DEH79_RS03620,DEH79_RS03620,DEH79_03630,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210101,-
+2109,61970934,DEH79_RS03625,DEH79_RS03625,DEH79_03635,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20201231,-
+2109,61970935,DEH79_RS03630,DEH79_RS03630,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20210424,-

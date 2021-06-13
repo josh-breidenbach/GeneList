@@ -1,0 +1,188 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+3240,2545101,PsnuCp101,PsnuCp101,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545102,PsnuCp152,PsnuCp152,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545103,accD,PsnuCp033,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20160921,-
+3240,2545104,atpA,PsnuCp009,-,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,ATP synthase CF1 alpha chain|ATP synthase CF1 alpha subunit,20160921,-
+3240,2545105,atpB,PsnuCp031,-,-,-,-,ATPase beta chain,protein-coding,-,-,-,ATPase beta chain|ATP synthase CF1 beta subunit,20160921,-
+3240,2545106,atpE,PsnuCp030,-,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain|ATP synthase CF1 epsilon subunit,20160921,-
+3240,2545107,atpF,PsnuCp010,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I|ATP synthase CF0 B subunit,20160921,-
+3240,2545108,atpH,PsnuCp011,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C subunit,20160921,-
+3240,2545109,atpI,PsnuCp012,-,-,-,-,ATPase IV subunit,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A subunit,20160921,-
+3240,2545110,ccsA,PsnuCp079,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20160921,-
+3240,2545111,clpP,PsnuCp050,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160921,-
+3240,2545112,infA,PsnuCp059,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160924,-
+3240,2545113,matK,PsnuCp004,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160921,-
+3240,2545114,ndhA,PsnuCp085,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160921,-
+3240,2545115,ndhB,PsnuCp100,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160921,-
+3240,2545116,ndhB,PsnuCp069,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160921,-
+3240,2545117,ndhC,PsnuCp029,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160921,-
+3240,2545118,ndhD,PsnuCp080,ndh4,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160921,-
+3240,2545119,ndhE,PsnuCp082,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160921,-
+3240,2545120,ndhF,PsnuCp092,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160921,-
+3240,2545121,ndhF,PsnuCp076,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160921,-
+3240,2545122,ndhG,PsnuCp083,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160921,-
+3240,2545123,ndhH,PsnuCp086,-,-,-,-,NADH dehydrogenase 49 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 49 kDa subunit|NADH dehydrogenase subunit 7,20160921,-
+3240,2545124,ndhI,PsnuCp084,frxB,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit|NADH dehydrogenase subunit I,20160921,-
+3240,2545125,ndhJ,PsnuCp027,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit|NADH dehydrogenase subunit J,20160921,-
+3240,2545126,ndhK,PsnuCp028,-,-,-,-,NADH dehydrogenase 27 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 27 kDa subunit|NADH dehydrogenase subunit K,20160924,-
+3240,2545127,petA,PsnuCp037,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor|cytochrome f,20160921,-
+3240,2545128,petB,PsnuCp054,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160921,-
+3240,2545129,petD,PsnuCp055,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4|cytochrome b6/f complex subunit IV,20160921,-
+3240,2545130,petG,PsnuCp043,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20160921,-
+3240,2545131,petL,PsnuCp042,-,-,-,-,cytochrome b6/f complex 3.5 kDa subunit,protein-coding,-,-,-,-,20160921,-
+3240,2545132,petN,PsnuCp017,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20160921,-
+3240,2545133,psaA,PsnuCp024,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1|photosystem I P700 chlorophyll a apoprotein A1,20160921,-
+3240,2545134,psaB,PsnuCp023,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2|photosystem I P700 chlorophyll a apoprotein A2,20160921,-
+3240,2545135,psaC,PsnuCp081,-,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center|photosystem I subunit VII,20160921,-
+3240,2545136,psaI,PsnuCp034,-,-,-,-,PSI I-protein,protein-coding,-,-,-,PSI I-protein|photosystem I subunit VIII,20160921,-
+3240,2545137,psaJ,PsnuCp044,-,-,-,-,PSI J-protein,protein-coding,-,-,-,PSI J-protein|photosystem I subunit IX,20160921,-
+3240,2545138,psaM,PsnuCp007,-,-,-,-,photosystem I protein M,protein-coding,-,-,-,-,20160921,-
+3240,2545139,psbA,PsnuCp003,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160921,-
+3240,2545140,psbC,PsnuCp020,-,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,PSII 43 kDa protein|photosystem II 44 kDa protein,20160921,-
+3240,2545141,psbD,PsnuCp021,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160921,-
+3240,2545142,psbE,PsnuCp041,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20160921,-
+3240,2545143,psbF,PsnuCp040,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20160921,-
+3240,2545144,psbH,PsnuCp053,-,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H|photosystem II protein H,20160921,-
+3240,2545145,psbI,PsnuCp006,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160921,-
+3240,2545146,psbJ,PsnuCp038,-,-,-,-,photosystem II reaction center subunit X,protein-coding,-,-,-,photosystem II reaction center subunit X|photosystem II protein J,20160921,-
+3240,2545147,psbK,PsnuCp005,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein|photosystem II protein K,20160921,-
+3240,2545148,psbL,PsnuCp039,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20160921,-
+3240,2545149,psbM,PsnuCp018,-,-,-,-,photosystem II M protein,protein-coding,-,-,-,-,20160921,-
+3240,2545150,psbN,PsnuCp052,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein|photosystem II protein N,20160921,-
+3240,2545151,psbB,PsnuCp051,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein|photosystem II 47 kDa protein,20160921,-
+3240,2545152,psbZ,PsnuCp019,-,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein|photosystem II protein Z,20160921,-
+3240,2545153,rbcL,PsnuCp032,-,-,-,-,RuBisCO large subunit,protein-coding,-,-,-,"RuBisCO large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20160921,-
+3240,2545154,rpl14,PsnuCp061,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14|ribosomal protein L14,20160921,-
+3240,2545155,rpl16,PsnuCp062,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160921,-
+3240,2545156,rpl2,PsnuCp066,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20160921,-
+3240,2545157,rpl20,PsnuCp047,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20|ribosomal protein L20,20160921,-
+3240,2545158,rpl21,PsnuCp077,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21|ribosomal protein L21,20160921,-
+3240,2545159,rpl21,PsnuCp091,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21|ribosomal protein L21,20160921,-
+3240,2545160,rpl22,PsnuCp064,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160921,-
+3240,2545161,rpl23,PsnuCp067,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160921,-
+3240,2545162,rpl32,PsnuCp078,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160921,-
+3240,2545163,rpl32,PsnuCp090,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160921,-
+3240,2545164,rpl33,PsnuCp045,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160921,-
+3240,2545165,rpl36,PsnuCp058,secX,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36|ribosomal protein L36,20160921,-
+3240,2545166,rpoA,PsnuCp056,-,-,-,-,RNA polymerase alpha chain,protein-coding,-,-,-,RNA polymerase alpha chain|RNA polymerase alpha subunit,20160921,-
+3240,2545167,rpoB,PsnuCp016,-,-,-,-,RNA polymerase beta chain,protein-coding,-,-,-,RNA polymerase beta chain|RNA polymerase beta subunit,20160921,-
+3240,2545168,rpoC1,PsnuCp015,-,-,-,-,RNA polymerase beta' chain,protein-coding,-,-,-,RNA polymerase beta' chain|RNA polymerase beta' subunit,20160921,-
+3240,2545169,rpoC2,PsnuCp014,-,-,-,-,RNA polymerase beta'' chain,protein-coding,-,-,-,RNA polymerase beta'' chain|RNA polymerase beta'' subunit,20160921,-
+3240,2545170,rps11,PsnuCp057,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11|ribosomal protein S11,20160921,-
+3240,2545171,rps14,PsnuCp022,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14|ribosomal protein S14,20160921,-
+3240,2545172,rps15,PsnuCp087,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160921,-
+3240,2545173,rps18,PsnuCp046,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160921,-
+3240,2545174,rps19,PsnuCp065,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20160921,-
+3240,2545175,rps2,PsnuCp013,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160921,-
+3240,2545176,rps3,PsnuCp063,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3|ribosomal protein S3,20160921,-
+3240,2545177,rps4,PsnuCp026,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160921,-
+3240,2545178,rps7,PsnuCp098,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160924,-
+3240,2545179,rps7,PsnuCp070,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160924,-
+3240,2545180,rps8,PsnuCp060,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8|ribosomal protein S8,20160921,-
+3240,2545181,rrn16,PsnuCr102,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545182,rrn16,PsnuCr109,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545183,rrn23,PsnuCr103,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545184,rrn23,PsnuCr108,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545185,rrn4.5,PsnuCr104,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545186,rrn4.5,PsnuCr107,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545187,rrn5,PsnuCr105,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545188,rrn5,PsnuCr106,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,2545189,trnA-UGC,PsnuCt138,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545190,trnA-UGC,PsnuCt147,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545191,trnC-GCA,PsnuCt117,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545192,trnD-GUC,PsnuCt118,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545193,trnE-UUC,PsnuCt120,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545194,trnF-GAA,PsnuCt128,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545195,trnG-GCC,PsnuCt121,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545196,trnG-UCC,PsnuCt115,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545197,trnH-GUG,PsnuCt110,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545198,trnI-CAU,PsnuCt134,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545199,trnI-GAU,PsnuCt137,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545200,trnI-GAU,PsnuCt148,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545201,trnK-UUU,PsnuCt111,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545202,trnL-CAA,PsnuCt150,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545203,trnL-CAA,PsnuCt135,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545204,trnL-UAA,PsnuCt127,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545205,trnL-UAG,PsnuCt142,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545206,trnL-UAG,PsnuCt143,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545207,trnM-CAU,PsnuCt130,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545208,trnN-GUU,PsnuCt145,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545209,trnN-GUU,PsnuCt140,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545210,trnP-GGG,PsnuCt144,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545211,trnP-GGG,PsnuCt141,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545212,trnP-UGG,PsnuCt133,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545213,trnQ-UUG,PsnuCt112,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545214,trnR-ACG,PsnuCt139,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545215,trnR-ACG,PsnuCt146,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545216,trnR-CCG,PsnuCt131,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545217,trnR-UCU,PsnuCt116,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545218,trnS-CGA,PsnuCt113,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545219,trnS-GCU,PsnuCt114,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545220,trnS-GGA,PsnuCt125,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545221,trnS-UGA,PsnuCt122,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545222,trnT-GGU,PsnuCt123,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545223,trnT-UGU,PsnuCt126,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545224,trnV-GAC,PsnuCt136,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545225,trnV-GAC,PsnuCt149,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545226,trnV-UAC,PsnuCt129,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545227,trnW-CCA,PsnuCt132,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545228,trnY-GUA,PsnuCt119,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545229,trnfM-CAU,PsnuCt124,-,-,-,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,2545230,ycf1,PsnuCp088,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545231,cemA,PsnuCp036,ycf10,-,-,-,heme-binding protein,protein-coding,-,-,-,heme-binding protein|envelope membrane protein,20160921,-
+3240,2545232,ycf12,PsnuCp008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545233,ycf2,PsnuCp002,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160921,-
+3240,2545234,ycf3,PsnuCp025,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20160921,-
+3240,2545235,ycf4,PsnuCp035,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20160921,-
+3240,2545237,PsnuCp068,PsnuCp068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545238,rps12,PsnuCp001,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-
+3240,2545239,PsnuCp071,PsnuCp071,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545240,PsnuCp072,PsnuCp072,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545241,PsnuCp073,PsnuCp073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545242,PsnuCp074,PsnuCp074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545243,PsnuCp075,PsnuCp075,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545244,PsnuCp089,PsnuCp089,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545245,PsnuCp093,PsnuCp093,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545246,PsnuCp094,PsnuCp094,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545247,PsnuCp095,PsnuCp095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545248,PsnuCp096,PsnuCp096,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545249,PsnuCp097,PsnuCp097,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,2545250,PsnuCp099,PsnuCp099,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160921,-
+3240,3276623,rps12,PsnuCp151,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-
+3240,28799908,nad1,BHU18_gp02,-,-,1|MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170210,-
+3240,28799909,matR,BHU18_gp03,-,-,1|MT,-,MatR,protein-coding,-,-,-,-,20170210,-
+3240,28799910,nad5,BHU18_gp04,-,-,1|MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170210,-
+3240,28799911,rps4,BHU18_gp05,-,-,1|MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20170210,-
+3240,28799912,rps11,BHU18_gp06,-,-,1|MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20170210,-
+3240,28799913,rps13,BHU18_gp07,-,-,1|MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20170210,-
+3240,28799914,rpl6,BHU18_gp08,-,-,1|MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20170210,-
+3240,28799915,nad4L,BHU18_gp09,-,-,1|MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170210,-
+3240,28799916,nad4,BHU18_gp10,-,-,1|MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170210,-
+3240,28799917,trnK,BHU18_gt01,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799918,trnS,BHU18_gt02,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799919,rrn26,BHU18_gr04,-,-,1|MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,28799920,rrn18,BHU18_gr03,-,-,1|MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,28799921,atp9,BHU18_gp26,-,-,1|MT,-,ATPase subunit 9,protein-coding,-,-,-,-,20170210,-
+3240,28799922,ccmFN,BHU18_gp25,-,-,1|MT,-,cytochrome c biogenesis FN,protein-coding,-,-,-,-,20170210,-
+3240,28799923,rps2,BHU18_gp24,-,-,1|MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20170210,-
+3240,28799924,trnG,BHU18_gt03,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799925,trnP,BHU18_gt04,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799926,rps10,BHU18_gp23,-,-,1|MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20170210,-
+3240,28799927,rpl2,BHU18_gp22,-,-,1|MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20170210,-
+3240,28799928,rps19,BHU18_gp21,-,-,1|MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20170210,-
+3240,28799929,rps3,BHU18_gp20,-,-,1|MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20170210,-
+3240,28799930,rpl16,BHU18_gp19,-,-,1|MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20170210,-
+3240,28799931,mttB,BHU18_gp18,-,-,1|MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,-,20170210,-
+3240,28799932,sdh4,BHU18_gp17,-,-,1|MT,-,succinate dehydrogenase cytochrome subunit 4,protein-coding,-,-,-,-,20170210,-
+3240,28799933,trnR,BHU18_gt05,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799934,nad6,BHU18_gp16,-,-,1|MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170210,-
+3240,28799935,nad2,BHU18_gp15,-,-,1|MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170210,-
+3240,28799936,trnE,BHU18_gt06,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799937,cob,BHU18_gp14,-,-,1|MT,-,apocytochrome b,protein-coding,-,-,-,-,20170210,-
+3240,28799938,rps14,BHU18_gp13,-,-,1|MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20170210,-
+3240,28799939,trnM,BHU18_gt07,-,-,1|MT,-,tRNA,tRNA,-,-,-,-,20160921,-
+3240,28799940,atp8,BHU18_gp12,-,-,1|MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20170210,-
+3240,28799941,nad9,BHU18_gp11,-,-,1|MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20170210,-
+3240,28799942,rrn26,BHU18_gr02,-,-,1|MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,28799943,rrn18,BHU18_gr01,-,-,1|MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20160921,-
+3240,28799944,nad7,BHU18_gp01,-,-,1|MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170210,-

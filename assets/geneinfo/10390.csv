@@ -1,0 +1,89 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+10390,4177821,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Gallid herpesvirus 2; Gallid herpesvirus type 2; Marek disease virus; Marek disease virus type 1; Marek's disease herpesvirus; Marek's disease herpesvirus 1; Marek's disease virus; Marek's disease virus (MDV); Marek's disease virus MDV; Marek's disease virus MDV1; Marek's disease virus serotype 1 MDV-1; Marek's disease virus type 1; Marek's disease virus type 1 MDV1; Mareks disease virus).,other,-,-,-,-,20210213,-
+10390,4811449,MDV090,MD5V_090,GaHV2Md5_gp090,-,-,-,protein SORF3,protein-coding,-,-,-,protein SORF3,20201003,-
+10390,4811450,MDV091,MD5V_091,GaHV2Md5_gp091,-,-,-,virion protein US2,protein-coding,-,-,-,virion protein US2,20200908,-
+10390,4811451,MDV092,MD5V_092,GaHV2Md5_gp092,-,-,-,serine/threonine protein kinase US3,protein-coding,-,-,-,serine/threonine protein kinase US3,20200908,-
+10390,4811452,MDV093,MD5V_093,GaHV2Md5_gp093,-,-,-,protein SORF4,protein-coding,-,-,-,protein SORF4,20200908,-
+10390,4811453,MDV094,MD5V_094,GaHV2Md5_gp094,-,-,-,envelope glycoprotein D,protein-coding,-,-,-,envelope glycoprotein D,20200908,-
+10390,4811454,MDV095,MD5V_095,GaHV2Md5_gp095,-,-,-,envelope glycoprotein I,protein-coding,-,-,-,envelope glycoprotein I,20200908,-
+10390,4811455,MDV096,MD5V_096,GaHV2Md5_gp096,-,-,-,envelope glycoprotein E,protein-coding,-,-,-,envelope glycoprotein E,20200908,-
+10390,4811456,MDV097,MD5V_097,GaHV2Md5_gp097,-,-,-,protein SORF2A,protein-coding,-,-,-,protein SORF2A,20200908,-
+10390,4811462,MDV078,MD5V_078,GaHV2Md5_gp078,-,-,-,CxC chemokine,protein-coding,-,-,-,CxC chemokine,20200908,-
+10390,4811465,MDV089,MD5V_089,GaHV2Md5_gp089,-,-,-,virion protein US10,protein-coding,-,-,-,virion protein US10,20210417,-
+10390,4811466,MDV100,MD5V_100,GaHV2Md5_gp101,-,-,-,transcriptional regulator ICP4,protein-coding,-,-,-,transcriptional regulator ICP4,20200908,-
+10390,4811470,MDV010,MD5V_010,GaHV2Md5_gp010,-,-,-,lipase,protein-coding,-,-,-,lipase,20210417,-
+10390,4811471,MDV008,MD5V_008,GaHV2Md5_gp009,-,-,-,protein pp24,protein-coding,-,-,-,protein pp24,20200908,-
+10390,4811473,MDV012,MD5V_012,GaHV2Md5_gp012,-,-,-,protein LORF2,protein-coding,-,-,-,protein LORF2,20200908,-
+10390,4811474,MDV013,MD5V_013,GaHV2Md5_gp013,-,-,-,envelope glycoprotein L,protein-coding,-,-,-,envelope glycoprotein L,20200908,-
+10390,4811475,MDV014,MD5V_014,GaHV2Md5_gp014,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210612,-
+10390,4811476,MDV015,MD5V_015,GaHV2Md5_gp015,-,-,-,nuclear protein UL3,protein-coding,-,-,-,nuclear protein UL3,20200908,-
+10390,4811477,MDV016,MD5V_016,GaHV2Md5_gp016,-,-,-,nuclear protein UL4,protein-coding,-,-,-,nuclear protein UL4,20200908,-
+10390,4811478,MDV017,MD5V_017,GaHV2Md5_gp017,-,-,-,helicase-primase helicase subunit,protein-coding,-,-,-,helicase-primase helicase subunit,20200908,-
+10390,4811479,MDV018,MD5V_018,GaHV2Md5_gp018,-,-,-,capsid portal protein,protein-coding,-,-,-,capsid portal protein,20200908,-
+10390,4811480,MDV019,MD5V_019,GaHV2Md5_gp019,-,-,-,tegument protein UL7,protein-coding,-,-,-,tegument protein UL7,20200908,-
+10390,4811481,MDV020,MD5V_020,GaHV2Md5_gp020,-,-,-,helicase-primase subunit,protein-coding,-,-,-,helicase-primase subunit,20200908,-
+10390,4811482,MDV021,MD5V_021,GaHV2Md5_gp021,-,-,-,DNA replication origin-binding helicase,protein-coding,-,-,-,DNA replication origin-binding helicase,20200908,-
+10390,4811483,MDV022,MD5V_022,GaHV2Md5_gp022,-,-,-,envelope glycoprotein M,protein-coding,-,-,-,envelope glycoprotein M,20200908,-
+10390,4811484,MDV023,MD5V_023,GaHV2Md5_gp023,-,-,-,myristylated tegument protein,protein-coding,-,-,-,myristylated tegument protein,20200908,-
+10390,4811485,MDV024,MD5V_024,GaHV2Md5_gp024,-,-,-,deoxyribonuclease,protein-coding,-,-,-,deoxyribonuclease,20200908,-
+10390,4811486,MDV025,MD5V_025,GaHV2Md5_gp025,-,-,-,tegument serine/threonine protein kinase,protein-coding,-,-,-,tegument serine/threonine protein kinase,20210417,-
+10390,4811487,MDV026,MD5V_026,GaHV2Md5_gp026,-,-,-,tegument protein UL14,protein-coding,-,-,-,tegument protein UL14,20200908,-
+10390,4811488,MDV027,MD5V_027,GaHV2Md5_gp027,-,-,-,DNA packaging terminase subunit 1,protein-coding,-,-,-,DNA packaging terminase subunit 1,20200908,-
+10390,4811489,MDV028,MD5V_028,GaHV2Md5_gp028,-,-,-,tegument protein UL16,protein-coding,-,-,-,tegument protein UL16,20200908,-
+10390,4811490,MDV029,MD5V_029,GaHV2Md5_gp029,-,-,-,DNA packaging tegument protein UL17,protein-coding,-,-,-,DNA packaging tegument protein UL17,20200908,-
+10390,4811491,MDV030,MD5V_030,GaHV2Md5_gp030,-,-,-,capsid triplex subunit 2,protein-coding,-,-,-,capsid triplex subunit 2,20200908,-
+10390,4811492,MDV031,MD5V_031,GaHV2Md5_gp031,-,-,-,major capsid protein,protein-coding,-,-,-,major capsid protein,20200908,-
+10390,4811493,MDV032,MD5V_032,GaHV2Md5_gp032,-,-,-,envelope protein UL20,protein-coding,-,-,-,envelope protein UL20,20200908,-
+10390,4811494,MDV033,MD5V_033,GaHV2Md5_gp033,-,-,-,tegument protein UL21,protein-coding,-,-,-,tegument protein UL21,20200908,-
+10390,4811495,MDV034,MD5V_034,GaHV2Md5_gp034,-,-,-,envelope glycoprotein H,protein-coding,-,-,-,envelope glycoprotein H,20200908,-
+10390,4811496,MDV036,MD5V_036,GaHV2Md5_gp035,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20200908,-
+10390,4811497,MDV037,MD5V_037,GaHV2Md5_gp037,-,-,-,DNA packaging tegument protein UL25,protein-coding,-,-,-,DNA packaging tegument protein UL25,20200908,-
+10390,4811498,MDV035,MD5V_035,GaHV2Md5_gp036,-,-,-,nuclear protein UL24,protein-coding,-,-,-,nuclear protein UL24,20200908,-
+10390,4811499,MDV038,MD5V_038,GaHV2Md5_gp038,-,-,-,capsid maturation protease,protein-coding,-,-,-,capsid maturation protease,20200908,-
+10390,4811500,MDV039,MD5V_039,GaHV2Md5_gp039,-,-,-,capsid scaffold protein,protein-coding,-,-,-,capsid scaffold protein,20200908,-
+10390,4811501,MDV040,MD5V_040,GaHV2Md5_gp040,-,-,-,envelope glycoprotein B,protein-coding,-,-,-,envelope glycoprotein B,20200908,-
+10390,4811502,MDV041,MD5V_041,GaHV2Md5_gp041,-,-,-,DNA packaging terminase subunit 2,protein-coding,-,-,-,DNA packaging terminase subunit 2,20200908,-
+10390,4811503,MDV042,MD5V_042,GaHV2Md5_gp042,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200908,-
+10390,4811504,MDV043,MD5V_043,GaHV2Md5_gp043,-,-,-,DNA polymerase catalytic subunit,protein-coding,-,-,-,DNA polymerase catalytic subunit,20210417,-
+10390,4811505,MDV044,MD5V_044,GaHV2Md5_gp044,-,-,-,nuclear egress lamina protein,protein-coding,-,-,-,nuclear egress lamina protein,20200908,-
+10390,4811506,MDV046,MD5V_046,GaHV2Md5_gp045,-,-,-,DNA packaging protein UL32,protein-coding,-,-,-,DNA packaging protein UL32,20200908,-
+10390,4811507,MDV047,MD5V_047,GaHV2Md5_gp047,-,-,-,nuclear egress membrane protein,protein-coding,-,-,-,nuclear egress membrane protein,20200908,-
+10390,4811508,MDV045,MD5V_045,GaHV2Md5_gp046,-,-,-,DNA packaging protein UL33,protein-coding,-,-,-,DNA packaging protein UL33,20200908,-
+10390,4811509,MDV048,MD5V_048,GaHV2Md5_gp048|core gene,-,-,-,small capsid protein,protein-coding,-,-,-,small capsid protein,20200908,-
+10390,4811510,MDV049,MD5V_049,GaHV2Md5_gp049,-,-,-,large tegument protein,protein-coding,-,-,-,large tegument protein,20200908,-
+10390,4811511,MDV050,MD5V_050,GaHV2Md5_gp050,-,-,-,tegument protein UL37,protein-coding,-,-,-,tegument protein UL37,20200908,-
+10390,4811512,MDV051,MD5V_051,GaHV2Md5_gp051,-,-,-,capsid triplex subunit 1,protein-coding,-,-,-,capsid triplex subunit 1,20200908,-
+10390,4811513,MDV052,MD5V_052,GaHV2Md5_gp052,-,-,-,ribonucleotide reductase subunit 1,protein-coding,-,-,-,ribonucleotide reductase subunit 1,20210417,-
+10390,4811514,MDV053,MD5V_053,GaHV2Md5_gp053,-,-,-,ribonucleotide reductase subunit 2,protein-coding,-,-,-,ribonucleotide reductase subunit 2,20210417,-
+10390,4811515,MDV054,MD5V_054,GaHV2Md5_gp054,-,-,-,tegument host shutoff protein,protein-coding,-,-,-,tegument host shutoff protein,20201003,-
+10390,4811516,MDV055,MD5V_055,GaHV2Md5_gp055,-,-,-,DNA polymerase processivity subunit,protein-coding,-,-,-,DNA polymerase processivity subunit,20210417,-
+10390,4811517,MDV056,MD5V_056,GaHV2Md5_gp056,-,-,-,envelope protein UL43,protein-coding,-,-,-,envelope protein UL43,20200908,-
+10390,4811518,MDV057,MD5V_057,GaHV2Md5_gp057,-,-,-,envelope glycoprotein C,protein-coding,-,-,-,envelope glycoprotein C,20210417,-
+10390,4811519,MDV058,MD5V_058,GaHV2Md5_gp058,-,-,-,membrane protein UL45,protein-coding,-,-,-,membrane protein UL45,20210417,-
+10390,4811520,MDV059,MD5V_059,GaHV2Md5_gp059,-,-,-,tegument protein VP11/12,protein-coding,-,-,-,tegument protein VP11/12,20210417,-
+10390,4811521,MDV060,MD5V_060,GaHV2Md5_gp060,-,-,-,tegument protein VP13/14,protein-coding,-,-,-,tegument protein VP13/14,20200908,-
+10390,4811522,MDV061,MD5V_061,GaHV2Md5_gp061,-,-,-,transactivating tegument protein VP16,protein-coding,-,-,-,transactivating tegument protein VP16,20200908,-
+10390,4811523,MDV062,MD5V_062,GaHV2Md5_gp062,-,-,-,tegument protein VP22,protein-coding,-,-,-,tegument protein VP22,20210417,-
+10390,4811524,MDV064,MD5V_064,GaHV2Md5_gp063,-,-,-,envelope glycoprotein N,protein-coding,-,-,-,envelope glycoprotein N,20210417,-
+10390,4811525,MDV065,MD5V_065,GaHV2Md5_gp065,-,-,-,tegument protein UL51,protein-coding,-,-,-,tegument protein UL51,20200908,-
+10390,4811526,MDV063,MD5V_063,GaHV2Md5_gp064,-,-,-,deoxyuridine triphosphatase,protein-coding,-,-,-,deoxyuridine triphosphatase,20200908,-
+10390,4811527,MDV066,MD5V_066,GaHV2Md5_gp066,-,-,-,helicase-primase primase subunit,protein-coding,-,-,-,helicase-primase primase subunit,20210417,-
+10390,4811528,MDV067,MD5V_067,GaHV2Md5_gp067,-,-,-,envelope glycoprotein K,protein-coding,-,-,-,envelope glycoprotein K,20200908,-
+10390,4811529,MDV068,MD5V_068,GaHV2Md5_gp068,-,-,-,multifunctional expression regulator,protein-coding,-,-,-,multifunctional expression regulator,20210417,-
+10390,4811530,MDV069,MD5V_069,GaHV2Md5_gp069,-,-,-,protein LORF4,protein-coding,-,-,-,protein LORF4,20200908,-
+10390,4811531,MDV070,MD5V_070,GaHV2Md5_gp070,-,-,-,nuclear protein UL55,protein-coding,-,-,-,nuclear protein UL55,20200908,-
+10390,4811532,MDV071,MD5V_071,GaHV2Md5_gp071,-,-,-,myristylated tegument protein CIRC,protein-coding,-,-,-,myristylated tegument protein CIRC,20200908,-
+10390,4811533,MDV072,MD5V_072,GaHV2Md5_gp072,-,-,-,protein LORF5,protein-coding,-,-,-,protein LORF5,20200908,-
+10390,4811534,MDV073,MD5V_073,GaHV2Md5_gp073,-,-,-,protein pp38,protein-coding,-,-,-,protein pp38,20200908,-
+10390,4811542,MDV087,MD5V_087,GaHV2Md5_gp087,-,-,-,protein SORF2,protein-coding,-,-,-,protein SORF2,20210417,-
+10390,4811543,MDV088,MD5V_088,GaHV2Md5_gp088,-,-,-,regulatory protein ICP22,protein-coding,-,-,-,regulatory protein ICP22,20200908,-
+10390,4811544,MDV003,MD5V_003,GaHV2Md5_gp003,-,-,-,CXC chemokine,protein-coding,-,-,-,CXC chemokine,20200908,-
+10390,4811547,MDV084,MD5V_084,GaHV2Md5_gp083,-,-,-,transcriptional regulator ICP4,protein-coding,-,-,-,transcriptional regulator ICP4,20200908,-
+10390,4811549,MDV076,MD5V_076,GaHV2Md5_gp076,-,-,-,oncoprotein MEQ,protein-coding,-,-,-,oncoprotein MEQ,20200908,-
+10390,4811550,MDV005,MD5V_005,GaHV2Md5_gp004,-,-,-,oncoprotein MEQ,protein-coding,-,-,-,oncoprotein MEQ,20200908,-
+10390,5291090,MDV072.5,MD5V_072.5,-,-,-,-,membrane protein UL56,protein-coding,-,-,-,membrane protein UL56,20200908,-
+10390,5291091,vTR,MD5V_gs1,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20200908,-
+10390,5291092,RLORF4,MD5V_gp1,-,-,-,-,protein RLORF4,protein-coding,-,-,-,protein RLORF4,20200908,-
+10390,5291093,MDV015.5,MD5V_015.5,-,-,-,-,protein V57,protein-coding,-,-,-,protein V57,20200908,-
+10390,5291094,vTR,MD5V_gs2,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20200908,-
+10390,5291095,RLORF4,MD5V_gp2,-,-,-,-,protein RLORF4,protein-coding,-,-,-,protein RLORF4,20200908,-

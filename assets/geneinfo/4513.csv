@@ -1,0 +1,477 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+4513,548107,LOC548107,-,-,-,-,-,D-protein,protein-coding,-,-,-,-,20190603,-
+4513,548108,IDI1,-,-,-,-,-,iron-deficiency induced gene,protein-coding,-,-,-,-,20190603,-
+4513,548109,BRI1,-,-,-,-,-,BRI1 protein,protein-coding,-,-,-,-,20210316,-
+4513,548110,BarPHGPX,-,-,-,-,-,phospholipid hydroperoxide glutathione peroxidase-like protein,protein-coding,-,-,-,-,20190603,-
+4513,548111,Hviso3,-,-,-,-,-,isoamylase,protein-coding,-,-,-,-,20190603,-
+4513,548112,LOC548112,-,-,-,-,-,ABA-responsive protein,protein-coding,-,-,-,-,20190603,-
+4513,548113,CDC48,-,-,-,-,-,cell division cycle protein 48,protein-coding,-,-,-,-,20190603,-
+4513,548114,AHAS,-,-,-,-,-,acetohydroxyacid synthase,protein-coding,-,-,-,acetohydroxy acid synthase,20190603,-
+4513,548115,LOC548115,-,-,-,-,-,lipid transfer protein,protein-coding,-,-,-,-,20190603,-
+4513,548116,LOC548116,-,-,-,-,-,limit dextrinase,protein-coding,-,-,-,-,20190603,-
+4513,548117,Rar1,-,-,-,-,-,Rar1 protein,protein-coding,-,-,-,zinc-binding protein,20190603,-
+4513,548118,pm19,-,-,-,-,-,plasma membrane associated protein,protein-coding,-,-,-,-,20190603,-
+4513,548119,cnx1,-,-,-,-,-,molybdenum cofactor biosynthesis protein Cnx1,protein-coding,-,-,-,-,20190603,-
+4513,548120,Lhca4,-,-,-,-,-,chlorophyll a/b-binding protein precursor,protein-coding,-,-,-,light-harvesting complex LHCI-730,20190603,-
+4513,548121,NMP1,-,-,-,-,-,nuclear matrix protein 1,protein-coding,-,-,-,-,20190603,-
+4513,548122,Hs1,-,-,-,-,-,Hs1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548123,LOC548123,-,-,-,-,-,arabinoxylan arabinofuranohydrolase isoenzyme AXAH-I,protein-coding,-,-,-,arabinofuranosidase,20190603,-
+4513,548124,LOC548124,-,-,-,-,-,arabinoxylan arabinofuranohydrolase isoenzyme AXAH-II,protein-coding,-,-,-,-,20190603,-
+4513,548125,LOC548125,-,-,-,-,-,thaumatin-like protein TLP7,protein-coding,-,-,-,PR-5 protein,20190603,-
+4513,548126,LOC548126,-,-,-,-,-,thaumatin-like protein TLP8,protein-coding,-,-,-,PR-5 protein,20190603,-
+4513,548127,LOC548127,-,-,-,-,-,cytokinin dehydrogenase,protein-coding,-,-,-,FAD-containing dehydrogenase,20190603,-
+4513,548128,PHYC,-,-,-,-,-,phytochrome C,protein-coding,-,-,-,-,20190603,-
+4513,548129,LOC548129,-,-,-,-,-,gigantea-like protein,protein-coding,-,-,-,GI-like protein,20190603,-
+4513,548130,SGT1,-,-,-,-,-,SGT1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548131,P5CDH,-,bis1,-,-,-,delta-1-pyrroline-5-carboxylate dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,548132,HvAKT1,-,-,-,-,-,HvAKT1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548133,DRF2,-,HvDRF2,-,-,-,AP2 domain protein,protein-coding,-,-,-,HvDRF1-like protein,20190603,-
+4513,548134,DRF1.3,-,HvDRF1.3,-,-,-,dehydration-responsive AP2 domain transcriptional activator,protein-coding,-,-,-,AP2 domain protein,20190603,-
+4513,548135,LOC548135,-,-,-,-,-,cytokinin dehydrogenase 2,protein-coding,-,-,-,-,20190603,-
+4513,548136,LOC548136,-,-,-,-,-,ENOD40-like protein,protein-coding,-,-,-,-,20190603,-
+4513,548137,prx7,-,-,-,-,-,peroxidase,protein-coding,-,-,-,-,20190603,-
+4513,548138,dad1,-,-,-,-,-,defender against death (dad) 1,protein-coding,-,-,-,-,20190603,-
+4513,548139,dad2,-,-,-,-,-,defender against death (dad) 2,protein-coding,-,-,-,-,20190603,-
+4513,548140,rib-1,-,-,-,-,-,ribophorin I,protein-coding,-,-,-,-,20190603,-
+4513,548141,PPA1,-,-,-,-,-,plasma membrane proton ATPase,protein-coding,-,-,-,-,20200420,-
+4513,548142,hak1,-,-,-,-,-,hak1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548143,aoc,-,-,-,-,-,allene oxide cyclase,protein-coding,-,-,-,-,20190603,-
+4513,548144,CA1,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548145,CA3,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548146,CA4,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548147,CA6,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548148,CA7,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548149,CA9,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548150,13-hpl,-,-,-,-,-,fatty acid hydroperoxide lyase,protein-coding,-,-,-,-,20190603,-
+4513,548151,rga S-112,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548152,rga S-217,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548153,rga S-226,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548154,rga S-372,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548155,rga S-9201,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548156,rga S-9204,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548157,rga S-L8,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548158,rga s-reg19,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548159,rga S-120,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548160,rga S-T21,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548161,npp,-,-,-,-,-,nucleotide pyrophosphatase/phosphodiesterase,protein-coding,-,-,-,-,20190603,-
+4513,548162,core3ft,-,-,-,-,-,core3ft protein,protein-coding,-,-,-,-,20190603,-
+4513,548163,a4Lea,-,-,-,-,-,a4Lea protein,protein-coding,-,-,-,-,20190603,-
+4513,548164,1-feh,-,-,-,-,-,fructan 1-exohydrolase precursor,protein-coding,-,-,-,-,20190603,-
+4513,548165,sai,-,-,-,-,-,soluble acid invertase,protein-coding,-,-,-,-,20190603,-
+4513,548166,LOC548166,-,-,-,-,-,beta-D-xylosidase,protein-coding,-,-,-,-,20190603,-
+4513,548167,LOC548167,-,-,-,-,-,Sec61 alpha subunit,protein-coding,-,-,-,-,20190603,-
+4513,548168,PDS,-,-,-,-,-,phytoene desaturase,protein-coding,-,-,-,-,20190603,-
+4513,548169,LOC548169,-,-,-,-,-,RNase S-like protein,protein-coding,-,-,-,-,20190603,-
+4513,548170,LOC548170,-,-,-,-,-,actin,protein-coding,-,-,-,-,20190603,-
+4513,548171,AS2,-,-,-,-,-,asparagine synthetase 2,protein-coding,-,-,-,-,20190603,-
+4513,548172,HvPT7,-,-,-,-,-,HvPT7 protein,protein-coding,-,-,-,-,20190603,-
+4513,548173,PR-10,-,-,-,-,-,pathogenesis-related protein 10,protein-coding,-,-,-,-,20190603,-
+4513,548174,UBC,-,-,-,-,-,ubiquitin-conjugating enzyme,protein-coding,-,-,-,-,20190603,-
+4513,548175,LOXA,-,LOX1.1,-,-,-,lipoxygenase 1 protein,protein-coding,-,-,-,lipoxygnease A,20190603,-
+4513,548176,SD10,-,-,-,-,-,SD10 protein,protein-coding,-,-,-,-,20190603,-
+4513,548177,LOC548177,-,HGGT,-,-,-,homogentisic acid geranylgeranyl transferase,protein-coding,-,-,-,Homogentisate geranylgeranyltransferase,20190603,-
+4513,548178,NHX2,-,-,-,-,-,vacuolar Na+/H+ antiporter,protein-coding,-,-,-,sodium/proton exchanger,20190603,-
+4513,548179,Mla7,-,-,-,-,-,Mla7 protein,protein-coding,-,-,-,-,20190603,-
+4513,548180,sbeI,-,-,-,-,-,starch branching enzyme I,protein-coding,-,-,-,-,20190603,-
+4513,548181,LOC548181,-,-,-,-,-,magmas-like protein,protein-coding,-,-,-,-,20190603,-
+4513,548182,susiba2,-,WRKY46,-,-,-,susiba2 protein,protein-coding,-,-,-,Sugar signaling in barley 2|WRKY transcription factor 46|WRKY transcription factor SUSIBA2,20190603,-
+4513,548183,HSP90,-,-,-,-,-,cytosolic heat shock protein 90,protein-coding,-,-,-,-,20190603,-
+4513,548184,EXPB1,-,-,-,-,-,beta-expansin 1 precursor,protein-coding,-,-,-,-,20190603,-
+4513,548185,Clo1,-,HvClo1,-,-,-,caleosin 1,protein-coding,-,-,-,-,20190603,-
+4513,548186,Clo2,-,HvClo2,-,-,-,caleosin 2,protein-coding,-,-,-,-,20190603,-
+4513,548187,LOC548187,-,-,-,-,-,beta-amylase 1,protein-coding,-,-,-,-,20190603,-
+4513,548188,CesA1,-,-,-,-,-,CesA1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548189,CesA3,-,-,-,-,-,CesA3 protein,protein-coding,-,-,-,-,20190603,-
+4513,548190,CesA2,-,-,-,-,-,CesA2 protein,protein-coding,-,-,-,-,20190603,-
+4513,548191,CesA5,-,-,-,-,-,CesA5 protein,protein-coding,-,-,-,-,20190603,-
+4513,548192,CesA4,-,-,-,-,-,CesA4 protein,protein-coding,-,-,-,-,20190603,-
+4513,548193,CesA6,-,-,-,-,-,CesA6 protein,protein-coding,-,-,-,-,20190603,-
+4513,548194,CesA8,-,-,-,-,-,CesA8 protein,protein-coding,-,-,-,-,20190603,-
+4513,548195,AML6,-,HvAML6,-,-,-,mei2-like 6,protein-coding,-,-,-,-,20190603,-
+4513,548196,LOC548196,-,-,-,-,-,"beta-1,3-glucanase 2a",protein-coding,-,-,-,-,20190603,-
+4513,548197,VDE,-,-,-,-,-,violaxanthin de-epoxidase,protein-coding,-,-,-,-,20190603,-
+4513,548198,UXS1,-,HvUXS1,-,-,-,UDP-D-glucuronate decarboxylase,protein-coding,-,-,-,-,20190603,-
+4513,548199,UXS3,-,HvUXS3,-,-,-,UDP-D-glucuronate decarboxylase,protein-coding,-,-,-,-,20190603,-
+4513,548200,LOC548200,-,-,-,-,-,thaumatin-like protein TLP3,protein-coding,-,-,-,PR-5-like protein,20190603,-
+4513,548201,LOC548201,-,-,-,-,-,thaumatin-like protein TLP5,protein-coding,-,-,-,PR-5 protein,20190603,-
+4513,548202,SGR,-,HvSGR,-,-,-,senescence-inducible chloroplast stay-green protein,protein-coding,-,-,-,-,20190603,-
+4513,548203,LOC548203,-,-,-,-,-,S-adenosylmethionine synthetase,protein-coding,-,-,-,-,20190603,-
+4513,548204,LOC548204,-,-,-,-,-,alpha-amylase type A,protein-coding,-,-,-,-,20190603,-
+4513,548205,LOC548205,-,CBP1|CXP,-,-,-,carboxypeptidase I precursor,protein-coding,-,-,-,Serine carboxypeptidase 1,20190603,-
+4513,548206,AMY1.6,-,-,-,-,-,alpha-amylase type B,protein-coding,-,-,-,alpha-amylase type B isozyme,20190603,-
+4513,548207,LOC548207,-,-,-,-,-,vacuolar ATPase B subunit,protein-coding,-,-,-,-,20190603,-
+4513,548208,LOC548208,-,-,-,-,-,"(1->3,1->4)-beta-glucanase isoenzyme II",protein-coding,-,-,-,Lichenase-2,20190603,-
+4513,548209,ltp1,-,-,-,-,-,amylase/protease inhibitor,protein-coding,-,-,-,non-specific lipid transport protein 1,20190603,-
+4513,548210,LOC548210,-,-,-,-,-,alpha-amylase 1,protein-coding,-,-,-,-,20190603,-
+4513,548211,LOC548211,-,-,-,-,-,precursor thionin,protein-coding,-,-,-,-,20190603,-
+4513,548212,LOC548212,-,-,-,-,-,"1,3-beta glucan endohydrolase precursor",protein-coding,-,-,-,-,20190603,-
+4513,548213,LOC548213,-,-,-,-,-,acyl carrier protein I precursor,protein-coding,-,-,-,-,20190603,-
+4513,548214,LOC548214,-,ACL1.3|ACL3,-,-,-,acyl carrier protein III precursor,protein-coding,-,-,-,"Acyl carrier protein 3, chloroplast",20190603,-
+4513,548215,LOC548215,-,-,-,-,-,"lectin, root-specific",protein-coding,-,-,-,-,20190603,-
+4513,548216,GSA,-,-,-,-,-,glutamate 1-semialdehyde aminotransferase,protein-coding,-,-,-,-,20190603,-
+4513,548217,LOC548217,-,-,-,-,-,glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,548218,RcaB,-,-,-,-,-,"ribulose 1,5-bisphosphate carboxylase activase",protein-coding,-,-,-,-,20190603,-
+4513,548219,PsaL,-,-,-,-,-,photosystem I hydrophobic protein,protein-coding,-,-,-,-,20190603,-
+4513,548220,cCHI26,-,-,-,-,-,26kD chitinase,protein-coding,-,-,-,-,20190603,-
+4513,548221,cRIP30,-,-,-,-,-,ribosome-inactivating protein,protein-coding,-,-,-,-,20190603,-
+4513,548222,cRIP30A,-,RIP30A,-,-,-,ribosome-inactivating protein,protein-coding,-,-,-,Protein synthesis inhibitor II,20190603,-
+4513,548223,Prx5,-,-,-,-,-,peroxidase BP 1,protein-coding,-,-,-,-,20190603,-
+4513,548224,LHC Ib-21,-,LHC I|LHCA1,-,-,-,light-harvesting complex I,protein-coding,-,-,-,"Chlorophyll a-b binding protein 1B-21, chloroplast|chlorophyll a/b binding protein|light-harvesting complex I, LHC I",20190603,-
+4513,548225,LHC Ib-20,-,LHC I,-,-,-,light-harvesting complex I,protein-coding,-,-,-,"Chlorophyll a-b binding protein 1B-20, chloroplast|light-harvesting complex I, LHC I",20190603,-
+4513,548226,LOC548226,-,-,-,-,-,photosystem-I PSI-F subunit precursor,protein-coding,-,-,-,-,20190603,-
+4513,548227,HORV9,-,Hor v 9,-,-,-,pollen allergen precursor,protein-coding,-,-,-,-,20190603,-
+4513,548228,ltp-BR1,-,-,-,-,-,nonspecific lipid transfer protein,protein-coding,-,-,-,inducible in root cells subjected to nutrient deprivation,20190603,-
+4513,548229,EPA,-,-,-,-,-,cysteine proteinase precursor,protein-coding,-,-,-,-,20190603,-
+4513,548230,LOC548230,-,-,-,-,-,pot. B1 hordein,protein-coding,-,-,-,-,20190603,-
+4513,548231,LOC548231,-,-,-,-,-,B3-hordein fragment,protein-coding,-,-,-,-,20190603,-
+4513,548232,LOC548232,-,-,-,-,-,B1-hordein fragment,protein-coding,-,-,-,-,20190603,-
+4513,548233,LOC548233,-,-,-,-,-,C-hordein fragment,protein-coding,-,-,-,-,20190603,-
+4513,548234,LOC548234,-,-,-,-,-,alpha-hordothionin precursor,protein-coding,-,-,-,-,20190603,-
+4513,548235,PAZ1,-,-,-,-,-,protein Z (180 AA),protein-coding,-,-,-,-,20190603,-
+4513,548236,LOC548236,-,-,-,-,-,alcohol dehydrogenase 1 (AA 1-379),protein-coding,-,-,-,-,20190603,-
+4513,548237,LOC548237,-,-,-,-,-,aleurone specific protein,protein-coding,-,-,-,-,20190603,-
+4513,548238,LOC548238,-,-,-,-,-,alpha-amylase/subtilisin inhibitor preprotein (AA -22 to 181),protein-coding,-,-,-,-,20190603,-
+4513,548239,ITR1,-,-,-,-,-,trypsin inhibitor cme precursor,protein-coding,-,-,-,-,20190603,-
+4513,548240,LOC548240,-,-,-,-,-,glutamine synthetase 2 precursor,protein-coding,-,-,-,-,20190603,-
+4513,548241,LOC548241,-,-,-,-,-,peroxidase,protein-coding,-,-,-,-,20190603,-
+4513,548242,LOC548242,-,-,-,-,-,flame chlorosis virus-like agent,protein-coding,-,-,-,-,20190603,-
+4513,548243,LOC548243,-,-,-,-,-,glyceraldehyde 3-phosphate dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,548244,LOC548244,-,-,-,-,-,ADP-glucose pyrophosphorylase large subunit,protein-coding,-,-,-,-,20190603,-
+4513,548245,LOC548245,-,-,-,-,-,jasmonate-induced protein,protein-coding,-,-,-,-,20190603,-
+4513,548246,SS1,-,-,-,-,-,sucrose synthase,protein-coding,-,-,-,Sucrose synthase 1,20190603,-
+4513,548247,LOC548247,-,-,-,-,-,GRP94 homologue,protein-coding,-,-,-,-,20190603,-
+4513,548248,LOC548248,-,-,-,-,-,gamma 3 hordein,protein-coding,-,-,-,Gamma-hordein-3,20190603,-
+4513,548249,ES43,-,-,-,-,-,ES43 protein,protein-coding,-,-,-,-,20190603,-
+4513,548250,ES1A,-,-,-,-,-,uncharacterized LOC548250,protein-coding,-,-,-,-,20190603,-
+4513,548251,ES2A,-,-,-,-,-,gibberellic acid (GA3) inducible,protein-coding,-,-,-,-,20190603,-
+4513,548252,PorB,-,-,-,-,-,NADPH dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,548253,PETE,-,-,-,-,-,plastocyanin precursor,protein-coding,-,-,-,"Plastocyanin, chloroplast",20190603,-
+4513,548254,LOC548254,-,-,-,-,-,psa2 preprotein (AA -46 to 101),protein-coding,-,-,-,-,20190603,-
+4513,548255,LOC548255,-,-,-,-,-,potassium channel,protein-coding,-,-,-,encodes membrane spanning domains H5-S6,20190603,-
+4513,548256,LOC548256,-,-,-,-,-,pathogenesis-related protein 4,protein-coding,-,-,-,In response to attack by Erysiphe graminis f.sp hordei,20190603,-
+4513,548257,LOC548257,-,-,-,-,-,14-3-3 protein,protein-coding,-,-,-,-,20190603,-
+4513,548258,LOC548258,-,-,-,-,-,uncharacterized LOC548258,protein-coding,-,-,-,-,20190603,-
+4513,548259,LOC548259,-,-,-,-,-,uncharacterized LOC548259,protein-coding,-,-,-,-,20190603,-
+4513,548260,LOC548260,-,-,-,-,-,oxalate oxidase,protein-coding,-,-,-,-,20190603,-
+4513,548261,m12,-,-,-,-,-,m12 protein,protein-coding,-,-,-,-,20190603,-
+4513,548262,LOC548262,-,-,-,-,-,Pathogenesis-related protein 1,protein-coding,-,-,-,-,20190603,-
+4513,548263,Bsi1,-,-,-,-,-,Bsi1 protein,protein-coding,-,-,-,-,20190603,-
+4513,548264,ex1,-,-,-,-,-,extensin,protein-coding,-,-,-,-,20190603,-
+4513,548265,LOC548265,-,-,-,-,-,O-methyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,548266,LOC548266,-,-,-,-,-,thaumatin-like protein TLP6,protein-coding,-,-,-,PR-5 protein,20190603,-
+4513,548267,LOC548267,-,-,-,-,-,uncharacterized LOC548267,protein-coding,-,-,-,-,20190603,-
+4513,548268,rga S-9217,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548269,CCR,-,-,-,-,-,cinnamoyl CoA reductase,protein-coding,-,-,-,-,20190603,-
+4513,548270,LOC548270,-,-,-,-,-,carbonic anhydrase,protein-coding,-,-,-,-,20190603,-
+4513,548271,calmodulin,-,-,-,-,-,calmodulin protein,protein-coding,-,-,-,-,20190603,-
+4513,548272,lhbC,-,-,-,-,-,type III LHCII CAB precursor protein,protein-coding,-,-,-,-,20190603,-
+4513,548273,RPB2,-,-,-,-,-,RPB140,protein-coding,-,-,-,RNA polymerase II second largest subunit,20190603,-
+4513,548274,CA5,-,sca-1,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548275,LOC548275,-,-,-,-,-,brittle-1-like protein,protein-coding,-,-,-,-,20190603,-
+4513,548276,TPC1,-,BTPC1p,-,-,-,two-pore calcium channel,protein-coding,-,-,-,Two pore calcium channel protein 1,20190603,-
+4513,548277,LOC548277,-,-,-,-,-,vacuolar ATPase B subunit,protein-coding,-,-,-,-,20190603,-
+4513,548278,Hcp1,-,-,-,-,-,iron/ascorbate-dependent oxidoreductase,protein-coding,-,-,-,-,20190603,-
+4513,548279,rga S-9202,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548280,PI2-4,-,-,-,-,-,pathogen induced protein 2-4,protein-coding,-,-,-,-,20190603,-
+4513,548281,UXS4,-,HvUXS4,-,-,-,UDP-D-glucuronate decarboxylase,protein-coding,-,-,-,-,20190603,-
+4513,548282,HvNHX1,-,-,-,-,-,sodium/proton antiporter,protein-coding,-,-,-,-,20190603,-
+4513,548283,LOC548283,-,-,-,-,-,low temperature induced protein,protein-coding,-,-,-,-,20190603,-
+4513,548284,HTP,-,TCTP,-,-,-,translationally-controlled tumor protein homolog,protein-coding,-,-,-,-,20190603,-
+4513,548285,LOC548285,-,-,-,-,-,thaumatin-like protein TLP4,protein-coding,-,-,-,-,20190603,-
+4513,548286,GLB3,-,-,-,-,-,2-on-2 hemoglobin,protein-coding,-,-,-,-,20190603,-
+4513,548287,xantha-g,-,-,-,-,-,Mg-protoporphyrin IX,protein-coding,-,-,-,-,20190603,-
+4513,548288,CA2,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548289,rga S-197-4,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548290,rga S-9203,-,-,-,-,-,NBS-LRR disease resistance protein homologue,protein-coding,-,-,-,-,20190603,-
+4513,548291,LOC548291,-,-,-,-,-,alpha-L-arabinofuranosidase/beta-D-xylosidase isoenzyme ARA-I,protein-coding,-,-,-,-,20190603,-
+4513,548292,LOC548292,-,-,-,-,-,cytokinin dehydrogenase 3,protein-coding,-,-,-,-,20190603,-
+4513,548293,ACT,-,ACT-1,-,-,-,agmatine coumaroyltransferase,protein-coding,-,-,-,Agmatine coumaroyltransferase-1,20190603,-
+4513,548294,TERT,-,-,-,-,-,telomerase reverse transcriptase catalytic subunit,protein-coding,-,-,-,-,20190603,-
+4513,548295,UXS2,-,HvUXS2,-,-,-,UDP-D-glucuronate decarboxylase,protein-coding,-,-,-,-,20190603,-
+4513,548296,LOC548296,-,-,-,-,-,betaine aldehyde dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,548297,Kas12,-,-,-,-,-,beta-ketoacyl-ACP synthase I,protein-coding,-,-,-,-,20190603,-
+4513,548298,Fd-GOGAT,-,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,"ferredoxin-dependent glutamate synthase, Fd-GOGAT",20190603,-
+4513,548299,LOC548299,-,-,-,-,-,cytosolic triosephosphate isomerase,protein-coding,-,-,-,-,20190603,-
+4513,548300,PsaH,-,-,-,-,-,10.2 kDa photosystem I polypeptide,protein-coding,-,-,-,-,20190603,-
+4513,548301,Hv-1a,-,-,-,-,-,pathogenesis-related protein,protein-coding,-,-,-,-,20190603,-
+4513,548302,LOC548302,-,-,-,-,-,ADP-glucose pyrophosphorylase large subunit,protein-coding,-,-,-,"Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplast",20190603,-
+4513,548303,LOC548303,-,-,-,-,-,cytoplasmic glutamine synthetase,protein-coding,-,-,-,-,20190603,-
+4513,548304,LOC548304,-,-,-,-,-,pathogenesis-related protein,protein-coding,-,-,-,In response to attack by Blumeria,20190603,-
+4513,548305,CA8,-,-,-,-,-,P-type ATPase,protein-coding,-,-,-,-,20190603,-
+4513,548306,Nir1,-,-,-,-,-,nitrite reductase apoprotein,protein-coding,-,-,-,-,20190603,-
+4513,548307,H3,-,-,-,-,-,histone H3 protein,protein-coding,-,-,-,-,20190603,-
+4513,574527,AGP-S1,-,AGP-S1b,-,-,-,ADP-glucose pyrophosphorylase small subunit,protein-coding,-,-,-,-,20190603,-
+4513,606306,pglcat4,-,-,-,-,-,beta3-glucuronyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,606706,pglcat6,-,-,-,-,-,3-beta-glucuronosyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,692240,GalDH,-,-,-,-,-,L-galactose dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,692241,RAF,-,-,-,-,-,root abundant factor,protein-coding,-,-,-,-,20190603,-
+4513,692242,NHX3,-,-,-,-,-,Na /H antiporter,protein-coding,-,-,-,-,20190603,-
+4513,692243,GPI,-,-,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,-,20190603,-
+4513,732663,pglcat8,-,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,732664,HvEMF2b,-,-,-,-,-,HvEMF2b protein,protein-coding,-,-,-,-,20190603,-
+4513,732665,HvEMF2c,-,-,-,-,-,HvEMF2c protein,protein-coding,-,-,-,-,20190603,-
+4513,732666,CAX,-,-,-,-,-,cation/H+ exchanger,protein-coding,-,-,-,-,20190603,-
+4513,732667,HvPIP2;1,-,-,-,-,-,PIP aquaporin,protein-coding,-,-,-,-,20190603,-
+4513,732668,HvPIP2;4,-,-,-,-,-,PIP aquaporin isoform,protein-coding,-,-,-,-,20190603,-
+4513,732669,LOC732669,-,-,-,-,-,plastid division regulator MinE,protein-coding,-,-,-,-,20190603,-
+4513,732670,atg9,-,-,-,-,-,autophagy protein 9,protein-coding,-,-,-,-,20190603,-
+4513,732671,LOC732671,-,-,-,-,-,glutathione-S-transferase,protein-coding,-,-,-,-,20190603,-
+4513,732672,VRN1,-,-,-,-,-,BM5a,protein-coding,-,-,-,VERNALIZATION1,20190603,-
+4513,732673,LOC732673,-,-,-,-,-,reticulon,protein-coding,-,-,-,-,20190603,-
+4513,732674,LOC732674,-,-,-,-,-,limit dextrinase inhibitor,protein-coding,-,-,-,-,20190603,-
+4513,732675,gs,-,-,-,-,-,glutathione synthetase,protein-coding,-,-,-,-,20190603,-
+4513,732676,xt1,-,-,-,-,-,"Beta-1,2-xylosyltransferase",protein-coding,-,-,-,-,20190603,-
+4513,732677,UXE2,-,-,-,-,-,UDP-D-xylose epimerase 2,protein-coding,-,-,-,-,20190603,-
+4513,732678,UXE3,-,-,-,-,-,UDP-D-xylose epimerase 3,protein-coding,-,-,-,-,20190603,-
+4513,732679,LOC732679,-,-,-,-,-,guanylyl cyclase,protein-coding,-,-,-,-,20190603,-
+4513,732680,UGE3,-,-,-,-,-,UDP-D-glucose epimerase 3,protein-coding,-,-,-,-,20190603,-
+4513,732681,UGE1,-,-,-,-,-,UDP-D-glucose epimerase 1,protein-coding,-,-,-,-,20190603,-
+4513,732682,IDI4,-,-,-,-,-,aspartate aminotransferase-like,protein-coding,-,-,-,putative aspartate aminotransferase,20190603,-
+4513,732683,zip7,-,-,-,-,-,zinc transporter protein ZIP7,protein-coding,-,-,-,-,20190603,-
+4513,732684,SRA,-,-,-,-,-,sister of ramosa 3,protein-coding,-,-,-,-,20190603,-
+4513,732685,NRT1,-,-,-,-,-,low affinity nitrate transporter-like,protein-coding,-,-,-,putative low affinity nitrate transporter,20190603,-
+4513,732686,LOC732686,-,-,-,-,-,RNA-dependent RNA polymerase,protein-coding,-,-,-,-,20190603,-
+4513,732687,LOC732687,-,259I16.5|WAXY,-,-,-,granule bound starch synthase I,protein-coding,-,-,-,"Granule-bound starch synthase 1, chloroplast",20190603,-
+4513,732688,LOC732688,-,-,-,-,-,granule bound starch synthase Ib precursor,protein-coding,-,-,-,-,20190603,-
+4513,732689,iso1,-,-,-,-,-,isoamylase 1,protein-coding,-,-,-,-,20190603,-
+4513,732690,kn1,-,-,-,-,-,knotted 1,protein-coding,-,-,-,-,20190603,-
+4513,732691,kn6,-,-,-,-,-,knotted 6,protein-coding,-,-,-,-,20190603,-
+4513,732692,kn7,-,-,-,-,-,knotted 7,protein-coding,-,-,-,-,20190603,-
+4513,732693,GDI1,-,-,-,-,-,GDP dissociation inhibitor protein,protein-coding,-,-,-,-,20190603,-
+4513,732694,LOC732694,-,-,-,-,-,uncharacterized LOC732694,protein-coding,-,-,-,-,20190603,-
+4513,732695,LOC732695,-,-,-,-,-,uncharacterized LOC732695,protein-coding,-,-,-,-,20190603,-
+4513,732696,HvEMF2a,-,-,-,-,-,HvEMF2a protein,protein-coding,-,-,-,-,20190603,-
+4513,732697,pglcat7,-,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,732698,stv3,-,-,-,-,-,sialyltransferase-like protein,protein-coding,-,-,-,-,20190603,-
+4513,732699,UXE1,-,-,-,-,-,UDP-D-xylose epimerase 1,protein-coding,-,-,-,-,20190603,-
+4513,732700,UGE2,-,-,-,-,-,UDP-D-glucose epimerase 2,protein-coding,-,-,-,-,20190603,-
+4513,732701,NHX4,-,-,-,-,-,"Na+,K+/H+ exchanger",protein-coding,-,-,-,-,20190603,-
+4513,732702,atg6,-,-,-,-,-,beclin 1 protein,protein-coding,-,-,-,-,20190603,-
+4513,778365,LOC778365,-,-,-,-,-,ORG4,protein-coding,-,-,-,-,20190603,-
+4513,778366,NCED1,-,HvNCED1,-,-,-,9-cis-epoxycarotenoid dioxygenase-like,protein-coding,-,-,-,putative 9-cis-epoxycarotenoid dioxygenase,20190603,-
+4513,778367,NCED2,-,HvNCED2,-,-,-,9-cis-epoxycarotenoid dioxygenase-like,protein-coding,-,-,-,putative 9-cis-epoxycarotenoid dioxygenase,20190603,-
+4513,778368,ck2a,-,Hvck2a,-,-,-,casein kinase II alpha,protein-coding,-,-,-,-,20190603,-
+4513,778369,ck2b,-,Hvck2b,-,-,-,casein kinase II beta,protein-coding,-,-,-,-,20190603,-
+4513,778370,lysMR2,-,-,-,-,-,LysM receptor-like kinase protein,protein-coding,-,-,-,-,20190603,-
+4513,778371,HvPIP1;2,-,-,-,-,-,aquaporin,protein-coding,-,-,-,-,20190603,-
+4513,778372,HvPIP1;4,-,-,-,-,-,aquaporin,protein-coding,-,-,-,-,20190603,-
+4513,778373,HvPIP2;3,-,-,-,-,-,aquaporin,protein-coding,-,-,-,-,20190603,-
+4513,778374,AKT2,-,-,-,-,-,inwardly rectifying potassium channel AKT2,protein-coding,-,-,-,-,20190603,-
+4513,778375,HAK4,-,-,-,-,-,potassium transporter HAK4,protein-coding,-,-,-,-,20190603,-
+4513,778376,LOC778376,-,-,-,-,-,multiple inositol polyphosphate phosphatase PhyIIa2,protein-coding,-,-,-,-,20190603,-
+4513,778377,p23k-1,-,-,-,-,-,uncharacterized protein p23k-1,protein-coding,-,-,-,-,20190603,-
+4513,778378,DMAS1,-,HvDMAS1,-,-,-,deoxymugineic acid synthase1,protein-coding,-,-,-,Deoxymugineic acid synthase 1,20190603,-
+4513,778379,CYP707A1,-,HvCYP707A1,-,-,-,ABA 8'-hydroxylase,protein-coding,-,-,-,-,20190603,-
+4513,780565,LOC780565,-,-,-,-,-,multiple inositol polyphosphate phosphatase PhyIIb,protein-coding,-,-,-,-,20190603,-
+4513,780566,p23k-3,-,-,-,-,-,uncharacterized protein p23k-3,protein-coding,-,-,-,-,20190603,-
+4513,3760028,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (barley).,other,-,-,-,-,20210529,-
+4513,100037485,LOC100037485,-,-,-,-,-,uncharacterized LOC100037485,protein-coding,-,-,-,-,20190603,-
+4513,100037486,HvPIP1;1,-,-,-,-,-,aquaporin,protein-coding,-,-,-,-,20200420,-
+4513,100101493,LOC100101493,-,-,-,-,-,uncharacterized LOC100101493,protein-coding,-,-,-,-,20190603,-
+4513,100101494,GIX1,-,-,-,-,-,30 kDa pollen allergen,protein-coding,-,-,-,-,20190603,-
+4513,100101495,LOC100101495,-,-,-,-,-,"beta-1,3-glucanase",protein-coding,-,-,-,-,20190603,-
+4513,100101496,p23k-2,-,-,-,-,-,p23k-2 protein,protein-coding,-,-,-,-,20190603,-
+4513,100101497,LOC100101497,-,-,-,-,-,polygalacturonase,protein-coding,-,-,-,-,20190603,-
+4513,100101498,LOC100101498,-,-,-,-,-,"C-8,7-sterol isomerase",protein-coding,-,-,-,-,20190603,-
+4513,100101499,LOC100101499,-,-,-,-,-,ubiquitin-like protein 5,protein-coding,-,-,-,-,20190603,-
+4513,100101500,ALMT1,-,-,-,-,-,ALMT1 protein,protein-coding,-,-,-,-,20190603,-
+4513,100125630,LOC100125630,-,-,-,-,-,uncharacterized LOC100125630,protein-coding,-,-,-,-,20190603,-
+4513,100125631,p23k-4,-,-,-,-,-,p23k-4 protein,protein-coding,-,-,-,-,20190603,-
+4513,100125632,Trx1,-,-,-,-,-,h-type thioredoxin,protein-coding,-,-,-,-,20190603,-
+4513,100127225,HvMATE,-,-,-,-,-,aluminum activated citrate transporter,protein-coding,-,-,-,-,20190603,-
+4513,100127226,g6pdh,-,-,-,-,-,glucose 6-phosphate dehydrogenase,protein-coding,-,-,-,-,20190603,-
+4513,100127227,GR2,-,HvGR2,-,-,-,cytosolic glutathione reductase,protein-coding,-,-,-,-,20190603,-
+4513,100127228,LOC100127228,-,-,-,-,-,phenylalanine ammonia-lyase-like,protein-coding,-,-,-,putative phenylalanine ammonia-lyase,20190603,-
+4513,100127229,LOC100127229,-,-,-,-,-,SWIRM domain containing protein-like,protein-coding,-,-,-,putative SWIRM domain containing protein,20190603,-
+4513,100127230,LOC100127230,-,-,-,-,-,aconitase-like,protein-coding,-,-,-,putative aconitase,20190603,-
+4513,100127231,LOC100127231,-,-,-,-,-,methyltransferase-like,protein-coding,-,-,-,putative methyltransferase-like,20190603,-
+4513,100127232,LOL1,-,-,-,-,-,LSD1 like 1-like,protein-coding,-,-,-,putative LSD1 like 1,20190603,-
+4513,100127233,LOC100127233,-,-,-,-,-,relA/spoT homologous protein RSH2-like,protein-coding,-,-,-,putative relA/spoT homologous protein RSH2,20190603,-
+4513,100127234,LOC100127234,-,-,-,-,-,esterase/lipase/thioesterase family protein-like,protein-coding,-,-,-,putative esterase/lipase/thioesterase family protein,20190603,-
+4513,100127235,LOC100127235,-,-,-,-,-,uncharacterized LOC100127235,protein-coding,-,-,-,-,20190603,-
+4513,100127236,LOC100127236,-,-,-,-,-,alanine aminotransferase-like,protein-coding,-,-,-,putative alanine aminotransferase,20190603,-
+4513,100127237,LOC100127237,-,-,-,-,-,RuBisCO activase,protein-coding,-,-,-,-,20190603,-
+4513,100127238,CDPK12,-,-,-,-,-,calcium-dependent protein kinase,protein-coding,-,-,-,-,20190603,-
+4513,100127239,Bot1,-,-,-,-,-,boron transporter 2-like,protein-coding,-,-,-,putative boron transporter 2,20190603,-
+4513,100127240,GR1,-,HvGR1,-,-,-,chloroplastic glutathione reductase,protein-coding,-,-,-,-,20190603,-
+4513,100127241,LOC100127241,-,-,-,-,-,CCR4-NOT transcription complex subunit 2-like,protein-coding,-,-,-,putative CCR4-NOT transcription complex subunit 2,20190603,-
+4513,100127242,LOC100127242,-,-,-,-,-,chloroplast inner envelope protein-like,protein-coding,-,-,-,putative chloroplast inner envelope protein,20190603,-
+4513,100136802,LOC100136802,-,-,-,-,-,maturase,protein-coding,-,-,-,-,20190603,-
+4513,100136803,ycf3,-,-,-,-,-,YCF3 protein-like,protein-coding,-,-,-,putative YCF3 protein,20190603,-
+4513,100136804,LOC100136804,-,-,-,-,-,ATP synthase CFO subunit I,protein-coding,-,-,-,-,20190603,-
+4513,100136805,LOC100136805,-,-,-,-,-,very long chain fatty acid condensing enzyme CUT1;2-like,protein-coding,-,-,-,putative very long chain fatty acid condensing enzyme CUT1;2,20190603,-
+4513,100136806,LOC100136806,-,-,-,-,-,aldehyde decarbonylase enzyme CER1;1-like,protein-coding,-,-,-,putative aldehyde decarbonylase enzyme CER1;1,20190603,-
+4513,100136807,LOC100136807,-,-,-,-,-,very long chain fatty acid condensing enzyme CUT1;3-like,protein-coding,-,-,-,putative very long chain fatty acid condensing enzyme CUT1;3,20190603,-
+4513,100136808,LOC100136808,-,-,-,-,-,FIDDLEHEAD very long chain fatty acid condensing enzyme FDH;1-like,protein-coding,-,-,-,putative FIDDLEHEAD very long chain fatty acid condensing enzyme FDH;1,20190603,-
+4513,100136809,LOC100136809,-,-,-,-,-,late embryogenesis abundant protein-like,protein-coding,-,-,-,putative late embryogenesis abundant protein,20190603,-
+4513,100136810,NTRC,-,-,-,-,-,NADP-thioredoxin reductase C precursor,protein-coding,-,-,-,-,20190603,-
+4513,100136811,PIP2;2,-,-,-,-,-,plasma membrane intrinsic protein,protein-coding,-,-,-,-,20190603,-
+4513,100136812,PIP2;5,-,-,-,-,-,plasma membrane intrinsic protein,protein-coding,-,-,-,-,20190603,-
+4513,100136813,ndhA,-,-,-,-,-,NADH dehydrogenase subunit A,protein-coding,-,-,-,-,20190603,-
+4513,100136814,LOC100136814,-,-,-,-,-,very long chain fatty acid condensing enzyme CUT1;1-like,protein-coding,-,-,-,putative very long chain fatty acid condensing enzyme CUT1;1,20190603,-
+4513,100191078,Fer1,-,-,-,-,-,ferritin 1,protein-coding,-,-,-,-,20190603,-
+4513,100191079,XET6,-,-,-,-,-,xyloglucan xyloglucosyl transferase,protein-coding,-,-,-,-,20190603,-
+4513,100191080,LOC100191080,-,-,-,-,-,vacuolar proton-inorganic pyrophosphatase,protein-coding,-,-,-,-,20190603,-
+4513,100191081,LOC100191081,-,-,-,-,-,alpha-expansin EXPA1,protein-coding,-,-,-,-,20190603,-
+4513,100191082,LOC100191082,-,-,-,-,-,calcium-dependent protein kinase,protein-coding,-,-,-,-,20190603,-
+4513,100191083,LOC100191083,-,-,-,-,-,GTP cyclohydrolase 1 isoform TaA,protein-coding,-,-,-,-,20190603,-
+4513,100191084,mtp1,-,-,-,-,-,Zn transporter-like,protein-coding,-,-,-,putative Zn transporter,20190603,-
+4513,100191085,LOC100191085,-,-,-,-,-,beta-expansin EXPB4,protein-coding,-,-,-,-,20190603,-
+4513,100191086,LOC100191086,-,-,-,-,-,expansin EXPA11,protein-coding,-,-,-,-,20190603,-
+4513,100191087,LOC100191087,-,-,-,-,-,MIKC-type MADS-box transcription factor AGL1,protein-coding,-,-,-,-,20190603,-
+4513,100191088,LOC100191088,-,-,-,-,-,MIKC-type MADS-box transcription factor WM10A,protein-coding,-,-,-,-,20190603,-
+4513,100191089,LOC100191089,-,-,-,-,-,MIKC-type MADS-box transcription factor WM29B,protein-coding,-,-,-,-,20190603,-
+4513,100191090,LOC100191090,-,-,-,-,-,MIKC-type MADS-box transcription factor WM16,protein-coding,-,-,-,-,20190603,-
+4513,100191091,LOC100191091,-,-,-,-,-,nucellin-like aspartic protease-like,protein-coding,-,-,-,putative nucellin-like aspartic protease,20190603,-
+4513,100191092,CslF4,-,-,-,-,-,cellulose synthase-like CslF4,protein-coding,-,-,-,-,20190603,-
+4513,100191093,CslF6,-,-,-,-,-,cellulose synthase-like CslF6,protein-coding,-,-,-,-,20210307,-
+4513,100191094,CslF8,-,-,-,-,-,cellulose synthase-like CslF8,protein-coding,-,-,-,-,20190603,-
+4513,100191095,CslF9,-,-,-,-,-,cellulose synthase-like CslF9,protein-coding,-,-,-,-,20190603,-
+4513,100191096,WRKY20,-,-,-,-,-,WRKY transcription factor 20,protein-coding,-,-,-,-,20190603,-
+4513,100191097,WRKY29,-,-,-,-,-,WRKY transcription factor 29,protein-coding,-,-,-,-,20190603,-
+4513,100191098,WRKY41,-,-,-,-,-,WRKY transcription factor 41,protein-coding,-,-,-,-,20190603,-
+4513,100191099,WRKY36,-,-,-,-,-,WRKY transcription factor 36,protein-coding,-,-,-,-,20190603,-
+4513,100191100,LOC100191100,-,-,-,-,-,chalcone synthase,protein-coding,-,-,-,-,20190603,-
+4513,100191101,LOC100191101,-,-,-,-,-,flavanone 3-hydroxylase,protein-coding,-,-,-,-,20190603,-
+4513,100191102,KCO1,-,-,-,-,-,voltage-dependent outwardly rectifying plasma membrane K+ channel KCO1/TPK1,protein-coding,-,-,-,-,20190603,-
+4513,100191103,LOC100191103,-,-,-,-,-,metal ion transporter-like protein,protein-coding,-,-,-,-,20190603,-
+4513,100191104,LOC100191104,-,-,-,-,-,isoflavone reductase,protein-coding,-,-,-,-,20190603,-
+4513,100191105,LOC100191105,-,-,-,-,-,leucoanthocyanidin dioxygenase-like protein,protein-coding,-,-,-,-,20190603,-
+4513,100191106,CslF10,-,-,-,-,-,cellulose synthase-like CslF10,protein-coding,-,-,-,-,20190603,-
+4513,100191107,LOC100191107,-,-,-,-,-,MIKC-type MADS-box transcription factor WM27B,protein-coding,-,-,-,-,20190603,-
+4513,100191108,CslF3,-,-,-,-,-,cellulose synthase-like CslF3,protein-coding,-,-,-,-,20190603,-
+4513,100191109,WRKY28,-,-,-,-,-,WRKY transcription factor 28,protein-coding,-,-,-,-,20190603,-
+4513,100192363,Dek1,-,-,-,-,-,calpain protease,protein-coding,-,-,-,-,20190603,-
+4513,100196929,Hor3,-,-,-,-,-,D hordein,protein-coding,-,-,-,-,20190603,-
+4513,100233235,Bln1-1,-,-,-,-,-,blufensin 1,protein-coding,-,-,-,-,20190603,-
+4513,100233236,Bln2,-,-,-,-,-,blufensin 2,protein-coding,-,-,-,-,20190603,-
+4513,100271901,RcaA,-,-,-,-,-,"ribulose 1,5-bisphosphate carboxylase activase",protein-coding,-,-,-,"RA A|Ribulose bisphosphate carboxylase/oxygenase activase A, chloroplastic|RuBisCO activase A",20190603,-
+4513,100286747,trig7,-,-,-,-,-,trig7 protein,protein-coding,-,-,-,-,20190603,-
+4513,100286748,LOC100286748,-,-,-,-,-,neutral ceramidase,protein-coding,-,-,-,-,20190603,-
+4513,100286749,LOC100286749,-,-,-,-,-,triticain beta 2,protein-coding,-,-,-,-,20190603,-
+4513,100286750,DEP1,-,-,-,-,-,DEP1 protein,protein-coding,-,-,-,-,20190603,-
+4513,100286751,LOC100286751,-,-,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,-,20190603,-
+4513,100286752,LOC100286752,-,-,-,-,-,Cu/Zn superoxide dismutase,protein-coding,-,-,-,-,20190603,-
+4513,100286753,LOC100286753,-,-,-,-,-,manganese supersoxide dismutase,protein-coding,-,-,-,-,20190603,-
+4513,100286754,ALMT2,-,-,-,-,-,ALMT2 protein,protein-coding,-,-,-,-,20190603,-
+4513,100286755,LOC100286755,-,-,-,-,-,delta tonoplast intrinsic protein 2,protein-coding,-,-,-,tonoplast intrinsic protein TIP2;1,20190603,-
+4513,100286756,HvCP3-31,-,-,-,-,-,cysteine protease,protein-coding,-,-,-,-,20190603,-
+4513,100286757,FCA,-,-,-,-,-,flowering time control protein,protein-coding,-,-,-,-,20190603,-
+4513,100301576,HvLsi1,-,NIP2;1,-,-,-,silicon transporter,protein-coding,-,-,-,-,20190603,-
+4513,100301577,LOC100301577,-,-,-,-,-,metal ion transporter ZIP3,protein-coding,-,-,-,-,20190603,-
+4513,100301578,LOC100301578,-,-,-,-,-,metal ion transporter ZIP5,protein-coding,-,-,-,-,20190603,-
+4513,100301579,LOC100301579,-,-,-,-,-,metal ion transporter ZIP8,protein-coding,-,-,-,-,20190603,-
+4513,100301984,BAM1,-,AMYB|BMY1,-,-,-,beta-amylase,protein-coding,-,-,-,"1,4-alpha-D-glucan maltohydrolase",20190603,-
+4513,100301985,BAM2,-,bmy2,-,-,-,beta-amylase 2,protein-coding,-,-,-,-,20190603,-
+4513,100301986,AMY4,-,-,-,-,-,alpha-amylase 4,protein-coding,-,-,-,-,20190603,-
+4513,100303718,gad1,-,-,-,-,-,glutamate decarboxylase,protein-coding,-,-,-,-,20190603,-
+4513,100303719,HGA1,-,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20190603,-
+4513,100303720,LOC100303720,-,-,-,-,-,coatomer alpha subunit,protein-coding,-,-,-,-,20190603,-
+4513,100313954,AGL6,-,-,-,-,-,AGL6-like MADS box transcription factor,protein-coding,-,-,-,-,20190603,-
+4513,100313963,Agl1,-,Maltase,-,-,-,alpha-glucosidase,protein-coding,-,-,-,-,20190603,-
+4513,100313964,RBR1,-,-,-,-,-,retinoblastoma-related protein,protein-coding,-,-,-,-,20190603,-
+4513,100462951,FRO1,-,HvFRO1,-,-,-,ferric reductase oxidase,protein-coding,-,-,-,-,20190603,-
+4513,100498855,ODDSOC1,-,-,-,-,-,MADS box ODDSOC1,protein-coding,-,-,-,-,20190603,-
+4513,100498856,ODDSOC2,-,-,-,-,-,MADS box floral repressor ODDSOC2,protein-coding,-,-,-,-,20190603,-
+4513,100505452,EIL1,-,-,-,-,-,ethylene insensitive-like 1,protein-coding,-,-,-,-,20190603,-
+4513,100505453,ERF1,-,-,-,-,-,ethylene response factor 1,protein-coding,-,-,-,-,20190603,-
+4513,100505454,GRF1,-,-,-,-,-,growth-regulating factor 1,protein-coding,-,-,-,-,20190603,-
+4513,100526755,DREB1,-,-,-,-,-,dehydration responsive element binding protein 1,protein-coding,-,-,-,-,20190603,-
+4513,100527979,PAPc,-,-,-,-,-,chloroplast purple acid phosphatase,protein-coding,-,-,-,-,20190603,-
+4513,100527980,XET7,-,-,-,-,-,xyloglucan xyloglucosyl transferase,protein-coding,-,-,-,-,20190603,-
+4513,100527981,XET8,-,-,-,-,-,xyloglucan xyloglucosyl transferase,protein-coding,-,-,-,-,20190603,-
+4513,100527982,XET9,-,-,-,-,-,xyloglucan xyloglucosyl transferase,protein-coding,-,-,-,-,20190603,-
+4513,100527983,GSL2,-,-,-,-,-,glucan synthase-like 2,protein-coding,-,-,-,-,20190603,-
+4513,100527984,GSL4,-,-,-,-,-,glucan synthase-like 4,protein-coding,-,-,-,-,20190603,-
+4513,100527985,GSL5,-,-,-,-,-,glucan synthase-like 5,protein-coding,-,-,-,-,20190603,-
+4513,100527986,GSL7,-,-,-,-,-,glucan synthase-like 7,protein-coding,-,-,-,-,20190603,-
+4513,100527987,GSL6,-,-,-,-,-,glucan synthase-like 6,protein-coding,-,-,-,-,20190603,-
+4513,100527988,GSL3,-,-,-,-,-,glucan synthase-like 3,protein-coding,-,-,-,-,20190603,-
+4513,100527989,HvLsi6,-,-,-,-,-,silicon transporter,protein-coding,-,-,-,-,20190603,-
+4513,100527990,LOC100527990,-,-,-,-,-,ELF4-like protein,protein-coding,-,-,-,-,20190603,-
+4513,100527991,HvLsi2,-,-,-,-,-,silicon transporter,protein-coding,-,-,-,-,20190603,-
+4513,100527992,HvIDEF1,-,-,-,-,-,iron deficiency-responsive element binding factor 1,protein-coding,-,-,-,-,20190603,-
+4513,100527993,LOC100527993,-,-,-,-,-,chloroplast uroporphyrinogen III methyltransferase precursor,protein-coding,-,-,-,-,20190603,-
+4513,100527994,eIF4E,-,-,-,-,-,eukaryotic translation initiation factor 4E,protein-coding,-,-,-,-,20190603,-
+4513,100527995,HvDOG1L1,-,-,-,-,-,HvDOG1L1 protein,protein-coding,-,-,-,-,20190603,-
+4513,100527996,LOC100527996,-,-,-,-,-,beta-cyanoalanine synthase,protein-coding,-,-,-,-,20190603,-
+4513,100527997,HvFRO2,-,-,-,-,-,putative ferric reductase oxidase,protein-coding,-,-,-,-,20190603,-
+4513,100527998,LOC100527998,-,-,-,-,-,methionine aminopeptiase,protein-coding,-,-,-,-,20190603,-
+4513,100527999,ARD1,-,-,-,-,-,arrest defective 1,protein-coding,-,-,-,-,20190603,-
+4513,100533102,FT3,-,-,-,-,-,flowering time locus T-like protein 3,protein-coding,-,-,-,-,20190603,-
+4513,100579135,BA1/LAX1,-,-,-,-,-,barren stalk1/lax panicle1,protein-coding,-,-,-,-,20190603,-
+4513,100579136,CBL4,-,-,-,-,-,calcineurin B-like protein 4,protein-coding,-,-,-,-,20190603,-
+4513,100642174,LOC100642174,-,-,-,-,-,mutant isoamylase,protein-coding,-,-,-,-,20190603,-
+4513,101864752,LOC101864752,-,-,-,-,-,histone deacetylase RPD3/HDA1 class I isoform 1,protein-coding,-,-,-,-,20190603,-
+4513,101864753,LOC101864753,-,-,-,-,-,histone deacetylase HD2 isoform 1,protein-coding,-,-,-,-,20190603,-
+4513,101864754,LOC101864754,-,-,-,-,-,histone deacetylase family RPD3/HDA1 class III,protein-coding,-,-,-,-,20190603,-
+4513,101864755,LOC101864755,-,-,-,-,-,putative histone acetyltransferase ELP3,protein-coding,-,-,-,-,20190603,-
+4513,101864756,LOC101864756,-,-,-,-,-,putative histone acetyltransferase GCN5,protein-coding,-,-,-,-,20190603,-
+4513,101864757,LOC101864757,-,-,-,-,-,putative histone acetyltransferase MYST,protein-coding,-,-,-,-,20190603,-
+4513,101864758,LOC101864758,-,-,-,-,-,histone deacetylase RPD3/HDA1 class II,protein-coding,-,-,-,-,20190603,-
+4513,101864759,LOC101864759,-,-,-,-,-,histone deacetylase HD2 isoform 2,protein-coding,-,-,-,-,20190603,-
+4513,102682017,LOC102682017,-,-,-,-,-,Trx1,protein-coding,-,-,-,-,20190603,-
+4513,102682018,LOC102682018,-,-,-,-,-,phosphate starvation regulator protein-like protein,protein-coding,-,-,-,-,20190603,-
+4513,102682019,LOC102682019,-,-,-,-,-,PHO2,protein-coding,-,-,-,-,20190603,-
+4513,102682020,HMA2,-,-,-,-,-,heavy metal transporter,protein-coding,-,-,-,-,20190603,-
+4513,102682021,LOC102682021,-,-,-,-,-,plasma membrane intrinsic protein PIP2;7,protein-coding,-,-,-,-,20190603,-
+4513,102682022,LOC102682022,-,HvSOD1,-,-,-,chloroplast copper/zinc superoxide dismutase,protein-coding,-,-,-,-,20190603,-
+4513,102682023,RCD1,-,-,-,-,-,RCD1 protein,protein-coding,-,-,-,-,20190603,-
+4513,102682024,magap1,-,-,-,-,-,microtubule associated ROP GAP 1,protein-coding,-,-,-,-,20190603,-
+4513,102682025,LOC102682025,-,-,-,-,-,S-adenosyl methionine synthetase,protein-coding,-,-,-,-,20190603,-
+4513,102682026,HvTOM1,-,-,-,-,-,DMA efflux transporter,protein-coding,-,-,-,-,20190603,-
+4513,102682027,OSM5,-,-,-,-,-,MADS5-like protein,protein-coding,-,-,-,-,20190603,-
+4513,102682028,LOC102682028,-,-,-,-,-,NF-YB1,protein-coding,-,-,-,-,20190603,-
+4513,102682029,LOC102682029,-,-,-,-,-,NF-YB2,protein-coding,-,-,-,-,20190603,-
+4513,102682030,LOC102682030,-,-,-,-,-,NF-YB3,protein-coding,-,-,-,-,20190603,-
+4513,102682031,LOC102682031,-,-,-,-,-,NF-YB4,protein-coding,-,-,-,-,20190603,-
+4513,102682032,LOC102682032,-,-,-,-,-,NF-YB5,protein-coding,-,-,-,-,20190603,-
+4513,102682033,rbk1,-,-,-,-,-,ROP binding kinases 1,protein-coding,-,-,-,-,20190603,-
+4513,102682034,LOC102682034,-,-,-,-,-,gamma 1 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682035,LOC102682035,-,-,-,-,-,gamma 3 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682036,LOC102682036,-,-,-,-,-,B1 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682037,LOC102682037,-,-,-,-,-,B1 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682038,LOC102682038,-,-,-,-,-,B1 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682039,LOC102682039,-,-,-,-,-,B3 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682040,LOC102682040,-,-,-,-,-,B3 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682041,LOC102682041,-,-,-,-,-,B3 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682042,LOC102682042,-,-,-,-,-,B3 hordein,protein-coding,-,-,-,-,20190603,-
+4513,102682043,ACS1,-,-,-,-,-,ACC synthase,protein-coding,-,-,-,-,20190603,-
+4513,102682044,ACS2,-,-,-,-,-,ACC synthase,protein-coding,-,-,-,-,20190603,-
+4513,102682045,ACS5,-,-,-,-,-,ACC synthase,protein-coding,-,-,-,-,20190603,-
+4513,102682046,ERS1a,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682047,ERS1b,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682048,ERS2,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682049,ERS1c,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682050,ETR2,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682051,ETR4,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682052,ACO1,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682053,ACO2a,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682054,ACO2b,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682055,ACO2c,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682056,ACO5b,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682057,ACO7,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682058,MTP8.2,-,-,-,-,-,Mn-specific cation diffusion facilitator transporter MTP8.2,protein-coding,-,-,-,-,20190603,-
+4513,102682059,CCA1,-,-,-,-,-,circadian clock associated 1,protein-coding,-,-,-,-,20190603,-
+4513,102682060,PRR1,-,-,-,-,-,pseudo-response regulator 1,protein-coding,-,-,-,-,20190603,-
+4513,102682061,LOC102682061,-,-,-,-,-,PKDM7-1,protein-coding,-,-,-,-,20190603,-
+4513,102682062,WRKY53,-,-,-,-,-,WRKY transcript factor 53,protein-coding,-,-,-,-,20190603,-
+4513,102682063,WRKY55,-,-,-,-,-,WRKY transcript factor 55,protein-coding,-,-,-,-,20190603,-
+4513,102682064,NAC,-,-,-,-,-,NAC transcription factor,protein-coding,-,-,-,-,20190603,-
+4513,102682065,SDH,-,-,-,-,-,saccharopine dehydrogenase-like protein,protein-coding,-,-,-,-,20190603,-
+4513,102682066,HO1,-,-,-,-,-,heme oxygenase 1,protein-coding,-,-,-,-,20190603,-
+4513,102682067,LOC102682067,-,-,-,-,-,12-oxophytodienoic acid reductase,protein-coding,-,-,-,-,20190603,-
+4513,102682068,LOC102682068,-,-,-,-,-,lipase-3,protein-coding,-,-,-,-,20190603,-
+4513,102682069,Myb6,-,-,-,-,-,R2R3-type Myb transcription factor,protein-coding,-,-,-,-,20190603,-
+4513,102682070,Chi,-,-,-,-,-,chitinase,protein-coding,-,-,-,-,20190603,-
+4513,102682071,LOC102682071,-,-,-,-,-,4-coumarate: CoA ligase,protein-coding,-,-,-,-,20190603,-
+4513,102682072,ACS6b,-,-,-,-,-,ACC synthase,protein-coding,-,-,-,-,20190603,-
+4513,102682073,ACO5a,-,-,-,-,-,ACC oxidase,protein-coding,-,-,-,-,20190603,-
+4513,102682074,WRKY48,-,-,-,-,-,WRKY transcript factor 48,protein-coding,-,-,-,-,20190603,-
+4513,102682075,LOC102682075,-,-,-,-,-,tonoplast intrinsic protein TIP1;3,protein-coding,-,-,-,-,20190603,-
+4513,102682076,LOC102682076,-,-,-,-,-,suppressor of constans,protein-coding,-,-,-,-,20190603,-
+4513,102682077,WRKY61,-,-,-,-,-,WRKY61 protein,protein-coding,-,-,-,-,20190603,-
+4513,102682078,ETR3,-,-,-,-,-,ethylene receptor,protein-coding,-,-,-,-,20190603,-
+4513,102682079,MTP8.1,-,-,-,-,-,Mn-specific cation diffusion facilitator transporter MTP8.1,protein-coding,-,-,-,-,20190603,-
+4513,102682080,WRKY49,-,-,-,-,-,WRKY transcript factor 49,protein-coding,-,-,-,-,20190603,-
+4513,102682081,LOC102682081,-,-,-,-,-,plastidic starch phosphorylase,protein-coding,-,-,-,-,20190603,-

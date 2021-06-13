@@ -1,0 +1,411 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1511,9867457,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Clostridium sticklandii.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20210314,-
+1511,35557146,CLOST_RS05315,CLOST_RS05315,CLOST_1020,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557150,CLOST_RS02045,CLOST_RS02045,CLOST_0382,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557171,CLOST_RS01715,CLOST_RS01715,CLOST_0313,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557175,CLOST_RS02665,CLOST_RS02665,CLOST_tRNA25,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557178,CLOST_RS06555,CLOST_RS06555,CLOST_1277,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557181,CLOST_RS08475,CLOST_RS08475,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557183,CLOST_RS07895,CLOST_RS07895,CLOST_1553,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557184,CLOST_RS07200,CLOST_RS07200,CLOST_tRNA31,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557185,CLOST_RS05535,CLOST_RS05535,CLOST_1066,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557186,CLOST_RS02080,CLOST_RS02080,CLOST_0389,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557193,CLOST_RS06535,CLOST_RS06535,CLOST_1273,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557199,CLOST_RS04260,CLOST_RS04260,CLOST_0800,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557201,CLOST_RS02670,CLOST_RS02670,CLOST_tRNA26,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557206,CLOST_RS11360,CLOST_RS11360,CLOST_2260,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557211,CLOST_RS00805,CLOST_RS00805,CLOST_0127,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557213,CLOST_RS07210,CLOST_RS07210,CLOST_1409,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557217,CLOST_RS03080,CLOST_RS03080,CLOST_0563,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557222,CLOST_RS02810,CLOST_RS02810,CLOST_0509,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557229,CLOST_RS02255,CLOST_RS02255,CLOST_0424,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557230,CLOST_RS13335,CLOST_RS13335,CLOST_0104,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557231,CLOST_RS02555,CLOST_RS02555,CLOST_tRNA5,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557233,CLOST_RS00955,CLOST_RS00955,CLOST_0158,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557237,CLOST_RS02675,CLOST_RS02675,CLOST_tRNA27,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557240,CLOST_RS03740,CLOST_RS03740,CLOST_0695,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557244,CLOST_RS03960,CLOST_RS03960,CLOST_0739,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557245,CLOST_RS09890,CLOST_RS09890,CLOST_1961,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557249,CLOST_RS07835,CLOST_RS07835,CLOST_1539,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557250,CLOST_RS05185,CLOST_RS05185,CLOST_0993,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35557260,CLOST_RS02050,CLOST_RS02050,CLOST_0383,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557264,CLOST_RS10840,CLOST_RS10840,CLOST_2154,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557265,CLOST_RS11830,CLOST_RS11830,CLOST_2357,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557266,CLOST_RS08485,CLOST_RS08485,CLOST_1674,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557270,CLOST_RS08445,CLOST_RS08445,CLOST_1666,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557276,CLOST_RS00505,CLOST_RS00505,CLOST_tRNA1,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557283,CLOST_RS06490,CLOST_RS06490,CLOST_1263,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557286,CLOST_RS13585,CLOST_RS13585,CLOST_1530,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557289,CLOST_RS01875,CLOST_RS01875,CLOST_0347,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557298,CLOST_RS02460,CLOST_RS02460,CLOST_0466,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557311,CLOST_RS12000,CLOST_RS12000,CLOST_tRNA46,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557329,CLOST_RS03955,CLOST_RS03955,CLOST_0738,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557333,CLOST_RS05055,CLOST_RS05055,CLOST_0966,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557341,CLOST_RS02780,CLOST_RS02780,CLOST_0503,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557342,CLOST_RS08210,CLOST_RS08210,CLOST_1617,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557345,CLOST_RS03930,CLOST_RS03930,CLOST_0733,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557348,CLOST_RS03795,CLOST_RS03795,CLOST_0706,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557354,CLOST_RS02680,CLOST_RS02680,CLOST_tRNA28,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557360,CLOST_RS08500,CLOST_RS08500,CLOST_1677,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35557381,CLOST_RS12005,CLOST_RS12005,CLOST_tRNA45,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557387,CLOST_RS04325,CLOST_RS04325,CLOST_0819,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557389,CLOST_RS01060,CLOST_RS01060,CLOST_0179,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557401,CLOST_RS05655,CLOST_RS05655,CLOST_1091,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557404,CLOST_RS02685,CLOST_RS02685,CLOST_tRNA29,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557407,CLOST_RS00985,CLOST_RS00985,CLOST_0164,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557408,CLOST_RS08200,CLOST_RS08200,CLOST_1615,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557410,CLOST_RS06460,CLOST_RS06460,CLOST_1257,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557412,CLOST_RS01345,CLOST_RS01345,CLOST_0236,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557417,CLOST_RS01845,CLOST_RS01845,CLOST_0340,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557421,CLOST_RS12770,CLOST_RS12770,CLOST_2524,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557427,CLOST_RS07955,CLOST_RS07955,CLOST_1566,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557428,CLOST_RS13635,CLOST_RS13635,CLOST_2155,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557436,CLOST_RS07840,CLOST_RS07840,CLOST_1540,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557440,CLOST_RS06895,CLOST_RS06895,CLOST_1348,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557441,CLOST_RS05950,CLOST_RS05950,CLOST_1152,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557442,CLOST_RS12745,CLOST_RS12745,CLOST_2519,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557444,CLOST_RS03915,CLOST_RS03915,CLOST_0730,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557466,CLOST_RS07735,CLOST_RS07735,CLOST_1517,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557473,CLOST_RS02645,CLOST_RS02645,CLOST_tRNA22,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557478,CLOST_RS00510,CLOST_RS00510,CLOST_0064,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557480,CLOST_RS12680,CLOST_RS12680,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557486,CLOST_RS01925,CLOST_RS01925,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557491,CLOST_RS07220,CLOST_RS07220,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557501,CLOST_RS12035,CLOST_RS12035,CLOST_tRNA39,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557515,CLOST_RS00990,CLOST_RS00990,CLOST_0165,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557523,CLOST_RS11945,CLOST_RS11945,CLOST_2380,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557525,CLOST_RS02695,CLOST_RS02695,CLOST_0485,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557534,CLOST_RS07605,CLOST_RS07605,CLOST_1489,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557538,CLOST_RS09030,CLOST_RS09030,CLOST_1784,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557539,CLOST_RS03365,CLOST_RS03365,CLOST_0620,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557542,CLOST_RS11490,CLOST_RS11490,CLOST_2287,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557545,CLOST_RS06445,CLOST_RS06445,CLOST_1254,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557558,CLOST_RS02605,CLOST_RS02605,CLOST_tRNA15,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557559,CLOST_RS03085,CLOST_RS03085,CLOST_0564,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557560,CLOST_RS09645,CLOST_RS09645,CLOST_1909,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557567,CLOST_RS06145,CLOST_RS06145,CLOST_1191,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557585,CLOST_RS02395,CLOST_RS02395,CLOST_0453,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557590,CLOST_RS07830,CLOST_RS07830,CLOST_1537,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557597,CLOST_RS13320,CLOST_RS13320,CLOST_0009,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557605,CLOST_RS01905,CLOST_RS01905,CLOST_0353,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557622,CLOST_RS06835,CLOST_RS06835,CLOST_1336,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557636,CLOST_RS00485,CLOST_RS00485,CLOST_0059,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557638,CLOST_RS02085,CLOST_RS02085,CLOST_0390,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557654,CLOST_RS02575,CLOST_RS02575,CLOST_tRNA9,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557656,CLOST_RS13090,CLOST_RS13090,CLOST_2584,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557659,CLOST_RS06185,CLOST_RS06185,CLOST_1199,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557664,CLOST_RS01225,CLOST_RS01225,CLOST_0212,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557692,CLOST_RS02590,CLOST_RS02590,CLOST_tRNA12,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557695,CLOST_RS11870,CLOST_RS11870,CLOST_2365,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557712,CLOST_RS10945,CLOST_RS10945,CLOST_2175,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557728,CLOST_RS05125,CLOST_RS05125,CLOST_0980,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557734,CLOST_RS12235,CLOST_RS12235,CLOST_2417,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557738,CLOST_RS13365,CLOST_RS13365,CLOST_0182,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557742,CLOST_RS02545,CLOST_RS02545,CLOST_tRNA4,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557743,CLOST_RS06965,CLOST_RS06965,CLOST_1361,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557750,CLOST_RS02600,CLOST_RS02600,CLOST_tRNA14,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557753,CLOST_RS04795,CLOST_RS04795,CLOST_0914,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557755,CLOST_RS00475,CLOST_RS00475,CLOST_0057,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557776,CLOST_RS07365,CLOST_RS07365,CLOST_1440,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557779,CLOST_RS07370,CLOST_RS07370,CLOST_1441,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557780,CLOST_RS12975,CLOST_RS12975,CLOST_tRNA32,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557818,CLOST_RS03360,CLOST_RS03360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557825,CLOST_RS00700,CLOST_RS00700,CLOST_tRNA2,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557833,CLOST_RS04445,CLOST_RS04445,CLOST_0844,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557867,CLOST_RS00280,CLOST_RS00280,CLOST_0017,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557876,CLOST_RS06100,CLOST_RS06100,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557879,CLOST_RS02580,CLOST_RS02580,CLOST_tRNA10,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557890,CLOST_RS07040,CLOST_RS07040,CLOST_1376,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557906,CLOST_RS05525,CLOST_RS05525,CLOST_1064,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557908,CLOST_RS11875,CLOST_RS11875,CLOST_2366,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557909,CLOST_RS10395,CLOST_RS10395,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557911,CLOST_RS09205,CLOST_RS09205,CLOST_1820,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557916,CLOST_RS04245,CLOST_RS04245,CLOST_0797,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557951,CLOST_RS06505,CLOST_RS06505,CLOST_1267,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557954,CLOST_RS12020,CLOST_RS12020,CLOST_tRNA42,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557959,CLOST_RS07180,CLOST_RS07180,CLOST_tRNA58,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35557960,CLOST_RS00690,CLOST_RS00690,CLOST_0102,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557961,CLOST_RS07765,CLOST_RS07765,CLOST_1523,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557977,CLOST_RS07695,CLOST_RS07695,CLOST_1509,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557978,CLOST_RS02320,CLOST_RS02320,CLOST_0438,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557981,CLOST_RS03260,CLOST_RS03260,CLOST_0598,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557982,CLOST_RS11695,CLOST_RS11695,CLOST_2329,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35557984,CLOST_RS06120,CLOST_RS06120,CLOST_1185,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35557994,CLOST_RS03370,CLOST_RS03370,CLOST_0621,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35557997,CLOST_RS11970,CLOST_RS11970,CLOST_tRNA52,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558007,CLOST_RS06410,CLOST_RS06410,CLOST_1246,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558016,CLOST_RS04200,CLOST_RS04200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558023,CLOST_RS02610,CLOST_RS02610,CLOST_tRNA16,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558029,CLOST_RS00310,CLOST_RS00310,CLOST_0023,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558030,CLOST_RS10300,CLOST_RS10300,CLOST_2042,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558034,CLOST_RS05800,CLOST_RS05800,CLOST_1122,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558036,CLOST_RS05100,CLOST_RS05100,CLOST_0975,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558037,CLOST_RS06415,CLOST_RS06415,CLOST_1248,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558038,CLOST_RS09895,CLOST_RS09895,CLOST_1962,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558041,CLOST_RS07710,CLOST_RS07710,CLOST_1512,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558050,CLOST_RS11165,CLOST_RS11165,CLOST_tRNA57,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558056,CLOST_RS05670,CLOST_RS05670,CLOST_1094,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558057,CLOST_RS12685,CLOST_RS12685,CLOST_2506,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558066,CLOST_RS12965,CLOST_RS12965,CLOST_tRNA34,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558070,CLOST_RS03965,CLOST_RS03965,CLOST_0740,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558080,CLOST_RS02295,CLOST_RS02295,CLOST_0433,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558086,CLOST_RS06420,CLOST_RS06420,CLOST_1249,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558093,CLOST_RS01920,CLOST_RS01920,CLOST_0356,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558102,CLOST_RS05405,CLOST_RS05405,CLOST_1039,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558107,CLOST_RS06570,CLOST_RS06570,CLOST_1280,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558114,CLOST_RS00650,CLOST_RS00650,CLOST_0093,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558126,CLOST_RS11595,CLOST_RS11595,CLOST_2308,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558131,CLOST_RS11950,CLOST_RS11950,CLOST_tRNA56,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558135,CLOST_RS07915,CLOST_RS07915,CLOST_1558,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558136,CLOST_RS12710,CLOST_RS12710,CLOST_2511,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558142,CLOST_RS07065,CLOST_RS07065,CLOST_1381,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558145,CLOST_RS08495,CLOST_RS08495,CLOST_1676,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558153,CLOST_RS01360,CLOST_RS01360,CLOST_0239,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558163,CLOST_RS11980,CLOST_RS11980,CLOST_tRNA50,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558167,CLOST_RS03555,CLOST_RS03555,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558170,CLOST_RS02745,CLOST_RS02745,CLOST_0496,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558190,CLOST_RS10555,CLOST_RS10555,CLOST_2096,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558191,CLOST_RS12875,CLOST_RS12875,CLOST_2546,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558195,CLOST_RS12735,CLOST_RS12735,CLOST_2516,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558207,CLOST_RS08790,CLOST_RS08790,CLOST_1736,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558210,CLOST_RS06450,CLOST_RS06450,CLOST_1255,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558212,CLOST_RS08650,CLOST_RS08650,CLOST_1707,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558214,CLOST_RS07725,CLOST_RS07725,CLOST_1515,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558233,CLOST_RS07665,CLOST_RS07665,CLOST_1502,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558240,CLOST_RS04055,CLOST_RS04055,CLOST_0758,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558241,CLOST_RS12800,CLOST_RS12800,CLOST_2531,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558251,CLOST_RS07060,CLOST_RS07060,CLOST_1380,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558252,CLOST_RS12295,CLOST_RS12295,CLOST_2430,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558258,CLOST_RS12275,CLOST_RS12275,CLOST_2426,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558268,CLOST_RS00625,CLOST_RS00625,CLOST_0088,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558278,CLOST_RS01720,CLOST_RS01720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558284,CLOST_RS09195,CLOST_RS09195,CLOST_1818,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558285,CLOST_RS04000,CLOST_RS04000,CLOST_0747,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558286,CLOST_RS01885,CLOST_RS01885,CLOST_0349,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558289,CLOST_RS02855,CLOST_RS02855,CLOST_0518,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558294,CLOST_RS07740,CLOST_RS07740,CLOST_1518,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558296,CLOST_RS12015,CLOST_RS12015,CLOST_tRNA43,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558297,CLOST_RS13785,CLOST_RS13785,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558304,CLOST_RS11665,CLOST_RS11665,CLOST_2322,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558335,CLOST_RS12455,CLOST_RS12455,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558336,CLOST_RS09795,CLOST_RS09795,CLOST_1941,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558350,CLOST_RS12920,CLOST_RS12920,CLOST_2555,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558351,CLOST_RS12305,CLOST_RS12305,CLOST_2432,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558354,CLOST_RS04510,CLOST_RS04510,CLOST_0857,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558362,CLOST_RS07700,CLOST_RS07700,CLOST_1510,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558363,CLOST_RS10570,CLOST_RS10570,CLOST_2099,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558380,CLOST_RS12805,CLOST_RS12805,CLOST_2532,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558402,CLOST_RS12715,CLOST_RS12715,CLOST_2512,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558405,CLOST_RS09270,CLOST_RS09270,CLOST_1833,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558409,CLOST_RS02635,CLOST_RS02635,CLOST_tRNA21,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558417,CLOST_RS05015,CLOST_RS05015,CLOST_tRNA30,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558418,CLOST_RS01355,CLOST_RS01355,CLOST_0238,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558427,CLOST_RS07890,CLOST_RS07890,CLOST_1552,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558432,CLOST_RS12300,CLOST_RS12300,CLOST_2431,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558434,CLOST_RS13050,CLOST_RS13050,CLOST_2576,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558445,CLOST_RS01945,CLOST_RS01945,CLOST_0361,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558450,CLOST_RS12175,CLOST_RS12175,CLOST_2405,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558451,CLOST_RS02060,CLOST_RS02060,CLOST_0385,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558455,CLOST_RS13745,CLOST_RS13745,CLOST_0812,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558457,CLOST_RS13740,CLOST_RS13740,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558465,CLOST_RS06425,CLOST_RS06425,CLOST_1250,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558469,CLOST_RS02585,CLOST_RS02585,CLOST_tRNA11,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558472,CLOST_RS03135,CLOST_RS03135,CLOST_0574,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558474,CLOST_RS07770,CLOST_RS07770,CLOST_1524,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558478,CLOST_RS10120,CLOST_RS10120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558481,CLOST_RS13065,CLOST_RS13065,CLOST_2579,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558486,CLOST_RS00995,CLOST_RS00995,CLOST_0166,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558501,CLOST_RS12830,CLOST_RS12830,CLOST_2537,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558514,CLOST_RS08620,CLOST_RS08620,CLOST_1701,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558521,CLOST_RS12915,CLOST_RS12915,CLOST_2554,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558524,CLOST_RS13505,CLOST_RS13505,CLOST_0860,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558531,CLOST_RS03245,CLOST_RS03245,CLOST_0595,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558546,CLOST_RS01255,CLOST_RS01255,CLOST_0218,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558554,CLOST_RS11965,CLOST_RS11965,CLOST_tRNA53,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558561,CLOST_RS00515,CLOST_RS00515,CLOST_0065,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558584,CLOST_RS09635,CLOST_RS09635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558586,CLOST_RS01055,CLOST_RS01055,CLOST_0178,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558587,CLOST_RS04985,CLOST_RS04985,CLOST_0953,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558596,CLOST_RS12970,CLOST_RS12970,CLOST_tRNA33,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558607,CLOST_RS11995,CLOST_RS11995,CLOST_tRNA47,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558609,CLOST_RS12010,CLOST_RS12010,CLOST_tRNA44,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558613,CLOST_RS10470,CLOST_RS10470,CLOST_2077,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558615,CLOST_RS10260,CLOST_RS10260,CLOST_2034,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558620,CLOST_RS10415,CLOST_RS10415,CLOST_2066,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558624,CLOST_RS12450,CLOST_RS12450,CLOST_2461,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558629,CLOST_RS06430,CLOST_RS06430,CLOST_1251,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558637,CLOST_RS11670,CLOST_RS11670,CLOST_2324,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558638,CLOST_RS13665,CLOST_RS13665,CLOST_2333,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558640,CLOST_RS11960,CLOST_RS11960,CLOST_tRNA54,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558642,CLOST_RS07860,CLOST_RS07860,CLOST_1545,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558652,CLOST_RS04485,CLOST_RS04485,CLOST_0852,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558653,CLOST_RS01900,CLOST_RS01900,CLOST_0352,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558660,CLOST_RS02360,CLOST_RS02360,CLOST_0446,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558663,CLOST_RS02005,CLOST_RS02005,CLOST_0373,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200926,-
+1511,35558666,CLOST_RS12040,CLOST_RS12040,CLOST_tRNA38,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558673,CLOST_RS09210,CLOST_RS09210,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558679,CLOST_RS08735,CLOST_RS08735,CLOST_1724,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558684,CLOST_RS10800,CLOST_RS10800,CLOST_2146,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558696,CLOST_RS01865,CLOST_RS01865,CLOST_0344,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558706,CLOST_RS07470,CLOST_RS07470,CLOST_1461,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558708,CLOST_RS12135,CLOST_RS12135,CLOST_2397,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558724,CLOST_RS03520,CLOST_RS03520,CLOST_0653,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558734,CLOST_RS03975,CLOST_RS03975,CLOST_0742,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558740,CLOST_RS12375,CLOST_RS12375,CLOST_2445,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558746,CLOST_RS11880,CLOST_RS11880,CLOST_2367,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558748,CLOST_RS02595,CLOST_RS02595,CLOST_tRNA13,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558761,CLOST_RS02615,CLOST_RS02615,CLOST_tRNA17,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558764,CLOST_RS13620,CLOST_RS13620,CLOST_2037,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558765,CLOST_RS06075,CLOST_RS06075,CLOST_1177,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558773,CLOST_RS13610,CLOST_RS13610,CLOST_1985,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558783,CLOST_RS12025,CLOST_RS12025,CLOST_tRNA41,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558787,CLOST_RS10250,CLOST_RS10250,CLOST_2032,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558788,CLOST_RS07790,CLOST_RS07790,CLOST_1528,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558812,CLOST_RS02625,CLOST_RS02625,CLOST_tRNA19,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558815,CLOST_RS08645,CLOST_RS08645,CLOST_1706,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558822,CLOST_RS11475,CLOST_RS11475,CLOST_2283,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558827,CLOST_RS02510,CLOST_RS02510,CLOST_0476,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558829,CLOST_RS11985,CLOST_RS11985,CLOST_tRNA49,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558835,CLOST_RS06845,CLOST_RS06845,CLOST_1338,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558841,CLOST_RS03055,CLOST_RS03055,CLOST_0558,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558843,CLOST_RS06435,CLOST_RS06435,CLOST_1252,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558844,CLOST_RS05580,CLOST_RS05580,CLOST_1076,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558855,CLOST_RS02000,CLOST_RS02000,CLOST_0372,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558858,CLOST_RS02620,CLOST_RS02620,CLOST_tRNA18,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558859,CLOST_RS06730,CLOST_RS06730,CLOST_1314,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558861,CLOST_RS00675,CLOST_RS00675,CLOST_0099,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558863,CLOST_RS08665,CLOST_RS08665,CLOST_1710,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558872,CLOST_RS03060,CLOST_RS03060,CLOST_0559,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558883,CLOST_RS02835,CLOST_RS02835,CLOST_0514,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558884,CLOST_RS06470,CLOST_RS06470,CLOST_1259,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558888,CLOST_RS03550,CLOST_RS03550,CLOST_0659,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558893,CLOST_RS01910,CLOST_RS01910,CLOST_0354,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558898,CLOST_RS13625,CLOST_RS13625,CLOST_2055,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558899,CLOST_RS13575,CLOST_RS13575,CLOST_1504,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558908,CLOST_RS13595,CLOST_RS13595,CLOST_1901,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558911,CLOST_RS13720,CLOST_RS13720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558916,CLOST_RS05140,CLOST_RS05140,CLOST_0984,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558917,CLOST_RS06515,CLOST_RS06515,CLOST_1269,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558920,CLOST_RS09285,CLOST_RS09285,CLOST_1836,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558921,CLOST_RS06520,CLOST_RS06520,CLOST_1270,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558931,CLOST_RS02655,CLOST_RS02655,CLOST_tRNA23,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558932,CLOST_RS13695,CLOST_RS13695,CLOST_2544,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558956,CLOST_RS10115,CLOST_RS10115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558962,CLOST_RS11990,CLOST_RS11990,CLOST_tRNA48,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35558965,CLOST_RS10380,CLOST_RS10380,CLOST_2059,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558966,CLOST_RS08170,CLOST_RS08170,CLOST_1609,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558969,CLOST_RS00565,CLOST_RS00565,CLOST_0076,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35558970,CLOST_RS03165,CLOST_RS03165,CLOST_0580,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35558972,CLOST_RS10645,CLOST_RS10645,CLOST_2114,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558974,CLOST_RS03745,CLOST_RS03745,CLOST_0696,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558982,CLOST_RS07905,CLOST_RS07905,CLOST_1555,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558986,CLOST_RS01995,CLOST_RS01995,CLOST_0371,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558988,CLOST_RS12895,CLOST_RS12895,CLOST_2550,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35558989,CLOST_RS09865,CLOST_RS09865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35558994,CLOST_RS06475,CLOST_RS06475,CLOST_1260,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559001,CLOST_RS06095,CLOST_RS06095,CLOST_1181,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559008,CLOST_RS01605,CLOST_RS01605,CLOST_0289,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559011,CLOST_RS12955,CLOST_RS12955,CLOST_tRNA36,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559014,CLOST_RS01915,CLOST_RS01915,CLOST_0355,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559021,CLOST_RS05940,CLOST_RS05940,CLOST_1150,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559027,CLOST_RS07780,CLOST_RS07780,CLOST_1526,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559031,CLOST_RS02660,CLOST_RS02660,CLOST_tRNA24,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559036,CLOST_RS06380,CLOST_RS06380,CLOST_1240,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559048,CLOST_RS06930,CLOST_RS06930,CLOST_tRNA59,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559049,CLOST_RS06440,CLOST_RS06440,CLOST_1253,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559063,CLOST_RS07855,CLOST_RS07855,CLOST_1544,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559071,CLOST_RS06820,CLOST_RS06820,CLOST_1333,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35559082,CLOST_RS13600,CLOST_RS13600,CLOST_1959,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559097,CLOST_RS10625,CLOST_RS10625,CLOST_2110,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559098,CLOST_RS08870,CLOST_RS08870,CLOST_1752,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559106,CLOST_RS11680,CLOST_RS11680,CLOST_2326,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559140,CLOST_RS07265,CLOST_RS07265,CLOST_1420,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559153,CLOST_RS06565,CLOST_RS06565,CLOST_1279,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559157,CLOST_RS07185,CLOST_RS07185,CLOST_1405,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200905,-
+1511,35559173,CLOST_RS11300,CLOST_RS11300,CLOST_2248,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559174,CLOST_RS02630,CLOST_RS02630,CLOST_tRNA20,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559203,CLOST_RS10320,CLOST_RS10320,CLOST_2046,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559214,CLOST_RS04240,CLOST_RS04240,CLOST_0796,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559221,CLOST_RS06465,CLOST_RS06465,CLOST_1258,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559228,CLOST_RS13685,CLOST_RS13685,CLOST_2486,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559235,CLOST_RS11745,CLOST_RS11745,CLOST_2339,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559238,CLOST_RS09200,CLOST_RS09200,CLOST_1819,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559239,CLOST_RS12100,CLOST_RS12100,CLOST_2389,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559252,CLOST_RS01770,CLOST_RS01770,CLOST_0325,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559267,CLOST_RS00545,CLOST_RS00545,CLOST_0072,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35559292,CLOST_RS03970,CLOST_RS03970,CLOST_0741,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559301,CLOST_RS09880,CLOST_RS09880,CLOST_1958,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559306,CLOST_RS10375,CLOST_RS10375,CLOST_2058,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559314,CLOST_RS05265,CLOST_RS05265,CLOST_1009,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559322,CLOST_RS12790,CLOST_RS12790,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559323,CLOST_RS01765,CLOST_RS01765,CLOST_0324,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559325,CLOST_RS12370,CLOST_RS12370,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559327,CLOST_RS07960,CLOST_RS07960,CLOST_1567,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559331,CLOST_RS07715,CLOST_RS07715,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559338,CLOST_RS10020,CLOST_RS10020,CLOST_1986,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559342,CLOST_RS02355,CLOST_RS02355,CLOST_0445,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559354,CLOST_RS00890,CLOST_RS00890,CLOST_0145,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559372,CLOST_RS05520,CLOST_RS05520,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559373,CLOST_RS10695,CLOST_RS10695,CLOST_2124,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559375,CLOST_RS07950,CLOST_RS07950,CLOST_1565,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559380,CLOST_RS10105,CLOST_RS10105,CLOST_2004,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559381,CLOST_RS07430,CLOST_RS07430,CLOST_1453,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559382,CLOST_RS12430,CLOST_RS12430,CLOST_2457,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559387,CLOST_RS13580,CLOST_RS13580,CLOST_1529,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559399,CLOST_RS11675,CLOST_RS11675,CLOST_2325,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559401,CLOST_RS02910,CLOST_RS02910,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559413,CLOST_RS01130,CLOST_RS01130,CLOST_0193,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559414,CLOST_RS09905,CLOST_RS09905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559416,CLOST_RS09685,CLOST_RS09685,CLOST_1917,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35559417,CLOST_RS01105,CLOST_RS01105,CLOST_0188,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559421,CLOST_RS02570,CLOST_RS02570,CLOST_tRNA8,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559424,CLOST_RS01880,CLOST_RS01880,CLOST_0348,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559427,CLOST_RS11845,CLOST_RS11845,CLOST_2360,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559433,CLOST_RS07910,CLOST_RS07910,CLOST_1556,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559445,CLOST_RS12960,CLOST_RS12960,CLOST_tRNA35,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559451,CLOST_RS09510,CLOST_RS09510,CLOST_1882,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559459,CLOST_RS09805,CLOST_RS09805,CLOST_1943,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559460,CLOST_RS10530,CLOST_RS10530,CLOST_2091,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559463,CLOST_RS03805,CLOST_RS03805,CLOST_0708,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35559464,CLOST_RS12760,CLOST_RS12760,CLOST_2522,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559482,CLOST_RS06090,CLOST_RS06090,CLOST_1180,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559485,CLOST_RS04300,CLOST_RS04300,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559488,CLOST_RS07690,CLOST_RS07690,CLOST_1507,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559493,CLOST_RS07750,CLOST_RS07750,CLOST_1520,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559499,CLOST_RS07680,CLOST_RS07680,CLOST_1505,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180129,-
+1511,35559501,CLOST_RS13550,CLOST_RS13550,CLOST_1178,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20200912,-
+1511,35559504,CLOST_RS07760,CLOST_RS07760,CLOST_1522,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559506,CLOST_RS13430,CLOST_RS13430,CLOST_0454,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559507,CLOST_RS11955,CLOST_RS11955,CLOST_tRNA55,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559526,CLOST_RS12405,CLOST_RS12405,CLOST_2452,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559527,CLOST_RS12755,CLOST_RS12755,CLOST_2521,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559528,CLOST_RS03050,CLOST_RS03050,CLOST_0557,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559544,CLOST_RS06540,CLOST_RS06540,CLOST_1274,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559552,CLOST_RS11640,CLOST_RS11640,CLOST_2317,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559567,CLOST_RS02560,CLOST_RS02560,CLOST_tRNA6,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559574,CLOST_RS07755,CLOST_RS07755,CLOST_1521,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559577,CLOST_RS02340,CLOST_RS02340,CLOST_0442,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559579,CLOST_RS13495,CLOST_RS13495,CLOST_0815,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559585,CLOST_RS01440,CLOST_RS01440,CLOST_0255,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559596,CLOST_RS12055,CLOST_RS12055,CLOST_tRNA37,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559601,CLOST_RS10595,CLOST_RS10595,CLOST_2104,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559603,CLOST_RS07815,CLOST_RS07815,CLOST_1533,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559605,CLOST_RS11975,CLOST_RS11975,CLOST_tRNA51,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559608,CLOST_RS00460,CLOST_RS00460,CLOST_0054,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559611,CLOST_RS02540,CLOST_RS02540,CLOST_tRNA3,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559613,CLOST_RS07720,CLOST_RS07720,CLOST_1514,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559632,CLOST_RS07775,CLOST_RS07775,CLOST_1525,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559636,CLOST_RS10295,CLOST_RS10295,CLOST_2041,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559637,CLOST_RS08805,CLOST_RS08805,CLOST_1739,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559643,CLOST_RS02565,CLOST_RS02565,CLOST_tRNA7,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559648,CLOST_RS12030,CLOST_RS12030,CLOST_tRNA40,-,-,-,tRNA,tRNA,-,-,-,-,20180129,-
+1511,35559658,CLOST_RS01300,CLOST_RS01300,CLOST_0227,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559663,CLOST_RS10410,CLOST_RS10410,CLOST_2065,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559666,CLOST_RS07920,CLOST_RS07920,CLOST_1559,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559670,CLOST_RS00905,CLOST_RS00905,CLOST_0148,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559679,CLOST_RS12485,CLOST_RS12485,CLOST_2467,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559684,CLOST_RS08480,CLOST_RS08480,CLOST_1673,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559698,CLOST_RS12910,CLOST_RS12910,CLOST_2553,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+1511,35559701,CLOST_RS09020,CLOST_RS09020,CLOST_1782,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559709,CLOST_RS07745,CLOST_RS07745,CLOST_1519,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180202,-
+1511,35559723,CLOST_RS13750,CLOST_RS13750,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-

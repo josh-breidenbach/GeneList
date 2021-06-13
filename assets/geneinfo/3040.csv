@@ -1,0 +1,106 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+3040,14690163,psbD,I642_p074,-,-,-,-,photosystem II core 34 kDa protein,protein-coding,-,-,-,-,20160820,-
+3040,14690164,chlI,I642_p075,ccsA,-,-,-,chlorophyll biosynthesis,protein-coding,-,-,-,-,20160820,-
+3040,14690166,ycf13,I642_p071,-,-,-,-,ycf13,protein-coding,-,-,-,-,20160820,-
+3040,14690168,psbA,I642_p070,-,-,-,-,photosystem II core 32 kDaprotein,protein-coding,-,-,-,-,20160820,-
+3040,14690169,ycf65,I642_p069,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,-,20160820,-
+3040,14690171,psaM,I642_p056,-,-,-,-,PSI M-polypeptide,protein-coding,-,-,-,-,20160820,-
+3040,14690172,psb30,I642_p055,ycf12,-,-,-,photosystem II reaction center protein,protein-coding,-,-,-,-,20160827,-
+3040,14690173,psbK,I642_p054,-,-,-,-,photosystem II 3.9 kDa protein,protein-coding,-,-,-,-,20160924,-
+3040,14690179,ycf4,I642_p053,-,-,-,-,polar transcribed with TufA,protein-coding,-,-,-,polar transcribed with TufA|photosystem I assembly protein ycf4,20160827,-
+3040,14690180,tufA,I642_p052,-,-,-,-,translation elongation factor EF-Tu,protein-coding,-,-,-,-,20160827,-
+3040,14690181,rps7,I642_p051,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160820,-
+3040,14690182,rps12,I642_p050,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160820,-
+3040,14690183,rpl20,I642_p049,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160820,-
+3040,14690184,psbI,I642_p048,-,-,-,-,photosystem II I polypeptide,protein-coding,-,-,-,-,20150520,-
+3040,14690186,petG,I642_p047,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20160820,-
+3040,14690188,psaA,I642_p046,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150520,-
+3040,14690189,psaB,I642_p045,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150520,-
+3040,14690190,psbE,I642_p044,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20160820,-
+3040,14690191,psbF,I642_p043,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170906,-
+3040,14690192,psbL,I642_p042,-,-,-,-,photosystem II L protein,protein-coding,-,-,-,-,20150520,-
+3040,14690193,psbJ,I642_p041,-,-,-,-,photosystem II J protein,protein-coding,-,-,-,-,20150520,-
+3040,14690194,rpl23,I642_p040,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150520,-
+3040,14690195,rpl2,I642_p039,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160827,-
+3040,14690196,rps19,I642_p038,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150808,-
+3040,14690197,rpl22,I642_p037,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160820,-
+3040,14690198,rps3,I642_p036,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160827,-
+3040,14690199,roaA,I642_p035,-,-,-,-,RoaA,protein-coding,-,-,-,-,20160924,-
+3040,14690200,rpl16,I642_p034,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+3040,14690201,rpl14,I642_p033,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150520,-
+3040,14690202,rpl5,I642_p032,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160820,-
+3040,14690203,rps8,I642_p031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150520,-
+3040,14690204,rpl36,I642_p030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150520,-
+3040,14690206,rps14,I642_p029,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150520,-
+3040,14690209,rps2,I642_p028,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+3040,14690210,atpI,I642_p027,-,-,-,-,ATPase subunit IV,protein-coding,-,-,-,-,20150808,-
+3040,14690211,atpH,I642_p026,-,-,-,-,ATPase subunit III,protein-coding,-,-,-,-,20150520,-
+3040,14690212,atpF,I642_p025,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,-,20160924,-
+3040,14690213,atpA,I642_p024,-,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,-,20160820,-
+3040,14690214,rps18,I642_p023,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160827,-
+3040,14690215,psaJ,I642_p022,-,-,-,-,photosystem I 5 kDa protein,protein-coding,-,-,-,-,20150520,-
+3040,14690218,rpoA,I642_p021,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160827,-
+3040,14690219,psbZ,I642_p020,ycf9,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160827,-
+3040,14690220,rpl12,I642_p019,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160827,-
+3040,14690221,rps9,I642_p018,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20150520,-
+3040,14690222,psaC,I642_p017,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20160827,-
+3040,14690223,rbcL,I642_p015,-,-,-,-,RuBisC/O large subunit,protein-coding,-,-,-,"RuBisC/O large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20150520,-
+3040,14690224,atpE,I642_p014,-,-,-,-,ATPase epsilon subunit,protein-coding,-,-,-,-,20150520,-
+3040,14690225,atpB,I642_p013,-,-,-,-,ATPase beta subunit,protein-coding,-,-,-,-,20160827,-
+3040,14690226,petB,I642_p012,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+3040,14690227,psbN,I642_p011,-,-,-,-,photosystem II N protein,protein-coding,-,-,-,-,20160820,-
+3040,14690228,psbH,I642_p010,-,-,-,-,photosystem II 10 kDa protein,protein-coding,-,-,-,-,20150520,-
+3040,14690229,psbT,I642_p009,-,-,-,-,photosystem II T protein,protein-coding,-,-,-,-,20150520,-
+3040,14690230,psbB,I642_p008,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150520,-
+3040,14690236,rpoB,I642_p007,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160827,-
+3040,14690237,rpoC1,I642_p006,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160827,-
+3040,14690238,rpoC2,I642_p005,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160827,-
+3040,14690243,rps11,I642_p004,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150520,-
+3040,14690244,rps4,I642_p003,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160820,-
+3040,14690246,psaI,I642_p002,-,-,-,-,photosystem I 4 kDa polypeptide subunit,protein-coding,-,-,-,-,20150520,-
+3040,14697922,I642_p068,I642_p068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697923,I642_p057,I642_p057,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697924,I642_p001,I642_p001,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697926,I642_p067,I642_p067,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697927,I642_p066,I642_p066,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697928,I642_p065,I642_p065,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697929,I642_p064,I642_p064,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697930,I642_p063,I642_p063,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697931,I642_p062,I642_p062,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697932,I642_p061,I642_p061,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697933,I642_p060,I642_p060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697934,I642_p059,I642_p059,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,14697935,I642_p058,I642_p058,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150520,-
+3040,15612989,rpl32,I642_p016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160820,-
+3040,24271195,trnA,I642_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271196,trnI,I642_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271197,rrn16,I642_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20150515,-
+3040,24271198,trnL,I642_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271199,trnG,I642_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271200,trnE,I642_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271201,trnW,I642_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271202,trnM,I642_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271203,trnH,I642_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271204,trnV,I642_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271205,trnN,I642_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271206,trnR,I642_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271207,trnR,I642_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271208,trnT,I642_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271209,trnG,I642_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271210,trnM,I642_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271211,trnS,I642_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271212,trnQ,I642_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271213,trnD,I642_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271214,trnK,I642_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271215,trnL,I642_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271216,trnY,I642_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271217,rrn5,I642_r003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20150515,-
+3040,24271218,rrn23,I642_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20150515,-
+3040,24271219,psbC,I642_p073,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150602,-
+3040,24271220,mat2,I642_p072,-,-,-,-,maturase,protein-coding,-,-,-,-,20160924,-
+3040,24271221,trnL,I642_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271222,trnM,I642_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271223,trnF,I642_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271224,trnC,I642_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271225,trnP,I642_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-
+3040,24271226,trnS,I642_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20150515,-

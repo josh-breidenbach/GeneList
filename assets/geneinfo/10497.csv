@@ -1,0 +1,1564 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+10497,2828303,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (African swine fever virus ASF; African swine fever virus ASFV; African swine fever virus, ASFV).",other,-,-,-,-,20210424,-
+10497,22220289,EP364R,ASFVgp055,-,-,-,-,pEP364R,protein-coding,-,-,-,pEP364R,20210305,-
+10497,22220290,M1249L,ASFVgp056,-,-,-,-,pM1249L,protein-coding,-,-,-,pM1249L,20210305,-
+10497,22220291,M448R,ASFVgp057,-,-,-,-,pM448R,protein-coding,-,-,-,pM448R,20210305,-
+10497,22220292,C129R,ASFVgp058,-,-,-,-,pC129R,protein-coding,-,-,-,pC129R,20210305,-
+10497,22220293,C84L,ASFVgp059,-,-,-,-,pC84L,protein-coding,-,-,-,pC84L,20210305,-
+10497,22220294,C717R,ASFVgp060,-,-,-,-,pC717R,protein-coding,-,-,-,pC717R,20210305,-
+10497,22220295,C105R,ASFVgp061,-,-,-,-,pC105R,protein-coding,-,-,-,pC105R,20210305,-
+10497,22220296,C257L,ASFVgp062,-,-,-,-,pC257L,protein-coding,-,-,-,pC257L,20210305,-
+10497,22220297,C475L,ASFVgp063,-,-,-,-,pC475L,protein-coding,-,-,-,pC475L,20210305,-
+10497,22220298,C315R,ASFVgp064,-,-,-,-,pC315R,protein-coding,-,-,-,pC315R,20210305,-
+10497,22220299,C147L,ASFVgp065,-,-,-,-,RNA polymerase subunit 6,protein-coding,-,-,-,RNA polymerase subunit 6,20210305,-
+10497,22220300,C62L,ASFVgp066,-,-,-,-,pC62L,protein-coding,-,-,-,pC62L,20210305,-
+10497,22220301,C962R,ASFVgp067,-,-,-,-,pC962R,protein-coding,-,-,-,pC962R,20210305,-
+10497,22220302,B962L,ASFVgp068,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20201220,-
+10497,22220303,B119L,ASFVgp069,-,-,-,-,pB119L,protein-coding,-,-,-,pB119L,20210305,-
+10497,22220304,B318L,ASFVgp070,-,-,-,-,prenyltransferase,protein-coding,-,-,-,prenyltransferase,20210305,-
+10497,22220305,B438L,ASFVgp071,-,-,-,-,pB438L,protein-coding,-,-,-,pB438L,20210305,-
+10497,22220306,B169L,ASFVgp072,-,-,-,-,pB169L,protein-coding,-,-,-,pB169L,20210305,-
+10497,22220307,B475L,ASFVgp073,-,-,-,-,pB475L,protein-coding,-,-,-,pB475L,20210305,-
+10497,22220308,B354L,ASFVgp074,-,-,-,-,pB354L,protein-coding,-,-,-,pB354L,20210305,-
+10497,22220309,B602L,ASFVgp075,-,-,-,-,pB602L,protein-coding,-,-,-,pB602L,20210305,-
+10497,22220310,B385R,ASFVgp076,-,-,-,-,pB385R,protein-coding,-,-,-,pB385R,20210305,-
+10497,22220311,B646L,ASFVgp077,-,-,-,-,structural protein p72,protein-coding,-,-,-,structural protein p72,20210305,-
+10497,22220312,B125R,ASFVgp078,-,-,-,-,pB125R,protein-coding,-,-,-,pB125R,20210305,-
+10497,22220313,B117L,ASFVgp079,-,-,-,-,pB117L,protein-coding,-,-,-,pB117L,20210305,-
+10497,22220314,B407L,ASFVgp080,-,-,-,-,pB407L,protein-coding,-,-,-,pB407L,20210305,-
+10497,22220315,B175L,ASFVgp081,-,-,-,-,pB175L,protein-coding,-,-,-,pB175L,20210305,-
+10497,22220316,B263R,ASFVgp082,-,-,-,-,pB263R,protein-coding,-,-,-,pB263R,20210305,-
+10497,22220317,B66L,ASFVgp083,-,-,-,-,pB66L precursor,protein-coding,-,-,-,pB66L precursor,20210305,-
+10497,22220318,G1340L,ASFVgp084,-,-,-,-,pG1340L,protein-coding,-,-,-,pG1340L,20210305,-
+10497,22220319,G1211R,ASFVgp085,-,-,-,-,DNA polymerase,protein-coding,-,-,-,DNA polymerase,20201021,-
+10497,22220320,CP123L,ASFVgp086,-,-,-,-,pCP123L,protein-coding,-,-,-,pCP123L,20210305,-
+10497,22220321,CP2475L,ASFVgp087,-,-,-,-,220 kDa polyprotein,protein-coding,-,-,-,220 kDa polyprotein,20210305,-
+10497,22220322,CP204L,ASFVgp088,-,-,-,-,ASFV-induced protein p32,protein-coding,-,-,-,ASFV-induced protein p32,20210305,-
+10497,22220323,CP530R,ASFVgp089,-,-,-,-,60 kDa polyprotein,protein-coding,-,-,-,60 kDa polyprotein,20210305,-
+10497,22220324,CP80R,ASFVgp090,-,-,-,-,RNA polymerase subunit 10,protein-coding,-,-,-,RNA polymerase subunit 10,20210305,-
+10497,22220325,CP312R,ASFVgp091,-,-,-,-,pCP312R,protein-coding,-,-,-,pCP312R,20210305,-
+10497,22220326,O174L,ASFVgp092,-,-,-,-,DNA polymerase beta-like protein,protein-coding,-,-,-,DNA polymerase beta-like protein,20210305,-
+10497,22220327,O61R,ASFVgp093,-,-,-,-,structural protein p12,protein-coding,-,-,-,structural protein p12,20210305,-
+10497,22220328,NP1450L,ASFVgp094,-,-,-,-,RNA polymerase subunit 1,protein-coding,-,-,-,RNA polymerase subunit 1,20210305,-
+10497,22220329,NP419L,ASFVgp095,-,-,-,-,DNA ligase,protein-coding,-,-,-,DNA ligase,20210305,-
+10497,22220330,NP868R,ASFVgp096,-,-,-,-,guanylyltransferase,protein-coding,-,-,-,guanylyltransferase,20210305,-
+10497,22220331,D250R,ASFVgp097,-,-,-,-,8-hydroxy-dGTPase,protein-coding,-,-,-,8-hydroxy-dGTPase,20210305,-
+10497,22220332,D129L,ASFVgp098,-,-,-,-,pD129L,protein-coding,-,-,-,pD129L,20210305,-
+10497,22220333,D79L,ASFVgp099,-,-,-,-,pD79L,protein-coding,-,-,-,pD79L,20210305,-
+10497,22220334,D339L,ASFVgp100,-,-,-,-,pD339L,protein-coding,-,-,-,pD339L,20210305,-
+10497,22220335,D1133L,ASFVgp101,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,22220336,D117L,ASFVgp102,-,-,-,-,structural protein p17,protein-coding,-,-,-,structural protein p17,20210305,-
+10497,22220337,D205R,ASFVgp103,-,-,-,-,RNA polymerase subunit 5,protein-coding,-,-,-,RNA polymerase subunit 5,20210305,-
+10497,22220338,D345L,ASFVgp104,-,-,-,-,pD345L,protein-coding,-,-,-,pD345L,20210305,-
+10497,22220339,S183L,ASFVgp105,-,-,-,-,pS183L,protein-coding,-,-,-,pS183L,20210305,-
+10497,22220340,S273R,ASFVgp106,-,-,-,-,pS273R,protein-coding,-,-,-,pS273R,20210305,-
+10497,22220341,P1192R,ASFVgp107,-,-,-,-,topoisomerase II,protein-coding,-,-,-,topoisomerase II,20210305,-
+10497,22220342,H359L,ASFVgp108,-,-,-,-,RNA polymerase subunit 3,protein-coding,-,-,-,RNA polymerase subunit 3,20210305,-
+10497,22220343,E423R,ASFVgp121,-,-,-,-,pE423R,protein-coding,-,-,-,pE423R,20210305,-
+10497,22220344,H171R,ASFVgp109,-,-,-,-,pH171R,protein-coding,-,-,-,pH171R,20210305,-
+10497,22220345,H124R,ASFVgp110,-,-,-,-,pH124R,protein-coding,-,-,-,pH124R,20210305,-
+10497,22220346,H339R,ASFVgp111,-,-,-,-,pH339R,protein-coding,-,-,-,pH339R,20210305,-
+10497,22220347,H108R,ASFVgp112,-,-,-,-,pH108R,protein-coding,-,-,-,pH108R,20210305,-
+10497,22220348,H233R,ASFVgp113,-,-,-,-,pH233R precursor,protein-coding,-,-,-,pH233R precursor,20210305,-
+10497,22220349,H240R,ASFVgp114,-,-,-,-,pH240R,protein-coding,-,-,-,pH240R,20210305,-
+10497,22220350,R298L,ASFVgp115,-,-,-,-,serine protein kinase,protein-coding,-,-,-,serine protein kinase,20210417,-
+10497,22220351,Q706L,ASFVgp116,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,22220352,QP509L,ASFVgp117,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,22220353,QP383R,ASFVgp118,-,-,-,-,NifS-like protein,protein-coding,-,-,-,NifS-like protein,20210305,-
+10497,22220354,E184L,ASFVgp119,-,-,-,-,pE184L,protein-coding,-,-,-,pE184L,20210305,-
+10497,22220355,E183L,ASFVgp120,-,-,-,-,structural protein p54,protein-coding,-,-,-,structural protein p54,20210305,-
+10497,22220356,E301R,ASFVgp122,-,-,-,-,proliferating cell nuclear antigen-like protein,protein-coding,-,-,-,proliferating cell nuclear antigen-like protein,20210305,-
+10497,22220357,E146L,ASFVgp123,-,-,-,-,pE146L,protein-coding,-,-,-,pE146L,20210305,-
+10497,22220358,E199L,ASFVgp124,-,-,-,-,pE199L,protein-coding,-,-,-,pE199L,20210305,-
+10497,22220359,E165R,ASFVgp125,-,-,-,-,dUTPase,protein-coding,-,-,-,dUTPase,20210305,-
+10497,22220360,E248R,ASFVgp126,-,-,-,-,pE248R,protein-coding,-,-,-,pE248R,20210305,-
+10497,22220361,E120R,ASFVgp127,-,-,-,-,structural protein p14.5,protein-coding,-,-,-,structural protein p14.5,20210305,-
+10497,22220362,E296R,ASFVgp128,-,-,-,-,AP endonuclease class II,protein-coding,-,-,-,AP endonuclease class II,20210305,-
+10497,22220363,E111R,ASFVgp129,-,-,-,-,pE111R,protein-coding,-,-,-,pE111R,20201220,-
+10497,22220364,E66L,ASFVgp130,-,-,-,-,pE66L,protein-coding,-,-,-,pE66L,20210305,-
+10497,22220365,I267L,ASFVgp131,-,-,-,-,pI267L,protein-coding,-,-,-,pI267L,20210305,-
+10497,22220366,I226R,ASFVgp132,-,-,-,-,pI226R,protein-coding,-,-,-,pI226R,20210305,-
+10497,22220367,I243L,ASFVgp133,-,-,-,-,transcription factor SII homolog,protein-coding,-,-,-,transcription factor SII homolog,20210305,-
+10497,22220368,I73R,ASFVgp134,-,-,-,-,pI73R,protein-coding,-,-,-,pI73R,20210305,-
+10497,22220369,I329L,ASFVgp135,-,-,-,-,pI329L precursor,protein-coding,-,-,-,pI329L precursor,20210305,-
+10497,22220370,I215L,ASFVgp136,-,-,-,-,ubiquitin-conjugating enzyme,protein-coding,-,-,-,ubiquitin-conjugating enzyme,20210305,-
+10497,22220371,I177L,ASFVgp137,-,-,-,-,pI177L,protein-coding,-,-,-,pI177L,20210305,-
+10497,22220372,I196L,ASFVgp138,-,-,-,-,pI196L,protein-coding,-,-,-,pI196L,20210305,-
+10497,22220373,DP238L,ASFVgp139,-,-,-,-,pDP238L,protein-coding,-,-,-,pDP238L,20210305,-
+10497,22220374,DP311R,ASFVgp140,-,-,-,-,pDP311R,protein-coding,-,-,-,pDP311R,20201220,-
+10497,22220375,DP63R,ASFVgp141,-,-,-,-,pDP63R,protein-coding,-,-,-,pDP63R,20210305,-
+10497,22220376,DP542L,ASFVgp142,-,-,-,-,pDP542L,protein-coding,-,-,-,pDP542L,20210305,-
+10497,22220377,DP141L,ASFVgp143,-,-,-,-,pDP141L,protein-coding,-,-,-,pDP141L,20210305,-
+10497,22220378,DP146L,ASFVgp144,-,-,-,-,pDP146L,protein-coding,-,-,-,pDP146L,20210305,-
+10497,22220379,DP148R,ASFVgp145,-,-,-,-,pDP148R,protein-coding,-,-,-,pDP148R,20210305,-
+10497,22220380,DP71L,ASFVgp146,-,-,-,-,pDP71L,protein-coding,-,-,-,pDP71L,20210305,-
+10497,22220381,DP96R,ASFVgp147,-,-,-,-,pDP96R,protein-coding,-,-,-,pDP96R,20210305,-
+10497,22220382,DP363R,ASFVgp148,-,-,-,-,pDP363R,protein-coding,-,-,-,pDP363R,20210305,-
+10497,22220383,DP42R,ASFVgp149,-,-,-,-,pDP42R,protein-coding,-,-,-,pDP42R,20210305,-
+10497,22220384,DP60R,ASFVgp150,-,-,-,-,pDP60R,protein-coding,-,-,-,pDP60R,20210305,-
+10497,22220385,DP93R,ASFVgp151,-,-,-,-,pDP93R,protein-coding,-,-,-,pDP93R,20210305,-
+10497,22220386,DP86L,ASFVgp152,-,-,-,-,pDP86L,protein-coding,-,-,-,pDP86L,20210305,-
+10497,22220387,J154R,ASFVgp018,-,-,-,-,pJ154R,protein-coding,-,-,-,pJ154R,20210305,-
+10497,22220388,J319L,ASFVgp020,-,-,-,-,pJ319L,protein-coding,-,-,-,pJ319L,20210305,-
+10497,22220389,L356L,ASFVgp008,-,-,-,-,pL356L,protein-coding,-,-,-,pL356L,20210305,-
+10497,22220390,KP86R,ASFVgp001,-,-,-,-,pKP86R,protein-coding,-,-,-,pKP86R,20210305,-
+10497,22220391,KP93L,ASFVgp002,-,-,-,-,pKP93L,protein-coding,-,-,-,pKP93L,20210305,-
+10497,22220392,KP360L,ASFVgp003,-,-,-,-,pKP360L,protein-coding,-,-,-,pKP360L,20210305,-
+10497,22220393,KP362L,ASFVgp004,-,-,-,-,pKP362L,protein-coding,-,-,-,pKP362L,20210305,-
+10497,22220394,KP177R,ASFVgp005,-,-,-,-,structural protein p22,protein-coding,-,-,-,structural protein p22,20210305,-
+10497,22220395,L83L,ASFVgp006,-,-,-,-,pL83L,protein-coding,-,-,-,pL83L,20210305,-
+10497,22220396,L57L,ASFVgp007,-,-,-,-,pL57L,protein-coding,-,-,-,pL57L,20201021,-
+10497,22220397,L270L,ASFVgp009,-,-,-,-,pL270L,protein-coding,-,-,-,pL270L,20210305,-
+10497,22220398,U104L,ASFVgp010,-,-,-,-,pU104L precursor,protein-coding,-,-,-,pU104L precursor,20210305,-
+10497,22220399,XP124L,ASFVgp011,-,-,-,-,pXP124L precursor,protein-coding,-,-,-,pXP124L precursor,20210305,-
+10497,22220400,V82L,ASFVgp012,-,-,-,-,pV82L precursor,protein-coding,-,-,-,pV82L precursor,20210305,-
+10497,22220401,Y118L,ASFVgp013,-,-,-,-,pY118L precursor,protein-coding,-,-,-,pY118L precursor,20210305,-
+10497,22220402,UP60L,ASFVgp014,-,-,-,-,pUP60L,protein-coding,-,-,-,pUP60L,20210305,-
+10497,22220403,X69R,ASFVgp015,-,-,-,-,pX69R,protein-coding,-,-,-,pX69R,20210305,-
+10497,22220404,J268L,ASFVgp016,-,-,-,-,pJ268L,protein-coding,-,-,-,pJ268L,20210305,-
+10497,22220405,J64R,ASFVgp017,-,-,-,-,pJ64R,protein-coding,-,-,-,pJ64R,20210305,-
+10497,22220406,J328L,ASFVgp019,-,-,-,-,pJ328L,protein-coding,-,-,-,pJ328L,20210305,-
+10497,22220407,A125L,ASFVgp021,-,-,-,-,pA125L,protein-coding,-,-,-,pA125L,20201220,-
+10497,22220408,A489R,ASFVgp022,-,-,-,-,pA489R,protein-coding,-,-,-,pA489R,20210305,-
+10497,22220409,A280R,ASFVgp023,-,-,-,-,pA280R,protein-coding,-,-,-,pA280R,20210305,-
+10497,22220410,A505R,ASFVgp024,-,-,-,-,pA505R,protein-coding,-,-,-,pA505R,20210305,-
+10497,22220411,A498R,ASFVgp025,-,-,-,-,pA498R,protein-coding,-,-,-,pA498R,20210305,-
+10497,22220412,A528R,ASFVgp026,-,-,-,-,pA528R,protein-coding,-,-,-,pA528R,20210305,-
+10497,22220413,A506R,ASFVgp027,-,-,-,-,pA506R,protein-coding,-,-,-,pA506R,20210305,-
+10497,22220414,A542R,ASFVgp028,-,-,-,-,pA542R,protein-coding,-,-,-,pA542R,20210305,-
+10497,22220415,A224L,ASFVgp029,-,-,-,-,IAP homolog,protein-coding,-,-,-,IAP homolog,20210305,-
+10497,22220416,A104R,ASFVgp030,-,-,-,-,histone-like protein,protein-coding,-,-,-,histone-like protein,20210305,-
+10497,22220417,A240L,ASFVgp031,-,-,-,-,thymidylate kinase,protein-coding,-,-,-,thymidylate kinase,20210305,-
+10497,22220418,A118R,ASFVgp032,-,-,-,-,pA118R precursor,protein-coding,-,-,-,pA118R precursor,20210305,-
+10497,22220419,A151R,ASFVgp033,-,-,-,-,pA151R,protein-coding,-,-,-,pA151R,20210305,-
+10497,22220420,A276R,ASFVgp034,-,-,-,-,pA276R,protein-coding,-,-,-,pA276R,20210305,-
+10497,22220421,A238L,ASFVgp035,-,-,-,-,IkB-like protein,protein-coding,-,-,-,IkB-like protein,20210305,-
+10497,22220422,A859L,ASFVgp036,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,22220423,A179L,ASFVgp037,-,-,-,-,bcl-2/bax homolog,protein-coding,-,-,-,bcl-2/bax homolog,20210305,-
+10497,22220424,A137R,ASFVgp038,-,-,-,-,structural protein p11.5,protein-coding,-,-,-,structural protein p11.5,20210305,-
+10497,22220425,F317L,ASFVgp039,-,-,-,-,pF317L,protein-coding,-,-,-,pF317L,20210305,-
+10497,22220426,F334L,ASFVgp040,-,-,-,-,ribonucleotide reductase small subunit,protein-coding,-,-,-,ribonucleotide reductase small subunit,20210305,-
+10497,22220427,F778R,ASFVgp041,-,-,-,-,ribonucleotide reductase large subunit,protein-coding,-,-,-,ribonucleotide reductase large subunit,20210305,-
+10497,22220428,F165R,ASFVgp042,-,-,-,-,pF165R,protein-coding,-,-,-,pF165R,20210305,-
+10497,22220429,F1055L,ASFVgp043,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,22220430,K205R,ASFVgp044,-,-,-,-,pK205R,protein-coding,-,-,-,pK205R,20210305,-
+10497,22220431,K78R,ASFVgp045,-,-,-,-,structural protein p10,protein-coding,-,-,-,structural protein p10,20210305,-
+10497,22220432,K196R,ASFVgp046,-,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210305,-
+10497,22220433,K145R,ASFVgp047,-,-,-,-,pK145R,protein-coding,-,-,-,pK145R,20210305,-
+10497,22220434,K421R,ASFVgp048,-,-,-,-,pK421R,protein-coding,-,-,-,pK421R,20210305,-
+10497,22220435,EP1242L,ASFVgp049,-,-,-,-,RNA polymerase subunit 2,protein-coding,-,-,-,RNA polymerase subunit 2,20210305,-
+10497,22220436,EP84R,ASFVgp050,-,-,-,-,pEP84R,protein-coding,-,-,-,pEP84R,20210305,-
+10497,22220437,EP424R,ASFVgp051,-,-,-,-,pEP424R,protein-coding,-,-,-,pEP424R,20210305,-
+10497,22220438,EP152R,ASFVgp052,-,-,-,-,pEP152R,protein-coding,-,-,-,pEP152R,20210305,-
+10497,22220439,EP153R,ASFVgp053,-,-,-,-,lectin-like protein,protein-coding,-,-,-,lectin-like protein,20210305,-
+10497,22220440,EP402R,ASFVgp054,-,-,-,-,CD2 homolog,protein-coding,-,-,-,CD2 homolog,20210305,-
+10497,41901046,KP93L,F8207_gp002,-,-,-,-,pKP93L,protein-coding,-,-,-,pKP93L,20210305,-
+10497,41901047,MGF 360-1L,F8207_gp003,-,-,-,-,pMGF 360-1L,protein-coding,-,-,-,pMGF 360-1L,20210305,-
+10497,41901048,MGF 360-2L,F8207_gp004,-,-,-,-,pMGF 360-2L,protein-coding,-,-,-,pMGF 360-2L,20210305,-
+10497,41901049,KP177R,F8207_gp005,-,-,-,-,structural protein P22,protein-coding,-,-,-,structural protein P22,20210305,-
+10497,41901050,L83L,F8207_gp006,-,-,-,-,pL83L,protein-coding,-,-,-,pL83L,20210305,-
+10497,41901051,L60L,F8207_gp007,-,-,-,-,pL60L,protein-coding,-,-,-,pL60L,20210305,-
+10497,41901052,MGF 360-3L,F8207_gp008,-,-,-,-,pMGF 360-3L,protein-coding,-,-,-,pMGF 360-3L,20210305,-
+10497,41901053,MGF 110-1L,F8207_gp009,-,-,-,-,pMGF 110-1L,protein-coding,-,-,-,pMGF 110-1L,20201217,-
+10497,41901054,MGF 110-13L/2L fusion,F8207_gp010,-,-,-,-,pMGF 110-13L/2L fusion protein,protein-coding,-,-,-,pMGF 110-13L/2L fusion protein,20201217,-
+10497,41901055,MGF 110-11L,F8207_gp011,-,-,-,-,pMGF 110-11L,protein-coding,-,-,-,pMGF 110-11L,20201217,-
+10497,41901056,MGF 110-12L,F8207_gp012,-,-,-,-,pMGF 110-12L,protein-coding,-,-,-,pMGF 110-12L,20210305,-
+10497,41901057,MGF 110-13L,F8207_gp013,-,-,-,-,pMGF 110-13L,protein-coding,-,-,-,pMGF 110-13L,20201021,-
+10497,41901058,MGF 110-14L,F8207_gp014,-,-,-,-,pMGF 110-14L,protein-coding,-,-,-,pMGF 110-14L,20201021,-
+10497,41901059,MGF 360-4L,F8207_gp015,-,-,-,-,pMGF 360-4L,protein-coding,-,-,-,pMGF 360-4L,20210305,-
+10497,41901060,MGF 360-6L,F8207_gp016,-,-,-,-,pMGF 360-6L,protein-coding,-,-,-,pMGF 360-6L,20210305,-
+10497,41901061,X69R,F8207_gp017,-,-,-,-,pX69R,protein-coding,-,-,-,pX69R,20210305,-
+10497,41901062,MGF 300-1L,F8207_gp018,-,-,-,-,pMGF 300-1L,protein-coding,-,-,-,pMGF 300-1L,20210305,-
+10497,41901063,X64R,F8207_gp019,-,-,-,-,pX64R,protein-coding,-,-,-,pX64R,20210305,-
+10497,41901064,MGF 300-2R,F8207_gp020,-,-,-,-,pMGF 300-2R,protein-coding,-,-,-,pMGF 300-2R,20210305,-
+10497,41901065,MGF 300-4L,F8207_gp021,-,-,-,-,pMGF 300-4L,protein-coding,-,-,-,pMGF 300-4L,20210305,-
+10497,41901066,MGF 360-8L,F8207_gp022,-,-,-,-,pMGF 360-8L,protein-coding,-,-,-,pMGF 360-8L,20210305,-
+10497,41901067,MGF 360-9L,F8207_gp023,-,-,-,-,pMGF 360-9L,protein-coding,-,-,-,pMGF 360-9L,20210305,-
+10497,41901068,MGF 360-10L,F8207_gp024,-,-,-,-,pMGF 360-10L,protein-coding,-,-,-,pMGF 360-10L,20210305,-
+10497,41901069,MGF 360-11L,F8207_gp025,-,-,-,-,pMGF 360-11L,protein-coding,-,-,-,pMGF 360-11L,20210305,-
+10497,41901070,MGF 505-1R,F8207_gp026,-,-,-,-,pMGF 505-1R,protein-coding,-,-,-,pMGF 505-1R,20210305,-
+10497,41901071,MGF 360-12L,F8207_gp027,-,-,-,-,pMGF 360-12L,protein-coding,-,-,-,pMGF 360-12L,20201217,-
+10497,41901072,MGF 360-13L,F8207_gp028,-,-,-,-,pMGF 360-13L,protein-coding,-,-,-,pMGF 360-13L,20210305,-
+10497,41901073,MGF 360-14L,F8207_gp029,-,-,-,-,pMGF 360-14L,protein-coding,-,-,-,pMGF 360-14L,20210305,-
+10497,41901074,MGF 505-2R,F8207_gp030,-,-,-,-,pMGF 505-2R,protein-coding,-,-,-,pMGF 505-2R,20210305,-
+10497,41901075,MGF 505-3R,F8207_gp031,-,-,-,-,pMGF 505-3R,protein-coding,-,-,-,pMGF 505-3R,20210305,-
+10497,41901076,MGF 505-4R,F8207_gp032,-,-,-,-,pMGF 505-4R,protein-coding,-,-,-,pMGF 505-4R,20210305,-
+10497,41901077,MGF 505-5R,F8207_gp033,-,-,-,-,pMGF 505-5R,protein-coding,-,-,-,pMGF 505-5R,20210305,-
+10497,41901078,MGF 505-7R,F8207_gp034,-,-,-,-,pMGF 505-7R,protein-coding,-,-,-,pMGF 505-7R,20210305,-
+10497,41901079,MGF 505-8R,F8207_gp035,-,-,-,-,pMGF 505-8R,protein-coding,-,-,-,pMGF 505-8R,20210305,-
+10497,41901080,MGF 505-9R,F8207_gp036,-,-,-,-,pMGF 505-9R,protein-coding,-,-,-,pMGF 505-9R,20210305,-
+10497,41901081,MGF 505-10R,F8207_gp037,-,-,-,-,pMGF 505-10R,protein-coding,-,-,-,pMGF 505-10R,20210305,-
+10497,41901082,A224L,F8207_gp038,-,-,-,-,IAP-like protein,protein-coding,-,-,-,IAP-like protein,20210305,-
+10497,41901083,A104R,F8207_gp039,-,-,-,-,histone-like protein,protein-coding,-,-,-,histone-like protein,20210305,-
+10497,41901084,A240L,F8207_gp040,-,-,-,-,thymidylate kinase,protein-coding,-,-,-,thymidylate kinase,20210305,-
+10497,41901085,A118R,F8207_gp041,-,-,-,-,pA118R,protein-coding,-,-,-,pA118R,20210305,-
+10497,41901086,A151R,F8207_gp042,-,-,-,-,pA151R,protein-coding,-,-,-,pA151R,20210305,-
+10497,41901087,MGF 360-15R,F8207_gp043,-,-,-,-,pMGF 360-15R,protein-coding,-,-,-,pMGF 360-15R,20210305,-
+10497,41901088,A238L,F8207_gp044,-,-,-,-,IkB-like protein,protein-coding,-,-,-,IkB-like protein,20210305,-
+10497,41901089,A859L,F8207_gp045,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901090,A179L,F8207_gp046,-,-,-,-,Bcl-2-like protein,protein-coding,-,-,-,Bcl-2-like protein,20210305,-
+10497,41901091,A137R,F8207_gp047,-,-,-,-,structural protein p11.5,protein-coding,-,-,-,structural protein p11.5,20210305,-
+10497,41901092,F317L,F8207_gp048,-,-,-,-,pF317L,protein-coding,-,-,-,pF317L,20210305,-
+10497,41901093,F334L,F8207_gp049,-,-,-,-,ribonucleotide reductase small subunit,protein-coding,-,-,-,ribonucleotide reductase small subunit,20210305,-
+10497,41901094,F778R,F8207_gp050,-,-,-,-,ribonucleotide reductase large subunit,protein-coding,-,-,-,ribonucleotide reductase large subunit,20210305,-
+10497,41901095,F165R,F8207_gp051,-,-,-,-,pF165R,protein-coding,-,-,-,pF165R,20210305,-
+10497,41901096,F1055L,F8207_gp052,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901097,K205R,F8207_gp053,-,-,-,-,pK205R,protein-coding,-,-,-,pK205R,20210305,-
+10497,41901098,K78R,F8207_gp054,-,-,-,-,structural protein p10,protein-coding,-,-,-,structural protein p10,20210305,-
+10497,41901099,K196R,F8207_gp055,-,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210305,-
+10497,41901100,K145R,F8207_gp056,-,-,-,-,pK145R,protein-coding,-,-,-,pK145R,20210305,-
+10497,41901101,K421R,F8207_gp057,-,-,-,-,pK421R,protein-coding,-,-,-,pK421R,20210305,-
+10497,41901102,EP1242L,F8207_gp058,-,-,-,-,RNA polymerase subunit 2,protein-coding,-,-,-,RNA polymerase subunit 2,20210305,-
+10497,41901103,EP84R,F8207_gp059,-,-,-,-,pEP84R,protein-coding,-,-,-,pEP84R,20210305,-
+10497,41901104,EP424R,F8207_gp060,-,-,-,-,pEP424R,protein-coding,-,-,-,pEP424R,20210305,-
+10497,41901105,EP152R,F8207_gp061,-,-,-,-,pEP152R,protein-coding,-,-,-,pEP152R,20210305,-
+10497,41901106,EP153R,F8207_gp062,-,-,-,-,C-lectin-like protein,protein-coding,-,-,-,C-lectin-like protein,20210305,-
+10497,41901107,EP402R,F8207_gp063,-,-,-,-,T-lymphocyte CD2 receptor-like protein,protein-coding,-,-,-,T-lymphocyte CD2 receptor-like protein,20201021,-
+10497,41901108,EP36R,F8207_gp064,-,-,-,-,pEP36R,protein-coding,-,-,-,pEP36R,20210305,-
+10497,41901109,M1107L,F8207_gp065,-,-,-,-,M1107L,protein-coding,-,-,-,M1107L,20201021,-
+10497,41901110,M110L,F8207_gp066,-,-,-,-,M110L,protein-coding,-,-,-,M110L,20201021,-
+10497,41901111,M448R,F8207_gp067,-,-,-,-,pM448R,protein-coding,-,-,-,pM448R,20210305,-
+10497,41901112,C129R,F8207_gp068,-,-,-,-,pC129R,protein-coding,-,-,-,pC129R,20210305,-
+10497,41901113,C84L,F8207_gp069,-,-,-,-,pC84L,protein-coding,-,-,-,pC84L,20210305,-
+10497,41901114,C717R,F8207_gp070,-,-,-,-,pC717R,protein-coding,-,-,-,pC717R,20210305,-
+10497,41901115,C122R,F8207_gp071,-,-,-,-,pC122R,protein-coding,-,-,-,pC122R,20210305,-
+10497,41901116,C257L,F8207_gp072,-,-,-,-,pC257L,protein-coding,-,-,-,pC257L,20210305,-
+10497,41901117,C475L,F8207_gp073,-,-,-,-,pC475L,protein-coding,-,-,-,pC475L,20210305,-
+10497,41901118,C315R,F8207_gp074,-,-,-,-,pC315R,protein-coding,-,-,-,pC315R,20210305,-
+10497,41901119,C147L,F8207_gp075,-,-,-,-,RNA polymerase subunit 6,protein-coding,-,-,-,RNA polymerase subunit 6,20210305,-
+10497,41901120,C62L,F8207_gp076,-,-,-,-,pC62L,protein-coding,-,-,-,pC62L,20210305,-
+10497,41901121,C962R,F8207_gp077,-,-,-,-,pC962R,protein-coding,-,-,-,pC962R,20210305,-
+10497,41901122,B962L,F8207_gp078,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901123,B119L,F8207_gp079,-,-,-,-,pB119L,protein-coding,-,-,-,pB119L,20210305,-
+10497,41901124,B318L,F8207_gp080,-,-,-,-,prenyltransferase,protein-coding,-,-,-,prenyltransferase,20210305,-
+10497,41901125,B438L,F8207_gp081,-,-,-,-,pB438L,protein-coding,-,-,-,pB438L,20210305,-
+10497,41901126,B169L,F8207_gp082,-,-,-,-,pB169L,protein-coding,-,-,-,pB169L,20210305,-
+10497,41901127,B475L,F8207_gp083,-,-,-,-,pB475L,protein-coding,-,-,-,pB475L,20210305,-
+10497,41901128,B354L,F8207_gp084,-,-,-,-,pB354L,protein-coding,-,-,-,pB354L,20210305,-
+10497,41901129,B602L,F8207_gp085,-,-,-,-,pB602L,protein-coding,-,-,-,pB602L,20210305,-
+10497,41901130,B385R,F8207_gp086,-,-,-,-,pB385R,protein-coding,-,-,-,pB385R,20210305,-
+10497,41901131,B646L,F8207_gp087,-,-,-,-,structural protein p72,protein-coding,-,-,-,structural protein p72,20210305,-
+10497,41901132,B125R,F8207_gp088,-,-,-,-,pB125R,protein-coding,-,-,-,pB125R,20210305,-
+10497,41901133,B117L,F8207_gp089,-,-,-,-,pB117L,protein-coding,-,-,-,pB117L,20210305,-
+10497,41901134,B407L,F8207_gp090,-,-,-,-,pB407L,protein-coding,-,-,-,pB407L,20210305,-
+10497,41901135,B175L,F8207_gp091,-,-,-,-,pB175L,protein-coding,-,-,-,pB175L,20210305,-
+10497,41901136,B263R,F8207_gp092,-,-,-,-,pB263R,protein-coding,-,-,-,pB263R,20210305,-
+10497,41901137,B66L,F8207_gp093,-,-,-,-,pB66L,protein-coding,-,-,-,pB66L,20210305,-
+10497,41901138,G1340L,F8207_gp094,-,-,-,-,pG1340L,protein-coding,-,-,-,pG1340L,20210305,-
+10497,41901139,G1211R,F8207_gp095,-,-,-,-,DNA polymerase alpha-like protein,protein-coding,-,-,-,DNA polymerase alpha-like protein,20210305,-
+10497,41901140,CP123L,F8207_gp096,-,-,-,-,pCP123L,protein-coding,-,-,-,pCP123L,20210305,-
+10497,41901141,CP2475L,F8207_gp097,-,-,-,-,220 kDa polyprotein,protein-coding,-,-,-,220 kDa polyprotein,20210305,-
+10497,41901142,CP204L,F8207_gp098,-,-,-,-,pCP204L,protein-coding,-,-,-,pCP204L,20210305,-
+10497,41901143,CP530R,F8207_gp099,-,-,-,-,60 kDa polyprotein,protein-coding,-,-,-,60 kDa polyprotein,20201021,-
+10497,41901144,CP80R,F8207_gp100,-,-,-,-,RNA polymerase subunit 10,protein-coding,-,-,-,RNA polymerase subunit 10,20210305,-
+10497,41901145,CP312R,F8207_gp101,-,-,-,-,pCP312R,protein-coding,-,-,-,pCP312R,20210305,-
+10497,41901146,O174L,F8207_gp102,-,-,-,-,DNA polymerase beta-like protein,protein-coding,-,-,-,DNA polymerase beta-like protein,20210305,-
+10497,41901147,O61R,F8207_gp103,-,-,-,-,structural protein p12,protein-coding,-,-,-,structural protein p12,20210305,-
+10497,41901148,NP1450L,F8207_gp104,-,-,-,-,RNA polymerase subunit 1,protein-coding,-,-,-,RNA polymerase subunit 1,20210305,-
+10497,41901149,NP419L,F8207_gp105,-,-,-,-,DNA ligase,protein-coding,-,-,-,DNA ligase,20210305,-
+10497,41901150,NP868R,F8207_gp106,-,-,-,-,guanylyltransferase,protein-coding,-,-,-,guanylyltransferase,20210305,-
+10497,41901151,D250R,F8207_gp107,-,-,-,-,8-hydroxy-dGTPase,protein-coding,-,-,-,8-hydroxy-dGTPase,20210305,-
+10497,41901152,D129L,F8207_gp108,-,-,-,-,pD129L,protein-coding,-,-,-,pD129L,20210305,-
+10497,41901153,D79L,F8207_gp109,-,-,-,-,pD79L,protein-coding,-,-,-,pD79L,20210305,-
+10497,41901154,D339L,F8207_gp110,-,-,-,-,pD339L,protein-coding,-,-,-,pD339L,20210305,-
+10497,41901155,D1133L,F8207_gp111,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901156,D117L,F8207_gp112,-,-,-,-,structural protein p17,protein-coding,-,-,-,structural protein p17,20210305,-
+10497,41901157,D205R,F8207_gp113,-,-,-,-,RNA polymerase subunit 5,protein-coding,-,-,-,RNA polymerase subunit 5,20210305,-
+10497,41901158,D345L,F8207_gp114,-,-,-,-,pD345L,protein-coding,-,-,-,pD345L,20210305,-
+10497,41901159,S183L,F8207_gp115,-,-,-,-,pS183L,protein-coding,-,-,-,pS183L,20210305,-
+10497,41901160,S273R,F8207_gp116,-,-,-,-,pS273R,protein-coding,-,-,-,pS273R,20210305,-
+10497,41901161,P1192R,F8207_gp117,-,-,-,-,topoisomerase II,protein-coding,-,-,-,topoisomerase II,20210305,-
+10497,41901162,H359L,F8207_gp118,-,-,-,-,RNA polymerase subunit 3,protein-coding,-,-,-,RNA polymerase subunit 3,20210305,-
+10497,41901163,H171R,F8207_gp119,-,-,-,-,pH171R,protein-coding,-,-,-,pH171R,20210305,-
+10497,41901164,H124R,F8207_gp120,-,-,-,-,pH124R,protein-coding,-,-,-,pH124R,20210305,-
+10497,41901165,H339R,F8207_gp121,-,-,-,-,pH339R,protein-coding,-,-,-,pH339R,20210305,-
+10497,41901166,H108R,F8207_gp122,-,-,-,-,pH108R,protein-coding,-,-,-,pH108R,20210305,-
+10497,41901167,H233R,F8207_gp123,-,-,-,-,pH233R,protein-coding,-,-,-,pH233R,20210305,-
+10497,41901168,H240R,F8207_gp124,-,-,-,-,pH240R,protein-coding,-,-,-,pH240R,20210305,-
+10497,41901169,R298L,F8207_gp125,-,-,-,-,serine protein kinase,protein-coding,-,-,-,serine protein kinase,20210417,-
+10497,41901170,Q706L,F8207_gp126,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901171,QP509L,F8207_gp127,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901172,QP383R,F8207_gp128,-,-,-,-,NifS-like protein,protein-coding,-,-,-,NifS-like protein,20210305,-
+10497,41901173,E184L,F8207_gp129,-,-,-,-,pE184L,protein-coding,-,-,-,pE184L,20210305,-
+10497,41901174,E183L,F8207_gp130,-,-,-,-,structural protein p54,protein-coding,-,-,-,structural protein p54,20210305,-
+10497,41901175,E423R,F8207_gp131,-,-,-,-,pE423R,protein-coding,-,-,-,pE423R,20210305,-
+10497,41901176,E301R,F8207_gp132,-,-,-,-,proliferating cell nuclear antigen-like protein,protein-coding,-,-,-,proliferating cell nuclear antigen-like protein,20210305,-
+10497,41901177,E146L,F8207_gp133,-,-,-,-,pE146L,protein-coding,-,-,-,pE146L,20210305,-
+10497,41901178,E199L,F8207_gp134,-,-,-,-,pE199L,protein-coding,-,-,-,pE199L,20201021,-
+10497,41901179,E165R,F8207_gp135,-,-,-,-,dUTPase,protein-coding,-,-,-,dUTPase,20210305,-
+10497,41901180,E248R,F8207_gp136,-,-,-,-,pE248R,protein-coding,-,-,-,pE248R,20210305,-
+10497,41901181,E120R,F8207_gp137,-,-,-,-,structural protein p14.5,protein-coding,-,-,-,structural protein p14.5,20210305,-
+10497,41901182,E296R,F8207_gp138,-,-,-,-,AP endonuclease class II,protein-coding,-,-,-,AP endonuclease class II,20210305,-
+10497,41901183,E111R,F8207_gp139,-,-,-,-,pE111R,protein-coding,-,-,-,pE111R,20210305,-
+10497,41901184,E66L,F8207_gp140,-,-,-,-,pE66L,protein-coding,-,-,-,pE66L,20210305,-
+10497,41901185,I267L,F8207_gp141,-,-,-,-,pI267L,protein-coding,-,-,-,pI267L,20210305,-
+10497,41901186,I226R,F8207_gp142,-,-,-,-,pI226R,protein-coding,-,-,-,pI226R,20210305,-
+10497,41901187,I243L,F8207_gp143,-,-,-,-,transcription factor SII-like protein,protein-coding,-,-,-,transcription factor SII-like protein,20210305,-
+10497,41901188,I73R,F8207_gp144,-,-,-,-,pI73R,protein-coding,-,-,-,pI73R,20210305,-
+10497,41901189,I329L,F8207_gp145,-,-,-,-,pI329L,protein-coding,-,-,-,pI329L,20210305,-
+10497,41901190,I215L,F8207_gp146,-,-,-,-,ubiquitin-conjugation enzyme,protein-coding,-,-,-,ubiquitin-conjugation enzyme,20210305,-
+10497,41901191,I177L,F8207_gp147,-,-,-,-,pI177L,protein-coding,-,-,-,pI177L,20210305,-
+10497,41901192,I196L,F8207_gp148,-,-,-,-,pI196L,protein-coding,-,-,-,pI196L,20210305,-
+10497,41901193,DP238L,F8207_gp149,-,-,-,-,pDP238L,protein-coding,-,-,-,pDP238L,20210305,-
+10497,41901194,MGF 360-16R,F8207_gp150,-,-,-,-,pMGF 360-16R,protein-coding,-,-,-,pMGF 360-16R,20201021,-
+10497,41901195,MGF 505-11L,F8207_gp151,-,-,-,-,pMGF 505-11L,protein-coding,-,-,-,pMGF 505-11L,20210305,-
+10497,41901196,MGF 100-2L,F8207_gp152,-,-,-,-,pMGF 100-2L,protein-coding,-,-,-,pMGF 100-2L,20210305,-
+10497,41901197,MGF 100-3L,F8207_gp153,-,-,-,-,pMGF 100-3L,protein-coding,-,-,-,pMGF 100-3L,20210305,-
+10497,41901198,I7L,F8207_gp154,-,-,-,-,pI7L,protein-coding,-,-,-,pI7L,20210305,-
+10497,41901199,I8L,F8207_gp155,-,-,-,-,pI8L,protein-coding,-,-,-,pI8L,20210305,-
+10497,41901200,I9R,F8207_gp156,-,-,-,-,pI9R,protein-coding,-,-,-,pI9R,20201021,-
+10497,41901201,I10L,F8207_gp157,-,-,-,-,structural protein p22,protein-coding,-,-,-,structural protein p22,20210305,-
+10497,41901202,L11L,F8207_gp158,-,-,-,-,pL11L,protein-coding,-,-,-,pL11L,20210305,-
+10497,41901203,MGF 360-18R,F8207_gp159,-,-,-,-,pMGF 360-18R,protein-coding,-,-,-,pMGF 360-18R,20210305,-
+10497,41901204,DP71L,F8207_gp160,-,-,-,-,pDP71L,protein-coding,-,-,-,pDP71L,20210305,-
+10497,41901205,DP96R,F8207_gp161,-,-,-,-,pDP96R,protein-coding,-,-,-,pDP96R,20210305,-
+10497,41901206,MGF 360-19R,F8207_gp162,-,-,-,-,pMGF 360-19R,protein-coding,-,-,-,pMGF 360-19R,20201217,-
+10497,41901207,DP60R,F8207_gp163,-,-,-,-,pDP60R,protein-coding,-,-,-,pDP60R,20210305,-
+10497,41901208,KP86R,F8207_gp001,-,-,-,-,pKP86R,protein-coding,-,-,-,pKP86R,20210305,-
+10497,41901210,BA71-KP93L,F8208_gp002,-,-,-,-,pBA71-KP93L,protein-coding,-,-,-,pBA71-KP93L,20210305,-
+10497,41901211,KP360L,F8208_gp003,-,-,-,-,pKP360L,protein-coding,-,-,-,pKP360L,20210305,-
+10497,41901212,KP362L,F8208_gp004,-,-,-,-,pKP362L,protein-coding,-,-,-,pKP362L,20210305,-
+10497,41901213,KP177R,F8208_gp005,-,-,-,-,pKP177R,protein-coding,-,-,-,pKP177R,20210305,-
+10497,41901214,L83L,F8208_gp006,-,-,-,-,pL83L,protein-coding,-,-,-,pL83L,20210305,-
+10497,41901215,BA71-L57L,F8208_gp007,-,-,-,-,pBA71-L57L,protein-coding,-,-,-,pBA71-L57L,20210305,-
+10497,41901216,BA71-L356L,F8208_gp008,-,-,-,-,pBA71-L356L,protein-coding,-,-,-,pBA71-L356L,20201021,-
+10497,41901217,BA71-L270L,F8208_gp009,-,-,-,-,pBA71-L270L,protein-coding,-,-,-,pBA71-L270L,20210305,-
+10497,41901218,BA71-U104L,F8208_gp010,-,-,-,-,pBA71-U104L,protein-coding,-,-,-,pBA71-U104L,20201021,-
+10497,41901219,XP124L,F8208_gp011,-,-,-,-,pXP124L,protein-coding,-,-,-,pXP124L,20210305,-
+10497,41901220,V82L,F8208_gp012,-,-,-,-,pV82L,protein-coding,-,-,-,pV82L,20210305,-
+10497,41901221,Y118L,F8208_gp013,-,-,-,-,pY118L,protein-coding,-,-,-,pY118L,20210305,-
+10497,41901222,J268L,F8208_gp014,-,-,-,-,pJ268L,protein-coding,-,-,-,pJ268L,20210305,-
+10497,41901223,J64R,F8208_gp015,-,-,-,-,J64R,protein-coding,-,-,-,J64R,20210305,-
+10497,41901224,BA71-J154R,F8208_gp016,-,-,-,-,pBA71-J154R,protein-coding,-,-,-,pBA71-J154R,20210305,-
+10497,41901225,J328L,F8208_gp017,-,-,-,-,pJ328L,protein-coding,-,-,-,pJ328L,20210305,-
+10497,41901226,J319L,F8208_gp018,-,-,-,-,pJ319L,protein-coding,-,-,-,pJ319L,20210305,-
+10497,41901227,BA71-A125L,F8208_gp019,-,-,-,-,pBA71-A125L,protein-coding,-,-,-,pBA71-A125L,20210305,-
+10497,41901228,BA71-A356L,F8208_gp020,-,-,-,-,pBA71-A356L,protein-coding,-,-,-,pBA71-A356L,20210305,-
+10497,41901229,BA71-A353LA,F8208_gp021,-,-,-,-,pBA71-A353LA,protein-coding,-,-,-,pBA71-A353LA,20210305,-
+10497,41901230,BA71-A531R,F8208_gp022,-,-,-,-,pBA71-A531R,protein-coding,-,-,-,pBA71-A531R,20210305,-
+10497,41901231,BA71-A350L,F8208_gp023,-,-,-,-,pBA71-A350L,protein-coding,-,-,-,pBA71-A350L,20201217,-
+10497,41901232,BA71-A353LB,F8208_gp024,-,-,-,-,pBA71-A353LB,protein-coding,-,-,-,pBA71-A353LB,20210305,-
+10497,41901233,BA71-A357L,F8208_gp025,-,-,-,-,pBA71-A357L,protein-coding,-,-,-,pBA71-A357L,20210305,-
+10497,41901234,BA71-A489R,F8208_gp026,-,-,-,-,pBA71-A489R,protein-coding,-,-,-,pBA71-A489R,20210305,-
+10497,41901235,A280R,F8208_gp027,-,-,-,-,pA280R,protein-coding,-,-,-,pA280R,20210305,-
+10497,41901236,A505R,F8208_gp028,-,-,-,-,pA505R,protein-coding,-,-,-,pA505R,20210305,-
+10497,41901237,A498R,F8208_gp029,-,-,-,-,pA498R,protein-coding,-,-,-,pA498R,20210305,-
+10497,41901238,BA71-A528R,F8208_gp030,-,-,-,-,pBA71-A528R,protein-coding,-,-,-,pBA71-A528R,20210305,-
+10497,41901239,BA71-A469R,F8208_gp031,-,-,-,-,pBA71-A469R,protein-coding,-,-,-,pBA71-A469R,20201021,-
+10497,41901240,BA71-A506R,F8208_gp032,-,-,-,-,pBA71-A506R,protein-coding,-,-,-,pBA71-A506R,20210305,-
+10497,41901241,A542R,F8208_gp033,-,-,-,-,pA542R,protein-coding,-,-,-,pA542R,20210305,-
+10497,41901242,A224L,F8208_gp034,-,-,-,-,pA224L,protein-coding,-,-,-,pA224L,20210305,-
+10497,41901243,A104R,F8208_gp035,-,-,-,-,pA104R,protein-coding,-,-,-,pA104R,20210305,-
+10497,41901244,BA71-A240L,F8208_gp036,-,-,-,-,pBA71-A240L,protein-coding,-,-,-,pBA71-A240L,20210417,-
+10497,41901245,A118R,F8208_gp037,-,-,-,-,pA118R,protein-coding,-,-,-,pA118R,20210305,-
+10497,41901246,A151R,F8208_gp038,-,-,-,-,pA151R,protein-coding,-,-,-,pA151R,20210305,-
+10497,41901247,A276R,F8208_gp039,-,-,-,-,pA276R,protein-coding,-,-,-,pA276R,20210305,-
+10497,41901248,BA71-A238L,F8208_gp040,-,-,-,-,pA238L,protein-coding,-,-,-,pA238L,20210305,-
+10497,41901249,A859L,F8208_gp041,-,-,-,-,pA859L,protein-coding,-,-,-,pA859L,20210305,-
+10497,41901250,A179L,F8208_gp042,-,-,-,-,pA179L,protein-coding,-,-,-,pA179L,20210305,-
+10497,41901251,A137R,F8208_gp043,-,-,-,-,pA137R,protein-coding,-,-,-,pA137R,20210305,-
+10497,41901252,F317L,F8208_gp044,-,-,-,-,pF317L,protein-coding,-,-,-,pF317L,20210305,-
+10497,41901253,BA71-F334L,F8208_gp045,-,-,-,-,pBA71-F334L,protein-coding,-,-,-,pBA71-F334L,20210305,-
+10497,41901254,F778R,F8208_gp046,-,-,-,-,pF778R,protein-coding,-,-,-,pF778R,20210305,-
+10497,41901255,F165R,F8208_gp047,-,-,-,-,pF165R,protein-coding,-,-,-,pF165R,20210305,-
+10497,41901256,F1055L,F8208_gp048,-,-,-,-,pF1055L,protein-coding,-,-,-,pF1055L,20210305,-
+10497,41901257,K205R,F8208_gp049,-,-,-,-,pK205R,protein-coding,-,-,-,pK205R,20210305,-
+10497,41901258,K78R,F8208_gp050,-,-,-,-,pK78R,protein-coding,-,-,-,pK78R,20210305,-
+10497,41901259,K196R,F8208_gp051,-,-,-,-,pK196R,protein-coding,-,-,-,pK196R,20210305,-
+10497,41901260,K145R,F8208_gp052,-,-,-,-,pK145R,protein-coding,-,-,-,pK145R,20210305,-
+10497,41901261,K421R,F8208_gp053,-,-,-,-,pK421R,protein-coding,-,-,-,pK421R,20210305,-
+10497,41901262,BA71-EP1242L,F8208_gp054,-,-,-,-,pBA71-EP1242L,protein-coding,-,-,-,pBA71-EP1242L,20210305,-
+10497,41901263,EP84R,F8208_gp055,-,-,-,-,pEP84R,protein-coding,-,-,-,pEP84R,20210305,-
+10497,41901264,EP424R,F8208_gp056,-,-,-,-,pEP424R,protein-coding,-,-,-,pEP424R,20210305,-
+10497,41901265,EP152R,F8208_gp057,-,-,-,-,pEP152R,protein-coding,-,-,-,pEP152R,20210305,-
+10497,41901266,EP153R,F8208_gp058,-,-,-,-,pEP153R,protein-coding,-,-,-,pEP153R,20210305,-
+10497,41901267,BA71-EP402R,F8208_gp059,-,-,-,-,pBA71-EP402R,protein-coding,-,-,-,pBA71-EP402R,20201021,-
+10497,41901268,EP364R,F8208_gp060,-,-,-,-,pEP364R,protein-coding,-,-,-,pEP364R,20210305,-
+10497,41901269,BA71-M1249L,F8208_gp061,-,-,-,-,pBA71-M1249L,protein-coding,-,-,-,pBA71-M1249L,20201021,-
+10497,41901270,M448R,F8208_gp062,-,-,-,-,pM448R,protein-coding,-,-,-,pM448R,20210305,-
+10497,41901271,C129R,F8208_gp063,-,-,-,-,pC129R,protein-coding,-,-,-,pC129R,20210305,-
+10497,41901272,C84L,F8208_gp064,-,-,-,-,pC84L,protein-coding,-,-,-,pC84L,20210305,-
+10497,41901273,C717R,F8208_gp065,-,-,-,-,pC717R,protein-coding,-,-,-,pC717R,20210305,-
+10497,41901274,C105R,F8208_gp066,-,-,-,-,pC105R,protein-coding,-,-,-,pC105R,20210305,-
+10497,41901275,BA71-C257L,F8208_gp067,-,-,-,-,pBA71-C257L,protein-coding,-,-,-,pBA71-C257L,20210305,-
+10497,41901276,C475L,F8208_gp068,-,-,-,-,pC475L,protein-coding,-,-,-,pC475L,20210305,-
+10497,41901277,C315R,F8208_gp069,-,-,-,-,pC315R,protein-coding,-,-,-,pC315R,20210305,-
+10497,41901278,C147L,F8208_gp070,-,-,-,-,pC147L,protein-coding,-,-,-,pC147L,20210305,-
+10497,41901279,C62L,F8208_gp071,-,-,-,-,pC62L,protein-coding,-,-,-,pC62L,20210305,-
+10497,41901280,C962R,F8208_gp072,-,-,-,-,pC962R,protein-coding,-,-,-,pC962R,20210305,-
+10497,41901281,BA71-B962L,F8208_gp073,-,-,-,-,pBA71-B962L,protein-coding,-,-,-,pBA71-B962L,20210305,-
+10497,41901282,B119L,F8208_gp074,-,-,-,-,pB119L,protein-coding,-,-,-,pB119L,20210305,-
+10497,41901283,B318L,F8208_gp075,-,-,-,-,pB318L,protein-coding,-,-,-,pB318L,20210305,-
+10497,41901284,B438L,F8208_gp076,-,-,-,-,pB438L,protein-coding,-,-,-,pB438L,20210305,-
+10497,41901285,B169L,F8208_gp077,-,-,-,-,pB169L,protein-coding,-,-,-,pB169L,20210305,-
+10497,41901286,B475L,F8208_gp078,-,-,-,-,pB475L,protein-coding,-,-,-,pB475L,20210305,-
+10497,41901287,B354L,F8208_gp079,-,-,-,-,pB354L,protein-coding,-,-,-,pB354L,20210305,-
+10497,41901288,BA71-B602L,F8208_gp080,-,-,-,-,pBA71-B602L,protein-coding,-,-,-,pBA71-B602L,20201021,-
+10497,41901289,B385R,F8208_gp081,-,-,-,-,pB385R,protein-coding,-,-,-,pB385R,20210305,-
+10497,41901290,B646L,F8208_gp082,-,-,-,-,pB646L,protein-coding,-,-,-,pB646L,20210305,-
+10497,41901291,B125R,F8208_gp083,-,-,-,-,pB125R,protein-coding,-,-,-,pB125R,20210305,-
+10497,41901292,B117L,F8208_gp084,-,-,-,-,pB117L,protein-coding,-,-,-,pB117L,20210305,-
+10497,41901293,B407L,F8208_gp085,-,-,-,-,pB407L,protein-coding,-,-,-,pB407L,20210305,-
+10497,41901294,B175L,F8208_gp086,-,-,-,-,pB175L,protein-coding,-,-,-,pB175L,20210305,-
+10497,41901295,B263R,F8208_gp087,-,-,-,-,pB263R,protein-coding,-,-,-,pB263R,20210305,-
+10497,41901296,B66L,F8208_gp088,-,-,-,-,pB66L,protein-coding,-,-,-,pB66L,20210305,-
+10497,41901297,G1340L,F8208_gp089,-,-,-,-,pG1340L,protein-coding,-,-,-,pG1340L,20210305,-
+10497,41901298,BA71-G1211R,F8208_gp090,-,-,-,-,pBA71-G1211R,protein-coding,-,-,-,pBA71-G1211R,20210305,-
+10497,41901299,CP123L,F8208_gp091,-,-,-,-,pCP123L,protein-coding,-,-,-,pCP123L,20210305,-
+10497,41901300,CP2745L,F8208_gp092,-,-,-,-,pCP2745L,protein-coding,-,-,-,pCP2745L,20210305,-
+10497,41901301,BA71-CP204L,F8208_gp093,-,-,-,-,pBA71-CP204L,protein-coding,-,-,-,pBA71-CP204L,20210305,-
+10497,41901302,CP530R,F8208_gp094,-,-,-,-,pCP530R,protein-coding,-,-,-,pCP530R,20210305,-
+10497,41901303,BA71-CP80R,F8208_gp095,-,-,-,-,pBA71-CP80R,protein-coding,-,-,-,pBA71-CP80R,20201021,-
+10497,41901304,CP312R,F8208_gp096,-,-,-,-,pCP312R,protein-coding,-,-,-,pCP312R,20210305,-
+10497,41901305,O174L,F8208_gp097,-,-,-,-,pO174L,protein-coding,-,-,-,pO174L,20210305,-
+10497,41901306,O61R,F8208_gp098,-,-,-,-,pO61R,protein-coding,-,-,-,pO61R,20210305,-
+10497,41901307,BA71-NP1450L,F8208_gp099,-,-,-,-,pBA71-NP1450L,protein-coding,-,-,-,pBA71-NP1450L,20210305,-
+10497,41901308,NP419L,F8208_gp100,-,-,-,-,pNP419L,protein-coding,-,-,-,pNP419L,20210305,-
+10497,41901309,BA71-NP868R,F8208_gp101,-,-,-,-,pBA71-NP868R,protein-coding,-,-,-,pBA71-NP868R,20210417,-
+10497,41901310,BA71-D250R,F8208_gp102,-,-,-,-,pBA71-D250R,protein-coding,-,-,-,pBA71-D250R,20210305,-
+10497,41901311,D129L,F8208_gp103,-,-,-,-,pD129L,protein-coding,-,-,-,pD129L,20210305,-
+10497,41901312,D79L,F8208_gp104,-,-,-,-,pD79L,protein-coding,-,-,-,pD79L,20210305,-
+10497,41901313,D339L,F8208_gp105,-,-,-,-,pD339L,protein-coding,-,-,-,pD339L,20210305,-
+10497,41901314,D1133L,F8208_gp106,-,-,-,-,pD1133L,protein-coding,-,-,-,pD1133L,20210305,-
+10497,41901315,D117L,F8208_gp107,-,-,-,-,pD117L,protein-coding,-,-,-,pD117L,20210305,-
+10497,41901316,D205R,F8208_gp108,-,-,-,-,pD205R,protein-coding,-,-,-,pD205R,20210305,-
+10497,41901317,D345L,F8208_gp109,-,-,-,-,pD345L,protein-coding,-,-,-,pD345L,20210305,-
+10497,41901318,S183L,F8208_gp110,-,-,-,-,pS183L,protein-coding,-,-,-,pS183L,20210305,-
+10497,41901319,BA71-S273R,F8208_gp111,-,-,-,-,pS273R,protein-coding,-,-,-,pS273R,20210305,-
+10497,41901320,P1192R,F8208_gp112,-,-,-,-,pP1192R,protein-coding,-,-,-,pP1192R,20210305,-
+10497,41901321,H359L,F8208_gp113,-,-,-,-,pH359L,protein-coding,-,-,-,pH359L,20210305,-
+10497,41901322,H171R,F8208_gp114,-,-,-,-,pH171R,protein-coding,-,-,-,pH171R,20210305,-
+10497,41901323,H124R,F8208_gp115,-,-,-,-,pH124R,protein-coding,-,-,-,pH124R,20210305,-
+10497,41901324,H339R,F8208_gp116,-,-,-,-,pH339R,protein-coding,-,-,-,pH339R,20210305,-
+10497,41901325,H108R,F8208_gp117,-,-,-,-,pH108R,protein-coding,-,-,-,pH108R,20210305,-
+10497,41901326,H233R,F8208_gp118,-,-,-,-,pH233R,protein-coding,-,-,-,pH233R,20210305,-
+10497,41901327,H240R,F8208_gp119,-,-,-,-,pH240R,protein-coding,-,-,-,pH240R,20210305,-
+10497,41901328,R298L,F8208_gp120,-,-,-,-,pR298L,protein-coding,-,-,-,pR298L,20210417,-
+10497,41901329,Q706L,F8208_gp121,-,-,-,-,pQ706L,protein-coding,-,-,-,pQ706L,20210305,-
+10497,41901330,QP509L,F8208_gp122,-,-,-,-,pQP509L,protein-coding,-,-,-,pQP509L,20210305,-
+10497,41901331,QP383R,F8208_gp123,-,-,-,-,pQP383R,protein-coding,-,-,-,pQP383R,20210305,-
+10497,41901332,E184L,F8208_gp124,-,-,-,-,pE184L,protein-coding,-,-,-,pE184L,20210305,-
+10497,41901333,BA71-E183L,F8208_gp125,-,-,-,-,pBA71-E183L,protein-coding,-,-,-,pBA71-E183L,20201021,-
+10497,41901334,E423R,F8208_gp126,-,-,-,-,pE423R,protein-coding,-,-,-,pE423R,20210305,-
+10497,41901335,E301R,F8208_gp127,-,-,-,-,pE301R,protein-coding,-,-,-,pE301R,20210305,-
+10497,41901336,E146L,F8208_gp128,-,-,-,-,pE146L,protein-coding,-,-,-,pE146L,20210305,-
+10497,41901337,E199L,F8208_gp129,-,-,-,-,pE199L,protein-coding,-,-,-,pE199L,20210305,-
+10497,41901338,E165R,F8208_gp130,-,-,-,-,pE165R,protein-coding,-,-,-,pE165R,20210305,-
+10497,41901339,E248R,F8208_gp131,-,-,-,-,pE248R,protein-coding,-,-,-,pE248R,20210305,-
+10497,41901340,BA71-E120R,F8208_gp132,-,-,-,-,pBA71-E120R,protein-coding,-,-,-,pBA71-E120R,20210305,-
+10497,41901341,E296R,F8208_gp133,-,-,-,-,pE296R,protein-coding,-,-,-,pE296R,20210305,-
+10497,41901342,BA71-E111R,F8208_gp134,-,-,-,-,pBA71-E111R,protein-coding,-,-,-,pBA71-E111R,20210305,-
+10497,41901343,E66L,F8208_gp135,-,-,-,-,pE66L,protein-coding,-,-,-,pE66L,20210305,-
+10497,41901344,I267L,F8208_gp136,-,-,-,-,pI267L,protein-coding,-,-,-,pI267L,20210305,-
+10497,41901345,I226R,F8208_gp137,-,-,-,-,pI226R,protein-coding,-,-,-,pI226R,20210305,-
+10497,41901346,I243L,F8208_gp138,-,-,-,-,pI243L,protein-coding,-,-,-,pI243L,20210305,-
+10497,41901347,I73R,F8208_gp139,-,-,-,-,pI73R,protein-coding,-,-,-,pI73R,20210305,-
+10497,41901348,I329L,F8208_gp140,-,-,-,-,pI329L,protein-coding,-,-,-,pI329L,20210305,-
+10497,41901349,I215L,F8208_gp141,-,-,-,-,pI215L,protein-coding,-,-,-,pI215L,20210305,-
+10497,41901350,I177L,F8208_gp142,-,-,-,-,pI177L,protein-coding,-,-,-,pI177L,20210305,-
+10497,41901351,I196L,F8208_gp143,-,-,-,-,pI196L,protein-coding,-,-,-,pI196L,20210305,-
+10497,41901352,DP238L,F8208_gp144,-,-,-,-,pDP238L,protein-coding,-,-,-,pDP238L,20210305,-
+10497,41901353,BA71-DP311R,F8208_gp145,-,-,-,-,pBA71-DP311R,protein-coding,-,-,-,pBA71-DP311R,20201021,-
+10497,41901354,DP542L,F8208_gp146,-,-,-,-,pDP542L,protein-coding,-,-,-,pDP542L,20210305,-
+10497,41901355,DP141L,F8208_gp147,-,-,-,-,pDP141L,protein-coding,-,-,-,pDP141L,20210305,-
+10497,41901356,DP146L,F8208_gp148,-,-,-,-,pDP146L,protein-coding,-,-,-,pDP146L,20210305,-
+10497,41901357,BA71-M102L,F8208_gp149,-,-,-,-,pBA71-M102L,protein-coding,-,-,-,pBA71-M102L,20210305,-
+10497,41901358,BA71-M103L,F8208_gp150,-,-,-,-,pBA71-M103L,protein-coding,-,-,-,pBA71-M103L,20210305,-
+10497,41901359,BA71-M98R,F8208_gp151,-,-,-,-,pBA71-M98R,protein-coding,-,-,-,pBA71-M98R,20210305,-
+10497,41901360,BA71-J170L,F8208_gp152,-,-,-,-,pBA71-J170L,protein-coding,-,-,-,pBA71-J170L,20210305,-
+10497,41901361,BA71-J93L,F8208_gp153,-,-,-,-,pBA71-J93L,protein-coding,-,-,-,pBA71-J93L,20210305,-
+10497,41901362,BA71-DP148R,F8208_gp154,-,-,-,-,pBA71-DP148R,protein-coding,-,-,-,pBA71-DP148R,20210305,-
+10497,41901363,DP71L,F8208_gp155,-,-,-,-,pDP71L,protein-coding,-,-,-,pDP71L,20210305,-
+10497,41901364,DP96R,F8208_gp156,-,-,-,-,pDP96R,protein-coding,-,-,-,pDP96R,20210305,-
+10497,41901365,DP363R,F8208_gp157,-,-,-,-,pDP363R,protein-coding,-,-,-,pDP363R,20210305,-
+10497,41901366,DP42R,F8208_gp158,-,-,-,-,pDP42R,protein-coding,-,-,-,pDP42R,20210305,-
+10497,41901367,DP60R,F8208_gp159,-,-,-,-,pDP60R,protein-coding,-,-,-,pDP60R,20210305,-
+10497,41901368,BA71-DP93R,F8208_gp160,-,-,-,-,pBA71-DP93R,protein-coding,-,-,-,pBA71-DP93R,20210305,-
+10497,41901369,BA71-DP86L,F8208_gp161,-,-,-,-,pBA71-DP86L,protein-coding,-,-,-,pBA71-DP86L,20210305,-
+10497,41901370,BA71-KP86R,F8208_gp001,-,-,-,-,pBA71-KP86R,protein-coding,-,-,-,pBA71-KP86R,20210305,-
+10497,41901372,KP93L,F8209_gp002,-,-,-,-,pKP93L,protein-coding,-,-,-,pKP93L,20210305,-
+10497,41901373,MGF 360-1L,F8209_gp003,-,-,-,-,pMGF 360-1L,protein-coding,-,-,-,pMGF 360-1L,20210305,-
+10497,41901374,MGF 360-2L,F8209_gp004,-,-,-,-,pMGF 360-2L,protein-coding,-,-,-,pMGF 360-2L,20210305,-
+10497,41901375,KP177R,F8209_gp005,-,-,-,-,structural protein P22,protein-coding,-,-,-,structural protein P22,20210305,-
+10497,41901376,L83L,F8209_gp006,-,-,-,-,pL83L,protein-coding,-,-,-,pL83L,20210305,-
+10497,41901377,L60L,F8209_gp007,-,-,-,-,pL60L,protein-coding,-,-,-,pL60L,20210305,-
+10497,41901378,MGF 360-3L,F8209_gp008,-,-,-,-,pMGF 360-3L,protein-coding,-,-,-,pMGF 360-3L,20210305,-
+10497,41901379,MGF 110-1L,F8209_gp009,-,-,-,-,pMGF 110-1L,protein-coding,-,-,-,pMGF 110-1L,20201217,-
+10497,41901380,MGF 110-2L,F8209_gp010,-,-,-,-,pMGF 110-2L,protein-coding,-,-,-,pMGF 110-2L,20201021,-
+10497,41901381,MGF 110-4L,F8209_gp011,-,-,-,-,pMGF 110-4L,protein-coding,-,-,-,pMGF 110-4L,20210305,-
+10497,41901382,MGF 110-5L,F8209_gp012,-,-,-,-,pMGF 110-5L,protein-coding,-,-,-,pMGF 110-5L,20201021,-
+10497,41901383,285L,F8209_gp013,-,-,-,-,p285L,protein-coding,-,-,-,p285L,20201021,-
+10497,41901384,86R,F8209_gp014,-,-,-,-,p86R,protein-coding,-,-,-,p86R,20201021,-
+10497,41901385,MGF 100-1R,F8209_gp015,-,-,-,-,pMGF 100-1R,protein-coding,-,-,-,pMGF 100-1R,20201021,-
+10497,41901386,MGF 110-9L,F8209_gp016,-,-,-,-,pMGF 110-9L,protein-coding,-,-,-,pMGF 110-9L,20201021,-
+10497,41901387,MGF 110-14L,F8209_gp017,-,-,-,-,pMGF 110-14L,protein-coding,-,-,-,pMGF 110-14L,20201217,-
+10497,41901388,MGF 360-4L,F8209_gp019,-,-,-,-,pMGF 360-4L,protein-coding,-,-,-,pMGF 360-4L,20210305,-
+10497,41901389,MGF 110-13L,F8209_gp018,-,-,-,-,pMGF 110-13L,protein-coding,-,-,-,pMGF 110-13L,20201217,-
+10497,41901390,X69R,F8209_gp020,-,-,-,-,pX69R,protein-coding,-,-,-,pX69R,20210305,-
+10497,41901391,MGF 300-1L,F8209_gp021,-,-,-,-,pMGF 300-1L,protein-coding,-,-,-,pMGF 300-1L,20210305,-
+10497,41901392,X64R,F8209_gp022,-,-,-,-,pX64R,protein-coding,-,-,-,pX64R,20210305,-
+10497,41901393,MGF 300-2R,F8209_gp023,-,-,-,-,pMGF 300-2R,protein-coding,-,-,-,pMGF 300-2R,20210305,-
+10497,41901394,MGF 300-4L,F8209_gp024,-,-,-,-,pMGF 300-4L,protein-coding,-,-,-,pMGF 300-4L,20210305,-
+10497,41901395,MGF 360-8L,F8209_gp025,-,-,-,-,pMGF 360-8L,protein-coding,-,-,-,pMGF 360-8L,20210305,-
+10497,41901396,MGF 360-9L,F8209_gp026,-,-,-,-,pMGF 360-9L,protein-coding,-,-,-,pMGF 360-9L,20201021,-
+10497,41901397,MGF 505-3R,F8209_gp027,-,-,-,-,pMGF 505-3R,protein-coding,-,-,-,pMGF 505-3R,20201021,-
+10497,41901398,MGF 505-4R,F8209_gp028,-,-,-,-,pMGF 505-4R,protein-coding,-,-,-,pMGF 505-4R,20210305,-
+10497,41901399,MGF 505-5R,F8209_gp029,-,-,-,-,pMGF 505-5R,protein-coding,-,-,-,pMGF 505-5R,20201021,-
+10497,41901400,MGF 505-7R,F8209_gp030,-,-,-,-,pMGF 505-7R,protein-coding,-,-,-,pMGF 505-7R,20210305,-
+10497,41901401,MGF 505-8R,F8209_gp031,-,-,-,-,pMGF 505-8R,protein-coding,-,-,-,pMGF 505-8R,20201021,-
+10497,41901402,MGF 505-9R,F8209_gp032,-,-,-,-,pMGF 505-9R,protein-coding,-,-,-,pMGF 505-9R,20210305,-
+10497,41901403,MGF 505-10R,F8209_gp033,-,-,-,-,pMGF 505-10R,protein-coding,-,-,-,pMGF 505-10R,20201021,-
+10497,41901404,A224L,F8209_gp034,-,-,-,-,IAP-like protein,protein-coding,-,-,-,IAP-like protein,20210305,-
+10497,41901405,A104R,F8209_gp035,-,-,-,-,histone-like protein,protein-coding,-,-,-,histone-like protein,20210305,-
+10497,41901406,A240L,F8209_gp036,-,-,-,-,thymidylate kinase,protein-coding,-,-,-,thymidylate kinase,20210305,-
+10497,41901407,A118R,F8209_gp037,-,-,-,-,pA118R,protein-coding,-,-,-,pA118R,20210305,-
+10497,41901408,A151R,F8209_gp038,-,-,-,-,pA151R,protein-coding,-,-,-,pA151R,20201021,-
+10497,41901409,MGF 360-15R,F8209_gp039,-,-,-,-,pMGF 360-15R,protein-coding,-,-,-,pMGF 360-15R,20210305,-
+10497,41901410,A238L,F8209_gp040,-,-,-,-,IkB-like protein,protein-coding,-,-,-,IkB-like protein,20210305,-
+10497,41901411,A859L,F8209_gp041,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901412,A179L,F8209_gp042,-,-,-,-,Bcl-2-like protein,protein-coding,-,-,-,Bcl-2-like protein,20210305,-
+10497,41901413,A137R,F8209_gp043,-,-,-,-,structural protein p11.5,protein-coding,-,-,-,structural protein p11.5,20210305,-
+10497,41901414,F317L,F8209_gp044,-,-,-,-,pF317L,protein-coding,-,-,-,pF317L,20210305,-
+10497,41901415,F334L,F8209_gp045,-,-,-,-,ribonucleotide reductase small subunit,protein-coding,-,-,-,ribonucleotide reductase small subunit,20210305,-
+10497,41901416,F778R,F8209_gp046,-,-,-,-,ribonucleotide reductase large subunit,protein-coding,-,-,-,ribonucleotide reductase large subunit,20210305,-
+10497,41901417,F165R,F8209_gp047,-,-,-,-,pF165R,protein-coding,-,-,-,pF165R,20210305,-
+10497,41901418,F1055L,F8209_gp048,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20201021,-
+10497,41901419,K205R,F8209_gp049,-,-,-,-,pK205R,protein-coding,-,-,-,pK205R,20210305,-
+10497,41901420,K78R,F8209_gp050,-,-,-,-,structural protein p10,protein-coding,-,-,-,structural protein p10,20210305,-
+10497,41901421,K196R,F8209_gp051,-,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210305,-
+10497,41901422,K145R,F8209_gp052,-,-,-,-,pK145R,protein-coding,-,-,-,pK145R,20210305,-
+10497,41901423,K421R,F8209_gp053,-,-,-,-,pK421R,protein-coding,-,-,-,pK421R,20210305,-
+10497,41901424,EP1242L,F8209_gp054,-,-,-,-,RNA polymerase subunit 2,protein-coding,-,-,-,RNA polymerase subunit 2,20210305,-
+10497,41901425,EP84R,F8209_gp055,-,-,-,-,pEP84R,protein-coding,-,-,-,pEP84R,20210305,-
+10497,41901426,EP424R,F8209_gp056,-,-,-,-,pEP424R,protein-coding,-,-,-,pEP424R,20210305,-
+10497,41901427,EP152R,F8209_gp057,-,-,-,-,pEP152R,protein-coding,-,-,-,pEP152R,20210305,-
+10497,41901428,EP153R,F8209_gp058,-,-,-,-,C-lectin-like protein,protein-coding,-,-,-,C-lectin-like protein,20210305,-
+10497,41901429,EP402R,F8209_gp059,-,-,-,-,T-lymphocyte CD2 receptor-like protein,protein-coding,-,-,-,T-lymphocyte CD2 receptor-like protein,20201021,-
+10497,41901430,EP36R,F8209_gp060,-,-,-,-,pEP36R,protein-coding,-,-,-,pEP36R,20210305,-
+10497,41901431,M1249L,F8209_gp061,-,-,-,-,pM1249L,protein-coding,-,-,-,pM1249L,20201220,-
+10497,41901432,M448R,F8209_gp062,-,-,-,-,pM448R,protein-coding,-,-,-,pM448R,20210305,-
+10497,41901433,C129R,F8209_gp063,-,-,-,-,pC129R,protein-coding,-,-,-,pC129R,20210305,-
+10497,41901434,C84L,F8209_gp064,-,-,-,-,pC84L,protein-coding,-,-,-,pC84L,20210305,-
+10497,41901435,C717R,F8209_gp065,-,-,-,-,pC717R,protein-coding,-,-,-,pC717R,20210305,-
+10497,41901436,C122R,F8209_gp066,-,-,-,-,pC122R,protein-coding,-,-,-,pC122R,20210305,-
+10497,41901437,C257L,F8209_gp067,-,-,-,-,pC257L,protein-coding,-,-,-,pC257L,20210305,-
+10497,41901438,C475L,F8209_gp068,-,-,-,-,pC475L,protein-coding,-,-,-,pC475L,20210305,-
+10497,41901439,C315R,F8209_gp069,-,-,-,-,pC315R,protein-coding,-,-,-,pC315R,20210305,-
+10497,41901440,C147L,F8209_gp070,-,-,-,-,RNA polymerase subunit 6,protein-coding,-,-,-,RNA polymerase subunit 6,20201217,-
+10497,41901441,C62L,F8209_gp071,-,-,-,-,pC62L,protein-coding,-,-,-,pC62L,20210305,-
+10497,41901442,C962R,F8209_gp072,-,-,-,-,pC962R,protein-coding,-,-,-,pC962R,20210305,-
+10497,41901443,B962L,F8209_gp073,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901444,B119L,F8209_gp074,-,-,-,-,pB119L,protein-coding,-,-,-,pB119L,20201021,-
+10497,41901445,B318L,F8209_gp075,-,-,-,-,prenyltransferase,protein-coding,-,-,-,prenyltransferase,20210305,-
+10497,41901446,B438L,F8209_gp076,-,-,-,-,pB438L,protein-coding,-,-,-,pB438L,20210305,-
+10497,41901447,B169L,F8209_gp077,-,-,-,-,pB169L,protein-coding,-,-,-,pB169L,20201021,-
+10497,41901448,B475L,F8209_gp078,-,-,-,-,pB475L,protein-coding,-,-,-,pB475L,20210305,-
+10497,41901449,B354L,F8209_gp079,-,-,-,-,pB354L,protein-coding,-,-,-,pB354L,20210305,-
+10497,41901450,B602L,F8209_gp080,-,-,-,-,pB602L,protein-coding,-,-,-,pB602L,20201217,-
+10497,41901451,B385R,F8209_gp081,-,-,-,-,pB385R,protein-coding,-,-,-,pB385R,20210305,-
+10497,41901452,B646L,F8209_gp082,-,-,-,-,structural protein p72,protein-coding,-,-,-,structural protein p72,20210305,-
+10497,41901453,B125R,F8209_gp083,-,-,-,-,pB125R,protein-coding,-,-,-,pB125R,20210305,-
+10497,41901454,B117L,F8209_gp084,-,-,-,-,pB117L,protein-coding,-,-,-,pB117L,20210305,-
+10497,41901455,B407L,F8209_gp085,-,-,-,-,pB407L,protein-coding,-,-,-,pB407L,20201021,-
+10497,41901456,B175L,F8209_gp086,-,-,-,-,pB175L,protein-coding,-,-,-,pB175L,20210305,-
+10497,41901457,B263R,F8209_gp087,-,-,-,-,pB263R,protein-coding,-,-,-,pB263R,20210305,-
+10497,41901458,B66L,F8209_gp088,-,-,-,-,pB66L,protein-coding,-,-,-,pB66L,20210305,-
+10497,41901459,G1340L,F8209_gp089,-,-,-,-,pG1340L,protein-coding,-,-,-,pG1340L,20210305,-
+10497,41901460,G1211R,F8209_gp090,-,-,-,-,DNA polymerase alpha-like protein,protein-coding,-,-,-,DNA polymerase alpha-like protein,20210305,-
+10497,41901461,CP123L,F8209_gp091,-,-,-,-,pCP123L,protein-coding,-,-,-,pCP123L,20210305,-
+10497,41901462,CP2475L,F8209_gp092,-,-,-,-,220 kDa polyprotein,protein-coding,-,-,-,220 kDa polyprotein,20210305,-
+10497,41901463,CP204L,F8209_gp093,-,-,-,-,pCP204L,protein-coding,-,-,-,pCP204L,20201021,-
+10497,41901464,CP530R,F8209_gp094,-,-,-,-,60 kDa polyprotein,protein-coding,-,-,-,60 kDa polyprotein,20210305,-
+10497,41901465,CP80R,F8209_gp095,-,-,-,-,RNA polymerase subunit 10,protein-coding,-,-,-,RNA polymerase subunit 10,20210305,-
+10497,41901466,CP312R,F8209_gp096,-,-,-,-,pCP312R,protein-coding,-,-,-,pCP312R,20201021,-
+10497,41901467,O174L,F8209_gp097,-,-,-,-,DNA polymerase beta-like protein,protein-coding,-,-,-,DNA polymerase beta-like protein,20210305,-
+10497,41901468,O61R,F8209_gp098,-,-,-,-,structural protein p12,protein-coding,-,-,-,structural protein p12,20210305,-
+10497,41901469,NP1450L,F8209_gp099,-,-,-,-,RNA polymerase subunit 1,protein-coding,-,-,-,RNA polymerase subunit 1,20210305,-
+10497,41901470,NP419L,F8209_gp100,-,-,-,-,DNA ligase,protein-coding,-,-,-,DNA ligase,20210305,-
+10497,41901471,NP868R,F8209_gp101,-,-,-,-,guanylyltransferase,protein-coding,-,-,-,guanylyltransferase,20201021,-
+10497,41901472,D250R,F8209_gp102,-,-,-,-,8-hydroxy-dGTPase,protein-coding,-,-,-,8-hydroxy-dGTPase,20210305,-
+10497,41901473,D129L,F8209_gp103,-,-,-,-,pD129L,protein-coding,-,-,-,pD129L,20210305,-
+10497,41901474,D79L,F8209_gp104,-,-,-,-,pD79L,protein-coding,-,-,-,pD79L,20210305,-
+10497,41901475,D339L,F8209_gp105,-,-,-,-,pD339L,protein-coding,-,-,-,pD339L,20210305,-
+10497,41901476,D1133L,F8209_gp106,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901477,D117L,F8209_gp107,-,-,-,-,structural protein p17,protein-coding,-,-,-,structural protein p17,20210305,-
+10497,41901478,D205R,F8209_gp108,-,-,-,-,RNA polymerase subunit 5,protein-coding,-,-,-,RNA polymerase subunit 5,20210305,-
+10497,41901479,D345L,F8209_gp109,-,-,-,-,pD345L,protein-coding,-,-,-,pD345L,20210305,-
+10497,41901480,S183L,F8209_gp110,-,-,-,-,pS183L,protein-coding,-,-,-,pS183L,20210305,-
+10497,41901481,S273R,F8209_gp111,-,-,-,-,pS273R,protein-coding,-,-,-,pS273R,20210305,-
+10497,41901482,P1192R,F8209_gp112,-,-,-,-,topoisomerase II,protein-coding,-,-,-,topoisomerase II,20210305,-
+10497,41901483,H359L,F8209_gp113,-,-,-,-,RNA polymerase subunit 3,protein-coding,-,-,-,RNA polymerase subunit 3,20210305,-
+10497,41901484,H171R,F8209_gp114,-,-,-,-,pH171R,protein-coding,-,-,-,pH171R,20210305,-
+10497,41901485,H124R,F8209_gp115,-,-,-,-,pH124R,protein-coding,-,-,-,pH124R,20210305,-
+10497,41901486,H339R,F8209_gp116,-,-,-,-,pH339R,protein-coding,-,-,-,pH339R,20210305,-
+10497,41901487,H108R,F8209_gp117,-,-,-,-,pH108R,protein-coding,-,-,-,pH108R,20210305,-
+10497,41901488,H233R,F8209_gp118,-,-,-,-,pH233R,protein-coding,-,-,-,pH233R,20210305,-
+10497,41901489,H240R,F8209_gp119,-,-,-,-,pH240R,protein-coding,-,-,-,pH240R,20210305,-
+10497,41901490,R298L,F8209_gp120,-,-,-,-,serine protein kinase,protein-coding,-,-,-,serine protein kinase,20210417,-
+10497,41901491,Q706L,F8209_gp121,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901492,QP509L,F8209_gp122,-,-,-,-,helicase,protein-coding,-,-,-,helicase,20210305,-
+10497,41901493,QP383R,F8209_gp123,-,-,-,-,NifS-like protein,protein-coding,-,-,-,NifS-like protein,20210305,-
+10497,41901494,E184L,F8209_gp124,-,-,-,-,pE184L,protein-coding,-,-,-,pE184L,20210305,-
+10497,41901495,E183L,F8209_gp125,-,-,-,-,structural protein p54,protein-coding,-,-,-,structural protein p54,20210305,-
+10497,41901496,E423R,F8209_gp126,-,-,-,-,pE423R,protein-coding,-,-,-,pE423R,20210305,-
+10497,41901497,E301R,F8209_gp127,-,-,-,-,proliferating cell nuclear antigen-like protein,protein-coding,-,-,-,proliferating cell nuclear antigen-like protein,20210305,-
+10497,41901498,E146L,F8209_gp128,-,-,-,-,pE146L,protein-coding,-,-,-,pE146L,20210305,-
+10497,41901499,E199L,F8209_gp129,-,-,-,-,pE199L,protein-coding,-,-,-,pE199L,20201021,-
+10497,41901500,E165R,F8209_gp130,-,-,-,-,dUTPase,protein-coding,-,-,-,dUTPase,20210305,-
+10497,41901501,E248R,F8209_gp131,-,-,-,-,pE248R,protein-coding,-,-,-,pE248R,20210305,-
+10497,41901502,E120R,F8209_gp132,-,-,-,-,structural protein p14.5,protein-coding,-,-,-,structural protein p14.5,20201021,-
+10497,41901503,E296R,F8209_gp133,-,-,-,-,AP endonuclease class II,protein-coding,-,-,-,AP endonuclease class II,20210305,-
+10497,41901504,E111R,F8209_gp134,-,-,-,-,pE111R,protein-coding,-,-,-,pE111R,20210305,-
+10497,41901505,E66L,F8209_gp135,-,-,-,-,pE66L,protein-coding,-,-,-,pE66L,20210305,-
+10497,41901506,I267L,F8209_gp136,-,-,-,-,pI267L,protein-coding,-,-,-,pI267L,20210305,-
+10497,41901507,I226R,F8209_gp137,-,-,-,-,pI226R,protein-coding,-,-,-,pI226R,20210305,-
+10497,41901508,I243L,F8209_gp138,-,-,-,-,transcription factor SII-like protein,protein-coding,-,-,-,transcription factor SII-like protein,20210305,-
+10497,41901509,I73R,F8209_gp139,-,-,-,-,pI73R,protein-coding,-,-,-,pI73R,20210305,-
+10497,41901510,I329L,F8209_gp140,-,-,-,-,pI329L,protein-coding,-,-,-,pI329L,20210305,-
+10497,41901511,I215L,F8209_gp141,-,-,-,-,ubiquitin-conjugation enzyme,protein-coding,-,-,-,ubiquitin-conjugation enzyme,20201021,-
+10497,41901512,I177L,F8209_gp142,-,-,-,-,pI177L,protein-coding,-,-,-,pI177L,20210305,-
+10497,41901513,I196L,F8209_gp143,-,-,-,-,pI196L,protein-coding,-,-,-,pI196L,20210305,-
+10497,41901514,DP238L,F8209_gp144,-,-,-,-,pDP238L,protein-coding,-,-,-,pDP238L,20210305,-
+10497,41901515,MGF 360-16R,F8209_gp145,-,-,-,-,pMGF 360-16R,protein-coding,-,-,-,pMGF 360-16R,20201220,-
+10497,41901516,MGF 505-11L,F8209_gp146,-,-,-,-,pMGF 505-11L,protein-coding,-,-,-,pMGF 505-11L,20201021,-
+10497,41901517,MGF 100-2L,F8209_gp147,-,-,-,-,pMGF 100-2L,protein-coding,-,-,-,pMGF 100-2L,20201021,-
+10497,41901518,MGF 100-3L,F8209_gp148,-,-,-,-,pMGF 100-3L,protein-coding,-,-,-,pMGF 100-3L,20210305,-
+10497,41901519,I7L,F8209_gp149,-,-,-,-,pI7L,protein-coding,-,-,-,pI7L,20210305,-
+10497,41901520,I8L,F8209_gp150,-,-,-,-,pI8L,protein-coding,-,-,-,pI8L,20210305,-
+10497,41901521,I9R,F8209_gp151,-,-,-,-,pI9R,protein-coding,-,-,-,pI9R,20210305,-
+10497,41901522,I10L,F8209_gp152,-,-,-,-,structural protein p22,protein-coding,-,-,-,structural protein p22,20210305,-
+10497,41901523,L11L,F8209_gp153,-,-,-,-,pL11L,protein-coding,-,-,-,pL11L,20210305,-
+10497,41901524,MGF 360-17R,F8209_gp154,-,-,-,-,pMGF 360-17R,protein-coding,-,-,-,pMGF 360-17R,20201021,-
+10497,41901525,MGF 360-18R,F8209_gp155,-,-,-,-,pMGF 360-18R,protein-coding,-,-,-,pMGF 360-18R,20210305,-
+10497,41901526,DP71L,F8209_gp156,-,-,-,-,pDP71L,protein-coding,-,-,-,pDP71L,20210305,-
+10497,41901527,DP96R,F8209_gp157,-,-,-,-,pDP96R,protein-coding,-,-,-,pDP96R,20210305,-
+10497,41901528,MGF 360-19R,F8209_gp158,-,-,-,-,pMGF 360-19R,protein-coding,-,-,-,pMGF 360-19R,20201021,-
+10497,41901529,KP86R,F8209_gp001,-,-,-,-,pKP86R,protein-coding,-,-,-,pKP86R,20210305,-
+10497,41901531,MGF 360-19R,F8211_gp002,-,-,-,-,MGF 360-19R,protein-coding,-,-,-,MGF 360-19R,20201021,-
+10497,41901532,MGF 360-2L,F8211_gp003,-,-,-,-,MGF 360-2L,protein-coding,-,-,-,MGF 360-2L,20201021,-
+10497,41901533,BA71V-KP177R,F8211_gp004,-,-,-,-,BA71V-KP177R,protein-coding,-,-,-,BA71V-KP177R,20201021,-
+10497,41901534,BA71V-L83L,F8211_gp005,-,-,-,-,BA71V-L83L,protein-coding,-,-,-,BA71V-L83L,20201021,-
+10497,41901535,BA71V-L60L,F8211_gp006,-,-,-,-,BA71V-L60L,protein-coding,-,-,-,BA71V-L60L,20201021,-
+10497,41901536,MGF 360-3L,F8211_gp007,-,-,-,-,MGF 360-3L,protein-coding,-,-,-,MGF 360-3L,20201021,-
+10497,41901537,MGF 110-1L,F8211_gp008,-,-,-,-,MGF 110-1L,protein-coding,-,-,-,MGF 110-1L,20201021,-
+10497,41901538,MGF 110-2L,F8211_gp009,-,-,-,-,MGF 110-2L,protein-coding,-,-,-,MGF 110-2L,20201021,-
+10497,41901539,MGF 110-3L,F8211_gp010,-,-,-,-,MGF 110-3L,protein-coding,-,-,-,MGF 110-3L,20201021,-
+10497,41901540,MGF 110-4L,F8211_gp011,-,-,-,-,MGF 110-4L,protein-coding,-,-,-,MGF 110-4L,20201021,-
+10497,41901541,MGF 110-5L,F8211_gp012,-,-,-,-,MGF 110-5L,protein-coding,-,-,-,MGF 110-5L,20201021,-
+10497,41901542,MGF 110-6L,F8211_gp013,-,-,-,-,MGF 110-6L,protein-coding,-,-,-,MGF 110-6L,20201021,-
+10497,41901543,MGF 110-7L,F8211_gp014,-,-,-,-,MGF 110-7L,protein-coding,-,-,-,MGF 110-7L,20201021,-
+10497,41901544,p285L,F8211_gp015,-,-,-,-,p285L,protein-coding,-,-,-,p285L,20201021,-
+10497,41901545,MGF 110-8L,F8211_gp016,-,-,-,-,MGF 110-8L,protein-coding,-,-,-,MGF 110-8L,20201021,-
+10497,41901546,MGF 100-1R,F8211_gp017,-,-,-,-,MGF 100-1R,protein-coding,-,-,-,MGF 100-1R,20201021,-
+10497,41901547,MGF 110-9L,F8211_gp018,-,-,-,-,MGF 110-9L,protein-coding,-,-,-,MGF 110-9L,20201021,-
+10497,41901548,MGF 110-11L(FRAG-1),F8211_gp019,-,-,-,-,MGF 110-11L(FRAG-1),protein-coding,-,-,-,MGF 110-11L(FRAG-1),20201021,-
+10497,41901549,MGF 110-11L(FRAG-2),F8211_gp020,-,-,-,-,MGF 110-11L(FRAG-2),protein-coding,-,-,-,MGF 110-11L(FRAG-2),20201021,-
+10497,41901550,MGF 110-12L,F8211_gp021,-,-,-,-,MGF 110-12L,protein-coding,-,-,-,MGF 110-12L,20201021,-
+10497,41901551,MGF 110-13L-14L,F8211_gp022,-,-,-,-,MGF 110-13L-14L,protein-coding,-,-,-,MGF 110-13L-14L,20201021,-
+10497,41901552,MGF 360-4L,F8211_gp023,-,-,-,-,MGF 360-4L,protein-coding,-,-,-,MGF 360-4L,20201021,-
+10497,41901553,MGF 360-6L,F8211_gp024,-,-,-,-,MGF 360-6L,protein-coding,-,-,-,MGF 360-6L,20201021,-
+10497,41901554,BA71V-X69R,F8211_gp025,-,-,-,-,BA71V-X69R,protein-coding,-,-,-,BA71V-X69R,20201021,-
+10497,41901555,MGF 300-1L,F8211_gp026,-,-,-,-,MGF 300-1L,protein-coding,-,-,-,MGF 300-1L,20201021,-
+10497,41901556,MGF 300-2R,F8211_gp027,-,-,-,-,MGF 300-2R,protein-coding,-,-,-,MGF 300-2R,20201021,-
+10497,41901557,MGF 300-4L,F8211_gp028,-,-,-,-,MGF 300-4L,protein-coding,-,-,-,MGF 300-4L,20201021,-
+10497,41901558,MGF 360-8L,F8211_gp029,-,-,-,-,MGF 360-8L,protein-coding,-,-,-,MGF 360-8L,20201021,-
+10497,41901559,MGF 360-9L,F8211_gp030,-,-,-,-,MGF 360-9L,protein-coding,-,-,-,MGF 360-9L,20201021,-
+10497,41901560,MGF 360-10L,F8211_gp031,-,-,-,-,MGF 360-10L,protein-coding,-,-,-,MGF 360-10L,20201021,-
+10497,41901561,MGF 360-11L,F8211_gp032,-,-,-,-,MGF 360-11L,protein-coding,-,-,-,MGF 360-11L,20201021,-
+10497,41901562,MGF 505-1R,F8211_gp033,-,-,-,-,MGF 505-1R,protein-coding,-,-,-,MGF 505-1R,20201021,-
+10497,41901563,MGF 360-12L,F8211_gp034,-,-,-,-,MGF 360-12L,protein-coding,-,-,-,MGF 360-12L,20201021,-
+10497,41901564,MGF 360-13L,F8211_gp035,-,-,-,-,MGF 360-13L,protein-coding,-,-,-,MGF 360-13L,20201021,-
+10497,41901565,MGF 360-14L,F8211_gp036,-,-,-,-,MGF 360-14L,protein-coding,-,-,-,MGF 360-14L,20201021,-
+10497,41901566,MGF 505-2R,F8211_gp037,-,-,-,-,MGF 505-2R,protein-coding,-,-,-,MGF 505-2R,20201021,-
+10497,41901567,MGF 505-3R,F8211_gp038,-,-,-,-,MGF 505-3R,protein-coding,-,-,-,MGF 505-3R,20201021,-
+10497,41901568,MGF 505-4R,F8211_gp039,-,-,-,-,MGF 505-4R,protein-coding,-,-,-,MGF 505-4R,20201021,-
+10497,41901569,MGF 505-5R,F8211_gp040,-,-,-,-,MGF 505-5R,protein-coding,-,-,-,MGF 505-5R,20201021,-
+10497,41901570,MGF 505-7R,F8211_gp041,-,-,-,-,MGF 505-7R,protein-coding,-,-,-,MGF 505-7R,20201021,-
+10497,41901571,MGF 505-9R,F8211_gp042,-,-,-,-,MGF 505-9R,protein-coding,-,-,-,MGF 505-9R,20201021,-
+10497,41901572,MGF 505-10R,F8211_gp043,-,-,-,-,MGF 505-10R,protein-coding,-,-,-,MGF 505-10R,20210305,-
+10497,41901573,BA71V-A224L (4CL),F8211_gp044,-,-,-,-,BA71V-A224L (4CL),protein-coding,-,-,-,BA71V-A224L (4CL),20201021,-
+10497,41901574,BA71V-A104R,F8211_gp045,-,-,-,-,BA71V-A104R,protein-coding,-,-,-,BA71V-A104R,20210305,-
+10497,41901575,BA71V-A240L,F8211_gp046,-,-,-,-,BA71V-A240L,protein-coding,-,-,-,BA71V-A240L,20201021,-
+10497,41901576,BA71V-A151R,F8211_gp047,-,-,-,-,BA71V-A151R,protein-coding,-,-,-,BA71V-A151R,20201021,-
+10497,41901577,MGF 360-15R,F8211_gp048,-,-,-,-,MGF 360-15R,protein-coding,-,-,-,MGF 360-15R,20201021,-
+10497,41901578,BA71V-A238L (5EL),F8211_gp049,-,-,-,-,BA71V-A238L (5EL),protein-coding,-,-,-,BA71V-A238L (5EL),20201021,-
+10497,41901579,BA71V-A859L,F8211_gp050,-,-,-,-,BA71V-A859L,protein-coding,-,-,-,BA71V-A859L,20201021,-
+10497,41901580,BA71V-A179L (5HL),F8211_gp051,-,-,-,-,BA71V-A179L (5HL),protein-coding,-,-,-,BA71V-A179L (5HL),20210305,-
+10497,41901581,BA71V-A137R (p11.5),F8211_gp052,-,-,-,-,BA71V-A137R (p11.5),protein-coding,-,-,-,BA71V-A137R (p11.5),20201021,-
+10497,41901582,BA71V-F317L,F8211_gp053,-,-,-,-,BA71V-F317L,protein-coding,-,-,-,BA71V-F317L,20210305,-
+10497,41901583,BA71V-F334L,F8211_gp054,-,-,-,-,BA71V-F334L,protein-coding,-,-,-,BA71V-F334L,20201021,-
+10497,41901584,BA71V-F778R,F8211_gp055,-,-,-,-,BA71V-F778R,protein-coding,-,-,-,BA71V-F778R,20201021,-
+10497,41901585,BA71V-F165R,F8211_gp056,-,-,-,-,BA71V-F165R,protein-coding,-,-,-,BA71V-F165R,20201021,-
+10497,41901586,BA71V-F1055L,F8211_gp057,-,-,-,-,BA71V-F1055L,protein-coding,-,-,-,BA71V-F1055L,20201021,-
+10497,41901587,BA71V-K205R,F8211_gp058,-,-,-,-,BA71V-K205R,protein-coding,-,-,-,BA71V-K205R,20201021,-
+10497,41901588,BA71V-K78R (p10),F8211_gp059,-,-,-,-,BA71V-K78R (p10),protein-coding,-,-,-,BA71V-K78R (p10),20210305,-
+10497,41901589,BA71V-K196R,F8211_gp060,-,-,-,-,BA71V-K196R,protein-coding,-,-,-,BA71V-K196R,20201021,-
+10497,41901590,BA71V-K145R,F8211_gp061,-,-,-,-,BA71V-K145R,protein-coding,-,-,-,BA71V-K145R,20210305,-
+10497,41901591,BA71V-K421R,F8211_gp062,-,-,-,-,BA71V-K421R,protein-coding,-,-,-,BA71V-K421R,20201021,-
+10497,41901592,BA71V-EP1242L,F8211_gp063,-,-,-,-,BA71V-EP1242L,protein-coding,-,-,-,BA71V-EP1242L,20201021,-
+10497,41901593,BA71V-EP84R,F8211_gp064,-,-,-,-,BA71V-EP84R,protein-coding,-,-,-,BA71V-EP84R,20201021,-
+10497,41901594,BA71V-EP424R,F8211_gp065,-,-,-,-,BA71V-EP424R,protein-coding,-,-,-,BA71V-EP424R,20201021,-
+10497,41901595,BA71V-EP152R,F8211_gp066,-,-,-,-,BA71V-EP152R,protein-coding,-,-,-,BA71V-EP152R,20201021,-
+10497,41901596,BA71V-EP153R,F8211_gp067,-,-,-,-,BA71V-EP153R,protein-coding,-,-,-,BA71V-EP153R,20201021,-
+10497,41901597,BA71V-EP402R (CD2v),F8211_gp068,-,-,-,-,BA71V-EP402R (CD2v),protein-coding,-,-,-,BA71V-EP402R (CD2v),20201021,-
+10497,41901598,BA71V-EP364R,F8211_gp069,-,-,-,-,BA71V-EP364R,protein-coding,-,-,-,BA71V-EP364R,20201021,-
+10497,41901599,BA71V-M1249L,F8211_gp070,-,-,-,-,BA71V-M1249L,protein-coding,-,-,-,BA71V-M1249L,20201021,-
+10497,41901600,BA71V-M448R,F8211_gp071,-,-,-,-,BA71V-M448R,protein-coding,-,-,-,BA71V-M448R,20201021,-
+10497,41901601,BA71V-C129R,F8211_gp072,-,-,-,-,BA71V-C129R,protein-coding,-,-,-,BA71V-C129R,20210305,-
+10497,41901602,BA71V-C84L,F8211_gp073,-,-,-,-,BA71V-C84L,protein-coding,-,-,-,BA71V-C84L,20201021,-
+10497,41901603,BA71V-C717R,F8211_gp074,-,-,-,-,BA71V-C717R,protein-coding,-,-,-,BA71V-C717R,20201021,-
+10497,41901604,BA71V-C122R,F8211_gp075,-,-,-,-,BA71V-C122R,protein-coding,-,-,-,BA71V-C122R,20210305,-
+10497,41901605,BA71V-C257L,F8211_gp076,-,-,-,-,BA71V-C257L,protein-coding,-,-,-,BA71V-C257L,20210305,-
+10497,41901606,BA71V-C475L,F8211_gp077,-,-,-,-,BA71V-C475L,protein-coding,-,-,-,BA71V-C475L,20201021,-
+10497,41901607,BA71V-C315R,F8211_gp078,-,-,-,-,BA71V-C315R,protein-coding,-,-,-,BA71V-C315R,20210305,-
+10497,41901608,BA71V-C147L (g6L),F8211_gp079,-,-,-,-,BA71V-C147L (g6L),protein-coding,-,-,-,BA71V-C147L (g6L),20210417,-
+10497,41901609,BA71V-C62L,F8211_gp080,-,-,-,-,BA71V-C62L,protein-coding,-,-,-,BA71V-C62L,20210305,-
+10497,41901610,BA71V-C962R,F8211_gp081,-,-,-,-,BA71V-C962R,protein-coding,-,-,-,BA71V-C962R,20201021,-
+10497,41901611,BA71V-B962L,F8211_gp082,-,-,-,-,BA71V-B962L,protein-coding,-,-,-,BA71V-B962L,20201021,-
+10497,41901612,BA71V-B119L (9GL),F8211_gp083,-,-,-,-,BA71V-B119L (9GL),protein-coding,-,-,-,BA71V-B119L (9GL),20210417,-
+10497,41901613,BA71V-B318L,F8211_gp084,-,-,-,-,BA71V-B318L,protein-coding,-,-,-,BA71V-B318L,20210417,-
+10497,41901614,BA71V-B438L (p49),F8211_gp085,-,-,-,-,BA71V-B438L (p49),protein-coding,-,-,-,BA71V-B438L (p49),20201021,-
+10497,41901615,BA71V-B169L,F8211_gp086,-,-,-,-,BA71V-B169L,protein-coding,-,-,-,BA71V-B169L,20201021,-
+10497,41901616,BA71V-B475L,F8211_gp087,-,-,-,-,BA71V-B475L,protein-coding,-,-,-,BA71V-B475L,20201021,-
+10497,41901617,BA71V-B354L,F8211_gp088,-,-,-,-,BA71V-B354L,protein-coding,-,-,-,BA71V-B354L,20201021,-
+10497,41901618,BA71V-B602L (9RL),F8211_gp089,-,-,-,-,BA71V-B602L (9RL),protein-coding,-,-,-,BA71V-B602L (9RL),20201021,-
+10497,41901619,BA71V-B385R,F8211_gp090,-,-,-,-,BA71V-B385R,protein-coding,-,-,-,BA71V-B385R,20201021,-
+10497,41901620,BA71V-B646L (p72),F8211_gp091,-,-,-,-,BA71V-B646L (p72),protein-coding,-,-,-,BA71V-B646L (p72),20210305,-
+10497,41901621,BA71V-B125R,F8211_gp092,-,-,-,-,BA71V-B125R,protein-coding,-,-,-,BA71V-B125R,20210305,-
+10497,41901622,BA71V-B117L,F8211_gp093,-,-,-,-,BA71V-B117L,protein-coding,-,-,-,BA71V-B117L,20201021,-
+10497,41901623,BA71V-B407L,F8211_gp094,-,-,-,-,BA71V-B407L,protein-coding,-,-,-,BA71V-B407L,20201021,-
+10497,41901624,BA71V-B175L,F8211_gp095,-,-,-,-,BA71V-B175L,protein-coding,-,-,-,BA71V-B175L,20201021,-
+10497,41901625,BA71V-B263R,F8211_gp096,-,-,-,-,BA71V-B263R,protein-coding,-,-,-,BA71V-B263R,20201220,-
+10497,41901626,BA71V-B66L,F8211_gp097,-,-,-,-,BA71V-B66L,protein-coding,-,-,-,BA71V-B66L,20210305,-
+10497,41901627,BA71V-G1340L,F8211_gp098,-,-,-,-,BA71V-G1340L,protein-coding,-,-,-,BA71V-G1340L,20201021,-
+10497,41901628,BA71V-G1211R,F8211_gp099,-,-,-,-,BA71V-G1211R,protein-coding,-,-,-,BA71V-G1211R,20201021,-
+10497,41901629,BA71V-CP123L,F8211_gp100,-,-,-,-,BA71V-CP123L,protein-coding,-,-,-,BA71V-CP123L,20210305,-
+10497,41901630,BA71V-CP2475L (p220),F8211_gp101,-,-,-,-,BA71V-CP2475L (p220),protein-coding,-,-,-,BA71V-CP2475L (p220),20201021,-
+10497,41901631,"BA71V-CP204L (p32, p30)",F8211_gp102,-,-,-,-,"BA71V-CP204L (p32, p30)",protein-coding,-,-,-,"BA71V-CP204L (p32, p30)",20201021,-
+10497,41901632,BA71V-CP530R (p60),F8211_gp103,-,-,-,-,BA71V-CP530R (p60),protein-coding,-,-,-,BA71V-CP530R (p60),20201021,-
+10497,41901633,BA71V-CP80R,F8211_gp104,-,-,-,-,BA71V-CP80R,protein-coding,-,-,-,BA71V-CP80R,20210305,-
+10497,41901634,BA71V-CP312R,F8211_gp105,-,-,-,-,BA71V-CP312R,protein-coding,-,-,-,BA71V-CP312R,20201021,-
+10497,41901635,BA71V-O174L,F8211_gp106,-,-,-,-,BA71V-O174L,protein-coding,-,-,-,BA71V-O174L,20201021,-
+10497,41901636,BA71V-O61R (p12),F8211_gp107,-,-,-,-,BA71V-O61R (p12),protein-coding,-,-,-,BA71V-O61R (p12),20210305,-
+10497,41901637,BA71V-NP1450L (g2L),F8211_gp108,-,-,-,-,BA71V-NP1450L (g2L),protein-coding,-,-,-,BA71V-NP1450L (g2L),20201021,-
+10497,41901638,BA71V-NP419L (g3L),F8211_gp109,-,-,-,-,BA71V-NP419L (g3L),protein-coding,-,-,-,BA71V-NP419L (g3L),20201021,-
+10497,41901639,BA71V-NP868R (g4R),F8211_gp110,-,-,-,-,BA71V-NP868R (g4R),protein-coding,-,-,-,BA71V-NP868R (g4R),20201021,-
+10497,41901640,BA71V-D250R (g5R),F8211_gp111,-,-,-,-,BA71V-D250R (g5R),protein-coding,-,-,-,BA71V-D250R (g5R),20210424,-
+10497,41901641,BA71V-D129L,F8211_gp112,-,-,-,-,BA71V-D129L,protein-coding,-,-,-,BA71V-D129L,20201021,-
+10497,41901642,BA71V-D79L (g7L),F8211_gp113,-,-,-,-,BA71V-D79L (g7L),protein-coding,-,-,-,BA71V-D79L (g7L),20210305,-
+10497,41901643,BA71V-D339L (g9L),F8211_gp114,-,-,-,-,BA71V-D339L (g9L),protein-coding,-,-,-,BA71V-D339L (g9L),20201021,-
+10497,41901644,BA71V-D1133L (g10L),F8211_gp115,-,-,-,-,BA71V-D1133L (g10L),protein-coding,-,-,-,BA71V-D1133L (g10L),20210424,-
+10497,41901645,"BA71V-D117L (p17, i1L)",F8211_gp116,-,-,-,-,"BA71V-D117L (p17, i1L)",protein-coding,-,-,-,"BA71V-D117L (p17, i1L)",20201021,-
+10497,41901646,BA71V-D205R (i2R),F8211_gp117,-,-,-,-,BA71V-D205R (i2R),protein-coding,-,-,-,BA71V-D205R (i2R),20201021,-
+10497,41901647,"BA71V-D345L (i3L, i4L)",F8211_gp118,-,-,-,-,"BA71V-D345L (i3L, i4L)",protein-coding,-,-,-,"BA71V-D345L (i3L, i4L)",20201021,-
+10497,41901648,BA71V-S183 (i5L),F8211_gp119,-,-,-,-,BA71V-S183 (i5L),protein-coding,-,-,-,BA71V-S183 (i5L),20201021,-
+10497,41901649,BA71V-S273R (i6R),F8211_gp120,-,-,-,-,BA71V-S273R (i6R),protein-coding,-,-,-,BA71V-S273R (i6R),20201021,-
+10497,41901650,BA71V-P1192R (i7R),F8211_gp121,-,-,-,-,BA71V-P1192R (i7R),protein-coding,-,-,-,BA71V-P1192R (i7R),20201021,-
+10497,41901651,BA71V-H359L (j1L),F8211_gp122,-,-,-,-,BA71V-H359L (j1L),protein-coding,-,-,-,BA71V-H359L (j1L),20210424,-
+10497,41901652,BA71V-H171R (j2R),F8211_gp123,-,-,-,-,BA71V-H171R (j2R),protein-coding,-,-,-,BA71V-H171R (j2R),20210305,-
+10497,41901653,BA71V-H124R,F8211_gp124,-,-,-,-,BA71V-H124R,protein-coding,-,-,-,BA71V-H124R,20210305,-
+10497,41901654,BA71V-H339R (j4R),F8211_gp125,-,-,-,-,BA71V-H339R (j4R),protein-coding,-,-,-,BA71V-H339R (j4R),20210305,-
+10497,41901655,BA71V-H108R (j5R),F8211_gp126,-,-,-,-,BA71V-H108R (j5R),protein-coding,-,-,-,BA71V-H108R (j5R),20201021,-
+10497,41901656,BA71V-H233R (j6R),F8211_gp127,-,-,-,-,BA71V-H233R (j6R),protein-coding,-,-,-,BA71V-H233R (j6R),20201021,-
+10497,41901657,BA71V-H240R (j7R),F8211_gp128,-,-,-,-,BA71V-H240R (j7R),protein-coding,-,-,-,BA71V-H240R (j7R),20201021,-
+10497,41901658,BA71V-R298L (j8L),F8211_gp129,-,-,-,-,BA71V-R298L (j8L),protein-coding,-,-,-,BA71V-R298L (j8L),20210417,-
+10497,41901659,BA71V-Q706L (j10L),F8211_gp130,-,-,-,-,BA71V-Q706L (j10L),protein-coding,-,-,-,BA71V-Q706L (j10L),20201021,-
+10497,41901660,BA71V-QP509L,F8211_gp131,-,-,-,-,BA71V-QP509L,protein-coding,-,-,-,BA71V-QP509L,20201021,-
+10497,41901661,BA71V-QP383R (j11R),F8211_gp132,-,-,-,-,BA71V-QP383R (j11R),protein-coding,-,-,-,BA71V-QP383R (j11R),20201021,-
+10497,41901662,BA71V-E184L (j12L),F8211_gp133,-,-,-,-,BA71V-E184L (j12L),protein-coding,-,-,-,BA71V-E184L (j12L),20210305,-
+10497,41901663,"BA71V-E183L (p54, j13L)",F8211_gp134,-,-,-,-,"BA71V-E183L (p54, j13L)",protein-coding,-,-,-,"BA71V-E183L (p54, j13L)",20210305,-
+10497,41901664,BA71V-E423R (j14R),F8211_gp135,-,-,-,-,BA71V-E423R (j14R),protein-coding,-,-,-,BA71V-E423R (j14R),20210305,-
+10497,41901665,BA71V-E301R (j15R),F8211_gp136,-,-,-,-,BA71V-E301R (j15R),protein-coding,-,-,-,BA71V-E301R (j15R),20210305,-
+10497,41901666,BA71V-E146L (j16L),F8211_gp137,-,-,-,-,BA71V-E146L (j16L),protein-coding,-,-,-,BA71V-E146L (j16L),20201021,-
+10497,41901667,BA71V-E199L (j18L),F8211_gp138,-,-,-,-,BA71V-E199L (j18L),protein-coding,-,-,-,BA71V-E199L (j18L),20201021,-
+10497,41901668,BA71V-E165R (k1R),F8211_gp139,-,-,-,-,BA71V-E165R (k1R),protein-coding,-,-,-,BA71V-E165R (k1R),20210417,-
+10497,41901669,BA71V-E248R (k2R),F8211_gp140,-,-,-,-,BA71V-E248R (k2R),protein-coding,-,-,-,BA71V-E248R (k2R),20201021,-
+10497,41901670,BA71V-E120R (p14.5),F8211_gp141,-,-,-,-,BA71V-E120R (p14.5),protein-coding,-,-,-,BA71V-E120R (p14.5),20210305,-
+10497,41901671,BA71V-E296R (k4R),F8211_gp142,-,-,-,-,BA71V-E296R (k4R),protein-coding,-,-,-,BA71V-E296R (k4R),20201021,-
+10497,41901672,BA71V-E111R (k6R),F8211_gp143,-,-,-,-,BA71V-E111R (k6R),protein-coding,-,-,-,BA71V-E111R (k6R),20210305,-
+10497,41901673,BA71V-I267L (k7L),F8211_gp144,-,-,-,-,BA71V-I267L (k7L),protein-coding,-,-,-,BA71V-I267L (k7L),20201021,-
+10497,41901674,BA71V-I226R (k8R),F8211_gp145,-,-,-,-,BA71V-I226R (k8R),protein-coding,-,-,-,BA71V-I226R (k8R),20201021,-
+10497,41901675,BA71V-I243L (k9L),F8211_gp146,-,-,-,-,BA71V-I243L (k9L),protein-coding,-,-,-,BA71V-I243L (k9L),20210417,-
+10497,41901676,BA71V-I73R (k10R),F8211_gp147,-,-,-,-,BA71V-I73R (k10R),protein-coding,-,-,-,BA71V-I73R (k10R),20201220,-
+10497,41901677,BA71V-I329L (k11L),F8211_gp148,-,-,-,-,BA71V-I329L (k11L),protein-coding,-,-,-,BA71V-I329L (k11L),20201021,-
+10497,41901678,BA71V-I215L (k13L),F8211_gp149,-,-,-,-,BA71V-I215L (k13L),protein-coding,-,-,-,BA71V-I215L (k13L),20201021,-
+10497,41901679,BA71V-I177L (k14L),F8211_gp150,-,-,-,-,BA71V-I177L (k14L),protein-coding,-,-,-,BA71V-I177L (k14L),20201220,-
+10497,41901680,BA71V-I196L (k15L),F8211_gp151,-,-,-,-,BA71V-I196L (k15L),protein-coding,-,-,-,BA71V-I196L (k15L),20201021,-
+10497,41901681,BA71V-DP238L (l1L),F8211_gp152,-,-,-,-,BA71V-DP238L (l1L),protein-coding,-,-,-,BA71V-DP238L (l1L),20201021,-
+10497,41901682,MGF 360-16R,F8211_gp153,-,-,-,-,MGF 360-16R,protein-coding,-,-,-,MGF 360-16R,20201021,-
+10497,41901683,MGF 505-11L,F8211_gp154,-,-,-,-,MGF 505-11L,protein-coding,-,-,-,MGF 505-11L,20201021,-
+10497,41901684,MGF 100-2L,F8211_gp155,-,-,-,-,MGF 100-2L,protein-coding,-,-,-,MGF 100-2L,20210305,-
+10497,41901685,MGF 100-3L,F8211_gp156,-,-,-,-,MGF 100-3L,protein-coding,-,-,-,MGF 100-3L,20201021,-
+10497,41901686,I7L,F8211_gp157,-,-,-,-,I7L,protein-coding,-,-,-,I7L,20210305,-
+10497,41901687,I8L,F8211_gp158,-,-,-,-,I8L,protein-coding,-,-,-,I8L,20210305,-
+10497,41901688,I9R,F8211_gp159,-,-,-,-,I9R,protein-coding,-,-,-,I9R,20201021,-
+10497,41901689,I10L,F8211_gp160,-,-,-,-,I10L,protein-coding,-,-,-,I10L,20201021,-
+10497,41901690,I10L_2,F8211_gp161,-,-,-,-,I10L_2,protein-coding,-,-,-,I10L_2,20201021,-
+10497,41901691,L11L,F8211_gp162,-,-,-,-,L11L,protein-coding,-,-,-,L11L,20210305,-
+10497,41901692,I12R,F8211_gp163,-,-,-,-,I12R,protein-coding,-,-,-,I12R,20201021,-
+10497,41901693,MGF 360-18R,F8211_gp164,-,-,-,-,MGF 360-18R,protein-coding,-,-,-,MGF 360-18R,20201021,-
+10497,41901694,"BA71V-DP71L (I14L, NLS)",F8211_gp165,-,-,-,-,"BA71V-DP71L (I14L, NLS)",protein-coding,-,-,-,"BA71V-DP71L (I14L, NLS)",20201021,-
+10497,41901695,BA71V-DP96R,F8211_gp166,-,-,-,-,BA71V-DP96R,protein-coding,-,-,-,BA71V-DP96R,20201021,-
+10497,41901696,MGF 360-21R,F8211_gp167,-,-,-,-,MGF 360-21R,protein-coding,-,-,-,MGF 360-21R,20201021,-
+10497,41901697,MGF 360-1L,F8211_gp168,-,-,-,-,MGF 360-1L,protein-coding,-,-,-,MGF 360-1L,20201021,-
+10497,41901698,MGF 360-1L,F8211_gp001,-,-,-,-,MGF 360-1L,protein-coding,-,-,-,MGF 360-1L,20201021,-
+10497,41901700,BA71V-L83L,F8212_gp002,-,-,-,-,BA71V-L83L,protein-coding,-,-,-,BA71V-L83L,20210305,-
+10497,41901701,BA71V-L60L,F8212_gp003,-,-,-,-,BA71V-L60L,protein-coding,-,-,-,BA71V-L60L,20210305,-
+10497,41901702,MGF 360-3L,F8212_gp004,-,-,-,-,MGF 360-3L,protein-coding,-,-,-,MGF 360-3L,20210305,-
+10497,41901703,MGF 110-1L,F8212_gp005,-,-,-,-,MGF 110-1L,protein-coding,-,-,-,MGF 110-1L,20201021,-
+10497,41901704,MGF 110-2L,F8212_gp006,-,-,-,-,MGF 110-2L,protein-coding,-,-,-,MGF 110-2L,20201021,-
+10497,41901705,MGF 110-3L,F8212_gp007,-,-,-,-,MGF 110-3L,protein-coding,-,-,-,MGF 110-3L,20210305,-
+10497,41901706,MGF 110-4L,F8212_gp008,-,-,-,-,MGF 110-4L,protein-coding,-,-,-,MGF 110-4L,20210305,-
+10497,41901707,MGF 110-5L,F8212_gp009,-,-,-,-,MGF 110-5L,protein-coding,-,-,-,MGF 110-5L,20210305,-
+10497,41901708,MGF 110-6L,F8212_gp010,-,-,-,-,MGF 110-6L,protein-coding,-,-,-,MGF 110-6L,20210305,-
+10497,41901709,p285L,F8212_gp011,-,-,-,-,p285L,protein-coding,-,-,-,p285L,20210305,-
+10497,41901710,MGF 100-1R,F8212_gp012,-,-,-,-,MGF 100-1R,protein-coding,-,-,-,MGF 100-1R,20210305,-
+10497,41901711,MGF 110-9L,F8212_gp013,-,-,-,-,MGF 110-9L,protein-coding,-,-,-,MGF 110-9L,20201021,-
+10497,41901712,MGF 110-11L(FRAG-1),F8212_gp014,-,-,-,-,MGF 110-11L(FRAG-1),protein-coding,-,-,-,MGF 110-11L(FRAG-1),20201021,-
+10497,41901713,MGF 110-11L(FRAG-2),F8212_gp015,-,-,-,-,MGF 110-11L(FRAG-2),protein-coding,-,-,-,MGF 110-11L(FRAG-2),20201021,-
+10497,41901714,MGF 110-12L,F8212_gp016,-,-,-,-,MGF 110-12L,protein-coding,-,-,-,MGF 110-12L,20210305,-
+10497,41901715,MGF 110-13L,F8212_gp017,-,-,-,-,MGF 110-13L,protein-coding,-,-,-,MGF 110-13L,20201021,-
+10497,41901716,MGF 110-14L,F8212_gp018,-,-,-,-,MGF 110-14L,protein-coding,-,-,-,MGF 110-14L,20201021,-
+10497,41901717,MGF 360-4L,F8212_gp019,-,-,-,-,MGF 360-4L,protein-coding,-,-,-,MGF 360-4L,20201021,-
+10497,41901718,MGF 360-7L,F8212_gp020,-,-,-,-,MGF 360-7L,protein-coding,-,-,-,MGF 360-7L,20201021,-
+10497,41901719,BA71V-X69R,F8212_gp021,-,-,-,-,BA71V-X69R,protein-coding,-,-,-,BA71V-X69R,20210305,-
+10497,41901720,MGF 300-1L,F8212_gp022,-,-,-,-,MGF 300-1L,protein-coding,-,-,-,MGF 300-1L,20201021,-
+10497,41901721,MGF 300-2R,F8212_gp023,-,-,-,-,MGF 300-2R,protein-coding,-,-,-,MGF 300-2R,20210305,-
+10497,41901722,MGF 300-4L,F8212_gp024,-,-,-,-,MGF 300-4L,protein-coding,-,-,-,MGF 300-4L,20201021,-
+10497,41901723,MGF 360-8L,F8212_gp025,-,-,-,-,MGF 360-8L,protein-coding,-,-,-,MGF 360-8L,20201021,-
+10497,41901724,MGF 360-9L,F8212_gp026,-,-,-,-,MGF 360-9L,protein-coding,-,-,-,MGF 360-9L,20210305,-
+10497,41901725,MGF 360-10L,F8212_gp027,-,-,-,-,MGF 360-10L,protein-coding,-,-,-,MGF 360-10L,20201021,-
+10497,41901726,MGF 360-11L,F8212_gp028,-,-,-,-,MGF 360-11L,protein-coding,-,-,-,MGF 360-11L,20210305,-
+10497,41901727,MGF 505-1R,F8212_gp029,-,-,-,-,MGF 505-1R,protein-coding,-,-,-,MGF 505-1R,20201021,-
+10497,41901728,MGF 360-12L,F8212_gp030,-,-,-,-,MGF 360-12L,protein-coding,-,-,-,MGF 360-12L,20210305,-
+10497,41901729,MGF 360-13L(FRAG-1),F8212_gp031,-,-,-,-,MGF 360-13L(FRAG-1),protein-coding,-,-,-,MGF 360-13L(FRAG-1),20201021,-
+10497,41901730,MGF 360-13L(FRAG-2),F8212_gp032,-,-,-,-,MGF 360-13L(FRAG-2),protein-coding,-,-,-,MGF 360-13L(FRAG-2),20201021,-
+10497,41901731,MGF 360-14L,F8212_gp033,-,-,-,-,MGF 360-14L,protein-coding,-,-,-,MGF 360-14L,20210305,-
+10497,41901732,MGF 505-2R,F8212_gp034,-,-,-,-,MGF 505-2R,protein-coding,-,-,-,MGF 505-2R,20201021,-
+10497,41901733,MGF 505-3R,F8212_gp035,-,-,-,-,MGF 505-3R,protein-coding,-,-,-,MGF 505-3R,20210305,-
+10497,41901734,MGF 505-4R,F8212_gp036,-,-,-,-,MGF 505-4R,protein-coding,-,-,-,MGF 505-4R,20201021,-
+10497,41901735,MGF 505-5R,F8212_gp037,-,-,-,-,MGF 505-5R,protein-coding,-,-,-,MGF 505-5R,20210305,-
+10497,41901736,MGF 505-7R,F8212_gp038,-,-,-,-,MGF 505-7R,protein-coding,-,-,-,MGF 505-7R,20201021,-
+10497,41901737,MGF 505-9R,F8212_gp039,-,-,-,-,MGF 505-9R,protein-coding,-,-,-,MGF 505-9R,20210305,-
+10497,41901738,MGF 505-10R,F8212_gp040,-,-,-,-,MGF 505-10R,protein-coding,-,-,-,MGF 505-10R,20201021,-
+10497,41901739,BA71V-A224L (4CL),F8212_gp041,-,-,-,-,BA71V-A224L (4CL),protein-coding,-,-,-,BA71V-A224L (4CL),20210305,-
+10497,41901740,BA71V-A104R,F8212_gp042,-,-,-,-,BA71V-A104R,protein-coding,-,-,-,BA71V-A104R,20210305,-
+10497,41901741,BA71V-A240L,F8212_gp043,-,-,-,-,BA71V-A240L,protein-coding,-,-,-,BA71V-A240L,20201021,-
+10497,41901742,BA71V-A151R,F8212_gp044,-,-,-,-,BA71V-A151R,protein-coding,-,-,-,BA71V-A151R,20210305,-
+10497,41901743,MGF 360-15R,F8212_gp045,-,-,-,-,MGF 360-15R,protein-coding,-,-,-,MGF 360-15R,20201021,-
+10497,41901744,BA71V-A238L (5EL),F8212_gp046,-,-,-,-,BA71V-A238L (5EL),protein-coding,-,-,-,BA71V-A238L (5EL),20210305,-
+10497,41901745,BA71V-A859L,F8212_gp047,-,-,-,-,BA71V-A859L,protein-coding,-,-,-,BA71V-A859L,20201021,-
+10497,41901746,BA71V-A179L (5HL),F8212_gp048,-,-,-,-,BA71V-A179L (5HL),protein-coding,-,-,-,BA71V-A179L (5HL),20210305,-
+10497,41901747,BA71V-A137R (p11.5),F8212_gp049,-,-,-,-,BA71V-A137R (p11.5),protein-coding,-,-,-,BA71V-A137R (p11.5),20201021,-
+10497,41901748,BA71V-F317L,F8212_gp050,-,-,-,-,BA71V-F317L,protein-coding,-,-,-,BA71V-F317L,20210305,-
+10497,41901749,BA71V-F334L,F8212_gp051,-,-,-,-,BA71V-F334L,protein-coding,-,-,-,BA71V-F334L,20210305,-
+10497,41901750,BA71V-F778R,F8212_gp052,-,-,-,-,BA71V-F778R,protein-coding,-,-,-,BA71V-F778R,20201021,-
+10497,41901751,BA71V-F165R,F8212_gp053,-,-,-,-,BA71V-F165R,protein-coding,-,-,-,BA71V-F165R,20210305,-
+10497,41901752,BA71V-F1055L,F8212_gp054,-,-,-,-,BA71V-F1055L,protein-coding,-,-,-,BA71V-F1055L,20201021,-
+10497,41901753,BA71V-K205R,F8212_gp055,-,-,-,-,BA71V-K205R,protein-coding,-,-,-,BA71V-K205R,20210305,-
+10497,41901754,BA71V-K78R (p10),F8212_gp056,-,-,-,-,BA71V-K78R (p10),protein-coding,-,-,-,BA71V-K78R (p10),20201021,-
+10497,41901755,BA71V-K196R,F8212_gp057,-,-,-,-,BA71V-K196R,protein-coding,-,-,-,BA71V-K196R,20210305,-
+10497,41901756,BA71V-K145R,F8212_gp058,-,-,-,-,BA71V-K145R,protein-coding,-,-,-,BA71V-K145R,20210305,-
+10497,41901757,BA71V-K421R,F8212_gp059,-,-,-,-,BA71V-K421R,protein-coding,-,-,-,BA71V-K421R,20201021,-
+10497,41901758,BA71V-EP1242L,F8212_gp060,-,-,-,-,BA71V-EP1242L,protein-coding,-,-,-,BA71V-EP1242L,20201021,-
+10497,41901759,BA71V-EP84R,F8212_gp061,-,-,-,-,BA71V-EP84R,protein-coding,-,-,-,BA71V-EP84R,20210305,-
+10497,41901760,BA71V-EP424R,F8212_gp062,-,-,-,-,BA71V-EP424R,protein-coding,-,-,-,BA71V-EP424R,20210305,-
+10497,41901761,BA71V-EP152R,F8212_gp063,-,-,-,-,BA71V-EP152R,protein-coding,-,-,-,BA71V-EP152R,20210305,-
+10497,41901762,BA71V-EP153R,F8212_gp064,-,-,-,-,BA71V-EP153R,protein-coding,-,-,-,BA71V-EP153R,20210305,-
+10497,41901763,BA71V-EP402R (CD2v),F8212_gp065,-,-,-,-,BA71V-EP402R (CD2v),protein-coding,-,-,-,BA71V-EP402R (CD2v),20210305,-
+10497,41901764,BA71V-EP364R,F8212_gp066,-,-,-,-,BA71V-EP364R,protein-coding,-,-,-,BA71V-EP364R,20201021,-
+10497,41901765,BA71V-M1249L,F8212_gp067,-,-,-,-,BA71V-M1249L,protein-coding,-,-,-,BA71V-M1249L,20201021,-
+10497,41901766,BA71V-M448R,F8212_gp068,-,-,-,-,BA71V-M448R,protein-coding,-,-,-,BA71V-M448R,20201021,-
+10497,41901767,BA71V-C129R,F8212_gp069,-,-,-,-,BA71V-C129R,protein-coding,-,-,-,BA71V-C129R,20201021,-
+10497,41901768,BA71V-C84L,F8212_gp070,-,-,-,-,BA71V-C84L,protein-coding,-,-,-,BA71V-C84L,20201021,-
+10497,41901769,BA71V-C717R,F8212_gp071,-,-,-,-,BA71V-C717R,protein-coding,-,-,-,BA71V-C717R,20201021,-
+10497,41901770,BA71V-C122R,F8212_gp072,-,-,-,-,BA71V-C122R,protein-coding,-,-,-,BA71V-C122R,20210305,-
+10497,41901771,BA71V-C257L,F8212_gp073,-,-,-,-,BA71V-C257L,protein-coding,-,-,-,BA71V-C257L,20210305,-
+10497,41901772,BA71V-C475L,F8212_gp074,-,-,-,-,BA71V-C475L,protein-coding,-,-,-,BA71V-C475L,20201021,-
+10497,41901773,BA71V-C315R,F8212_gp075,-,-,-,-,BA71V-C315R,protein-coding,-,-,-,BA71V-C315R,20210305,-
+10497,41901774,BA71V-C147L (g6L),F8212_gp076,-,-,-,-,BA71V-C147L (g6L),protein-coding,-,-,-,BA71V-C147L (g6L),20210417,-
+10497,41901775,BA71V-C62L,F8212_gp077,-,-,-,-,BA71V-C62L,protein-coding,-,-,-,BA71V-C62L,20210305,-
+10497,41901776,BA71V-C962R,F8212_gp078,-,-,-,-,BA71V-C962R,protein-coding,-,-,-,BA71V-C962R,20210305,-
+10497,41901777,BA71V-B962L,F8212_gp079,-,-,-,-,BA71V-B962L,protein-coding,-,-,-,BA71V-B962L,20210305,-
+10497,41901778,BA71V-B119L (9GL),F8212_gp080,-,-,-,-,BA71V-B119L (9GL),protein-coding,-,-,-,BA71V-B119L (9GL),20210417,-
+10497,41901779,BA71V-B318L,F8212_gp081,-,-,-,-,BA71V-B318L,protein-coding,-,-,-,BA71V-B318L,20201021,-
+10497,41901780,BA71V-B438L (p49),F8212_gp082,-,-,-,-,BA71V-B438L (p49),protein-coding,-,-,-,BA71V-B438L (p49),20210305,-
+10497,41901781,BA71V-B169L,F8212_gp083,-,-,-,-,BA71V-B169L,protein-coding,-,-,-,BA71V-B169L,20210305,-
+10497,41901782,BA71V-B475L,F8212_gp084,-,-,-,-,BA71V-B475L,protein-coding,-,-,-,BA71V-B475L,20210305,-
+10497,41901783,BA71V-B354L,F8212_gp085,-,-,-,-,BA71V-B354L,protein-coding,-,-,-,BA71V-B354L,20210305,-
+10497,41901784,BA71V-B602L (9RL),F8212_gp086,-,-,-,-,BA71V-B602L (9RL),protein-coding,-,-,-,BA71V-B602L (9RL),20201021,-
+10497,41901785,BA71V-B385R,F8212_gp087,-,-,-,-,BA71V-B385R,protein-coding,-,-,-,BA71V-B385R,20210305,-
+10497,41901786,BA71V-B646L (p72),F8212_gp088,-,-,-,-,BA71V-B646L (p72),protein-coding,-,-,-,BA71V-B646L (p72),20210305,-
+10497,41901787,BA71V-B125R,F8212_gp089,-,-,-,-,BA71V-B125R,protein-coding,-,-,-,BA71V-B125R,20210305,-
+10497,41901788,BA71V-B117L,F8212_gp090,-,-,-,-,BA71V-B117L,protein-coding,-,-,-,BA71V-B117L,20201021,-
+10497,41901789,BA71V-B407L,F8212_gp091,-,-,-,-,BA71V-B407L,protein-coding,-,-,-,BA71V-B407L,20210305,-
+10497,41901790,BA71V-B175L,F8212_gp092,-,-,-,-,BA71V-B175L,protein-coding,-,-,-,BA71V-B175L,20210305,-
+10497,41901791,BA71V-B263R,F8212_gp093,-,-,-,-,BA71V-B263R,protein-coding,-,-,-,BA71V-B263R,20210305,-
+10497,41901792,BA71V-B66L,F8212_gp094,-,-,-,-,BA71V-B66L,protein-coding,-,-,-,BA71V-B66L,20210305,-
+10497,41901793,BA71V-G1340L,F8212_gp095,-,-,-,-,BA71V-G1340L,protein-coding,-,-,-,BA71V-G1340L,20201021,-
+10497,41901794,BA71V-G1211R,F8212_gp096,-,-,-,-,BA71V-G1211R,protein-coding,-,-,-,BA71V-G1211R,20210305,-
+10497,41901795,BA71V-CP123L,F8212_gp097,-,-,-,-,BA71V-CP123L,protein-coding,-,-,-,BA71V-CP123L,20210305,-
+10497,41901796,BA71V-CP2475L (p220),F8212_gp098,-,-,-,-,BA71V-CP2475L (p220),protein-coding,-,-,-,BA71V-CP2475L (p220),20210305,-
+10497,41901797,"BA71V-CP204L (p32, p30)",F8212_gp099,-,-,-,-,"BA71V-CP204L (p32, p30)",protein-coding,-,-,-,"BA71V-CP204L (p32, p30)",20210305,-
+10497,41901798,BA71V-CP530R (p60),F8212_gp100,-,-,-,-,BA71V-CP530R (p60),protein-coding,-,-,-,BA71V-CP530R (p60),20201021,-
+10497,41901799,BA71V-CP80R,F8212_gp101,-,-,-,-,BA71V-CP80R,protein-coding,-,-,-,BA71V-CP80R,20210305,-
+10497,41901800,BA71V-CP312R,F8212_gp102,-,-,-,-,BA71V-CP312R,protein-coding,-,-,-,BA71V-CP312R,20210305,-
+10497,41901801,BA71V-O174L,F8212_gp103,-,-,-,-,BA71V-O174L,protein-coding,-,-,-,BA71V-O174L,20201021,-
+10497,41901802,BA71V-O61R (p12),F8212_gp104,-,-,-,-,BA71V-O61R (p12),protein-coding,-,-,-,BA71V-O61R (p12),20210305,-
+10497,41901803,BA71V-NP1450L (g2L),F8212_gp105,-,-,-,-,BA71V-NP1450L (g2L),protein-coding,-,-,-,BA71V-NP1450L (g2L),20210305,-
+10497,41901804,BA71V-NP419L (g3L),F8212_gp106,-,-,-,-,BA71V-NP419L (g3L),protein-coding,-,-,-,BA71V-NP419L (g3L),20210305,-
+10497,41901805,BA71V-NP868R (g4R),F8212_gp107,-,-,-,-,BA71V-NP868R (g4R),protein-coding,-,-,-,BA71V-NP868R (g4R),20201021,-
+10497,41901806,BA71V-D250R (g5R),F8212_gp108,-,-,-,-,BA71V-D250R (g5R),protein-coding,-,-,-,BA71V-D250R (g5R),20210305,-
+10497,41901807,BA71V-D129L,F8212_gp109,-,-,-,-,BA71V-D129L,protein-coding,-,-,-,BA71V-D129L,20210305,-
+10497,41901808,BA71V-D79L (g7L),F8212_gp110,-,-,-,-,BA71V-D79L (g7L),protein-coding,-,-,-,BA71V-D79L (g7L),20210305,-
+10497,41901809,BA71V-D339L (g9L),F8212_gp111,-,-,-,-,BA71V-D339L (g9L),protein-coding,-,-,-,BA71V-D339L (g9L),20210305,-
+10497,41901810,BA71V-D1133L (g10L),F8212_gp112,-,-,-,-,BA71V-D1133L (g10L),protein-coding,-,-,-,BA71V-D1133L (g10L),20210305,-
+10497,41901811,"BA71V-D117L (p17, i1L)",F8212_gp113,-,-,-,-,"BA71V-D117L (p17, i1L)",protein-coding,-,-,-,"BA71V-D117L (p17, i1L)",20210305,-
+10497,41901812,BA71V-D205R (i2R),F8212_gp114,-,-,-,-,BA71V-D205R (i2R),protein-coding,-,-,-,BA71V-D205R (i2R),20210305,-
+10497,41901813,"BA71V-D345L (i3L, i4L)",F8212_gp115,-,-,-,-,"BA71V-D345L (i3L, i4L)",protein-coding,-,-,-,"BA71V-D345L (i3L, i4L)",20210305,-
+10497,41901814,BA71V-S183 (i5L),F8212_gp116,-,-,-,-,BA71V-S183 (i5L),protein-coding,-,-,-,BA71V-S183 (i5L),20210305,-
+10497,41901815,BA71V-S273R (i6R),F8212_gp117,-,-,-,-,BA71V-S273R (i6R),protein-coding,-,-,-,BA71V-S273R (i6R),20201021,-
+10497,41901816,BA71V-P1192R (i7R),F8212_gp118,-,-,-,-,BA71V-P1192R (i7R),protein-coding,-,-,-,BA71V-P1192R (i7R),20210305,-
+10497,41901817,BA71V-H359L (j1L),F8212_gp119,-,-,-,-,BA71V-H359L (j1L),protein-coding,-,-,-,BA71V-H359L (j1L),20210305,-
+10497,41901818,BA71V-H171R (j2R),F8212_gp120,-,-,-,-,BA71V-H171R (j2R),protein-coding,-,-,-,BA71V-H171R (j2R),20201021,-
+10497,41901819,BA71V-H124R,F8212_gp121,-,-,-,-,BA71V-H124R,protein-coding,-,-,-,BA71V-H124R,20210305,-
+10497,41901820,BA71V-H339R (j4R),F8212_gp122,-,-,-,-,BA71V-H339R (j4R),protein-coding,-,-,-,BA71V-H339R (j4R),20210305,-
+10497,41901821,BA71V-H108R (j5R),F8212_gp123,-,-,-,-,BA71V-H108R (j5R),protein-coding,-,-,-,BA71V-H108R (j5R),20210305,-
+10497,41901822,BA71V-H233R (j6R),F8212_gp124,-,-,-,-,BA71V-H233R (j6R),protein-coding,-,-,-,BA71V-H233R (j6R),20201021,-
+10497,41901823,BA71V-H240R (j7R),F8212_gp125,-,-,-,-,BA71V-H240R (j7R),protein-coding,-,-,-,BA71V-H240R (j7R),20210305,-
+10497,41901824,BA71V-R298L (j8L),F8212_gp126,-,-,-,-,BA71V-R298L (j8L),protein-coding,-,-,-,BA71V-R298L (j8L),20201021,-
+10497,41901825,BA71V-Q706L (j10L),F8212_gp127,-,-,-,-,BA71V-Q706L (j10L),protein-coding,-,-,-,BA71V-Q706L (j10L),20210305,-
+10497,41901826,BA71V-QP509L,F8212_gp128,-,-,-,-,BA71V-QP509L,protein-coding,-,-,-,BA71V-QP509L,20210305,-
+10497,41901827,BA71V-QP383R (j11R),F8212_gp129,-,-,-,-,BA71V-QP383R (j11R),protein-coding,-,-,-,BA71V-QP383R (j11R),20201021,-
+10497,41901828,BA71V-E184L (j12L),F8212_gp130,-,-,-,-,BA71V-E184L (j12L),protein-coding,-,-,-,BA71V-E184L (j12L),20210305,-
+10497,41901829,"BA71V-E183L (p54, j13L)",F8212_gp131,-,-,-,-,"BA71V-E183L (p54, j13L)",protein-coding,-,-,-,"BA71V-E183L (p54, j13L)",20210305,-
+10497,41901830,BA71V-E423R (j14R),F8212_gp132,-,-,-,-,BA71V-E423R (j14R),protein-coding,-,-,-,BA71V-E423R (j14R),20210305,-
+10497,41901831,BA71V-E301R (j15R),F8212_gp133,-,-,-,-,BA71V-E301R (j15R),protein-coding,-,-,-,BA71V-E301R (j15R),20210305,-
+10497,41901832,BA71V-E146L (j16L),F8212_gp134,-,-,-,-,BA71V-E146L (j16L),protein-coding,-,-,-,BA71V-E146L (j16L),20210305,-
+10497,41901833,BA71V-E199L (j18L),F8212_gp135,-,-,-,-,BA71V-E199L (j18L),protein-coding,-,-,-,BA71V-E199L (j18L),20210305,-
+10497,41901834,BA71V-E165R (k1R),F8212_gp136,-,-,-,-,BA71V-E165R (k1R),protein-coding,-,-,-,BA71V-E165R (k1R),20210305,-
+10497,41901835,BA71V-E248R (k2R),F8212_gp137,-,-,-,-,BA71V-E248R (k2R),protein-coding,-,-,-,BA71V-E248R (k2R),20210305,-
+10497,41901836,BA71V-E120R (p14.5),F8212_gp138,-,-,-,-,BA71V-E120R (p14.5),protein-coding,-,-,-,BA71V-E120R (p14.5),20210305,-
+10497,41901837,BA71V-E296R (k4R),F8212_gp139,-,-,-,-,BA71V-E296R (k4R),protein-coding,-,-,-,BA71V-E296R (k4R),20210305,-
+10497,41901838,BA71V-I267L (k7L),F8212_gp140,-,-,-,-,BA71V-I267L (k7L),protein-coding,-,-,-,BA71V-I267L (k7L),20210305,-
+10497,41901839,BA71V-I226R (k8R),F8212_gp141,-,-,-,-,BA71V-I226R (k8R),protein-coding,-,-,-,BA71V-I226R (k8R),20201021,-
+10497,41901840,BA71V-I243L (k9L),F8212_gp142,-,-,-,-,BA71V-I243L (k9L),protein-coding,-,-,-,BA71V-I243L (k9L),20210417,-
+10497,41901841,BA71V-I73R (k10R),F8212_gp143,-,-,-,-,BA71V-I73R (k10R),protein-coding,-,-,-,BA71V-I73R (k10R),20210305,-
+10497,41901842,BA71V-I329L (k11L),F8212_gp144,-,-,-,-,BA71V-I329L (k11L),protein-coding,-,-,-,BA71V-I329L (k11L),20210305,-
+10497,41901843,BA71V-I215L (k13L),F8212_gp145,-,-,-,-,BA71V-I215L (k13L),protein-coding,-,-,-,BA71V-I215L (k13L),20210305,-
+10497,41901844,BA71V-I177L (k14L),F8212_gp146,-,-,-,-,BA71V-I177L (k14L),protein-coding,-,-,-,BA71V-I177L (k14L),20210305,-
+10497,41901845,BA71V-I196L (k15L),F8212_gp147,-,-,-,-,BA71V-I196L (k15L),protein-coding,-,-,-,BA71V-I196L (k15L),20210305,-
+10497,41901846,BA71V-DP238L (l1L),F8212_gp148,-,-,-,-,BA71V-DP238L (l1L),protein-coding,-,-,-,BA71V-DP238L (l1L),20210305,-
+10497,41901847,MGF 360-16R,F8212_gp149,-,-,-,-,MGF 360-16R,protein-coding,-,-,-,MGF 360-16R,20210305,-
+10497,41901848,MGF 505-11L,F8212_gp150,-,-,-,-,MGF 505-11L,protein-coding,-,-,-,MGF 505-11L,20210305,-
+10497,41901849,MGF 100-2L,F8212_gp151,-,-,-,-,MGF 100-2L,protein-coding,-,-,-,MGF 100-2L,20210305,-
+10497,41901850,MGF 100-3L,F8212_gp152,-,-,-,-,MGF 100-3L,protein-coding,-,-,-,MGF 100-3L,20210305,-
+10497,41901851,I7L,F8212_gp153,-,-,-,-,I7L,protein-coding,-,-,-,I7L,20201021,-
+10497,41901852,I8L,F8212_gp154,-,-,-,-,I8L,protein-coding,-,-,-,I8L,20210305,-
+10497,41901853,I9R,F8212_gp155,-,-,-,-,I9R,protein-coding,-,-,-,I9R,20210305,-
+10497,41901854,I10L,F8212_gp156,-,-,-,-,I10L,protein-coding,-,-,-,I10L,20210305,-
+10497,41901855,L11L,F8212_gp157,-,-,-,-,L11L,protein-coding,-,-,-,L11L,20210305,-
+10497,41901856,I12R,F8212_gp158,-,-,-,-,I12R,protein-coding,-,-,-,I12R,20210305,-
+10497,41901857,MGF 360-18R,F8212_gp159,-,-,-,-,MGF 360-18R,protein-coding,-,-,-,MGF 360-18R,20201021,-
+10497,41901858,"BA71V-DP71L (I14L, NLS)",F8212_gp160,-,-,-,-,"BA71V-DP71L (I14L, NLS)",protein-coding,-,-,-,"BA71V-DP71L (I14L, NLS)",20210305,-
+10497,41901859,MGF 360-22R,F8212_gp161,-,-,-,-,MGF 360-22R,protein-coding,-,-,-,MGF 360-22R,20201021,-
+10497,41901860,BA71V-KP177R,F8212_gp001,-,-,-,-,BA71V-KP177R,protein-coding,-,-,-,BA71V-KP177R,20201021,-
+10497,41901862,F8213_gp002,F8213_gp002,-,-,-,-,MGF 360-2L,protein-coding,-,-,-,MGF 360-2L,20201021,-
+10497,41901863,F8213_gp003,F8213_gp003,-,-,-,-,KP177R,protein-coding,-,-,-,KP177R,20210305,-
+10497,41901864,F8213_gp004,F8213_gp004,-,-,-,-,L60L,protein-coding,-,-,-,L60L,20210305,-
+10497,41901865,F8213_gp005,F8213_gp005,-,-,-,-,MGF 360-3L,protein-coding,-,-,-,MGF 360-3L,20210305,-
+10497,41901866,F8213_gp006,F8213_gp006,-,-,-,-,MGF 110-1L,protein-coding,-,-,-,MGF 110-1L,20210305,-
+10497,41901867,F8213_gp007,F8213_gp007,-,-,-,-,MGF 110-11L,protein-coding,-,-,-,MGF 110-11L,20201220,-
+10497,41901868,F8213_gp008,F8213_gp008,-,-,-,-,MGF 110-12L,protein-coding,-,-,-,MGF 110-12L,20210305,-
+10497,41901869,F8213_gp009,F8213_gp009,-,-,-,-,MGF 110-13L,protein-coding,-,-,-,MGF 110-13L,20201220,-
+10497,41901870,F8213_gp010,F8213_gp010,-,-,-,-,MGF 110-14,protein-coding,-,-,-,MGF 110-14,20210305,-
+10497,41901871,F8213_gp011,F8213_gp011,-,-,-,-,MGF 360-4L,protein-coding,-,-,-,MGF 360-4L,20210305,-
+10497,41901872,F8213_gp012,F8213_gp012,-,-,-,-,MGF 360-6L,protein-coding,-,-,-,MGF 360-6L,20210305,-
+10497,41901873,F8213_gp013,F8213_gp013,-,-,-,-,X69R,protein-coding,-,-,-,X69R,20210305,-
+10497,41901874,F8213_gp014,F8213_gp014,-,-,-,-,MGF 300-1L,protein-coding,-,-,-,MGF 300-1L,20210305,-
+10497,41901875,F8213_gp015,F8213_gp015,-,-,-,-,X64R,protein-coding,-,-,-,X64R,20210305,-
+10497,41901876,F8213_gp016,F8213_gp016,-,-,-,-,MGF 300-2R,protein-coding,-,-,-,MGF 300-2R,20210305,-
+10497,41901877,F8213_gp017,F8213_gp017,-,-,-,-,MGF 300-4L,protein-coding,-,-,-,MGF 300-4L,20210305,-
+10497,41901878,F8213_gp018,F8213_gp018,-,-,-,-,MGF 300-3L,protein-coding,-,-,-,MGF 300-3L,20210305,-
+10497,41901879,F8213_gp019,F8213_gp019,-,-,-,-,MGF 360-8L,protein-coding,-,-,-,MGF 360-8L,20210305,-
+10497,41901880,F8213_gp020,F8213_gp020,-,-,-,-,MGF 360-9L,protein-coding,-,-,-,MGF 360-9L,20210305,-
+10497,41901881,F8213_gp021,F8213_gp021,-,-,-,-,MGF 360L-10L,protein-coding,-,-,-,MGF 360L-10L,20210305,-
+10497,41901882,F8213_gp022,F8213_gp022,-,-,-,-,MGF 360-11L,protein-coding,-,-,-,MGF 360-11L,20210305,-
+10497,41901883,F8213_gp023,F8213_gp023,-,-,-,-,MGF 505-1R,protein-coding,-,-,-,MGF 505-1R,20210305,-
+10497,41901884,F8213_gp024,F8213_gp024,-,-,-,-,MGF 360-12L,protein-coding,-,-,-,MGF 360-12L,20210305,-
+10497,41901885,F8213_gp025,F8213_gp025,-,-,-,-,MGF 360-13L,protein-coding,-,-,-,MGF 360-13L,20210305,-
+10497,41901886,F8213_gp026,F8213_gp026,-,-,-,-,MGF 360-14L,protein-coding,-,-,-,MGF 360-14L,20210305,-
+10497,41901887,F8213_gp027,F8213_gp027,-,-,-,-,MGF 505-2R,protein-coding,-,-,-,MGF 505-2R,20210305,-
+10497,41901888,F8213_gp028,F8213_gp028,-,-,-,-,MGF 505-3R,protein-coding,-,-,-,MGF 505-3R,20210305,-
+10497,41901889,F8213_gp029,F8213_gp029,-,-,-,-,MGF 505-4R,protein-coding,-,-,-,MGF 505-4R,20210305,-
+10497,41901890,F8213_gp030,F8213_gp030,-,-,-,-,MGF 505-5R,protein-coding,-,-,-,MGF 505-5R,20210305,-
+10497,41901891,F8213_gp031,F8213_gp031,-,-,-,-,MGF 505-6R,protein-coding,-,-,-,MGF 505-6R,20210305,-
+10497,41901892,F8213_gp032,F8213_gp032,-,-,-,-,MGF 505-7R,protein-coding,-,-,-,MGF 505-7R,20210305,-
+10497,41901893,F8213_gp033,F8213_gp033,-,-,-,-,MGF 505-9R,protein-coding,-,-,-,MGF 505-9R,20210305,-
+10497,41901894,F8213_gp034,F8213_gp034,-,-,-,-,MGF 505-10R,protein-coding,-,-,-,MGF 505-10R,20210305,-
+10497,41901895,F8213_gp035,F8213_gp035,-,-,-,-,A224L,protein-coding,-,-,-,A224L,20210305,-
+10497,41901896,F8213_gp036,F8213_gp036,-,-,-,-,ASFV26544 00600,protein-coding,-,-,-,ASFV26544 00600,20201021,-
+10497,41901897,F8213_gp037,F8213_gp037,-,-,-,-,A104R,protein-coding,-,-,-,A104R,20210305,-
+10497,41901898,F8213_gp038,F8213_gp038,-,-,-,-,A240L,protein-coding,-,-,-,A240L,20210305,-
+10497,41901899,F8213_gp039,F8213_gp039,-,-,-,-,A118R,protein-coding,-,-,-,A118R,20210305,-
+10497,41901900,F8213_gp040,F8213_gp040,-,-,-,-,A151R,protein-coding,-,-,-,A151R,20210305,-
+10497,41901901,F8213_gp041,F8213_gp041,-,-,-,-,MGF 360-15R,protein-coding,-,-,-,MGF 360-15R,20210305,-
+10497,41901902,F8213_gp042,F8213_gp042,-,-,-,-,A238L,protein-coding,-,-,-,A238L,20201220,-
+10497,41901903,F8213_gp043,F8213_gp043,-,-,-,-,A859L,protein-coding,-,-,-,A859L,20210305,-
+10497,41901904,F8213_gp044,F8213_gp044,-,-,-,-,A179L,protein-coding,-,-,-,A179L,20210305,-
+10497,41901905,F8213_gp045,F8213_gp045,-,-,-,-,A137R,protein-coding,-,-,-,A137R,20210305,-
+10497,41901906,F8213_gp046,F8213_gp046,-,-,-,-,F317L,protein-coding,-,-,-,F317L,20210305,-
+10497,41901907,F8213_gp047,F8213_gp047,-,-,-,-,ribonucleotide reductase of class Ia beta subunit,protein-coding,-,-,-,ribonucleotide reductase of class Ia beta subunit,20210305,-
+10497,41901908,F8213_gp048,F8213_gp048,-,-,-,-,ribonucleotide reductase of class Ia alpha subunit,protein-coding,-,-,-,ribonucleotide reductase of class Ia alpha subunit,20210305,-
+10497,41901909,F8213_gp049,F8213_gp049,-,-,-,-,F165R,protein-coding,-,-,-,F165R,20210305,-
+10497,41901910,F8213_gp050,F8213_gp050,-,-,-,-,F1055L,protein-coding,-,-,-,F1055L,20210305,-
+10497,41901911,F8213_gp051,F8213_gp051,-,-,-,-,K205R,protein-coding,-,-,-,K205R,20210305,-
+10497,41901912,F8213_gp052,F8213_gp052,-,-,-,-,K78R,protein-coding,-,-,-,K78R,20210305,-
+10497,41901913,F8213_gp053,F8213_gp053,-,-,-,-,Thymidine kinase,protein-coding,-,-,-,Thymidine kinase,20210305,-
+10497,41901914,F8213_gp054,F8213_gp054,-,-,-,-,K145R,protein-coding,-,-,-,K145R,20210305,-
+10497,41901915,F8213_gp055,F8213_gp055,-,-,-,-,K421R,protein-coding,-,-,-,K421R,20210305,-
+10497,41901916,F8213_gp056,F8213_gp056,-,-,-,-,EP1242L,protein-coding,-,-,-,EP1242L,20210305,-
+10497,41901917,F8213_gp057,F8213_gp057,-,-,-,-,EP84R,protein-coding,-,-,-,EP84R,20210305,-
+10497,41901918,F8213_gp058,F8213_gp058,-,-,-,-,EP424R,protein-coding,-,-,-,EP424R,20210305,-
+10497,41901919,F8213_gp059,F8213_gp059,-,-,-,-,EP152R,protein-coding,-,-,-,EP152R,20210305,-
+10497,41901920,F8213_gp060,F8213_gp060,-,-,-,-,EP153R,protein-coding,-,-,-,EP153R,20210305,-
+10497,41901921,F8213_gp061,F8213_gp061,-,-,-,-,EP402R,protein-coding,-,-,-,EP402R,20210305,-
+10497,41901922,F8213_gp062,F8213_gp062,-,-,-,-,EP364R,protein-coding,-,-,-,EP364R,20210305,-
+10497,41901923,F8213_gp063,F8213_gp063,-,-,-,-,M1249L,protein-coding,-,-,-,M1249L,20210305,-
+10497,41901924,F8213_gp064,F8213_gp064,-,-,-,-,M448R,protein-coding,-,-,-,M448R,20210305,-
+10497,41901925,F8213_gp065,F8213_gp065,-,-,-,-,C129R,protein-coding,-,-,-,C129R,20210305,-
+10497,41901926,F8213_gp066,F8213_gp066,-,-,-,-,C84L,protein-coding,-,-,-,C84L,20210305,-
+10497,41901927,F8213_gp067,F8213_gp067,-,-,-,-,C717R,protein-coding,-,-,-,C717R,20210305,-
+10497,41901928,F8213_gp068,F8213_gp068,-,-,-,-,C122R,protein-coding,-,-,-,C122R,20210305,-
+10497,41901929,F8213_gp069,F8213_gp069,-,-,-,-,C257L,protein-coding,-,-,-,C257L,20210305,-
+10497,41901930,F8213_gp070,F8213_gp070,-,-,-,-,C475L,protein-coding,-,-,-,C475L,20210305,-
+10497,41901931,F8213_gp071,F8213_gp071,-,-,-,-,C315R,protein-coding,-,-,-,C315R,20210305,-
+10497,41901932,F8213_gp072,F8213_gp072,-,-,-,-,C147L,protein-coding,-,-,-,C147L,20210305,-
+10497,41901933,F8213_gp073,F8213_gp073,-,-,-,-,C62L,protein-coding,-,-,-,C62L,20210305,-
+10497,41901934,F8213_gp074,F8213_gp074,-,-,-,-,C962R,protein-coding,-,-,-,C962R,20210305,-
+10497,41901935,F8213_gp075,F8213_gp075,-,-,-,-,ASFV26544 01020,protein-coding,-,-,-,ASFV26544 01020,20210305,-
+10497,41901936,F8213_gp076,F8213_gp076,-,-,-,-,B962L,protein-coding,-,-,-,B962L,20210305,-
+10497,41901937,F8213_gp077,F8213_gp077,-,-,-,-,B119L,protein-coding,-,-,-,B119L,20210305,-
+10497,41901938,F8213_gp078,F8213_gp078,-,-,-,-,B318L,protein-coding,-,-,-,B318L,20210305,-
+10497,41901939,F8213_gp079,F8213_gp079,-,-,-,-,B438L,protein-coding,-,-,-,B438L,20210305,-
+10497,41901940,F8213_gp080,F8213_gp080,-,-,-,-,B169L,protein-coding,-,-,-,B169L,20210305,-
+10497,41901941,F8213_gp081,F8213_gp081,-,-,-,-,B475L,protein-coding,-,-,-,B475L,20210305,-
+10497,41901942,F8213_gp082,F8213_gp082,-,-,-,-,B354L,protein-coding,-,-,-,B354L,20210305,-
+10497,41901943,F8213_gp083,F8213_gp083,-,-,-,-,B602L,protein-coding,-,-,-,B602L,20210305,-
+10497,41901944,F8213_gp084,F8213_gp084,-,-,-,-,B385R,protein-coding,-,-,-,B385R,20210305,-
+10497,41901945,F8213_gp085,F8213_gp085,-,-,-,-,B646L,protein-coding,-,-,-,B646L,20210305,-
+10497,41901946,F8213_gp086,F8213_gp086,-,-,-,-,B125R,protein-coding,-,-,-,B125R,20210305,-
+10497,41901947,F8213_gp087,F8213_gp087,-,-,-,-,B117L,protein-coding,-,-,-,B117L,20201021,-
+10497,41901948,F8213_gp088,F8213_gp088,-,-,-,-,B407L,protein-coding,-,-,-,B407L,20210305,-
+10497,41901949,F8213_gp089,F8213_gp089,-,-,-,-,B175L,protein-coding,-,-,-,B175L,20210305,-
+10497,41901950,F8213_gp090,F8213_gp090,-,-,-,-,B263R,protein-coding,-,-,-,B263R,20210305,-
+10497,41901951,F8213_gp091,F8213_gp091,-,-,-,-,B66L,protein-coding,-,-,-,B66L,20210305,-
+10497,41901952,F8213_gp092,F8213_gp092,-,-,-,-,G1340L,protein-coding,-,-,-,G1340L,20210305,-
+10497,41901953,F8213_gp093,F8213_gp093,-,-,-,-,G1211R,protein-coding,-,-,-,G1211R,20210417,-
+10497,41901954,F8213_gp094,F8213_gp094,-,-,-,-,CP123L,protein-coding,-,-,-,CP123L,20210305,-
+10497,41901955,F8213_gp095,F8213_gp095,-,-,-,-,CP2475L,protein-coding,-,-,-,CP2475L,20210305,-
+10497,41901956,F8213_gp096,F8213_gp096,-,-,-,-,CP204L,protein-coding,-,-,-,CP204L,20210305,-
+10497,41901957,F8213_gp097,F8213_gp097,-,-,-,-,CP530R,protein-coding,-,-,-,CP530R,20210305,-
+10497,41901958,F8213_gp098,F8213_gp098,-,-,-,-,CP80R,protein-coding,-,-,-,CP80R,20210305,-
+10497,41901959,F8213_gp099,F8213_gp099,-,-,-,-,CP312R,protein-coding,-,-,-,CP312R,20201021,-
+10497,41901960,F8213_gp100,F8213_gp100,-,-,-,-,O174L,protein-coding,-,-,-,O174L,20210305,-
+10497,41901961,F8213_gp101,F8213_gp101,-,-,-,-,O61R,protein-coding,-,-,-,O61R,20210305,-
+10497,41901962,F8213_gp102,F8213_gp102,-,-,-,-,NP1450L,protein-coding,-,-,-,NP1450L,20210305,-
+10497,41901963,F8213_gp103,F8213_gp103,-,-,-,-,NP419L,protein-coding,-,-,-,NP419L,20210305,-
+10497,41901964,F8213_gp104,F8213_gp104,-,-,-,-,NP868R,protein-coding,-,-,-,NP868R,20210327,-
+10497,41901965,F8213_gp105,F8213_gp105,-,-,-,-,D250R,protein-coding,-,-,-,D250R,20210305,-
+10497,41901966,F8213_gp106,F8213_gp106,-,-,-,-,D129L,protein-coding,-,-,-,D129L,20210305,-
+10497,41901967,F8213_gp107,F8213_gp107,-,-,-,-,D79L,protein-coding,-,-,-,D79L,20210305,-
+10497,41901968,F8213_gp108,F8213_gp108,-,-,-,-,D339L,protein-coding,-,-,-,D339L,20210305,-
+10497,41901969,F8213_gp109,F8213_gp109,-,-,-,-,D1133L,protein-coding,-,-,-,D1133L,20210305,-
+10497,41901970,F8213_gp110,F8213_gp110,-,-,-,-,D117L,protein-coding,-,-,-,D117L,20210305,-
+10497,41901971,F8213_gp111,F8213_gp111,-,-,-,-,D205R,protein-coding,-,-,-,D205R,20210327,-
+10497,41901972,F8213_gp112,F8213_gp112,-,-,-,-,D345L,protein-coding,-,-,-,D345L,20210305,-
+10497,41901973,F8213_gp113,F8213_gp113,-,-,-,-,S183L,protein-coding,-,-,-,S183L,20210305,-
+10497,41901974,F8213_gp114,F8213_gp114,-,-,-,-,S273R,protein-coding,-,-,-,S273R,20210305,-
+10497,41901975,F8213_gp115,F8213_gp115,-,-,-,-,P1192R,protein-coding,-,-,-,P1192R,20210305,-
+10497,41901976,F8213_gp116,F8213_gp116,-,-,-,-,H359L,protein-coding,-,-,-,H359L,20210305,-
+10497,41901977,F8213_gp117,F8213_gp117,-,-,-,-,H171R,protein-coding,-,-,-,H171R,20210305,-
+10497,41901978,F8213_gp118,F8213_gp118,-,-,-,-,H124R,protein-coding,-,-,-,H124R,20210305,-
+10497,41901979,F8213_gp119,F8213_gp119,-,-,-,-,H339R,protein-coding,-,-,-,H339R,20210305,-
+10497,41901980,F8213_gp120,F8213_gp120,-,-,-,-,H108R,protein-coding,-,-,-,H108R,20210305,-
+10497,41901981,F8213_gp121,F8213_gp121,-,-,-,-,H233R,protein-coding,-,-,-,H233R,20210305,-
+10497,41901982,F8213_gp122,F8213_gp122,-,-,-,-,H240R,protein-coding,-,-,-,H240R,20210305,-
+10497,41901983,F8213_gp123,F8213_gp123,-,-,-,-,R298L,protein-coding,-,-,-,R298L,20210305,-
+10497,41901984,F8213_gp124,F8213_gp124,-,-,-,-,Q706L,protein-coding,-,-,-,Q706L,20210305,-
+10497,41901985,F8213_gp125,F8213_gp125,-,-,-,-,putative helicase,protein-coding,-,-,-,putative helicase,20210305,-
+10497,41901986,F8213_gp126,F8213_gp126,-,-,-,-,QP383R,protein-coding,-,-,-,QP383R,20210305,-
+10497,41901987,F8213_gp127,F8213_gp127,-,-,-,-,E184L,protein-coding,-,-,-,E184L,20210305,-
+10497,41901988,F8213_gp128,F8213_gp128,-,-,-,-,E183L,protein-coding,-,-,-,E183L,20210305,-
+10497,41901989,F8213_gp129,F8213_gp129,-,-,-,-,E423R,protein-coding,-,-,-,E423R,20210305,-
+10497,41901990,F8213_gp130,F8213_gp130,-,-,-,-,E301R,protein-coding,-,-,-,E301R,20210305,-
+10497,41901991,F8213_gp131,F8213_gp131,-,-,-,-,E146L,protein-coding,-,-,-,E146L,20210305,-
+10497,41901992,F8213_gp132,F8213_gp132,-,-,-,-,E199L,protein-coding,-,-,-,E199L,20210305,-
+10497,41901993,F8213_gp133,F8213_gp133,-,-,-,-,E165R,protein-coding,-,-,-,E165R,20210305,-
+10497,41901994,F8213_gp134,F8213_gp134,-,-,-,-,E248R,protein-coding,-,-,-,E248R,20210305,-
+10497,41901995,F8213_gp135,F8213_gp135,-,-,-,-,E120R,protein-coding,-,-,-,E120R,20210305,-
+10497,41901996,F8213_gp136,F8213_gp136,-,-,-,-,EP296R,protein-coding,-,-,-,EP296R,20210305,-
+10497,41901997,F8213_gp137,F8213_gp137,-,-,-,-,E111R,protein-coding,-,-,-,E111R,20210305,-
+10497,41901998,F8213_gp138,F8213_gp138,-,-,-,-,E66L,protein-coding,-,-,-,E66L,20210305,-
+10497,41901999,F8213_gp139,F8213_gp139,-,-,-,-,I267L,protein-coding,-,-,-,I267L,20210305,-
+10497,41902000,F8213_gp140,F8213_gp140,-,-,-,-,I226R,protein-coding,-,-,-,I226R,20210305,-
+10497,41902001,F8213_gp141,F8213_gp141,-,-,-,-,I243L,protein-coding,-,-,-,I243L,20210305,-
+10497,41902002,F8213_gp142,F8213_gp142,-,-,-,-,I73R,protein-coding,-,-,-,I73R,20210305,-
+10497,41902003,F8213_gp143,F8213_gp143,-,-,-,-,I329L,protein-coding,-,-,-,I329L,20210305,-
+10497,41902004,F8213_gp144,F8213_gp144,-,-,-,-,I215L,protein-coding,-,-,-,I215L,20210305,-
+10497,41902005,F8213_gp145,F8213_gp145,-,-,-,-,I177L,protein-coding,-,-,-,I177L,20210305,-
+10497,41902006,F8213_gp146,F8213_gp146,-,-,-,-,I196L,protein-coding,-,-,-,I196L,20210305,-
+10497,41902007,F8213_gp147,F8213_gp147,-,-,-,-,DP238L,protein-coding,-,-,-,DP238L,20210305,-
+10497,41902008,F8213_gp148,F8213_gp148,-,-,-,-,MGF 360-16R,protein-coding,-,-,-,MGF 360-16R,20210305,-
+10497,41902009,F8213_gp149,F8213_gp149,-,-,-,-,MGF 505-11L,protein-coding,-,-,-,MGF 505-11L,20210305,-
+10497,41902010,F8213_gp150,F8213_gp150,-,-,-,-,MGF 100-2L,protein-coding,-,-,-,MGF 100-2L,20210305,-
+10497,41902011,F8213_gp151,F8213_gp151,-,-,-,-,MGF 100-3L,protein-coding,-,-,-,MGF 100-3L,20210305,-
+10497,41902012,F8213_gp152,F8213_gp152,-,-,-,-,I7L,protein-coding,-,-,-,I7L,20210305,-
+10497,41902013,F8213_gp153,F8213_gp153,-,-,-,-,I8L,protein-coding,-,-,-,I8L,20210305,-
+10497,41902014,F8213_gp154,F8213_gp154,-,-,-,-,I9R,protein-coding,-,-,-,I9R,20210305,-
+10497,41902015,F8213_gp155,F8213_gp155,-,-,-,-,I10L,protein-coding,-,-,-,I10L,20210305,-
+10497,41902016,F8213_gp156,F8213_gp156,-,-,-,-,L11L,protein-coding,-,-,-,L11L,20210305,-
+10497,41902017,F8213_gp157,F8213_gp157,-,-,-,-,MGF 360-18R,protein-coding,-,-,-,MGF 360-18R,20210305,-
+10497,41902018,F8213_gp158,F8213_gp158,-,-,-,-,DP71L,protein-coding,-,-,-,DP71L,20210305,-
+10497,41902019,F8213_gp159,F8213_gp159,-,-,-,-,DP96R,protein-coding,-,-,-,DP96R,20210305,-
+10497,41902020,F8213_gp160,F8213_gp160,-,-,-,-,MGF 360-19R,protein-coding,-,-,-,MGF 360-19R,20210305,-
+10497,41902021,F8213_gp161,F8213_gp161,-,-,-,-,ASFV26544 01960,protein-coding,-,-,-,ASFV26544 01960,20201021,-
+10497,41902022,F8213_gp162,F8213_gp162,-,-,-,-,MGF 360-20R,protein-coding,-,-,-,MGF 360-20R,20210305,-
+10497,41902023,F8213_gp163,F8213_gp163,-,-,-,-,DP60R,protein-coding,-,-,-,DP60R,20210305,-
+10497,41902024,F8213_gp164,F8213_gp164,-,-,-,-,DP86L,protein-coding,-,-,-,DP86L,20210305,-
+10497,41902025,F8213_gp001,F8213_gp001,-,-,-,-,MGF 360-1L,protein-coding,-,-,-,MGF 360-1L,20210305,-
+10497,41902027,KP93L,F8221_gp002,AFSV47Ss_0002,-,-,-,pKP93L,protein-coding,-,-,-,pKP93L,20210305,-
+10497,41902028,URF1,F8221_gp003,AFSV47Ss_0003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902029,MGF 360-1L,F8221_gp004,AFSV47Ss_0004,-,-,-,pMGF 360-1L,protein-coding,-,-,-,pMGF 360-1L,20210305,-
+10497,41902030,MGF 360-2L,F8221_gp005,AFSV47Ss_0005,-,-,-,pMGF 360-2L,protein-coding,-,-,-,pMGF 360-2L,20210305,-
+10497,41902031,KP177R,F8221_gp006,AFSV47Ss_0006,-,-,-,pKP177R,protein-coding,-,-,-,pKP177R,20210305,-
+10497,41902032,L83L,F8221_gp007,AFSV47Ss_0007,-,-,-,pL83L,protein-coding,-,-,-,pL83L,20210305,-
+10497,41902033,L60L,F8221_gp008,AFSV47Ss_0008,-,-,-,pL60L,protein-coding,-,-,-,pL60L,20210305,-
+10497,41902034,MGF 360-3L,F8221_gp009,AFSV47Ss_0009,-,-,-,pMGF 360-3L,protein-coding,-,-,-,pMGF 360-3L,20210305,-
+10497,41902035,URF2,F8221_gp010,AFSV47Ss_0010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902036,MGF 110-1L,F8221_gp011,AFSV47Ss_0011,-,-,-,pMGF 110-1L,protein-coding,-,-,-,pMGF 110-1L,20210305,-
+10497,41902037,URF3,F8221_gp012,AFSV47Ss_0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902038,MGF 110-13L,F8221_gp013,AFSV47Ss_0013,-,-,-,pMGF 110-13L,protein-coding,-,-,-,pMGF 110-13L,20210305,-
+10497,41902039,MGF 110-11L,F8221_gp014,AFSV47Ss_0014,-,-,-,pMGF 110-11L,protein-coding,-,-,-,pMGF 110-11L,20210305,-
+10497,41902040,MGF 110-12L,F8221_gp015,AFSV47Ss_0015,-,-,-,pMGF 110-12L,protein-coding,-,-,-,pMGF 110-12L,20210305,-
+10497,41902041,MGF 110-13L,F8221_gp016,AFSV47Ss_0016,-,-,-,pMGF 110-13L,protein-coding,-,-,-,pMGF 110-13L,20201220,-
+10497,41902042,MGF 110-14L,F8221_gp018,AFSV47Ss_0018,-,-,-,pMGF 110-14L,protein-coding,-,-,-,pMGF 110-14L,20210305,-
+10497,41902043,LIS117,F8221_gp017,AFSV47Ss_0017,-,-,-,pLIS117,protein-coding,-,-,-,pLIS117,20201220,-
+10497,41902044,MGF 360-4L,F8221_gp019,AFSV47Ss_0019,-,-,-,pMGF 360-4L,protein-coding,-,-,-,pMGF 360-4L,20210305,-
+10497,41902045,MGF 360-6L,F8221_gp020,AFSV47Ss_0020,-,-,-,pMGF 360-6L,protein-coding,-,-,-,pMGF 360-6L,20210305,-
+10497,41902046,X69R,F8221_gp021,AFSV47Ss_0021,-,-,-,pX69R,protein-coding,-,-,-,pX69R,20210305,-
+10497,41902047,MGF 300-1L,F8221_gp022,AFSV47Ss_0022,-,-,-,pMGF 300-1L,protein-coding,-,-,-,pMGF 300-1L,20210305,-
+10497,41902048,X64R,F8221_gp023,AFSV47Ss_0023,-,-,-,pX64R,protein-coding,-,-,-,pX64R,20210305,-
+10497,41902049,MGF 300-2R,F8221_gp024,AFSV47Ss_0024,-,-,-,pMGF 300-2R,protein-coding,-,-,-,pMGF 300-2R,20210305,-
+10497,41902050,URF4,F8221_gp025,AFSV47Ss_0025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902051,MGF 300-4L,F8221_gp026,AFSV47Ss_0027,-,-,-,pMGF 300-4L,protein-coding,-,-,-,pMGF 300-4L,20210305,-
+10497,41902052,MGF 360-8L,F8221_gp028,AFSV47Ss_0028,-,-,-,pMGF 360-8L,protein-coding,-,-,-,pMGF 360-8L,20210305,-
+10497,41902053,MGF 300-3L,F8221_gp027,AFSV47Ss_0026,-,-,-,pMGF 300-3L,protein-coding,-,-,-,pMGF 300-3L,20210305,-
+10497,41902054,URF5,F8221_gp029,AFSV47Ss_0029,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902055,MGF 360-9L,F8221_gp030,AFSV47Ss_0030,-,-,-,pMGF 360-9L,protein-coding,-,-,-,pMGF 360-9L,20210305,-
+10497,41902056,MGF 360-10L,F8221_gp031,AFSV47Ss_0031,-,-,-,pMGF 360-10L,protein-coding,-,-,-,pMGF 360-10L,20210305,-
+10497,41902057,MGF 360-11L,F8221_gp032,AFSV47Ss_0032,-,-,-,pMGF 360-11L,protein-coding,-,-,-,pMGF 360-11L,20210305,-
+10497,41902058,URF6,F8221_gp033,AFSV47Ss_0033,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902059,URF7,F8221_gp034,AFSV47Ss_0034,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902060,MGF 505-1R,F8221_gp035,AFSV47Ss_0035,-,-,-,pMGF 505-1R,protein-coding,-,-,-,pMGF 505-1R,20210305,-
+10497,41902061,URF8,F8221_gp036,AFSV47Ss_0036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902062,URF9,F8221_gp037,AFSV47Ss_0037,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902063,MGF 360-12L,F8221_gp038,AFSV47Ss_0038,-,-,-,pMGF 360-12L,protein-coding,-,-,-,pMGF 360-12L,20210305,-
+10497,41902064,URF10,F8221_gp039,AFSV47Ss_0039,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902065,MGF 360-13L,F8221_gp040,AFSV47Ss_0040,-,-,-,pMGF 360-13L,protein-coding,-,-,-,pMGF 360-13L,20210305,-
+10497,41902066,URF11,F8221_gp041,AFSV47Ss_0041,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902067,URF12,F8221_gp042,AFSV47Ss_0042,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902068,MGF 360-14L,F8221_gp043,AFSV47Ss_0043,-,-,-,MGF 360-14L,protein-coding,-,-,-,MGF 360-14L,20210305,-
+10497,41902069,MGF 505-2R,F8221_gp044,AFSV47Ss_0044,-,-,-,pMGF 505-2R,protein-coding,-,-,-,pMGF 505-2R,20210305,-
+10497,41902070,URF13,F8221_gp045,AFSV47Ss_0045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902071,MGF 505-3R,F8221_gp046,AFSV47Ss_0046,-,-,-,pMGF 505-3R,protein-coding,-,-,-,pMGF 505-3R,20210305,-
+10497,41902072,URF14,F8221_gp047,AFSV47Ss_0047,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902073,MGF 505-4R,F8221_gp048,AFSV47Ss_0048,-,-,-,pMGF 505-4R,protein-coding,-,-,-,pMGF 505-4R,20210305,-
+10497,41902074,MGF 505-5R,F8221_gp049,AFSV47Ss_0049,-,-,-,pMGF 505-5R,protein-coding,-,-,-,pMGF 505-5R,20210305,-
+10497,41902075,MGF 505-6R,F8221_gp050,AFSV47Ss_0050,-,-,-,pMGF 505-6R,protein-coding,-,-,-,pMGF 505-6R,20210305,-
+10497,41902076,MGF 505-7R,F8221_gp051,AFSV47Ss_0051,-,-,-,pMGF 505-7R,protein-coding,-,-,-,pMGF 505-7R,20210305,-
+10497,41902077,URF15,F8221_gp052,AFSV47Ss_0052,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902078,MGF 505-9R,F8221_gp053,AFSV47Ss_0053,-,-,-,pMGF 505-9R,protein-coding,-,-,-,pMGF 505-9R,20210305,-
+10497,41902079,MGF 505-10R,F8221_gp054,AFSV47Ss_0054,-,-,-,pMGF 505-10R,protein-coding,-,-,-,pMGF 505-10R,20210305,-
+10497,41902080,A224L,F8221_gp055,AFSV47Ss_0055,-,-,-,pA224L,protein-coding,-,-,-,pA224L,20210305,-
+10497,41902081,A104R,F8221_gp056,AFSV47Ss_0056,-,-,-,pA104R,protein-coding,-,-,-,pA104R,20210305,-
+10497,41902082,A240L,F8221_gp057,AFSV47Ss_0057,-,-,-,pA240L,protein-coding,-,-,-,pA240L,20210305,-
+10497,41902083,A118R,F8221_gp058,AFSV47Ss_0058,-,-,-,pA118R,protein-coding,-,-,-,pA118R,20210305,-
+10497,41902084,A151R,F8221_gp059,AFSV47Ss_0059,-,-,-,pA151R,protein-coding,-,-,-,pA151R,20210305,-
+10497,41902085,MGF 360-15R,F8221_gp060,AFSV47Ss_0060,-,-,-,pMGF 360-15R,protein-coding,-,-,-,pMGF 360-15R,20210305,-
+10497,41902086,A238L,F8221_gp061,AFSV47Ss_0061,-,-,-,pA238L,protein-coding,-,-,-,pA238L,20210305,-
+10497,41902087,URF16,F8221_gp062,AFSV47Ss_0062,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902088,URF17,F8221_gp063,AFSV47Ss_0063,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902089,URF18,F8221_gp064,AFSV47Ss_0064,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902090,A859L,F8221_gp065,AFSV47Ss_0065,-,-,-,pA859L,protein-coding,-,-,-,pA859L,20210305,-
+10497,41902091,A179L,F8221_gp066,AFSV47Ss_0066,-,-,-,A179L,protein-coding,-,-,-,A179L,20210305,-
+10497,41902092,A137R,F8221_gp067,AFSV47Ss_0067,-,-,-,pA137R,protein-coding,-,-,-,pA137R,20210305,-
+10497,41902093,F317L,F8221_gp068,AFSV47Ss_0068,-,-,-,pF317L,protein-coding,-,-,-,pF317L,20210305,-
+10497,41902094,F334L,F8221_gp069,AFSV47Ss_0069,-,-,-,pF334L,protein-coding,-,-,-,pF334L,20210305,-
+10497,41902095,F778R,F8221_gp070,AFSV47Ss_0070,-,-,-,F778R,protein-coding,-,-,-,F778R,20210305,-
+10497,41902096,URF19,F8221_gp071,AFSV47Ss_0071,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902097,F165R,F8221_gp072,AFSV47Ss_0072,-,-,-,pF165R,protein-coding,-,-,-,pF165R,20210305,-
+10497,41902098,F1055L,F8221_gp073,AFSV47Ss_0073,-,-,-,pF1055L,protein-coding,-,-,-,pF1055L,20210305,-
+10497,41902099,K205R,F8221_gp074,AFSV47Ss_0074,-,-,-,pK205R,protein-coding,-,-,-,pK205R,20210305,-
+10497,41902100,BA71V-K78R,F8221_gp075,-,-,-,-,pK78R,protein-coding,-,-,-,pK78R,20210305,-
+10497,41902101,K196R,F8221_gp076,AFSV47Ss_0076,-,-,-,pK196R,protein-coding,-,-,-,pK196R,20210305,-
+10497,41902102,K145R,F8221_gp077,AFSV47Ss_0077,-,-,-,pK145R,protein-coding,-,-,-,pK145R,20210305,-
+10497,41902103,K421R,F8221_gp078,AFSV47Ss_0078,-,-,-,pK421R,protein-coding,-,-,-,pK421R,20210305,-
+10497,41902104,EP1242L,F8221_gp079,AFSV47Ss_0079,-,-,-,pEP1242L,protein-coding,-,-,-,pEP1242L,20210305,-
+10497,41902105,URF20,F8221_gp080,AFSV47Ss_0080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902106,EP84R,F8221_gp081,AFSV47Ss_0081,-,-,-,EP84R,protein-coding,-,-,-,EP84R,20210305,-
+10497,41902107,EP424R,F8221_gp082,AFSV47Ss_0082,-,-,-,pEP424R,protein-coding,-,-,-,pEP424R,20210305,-
+10497,41902108,EP152R,F8221_gp083,AFSV47Ss_0083,-,-,-,pEP152R,protein-coding,-,-,-,pEP152R,20210305,-
+10497,41902109,EP153R,F8221_gp084,AFSV47Ss_0084,-,-,-,pEP153R,protein-coding,-,-,-,pEP153R,20210305,-
+10497,41902110,EP402R,F8221_gp085,AFSV47Ss_0085,-,-,-,pEP402R,protein-coding,-,-,-,pEP402R,20210305,-
+10497,41902111,URF21,F8221_gp086,AFSV47Ss_0086,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902112,EP364R,F8221_gp087,AFSV47Ss_0087,-,-,-,pEP364R,protein-coding,-,-,-,pEP364R,20201021,-
+10497,41902113,M1249L,F8221_gp088,AFSV47Ss_0088,-,-,-,pM1249L,protein-coding,-,-,-,pM1249L,20210305,-
+10497,41902114,M448R,F8221_gp089,AFSV47Ss_0089,-,-,-,pM448R,protein-coding,-,-,-,pM448R,20210305,-
+10497,41902115,C129R,F8221_gp090,AFSV47Ss_0090,-,-,-,pC129R,protein-coding,-,-,-,pC129R,20210305,-
+10497,41902116,C84L,F8221_gp091,AFSV47Ss_0091,-,-,-,pC84L,protein-coding,-,-,-,pC84L,20210305,-
+10497,41902117,C717R,F8221_gp092,AFSV47Ss_0092,-,-,-,pC717R,protein-coding,-,-,-,pC717R,20210305,-
+10497,41902118,URF22,F8221_gp093,AFSV47Ss_0093,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902119,C122R,F8221_gp094,AFSV47Ss_0094,-,-,-,pC122R,protein-coding,-,-,-,pC122R,20210305,-
+10497,41902120,C257L,F8221_gp095,AFSV47Ss_0095,-,-,-,pC257L,protein-coding,-,-,-,pC257L,20210305,-
+10497,41902121,C475L,F8221_gp096,AFSV47Ss_0096,-,-,-,pC475L,protein-coding,-,-,-,pC475L,20210305,-
+10497,41902122,C315R,F8221_gp097,AFSV47Ss_0097,-,-,-,pC315R,protein-coding,-,-,-,pC315R,20210305,-
+10497,41902123,C147L,F8221_gp098,AFSV47Ss_0098,-,-,-,pC147L,protein-coding,-,-,-,pC147L,20210305,-
+10497,41902124,URF23,F8221_gp099,AFSV47Ss_0099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902125,URF24,F8221_gp100,AFSV47Ss_0100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902126,C62L,F8221_gp101,AFSV47Ss_0101,-,-,-,pC62L,protein-coding,-,-,-,pC62L,20210305,-
+10497,41902127,C962R,F8221_gp102,AFSV47Ss_0102,-,-,-,pC962R,protein-coding,-,-,-,pC962R,20210305,-
+10497,41902128,C962R_1,F8221_gp103,AFSV47Ss_0103,-,-,-,pC962R_1,protein-coding,-,-,-,pC962R_1,20210305,-
+10497,41902129,URF25,F8221_gp104,AFSV47Ss_0104,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902130,URF26,F8221_gp105,AFSV47Ss_0105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902131,B962L,F8221_gp106,AFSV47Ss_0106,-,-,-,pB962L,protein-coding,-,-,-,pB962L,20210305,-
+10497,41902132,B119L,F8221_gp107,AFSV47Ss_0107,-,-,-,pB119L,protein-coding,-,-,-,pB119L,20210305,-
+10497,41902133,URF27,F8221_gp108,AFSV47Ss_0108,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902134,B318L,F8221_gp109,AFSV47Ss_0109,-,-,-,pB318L,protein-coding,-,-,-,pB318L,20210305,-
+10497,41902135,B438L,F8221_gp110,AFSV47Ss_0110,-,-,-,pB438L,protein-coding,-,-,-,pB438L,20210305,-
+10497,41902136,B169L,F8221_gp111,AFSV47Ss_0111,-,-,-,pB169L,protein-coding,-,-,-,pB169L,20210305,-
+10497,41902137,B475L,F8221_gp112,AFSV47Ss_0112,-,-,-,pB475L,protein-coding,-,-,-,pB475L,20210305,-
+10497,41902138,B354L,F8221_gp113,AFSV47Ss_0113,-,-,-,pB354L,protein-coding,-,-,-,pB354L,20210305,-
+10497,41902139,B602L,F8221_gp114,AFSV47Ss_0114,-,-,-,pB602L,protein-coding,-,-,-,pB602L,20210305,-
+10497,41902140,URF28,F8221_gp115,AFSV47Ss_0115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902141,URF29,F8221_gp116,AFSV47Ss_0116,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902142,B385R,F8221_gp117,AFSV47Ss_0117,-,-,-,pB385R,protein-coding,-,-,-,pB385R,20210305,-
+10497,41902143,B646L,F8221_gp118,AFSV47Ss_0118,-,-,-,pB646L,protein-coding,-,-,-,pB646L,20210305,-
+10497,41902144,B125R,F8221_gp119,AFSV47Ss_0119,-,-,-,pB125R,protein-coding,-,-,-,pB125R,20210305,-
+10497,41902145,B117L,F8221_gp120,AFSV47Ss_0120,-,-,-,pB117L,protein-coding,-,-,-,pB117L,20210305,-
+10497,41902146,B407L,F8221_gp121,AFSV47Ss_0121,-,-,-,pB407L,protein-coding,-,-,-,pB407L,20210305,-
+10497,41902147,B175L,F8221_gp122,AFSV47Ss_0122,-,-,-,pB175L,protein-coding,-,-,-,pB175L,20210305,-
+10497,41902148,B263R,F8221_gp123,AFSV47Ss_0123,-,-,-,pB263R,protein-coding,-,-,-,pB263R,20210305,-
+10497,41902149,B66L,F8221_gp124,AFSV47Ss_0124,-,-,-,pB66L,protein-coding,-,-,-,pB66L,20210305,-
+10497,41902150,G1340L,F8221_gp125,AFSV47Ss_0125,-,-,-,pG1340L,protein-coding,-,-,-,pG1340L,20210305,-
+10497,41902151,URF30,F8221_gp126,AFSV47Ss_0126,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902152,URF31,F8221_gp127,AFSV47Ss_0127,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902153,URF32,F8221_gp128,AFSV47Ss_0128,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902154,URF33,F8221_gp129,AFSV47Ss_0129,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902155,URF34,F8221_gp130,AFSV47Ss_0130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902156,URF35,F8221_gp131,AFSV47Ss_0131,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902157,URF36,F8221_gp132,AFSV47Ss_0132,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902158,G1211R,F8221_gp133,AFSV47Ss_0133,-,-,-,pG1211R,protein-coding,-,-,-,pG1211R,20210305,-
+10497,41902159,CP123L,F8221_gp134,AFSV47Ss_0134,-,-,-,pCP123L,protein-coding,-,-,-,pCP123L,20210305,-
+10497,41902160,URF37,F8221_gp135,AFSV47Ss_0135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902161,CP2475L,F8221_gp136,AFSV47Ss_0136,-,-,-,pCP2475L,protein-coding,-,-,-,pCP2475L,20210305,-
+10497,41902162,CP204L,F8221_gp137,AFSV47Ss_0137,-,-,-,pCP204L,protein-coding,-,-,-,pCP204L,20210305,-
+10497,41902163,URF38,F8221_gp138,AFSV47Ss_0138,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902164,CP530R,F8221_gp139,AFSV47Ss_0139,-,-,-,pCP530R,protein-coding,-,-,-,pCP530R,20210305,-
+10497,41902165,CP80R,F8221_gp140,AFSV47Ss_0140,-,-,-,pCP80R,protein-coding,-,-,-,pCP80R,20210305,-
+10497,41902166,CP312R,F8221_gp141,AFSV47Ss_0141,-,-,-,pCP312R,protein-coding,-,-,-,pCP312R,20210305,-
+10497,41902167,O174L,F8221_gp142,AFSV47Ss_0142,-,-,-,pBA71V,protein-coding,-,-,-,pBA71V,20210305,-
+10497,41902168,O61R,F8221_gp143,AFSV47Ss_0143,-,-,-,pO61R,protein-coding,-,-,-,pO61R,20210305,-
+10497,41902169,NP1450L,F8221_gp144,AFSV47Ss_0144,-,-,-,RNA polymerase subunit 1,protein-coding,-,-,-,RNA polymerase subunit 1,20210305,-
+10497,41902170,URF39,F8221_gp145,AFSV47Ss_0145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902171,URF40,F8221_gp146,AFSV47Ss_0146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902172,URF41,F8221_gp147,AFSV47Ss_0147,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902173,URF42,F8221_gp148,AFSV47Ss_0148,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902174,URF43,F8221_gp149,AFSV47Ss_0149,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902175,URF44,F8221_gp150,AFSV47Ss_0150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902176,URF45,F8221_gp151,AFSV47Ss_0151,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902177,NP419L,F8221_gp152,AFSV47Ss_0152,-,-,-,pNP419L,protein-coding,-,-,-,pNP419L,20210305,-
+10497,41902178,NP868R,F8221_gp153,AFSV47Ss_0153,-,-,-,pNP868R,protein-coding,-,-,-,pNP868R,20210327,-
+10497,41902179,D250R,F8221_gp154,AFSV47Ss_0154,-,-,-,pD250R,protein-coding,-,-,-,pD250R,20210305,-
+10497,41902180,D129L,F8221_gp155,AFSV47Ss_0155,-,-,-,pD129L,protein-coding,-,-,-,pD129L,20210305,-
+10497,41902181,D79L,F8221_gp156,AFSV47Ss_0156,-,-,-,pD79L,protein-coding,-,-,-,pD79L,20210305,-
+10497,41902182,pD339L,F8221_gp157,-,-,-,-,pD339L,protein-coding,-,-,-,pD339L,20210305,-
+10497,41902183,URF46,F8221_gp158,AFSV47Ss_0158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902184,D1133L,F8221_gp159,AFSV47Ss_0159,-,-,-,pD1133L,protein-coding,-,-,-,pD1133L,20210305,-
+10497,41902185,URF47,F8221_gp160,AFSV47Ss_0160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902186,URF48,F8221_gp161,AFSV47Ss_0161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902187,D117L,F8221_gp162,AFSV47Ss_0162,-,-,-,pD117L,protein-coding,-,-,-,pD117L,20210305,-
+10497,41902188,D205R,F8221_gp163,AFSV47Ss_0163,-,-,-,pD205R,protein-coding,-,-,-,pD205R,20210327,-
+10497,41902189,D345L,F8221_gp164,AFSV47Ss_0164,-,-,-,pD345L,protein-coding,-,-,-,pD345L,20210305,-
+10497,41902190,S183,F8221_gp165,AFSV47Ss_0165,-,-,-,pS183,protein-coding,-,-,-,pS183,20210305,-
+10497,41902191,S273R,F8221_gp166,AFSV47Ss_0166,-,-,-,pS273R,protein-coding,-,-,-,pS273R,20210305,-
+10497,41902192,URF49,F8221_gp167,AFSV47Ss_0167,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902193,P1192R,F8221_gp168,AFSV47Ss_0168,-,-,-,pP1192R,protein-coding,-,-,-,pP1192R,20210305,-
+10497,41902194,URF50,F8221_gp169,AFSV47Ss_0169,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902195,URF51,F8221_gp170,AFSV47Ss_0170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902196,URF52,F8221_gp171,AFSV47Ss_0171,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902197,URF53,F8221_gp172,AFSV47Ss_0172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902198,URF54,F8221_gp173,AFSV47Ss_0173,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902199,URF55,F8221_gp174,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902200,H359L,F8221_gp175,AFSV47Ss_0174,-,-,-,pH359L,protein-coding,-,-,-,pH359L,20210305,-
+10497,41902201,H171R,F8221_gp176,AFSV47Ss_0175,-,-,-,pH171R,protein-coding,-,-,-,pH171R,20210305,-
+10497,41902202,H124R,F8221_gp177,AFSV47Ss_0176,-,-,-,pH124R,protein-coding,-,-,-,pH124R,20210305,-
+10497,41902203,H339R,F8221_gp178,AFSV47Ss_0177,-,-,-,pH339R,protein-coding,-,-,-,pH339R,20210305,-
+10497,41902204,H108R,F8221_gp179,AFSV47Ss_0178,-,-,-,pH108R,protein-coding,-,-,-,pH108R,20210305,-
+10497,41902205,H233R,F8221_gp180,AFSV47Ss_0179,-,-,-,pH233R,protein-coding,-,-,-,pH233R,20210305,-
+10497,41902206,H240R,F8221_gp181,AFSV47Ss_0180,-,-,-,pH240R,protein-coding,-,-,-,pH240R,20210305,-
+10497,41902207,R298L,F8221_gp182,AFSV47Ss_0181,-,-,-,pR298L,protein-coding,-,-,-,pR298L,20210305,-
+10497,41902208,URF56,F8221_gp183,AFSV47Ss_0182,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902209,Q706L,F8221_gp184,AFSV47Ss_0183,-,-,-,pQ706L,protein-coding,-,-,-,pQ706L,20210305,-
+10497,41902210,QP509L,F8221_gp185,AFSV47Ss_0184,-,-,-,pQP509L,protein-coding,-,-,-,pQP509L,20210305,-
+10497,41902211,QP383R,F8221_gp186,AFSV47Ss_0185,-,-,-,pQP383R,protein-coding,-,-,-,pQP383R,20210305,-
+10497,41902212,URF57,F8221_gp187,AFSV47Ss_0186,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902213,URF58,F8221_gp188,AFSV47Ss_0187,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902214,E184L,F8221_gp189,AFSV47Ss_0188,-,-,-,pE184L,protein-coding,-,-,-,pE184L,20210305,-
+10497,41902215,E183L,F8221_gp190,AFSV47Ss_0189,-,-,-,pE183L,protein-coding,-,-,-,pE183L,20210305,-
+10497,41902216,E423R,F8221_gp191,AFSV47Ss_0190,-,-,-,pE423R,protein-coding,-,-,-,pE423R,20210305,-
+10497,41902217,E301R,F8221_gp192,AFSV47Ss_0191,-,-,-,pE301R,protein-coding,-,-,-,pE301R,20210305,-
+10497,41902218,E146L,F8221_gp193,AFSV47Ss_0192,-,-,-,pE146L,protein-coding,-,-,-,pE146L,20210305,-
+10497,41902219,URF59,F8221_gp194,AFSV47Ss_0193,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902220,E199L,F8221_gp195,AFSV47Ss_0194,-,-,-,E199L,protein-coding,-,-,-,E199L,20210305,-
+10497,41902221,E165R,F8221_gp196,AFSV47Ss_0195,-,-,-,pE165R,protein-coding,-,-,-,pE165R,20210305,-
+10497,41902222,E248R,F8221_gp197,AFSV47Ss_0196,-,-,-,pE248R,protein-coding,-,-,-,pE248R,20210305,-
+10497,41902223,URF60,F8221_gp198,AFSV47Ss_0197,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902224,pE120R,F8221_gp199,-,-,-,-,pE120R,protein-coding,-,-,-,pE120R,20210305,-
+10497,41902225,E296R,F8221_gp200,AFSV47Ss_0199,-,-,-,pE296R,protein-coding,-,-,-,pE296R,20210305,-
+10497,41902226,E111R,F8221_gp201,AFSV47Ss_0200,-,-,-,pE111R,protein-coding,-,-,-,pE111R,20210305,-
+10497,41902227,E66L,F8221_gp202,AFSV47Ss_0201,-,-,-,pE66L,protein-coding,-,-,-,pE66L,20210305,-
+10497,41902228,I267L,F8221_gp203,AFSV47Ss_0202,-,-,-,pI267L,protein-coding,-,-,-,pI267L,20210305,-
+10497,41902229,I226R,F8221_gp204,AFSV47Ss_0203,-,-,-,pI226R,protein-coding,-,-,-,pI226R,20210305,-
+10497,41902230,I243L,F8221_gp205,AFSV47Ss_0204,-,-,-,pI243L,protein-coding,-,-,-,pI243L,20210305,-
+10497,41902231,I73R,F8221_gp206,AFSV47Ss_0205,-,-,-,pI73R,protein-coding,-,-,-,pI73R,20210305,-
+10497,41902232,I329L,F8221_gp207,AFSV47Ss_0206,-,-,-,pI329L,protein-coding,-,-,-,pI329L,20210305,-
+10497,41902233,URF61,F8221_gp208,AFSV47Ss_0207,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902234,I215L,F8221_gp209,AFSV47Ss_0208,-,-,-,pI215L,protein-coding,-,-,-,pI215L,20210305,-
+10497,41902235,I177L,F8221_gp210,AFSV47Ss_0209,-,-,-,pI177L,protein-coding,-,-,-,pI177L,20210305,-
+10497,41902236,I196L,F8221_gp211,AFSV47Ss_0210,-,-,-,pI196L,protein-coding,-,-,-,pI196L,20210305,-
+10497,41902237,DP238L,F8221_gp212,AFSV47Ss_0211,-,-,-,pDP238L,protein-coding,-,-,-,pDP238L,20210305,-
+10497,41902238,URF62,F8221_gp213,AFSV47Ss_0212,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902239,URF63,F8221_gp214,AFSV47Ss_0213,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902240,MGF 360-16R,F8221_gp215,AFSV47Ss_0214,-,-,-,pMGF 360-16R,protein-coding,-,-,-,pMGF 360-16R,20210305,-
+10497,41902241,DP63R,F8221_gp216,AFSV47Ss_0215,-,-,-,pDP63R,protein-coding,-,-,-,pDP63R,20210305,-
+10497,41902242,MGF 505-11L,F8221_gp217,AFSV47Ss_0216,-,-,-,pMGF 505-11L,protein-coding,-,-,-,pMGF 505-11L,20210305,-
+10497,41902243,MGF 100-2L,F8221_gp218,AFSV47Ss_0217,-,-,-,pMGF 100-2L,protein-coding,-,-,-,pMGF 100-2L,20210305,-
+10497,41902244,MGF 100-3L,F8221_gp219,AFSV47Ss_0218,-,-,-,pMGF 100-3L,protein-coding,-,-,-,pMGF 100-3L,20210305,-
+10497,41902245,I7L,F8221_gp220,AFSV47Ss_0219,-,-,-,pI7L,protein-coding,-,-,-,pI7L,20210305,-
+10497,41902246,I8L,F8221_gp221,AFSV47Ss_0220,-,-,-,pI8L,protein-coding,-,-,-,pI8L,20210305,-
+10497,41902247,URF64,F8221_gp222,AFSV47Ss_0221,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902248,I9R,F8221_gp223,AFSV47Ss_0222,-,-,-,pI9R,protein-coding,-,-,-,pI9R,20210305,-
+10497,41902249,I10L,F8221_gp224,AFSV47Ss_0223,-,-,-,pI10L,protein-coding,-,-,-,pI10L,20210305,-
+10497,41902250,L11L,F8221_gp225,AFSV47Ss_0224,-,-,-,pL11L,protein-coding,-,-,-,pL11L,20210305,-
+10497,41902251,MGF 360-18R,F8221_gp226,AFSV47Ss_0225,-,-,-,pMGF 360-18R,protein-coding,-,-,-,pMGF 360-18R,20210305,-
+10497,41902252,URF65,F8221_gp227,AFSV47Ss_0226,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902253,URF66,F8221_gp228,AFSV47Ss_0227,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902254,DP71L,F8221_gp229,AFSV47Ss_0228,-,-,-,pDP71L,protein-coding,-,-,-,pDP71L,20210305,-
+10497,41902255,DP96R,F8221_gp230,AFSV47Ss_0229,-,-,-,pDP96R,protein-coding,-,-,-,pDP96R,20210305,-
+10497,41902256,MGF 360-19R,F8221_gp231,AFSV47Ss_0230|DP363R,-,-,-,pMGF 360-19R,protein-coding,-,-,-,pMGF 360-19R,20210305,-
+10497,41902257,MGF 360-20R,F8221_gp232,AFSV47Ss_0231|DP42R,-,-,-,pMGF 360-20R,protein-coding,-,-,-,pMGF 360-20R,20210305,-
+10497,41902258,DP60R,F8221_gp233,AFSV47Ss_0232,-,-,-,pDP60R,protein-coding,-,-,-,pDP60R,20210305,-
+10497,41902259,DP93R,F8221_gp234,AFSV47Ss_0233|KP93L,-,-,-,pDP93R,protein-coding,-,-,-,pDP93R,20210305,-
+10497,41902260,URF67,F8221_gp235,AFSV47Ss_0234,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,41902261,DP86L,F8221_gp001,AFSV47Ss_0001|KP86R,-,-,-,pDP86L,protein-coding,-,-,-,pDP86L,20210305,-
+10497,41902814,F317L CDS,IM014_gp077,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226898,ASFV G ACD 00160 CDS,IM014_gp020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226899,A240L CDS,IM014_gp068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226900,A151R CDS,IM014_gp070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226901,MGF 360-15R CDS,IM014_gp071,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226902,A137R CDS,IM014_gp076,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226903,ASFV G ACD 00600 CDS,IM014_gp066,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226904,A859L CDS,IM014_gp074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226905,A118R CDS,IM014_gp069,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226906,A179L CDS,IM014_gp075,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226907,MGF 110-2L CDS,IM014_gp013,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226908,MGF 110-4L CDS,IM014_gp016,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226909,MGF 110-8L CDS,IM014_gp021,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226910,MGF 110-9L CDS,IM014_gp024,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226911,MGF 110-10-L - MGF110-14L fusion,IM014_gp026,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226912,MGF 110-12L CDS,IM014_gp029,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226913,MGF 360-4L CDS,IM014_gp034,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226914,MGF 360-6L CDS,IM014_gp037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226915,ASFV G ACD 00330 CDS,IM014_gp040,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226916,ASFV G ACD 00350 CDS,IM014_gp041,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+10497,59226917,poly G region,IM014_gp042,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59226918,X69R CDS,IM014_gp044,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226919,MGF 505-4R CDS,IM014_gp059,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226920,A104R CDS,IM014_gp067,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226921,B962L CDS,IM014_gp107,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226922,I196L CDS,IM014_gp177,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226923,I9R CDS,IM014_gp188,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226924,MGF 360-19Ra CDS,IM014_gp195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210403,-
+10497,59226925,MGF 360-21R CDS,IM014_gp198,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226926,ASFV G ACD 01990 CDS,IM014_gp201,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226927,MGF 360-1La CDS,IM014_gp004,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226928,DP60R CDS,IM014_gp202,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226929,B407L CDS,IM014_gp119,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226930,B318L CDS,IM014_gp109,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226931,B117L CDS,IM014_gp118,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226932,B475L CDS,IM014_gp112,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226933,B263R CDS,IM014_gp121,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226934,B66L CDS,IM014_gp122,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226935,B438L CDS,IM014_gp110,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226936,B602L CDS,IM014_gp114,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226937,B646L CDS,IM014_gp116,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226938,B175L CDS,IM014_gp120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226939,B169L CDS,IM014_gp111,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226940,B354L CDS,IM014_gp113,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226941,B385R CDS,IM014_gp115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226942,B125R CDS,IM014_gp117,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226943,G1340L CDS,IM014_gp123,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226944,B119L CDS,IM014_gp108,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226945,C257L CDS,IM014_gp100,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226946,C84L CDS,IM014_gp097,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226947,C62L CDS,IM014_gp104,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226948,C475L CDS,IM014_gp101,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226949,C147L CDS,IM014_gp103,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226950,C315R CDS,IM014_gp102,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226951,C962R CDS,IM014_gp105,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226952,C122R CDS,IM014_gp099,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226953,C717R CDS,IM014_gp098,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226954,ASFV G ACD 01020 CDS,IM014_gp106,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226955,CP2475L CDS,IM014_gp126,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226956,CP530R CDS,IM014_gp128,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226957,CP204L CDS,IM014_gp127,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226958,O174L CDS,IM014_gp131,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226959,CP80R CDS,IM014_gp129,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226960,CP312R CDS,IM014_gp130,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226961,D117L CDS,IM014_gp141,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226962,D345L CDS,IM014_gp142,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226963,DP79L CDS,IM014_gp138,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226964,D129L CDS,IM014_gp137,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226965,D1133L CDS,IM014_gp140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226966,S183L CDS,IM014_gp143,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226967,MGF 360-16R CDS,IM014_gp179,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226968,ASFV G ACD 01990 CDS,IM014_gp003,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226969,MGF 505-11L CDS,IM014_gp181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226970,DP96R CDS,IM014_gp193,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226971,D339L CDS,IM014_gp139,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226972,ASFV G ACD 01940 CDS,IM014_gp194,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226973,E66L CDS,IM014_gp168,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226974,EP296R CDS,IM014_gp166,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226975,E199L CDS,IM014_gp162,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226976,E248R CDS,IM014_gp164,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226977,E423R CDS,IM014_gp159,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226978,E183L CDS,IM014_gp158,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226979,E165R CDS,IM014_gp163,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226980,E120R CDS,IM014_gp165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226981,E146L CDS,IM014_gp161,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226982,E301R CDS,IM014_gp160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226983,I267L CDS,IM014_gp169,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226984,EP84R CDS,IM014_gp088,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226985,EP153R CDS,IM014_gp091,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226986,EP402R CDS,IM014_gp092,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226987,E111R CDS,IM014_gp167,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226988,M1249L CDS,IM014_gp094,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226989,EP364R CDS,IM014_gp093,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226990,EP152R CDS,IM014_gp090,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226991,EP424R CDS,IM014_gp089,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226992,K205R CDS,IM014_gp082,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226993,F1055L CDS,IM014_gp081,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226994,F334L CDS,IM014_gp078,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226995,F778R CDS,IM014_gp079,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226996,F165R CDS,IM014_gp080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226997,CP123L CDS,IM014_gp125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226998,G1211R CDS,IM014_gp124,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59226999,H233R CDS,IM014_gp151,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227000,H339R CDS,IM014_gp149,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227001,H124R CDS,IM014_gp148,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227002,H240R CDS,IM014_gp152,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227003,R298L CDS,IM014_gp153,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227004,H108R CDS,IM014_gp150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227005,H171R CDS,IM014_gp147,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227006,ASFV G ACD 00320 CDS,IM014_gp039,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227007,A238L CDS,IM014_gp073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227008,I8L CDS,IM014_gp186,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227009,L11L CDS,IM014_gp190,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227010,ASFV G ACD 01760 no indication,IM014_gp176,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59227011,DP238L CDS,IM014_gp178,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227012,I177L CDS,IM014_gp175,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227013,I243L CDS,IM014_gp171,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227014,I73R CDS,IM014_gp172,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227015,I226R CDS,IM014_gp170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227016,I215L CDS,IM014_gp174,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227017,I329L CDS,IM014_gp173,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227018,hypthetical,IM014_gp185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227019,ASFV G ACD 01870 CDS,IM014_gp187,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227020,I10L CDS,IM014_gp189,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227021,K421R CDS,IM014_gp086,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227022,K145R CDS,IM014_gp085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227023,K78R CDS,IM014_gp083,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227024,EP1242L CDS,IM014_gp087,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227025,K196R CDS,IM014_gp084,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227026,L83L CDS,IM014_gp008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227027,MGF 360-18R CDS,IM014_gp191,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227028,MGF 360-3L CDS,IM014_gp010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227029,L60L CDS,IM014_gp009,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227030,M448R CDS,IM014_gp095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227031,C129R CDS,IM014_gp096,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227032,MGF 100-3L CDS,IM014_gp183,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227033,ASFV G ACD 00190 CDS,IM014_gp023,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227034,I7L CDS,IM014_gp184,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227035,Poly C region,IM014_gp027,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59227036,MGF 110-13La CDS,IM014_gp030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227037,MGF 110-13Lb CDS,IM014_gp031,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227038,Poly C region,IM014_gp032,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59227039,ASFV G ACD 00090 CDS,IM014_gp012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227040,MGF 110-3L CDS,IM014_gp014,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227041,ASFV G ACD 00120 CDS,IM014_gp015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227042,MGF 110-5L-6L CDS,IM014_gp017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227043,MGF 110-7L CDS,IM014_gp018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227044,285L CDS,IM014_gp019,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227045,MGF 100-1R CDS,IM014_gp022,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227046,ASFV G ACD 00210 CDS,IM014_gp025,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227047,MGF 300-2R,IM014_gp046,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227048,MGF 300-4L CDS,IM014_gp047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227049,MGF 360-8L CDS,IM014_gp048,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227050,MGF 360-11L CDS,IM014_gp051,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227051,MGF 505-1R CDS,IM014_gp052,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227052,MGF 360-13L CDS,IM014_gp054,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227053,MGF 360-14L CDS,IM014_gp055,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227054,MGF 505-2R CDS,IM014_gp056,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227055,hypthetical,IM014_gp072,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227056,DP63R no incication vs FR682468,IM014_gp180,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59227057,DP71L CDS,IM014_gp192,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227058,MGF 360-19Rb CDS,IM014_gp196,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227059,ASFV G ACD 01960 CDS,IM014_gp197,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227060,MGF 360-1Lb CDS,IM014_gp005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227061,MGF 360-2L CDS,IM014_gp006,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227062,ASFV G ACD 01980 CDS,IM014_gp199,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227063,KP177R CDS,IM014_gp007,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227064,MGF 110-1L CDS,IM014_gp011,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227065,Poly G region,IM014_gp035,-,-,-,-,-,other,-,-,-,-,20201220,-
+10497,59227066,hypothetical,IM014_gp038,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227067,MGF 360-9L CDS,IM014_gp049,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227068,MGF 360-10L CDS,IM014_gp050,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227069,A224L CDS,IM014_gp065,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227070,MGF 100-1L CDS,IM014_gp182,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227071,MGF 360-12L CDS,IM014_gp053,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227072,MGF 505-3R CDS,IM014_gp057,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227073,ASFV G ACD 00520 CDS,IM014_gp058,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227074,MGF 505-5R CDS,IM014_gp060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227075,MGF 505-6R CDS,IM014_gp061,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227076,MGF 505-7R CDS,IM014_gp062,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227077,MGF 505-9R CDS,IM014_gp063,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227078,MGF 505-10R CDS,IM014_gp064,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227079,NP419L CDS,IM014_gp134,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227080,NP868R CDS,IM014_gp135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227081,D205R CDS,IM014_gp136,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227082,O61R CDS,IM014_gp132,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227083,NP1450L CDS,IM014_gp133,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227084,H359L CDS,IM014_gp146,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227085,ASFV G ACD 00240 CDS,IM014_gp028,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227086,ASFV G ACD 00270 CDS,IM014_gp033,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227087,ASFV G ACD 00300 CDS,IM014_gp036,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227088,ASFV G ACD 00360 CDS,IM014_gp043,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227089,QP509L CDS,IM014_gp155,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227090,E184L CDS,IM014_gp157,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227091,QP383R CDS,IM014_gp156,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210403,-
+10497,59227092,Q706L CDS,IM014_gp154,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227093,S273R CDS,IM014_gp144,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227094,P1192R CDS,IM014_gp145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227095,MGF 300-1L CDS,IM014_gp045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-
+10497,59227096,DP60R CDS,IM014_gp002,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210305,-

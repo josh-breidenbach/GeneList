@@ -1,0 +1,607 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2098,8644415,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Asterococcus hominis; Micromyces hominis group I; Schizoplasma hominis.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20101005,-
+2098,57139621,yidC,HU154_RS00005,HU154_00005,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210424,-
+2098,57139622,rnpA,HU154_RS00010,HU154_00010,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210424,-
+2098,57139623,rpmH,HU154_RS00015,HU154_00015,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210424,-
+2098,57139624,dnaA,HU154_RS00020,HU154_00020,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210522,-
+2098,57139625,dnaN,HU154_RS00025,HU154_00025,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210417,-
+2098,57139626,HU154_RS00030,HU154_RS00030,HU154_00030,-,-,-,RNA-binding S4 domain-containing protein,protein-coding,-,-,-,RNA-binding S4 domain-containing protein,20210424,-
+2098,57139627,HU154_RS00035,HU154_RS00035,HU154_00035,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200805,-
+2098,57139628,rsmA,HU154_RS00040,HU154_00040,-,-,-,ribosomal RNA small subunit methyltransferase A,protein-coding,-,-,-,ribosomal RNA small subunit methyltransferase A,20210424,-
+2098,57139629,HU154_RS00045,HU154_RS00045,HU154_00045,-,-,-,YchF/TatD family DNA exonuclease,protein-coding,-,-,-,YchF/TatD family DNA exonuclease,20210522,-
+2098,57139630,HU154_RS00050,HU154_RS00050,HU154_00050,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20210424,-
+2098,57139631,HU154_RS00055,HU154_RS00055,HU154_00055,-,-,-,NERD domain-containing protein,protein-coding,-,-,-,NERD domain-containing protein,20210424,-
+2098,57139632,HU154_RS00060,HU154_RS00060,HU154_00060,-,-,-,topoisomerase DNA-binding C4 zinc finger domain-containing protein,protein-coding,-,-,-,topoisomerase DNA-binding C4 zinc finger domain-containing protein,20210424,-
+2098,57139633,HU154_RS00065,HU154_RS00065,HU154_00065,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139634,HU154_RS00070,HU154_RS00070,HU154_00070,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139635,HU154_RS00075,HU154_RS00075,HU154_00075,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57139636,HU154_RS00080,HU154_RS00080,HU154_00080,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20210522,-
+2098,57139637,HU154_RS00085,HU154_RS00085,HU154_00085,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210522,-
+2098,57139638,HU154_RS00090,HU154_RS00090,HU154_00090,-,-,-,type III restriction endonuclease subunit M,protein-coding,-,-,-,type III restriction endonuclease subunit M,20200801,-
+2098,57139639,HU154_RS00095,HU154_RS00095,HU154_00095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139640,HU154_RS00100,HU154_RS00100,HU154_00100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139641,HU154_RS00105,HU154_RS00105,HU154_00105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139642,HU154_RS00110,HU154_RS00110,HU154_00110,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210522,-
+2098,57139643,HU154_RS00115,HU154_RS00115,HU154_00115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139644,HU154_RS00120,HU154_RS00120,HU154_00120,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200805,-
+2098,57139645,atpE,HU154_RS00125,HU154_00125,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20210424,-
+2098,57139646,HU154_RS00130,HU154_RS00130,HU154_00130,-,-,-,ATP synthase F0 subunit B,protein-coding,-,-,-,ATP synthase F0 subunit B,20210417,-
+2098,57139647,HU154_RS00135,HU154_RS00135,HU154_00135,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200805,-
+2098,57139648,HU154_RS00140,HU154_RS00140,HU154_00140,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200805,-
+2098,57139649,atpG,HU154_RS00145,HU154_00145,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20200805,-
+2098,57139650,atpD,HU154_RS00150,HU154_00150,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200805,-
+2098,57139651,HU154_RS00155,HU154_RS00155,HU154_00155,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20210417,-
+2098,57139652,HU154_RS00160,HU154_RS00160,HU154_00160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139653,HU154_RS00165,HU154_RS00165,HU154_00165,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57139654,HU154_RS00170,HU154_RS00170,HU154_00170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139655,HU154_RS00175,HU154_RS00175,HU154_00175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139656,HU154_RS00180,HU154_RS00180,HU154_00180,-,-,-,potassium transporter KtrB,protein-coding,-,-,-,potassium transporter KtrB,20210424,-
+2098,57139657,HU154_RS00185,HU154_RS00185,HU154_00185,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200805,-
+2098,57139658,HU154_RS00190,HU154_RS00190,HU154_00190,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200805,-
+2098,57139659,HU154_RS00195,HU154_RS00195,HU154_00195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139660,HU154_RS00200,HU154_RS00200,HU154_00200,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20210522,-
+2098,57139661,HU154_RS00205,HU154_RS00205,HU154_00205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139662,dcm,HU154_RS00210,HU154_00210,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210424,-
+2098,57139663,HU154_RS00215,HU154_RS00215,HU154_00215,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210424,-
+2098,57139664,HU154_RS00220,HU154_RS00220,HU154_00220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139665,HU154_RS00225,HU154_RS00225,HU154_00225,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20210424,-
+2098,57139666,HU154_RS00230,HU154_RS00230,HU154_00230,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210424,-
+2098,57139667,HU154_RS00235,HU154_RS00235,HU154_00235,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200805,-
+2098,57139668,HU154_RS00240,HU154_RS00240,HU154_00240,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20200805,-
+2098,57139669,HU154_RS00245,HU154_RS00245,HU154_00245,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+2098,57139670,HU154_RS00250,HU154_RS00250,HU154_00250,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,20210522,-
+2098,57139671,gatA,HU154_RS00255,HU154_00255,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210522,-
+2098,57139672,gatB,HU154_RS00260,HU154_00260,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210424,-
+2098,57139673,HU154_RS00265,HU154_RS00265,HU154_00265,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210417,-
+2098,57139674,HU154_RS00270,HU154_RS00270,HU154_00270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139675,HU154_RS00275,HU154_RS00275,HU154_00275,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210522,-
+2098,57139676,HU154_RS00280,HU154_RS00280,HU154_00280,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200805,-
+2098,57139677,HU154_RS00285,HU154_RS00285,HU154_00285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139678,HU154_RS00290,HU154_RS00290,HU154_00290,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,protein-coding,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,20210424,-
+2098,57139679,tuf,HU154_RS00295,HU154_00295,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200805,-
+2098,57139680,HU154_RS00300,HU154_RS00300,HU154_00300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139681,HU154_RS00305,HU154_RS00305,HU154_00305,-,-,-,Lmp protein,protein-coding,-,-,-,Lmp protein,20210522,-
+2098,57139682,HU154_RS00310,HU154_RS00310,HU154_00310,-,-,-,2-hydroxyacyl-CoA dehydratase,protein-coding,-,-,-,2-hydroxyacyl-CoA dehydratase,20200801,-
+2098,57139683,HU154_RS00315,HU154_RS00315,HU154_00315,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210522,-
+2098,57139684,ychF,HU154_RS00320,HU154_00320,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210417,-
+2098,57139685,HU154_RS00325,HU154_RS00325,HU154_00325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139686,HU154_RS00330,HU154_RS00330,HU154_00330,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210522,-
+2098,57139687,HU154_RS00335,HU154_RS00335,HU154_00335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139688,HU154_RS00340,HU154_RS00340,HU154_00340,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200803,-
+2098,57139689,cysS,HU154_RS00345,HU154_00345,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210522,-
+2098,57139690,rlmB,HU154_RS00350,HU154_00350,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200805,-
+2098,57139691,HU154_RS00355,HU154_RS00355,HU154_00355,-,-,-,carbamate kinase,protein-coding,-,-,-,carbamate kinase,20200803,-
+2098,57139692,argF,HU154_RS00360,HU154_00360,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20200805,-
+2098,57139693,HU154_RS00365,HU154_RS00365,HU154_00365,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20210417,-
+2098,57139694,HU154_RS00370,HU154_RS00370,HU154_00370,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139695,HU154_RS00375,HU154_RS00375,HU154_00375,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210522,-
+2098,57139696,HU154_RS00380,HU154_RS00380,HU154_00380,-,-,-,ketose-bisphosphate aldolase,protein-coding,-,-,-,ketose-bisphosphate aldolase,20210522,-
+2098,57139697,HU154_RS00385,HU154_RS00385,HU154_00385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139698,arcA,HU154_RS00390,HU154_00390,-,-,-,arginine deiminase,protein-coding,-,-,-,arginine deiminase,20210424,-
+2098,57139699,HU154_RS00395,HU154_RS00395,HU154_00395,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210417,-
+2098,57139700,HU154_RS00400,HU154_RS00400,HU154_00400,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139701,HU154_RS00405,HU154_RS00405,HU154_00405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139702,HU154_RS00410,HU154_RS00410,HU154_00410,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210522,-
+2098,57139703,HU154_RS00415,HU154_RS00415,HU154_00415,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210424,-
+2098,57139704,HU154_RS00420,HU154_RS00420,HU154_00420,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57139705,HU154_RS00425,HU154_RS00425,HU154_00425,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200805,-
+2098,57139706,HU154_RS00430,HU154_RS00430,HU154_00430,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200803,-
+2098,57139707,HU154_RS00435,HU154_RS00435,HU154_00435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139708,HU154_RS00440,HU154_RS00440,HU154_00440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139709,HU154_RS00445,HU154_RS00445,HU154_00445,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210522,-
+2098,57139710,HU154_RS00450,HU154_RS00450,HU154_00450,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210522,-
+2098,57139711,rpsD,HU154_RS00455,HU154_00455,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200805,-
+2098,57139712,HU154_RS00460,HU154_RS00460,HU154_00460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139713,HU154_RS00465,HU154_RS00465,HU154_00465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139714,ffs,HU154_RS00470,HU154_00470,-,-,-,-,ncRNA,-,-,-,-,20200801,-
+2098,57139715,HU154_RS00475,HU154_RS00475,HU154_00475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139716,HU154_RS00480,HU154_RS00480,HU154_00480,-,-,-,C39 family peptidase,protein-coding,-,-,-,C39 family peptidase,20210424,-
+2098,57139717,HU154_RS00485,HU154_RS00485,HU154_00485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139718,HU154_RS00490,HU154_RS00490,HU154_00490,-,-,-,ribonuclease III family protein,protein-coding,-,-,-,ribonuclease III family protein,20200803,-
+2098,57139719,HU154_RS00495,HU154_RS00495,HU154_00495,-,-,-,gamma-glutamylcyclotransferase,protein-coding,-,-,-,gamma-glutamylcyclotransferase,20210522,-
+2098,57139720,HU154_RS00500,HU154_RS00500,HU154_00500,-,-,-,GIY-YIG nuclease family protein,protein-coding,-,-,-,GIY-YIG nuclease family protein,20210424,-
+2098,57139721,HU154_RS00505,HU154_RS00505,HU154_00505,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139722,HU154_RS00510,HU154_RS00510,HU154_00510,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139723,HU154_RS00515,HU154_RS00515,HU154_00515,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139724,HU154_RS00520,HU154_RS00520,HU154_00520,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210522,-
+2098,57139725,rplK,HU154_RS00525,HU154_00525,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200805,-
+2098,57139726,HU154_RS00530,HU154_RS00530,HU154_00530,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200805,-
+2098,57139727,eno,HU154_RS00535,HU154_00535,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200805,-
+2098,57139728,HU154_RS00540,HU154_RS00540,HU154_00540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139729,HU154_RS00545,HU154_RS00545,HU154_00545,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200805,-
+2098,57139730,secA,HU154_RS00550,HU154_00550,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210522,-
+2098,57139731,HU154_RS00555,HU154_RS00555,HU154_00555,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20210417,-
+2098,57139732,HU154_RS00560,HU154_RS00560,HU154_00560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139733,dnaX,HU154_RS00565,HU154_00565,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210522,-
+2098,57139734,HU154_RS00570,HU154_RS00570,HU154_00570,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200803,-
+2098,57139735,recR,HU154_RS00575,HU154_00575,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210417,-
+2098,57139736,tmk,HU154_RS00580,HU154_00580,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210306,-
+2098,57139737,HU154_RS00585,HU154_RS00585,HU154_00585,-,-,-,DNA polymerase III,protein-coding,-,-,-,DNA polymerase III,20210522,-
+2098,57139738,rsmI,HU154_RS00590,HU154_00590,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20210424,-
+2098,57139739,HU154_RS00595,HU154_RS00595,HU154_00595,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200805,-
+2098,57139740,HU154_RS00600,HU154_RS00600,HU154_00600,-,-,-,DUF45 domain-containing protein,protein-coding,-,-,-,DUF45 domain-containing protein,20210522,-
+2098,57139741,HU154_RS00605,HU154_RS00605,HU154_00605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139742,HU154_RS00610,HU154_RS00610,HU154_00610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139743,HU154_RS00615,HU154_RS00615,HU154_00615,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210522,-
+2098,57139744,trpS,HU154_RS00620,HU154_00620,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200805,-
+2098,57139745,HU154_RS00625,HU154_RS00625,HU154_00625,-,-,-,PTS glucose transporter subunit IIB,protein-coding,-,-,-,PTS glucose transporter subunit IIB,20210417,-
+2098,57139746,HU154_RS00630,HU154_RS00630,HU154_00630,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210522,-
+2098,57139747,HU154_RS00635,HU154_RS00635,HU154_00635,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139748,def,HU154_RS00640,HU154_00640,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210417,-
+2098,57139749,HU154_RS00645,HU154_RS00645,HU154_00645,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200805,-
+2098,57139750,rpsF,HU154_RS00650,HU154_00650,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210522,-
+2098,57139751,HU154_RS00655,HU154_RS00655,HU154_00655,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210417,-
+2098,57139752,HU154_RS00660,HU154_RS00660,HU154_00660,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200805,-
+2098,57139753,HU154_RS00665,HU154_RS00665,HU154_00665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139754,HU154_RS00670,HU154_RS00670,HU154_00670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139755,HU154_RS00675,HU154_RS00675,HU154_00675,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20210424,-
+2098,57139756,pheS,HU154_RS00680,HU154_00680,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200805,-
+2098,57139757,HU154_RS00685,HU154_RS00685,HU154_00685,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210522,-
+2098,57139758,recA,HU154_RS00690,HU154_00690,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200805,-
+2098,57139759,HU154_RS00695,HU154_RS00695,HU154_00695,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20210424,-
+2098,57139760,HU154_RS00700,HU154_RS00700,HU154_00700,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20200805,-
+2098,57139761,HU154_RS00705,HU154_RS00705,HU154_00705,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,protein-coding,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,20210522,-
+2098,57139762,HU154_RS00710,HU154_RS00710,HU154_00710,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210522,-
+2098,57139763,HU154_RS00715,HU154_RS00715,HU154_00715,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200801,-
+2098,57139764,HU154_RS00720,HU154_RS00720,HU154_00720,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20210424,-
+2098,57139765,HU154_RS00725,HU154_RS00725,HU154_00725,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20210424,-
+2098,57139766,HU154_RS00730,HU154_RS00730,HU154_00730,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200803,-
+2098,57139767,rpmI,HU154_RS00735,HU154_00735,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200805,-
+2098,57139768,rplT,HU154_RS00740,HU154_00740,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200805,-
+2098,57139769,mnmA,HU154_RS00745,HU154_00745,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200805,-
+2098,57139770,alaS,HU154_RS00750,HU154_00750,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210522,-
+2098,57139771,ruvX,HU154_RS00755,HU154_00755,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210424,-
+2098,57139772,HU154_RS00760,HU154_RS00760,HU154_00760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139773,HU154_RS00765,HU154_RS00765,HU154_00765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139774,greA,HU154_RS00770,HU154_00770,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200805,-
+2098,57139775,HU154_RS00775,HU154_RS00775,HU154_00775,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20200805,-
+2098,57139776,HU154_RS00780,HU154_RS00780,HU154_00780,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210522,-
+2098,57139777,obgE,HU154_RS00785,HU154_00785,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200803,-
+2098,57139778,HU154_RS00790,HU154_RS00790,HU154_00790,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139779,HU154_RS00795,HU154_RS00795,HU154_00795,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139780,HU154_RS00800,HU154_RS00800,HU154_00800,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139781,HU154_RS00805,HU154_RS00805,HU154_00805,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139782,HU154_RS00810,HU154_RS00810,HU154_00810,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139783,HU154_RS00815,HU154_RS00815,HU154_00815,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139784,HU154_RS00820,HU154_RS00820,HU154_00820,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139785,HU154_RS00825,HU154_RS00825,HU154_00825,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139786,HU154_RS00830,HU154_RS00830,HU154_00830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139787,HU154_RS00835,HU154_RS00835,HU154_00835,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210522,-
+2098,57139788,HU154_RS00840,HU154_RS00840,HU154_00840,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+2098,57139789,HU154_RS00845,HU154_RS00845,HU154_00845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139790,HU154_RS00850,HU154_RS00850,HU154_00850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139791,HU154_RS00855,HU154_RS00855,HU154_00855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139792,rpsL,HU154_RS00860,HU154_00860,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200805,-
+2098,57139793,rpsG,HU154_RS00865,HU154_00865,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+2098,57139794,fusA,HU154_RS00870,HU154_00870,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200805,-
+2098,57139795,HU154_RS00875,HU154_RS00875,HU154_00875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139796,HU154_RS00880,HU154_RS00880,HU154_00880,-,-,-,DUF1846 family protein,protein-coding,-,-,-,DUF1846 family protein,20210522,-
+2098,57139797,HU154_RS00885,HU154_RS00885,HU154_00885,-,-,-,dCMP deaminase family protein,protein-coding,-,-,-,dCMP deaminase family protein,20200803,-
+2098,57139798,HU154_RS00890,HU154_RS00890,HU154_00890,-,-,-,oligopeptide ABC transporter substrate-binding protein,protein-coding,-,-,-,oligopeptide ABC transporter substrate-binding protein,20200801,-
+2098,57139799,HU154_RS00895,HU154_RS00895,HU154_00895,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+2098,57139800,HU154_RS00900,HU154_RS00900,HU154_00900,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+2098,57139801,HU154_RS00905,HU154_RS00905,HU154_00905,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+2098,57139802,HU154_RS00910,HU154_RS00910,HU154_00910,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57139803,HU154_RS00915,HU154_RS00915,HU154_00915,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20210522,-
+2098,57139804,HU154_RS00920,HU154_RS00920,HU154_00920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139805,HU154_RS00925,HU154_RS00925,HU154_00925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139806,HU154_RS00930,HU154_RS00930,HU154_00930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139807,HU154_RS00935,HU154_RS00935,HU154_00935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2098,57139808,HU154_RS00940,HU154_RS00940,HU154_00940,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139809,HU154_RS00945,HU154_RS00945,HU154_00945,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139810,prfA,HU154_RS00950,HU154_00950,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200805,-
+2098,57139811,prmC,HU154_RS00955,HU154_00955,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210522,-
+2098,57139812,dnaJ,HU154_RS00960,HU154_00960,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210522,-
+2098,57139813,topA,HU154_RS00965,HU154_00965,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210522,-
+2098,57139814,HU154_RS00970,HU154_RS00970,HU154_00970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139815,HU154_RS00975,HU154_RS00975,HU154_00975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139816,HU154_RS00980,HU154_RS00980,HU154_00980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139817,cmk,HU154_RS00985,HU154_00985,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+2098,57139818,der,HU154_RS00990,HU154_00990,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210522,-
+2098,57139819,HU154_RS00995,HU154_RS00995,HU154_00995,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210424,-
+2098,57139820,HU154_RS01000,HU154_RS01000,HU154_01000,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210424,-
+2098,57139821,recU,HU154_RS01005,HU154_01005,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20200805,-
+2098,57139822,HU154_RS01010,HU154_RS01010,HU154_01010,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20210522,-
+2098,57139823,HU154_RS01015,HU154_RS01015,HU154_01015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+2098,57139824,HU154_RS01020,HU154_RS01020,HU154_01020,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57139825,HU154_RS01025,HU154_RS01025,HU154_01025,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210417,-
+2098,57139826,HU154_RS01030,HU154_RS01030,HU154_01030,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210522,-
+2098,57139827,HU154_RS01035,HU154_RS01035,HU154_01035,-,-,-,iron-containing alcohol dehydrogenase,protein-coding,-,-,-,iron-containing alcohol dehydrogenase,20210522,-
+2098,57139828,HU154_RS01040,HU154_RS01040,HU154_01040,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210522,-
+2098,57139829,HU154_RS01045,HU154_RS01045,HU154_01045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139830,efp,HU154_RS01050,HU154_01050,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+2098,57139831,nadE,HU154_RS01055,HU154_01055,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210424,-
+2098,57139832,HU154_RS01060,HU154_RS01060,HU154_01060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139833,HU154_RS01065,HU154_RS01065,HU154_01065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139834,HU154_RS01070,HU154_RS01070,HU154_01070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139835,HU154_RS01075,HU154_RS01075,HU154_01075,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200805,-
+2098,57139836,ruvA,HU154_RS01080,HU154_01080,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210417,-
+2098,57139837,ruvB,HU154_RS01085,HU154_01085,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210417,-
+2098,57139838,HU154_RS01090,HU154_RS01090,HU154_01090,-,-,-,peptide transporter,protein-coding,-,-,-,peptide transporter,20210424,-
+2098,57139839,HU154_RS01095,HU154_RS01095,HU154_01095,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210424,-
+2098,57139840,aspS,HU154_RS01100,HU154_01100,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200803,-
+2098,57139841,secG,HU154_RS01105,HU154_01105,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200805,-
+2098,57139842,rnr,HU154_RS01110,HU154_01110,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20210424,-
+2098,57139843,smpB,HU154_RS01115,HU154_01115,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210424,-
+2098,57139844,ssrA,HU154_RS01120,HU154_01120,-,-,-,-,miscRNA,-,-,-,-,20200801,-
+2098,57139845,HU154_RS01125,HU154_RS01125,HU154_01125,-,-,-,DUF2188 domain-containing protein,protein-coding,-,-,-,DUF2188 domain-containing protein,20210424,-
+2098,57139846,HU154_RS01130,HU154_RS01130,HU154_01130,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20200805,-
+2098,57139847,HU154_RS01135,HU154_RS01135,HU154_01135,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210417,-
+2098,57139848,hpt,HU154_RS01140,HU154_01140,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200803,-
+2098,57139849,HU154_RS01145,HU154_RS01145,HU154_01145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139850,HU154_RS01150,HU154_RS01150,HU154_01150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139851,HU154_RS01155,HU154_RS01155,HU154_01155,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200805,-
+2098,57139852,HU154_RS01160,HU154_RS01160,HU154_01160,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200803,-
+2098,57139853,HU154_RS01165,HU154_RS01165,HU154_01165,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210424,-
+2098,57139854,ligA,HU154_RS01170,HU154_01170,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210522,-
+2098,57139855,HU154_RS01175,HU154_RS01175,HU154_01175,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210522,-
+2098,57139856,HU154_RS01180,HU154_RS01180,HU154_01180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139857,HU154_RS01185,HU154_RS01185,HU154_01185,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210424,-
+2098,57139858,holA,HU154_RS01190,HU154_01190,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20210424,-
+2098,57139859,HU154_RS01195,HU154_RS01195,HU154_01195,-,-,-,"glucan 1,6-alpha-glucosidase",protein-coding,-,-,-,"glucan 1,6-alpha-glucosidase",20210522,-
+2098,57139860,HU154_RS01200,HU154_RS01200,HU154_01200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139861,pgsA,HU154_RS01205,HU154_01205,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210424,-
+2098,57139862,HU154_RS01210,HU154_RS01210,HU154_01210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2098,57139863,HU154_RS01215,HU154_RS01215,HU154_01215,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57139864,rpmG,HU154_RS01220,HU154_01220,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+2098,57139865,HU154_RS01225,HU154_RS01225,HU154_01225,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210424,-
+2098,57139866,HU154_RS01230,HU154_RS01230,HU154_01230,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210424,-
+2098,57139867,HU154_RS01235,HU154_RS01235,HU154_01235,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20210424,-
+2098,57139868,HU154_RS01240,HU154_RS01240,HU154_01240,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200805,-
+2098,57139869,dnaG,HU154_RS01245,HU154_01245,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210522,-
+2098,57139870,HU154_RS01250,HU154_RS01250,HU154_01250,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200803,-
+2098,57139871,ffh,HU154_RS01255,HU154_01255,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200803,-
+2098,57139872,HU154_RS01260,HU154_RS01260,HU154_01260,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20200801,-
+2098,57139873,ylqF,HU154_RS01265,HU154_01265,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20210417,-
+2098,57139874,HU154_RS01270,HU154_RS01270,HU154_01270,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210417,-
+2098,57139875,rpsO,HU154_RS01275,HU154_01275,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+2098,57139876,HU154_RS01280,HU154_RS01280,HU154_01280,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139877,rpsI,HU154_RS01285,HU154_01285,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200805,-
+2098,57139878,rplM,HU154_RS01290,HU154_01290,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200805,-
+2098,57139879,HU154_RS01295,HU154_RS01295,HU154_01295,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210522,-
+2098,57139880,HU154_RS01300,HU154_RS01300,HU154_01300,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57139881,HU154_RS01305,HU154_RS01305,HU154_01305,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57139882,HU154_RS01310,HU154_RS01310,HU154_01310,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57139883,HU154_RS01315,HU154_RS01315,HU154_01315,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57139884,HU154_RS01320,HU154_RS01320,HU154_01320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139885,HU154_RS01325,HU154_RS01325,HU154_01325,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210522,-
+2098,57139886,HU154_RS01330,HU154_RS01330,HU154_01330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139887,HU154_RS01335,HU154_RS01335,HU154_01335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139888,HU154_RS01340,HU154_RS01340,HU154_01340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139889,HU154_RS01345,HU154_RS01345,HU154_01345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139890,HU154_RS01350,HU154_RS01350,HU154_01350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139891,HU154_RS01355,HU154_RS01355,HU154_01355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139892,HU154_RS01360,HU154_RS01360,HU154_01360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139893,HU154_RS01365,HU154_RS01365,HU154_01365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139894,HU154_RS01370,HU154_RS01370,HU154_01370,-,-,-,htpn,protein-coding,-,-,-,htpn,20200801,-
+2098,57139895,HU154_RS01375,HU154_RS01375,HU154_01375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139896,HU154_RS01380,HU154_RS01380,HU154_01380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139897,HU154_RS01385,HU154_RS01385,HU154_01385,-,-,-,DnaB-like helicase C-terminal domain-containing protein,protein-coding,-,-,-,DnaB-like helicase C-terminal domain-containing protein,20210522,-
+2098,57139898,ftsZ,HU154_RS01390,HU154_01390,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200803,-
+2098,57139899,HU154_RS01395,HU154_RS01395,HU154_01395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139900,rsmH,HU154_RS01400,HU154_01400,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210417,-
+2098,57139901,mraZ,HU154_RS01405,HU154_01405,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20210417,-
+2098,57139902,HU154_RS01410,HU154_RS01410,HU154_01410,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139903,HU154_RS01415,HU154_RS01415,HU154_01415,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139904,HU154_RS01420,HU154_RS01420,HU154_01420,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139905,HU154_RS01425,HU154_RS01425,HU154_01425,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139906,HU154_RS01430,HU154_RS01430,HU154_01430,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57139907,HU154_RS01435,HU154_RS01435,HU154_01435,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57139908,HU154_RS01440,HU154_RS01440,HU154_01440,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57139909,HU154_RS01445,HU154_RS01445,HU154_01445,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139910,HU154_RS01450,HU154_RS01450,HU154_01450,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139911,HU154_RS01455,HU154_RS01455,HU154_01455,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139912,truB,HU154_RS01460,HU154_01460,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210522,-
+2098,57139913,HU154_RS01465,HU154_RS01465,HU154_01465,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210522,-
+2098,57139914,HU154_RS01470,HU154_RS01470,HU154_01470,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200803,-
+2098,57139915,HU154_RS01475,HU154_RS01475,HU154_01475,-,-,-,riboflavin biosynthesis protein,protein-coding,-,-,-,riboflavin biosynthesis protein,20200803,-
+2098,57139916,HU154_RS01480,HU154_RS01480,HU154_01480,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20210522,-
+2098,57139917,HU154_RS01485,HU154_RS01485,HU154_01485,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,triosephosphate isomerase,20200803,-
+2098,57139918,HU154_RS01490,HU154_RS01490,HU154_01490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139919,HU154_RS01495,HU154_RS01495,HU154_01495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139920,HU154_RS01500,HU154_RS01500,HU154_01500,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57139921,HU154_RS01505,HU154_RS01505,HU154_01505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139922,HU154_RS01510,HU154_RS01510,HU154_01510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139923,HU154_RS01515,HU154_RS01515,HU154_01515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139924,HU154_RS01520,HU154_RS01520,HU154_01520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+2098,57139925,HU154_RS01525,HU154_RS01525,HU154_01525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139926,HU154_RS01530,HU154_RS01530,HU154_01530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139927,HU154_RS01535,HU154_RS01535,HU154_01535,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200803,-
+2098,57139928,HU154_RS01540,HU154_RS01540,HU154_01540,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20210424,-
+2098,57139929,rpsP,HU154_RS01545,HU154_01545,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200805,-
+2098,57139930,trmD,HU154_RS01550,HU154_01550,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200805,-
+2098,57139931,rplS,HU154_RS01555,HU154_01555,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210417,-
+2098,57139932,HU154_RS01560,HU154_RS01560,HU154_01560,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57139933,HU154_RS01565,HU154_RS01565,HU154_01565,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200803,-
+2098,57139934,HU154_RS01570,HU154_RS01570,HU154_01570,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20210417,-
+2098,57139935,rpmA,HU154_RS01575,HU154_01575,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200805,-
+2098,57139936,rplU,HU154_RS01580,HU154_01580,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200805,-
+2098,57139937,HU154_RS01585,HU154_RS01585,HU154_01585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139938,HU154_RS01590,HU154_RS01590,HU154_01590,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139939,HU154_RS01595,HU154_RS01595,HU154_01595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139940,HU154_RS01600,HU154_RS01600,HU154_01600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139941,rpoC,HU154_RS01605,HU154_01605,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200805,-
+2098,57139942,HU154_RS01610,HU154_RS01610,HU154_01610,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200803,-
+2098,57139943,rplL,HU154_RS01615,HU154_01615,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200805,-
+2098,57139944,HU154_RS01620,HU154_RS01620,HU154_01620,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200805,-
+2098,57139945,HU154_RS01625,HU154_RS01625,HU154_01625,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57139946,HU154_RS01630,HU154_RS01630,HU154_01630,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57139947,rpmF,HU154_RS01635,HU154_01635,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200805,-
+2098,57139948,rplQ,HU154_RS01640,HU154_01640,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200805,-
+2098,57139949,HU154_RS01645,HU154_RS01645,HU154_01645,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200805,-
+2098,57139950,rpsK,HU154_RS01650,HU154_01650,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+2098,57139951,rpsM,HU154_RS01655,HU154_01655,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200805,-
+2098,57139952,rpmJ,HU154_RS01660,HU154_01660,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200805,-
+2098,57139953,infA,HU154_RS01665,HU154_01665,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200805,-
+2098,57139954,map,HU154_RS01670,HU154_01670,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200805,-
+2098,57139955,HU154_RS01675,HU154_RS01675,HU154_01675,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20200803,-
+2098,57139956,secY,HU154_RS01680,HU154_01680,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200805,-
+2098,57139957,rplO,HU154_RS01685,HU154_01685,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200805,-
+2098,57139958,rpsE,HU154_RS01690,HU154_01690,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200805,-
+2098,57139959,HU154_RS01695,HU154_RS01695,HU154_01695,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+2098,57139960,rplF,HU154_RS01700,HU154_01700,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200805,-
+2098,57139961,rpsH,HU154_RS01705,HU154_01705,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210522,-
+2098,57139962,HU154_RS01710,HU154_RS01710,HU154_01710,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210417,-
+2098,57139963,rplE,HU154_RS01715,HU154_01715,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+2098,57139964,HU154_RS01720,HU154_RS01720,HU154_01720,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200805,-
+2098,57139965,rplN,HU154_RS01725,HU154_01725,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200805,-
+2098,57139966,rpsQ,HU154_RS01730,HU154_01730,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200805,-
+2098,57139967,HU154_RS01735,HU154_RS01735,HU154_01735,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210417,-
+2098,57139968,rplP,HU154_RS01740,HU154_01740,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+2098,57139969,rpsC,HU154_RS01745,HU154_01745,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210522,-
+2098,57139970,rplV,HU154_RS01750,HU154_01750,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200805,-
+2098,57139971,rpsS,HU154_RS01755,HU154_01755,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200805,-
+2098,57139972,rplB,HU154_RS01760,HU154_01760,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200805,-
+2098,57139973,rplW,HU154_RS01765,HU154_01765,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210522,-
+2098,57139974,rplD,HU154_RS01770,HU154_01770,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210417,-
+2098,57139975,rplC,HU154_RS01775,HU154_01775,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200805,-
+2098,57139976,rpsJ,HU154_RS01780,HU154_01780,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+2098,57139977,HU154_RS01785,HU154_RS01785,HU154_01785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139978,HU154_RS01790,HU154_RS01790,HU154_01790,-,-,-,phosphoketolase,protein-coding,-,-,-,phosphoketolase,20210522,-
+2098,57139979,rpmE,HU154_RS01795,HU154_01795,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200805,-
+2098,57139980,HU154_RS01800,HU154_RS01800,HU154_01800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139981,HU154_RS01805,HU154_RS01805,HU154_01805,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210424,-
+2098,57139982,ileS,HU154_RS01810,HU154_01810,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210522,-
+2098,57139983,HU154_RS01815,HU154_RS01815,HU154_01815,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210522,-
+2098,57139984,HU154_RS01820,HU154_RS01820,HU154_01820,-,-,-,Lmp protein,protein-coding,-,-,-,Lmp protein,20210522,-
+2098,57139985,HU154_RS01825,HU154_RS01825,HU154_01825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139986,HU154_RS01830,HU154_RS01830,HU154_01830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139987,HU154_RS01835,HU154_RS01835,HU154_01835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139988,HU154_RS01840,HU154_RS01840,HU154_01840,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139989,HU154_RS01845,HU154_RS01845,HU154_01845,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57139990,HU154_RS01850,HU154_RS01850,HU154_01850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57139991,HU154_RS01855,HU154_RS01855,HU154_01855,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200803,-
+2098,57139992,HU154_RS01860,HU154_RS01860,HU154_01860,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20210522,-
+2098,57139993,HU154_RS01865,HU154_RS01865,HU154_01865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139994,HU154_RS01870,HU154_RS01870,HU154_01870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139995,HU154_RS01875,HU154_RS01875,HU154_01875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57139996,HU154_RS01880,HU154_RS01880,HU154_01880,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20210522,-
+2098,57139997,HU154_RS01885,HU154_RS01885,HU154_01885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57139998,HU154_RS01890,HU154_RS01890,HU154_01890,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210522,-
+2098,57139999,HU154_RS01895,HU154_RS01895,HU154_01895,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210522,-
+2098,57140000,HU154_RS01900,HU154_RS01900,HU154_01900,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20200805,-
+2098,57140001,HU154_RS01905,HU154_RS01905,HU154_01905,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210522,-
+2098,57140002,HU154_RS01910,HU154_RS01910,HU154_01910,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20210522,-
+2098,57140003,HU154_RS01915,HU154_RS01915,HU154_01915,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20210424,-
+2098,57140004,HU154_RS01920,HU154_RS01920,HU154_01920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140005,HU154_RS01925,HU154_RS01925,HU154_01925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140006,HU154_RS01930,HU154_RS01930,HU154_01930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140007,HU154_RS01935,HU154_RS01935,HU154_01935,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57140008,HU154_RS01940,HU154_RS01940,HU154_01940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140009,HU154_RS01945,HU154_RS01945,HU154_01945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140010,HU154_RS01950,HU154_RS01950,HU154_01950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140011,HU154_RS01955,HU154_RS01955,HU154_01955,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20200803,-
+2098,57140012,HU154_RS01960,HU154_RS01960,HU154_01960,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200805,-
+2098,57140013,upp,HU154_RS01965,HU154_01965,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200803,-
+2098,57140014,deoC,HU154_RS01970,HU154_01970,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20200805,-
+2098,57140015,HU154_RS01975,HU154_RS01975,HU154_01975,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20210522,-
+2098,57140016,deoD,HU154_RS01980,HU154_01980,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20210522,-
+2098,57140017,rnpB,HU154_RS01985,HU154_01985,-,-,-,-,ncRNA,-,-,-,-,20200801,-
+2098,57140018,recO,HU154_RS01990,HU154_01990,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210522,-
+2098,57140019,HU154_RS01995,HU154_RS01995,HU154_01995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140020,HU154_RS02000,HU154_RS02000,HU154_02000,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200805,-
+2098,57140021,HU154_RS02005,HU154_RS02005,HU154_02005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140022,HU154_RS02010,HU154_RS02010,HU154_02010,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210424,-
+2098,57140023,HU154_RS02015,HU154_RS02015,HU154_02015,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200805,-
+2098,57140024,uvrA,HU154_RS02020,HU154_02020,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210522,-
+2098,57140025,HU154_RS02025,HU154_RS02025,HU154_02025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140026,HU154_RS02030,HU154_RS02030,HU154_02030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140027,HU154_RS02035,HU154_RS02035,HU154_02035,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210522,-
+2098,57140028,HU154_RS02040,HU154_RS02040,HU154_02040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140029,vaa,HU154_RS02045,HU154_02045,-,-,-,variable adherence-associated lipoprotein adhesin Vaa,protein-coding,-,-,-,variable adherence-associated lipoprotein adhesin Vaa,20210522,-
+2098,57140030,HU154_RS02050,HU154_RS02050,HU154_02050,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140031,HU154_RS02055,HU154_RS02055,HU154_02055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140032,HU154_RS02060,HU154_RS02060,HU154_02060,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200805,-
+2098,57140033,HU154_RS02065,HU154_RS02065,HU154_02065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140034,HU154_RS02070,HU154_RS02070,HU154_02070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140035,HU154_RS02075,HU154_RS02075,HU154_02075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140036,HU154_RS02080,HU154_RS02080,HU154_02080,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+2098,57140037,HU154_RS02085,HU154_RS02085,HU154_02085,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20210522,-
+2098,57140038,rsmG,HU154_RS02090,HU154_02090,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210522,-
+2098,57140039,HU154_RS02095,HU154_RS02095,HU154_02095,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210417,-
+2098,57140040,mgtA,HU154_RS02100,HU154_02100,-,-,-,magnesium-translocating P-type ATPase,protein-coding,-,-,-,magnesium-translocating P-type ATPase,20200803,-
+2098,57140041,HU154_RS02105,HU154_RS02105,HU154_02105,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210417,-
+2098,57140042,HU154_RS02110,HU154_RS02110,HU154_02110,-,-,-,lactate dehydrogenase,protein-coding,-,-,-,lactate dehydrogenase,20210424,-
+2098,57140043,HU154_RS02115,HU154_RS02115,HU154_02115,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210522,-
+2098,57140044,HU154_RS02120,HU154_RS02120,HU154_02120,-,-,-,S1 RNA-binding domain-containing protein,protein-coding,-,-,-,S1 RNA-binding domain-containing protein,20200805,-
+2098,57140045,HU154_RS02125,HU154_RS02125,HU154_02125,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210522,-
+2098,57140046,HU154_RS02130,HU154_RS02130,HU154_02130,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210522,-
+2098,57140047,HU154_RS02135,HU154_RS02135,HU154_02135,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210522,-
+2098,57140048,HU154_RS02140,HU154_RS02140,HU154_02140,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140049,HU154_RS02145,HU154_RS02145,HU154_02145,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210522,-
+2098,57140050,HU154_RS02150,HU154_RS02150,HU154_02150,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20200805,-
+2098,57140051,HU154_RS02155,HU154_RS02155,HU154_02155,-,-,-,DUF885 family protein,protein-coding,-,-,-,DUF885 family protein,20210522,-
+2098,57140052,rrf,HU154_RS02160,HU154_02160,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57140053,pepF,HU154_RS02165,HU154_02165,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210522,-
+2098,57140054,HU154_RS02170,HU154_RS02170,HU154_02170,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200805,-
+2098,57140055,HU154_RS02175,HU154_RS02175,HU154_02175,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200803,-
+2098,57140056,HU154_RS02180,HU154_RS02180,HU154_02180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140057,HU154_RS02185,HU154_RS02185,HU154_02185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140058,HU154_RS02190,HU154_RS02190,HU154_02190,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57140059,HU154_RS02195,HU154_RS02195,HU154_02195,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210522,-
+2098,57140060,HU154_RS02200,HU154_RS02200,HU154_02200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140061,HU154_RS02205,HU154_RS02205,HU154_02205,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20210522,-
+2098,57140062,HU154_RS02210,HU154_RS02210,HU154_02210,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20200803,-
+2098,57140063,HU154_RS02215,HU154_RS02215,HU154_02215,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210424,-
+2098,57140064,HU154_RS02220,HU154_RS02220,HU154_02220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140065,HU154_RS02225,HU154_RS02225,HU154_02225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140066,HU154_RS02230,HU154_RS02230,HU154_02230,-,-,-,DUF885 family protein,protein-coding,-,-,-,DUF885 family protein,20210522,-
+2098,57140067,HU154_RS02235,HU154_RS02235,HU154_02235,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140068,HU154_RS02240,HU154_RS02240,HU154_02240,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210313,-
+2098,57140069,HU154_RS02245,HU154_RS02245,HU154_02245,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57140070,HU154_RS02250,HU154_RS02250,HU154_02250,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210424,-
+2098,57140071,HU154_RS02255,HU154_RS02255,HU154_02255,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20210417,-
+2098,57140072,rrf,HU154_RS02260,HU154_02260,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57140073,HU154_RS02265,HU154_RS02265,HU154_02265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140074,mutM,HU154_RS02270,HU154_02270,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20210424,-
+2098,57140075,HU154_RS02275,HU154_RS02275,HU154_02275,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20210417,-
+2098,57140076,HU154_RS02280,HU154_RS02280,HU154_02280,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20210417,-
+2098,57140077,HU154_RS02285,HU154_RS02285,HU154_02285,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210522,-
+2098,57140078,HU154_RS02290,HU154_RS02290,HU154_02290,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210417,-
+2098,57140079,dnaB,HU154_RS02295,HU154_02295,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210522,-
+2098,57140080,rplI,HU154_RS02300,HU154_02300,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210417,-
+2098,57140081,HU154_RS02305,HU154_RS02305,HU154_02305,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20210424,-
+2098,57140082,HU154_RS02310,HU154_RS02310,HU154_02310,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200805,-
+2098,57140083,tsaD,HU154_RS02315,HU154_02315,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210424,-
+2098,57140084,HU154_RS02320,HU154_RS02320,HU154_02320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140085,HU154_RS02325,HU154_RS02325,HU154_02325,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210522,-
+2098,57140086,HU154_RS02330,HU154_RS02330,HU154_02330,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20210424,-
+2098,57140087,HU154_RS02335,HU154_RS02335,HU154_02335,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57140088,HU154_RS02340,HU154_RS02340,HU154_02340,-,-,-,-,rRNA,-,-,-,-,20200801,-
+2098,57140089,nusG,HU154_RS02345,HU154_02345,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200805,-
+2098,57140090,secE,HU154_RS02350,HU154_02350,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200805,-
+2098,57140091,rpmG,HU154_RS02355,HU154_02355,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+2098,57140092,HU154_RS02360,HU154_RS02360,HU154_02360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140093,thiI,HU154_RS02365,HU154_02365,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20200805,-
+2098,57140094,lysS,HU154_RS02370,HU154_02370,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200805,-
+2098,57140095,HU154_RS02375,HU154_RS02375,HU154_02375,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140096,HU154_RS02380,HU154_RS02380,HU154_02380,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20210424,-
+2098,57140097,HU154_RS02385,HU154_RS02385,HU154_02385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140098,lepA,HU154_RS02390,HU154_02390,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200803,-
+2098,57140099,lon,HU154_RS02395,HU154_02395,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210417,-
+2098,57140100,grpE,HU154_RS02400,HU154_02400,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210424,-
+2098,57140101,hrcA,HU154_RS02405,HU154_02405,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200805,-
+2098,57140102,HU154_RS02410,HU154_RS02410,HU154_02410,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140103,HU154_RS02415,HU154_RS02415,HU154_02415,-,-,-,-,tRNA,-,-,-,-,20200801,-
+2098,57140104,HU154_RS02420,HU154_RS02420,HU154_02420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2098,57140105,HU154_RS02425,HU154_RS02425,HU154_02425,-,-,-,DnaD domain protein,protein-coding,-,-,-,DnaD domain protein,20200803,-
+2098,57140106,dnaE,HU154_RS02430,HU154_02430,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210522,-
+2098,57140107,HU154_RS02435,HU154_RS02435,HU154_02435,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20210522,-
+2098,57140108,HU154_RS02440,HU154_RS02440,HU154_02440,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210522,-
+2098,57140109,HU154_RS02445,HU154_RS02445,HU154_02445,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210522,-
+2098,57140110,HU154_RS02450,HU154_RS02450,HU154_02450,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210522,-
+2098,57140111,HU154_RS02455,HU154_RS02455,HU154_02455,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20200805,-
+2098,57140112,pyk,HU154_RS02460,HU154_02460,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200803,-
+2098,57140113,serS,HU154_RS02465,HU154_02465,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200805,-
+2098,57140114,HU154_RS02470,HU154_RS02470,HU154_02470,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210522,-
+2098,57140115,HU154_RS02475,HU154_RS02475,HU154_02475,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200805,-
+2098,57140116,tilS,HU154_RS02480,HU154_02480,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210522,-
+2098,57140117,hflB,HU154_RS02485,HU154_02485,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210522,-
+2098,57140118,HU154_RS02490,HU154_RS02490,HU154_02490,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20210417,-
+2098,57140119,trmB,HU154_RS02495,HU154_02495,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200803,-
+2098,57140120,gyrA,HU154_RS02500,HU154_02500,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200803,-
+2098,57140121,HU154_RS02505,HU154_RS02505,HU154_02505,-,-,-,Lmp protein,protein-coding,-,-,-,Lmp protein,20210522,-
+2098,57140122,HU154_RS02510,HU154_RS02510,HU154_02510,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200801,-
+2098,57140123,HU154_RS02515,HU154_RS02515,HU154_02515,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210522,-
+2098,57140124,HU154_RS02520,HU154_RS02520,HU154_02520,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210522,-
+2098,57140125,HU154_RS02525,HU154_RS02525,HU154_02525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140126,HU154_RS02530,HU154_RS02530,HU154_02530,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210522,-
+2098,57140127,fmt,HU154_RS02535,HU154_02535,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210522,-
+2098,57140128,HU154_RS02540,HU154_RS02540,HU154_02540,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57140129,HU154_RS02545,HU154_RS02545,HU154_02545,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57140130,plsY,HU154_RS02550,HU154_02550,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20210424,-
+2098,57140131,HU154_RS02555,HU154_RS02555,HU154_02555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140132,HU154_RS02560,HU154_RS02560,HU154_02560,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200803,-
+2098,57140133,HU154_RS02565,HU154_RS02565,HU154_02565,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210424,-
+2098,57140134,HU154_RS02570,HU154_RS02570,HU154_02570,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210522,-
+2098,57140135,ybeY,HU154_RS02575,HU154_02575,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210417,-
+2098,57140136,era,HU154_RS02580,HU154_02580,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210522,-
+2098,57140137,HU154_RS02585,HU154_RS02585,HU154_02585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140138,HU154_RS02590,HU154_RS02590,HU154_02590,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+2098,57140139,HU154_RS02595,HU154_RS02595,HU154_02595,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+2098,57140140,HU154_RS02600,HU154_RS02600,HU154_02600,-,-,-,spermidine/putrescine ABC transporter permease,protein-coding,-,-,-,spermidine/putrescine ABC transporter permease,20210424,-
+2098,57140141,HU154_RS02605,HU154_RS02605,HU154_02605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140142,asnS,HU154_RS02610,HU154_02610,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20200805,-
+2098,57140143,HU154_RS02615,HU154_RS02615,HU154_02615,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210522,-
+2098,57140144,HU154_RS02620,HU154_RS02620,HU154_02620,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20210522,-
+2098,57140145,HU154_RS02625,HU154_RS02625,HU154_02625,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210522,-
+2098,57140146,HU154_RS02630,HU154_RS02630,HU154_02630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140147,HU154_RS02635,HU154_RS02635,HU154_02635,-,-,-,M13 family peptidase,protein-coding,-,-,-,M13 family peptidase,20210522,-
+2098,57140148,HU154_RS02640,HU154_RS02640,HU154_02640,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20210424,-
+2098,57140149,HU154_RS02645,HU154_RS02645,HU154_02645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140150,mnmE,HU154_RS02650,HU154_02650,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210424,-
+2098,57140151,rlmD,HU154_RS02655,HU154_02655,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,protein-coding,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,20200803,-
+2098,57140152,HU154_RS02660,HU154_RS02660,HU154_02660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140153,ftsY,HU154_RS02665,HU154_02665,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200805,-
+2098,57140154,HU154_RS02670,HU154_RS02670,HU154_02670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+2098,57140155,HU154_RS02675,HU154_RS02675,HU154_02675,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200805,-
+2098,57140156,frr,HU154_RS02680,HU154_02680,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200805,-
+2098,57140157,HU154_RS02685,HU154_RS02685,HU154_02685,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210522,-
+2098,57140158,HU154_RS02690,HU154_RS02690,HU154_02690,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20210522,-
+2098,57140159,HU154_RS02695,HU154_RS02695,HU154_02695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140160,HU154_RS02700,HU154_RS02700,HU154_02700,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200803,-
+2098,57140161,HU154_RS02705,HU154_RS02705,HU154_02705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140162,HU154_RS02710,HU154_RS02710,HU154_02710,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20210522,-
+2098,57140163,plsX,HU154_RS02715,HU154_02715,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210424,-
+2098,57140164,rnc,HU154_RS02720,HU154_02720,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210424,-
+2098,57140165,HU154_RS02725,HU154_RS02725,HU154_02725,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201026,-
+2098,57140166,HU154_RS02730,HU154_RS02730,HU154_02730,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210522,-
+2098,57140167,HU154_RS02735,HU154_RS02735,HU154_02735,-,-,-,virulence protein,protein-coding,-,-,-,virulence protein,20210522,-
+2098,57140168,HU154_RS02740,HU154_RS02740,HU154_02740,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57140169,uvrB,HU154_RS02745,HU154_02745,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210522,-
+2098,57140170,HU154_RS02750,HU154_RS02750,HU154_02750,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210522,-
+2098,57140171,HU154_RS02755,HU154_RS02755,HU154_02755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140172,HU154_RS02760,HU154_RS02760,HU154_02760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140173,HU154_RS02765,HU154_RS02765,HU154_02765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140174,rsmD,HU154_RS02770,HU154_02770,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210522,-
+2098,57140175,gmk,HU154_RS02775,HU154_02775,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200805,-
+2098,57140176,HU154_RS02780,HU154_RS02780,HU154_02780,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210417,-
+2098,57140177,HU154_RS02785,HU154_RS02785,HU154_02785,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20210424,-
+2098,57140178,rsgA,HU154_RS02790,HU154_02790,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20210424,-
+2098,57140179,HU154_RS02795,HU154_RS02795,HU154_02795,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200805,-
+2098,57140180,HU154_RS02800,HU154_RS02800,HU154_02800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140181,HU154_RS02805,HU154_RS02805,HU154_02805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140182,HU154_RS02810,HU154_RS02810,HU154_02810,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210522,-
+2098,57140183,HU154_RS02815,HU154_RS02815,HU154_02815,-,-,-,DUF262 domain-containing protein,protein-coding,-,-,-,DUF262 domain-containing protein,20210522,-
+2098,57140184,HU154_RS02820,HU154_RS02820,HU154_02820,-,-,-,cytosine methyltransferase,protein-coding,-,-,-,cytosine methyltransferase,20210522,-
+2098,57140185,dnaK,HU154_RS02825,HU154_02825,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200803,-
+2098,57140186,HU154_RS02830,HU154_RS02830,HU154_02830,-,-,-,-,pseudo,-,-,-,-,20200801,-
+2098,57140187,HU154_RS02835,HU154_RS02835,HU154_02835,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+2098,57140188,HU154_RS02840,HU154_RS02840,HU154_02840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140189,HU154_RS02845,HU154_RS02845,HU154_02845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140190,HU154_RS02850,HU154_RS02850,HU154_02850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140191,rpsB,HU154_RS02855,HU154_02855,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200803,-
+2098,57140192,HU154_RS02860,HU154_RS02860,HU154_02860,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200805,-
+2098,57140193,whiA,HU154_RS02865,HU154_02865,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20210424,-
+2098,57140194,HU154_RS02870,HU154_RS02870,HU154_02870,-,-,-,cysteine hydrolase,protein-coding,-,-,-,cysteine hydrolase,20200803,-
+2098,57140195,HU154_RS02875,HU154_RS02875,HU154_02875,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210424,-
+2098,57140196,HU154_RS02880,HU154_RS02880,HU154_02880,-,-,-,HAD-IC family P-type ATPase,protein-coding,-,-,-,HAD-IC family P-type ATPase,20210522,-
+2098,57140197,HU154_RS02885,HU154_RS02885,HU154_02885,-,-,-,DUF4190 domain-containing protein,protein-coding,-,-,-,DUF4190 domain-containing protein,20200801,-
+2098,57140198,HU154_RS02890,HU154_RS02890,HU154_02890,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20210424,-
+2098,57140199,HU154_RS02895,HU154_RS02895,HU154_02895,-,-,-,M20/M25/M40 family metallo-hydrolase,protein-coding,-,-,-,M20/M25/M40 family metallo-hydrolase,20210522,-
+2098,57140200,HU154_RS02900,HU154_RS02900,HU154_02900,-,-,-,endonuclease,protein-coding,-,-,-,endonuclease,20210424,-
+2098,57140201,HU154_RS02905,HU154_RS02905,HU154_02905,-,-,-,DNA topoisomerase 4 subunit A,protein-coding,-,-,-,DNA topoisomerase 4 subunit A,20210522,-
+2098,57140202,HU154_RS02910,HU154_RS02910,HU154_02910,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20200805,-
+2098,57140203,HU154_RS02915,HU154_RS02915,HU154_02915,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+2098,57140204,gap,HU154_RS02920,HU154_02920,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200805,-
+2098,57140205,HU154_RS02925,HU154_RS02925,HU154_02925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140206,HU154_RS02930,HU154_RS02930,HU154_02930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140207,HU154_RS02935,HU154_RS02935,HU154_02935,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210522,-
+2098,57140208,pip,HU154_RS02940,HU154_02940,-,-,-,prolyl aminopeptidase,protein-coding,-,-,-,prolyl aminopeptidase,20210424,-
+2098,57140209,HU154_RS02945,HU154_RS02945,HU154_02945,-,-,-,helix-hairpin-helix domain-containing protein,protein-coding,-,-,-,helix-hairpin-helix domain-containing protein,20210424,-
+2098,57140210,HU154_RS02950,HU154_RS02950,HU154_02950,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20210522,-
+2098,57140211,HU154_RS02955,HU154_RS02955,HU154_02955,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210522,-
+2098,57140212,HU154_RS02960,HU154_RS02960,HU154_02960,-,-,-,HsdR family type I site-specific deoxyribonuclease,protein-coding,-,-,-,HsdR family type I site-specific deoxyribonuclease,20210522,-
+2098,57140213,nusA,HU154_RS02965,HU154_02965,-,-,-,transcription termination factor NusA,protein-coding,-,-,-,transcription termination factor NusA,20210424,-
+2098,57140214,HU154_RS02970,HU154_RS02970,HU154_02970,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20210417,-
+2098,57140215,HU154_RS02975,HU154_RS02975,HU154_02975,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210522,-
+2098,57140216,rbfA,HU154_RS02980,HU154_02980,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210417,-
+2098,57140217,mnmG,HU154_RS02985,HU154_02985,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210417,-
+2098,57140218,HU154_RS02990,HU154_RS02990,HU154_02990,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20210424,-
+2098,57140219,HU154_RS02995,HU154_RS02995,HU154_02995,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200805,-
+2098,57140220,HU154_RS03000,HU154_RS03000,HU154_03000,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20210522,-
+2098,57140221,HU154_RS03005,HU154_RS03005,HU154_03005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140222,HU154_RS03010,HU154_RS03010,HU154_03010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+2098,57140223,HU154_RS03015,HU154_RS03015,HU154_03015,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210522,-
+2098,57140224,HU154_RS03020,HU154_RS03020,HU154_03020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+2098,57140225,HU154_RS03025,HU154_RS03025,HU154_03025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-

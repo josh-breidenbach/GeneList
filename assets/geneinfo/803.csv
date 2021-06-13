@@ -1,0 +1,1304 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+803,3293174,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Burnetia (Rocha-limae) wolhynica; Rickettsia pediculi; Rickettsia quintana; Rickettsia weigli; Rickettsia wolhynica; Rochalimaea quintana; Wolhynia qintanae.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20210407,-
+803,56532393,MF1_RS00005,MF1_RS00005,MF1_00010,-,-,-,kinase/pyrophosphorylase,protein-coding,-,-,-,kinase/pyrophosphorylase,20210413,-
+803,56532394,maf,MF1_RS00010,MF1_00020,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20210413,-
+803,56532395,MF1_RS00015,MF1_RS00015,MF1_00030,-,-,-,shikimate dehydrogenase,protein-coding,-,-,-,shikimate dehydrogenase,20210413,-
+803,56532396,MF1_RS00020,MF1_RS00020,MF1_00040,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210413,-
+803,56532397,dnaQ,MF1_RS00025,MF1_00050,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,DNA polymerase III subunit epsilon,20210413,-
+803,56532398,polA,MF1_RS00030,MF1_00060,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210413,-
+803,56532399,MF1_RS00035,MF1_RS00035,MF1_00070,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20210413,-
+803,56532400,MF1_RS00040,MF1_RS00040,MF1_00080,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20210413,-
+803,56532401,MF1_RS00045,MF1_RS00045,MF1_00090,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210413,-
+803,56532402,MF1_RS00050,MF1_RS00050,MF1_00100,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210413,-
+803,56532403,MF1_RS00055,MF1_RS00055,MF1_00110,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532404,MF1_RS00060,MF1_RS00060,MF1_00120,-,-,-,LapA family protein,protein-coding,-,-,-,LapA family protein,20210413,-
+803,56532405,ihfB,MF1_RS00065,MF1_00130,-,-,-,integration host factor subunit beta,protein-coding,-,-,-,integration host factor subunit beta,20210413,-
+803,56532406,lptC,MF1_RS00070,MF1_00150,-,-,-,LPS export ABC transporter periplasmic protein LptC,protein-coding,-,-,-,LPS export ABC transporter periplasmic protein LptC,20210413,-
+803,56532407,MF1_RS00075,MF1_RS00075,MF1_00160,-,-,-,LPS ABC transporter substrate-binding protein LptA,protein-coding,-,-,-,LPS ABC transporter substrate-binding protein LptA,20210522,-
+803,56532408,lptB,MF1_RS00080,MF1_00170,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20210413,-
+803,56532409,ptsN,MF1_RS00085,MF1_00180,-,-,-,PTS IIA-like nitrogen regulatory protein PtsN,protein-coding,-,-,-,PTS IIA-like nitrogen regulatory protein PtsN,20210413,-
+803,56532410,MF1_RS00090,MF1_RS00090,MF1_00190,-,-,-,invasion associated locus B family protein,protein-coding,-,-,-,invasion associated locus B family protein,20210413,-
+803,56532411,rlmN,MF1_RS00095,MF1_00200,-,-,-,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,protein-coding,-,-,-,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,20210413,-
+803,56532412,MF1_RS00100,MF1_RS00100,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532413,MF1_RS00105,MF1_RS00105,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532414,MF1_RS00110,MF1_RS00110,MF1_00230,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210413,-
+803,56532415,MF1_RS00115,MF1_RS00115,MF1_00240,-,-,-,peptide chain release factor 3,protein-coding,-,-,-,peptide chain release factor 3,20210413,-
+803,56532416,trxA,MF1_RS00120,MF1_00250,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210413,-
+803,56532417,addA,MF1_RS00125,MF1_00260,-,-,-,double-strand break repair helicase AddA,protein-coding,-,-,-,double-strand break repair helicase AddA,20210413,-
+803,56532418,addB,MF1_RS00130,MF1_00270,-,-,-,double-strand break repair protein AddB,protein-coding,-,-,-,double-strand break repair protein AddB,20210413,-
+803,56532419,tsaE,MF1_RS00135,MF1_00280,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210413,-
+803,56532420,MF1_RS00140,MF1_RS00140,MF1_00290,-,-,-,PAS-domain containing protein,protein-coding,-,-,-,PAS-domain containing protein,20210413,-
+803,56532421,MF1_RS00145,MF1_RS00145,MF1_00300,-,-,-,adenosylhomocysteinase,protein-coding,-,-,-,adenosylhomocysteinase,20210413,-
+803,56532422,MF1_RS00150,MF1_RS00150,MF1_00320,-,-,-,NAD-dependent epimerase/dehydratase family protein,protein-coding,-,-,-,NAD-dependent epimerase/dehydratase family protein,20210413,-
+803,56532423,MF1_RS00155,MF1_RS00155,MF1_00330,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,protein-coding,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,20210413,-
+803,56532424,MF1_RS00160,MF1_RS00160,MF1_00340,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20210413,-
+803,56532425,coaBC,MF1_RS00165,MF1_00350,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20210413,-
+803,56532426,ubiB,MF1_RS00170,MF1_00360,-,-,-,2-polyprenylphenol 6-hydroxylase,protein-coding,-,-,-,2-polyprenylphenol 6-hydroxylase,20210413,-
+803,56532427,ubiE,MF1_RS00175,MF1_00370,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20210413,-
+803,56532428,gyrB,MF1_RS00180,MF1_00380,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210413,-
+803,56532429,MF1_RS00185,MF1_RS00185,MF1_00390,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210413,-
+803,56532430,MF1_RS00190,MF1_RS00190,MF1_00400,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20210413,-
+803,56532431,MF1_RS00195,MF1_RS00195,MF1_00410,-,-,-,BamA/TamA family outer membrane protein,protein-coding,-,-,-,BamA/TamA family outer membrane protein,20210413,-
+803,56532432,MF1_RS00200,MF1_RS00200,MF1_00420,-,-,-,translocation/assembly module TamB domain-containing protein,protein-coding,-,-,-,translocation/assembly module TamB domain-containing protein,20210413,-
+803,56532433,MF1_RS00205,MF1_RS00205,MF1_00430,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56532434,infC,MF1_RS00210,MF1_00440,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210413,-
+803,56532435,MF1_RS00215,MF1_RS00215,MF1_00450,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210413,-
+803,56532436,MF1_RS00220,MF1_RS00220,MF1_00460,-,-,-,M48 family metallopeptidase,protein-coding,-,-,-,M48 family metallopeptidase,20210413,-
+803,56532437,dapE,MF1_RS00225,MF1_00470,-,-,-,succinyl-diaminopimelate desuccinylase,protein-coding,-,-,-,succinyl-diaminopimelate desuccinylase,20210413,-
+803,56532438,MF1_RS00230,MF1_RS00230,MF1_00480,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,coproporphyrinogen III oxidase,20210413,-
+803,56532439,rdgB,MF1_RS00235,MF1_00490,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20210413,-
+803,56532440,hrcA,MF1_RS00240,MF1_00500,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20210413,-
+803,56532441,grpE,MF1_RS00245,MF1_00510,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210413,-
+803,56532442,thpR,MF1_RS00250,MF1_00520,-,-,-,"RNA 2',3'-cyclic phosphodiesterase",protein-coding,-,-,-,"RNA 2',3'-cyclic phosphodiesterase",20210413,-
+803,56532443,MF1_RS00255,MF1_RS00255,MF1_00530,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210413,-
+803,56532444,MF1_RS00260,MF1_RS00260,MF1_00540,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210413,-
+803,56532445,MF1_RS00265,MF1_RS00265,MF1_00550,-,-,-,HPr kinase/phosphatase C-terminal domain-containing protein,protein-coding,-,-,-,HPr kinase/phosphatase C-terminal domain-containing protein,20210413,-
+803,56532446,MF1_RS00270,MF1_RS00270,MF1_00560,-,-,-,stimulus-sensing domain-containing protein,protein-coding,-,-,-,stimulus-sensing domain-containing protein,20210413,-
+803,56532447,MF1_RS00275,MF1_RS00275,MF1_00570,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210413,-
+803,56532448,lysM,MF1_RS00280,MF1_00580,-,-,-,peptidoglycan-binding protein LysM,protein-coding,-,-,-,peptidoglycan-binding protein LysM,20210413,-
+803,56532449,MF1_RS00285,MF1_RS00285,MF1_00590,-,-,-,copper chaperone PCu(A)C,protein-coding,-,-,-,copper chaperone PCu(A)C,20210413,-
+803,56532450,dnaK,MF1_RS00290,MF1_00600,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210413,-
+803,56532451,dnaJ,MF1_RS00295,MF1_00610,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210413,-
+803,56532452,argB,MF1_RS00300,MF1_00620,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20210413,-
+803,56532453,MF1_RS00305,MF1_RS00305,MF1_00630,-,-,-,EamA family transporter,protein-coding,-,-,-,EamA family transporter,20210413,-
+803,56532454,lepA,MF1_RS00310,MF1_00640,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210413,-
+803,56532455,dapD,MF1_RS00315,MF1_00650,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20210413,-
+803,56532456,MF1_RS00320,MF1_RS00320,MF1_00660,-,-,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20210413,-
+803,56532457,truA,MF1_RS00325,MF1_00670,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210413,-
+803,56532458,fmt,MF1_RS00330,MF1_00680,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210413,-
+803,56532459,MF1_RS00335,MF1_RS00335,MF1_00690,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210413,-
+803,56532460,rmuC,MF1_RS00340,MF1_00700,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210413,-
+803,56532461,MF1_RS00345,MF1_RS00345,MF1_00710,-,-,-,transglycosylase SLT domain-containing protein,protein-coding,-,-,-,transglycosylase SLT domain-containing protein,20210413,-
+803,56532462,MF1_RS00350,MF1_RS00350,MF1_00720,-,-,-,DUF1150 family protein,protein-coding,-,-,-,DUF1150 family protein,20210413,-
+803,56532463,MF1_RS00355,MF1_RS00355,MF1_00730,-,-,-,Hsp20 family protein,protein-coding,-,-,-,Hsp20 family protein,20210413,-
+803,56532464,nth,MF1_RS00360,MF1_00740,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210413,-
+803,56532465,rpmI,MF1_RS00365,MF1_00750,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210413,-
+803,56532466,rplT,MF1_RS00370,MF1_00760,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210413,-
+803,56532467,pheS,MF1_RS00375,MF1_00770,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210413,-
+803,56532468,MF1_RS00380,MF1_RS00380,MF1_00780,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210413,-
+803,56532469,MF1_RS00385,MF1_RS00385,MF1_00790,-,-,-,metal ABC transporter substrate-binding protein,protein-coding,-,-,-,metal ABC transporter substrate-binding protein,20210413,-
+803,56532470,MF1_RS00390,MF1_RS00390,MF1_00800,-,-,-,manganese/iron ABC transporter ATP-binding protein,protein-coding,-,-,-,manganese/iron ABC transporter ATP-binding protein,20210413,-
+803,56532471,MF1_RS00395,MF1_RS00395,MF1_00810,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210413,-
+803,56532472,MF1_RS00400,MF1_RS00400,MF1_00820,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210413,-
+803,56532473,MF1_RS00405,MF1_RS00405,-,-,-,-,DUF454 family protein,protein-coding,-,-,-,DUF454 family protein,20210413,-
+803,56532474,pncB,MF1_RS00410,MF1_00830,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210413,-
+803,56532475,MF1_RS00415,MF1_RS00415,MF1_00840,-,-,-,protein ndvB,protein-coding,-,-,-,protein ndvB,20210413,-
+803,56532476,rpsA,MF1_RS00420,MF1_00850,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210413,-
+803,56532477,MF1_RS00425,MF1_RS00425,MF1_00860,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210413,-
+803,56532478,aroA,MF1_RS00430,MF1_00870,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20210413,-
+803,56532479,MF1_RS00435,MF1_RS00435,MF1_00880,-,-,-,TIGR02300 family protein,protein-coding,-,-,-,TIGR02300 family protein,20210413,-
+803,56532480,MF1_RS00440,MF1_RS00440,MF1_t00010,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532481,MF1_RS00445,MF1_RS00445,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532482,mutS,MF1_RS00450,MF1_00890,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210413,-
+803,56532483,MF1_RS00455,MF1_RS00455,MF1_00900,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20210413,-
+803,56532484,secB,MF1_RS00460,MF1_00910,-,-,-,protein-export chaperone SecB,protein-coding,-,-,-,protein-export chaperone SecB,20210413,-
+803,56532485,MF1_RS00465,MF1_RS00465,MF1_00920,-,-,-,FxsA family protein,protein-coding,-,-,-,FxsA family protein,20210413,-
+803,56532486,MF1_RS00470,MF1_RS00470,MF1_00930,-,-,-,Tim44 domain-containing protein,protein-coding,-,-,-,Tim44 domain-containing protein,20210413,-
+803,56532487,MF1_RS00475,MF1_RS00475,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532488,MF1_RS00480,MF1_RS00480,MF1_00950,-,-,-,Hsp33 family molecular chaperone,protein-coding,-,-,-,Hsp33 family molecular chaperone,20210413,-
+803,56532489,MF1_RS00485,MF1_RS00485,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532490,MF1_RS00490,MF1_RS00490,MF1_00980,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20210413,-
+803,56532491,MF1_RS00495,MF1_RS00495,MF1_00990,-,-,-,GcrA cell cycle regulator,protein-coding,-,-,-,GcrA cell cycle regulator,20210413,-
+803,56532492,MF1_RS00500,MF1_RS00500,MF1_01000,-,-,-,DsbE family thiol:disulfide interchange protein,protein-coding,-,-,-,DsbE family thiol:disulfide interchange protein,20210413,-
+803,56532493,MF1_RS00510,MF1_RS00510,MF1_01010,-,-,-,heme ABC transporter permease,protein-coding,-,-,-,heme ABC transporter permease,20210413,-
+803,56532494,ccmB,MF1_RS00515,MF1_01020,-,-,-,heme exporter protein CcmB,protein-coding,-,-,-,heme exporter protein CcmB,20210413,-
+803,56532495,ccmA,MF1_RS00520,MF1_01030,-,-,-,heme ABC exporter ATP-binding protein CcmA,protein-coding,-,-,-,heme ABC exporter ATP-binding protein CcmA,20210413,-
+803,56532496,acnA,MF1_RS00525,MF1_01040,-,-,-,aconitate hydratase AcnA,protein-coding,-,-,-,aconitate hydratase AcnA,20210413,-
+803,56532497,rpsT,MF1_RS00530,MF1_01050,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210413,-
+803,56532498,dnaA,MF1_RS00535,MF1_01060,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210413,-
+803,56532499,MF1_RS00540,MF1_RS00540,MF1_01070,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210413,-
+803,56532500,recF,MF1_RS00545,MF1_01080,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20210413,-
+803,56532501,aroQ,MF1_RS00550,MF1_01090,-,-,-,type II 3-dehydroquinate dehydratase,protein-coding,-,-,-,type II 3-dehydroquinate dehydratase,20210413,-
+803,56532502,cyoA,MF1_RS00555,MF1_01100,-,-,-,ubiquinol oxidase subunit II,protein-coding,-,-,-,ubiquinol oxidase subunit II,20210413,-
+803,56532503,cyoB,MF1_RS00560,MF1_01110,-,-,-,cytochrome o ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome o ubiquinol oxidase subunit I,20210413,-
+803,56532504,MF1_RS00565,MF1_RS00565,MF1_01120,-,-,-,cytochrome (ubi)quinol oxidase subunit III,protein-coding,-,-,-,cytochrome (ubi)quinol oxidase subunit III,20210413,-
+803,56532505,cyoD,MF1_RS00570,MF1_01130,-,-,-,cytochrome o ubiquinol oxidase subunit IV,protein-coding,-,-,-,cytochrome o ubiquinol oxidase subunit IV,20210413,-
+803,56532506,gpsA,MF1_RS00575,MF1_01140,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210413,-
+803,56532507,fabI,MF1_RS00580,MF1_01150,-,-,-,enoyl-ACP reductase FabI,protein-coding,-,-,-,enoyl-ACP reductase FabI,20210413,-
+803,56532508,fabB,MF1_RS00585,MF1_01160,-,-,-,beta-ketoacyl-ACP synthase I,protein-coding,-,-,-,beta-ketoacyl-ACP synthase I,20210413,-
+803,56532509,fabA,MF1_RS00590,MF1_01170,-,-,-,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA,protein-coding,-,-,-,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA,20210413,-
+803,56532510,MF1_RS00595,MF1_RS00595,MF1_01180,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20210605,-
+803,56532511,MF1_RS00600,MF1_RS00600,MF1_01190,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20210413,-
+803,56532512,MF1_RS00605,MF1_RS00605,MF1_01210,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210413,-
+803,56532513,MF1_RS00610,MF1_RS00610,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532514,MF1_RS00615,MF1_RS00615,MF1_t00020,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532515,MF1_RS00620,MF1_RS00620,MF1_01230,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210413,-
+803,56532516,MF1_RS00625,MF1_RS00625,MF1_01240,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20210413,-
+803,56532517,pgi,MF1_RS00630,MF1_01250,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210413,-
+803,56532518,MF1_RS00635,MF1_RS00635,MF1_t00030,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532519,rplU,MF1_RS00640,MF1_01260,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210413,-
+803,56532520,rpmA,MF1_RS00645,MF1_01270,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210413,-
+803,56532521,ptsP,MF1_RS00650,MF1_01280,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20210413,-
+803,56532522,MF1_RS00655,MF1_RS00655,MF1_t00040,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532523,MF1_RS00665,MF1_RS00665,MF1_01290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532524,MF1_RS00670,MF1_RS00670,MF1_01310,-,-,-,Vomp family autotransporter,protein-coding,-,-,-,Vomp family autotransporter,20210413,-
+803,56532525,MF1_RS00675,MF1_RS00675,MF1_01320,-,-,-,Vomp family autotransporter,protein-coding,-,-,-,Vomp family autotransporter,20210413,-
+803,56532526,MF1_RS00680,MF1_RS00680,MF1_01330,-,-,-,Vomp family autotransporter,protein-coding,-,-,-,Vomp family autotransporter,20210413,-
+803,56532527,MF1_RS00685,MF1_RS00685,MF1_01340,-,-,-,Vomp family autotransporter,protein-coding,-,-,-,Vomp family autotransporter,20210413,-
+803,56532528,MF1_RS00690,MF1_RS00690,MF1_01350,-,-,-,invasion-associated locus B family protein,protein-coding,-,-,-,invasion-associated locus B family protein,20210413,-
+803,56532529,MF1_RS00695,MF1_RS00695,MF1_01360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532530,MF1_RS00700,MF1_RS00700,MF1_01370,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532531,MF1_RS00705,MF1_RS00705,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532532,MF1_RS00710,MF1_RS00710,MF1_01410,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20210413,-
+803,56532533,obgE,MF1_RS00715,MF1_01420,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210413,-
+803,56532534,MF1_RS00720,MF1_RS00720,MF1_01430,-,-,-,glutamate 5-kinase,protein-coding,-,-,-,glutamate 5-kinase,20210413,-
+803,56532535,MF1_RS00725,MF1_RS00725,MF1_01440,-,-,-,glutamate-5-semialdehyde dehydrogenase,protein-coding,-,-,-,glutamate-5-semialdehyde dehydrogenase,20210413,-
+803,56532536,MF1_RS00730,MF1_RS00730,MF1_01450,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20210413,-
+803,56532537,rlmH,MF1_RS00740,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532538,MF1_RS00745,MF1_RS00745,MF1_01480,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20210413,-
+803,56532539,MF1_RS00750,MF1_RS00750,MF1_01490,-,-,-,S41 family peptidase,protein-coding,-,-,-,S41 family peptidase,20210413,-
+803,56532540,MF1_RS00755,MF1_RS00755,MF1_01500,-,-,-,RNA pyrophosphohydrolase,protein-coding,-,-,-,RNA pyrophosphohydrolase,20210413,-
+803,56532541,MF1_RS00760,MF1_RS00760,MF1_01510,-,-,-,invasion associated locus B family protein,protein-coding,-,-,-,invasion associated locus B family protein,20210413,-
+803,56532542,MF1_RS00765,MF1_RS00765,MF1_01520,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20210413,-
+803,56532543,MF1_RS00770,MF1_RS00770,MF1_01530,-,-,-,DUF167 domain-containing protein,protein-coding,-,-,-,DUF167 domain-containing protein,20210413,-
+803,56532544,ppa,MF1_RS00775,MF1_01540,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210413,-
+803,56532545,typA,MF1_RS00780,MF1_01550,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20210413,-
+803,56532546,mgtE,MF1_RS00785,MF1_01570,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210413,-
+803,56532547,MF1_RS00790,MF1_RS00790,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532548,MF1_RS00795,MF1_RS00795,MF1_01630,-,-,-,DUF459 domain-containing protein,protein-coding,-,-,-,DUF459 domain-containing protein,20210413,-
+803,56532549,MF1_RS00800,MF1_RS00800,MF1_01640,-,-,-,lytic murein transglycosylase,protein-coding,-,-,-,lytic murein transglycosylase,20210413,-
+803,56532550,MF1_RS00805,MF1_RS00805,MF1_01650,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210413,-
+803,56532551,MF1_RS00810,MF1_RS00810,MF1_01660,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20210413,-
+803,56532552,MF1_RS00815,MF1_RS00815,MF1_01670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532553,MF1_RS00820,MF1_RS00820,MF1_01680,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210413,-
+803,56532554,MF1_RS00825,MF1_RS00825,MF1_01690,-,-,-,phospholipase D family protein,protein-coding,-,-,-,phospholipase D family protein,20210413,-
+803,56532555,guaB,MF1_RS00830,MF1_01700,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20210413,-
+803,56532556,MF1_RS00835,MF1_RS00835,MF1_01720,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,20210413,-
+803,56532557,guaA,MF1_RS00840,MF1_01730,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210413,-
+803,56532558,MF1_RS00845,MF1_RS00845,MF1_01740,-,-,-,glycerophosphodiester phosphodiesterase,protein-coding,-,-,-,glycerophosphodiester phosphodiesterase,20210413,-
+803,56532559,MF1_RS00850,MF1_RS00850,MF1_01750,-,-,-,sn-glycerol-3-phosphate import ATP-binding protein UgpC,protein-coding,-,-,-,sn-glycerol-3-phosphate import ATP-binding protein UgpC,20210413,-
+803,56532560,ugpE,MF1_RS00855,MF1_01760,-,-,-,sn-glycerol-3-phosphate ABC transporter permease UgpE,protein-coding,-,-,-,sn-glycerol-3-phosphate ABC transporter permease UgpE,20210413,-
+803,56532561,ugpA,MF1_RS00860,MF1_01770,-,-,-,sn-glycerol-3-phosphate ABC transporter permease UgpA,protein-coding,-,-,-,sn-glycerol-3-phosphate ABC transporter permease UgpA,20210413,-
+803,56532562,ugpB,MF1_RS00865,MF1_01780,-,-,-,sn-glycerol-3-phosphate ABC transporter substrate-binding protein UgpB,protein-coding,-,-,-,sn-glycerol-3-phosphate ABC transporter substrate-binding protein UgpB,20210413,-
+803,56532563,MF1_RS00870,MF1_RS00870,MF1_01790,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20210413,-
+803,56532564,MF1_RS00875,MF1_RS00875,MF1_01800,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210413,-
+803,56532565,MF1_RS00880,MF1_RS00880,MF1_01810,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56532566,MF1_RS00885,MF1_RS00885,MF1_01820,-,-,-,glutaredoxin family protein,protein-coding,-,-,-,glutaredoxin family protein,20210413,-
+803,56532567,nrdI,MF1_RS00890,MF1_01830,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20210413,-
+803,56532568,nrdE,MF1_RS00895,MF1_01840,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20210413,-
+803,56532569,nrdF,MF1_RS00900,MF1_01850,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20210413,-
+803,56532570,prmC,MF1_RS00905,MF1_01860,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210413,-
+803,56532571,prfA,MF1_RS00910,MF1_01870,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210413,-
+803,56532572,MF1_RS00915,MF1_RS00915,MF1_01880,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20210413,-
+803,56532573,secA,MF1_RS00920,MF1_01890,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210413,-
+803,56532574,MF1_RS00925,MF1_RS00925,MF1_01900,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210413,-
+803,56532575,argJ,MF1_RS00930,MF1_01910,-,-,-,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ,protein-coding,-,-,-,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ,20210413,-
+803,56532576,mutT,MF1_RS00935,MF1_01920,-,-,-,8-oxo-dGTP diphosphatase MutT,protein-coding,-,-,-,8-oxo-dGTP diphosphatase MutT,20210413,-
+803,56532577,MF1_RS00940,MF1_RS00940,MF1_01930,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20210413,-
+803,56532578,MF1_RS00945,MF1_RS00945,MF1_01940,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210413,-
+803,56532579,MF1_RS00950,MF1_RS00950,MF1_01950,-,-,-,type I pantothenate kinase,protein-coding,-,-,-,type I pantothenate kinase,20210413,-
+803,56532580,MF1_RS00955,MF1_RS00955,MF1_01960,-,-,-,asparaginase,protein-coding,-,-,-,asparaginase,20210413,-
+803,56532581,hslV,MF1_RS00960,MF1_01970,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20210413,-
+803,56532582,hslU,MF1_RS00965,MF1_01980,-,-,-,ATP-dependent protease ATPase subunit HslU,protein-coding,-,-,-,ATP-dependent protease ATPase subunit HslU,20210413,-
+803,56532583,MF1_RS00970,MF1_RS00970,MF1_01990,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210413,-
+803,56532584,pnp,MF1_RS00975,MF1_02000,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210413,-
+803,56532585,rpsO,MF1_RS00980,MF1_02010,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210413,-
+803,56532586,MF1_RS00985,MF1_RS00985,MF1_02020,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210413,-
+803,56532587,MF1_RS00990,MF1_RS00990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532588,truB,MF1_RS00995,MF1_02030,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210413,-
+803,56532589,rbfA,MF1_RS01000,MF1_02040,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210413,-
+803,56532590,infB,MF1_RS01005,MF1_02050,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210413,-
+803,56532591,MF1_RS01010,MF1_RS01010,MF1_02060,-,-,-,RNA-binding protein,protein-coding,-,-,-,RNA-binding protein,20210413,-
+803,56532592,nusA,MF1_RS01015,MF1_02070,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210413,-
+803,56532593,rimP,MF1_RS01020,MF1_02080,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20210413,-
+803,56532594,trmB,MF1_RS01025,MF1_02090,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20210413,-
+803,56532595,metK,MF1_RS01030,MF1_02100,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210413,-
+803,56532596,MF1_RS01035,MF1_RS01035,MF1_02110,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210413,-
+803,56532597,lnt,MF1_RS01040,MF1_02120,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20210413,-
+803,56532598,MF1_RS01045,MF1_RS01045,MF1_02130,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210413,-
+803,56532599,ybeY,MF1_RS01050,MF1_02140,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210413,-
+803,56532600,MF1_RS01055,MF1_RS01055,MF1_02150,-,-,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20210413,-
+803,56532601,miaB,MF1_RS01060,MF1_02160,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20210413,-
+803,56532602,rimI,MF1_RS01065,MF1_02170,-,-,-,ribosomal protein S18-alanine N-acetyltransferase,protein-coding,-,-,-,ribosomal protein S18-alanine N-acetyltransferase,20210413,-
+803,56532603,tsaB,MF1_RS01070,MF1_02180,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210413,-
+803,56532604,MF1_RS01075,MF1_RS01075,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532605,recR,MF1_RS01080,MF1_02200,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210413,-
+803,56532606,MF1_RS01085,MF1_RS01085,MF1_02210,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210413,-
+803,56532607,MF1_RS01090,MF1_RS01090,MF1_02220,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210413,-
+803,56532608,ffs,MF1_RS01095,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210413,-
+803,56532609,MF1_RS01100,MF1_RS01100,MF1_02230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532610,MF1_RS01105,MF1_RS01105,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532611,MF1_RS01110,MF1_RS01110,MF1_02250,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20210413,-
+803,56532612,MF1_RS01115,MF1_RS01115,MF1_02260,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20210413,-
+803,56532613,MF1_RS01125,MF1_RS01125,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532614,MF1_RS01130,MF1_RS01130,MF1_02340,-,-,-,molybdopterin-synthase adenylyltransferase MoeB,protein-coding,-,-,-,molybdopterin-synthase adenylyltransferase MoeB,20210413,-
+803,56532615,gshB,MF1_RS01135,MF1_02350,-,-,-,glutathione synthase,protein-coding,-,-,-,glutathione synthase,20210413,-
+803,56532616,MF1_RS01140,MF1_RS01140,MF1_02360,-,-,-,substrate-binding domain-containing protein,protein-coding,-,-,-,substrate-binding domain-containing protein,20210413,-
+803,56532617,pstC,MF1_RS01145,MF1_02370,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20210413,-
+803,56532618,pstA,MF1_RS01150,MF1_02380,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210413,-
+803,56532619,MF1_RS01155,MF1_RS01155,MF1_02390,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20210413,-
+803,56532620,phoU,MF1_RS01160,MF1_02400,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20210413,-
+803,56532621,MF1_RS01165,MF1_RS01165,MF1_02410,-,-,-,cell wall hydrolase,protein-coding,-,-,-,cell wall hydrolase,20210413,-
+803,56532622,MF1_RS01170,MF1_RS01170,MF1_02420,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20210413,-
+803,56532623,mutM,MF1_RS01175,MF1_02430,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20210413,-
+803,56532624,MF1_RS01180,MF1_RS01180,MF1_02440,-,-,-,dipeptidase,protein-coding,-,-,-,dipeptidase,20210413,-
+803,56532625,MF1_RS01185,MF1_RS01185,MF1_02450,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20210413,-
+803,56532626,MF1_RS01190,MF1_RS01190,MF1_02460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532627,MF1_RS01195,MF1_RS01195,MF1_02470,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20210413,-
+803,56532628,MF1_RS01200,MF1_RS01200,MF1_02480,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20210413,-
+803,56532629,MF1_RS01205,MF1_RS01205,MF1_02490,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20210413,-
+803,56532630,MF1_RS01210,MF1_RS01210,MF1_02500,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210413,-
+803,56532631,MF1_RS01215,MF1_RS01215,MF1_02510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532632,MF1_RS01220,MF1_RS01220,MF1_02520,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20210413,-
+803,56532633,MF1_RS01225,MF1_RS01225,MF1_02530,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20210413,-
+803,56532634,rsmD,MF1_RS01230,MF1_02540,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210413,-
+803,56532635,MF1_RS01235,MF1_RS01235,MF1_02550,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532636,MF1_RS01240,MF1_RS01240,MF1_02570,-,-,-,TldD/PmbA family protein,protein-coding,-,-,-,TldD/PmbA family protein,20210413,-
+803,56532637,MF1_RS01245,MF1_RS01245,MF1_02580,-,-,-,"3'(2'),5'-bisphosphate nucleotidase CysQ",protein-coding,-,-,-,"3'(2'),5'-bisphosphate nucleotidase CysQ",20210413,-
+803,56532638,MF1_RS01250,MF1_RS01250,MF1_02590,-,-,-,DUF4170 domain-containing protein,protein-coding,-,-,-,DUF4170 domain-containing protein,20210413,-
+803,56532639,waaA,MF1_RS01255,MF1_02600,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20210413,-
+803,56532640,MF1_RS01260,MF1_RS01260,MF1_02610,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20210413,-
+803,56532641,MF1_RS01265,MF1_RS01265,MF1_02620,-,-,-,DUF2093 domain-containing protein,protein-coding,-,-,-,DUF2093 domain-containing protein,20210413,-
+803,56532642,mutL,MF1_RS01270,MF1_02630,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20210413,-
+803,56532643,MF1_RS01275,MF1_RS01275,MF1_02640,-,-,-,2'-deoxycytidine 5'-triphosphate deaminase,protein-coding,-,-,-,2'-deoxycytidine 5'-triphosphate deaminase,20210413,-
+803,56532644,lldD,MF1_RS01280,MF1_02650,-,-,-,FMN-dependent L-lactate dehydrogenase LldD,protein-coding,-,-,-,FMN-dependent L-lactate dehydrogenase LldD,20210413,-
+803,56532645,MF1_RS01285,MF1_RS01285,MF1_02660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532646,MF1_RS01290,MF1_RS01290,MF1_02670,-,-,-,glycoside hydrolase family protein,protein-coding,-,-,-,glycoside hydrolase family protein,20210413,-
+803,56532647,MF1_RS01295,MF1_RS01295,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532648,MF1_RS01300,MF1_RS01300,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532649,MF1_RS01305,MF1_RS01305,MF1_t00050,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532650,MF1_RS01315,MF1_RS01315,MF1_02700,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210413,-
+803,56532651,MF1_RS01320,MF1_RS01320,MF1_02710,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210413,-
+803,56532652,MF1_RS01325,MF1_RS01325,MF1_02720,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210413,-
+803,56532653,MF1_RS01330,MF1_RS01330,MF1_02730,-,-,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20210413,-
+803,56532654,MF1_RS01335,MF1_RS01335,MF1_02760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532655,MF1_RS01340,MF1_RS01340,MF1_02770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532656,MF1_RS01345,MF1_RS01345,MF1_t00060,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532657,MF1_RS01350,MF1_RS01350,MF1_02780,-,-,-,phosphoserine transaminase,protein-coding,-,-,-,phosphoserine transaminase,20210413,-
+803,56532658,MF1_RS01355,MF1_RS01355,MF1_02790,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20210413,-
+803,56532659,MF1_RS01360,MF1_RS01360,MF1_02800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532660,rpoH,MF1_RS01365,MF1_02810,-,-,-,RNA polymerase sigma factor RpoH,protein-coding,-,-,-,RNA polymerase sigma factor RpoH,20210413,-
+803,56532661,MF1_RS01370,MF1_RS01370,MF1_02820,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210413,-
+803,56532662,MF1_RS01375,MF1_RS01375,MF1_02830,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20210413,-
+803,56532663,MF1_RS01380,MF1_RS01380,MF1_02840,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210413,-
+803,56532664,MF1_RS01385,MF1_RS01385,MF1_02850,-,-,-,histidine kinase,protein-coding,-,-,-,histidine kinase,20210413,-
+803,56532665,MF1_RS01390,MF1_RS01390,MF1_02860,-,-,-,HAMP domain-containing histidine kinase,protein-coding,-,-,-,HAMP domain-containing histidine kinase,20210413,-
+803,56532666,mscL,MF1_RS01395,MF1_02870,-,-,-,large conductance mechanosensitive channel protein MscL,protein-coding,-,-,-,large conductance mechanosensitive channel protein MscL,20210413,-
+803,56532667,MF1_RS01400,MF1_RS01400,MF1_02880,-,-,-,quinone-dependent dihydroorotate dehydrogenase,protein-coding,-,-,-,quinone-dependent dihydroorotate dehydrogenase,20210413,-
+803,56532668,MF1_RS01405,MF1_RS01405,MF1_t00070,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532669,MF1_RS01410,MF1_RS01410,MF1_02890,-,-,-,glutamine synthetase,protein-coding,-,-,-,glutamine synthetase,20210413,-
+803,56532670,MF1_RS01415,MF1_RS01415,MF1_02900,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210413,-
+803,56532671,zwf,MF1_RS01420,MF1_02910,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20210413,-
+803,56532672,pgl,MF1_RS01425,MF1_02920,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210413,-
+803,56532673,MF1_RS01430,MF1_RS01430,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532674,folD,MF1_RS01435,MF1_02960,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20210413,-
+803,56532675,MF1_RS01440,MF1_RS01440,MF1_02970,-,-,-,AsmA family protein,protein-coding,-,-,-,AsmA family protein,20210413,-
+803,56532676,MF1_RS01445,MF1_RS01445,MF1_02990,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210413,-
+803,56532677,MF1_RS01450,MF1_RS01450,MF1_03000,-,-,-,glutamate--cysteine ligase,protein-coding,-,-,-,glutamate--cysteine ligase,20210413,-
+803,56532678,MF1_RS01455,MF1_RS01455,MF1_03010,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20210413,-
+803,56532679,MF1_RS01460,MF1_RS01460,MF1_03020,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210413,-
+803,56532680,MF1_RS01465,MF1_RS01465,MF1_03030,-,-,-,ComF family protein,protein-coding,-,-,-,ComF family protein,20210413,-
+803,56532681,grxC,MF1_RS01470,MF1_03040,-,-,-,glutaredoxin 3,protein-coding,-,-,-,glutaredoxin 3,20210413,-
+803,56532682,MF1_RS01475,MF1_RS01475,MF1_03050,-,-,-,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,protein-coding,-,-,-,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,20210413,-
+803,56532683,MF1_RS01480,MF1_RS01480,MF1_03060,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210413,-
+803,56532684,nhaA,MF1_RS01485,MF1_03070,-,-,-,Na+/H+ antiporter NhaA,protein-coding,-,-,-,Na+/H+ antiporter NhaA,20210413,-
+803,56532685,MF1_RS01490,MF1_RS01490,MF1_03080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532686,MF1_RS01495,MF1_RS01495,MF1_03090,-,-,-,SLC13 family permease,protein-coding,-,-,-,SLC13 family permease,20210413,-
+803,56532687,MF1_RS01500,MF1_RS01500,MF1_03100,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210413,-
+803,56532688,der,MF1_RS01505,MF1_03110,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210413,-
+803,56532689,MF1_RS01510,MF1_RS01510,MF1_03120,-,-,-,AtpZ/AtpI family protein,protein-coding,-,-,-,AtpZ/AtpI family protein,20210413,-
+803,56532690,MF1_RS01515,MF1_RS01515,MF1_03130,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20210413,-
+803,56532691,MF1_RS01520,MF1_RS01520,MF1_03140,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20210413,-
+803,56532692,MF1_RS01525,MF1_RS01525,MF1_03150,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20210413,-
+803,56532693,MF1_RS01530,MF1_RS01530,MF1_03160,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20210413,-
+803,56532694,MF1_RS01535,MF1_RS01535,MF1_03170,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,glycine--tRNA ligase subunit beta,20210413,-
+803,56532695,MF1_RS01540,MF1_RS01540,MF1_03180,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20210413,-
+803,56532696,MF1_RS01545,MF1_RS01545,MF1_03190,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210413,-
+803,56532697,MF1_RS01550,MF1_RS01550,MF1_03200,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210413,-
+803,56532698,MF1_RS01555,MF1_RS01555,MF1_03210,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20210413,-
+803,56532699,MF1_RS01560,MF1_RS01560,MF1_03220,-,-,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20210413,-
+803,56532700,MF1_RS01565,MF1_RS01565,MF1_03230,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20210413,-
+803,56532701,petA,MF1_RS01570,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532702,MF1_RS01585,MF1_RS01585,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532703,MF1_RS01590,MF1_RS01590,MF1_03280,-,-,-,PRC-barrel domain-containing protein,protein-coding,-,-,-,PRC-barrel domain-containing protein,20210413,-
+803,56532704,ychF,MF1_RS01595,MF1_03290,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210413,-
+803,56532705,MF1_RS01600,MF1_RS01600,MF1_03300,-,-,-,"L,D-transpeptidase",protein-coding,-,-,-,"L,D-transpeptidase",20210413,-
+803,56532706,MF1_RS01605,MF1_RS01605,MF1_03310,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210413,-
+803,56532707,MF1_RS01610,MF1_RS01610,MF1_03320,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210413,-
+803,56532708,MF1_RS01615,MF1_RS01615,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532709,MF1_RS01620,MF1_RS01620,MF1_03380,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210413,-
+803,56532710,pgeF,MF1_RS01625,MF1_03390,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20210413,-
+803,56532711,MF1_RS01630,MF1_RS01630,MF1_03400,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20210413,-
+803,56532712,MF1_RS01635,MF1_RS01635,MF1_03410,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210413,-
+803,56532713,MF1_RS01640,MF1_RS01640,MF1_03420,-,-,-,accessory factor UbiK family protein,protein-coding,-,-,-,accessory factor UbiK family protein,20210413,-
+803,56532714,MF1_RS01645,MF1_RS01645,MF1_03430,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532715,MF1_RS01650,MF1_RS01650,MF1_03440,-,-,-,YbjN domain-containing protein,protein-coding,-,-,-,YbjN domain-containing protein,20210413,-
+803,56532716,MF1_RS01655,MF1_RS01655,MF1_03450,-,-,-,HAMP domain-containing protein,protein-coding,-,-,-,HAMP domain-containing protein,20210413,-
+803,56532717,MF1_RS01660,MF1_RS01660,MF1_03460,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210413,-
+803,56532718,MF1_RS01665,MF1_RS01665,MF1_03470,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210413,-
+803,56532719,MF1_RS01670,MF1_RS01670,MF1_03480,-,-,-,BA14K family protein,protein-coding,-,-,-,BA14K family protein,20210413,-
+803,56532720,uvrB,MF1_RS01675,MF1_03490,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210413,-
+803,56532721,MF1_RS01680,MF1_RS01680,MF1_03500,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20210522,-
+803,56532722,greA,MF1_RS01685,MF1_03510,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20210413,-
+803,56532723,MF1_RS01690,MF1_RS01690,MF1_03520,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20210413,-
+803,56532724,MF1_RS01695,MF1_RS01695,MF1_03550,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210413,-
+803,56532725,trxB,MF1_RS01700,MF1_03560,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210413,-
+803,56532726,MF1_RS01705,MF1_RS01705,MF1_03570,-,-,-,LysR family transcriptional regulator,protein-coding,-,-,-,LysR family transcriptional regulator,20210413,-
+803,56532727,MF1_RS01710,MF1_RS01710,MF1_03580,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20210413,-
+803,56532728,MF1_RS01715,MF1_RS01715,MF1_03590,-,-,-,cold-shock protein,protein-coding,-,-,-,cold-shock protein,20210413,-
+803,56532729,carB,MF1_RS01720,MF1_03600,-,-,-,carbamoyl-phosphate synthase large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase large subunit,20210413,-
+803,56532730,MF1_RS01725,MF1_RS01725,MF1_03610,-,-,-,tetracycline resistance MFS efflux pump,protein-coding,-,-,-,tetracycline resistance MFS efflux pump,20210413,-
+803,56532731,carA,MF1_RS01730,MF1_03620,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20210413,-
+803,56532732,ubiC,MF1_RS01735,MF1_03640,-,-,-,chorismate lyase,protein-coding,-,-,-,chorismate lyase,20210413,-
+803,56532733,MF1_RS01740,MF1_RS01740,MF1_03650,-,-,-,GlsB/YeaQ/YmgE family stress response membrane protein,protein-coding,-,-,-,GlsB/YeaQ/YmgE family stress response membrane protein,20210413,-
+803,56532734,MF1_RS01745,MF1_RS01745,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532735,MF1_RS01750,MF1_RS01750,MF1_03690,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,mechanosensitive ion channel family protein,20210413,-
+803,56532736,MF1_RS01755,MF1_RS01755,MF1_03700,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210413,-
+803,56532737,rpoD,MF1_RS01760,MF1_03720,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20210413,-
+803,56532738,MF1_RS01765,MF1_RS01765,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532739,MF1_RS01770,MF1_RS01770,MF1_03740,-,-,-,SIMPL domain-containing protein,protein-coding,-,-,-,SIMPL domain-containing protein,20210413,-
+803,56532740,MF1_RS01775,MF1_RS01775,MF1_t00080,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532741,MF1_RS01785,MF1_RS01785,MF1_03770,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210413,-
+803,56532742,MF1_RS01790,MF1_RS01790,MF1_03790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532743,MF1_RS01795,MF1_RS01795,MF1_03810,-,-,-,DUF1508 domain-containing protein,protein-coding,-,-,-,DUF1508 domain-containing protein,20210413,-
+803,56532744,MF1_RS01800,MF1_RS01800,MF1_03820,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210413,-
+803,56532745,MF1_RS01805,MF1_RS01805,MF1_03830,-,-,-,DUF475 domain-containing protein,protein-coding,-,-,-,DUF475 domain-containing protein,20210413,-
+803,56532746,pncA,MF1_RS01810,MF1_03840,-,-,-,bifunctional nicotinamidase/pyrazinamidase,protein-coding,-,-,-,bifunctional nicotinamidase/pyrazinamidase,20210413,-
+803,56532747,MF1_RS01815,MF1_RS01815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532748,ettA,MF1_RS01820,MF1_03850,-,-,-,energy-dependent translational throttle protein EttA,protein-coding,-,-,-,energy-dependent translational throttle protein EttA,20210413,-
+803,56532749,MF1_RS01825,MF1_RS01825,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532750,MF1_RS01830,MF1_RS01830,MF1_03870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532751,MF1_RS01835,MF1_RS01835,MF1_03880,-,-,-,transglycosylase SLT domain-containing protein,protein-coding,-,-,-,transglycosylase SLT domain-containing protein,20210413,-
+803,56532752,rnpB,MF1_RS01840,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210413,-
+803,56532753,rsmH,MF1_RS01845,MF1_03890,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210413,-
+803,56532754,MF1_RS01850,MF1_RS01850,MF1_03900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532755,MF1_RS01855,MF1_RS01855,MF1_03910,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210413,-
+803,56532756,MF1_RS01860,MF1_RS01860,MF1_03920,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20210413,-
+803,56532757,murF,MF1_RS01865,MF1_03930,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210413,-
+803,56532758,MF1_RS01870,MF1_RS01870,MF1_03940,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20210413,-
+803,56532759,MF1_RS01875,MF1_RS01875,MF1_03950,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210413,-
+803,56532760,MF1_RS01880,MF1_RS01880,MF1_03960,-,-,-,cell division protein FtsW,protein-coding,-,-,-,cell division protein FtsW,20210413,-
+803,56532761,MF1_RS01885,MF1_RS01885,MF1_03970,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,protein-coding,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,20210413,-
+803,56532762,MF1_RS01890,MF1_RS01890,MF1_03980,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20210413,-
+803,56532763,murB,MF1_RS01895,MF1_03990,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210413,-
+803,56532764,MF1_RS01900,MF1_RS01900,MF1_04000,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210413,-
+803,56532765,MF1_RS01905,MF1_RS01905,MF1_04010,-,-,-,cell division protein FtsQ/DivIB,protein-coding,-,-,-,cell division protein FtsQ/DivIB,20210413,-
+803,56532766,ftsA,MF1_RS01910,MF1_04020,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20210413,-
+803,56532767,ftsZ,MF1_RS01915,MF1_04030,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210413,-
+803,56532768,MF1_RS01920,MF1_RS01920,MF1_04040,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20210413,-
+803,56532769,MF1_RS01925,MF1_RS01925,MF1_04050,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20210413,-
+803,56532770,recN,MF1_RS01930,MF1_04060,-,-,-,DNA repair protein RecN,protein-coding,-,-,-,DNA repair protein RecN,20210413,-
+803,56532771,ligA,MF1_RS01935,MF1_04070,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210413,-
+803,56532772,MF1_RS01940,MF1_RS01940,MF1_04090,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210413,-
+803,56532773,MF1_RS01945,MF1_RS01945,MF1_04100,-,-,-,50S ribosomal protein L11 methyltransferase,protein-coding,-,-,-,50S ribosomal protein L11 methyltransferase,20210413,-
+803,56532774,MF1_RS01950,MF1_RS01950,MF1_04110,-,-,-,SCO family protein,protein-coding,-,-,-,SCO family protein,20210413,-
+803,56532775,MF1_RS01955,MF1_RS01955,MF1_04120,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210413,-
+803,56532776,MF1_RS01960,MF1_RS01960,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532777,MF1_RS01965,MF1_RS01965,MF1_04140,-,-,-,DUF4169 family protein,protein-coding,-,-,-,DUF4169 family protein,20210413,-
+803,56532778,MF1_RS01970,MF1_RS01970,MF1_04150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532779,ssrA,MF1_RS01975,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20210413,-
+803,56532780,MF1_RS01980,MF1_RS01980,MF1_04160,-,-,-,DUF2853 family protein,protein-coding,-,-,-,DUF2853 family protein,20210413,-
+803,56532781,MF1_RS01985,MF1_RS01985,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532782,MF1_RS01990,MF1_RS01990,MF1_04180,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210413,-
+803,56532783,MF1_RS01995,MF1_RS01995,MF1_04190,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20210413,-
+803,56532784,MF1_RS02000,MF1_RS02000,MF1_04200,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20210413,-
+803,56532785,hflK,MF1_RS02005,MF1_04210,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20210413,-
+803,56532786,MF1_RS02010,MF1_RS02010,MF1_04220,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20210413,-
+803,56532787,MF1_RS02015,MF1_RS02015,MF1_04230,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20210413,-
+803,56532788,miaA,MF1_RS02020,MF1_04240,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210413,-
+803,56532789,ilvB,MF1_RS02025,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532790,MF1_RS02030,MF1_RS02030,MF1_04270,-,-,-,ATP-dependent RecD-like DNA helicase,protein-coding,-,-,-,ATP-dependent RecD-like DNA helicase,20210413,-
+803,56532791,MF1_RS02035,MF1_RS02035,MF1_04280,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,pyridoxine 5'-phosphate synthase,20210413,-
+803,56532792,ilvC,MF1_RS02040,MF1_04290,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,ketol-acid reductoisomerase,20210413,-
+803,56532793,MF1_RS02045,MF1_RS02045,MF1_04300,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210413,-
+803,56532794,MF1_RS02050,MF1_RS02050,MF1_04310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532795,MF1_RS02055,MF1_RS02055,MF1_t00090,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532796,MF1_RS02060,MF1_RS02060,MF1_04320,-,-,-,TerC family protein,protein-coding,-,-,-,TerC family protein,20210413,-
+803,56532797,MF1_RS02065,MF1_RS02065,MF1_04330,-,-,-,UPF0104 family protein,protein-coding,-,-,-,UPF0104 family protein,20210413,-
+803,56532798,MF1_RS02070,MF1_RS02070,MF1_04340,-,-,-,Kef family K(+) transporter,protein-coding,-,-,-,Kef family K(+) transporter,20210413,-
+803,56532799,secD,MF1_RS02075,MF1_04350,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210413,-
+803,56532800,MF1_RS02080,MF1_RS02080,MF1_04360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532801,MF1_RS02085,MF1_RS02085,MF1_04370,-,-,-,mechanosensitive ion channel,protein-coding,-,-,-,mechanosensitive ion channel,20210413,-
+803,56532802,MF1_RS02090,MF1_RS02090,MF1_04380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532803,MF1_RS02095,MF1_RS02095,MF1_04390,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20210413,-
+803,56532804,MF1_RS02100,MF1_RS02100,MF1_t00100,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532805,MF1_RS02110,MF1_RS02110,MF1_t00110,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532806,MF1_RS02115,MF1_RS02115,MF1_t00120,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532807,MF1_RS02120,MF1_RS02120,MF1_04400,-,-,-,protein-L-isoaspartate O-methyltransferase,protein-coding,-,-,-,protein-L-isoaspartate O-methyltransferase,20210413,-
+803,56532808,MF1_RS02125,MF1_RS02125,MF1_04410,-,-,-,TolC family outer membrane protein,protein-coding,-,-,-,TolC family outer membrane protein,20210413,-
+803,56532809,MF1_RS02130,MF1_RS02130,MF1_04420,-,-,-,DUF2497 domain-containing protein,protein-coding,-,-,-,DUF2497 domain-containing protein,20210413,-
+803,56532810,MF1_RS02135,MF1_RS02135,MF1_04430,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210413,-
+803,56532811,MF1_RS02140,MF1_RS02140,MF1_04440,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20210413,-
+803,56532812,MF1_RS02145,MF1_RS02145,MF1_04450,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210413,-
+803,56532813,MF1_RS02150,MF1_RS02150,MF1_04460,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20210413,-
+803,56532814,MF1_RS02155,MF1_RS02155,MF1_04470,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210413,-
+803,56532815,xth,MF1_RS02160,MF1_04480,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210413,-
+803,56532816,rpsL,MF1_RS02165,MF1_04490,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210413,-
+803,56532817,rpsG,MF1_RS02170,MF1_04500,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210413,-
+803,56532818,fusA,MF1_RS02175,MF1_04510,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210413,-
+803,56532819,tuf,MF1_RS02180,MF1_04520,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210413,-
+803,56532820,rpsJ,MF1_RS02185,MF1_04530,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210413,-
+803,56532821,rplC,MF1_RS02190,MF1_04540,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210413,-
+803,56532822,rplD,MF1_RS02195,MF1_04550,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210413,-
+803,56532823,MF1_RS02200,MF1_RS02200,MF1_04560,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210413,-
+803,56532824,rplB,MF1_RS02205,MF1_04570,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210413,-
+803,56532825,rpsS,MF1_RS02210,MF1_04580,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210413,-
+803,56532826,rplV,MF1_RS02215,MF1_04590,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210413,-
+803,56532827,rpsC,MF1_RS02220,MF1_04600,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210413,-
+803,56532828,rplP,MF1_RS02225,MF1_04610,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210413,-
+803,56532829,rpmC,MF1_RS02230,MF1_04620,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210413,-
+803,56532830,rpsQ,MF1_RS02235,MF1_04630,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210413,-
+803,56532831,rplN,MF1_RS02240,MF1_04640,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210413,-
+803,56532832,rplX,MF1_RS02245,MF1_04650,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210413,-
+803,56532833,rplE,MF1_RS02250,MF1_04660,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210413,-
+803,56532834,rpsN,MF1_RS02255,MF1_04670,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20210413,-
+803,56532835,rpsH,MF1_RS02260,MF1_04680,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210413,-
+803,56532836,rplF,MF1_RS02265,MF1_04690,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210413,-
+803,56532837,rplR,MF1_RS02270,MF1_04700,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210413,-
+803,56532838,rpsE,MF1_RS02275,MF1_04710,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210413,-
+803,56532839,rpmD,MF1_RS02280,MF1_04720,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20210413,-
+803,56532840,rplO,MF1_RS02285,MF1_04730,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210413,-
+803,56532841,secY,MF1_RS02290,MF1_04740,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210413,-
+803,56532842,MF1_RS02295,MF1_RS02295,MF1_04750,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20210413,-
+803,56532843,rpsM,MF1_RS02300,MF1_04760,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210413,-
+803,56532844,rpsK,MF1_RS02305,MF1_04770,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210413,-
+803,56532845,MF1_RS02310,MF1_RS02310,MF1_04780,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210413,-
+803,56532846,rplQ,MF1_RS02315,MF1_04790,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210413,-
+803,56532847,MF1_RS02320,MF1_RS02320,MF1_04800,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20210413,-
+803,56532848,MF1_RS02325,MF1_RS02325,MF1_04810,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20210413,-
+803,56532849,recA,MF1_RS02330,MF1_04820,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210413,-
+803,56532850,alaS,MF1_RS02335,MF1_04830,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210413,-
+803,56532851,MF1_RS02340,MF1_RS02340,MF1_04840,-,-,-,glucan ABC transporter ATP-binding protein/ permease,protein-coding,-,-,-,glucan ABC transporter ATP-binding protein/ permease,20210413,-
+803,56532852,MF1_RS02345,MF1_RS02345,MF1_04850,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210413,-
+803,56532853,MF1_RS02350,MF1_RS02350,MF1_04860,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20210413,-
+803,56532854,MF1_RS02355,MF1_RS02355,MF1_04870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532855,glnA,MF1_RS02360,MF1_04880,-,-,-,type I glutamate--ammonia ligase,protein-coding,-,-,-,type I glutamate--ammonia ligase,20210413,-
+803,56532856,MF1_RS02365,MF1_RS02365,MF1_04890,-,-,-,P-II family nitrogen regulator,protein-coding,-,-,-,P-II family nitrogen regulator,20210413,-
+803,56532857,uvrA,MF1_RS02370,MF1_04900,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210413,-
+803,56532858,ssb,MF1_RS02375,MF1_04910,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210413,-
+803,56532859,gyrA,MF1_RS02380,MF1_04920,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20210413,-
+803,56532860,coaD,MF1_RS02385,MF1_04930,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210413,-
+803,56532861,MF1_RS02390,MF1_RS02390,MF1_04940,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210413,-
+803,56532862,MF1_RS02395,MF1_RS02395,MF1_04950,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210413,-
+803,56532863,MF1_RS02400,MF1_RS02400,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532864,MF1_RS02405,MF1_RS02405,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532865,MF1_RS02410,MF1_RS02410,MF1_05000,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210413,-
+803,56532866,MF1_RS02415,MF1_RS02415,MF1_05010,-,-,-,NADP-dependent isocitrate dehydrogenase,protein-coding,-,-,-,NADP-dependent isocitrate dehydrogenase,20210413,-
+803,56532867,MF1_RS02420,MF1_RS02420,MF1_t00130,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532868,MF1_RS02425,MF1_RS02425,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532869,glpX,MF1_RS02430,MF1_05060,-,-,-,class II fructose-bisphosphatase,protein-coding,-,-,-,class II fructose-bisphosphatase,20210413,-
+803,56532870,MF1_RS02435,MF1_RS02435,MF1_05070,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,branched-chain amino acid aminotransferase,20210413,-
+803,56532871,MF1_RS02440,MF1_RS02440,MF1_05080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532872,MF1_RS02445,MF1_RS02445,MF1_05090,-,-,-,SPOR domain-containing protein,protein-coding,-,-,-,SPOR domain-containing protein,20210413,-
+803,56532873,MF1_RS02450,MF1_RS02450,MF1_05100,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210413,-
+803,56532874,MF1_RS02455,MF1_RS02455,MF1_05110,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,protein-coding,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,20210413,-
+803,56532875,MF1_RS02460,MF1_RS02460,MF1_05120,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20210413,-
+803,56532876,MF1_RS02465,MF1_RS02465,MF1_05130,-,-,-,carboxypeptidase regulatory-like domain-containing protein,protein-coding,-,-,-,carboxypeptidase regulatory-like domain-containing protein,20210413,-
+803,56532877,MF1_RS02470,MF1_RS02470,MF1_05140,-,-,-,cytochrome c biogenesis protein CcdA,protein-coding,-,-,-,cytochrome c biogenesis protein CcdA,20210413,-
+803,56532878,glmU,MF1_RS02475,MF1_05150,-,-,-,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,protein-coding,-,-,-,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,20210413,-
+803,56532879,glmS,MF1_RS02480,MF1_05160,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20210413,-
+803,56532880,recG,MF1_RS02485,MF1_05170,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210413,-
+803,56532881,dnaE,MF1_RS02490,MF1_05180,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210413,-
+803,56532882,MF1_RS02495,MF1_RS02495,MF1_05190,-,-,-,FAD-binding protein,protein-coding,-,-,-,FAD-binding protein,20210413,-
+803,56532883,MF1_RS02500,MF1_RS02500,MF1_05200,-,-,-,zinc-finger domain-containing protein,protein-coding,-,-,-,zinc-finger domain-containing protein,20210413,-
+803,56532884,MF1_RS02505,MF1_RS02505,MF1_05210,-,-,-,RNA degradosome polyphosphate kinase,protein-coding,-,-,-,RNA degradosome polyphosphate kinase,20210413,-
+803,56532885,ppx,MF1_RS02510,MF1_05220,-,-,-,exopolyphosphatase,protein-coding,-,-,-,exopolyphosphatase,20210413,-
+803,56532886,rnd,MF1_RS02515,MF1_05230,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20210413,-
+803,56532887,aspS,MF1_RS02520,MF1_05240,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210413,-
+803,56532888,parC,MF1_RS02525,MF1_05250,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210413,-
+803,56532889,MF1_RS02530,MF1_RS02530,MF1_05260,-,-,-,Bcr/CflA family efflux MFS transporter,protein-coding,-,-,-,Bcr/CflA family efflux MFS transporter,20210413,-
+803,56532890,grxD,MF1_RS02535,MF1_05280,-,-,-,Grx4 family monothiol glutaredoxin,protein-coding,-,-,-,Grx4 family monothiol glutaredoxin,20210413,-
+803,56532891,MF1_RS02540,MF1_RS02540,MF1_05290,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20210413,-
+803,56532892,purL,MF1_RS02545,MF1_05300,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurL,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurL,20210413,-
+803,56532893,purQ,MF1_RS02550,MF1_05310,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,20210413,-
+803,56532894,purS,MF1_RS02555,MF1_05320,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurS,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurS,20210413,-
+803,56532895,MF1_RS02560,MF1_RS02560,MF1_05330,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20210413,-
+803,56532896,MF1_RS02565,MF1_RS02565,MF1_05340,-,-,-,serine hydrolase family protein,protein-coding,-,-,-,serine hydrolase family protein,20210413,-
+803,56532897,MF1_RS02570,MF1_RS02570,MF1_05350,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20210413,-
+803,56532898,MF1_RS02575,MF1_RS02575,MF1_05360,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210413,-
+803,56532899,MF1_RS02580,MF1_RS02580,MF1_05370,-,-,-,flavin reductase,protein-coding,-,-,-,flavin reductase,20210413,-
+803,56532900,dksA,MF1_RS02585,MF1_05380,-,-,-,RNA polymerase-binding protein DksA,protein-coding,-,-,-,RNA polymerase-binding protein DksA,20210413,-
+803,56532901,MF1_RS02590,MF1_RS02590,MF1_05390,-,-,-,flagellar biosynthetic protein FliO,protein-coding,-,-,-,flagellar biosynthetic protein FliO,20210413,-
+803,56532902,MF1_RS02595,MF1_RS02595,MF1_05400,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210413,-
+803,56532903,MF1_RS02600,MF1_RS02600,MF1_05410,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20210413,-
+803,56532904,MF1_RS02605,MF1_RS02605,MF1_05420,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20210413,-
+803,56532905,MF1_RS02610,MF1_RS02610,MF1_05430,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210413,-
+803,56532906,MF1_RS02615,MF1_RS02615,MF1_05440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532907,MF1_RS02620,MF1_RS02620,MF1_t00140,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532908,MF1_RS02625,MF1_RS02625,MF1_05450,-,-,-,ETC complex I subunit,protein-coding,-,-,-,ETC complex I subunit,20210413,-
+803,56532909,MF1_RS02630,MF1_RS02630,MF1_t00150,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532911,MF1_RS02640,MF1_RS02640,MF1_05460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532912,MF1_RS02645,MF1_RS02645,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532913,MF1_RS02650,MF1_RS02650,MF1_05470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532914,MF1_RS02655,MF1_RS02655,MF1_05480,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210413,-
+803,56532915,gatB,MF1_RS02660,MF1_05490,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210413,-
+803,56532916,MF1_RS02665,MF1_RS02665,MF1_05510,-,-,-,NADH:ubiquinone oxidoreductase subunit NDUFA12,protein-coding,-,-,-,NADH:ubiquinone oxidoreductase subunit NDUFA12,20210413,-
+803,56532917,MF1_RS02670,MF1_RS02670,MF1_05520,-,-,-,DUF2155 domain-containing protein,protein-coding,-,-,-,DUF2155 domain-containing protein,20210522,-
+803,56532918,MF1_RS02675,MF1_RS02675,MF1_05530,-,-,-,rhomboid family intramembrane serine protease,protein-coding,-,-,-,rhomboid family intramembrane serine protease,20210413,-
+803,56532919,MF1_RS02680,MF1_RS02680,MF1_05540,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210413,-
+803,56532920,MF1_RS02685,MF1_RS02685,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532921,MF1_RS02690,MF1_RS02690,MF1_t00160,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532922,MF1_RS02695,MF1_RS02695,MF1_t00170,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532923,tuf,MF1_RS02700,MF1_05550,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210413,-
+803,56532924,MF1_RS02705,MF1_RS02705,MF1_t00180,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532925,secE,MF1_RS02710,MF1_05560,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210413,-
+803,56532926,nusG,MF1_RS02715,MF1_05570,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20210413,-
+803,56532927,rplK,MF1_RS02720,MF1_05580,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210413,-
+803,56532928,rplA,MF1_RS02725,MF1_05590,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210413,-
+803,56532929,rplJ,MF1_RS02730,MF1_05600,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210413,-
+803,56532930,rplL,MF1_RS02735,MF1_05610,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210413,-
+803,56532931,rpoB,MF1_RS02740,MF1_05620,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210413,-
+803,56532932,rpoC,MF1_RS02745,MF1_05630,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210413,-
+803,56532933,MF1_RS02755,MF1_RS02755,MF1_05640,-,-,-,nitroreductase,protein-coding,-,-,-,nitroreductase,20210413,-
+803,56532934,MF1_RS02760,MF1_RS02760,MF1_05650,-,-,-,L-serine ammonia-lyase,protein-coding,-,-,-,L-serine ammonia-lyase,20210413,-
+803,56532935,MF1_RS02765,MF1_RS02765,MF1_05660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532936,MF1_RS02770,MF1_RS02770,MF1_05670,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210413,-
+803,56532937,clpS,MF1_RS02775,MF1_05680,-,-,-,ATP-dependent Clp protease adapter ClpS,protein-coding,-,-,-,ATP-dependent Clp protease adapter ClpS,20210413,-
+803,56532938,clpA,MF1_RS02780,MF1_05690,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpA,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpA,20210413,-
+803,56532939,MF1_RS02785,MF1_RS02785,MF1_05700,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20210413,-
+803,56532940,MF1_RS02790,MF1_RS02790,MF1_05710,-,-,-,RidA family protein,protein-coding,-,-,-,RidA family protein,20210413,-
+803,56532941,MF1_RS02795,MF1_RS02795,MF1_05720,-,-,-,cell envelope integrity EipB family protein,protein-coding,-,-,-,cell envelope integrity EipB family protein,20210413,-
+803,56532942,rpsB,MF1_RS02800,MF1_05730,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210413,-
+803,56532943,MF1_RS02805,MF1_RS02805,MF1_05740,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210413,-
+803,56532944,MF1_RS02810,MF1_RS02810,MF1_05750,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210413,-
+803,56532945,frr,MF1_RS02815,MF1_05760,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210413,-
+803,56532946,MF1_RS02820,MF1_RS02820,MF1_05770,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210413,-
+803,56532947,rseP,MF1_RS02825,MF1_05780,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20210413,-
+803,56532948,bamA,MF1_RS02830,MF1_05790,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20210413,-
+803,56532949,lpxD,MF1_RS02835,MF1_05800,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20210413,-
+803,56532950,fabZ,MF1_RS02840,MF1_05810,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210413,-
+803,56532951,lpxA,MF1_RS02845,MF1_05820,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20210413,-
+803,56532952,lpxI,MF1_RS02850,MF1_05830,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxI",protein-coding,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxI",20210413,-
+803,56532953,lpxB,MF1_RS02855,MF1_05840,-,-,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20210413,-
+803,56532954,MF1_RS02860,MF1_RS02860,MF1_05850,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20210413,-
+803,56532955,MF1_RS02865,MF1_RS02865,MF1_05860,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210413,-
+803,56532956,MF1_RS02870,MF1_RS02870,MF1_05870,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210413,-
+803,56532957,MF1_RS02875,MF1_RS02875,MF1_05880,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210413,-
+803,56532958,gltA,MF1_RS02880,MF1_05890,-,-,-,citrate (Si)-synthase,protein-coding,-,-,-,citrate (Si)-synthase,20210413,-
+803,56532959,MF1_RS02885,MF1_RS02885,MF1_05900,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210413,-
+803,56532960,MF1_RS02890,MF1_RS02890,MF1_05910,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210413,-
+803,56532961,rpiA,MF1_RS02895,MF1_05920,-,-,-,ribose-5-phosphate isomerase RpiA,protein-coding,-,-,-,ribose-5-phosphate isomerase RpiA,20210413,-
+803,56532962,MF1_RS02900,MF1_RS02900,MF1_05930,-,-,-,DUF2059 domain-containing protein,protein-coding,-,-,-,DUF2059 domain-containing protein,20210413,-
+803,56532963,gor,MF1_RS02905,MF1_05940,-,-,-,glutathione-disulfide reductase,protein-coding,-,-,-,glutathione-disulfide reductase,20210413,-
+803,56532964,MF1_RS02910,MF1_RS02910,MF1_05950,-,-,-,3-deoxy-7-phosphoheptulonate synthase class II,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase class II,20210413,-
+803,56532965,MF1_RS02915,MF1_RS02915,MF1_05960,-,-,-,NAD+ synthase,protein-coding,-,-,-,NAD+ synthase,20210413,-
+803,56532966,MF1_RS02920,MF1_RS02920,MF1_05970,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210413,-
+803,56532967,MF1_RS02925,MF1_RS02925,MF1_05980,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20210413,-
+803,56532968,MF1_RS02930,MF1_RS02930,MF1_05990,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20210413,-
+803,56532969,MF1_RS02935,MF1_RS02935,MF1_t00190,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532970,hutH,MF1_RS02940,MF1_06000,-,-,-,histidine ammonia-lyase,protein-coding,-,-,-,histidine ammonia-lyase,20210413,-
+803,56532971,MF1_RS02945,MF1_RS02945,MF1_06010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532972,MF1_RS02950,MF1_RS02950,MF1_06020,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210413,-
+803,56532973,MF1_RS02955,MF1_RS02955,MF1_06040,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56532974,MF1_RS02960,MF1_RS02960,MF1_06050,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210413,-
+803,56532975,rpsI,MF1_RS02965,MF1_06060,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210413,-
+803,56532976,rplM,MF1_RS02970,MF1_06070,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210413,-
+803,56532977,recJ,MF1_RS02975,MF1_06080,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210413,-
+803,56532978,parE,MF1_RS02980,MF1_06090,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20210413,-
+803,56532979,lipB,MF1_RS02985,MF1_06100,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20210413,-
+803,56532980,MF1_RS02990,MF1_RS02990,MF1_06110,-,-,-,TPM domain-containing protein,protein-coding,-,-,-,TPM domain-containing protein,20210413,-
+803,56532981,MF1_RS02995,MF1_RS02995,MF1_06120,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20210413,-
+803,56532982,MF1_RS03000,MF1_RS03000,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532983,MF1_RS03010,MF1_RS03010,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532984,MF1_RS03015,MF1_RS03015,MF1_06130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56532985,MF1_RS03025,MF1_RS03025,MF1_t00200,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56532986,accC,MF1_RS03030,MF1_06140,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20210413,-
+803,56532987,MF1_RS03035,MF1_RS03035,MF1_06150,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20210413,-
+803,56532988,MF1_RS03040,MF1_RS03040,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532989,glpD,MF1_RS03045,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532990,dusA,MF1_RS03050,MF1_06230,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,protein-coding,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,20210413,-
+803,56532991,MF1_RS03055,MF1_RS03055,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532992,MF1_RS03060,MF1_RS03060,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56532993,MF1_RS03065,MF1_RS03065,MF1_06250,-,-,-,Lrp/AsnC ligand binding domain-containing protein,protein-coding,-,-,-,Lrp/AsnC ligand binding domain-containing protein,20210605,-
+803,56532994,MF1_RS03070,MF1_RS03070,MF1_06260,-,-,-,uracil-DNA glycosylase family protein,protein-coding,-,-,-,uracil-DNA glycosylase family protein,20210413,-
+803,56532995,MF1_RS03075,MF1_RS03075,MF1_06270,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210522,-
+803,56532996,rpmG,MF1_RS03080,MF1_06280,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210413,-
+803,56532997,rnr,MF1_RS03085,MF1_06290,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20210413,-
+803,56532998,topA,MF1_RS03090,MF1_06300,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210413,-
+803,56532999,dprA,MF1_RS03100,MF1_06320,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210413,-
+803,56533000,plsY,MF1_RS03105,MF1_06330,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20210413,-
+803,56533001,MF1_RS03110,MF1_RS03110,MF1_06340,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20210413,-
+803,56533002,MF1_RS03115,MF1_RS03115,MF1_06350,-,-,-,aspartate carbamoyltransferase catalytic subunit,protein-coding,-,-,-,aspartate carbamoyltransferase catalytic subunit,20210413,-
+803,56533003,MF1_RS03120,MF1_RS03120,MF1_06360,-,-,-,acyl-CoA dehydrogenase,protein-coding,-,-,-,acyl-CoA dehydrogenase,20210413,-
+803,56533004,ruvX,MF1_RS03125,MF1_06370,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210413,-
+803,56533005,gatC,MF1_RS03130,MF1_06380,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210413,-
+803,56533006,gatA,MF1_RS03135,MF1_06390,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210413,-
+803,56533007,MF1_RS03140,MF1_RS03140,MF1_06400,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56533008,MF1_RS03145,MF1_RS03145,MF1_06410,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56533009,MF1_RS03150,MF1_RS03150,MF1_06420,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,branched-chain amino acid ABC transporter permease,20210413,-
+803,56533010,MF1_RS03155,MF1_RS03155,MF1_06430,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,branched-chain amino acid ABC transporter permease,20210413,-
+803,56533011,MF1_RS03160,MF1_RS03160,MF1_06440,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210413,-
+803,56533012,MF1_RS03165,MF1_RS03165,MF1_06450,-,-,-,cold shock domain-containing protein,protein-coding,-,-,-,cold shock domain-containing protein,20210413,-
+803,56533013,MF1_RS03170,MF1_RS03170,MF1_06460,-,-,-,DUF192 domain-containing protein,protein-coding,-,-,-,DUF192 domain-containing protein,20210413,-
+803,56533014,MF1_RS03175,MF1_RS03175,MF1_06470,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210413,-
+803,56533015,MF1_RS03180,MF1_RS03180,MF1_06480,-,-,-,DUF3126 family protein,protein-coding,-,-,-,DUF3126 family protein,20210413,-
+803,56533016,radC,MF1_RS03185,MF1_06490,-,-,-,DNA repair protein RadC,protein-coding,-,-,-,DNA repair protein RadC,20210413,-
+803,56533017,map,MF1_RS03190,MF1_06500,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210413,-
+803,56533018,sfsA,MF1_RS03195,MF1_06510,-,-,-,DNA/RNA nuclease SfsA,protein-coding,-,-,-,DNA/RNA nuclease SfsA,20210413,-
+803,56533019,MF1_RS03200,MF1_RS03200,MF1_06520,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210413,-
+803,56533020,MF1_RS03205,MF1_RS03205,MF1_06530,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20210413,-
+803,56533021,rpsD,MF1_RS03210,MF1_06540,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210413,-
+803,56533022,ttcA,MF1_RS03215,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533023,MF1_RS03220,MF1_RS03220,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533024,lexA,MF1_RS03225,MF1_06560,-,-,-,transcriptional repressor LexA,protein-coding,-,-,-,transcriptional repressor LexA,20210413,-
+803,56533025,MF1_RS03230,MF1_RS03230,MF1_t00210,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533026,MF1_RS03235,MF1_RS03235,MF1_06570,-,-,-,septal ring lytic transglycosylase RlpA family protein,protein-coding,-,-,-,septal ring lytic transglycosylase RlpA family protein,20210413,-
+803,56533027,MF1_RS03240,MF1_RS03240,MF1_06580,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210413,-
+803,56533028,MF1_RS03245,MF1_RS03245,MF1_06590,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210413,-
+803,56533029,MF1_RS03250,MF1_RS03250,MF1_06600,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20210413,-
+803,56533030,MF1_RS03255,MF1_RS03255,MF1_06610,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210413,-
+803,56533031,MF1_RS03260,MF1_RS03260,MF1_06620,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210413,-
+803,56533032,MF1_RS03265,MF1_RS03265,MF1_06630,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210413,-
+803,56533033,MF1_RS03270,MF1_RS03270,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533034,MF1_RS03275,MF1_RS03275,MF1_06640,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20210413,-
+803,56533035,MF1_RS03280,MF1_RS03280,MF1_06650,-,-,-,UbiH/UbiF family hydroxylase,protein-coding,-,-,-,UbiH/UbiF family hydroxylase,20210413,-
+803,56533036,MF1_RS03290,MF1_RS03290,MF1_06660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533037,MF1_RS03295,MF1_RS03295,MF1_06670,-,-,-,SUF system Fe-S cluster assembly protein,protein-coding,-,-,-,SUF system Fe-S cluster assembly protein,20210413,-
+803,56533038,MF1_RS03300,MF1_RS03300,MF1_06680,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210413,-
+803,56533039,sufD,MF1_RS03305,MF1_06690,-,-,-,Fe-S cluster assembly protein SufD,protein-coding,-,-,-,Fe-S cluster assembly protein SufD,20210413,-
+803,56533040,sufC,MF1_RS03310,MF1_06700,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20210413,-
+803,56533041,sufB,MF1_RS03315,MF1_06710,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20210413,-
+803,56533042,MF1_RS03320,MF1_RS03320,MF1_06720,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210413,-
+803,56533043,MF1_RS03325,MF1_RS03325,MF1_06730,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210413,-
+803,56533044,MF1_RS03330,MF1_RS03330,MF1_06740,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210413,-
+803,56533045,MF1_RS03335,MF1_RS03335,MF1_06750,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210413,-
+803,56533046,prfB,MF1_RS03340,MF1_06760,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210522,-
+803,56533047,MF1_RS03345,MF1_RS03345,MF1_06770,-,-,-,PBP1A family penicillin-binding protein,protein-coding,-,-,-,PBP1A family penicillin-binding protein,20210413,-
+803,56533048,MF1_RS03350,MF1_RS03350,MF1_06780,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210413,-
+803,56533049,MF1_RS03355,MF1_RS03355,MF1_06790,-,-,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20210413,-
+803,56533050,MF1_RS03360,MF1_RS03360,MF1_06800,-,-,-,invasion associated locus B family protein,protein-coding,-,-,-,invasion associated locus B family protein,20210413,-
+803,56533051,MF1_RS03365,MF1_RS03365,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533052,mfd,MF1_RS03370,MF1_06850,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210413,-
+803,56533053,MF1_RS03375,MF1_RS03375,MF1_06860,-,-,-,succinate dehydrogenase assembly factor 2,protein-coding,-,-,-,succinate dehydrogenase assembly factor 2,20210413,-
+803,56533054,MF1_RS03380,MF1_RS03380,MF1_06870,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56533055,MF1_RS03385,MF1_RS03385,MF1_06880,-,-,-,lipoprotein-releasing ABC transporter permease subunit,protein-coding,-,-,-,lipoprotein-releasing ABC transporter permease subunit,20210413,-
+803,56533056,MF1_RS03390,MF1_RS03390,MF1_06890,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210413,-
+803,56533057,MF1_RS03395,MF1_RS03395,MF1_06900,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20210413,-
+803,56533058,MF1_RS03400,MF1_RS03400,MF1_06910,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20210413,-
+803,56533059,nuoN,MF1_RS03405,MF1_06920,-,-,-,NADH-quinone oxidoreductase subunit NuoN,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoN,20210413,-
+803,56533060,MF1_RS03410,MF1_RS03410,MF1_06930,-,-,-,NADH-quinone oxidoreductase subunit M,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit M,20210413,-
+803,56533061,nuoL,MF1_RS03415,MF1_06940,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit L,20210413,-
+803,56533062,nuoK,MF1_RS03420,MF1_06950,-,-,-,NADH-quinone oxidoreductase subunit NuoK,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoK,20210413,-
+803,56533063,MF1_RS03425,MF1_RS03425,MF1_06960,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit J,20210413,-
+803,56533064,nuoI,MF1_RS03430,MF1_06970,-,-,-,NADH-quinone oxidoreductase subunit NuoI,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoI,20210413,-
+803,56533065,nuoH,MF1_RS03435,MF1_06980,-,-,-,NADH-quinone oxidoreductase subunit NuoH,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoH,20210413,-
+803,56533066,MF1_RS03440,MF1_RS03440,MF1_06990,-,-,-,NADH-quinone oxidoreductase subunit G,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit G,20210413,-
+803,56533067,nuoF,MF1_RS03445,MF1_07000,-,-,-,NADH-quinone oxidoreductase subunit NuoF,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoF,20210413,-
+803,56533068,nuoE,MF1_RS03450,MF1_07010,-,-,-,NADH-quinone oxidoreductase subunit NuoE,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoE,20210413,-
+803,56533069,MF1_RS03455,MF1_RS03455,MF1_07020,-,-,-,NADH-quinone oxidoreductase subunit D,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit D,20210413,-
+803,56533070,MF1_RS03460,MF1_RS03460,MF1_07030,-,-,-,NADH-quinone oxidoreductase subunit C,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit C,20210413,-
+803,56533071,MF1_RS03465,MF1_RS03465,MF1_07040,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit B,20210413,-
+803,56533072,MF1_RS03470,MF1_RS03470,MF1_07050,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit A,20210413,-
+803,56533073,MF1_RS03475,MF1_RS03475,MF1_t00220,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533074,MF1_RS03480,MF1_RS03480,MF1_t00230,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533075,MF1_RS03485,MF1_RS03485,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533076,MF1_RS03490,MF1_RS03490,MF1_07070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533077,MF1_RS03495,MF1_RS03495,MF1_07080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533078,MF1_RS03500,MF1_RS03500,MF1_07090,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210413,-
+803,56533079,MF1_RS03505,MF1_RS03505,MF1_t00240,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533080,folE,MF1_RS03510,MF1_07100,-,-,-,GTP cyclohydrolase I FolE,protein-coding,-,-,-,GTP cyclohydrolase I FolE,20210413,-
+803,56533081,MF1_RS03515,MF1_RS03515,MF1_07110,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20210413,-
+803,56533082,yidD,MF1_RS03520,MF1_07120,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210413,-
+803,56533083,thrS,MF1_RS03525,MF1_07130,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210413,-
+803,56533084,MF1_RS03530,MF1_RS03530,MF1_07140,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20210413,-
+803,56533085,MF1_RS03535,MF1_RS03535,MF1_07150,-,-,-,integration host factor subunit alpha,protein-coding,-,-,-,integration host factor subunit alpha,20210413,-
+803,56533086,MF1_RS03540,MF1_RS03540,MF1_07160,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20210413,-
+803,56533087,plsX,MF1_RS03545,MF1_07170,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210413,-
+803,56533088,MF1_RS03550,MF1_RS03550,MF1_07180,-,-,-,DUF177 domain-containing protein,protein-coding,-,-,-,DUF177 domain-containing protein,20210413,-
+803,56533089,MF1_RS03555,MF1_RS03555,MF1_07190,-,-,-,outer membrane protein assembly factor BamE,protein-coding,-,-,-,outer membrane protein assembly factor BamE,20210413,-
+803,56533090,nusB,MF1_RS03560,MF1_07200,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210413,-
+803,56533091,MF1_RS03565,MF1_RS03565,MF1_07210,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20210413,-
+803,56533092,MF1_RS03570,MF1_RS03570,MF1_07220,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20210413,-
+803,56533093,ribD,MF1_RS03575,MF1_07230,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20210413,-
+803,56533094,nrdR,MF1_RS03580,MF1_07240,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20210413,-
+803,56533095,MF1_RS03585,MF1_RS03585,MF1_07250,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210413,-
+803,56533096,argC,MF1_RS03590,MF1_07260,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,protein-coding,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,20210413,-
+803,56533097,MF1_RS03595,MF1_RS03595,MF1_07270,-,-,-,COX15/CtaA family protein,protein-coding,-,-,-,COX15/CtaA family protein,20210522,-
+803,56533098,MF1_RS03600,MF1_RS03600,MF1_07280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+803,56533099,hflX,MF1_RS03605,MF1_07290,-,-,-,GTPase HflX,protein-coding,-,-,-,GTPase HflX,20210413,-
+803,56533100,hfq,MF1_RS03610,MF1_07300,-,-,-,RNA chaperone Hfq,protein-coding,-,-,-,RNA chaperone Hfq,20210413,-
+803,56533101,MF1_RS03615,MF1_RS03615,MF1_07310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533102,MF1_RS03620,MF1_RS03620,MF1_07320,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20210413,-
+803,56533103,MF1_RS03625,MF1_RS03625,MF1_07330,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210413,-
+803,56533104,MF1_RS03630,MF1_RS03630,MF1_07340,-,-,-,beta-ketoacyl-ACP synthase,protein-coding,-,-,-,beta-ketoacyl-ACP synthase,20210413,-
+803,56533105,MF1_RS03635,MF1_RS03635,MF1_07350,-,-,-,beta-ketoacyl-ACP synthase,protein-coding,-,-,-,beta-ketoacyl-ACP synthase,20210413,-
+803,56533106,MF1_RS03640,MF1_RS03640,MF1_07360,-,-,-,zinc-binding dehydrogenase,protein-coding,-,-,-,zinc-binding dehydrogenase,20210413,-
+803,56533107,MF1_RS03645,MF1_RS03645,MF1_07370,-,-,-,lipid A biosynthesis lauroyl acyltransferase,protein-coding,-,-,-,lipid A biosynthesis lauroyl acyltransferase,20210413,-
+803,56533108,mazG,MF1_RS03650,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533109,MF1_RS03655,MF1_RS03655,MF1_07400,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20210413,-
+803,56533110,MF1_RS03660,MF1_RS03660,MF1_t00250,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533111,MF1_RS03665,MF1_RS03665,MF1_07410,-,-,-,Hsp20 family protein,protein-coding,-,-,-,Hsp20 family protein,20210413,-
+803,56533112,MF1_RS03670,MF1_RS03670,MF1_07420,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210413,-
+803,56533113,MF1_RS03675,MF1_RS03675,MF1_07430,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210413,-
+803,56533114,MF1_RS03680,MF1_RS03680,MF1_t00260,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533115,MF1_RS03685,MF1_RS03685,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533117,MF1_RS03700,MF1_RS03700,MF1_07460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533118,MF1_RS03705,MF1_RS03705,MF1_t00270,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533119,MF1_RS03710,MF1_RS03710,MF1_07470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533120,MF1_RS03715,MF1_RS03715,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533121,MF1_RS03720,MF1_RS03720,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533122,MF1_RS03725,MF1_RS03725,MF1_07490,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210413,-
+803,56533123,MF1_RS03730,MF1_RS03730,MF1_t00280,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533124,trmFO,MF1_RS03735,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533125,MF1_RS03740,MF1_RS03740,MF1_07520,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210413,-
+803,56533126,lon,MF1_RS03745,MF1_07530,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210413,-
+803,56533127,clpX,MF1_RS03750,MF1_07540,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20210413,-
+803,56533128,clpP,MF1_RS03755,MF1_07550,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20210413,-
+803,56533129,MF1_RS03760,MF1_RS03760,MF1_07560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533130,trkA,MF1_RS03765,MF1_07570,-,-,-,Trk system potassium transporter TrkA,protein-coding,-,-,-,Trk system potassium transporter TrkA,20210413,-
+803,56533131,MF1_RS03770,MF1_RS03770,MF1_07580,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210413,-
+803,56533132,MF1_RS03775,MF1_RS03775,MF1_07590,-,-,-,PAS domain-containing sensor histidine kinase,protein-coding,-,-,-,PAS domain-containing sensor histidine kinase,20210413,-
+803,56533133,rirA,MF1_RS03780,MF1_07600,-,-,-,iron-responsive transcriptional regulator RirA,protein-coding,-,-,-,iron-responsive transcriptional regulator RirA,20210413,-
+803,56533134,MF1_RS03785,MF1_RS03785,MF1_07610,-,-,-,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20210522,-
+803,56533135,MF1_RS03790,MF1_RS03790,MF1_07620,-,-,-,CinA family protein,protein-coding,-,-,-,CinA family protein,20210413,-
+803,56533136,MF1_RS03795,MF1_RS03795,MF1_07630,-,-,-,type II toxin-antitoxin system RatA family toxin,protein-coding,-,-,-,type II toxin-antitoxin system RatA family toxin,20210413,-
+803,56533137,lipA,MF1_RS03800,MF1_07640,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20210413,-
+803,56533138,lpdA,MF1_RS03805,MF1_07650,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210413,-
+803,56533139,MF1_RS03810,MF1_RS03810,MF1_07660,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20210413,-
+803,56533140,MF1_RS03815,MF1_RS03815,MF1_07670,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20210413,-
+803,56533141,pdhA,MF1_RS03820,MF1_07680,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210413,-
+803,56533142,MF1_RS03825,MF1_RS03825,MF1_07690,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210413,-
+803,56533143,MF1_RS03830,MF1_RS03830,MF1_07700,-,-,-,NINE protein,protein-coding,-,-,-,NINE protein,20210413,-
+803,56533144,eno,MF1_RS03835,MF1_07710,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210413,-
+803,56533145,kdsA,MF1_RS03840,MF1_07720,-,-,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20210413,-
+803,56533146,MF1_RS03845,MF1_RS03845,MF1_07730,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20210413,-
+803,56533147,secG,MF1_RS03850,MF1_07740,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210413,-
+803,56533148,MF1_RS03855,MF1_RS03855,MF1_07750,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210413,-
+803,56533149,MF1_RS03860,MF1_RS03860,MF1_07760,-,-,-,peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,peptidyl-prolyl cis-trans isomerase,20210413,-
+803,56533150,MF1_RS03865,MF1_RS03865,MF1_07770,-,-,-,phytoene/squalene synthase family protein,protein-coding,-,-,-,phytoene/squalene synthase family protein,20210413,-
+803,56533151,MF1_RS03870,MF1_RS03870,MF1_07780,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210413,-
+803,56533152,yajC,MF1_RS03875,MF1_07790,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20210413,-
+803,56533153,MF1_RS03880,MF1_RS03880,MF1_07800,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20210413,-
+803,56533154,MF1_RS03885,MF1_RS03885,MF1_07810,-,-,-,protein-L-isoaspartate(D-aspartate) O-methyltransferase,protein-coding,-,-,-,protein-L-isoaspartate(D-aspartate) O-methyltransferase,20210413,-
+803,56533155,serS,MF1_RS03890,MF1_07820,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210413,-
+803,56533156,tatC,MF1_RS03895,MF1_07830,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20210413,-
+803,56533157,MF1_RS03900,MF1_RS03900,MF1_07840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533158,tatA,MF1_RS03905,MF1_07850,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20210413,-
+803,56533159,MF1_RS03910,MF1_RS03910,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533160,MF1_RS03915,MF1_RS03915,MF1_07880,-,-,-,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ,protein-coding,-,-,-,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ,20210413,-
+803,56533161,uvrC,MF1_RS03920,MF1_07890,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20210413,-
+803,56533162,pgsA,MF1_RS03925,MF1_07900,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210413,-
+803,56533163,ndk,MF1_RS03930,MF1_07910,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210413,-
+803,56533164,MF1_RS03935,MF1_RS03935,MF1_07920,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56533165,MF1_RS03940,MF1_RS03940,MF1_07930,-,-,-,MHS family MFS transporter,protein-coding,-,-,-,MHS family MFS transporter,20210413,-
+803,56533166,MF1_RS03945,MF1_RS03945,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533167,MF1_RS03950,MF1_RS03950,MF1_07940,-,-,-,DNA polymerase III subunit chi,protein-coding,-,-,-,DNA polymerase III subunit chi,20210413,-
+803,56533168,lptF,MF1_RS03955,MF1_07950,-,-,-,LPS export ABC transporter permease LptF,protein-coding,-,-,-,LPS export ABC transporter permease LptF,20210413,-
+803,56533169,lptG,MF1_RS03960,MF1_07960,-,-,-,LPS export ABC transporter permease LptG,protein-coding,-,-,-,LPS export ABC transporter permease LptG,20210413,-
+803,56533170,MF1_RS03965,MF1_RS03965,MF1_07970,-,-,-,LPS-assembly protein LptD,protein-coding,-,-,-,LPS-assembly protein LptD,20210413,-
+803,56533171,MF1_RS03970,MF1_RS03970,MF1_07980,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210413,-
+803,56533172,pdxA,MF1_RS03975,MF1_07990,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,protein-coding,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,20210413,-
+803,56533173,rsmA,MF1_RS03980,MF1_08000,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210413,-
+803,56533174,gmk,MF1_RS03985,MF1_08010,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210413,-
+803,56533175,mltG,MF1_RS03990,MF1_08020,-,-,-,endolytic transglycosylase MltG,protein-coding,-,-,-,endolytic transglycosylase MltG,20210413,-
+803,56533176,fabF,MF1_RS03995,MF1_08030,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20210413,-
+803,56533177,MF1_RS04000,MF1_RS04000,MF1_08040,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210413,-
+803,56533178,fabG,MF1_RS04005,MF1_08050,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,20210413,-
+803,56533179,fabD,MF1_RS04010,MF1_08060,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20210413,-
+803,56533180,MF1_RS04015,MF1_RS04015,MF1_08070,-,-,-,undecaprenyl-diphosphatase,protein-coding,-,-,-,undecaprenyl-diphosphatase,20210413,-
+803,56533181,rpsF,MF1_RS04020,MF1_08080,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210413,-
+803,56533182,MF1_RS04025,MF1_RS04025,MF1_08090,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210413,-
+803,56533183,MF1_RS04030,MF1_RS04030,MF1_08100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533184,rplI,MF1_RS04035,MF1_08110,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210413,-
+803,56533185,MF1_RS04040,MF1_RS04040,MF1_08120,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210413,-
+803,56533186,radA,MF1_RS04045,MF1_08130,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20210413,-
+803,56533187,MF1_RS04050,MF1_RS04050,MF1_08140,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210413,-
+803,56533188,MF1_RS04055,MF1_RS04055,MF1_08150,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20210413,-
+803,56533189,MF1_RS04060,MF1_RS04060,MF1_08160,-,-,-,SDR family NAD(P)-dependent oxidoreductase,protein-coding,-,-,-,SDR family NAD(P)-dependent oxidoreductase,20210413,-
+803,56533190,pssA,MF1_RS04065,MF1_08170,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,20210413,-
+803,56533191,MF1_RS04070,MF1_RS04070,MF1_08180,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20210413,-
+803,56533192,MF1_RS04075,MF1_RS04075,MF1_08190,-,-,-,ABC transporter ATP-binding protein/permease,protein-coding,-,-,-,ABC transporter ATP-binding protein/permease,20210413,-
+803,56533193,MF1_RS04080,MF1_RS04080,MF1_08200,-,-,-,DUF421 domain-containing protein,protein-coding,-,-,-,DUF421 domain-containing protein,20210413,-
+803,56533194,cysS,MF1_RS04085,MF1_08210,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210413,-
+803,56533195,MF1_RS04090,MF1_RS04090,MF1_08220,-,-,-,TIGR02301 family protein,protein-coding,-,-,-,TIGR02301 family protein,20210413,-
+803,56533196,MF1_RS04095,MF1_RS04095,MF1_08230,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20210413,-
+803,56533197,MF1_RS04100,MF1_RS04100,MF1_08240,-,-,-,folate-binding protein YgfZ,protein-coding,-,-,-,folate-binding protein YgfZ,20210413,-
+803,56533198,MF1_RS04105,MF1_RS04105,MF1_08250,-,-,-,HD family hydrolase,protein-coding,-,-,-,HD family hydrolase,20210413,-
+803,56533199,panB,MF1_RS04110,MF1_08260,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,protein-coding,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,20210413,-
+803,56533200,MF1_RS04115,MF1_RS04115,MF1_08270,-,-,-,pantoate--beta-alanine ligase,protein-coding,-,-,-,pantoate--beta-alanine ligase,20210522,-
+803,56533201,recO,MF1_RS04120,MF1_08280,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210413,-
+803,56533202,era,MF1_RS04125,MF1_08290,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210413,-
+803,56533203,MF1_RS04130,MF1_RS04130,MF1_08300,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210413,-
+803,56533204,lepB,MF1_RS04135,MF1_08310,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210413,-
+803,56533205,MF1_RS04140,MF1_RS04140,MF1_08320,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20210413,-
+803,56533206,MF1_RS04145,MF1_RS04145,MF1_08330,-,-,-,DUF2062 domain-containing protein,protein-coding,-,-,-,DUF2062 domain-containing protein,20210413,-
+803,56533207,pyrE,MF1_RS04150,MF1_08340,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20210413,-
+803,56533208,MF1_RS04155,MF1_RS04155,MF1_08350,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20210413,-
+803,56533209,MF1_RS04160,MF1_RS04160,MF1_08360,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210413,-
+803,56533210,MF1_RS04165,MF1_RS04165,MF1_08370,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210413,-
+803,56533211,smpB,MF1_RS04170,MF1_08380,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210413,-
+803,56533212,MF1_RS04175,MF1_RS04175,MF1_08390,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20210413,-
+803,56533213,MF1_RS04180,MF1_RS04180,MF1_08400,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210413,-
+803,56533214,MF1_RS04185,MF1_RS04185,MF1_08410,-,-,-,energy transducer TonB,protein-coding,-,-,-,energy transducer TonB,20210413,-
+803,56533215,MF1_RS04190,MF1_RS04190,MF1_08420,-,-,-,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor,protein-coding,-,-,-,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor,20210413,-
+803,56533216,MF1_RS04195,MF1_RS04195,MF1_08430,-,-,-,hemin-degrading factor,protein-coding,-,-,-,hemin-degrading factor,20210413,-
+803,56533217,MF1_RS04200,MF1_RS04200,MF1_08440,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210413,-
+803,56533218,MF1_RS04205,MF1_RS04205,MF1_08450,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20210413,-
+803,56533219,MF1_RS04210,MF1_RS04210,MF1_08460,-,-,-,heme ABC transporter ATP-binding protein,protein-coding,-,-,-,heme ABC transporter ATP-binding protein,20210413,-
+803,56533220,thiC,MF1_RS04215,MF1_08470,-,-,-,phosphomethylpyrimidine synthase ThiC,protein-coding,-,-,-,phosphomethylpyrimidine synthase ThiC,20210413,-
+803,56533221,MF1_RS04220,MF1_RS04220,MF1_08480,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210413,-
+803,56533222,thiS,MF1_RS04225,MF1_08490,-,-,-,sulfur carrier protein ThiS,protein-coding,-,-,-,sulfur carrier protein ThiS,20210413,-
+803,56533223,MF1_RS04230,MF1_RS04230,MF1_08500,-,-,-,thiazole synthase,protein-coding,-,-,-,thiazole synthase,20210413,-
+803,56533224,MF1_RS04235,MF1_RS04235,MF1_08510,-,-,-,thiamine phosphate synthase,protein-coding,-,-,-,thiamine phosphate synthase,20210413,-
+803,56533225,MF1_RS04240,MF1_RS04240,MF1_08520,-,-,-,hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,protein-coding,-,-,-,hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,20210413,-
+803,56533226,MF1_RS04245,MF1_RS04245,MF1_08530,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210413,-
+803,56533227,pepN,MF1_RS04250,MF1_08540,-,-,-,aminopeptidase N,protein-coding,-,-,-,aminopeptidase N,20210413,-
+803,56533228,MF1_RS04255,MF1_RS04255,MF1_08550,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20210413,-
+803,56533229,MF1_RS04260,MF1_RS04260,MF1_08560,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20210413,-
+803,56533230,MF1_RS04265,MF1_RS04265,MF1_08570,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20210413,-
+803,56533231,MF1_RS04270,MF1_RS04270,MF1_08590,-,-,-,bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase,protein-coding,-,-,-,bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase,20210413,-
+803,56533232,MF1_RS04275,MF1_RS04275,MF1_08600,-,-,-,HAMP domain-containing protein,protein-coding,-,-,-,HAMP domain-containing protein,20210413,-
+803,56533233,MF1_RS04280,MF1_RS04280,MF1_08610,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210413,-
+803,56533234,MF1_RS04285,MF1_RS04285,MF1_08620,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20210413,-
+803,56533235,MF1_RS04290,MF1_RS04290,MF1_08630,-,-,-,cytochrome c-type biogenesis protein CcmH,protein-coding,-,-,-,cytochrome c-type biogenesis protein CcmH,20210413,-
+803,56533236,MF1_RS04295,MF1_RS04295,MF1_08640,-,-,-,heme lyase CcmF/NrfE family subunit,protein-coding,-,-,-,heme lyase CcmF/NrfE family subunit,20210413,-
+803,56533237,ccmE,MF1_RS04300,MF1_08650,-,-,-,cytochrome c maturation protein CcmE,protein-coding,-,-,-,cytochrome c maturation protein CcmE,20210413,-
+803,56533238,MF1_RS04305,MF1_RS04305,MF1_08660,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210413,-
+803,56533239,MF1_RS04310,MF1_RS04310,MF1_08670,-,-,-,HAMP domain-containing histidine kinase,protein-coding,-,-,-,HAMP domain-containing histidine kinase,20210413,-
+803,56533240,MF1_RS04315,MF1_RS04315,MF1_08680,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210413,-
+803,56533241,MF1_RS04320,MF1_RS04320,MF1_08690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533242,MF1_RS04325,MF1_RS04325,MF1_08700,-,-,-,penicillin-binding protein 1A,protein-coding,-,-,-,penicillin-binding protein 1A,20210413,-
+803,56533243,MF1_RS04330,MF1_RS04330,MF1_08710,-,-,-,DUF1214 domain-containing protein,protein-coding,-,-,-,DUF1214 domain-containing protein,20210413,-
+803,56533244,MF1_RS04335,MF1_RS04335,MF1_08720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533245,MF1_RS04340,MF1_RS04340,MF1_08730,-,-,-,DUF1499 domain-containing protein,protein-coding,-,-,-,DUF1499 domain-containing protein,20210413,-
+803,56533246,MF1_RS04345,MF1_RS04345,MF1_08740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533247,MF1_RS04360,MF1_RS04360,MF1_t00290,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533248,MF1_RS04365,MF1_RS04365,MF1_08770,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20210413,-
+803,56533249,MF1_RS04370,MF1_RS04370,MF1_08780,-,-,-,S9 family peptidase,protein-coding,-,-,-,S9 family peptidase,20210413,-
+803,56533250,MF1_RS04375,MF1_RS04375,MF1_08790,-,-,-,MucR family transcriptional regulator,protein-coding,-,-,-,MucR family transcriptional regulator,20210413,-
+803,56533251,MF1_RS04380,MF1_RS04380,MF1_08800,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20210413,-
+803,56533252,MF1_RS04385,MF1_RS04385,MF1_08810,-,-,-,DUF5330 domain-containing protein,protein-coding,-,-,-,DUF5330 domain-containing protein,20210413,-
+803,56533253,MF1_RS04390,MF1_RS04390,MF1_08820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533254,MF1_RS04395,MF1_RS04395,MF1_08830,-,-,-,peptidoglycan-binding protein,protein-coding,-,-,-,peptidoglycan-binding protein,20210413,-
+803,56533255,MF1_RS04400,MF1_RS04400,MF1_08850,-,-,-,"pyruvate, phosphate dikinase",protein-coding,-,-,-,"pyruvate, phosphate dikinase",20210413,-
+803,56533256,MF1_RS04405,MF1_RS04405,MF1_08860,-,-,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20210413,-
+803,56533257,MF1_RS04410,MF1_RS04410,MF1_08870,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210413,-
+803,56533258,mutY,MF1_RS04415,MF1_08880,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20210413,-
+803,56533259,MF1_RS04420,MF1_RS04420,MF1_08890,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210413,-
+803,56533260,MF1_RS04425,MF1_RS04425,MF1_08900,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20210413,-
+803,56533261,MF1_RS04430,MF1_RS04430,MF1_08910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533262,MF1_RS04435,MF1_RS04435,MF1_08920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533263,MF1_RS04440,MF1_RS04440,MF1_08930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533264,MF1_RS04445,MF1_RS04445,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533265,MF1_RS04450,MF1_RS04450,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533266,MF1_RS04455,MF1_RS04455,MF1_08970,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210413,-
+803,56533267,MF1_RS04460,MF1_RS04460,MF1_08980,-,-,-,EAL domain-containing protein,protein-coding,-,-,-,EAL domain-containing protein,20210413,-
+803,56533268,MF1_RS04465,MF1_RS04465,MF1_08990,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20210413,-
+803,56533269,rnhA,MF1_RS04470,MF1_09010,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20210413,-
+803,56533270,MF1_RS04475,MF1_RS04475,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533271,ispH,MF1_RS04480,MF1_09040,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20210413,-
+803,56533272,MF1_RS04485,MF1_RS04485,MF1_09050,-,-,-,heme o synthase,protein-coding,-,-,-,heme o synthase,20210413,-
+803,56533273,MF1_RS04490,MF1_RS04490,MF1_09060,-,-,-,invasion associated locus B family protein,protein-coding,-,-,-,invasion associated locus B family protein,20210413,-
+803,56533274,tldD,MF1_RS04495,MF1_09070,-,-,-,metalloprotease TldD,protein-coding,-,-,-,metalloprotease TldD,20210413,-
+803,56533275,MF1_RS04500,MF1_RS04500,MF1_09080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533276,MF1_RS04505,MF1_RS04505,MF1_09090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533277,MF1_RS04510,MF1_RS04510,MF1_09100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533278,MF1_RS04515,MF1_RS04515,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533279,dxs,MF1_RS04520,MF1_09120,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20210413,-
+803,56533280,MF1_RS04525,MF1_RS04525,MF1_09130,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20210413,-
+803,56533281,ribB,MF1_RS04530,MF1_09140,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20210413,-
+803,56533282,aroC,MF1_RS04535,MF1_09150,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20210413,-
+803,56533283,fabI,MF1_RS04540,MF1_09160,-,-,-,enoyl-ACP reductase FabI,protein-coding,-,-,-,enoyl-ACP reductase FabI,20210413,-
+803,56533284,MF1_RS04545,MF1_RS04545,MF1_09170,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210413,-
+803,56533285,pdxH,MF1_RS04550,MF1_09180,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,pyridoxamine 5'-phosphate oxidase,20210413,-
+803,56533286,MF1_RS04555,MF1_RS04555,MF1_09190,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,4-hydroxybenzoate octaprenyltransferase,20210413,-
+803,56533287,purD,MF1_RS04560,MF1_09200,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20210413,-
+803,56533288,MF1_RS04565,MF1_RS04565,MF1_09210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533289,MF1_RS04570,MF1_RS04570,MF1_09220,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210413,-
+803,56533290,MF1_RS04575,MF1_RS04575,MF1_09230,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210413,-
+803,56533291,MF1_RS04580,MF1_RS04580,MF1_09240,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210413,-
+803,56533292,MF1_RS04585,MF1_RS04585,MF1_09250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533293,MF1_RS04590,MF1_RS04590,MF1_09260,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210413,-
+803,56533294,MF1_RS04595,MF1_RS04595,MF1_09270,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210413,-
+803,56533295,MF1_RS04600,MF1_RS04600,MF1_09280,-,-,-,MoxR family ATPase,protein-coding,-,-,-,MoxR family ATPase,20210413,-
+803,56533296,MF1_RS04605,MF1_RS04605,MF1_09290,-,-,-,DUF58 domain-containing protein,protein-coding,-,-,-,DUF58 domain-containing protein,20210413,-
+803,56533297,MF1_RS04610,MF1_RS04610,MF1_09300,-,-,-,DUF4159 domain-containing protein,protein-coding,-,-,-,DUF4159 domain-containing protein,20210413,-
+803,56533298,MF1_RS04615,MF1_RS04615,MF1_09310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533299,MF1_RS04620,MF1_RS04620,MF1_09320,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210413,-
+803,56533300,MF1_RS04625,MF1_RS04625,MF1_09330,-,-,-,cation diffusion facilitator family transporter,protein-coding,-,-,-,cation diffusion facilitator family transporter,20210413,-
+803,56533301,MF1_RS04630,MF1_RS04630,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533302,mnmA,MF1_RS04635,MF1_09350,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210413,-
+803,56533303,MF1_RS04640,MF1_RS04640,MF1_09360,-,-,-,DUF1153 domain-containing protein,protein-coding,-,-,-,DUF1153 domain-containing protein,20210413,-
+803,56533304,MF1_RS04645,MF1_RS04645,MF1_09370,-,-,-,flagellar export protein FliJ,protein-coding,-,-,-,flagellar export protein FliJ,20210413,-
+803,56533305,MF1_RS04650,MF1_RS04650,MF1_09380,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210413,-
+803,56533306,MF1_RS04655,MF1_RS04655,MF1_09390,-,-,-,histidine phosphotransferase,protein-coding,-,-,-,histidine phosphotransferase,20210413,-
+803,56533307,MF1_RS04660,MF1_RS04660,MF1_09400,-,-,-,DUF1134 domain-containing protein,protein-coding,-,-,-,DUF1134 domain-containing protein,20210413,-
+803,56533308,MF1_RS04665,MF1_RS04665,MF1_09410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533309,MF1_RS04670,MF1_RS04670,MF1_09420,-,-,-,DegT/DnrJ/EryC1/StrS aminotransferase family protein,protein-coding,-,-,-,DegT/DnrJ/EryC1/StrS aminotransferase family protein,20210413,-
+803,56533310,MF1_RS04675,MF1_RS04675,MF1_09430,-,-,-,Gfo/Idh/MocA family oxidoreductase,protein-coding,-,-,-,Gfo/Idh/MocA family oxidoreductase,20210413,-
+803,56533311,MF1_RS04680,MF1_RS04680,MF1_t00300,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533312,MF1_RS04685,MF1_RS04685,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533313,MF1_RS04690,MF1_RS04690,MF1_09450,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56533314,MF1_RS04695,MF1_RS04695,MF1_09460,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210413,-
+803,56533315,MF1_RS04700,MF1_RS04700,MF1_09470,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210413,-
+803,56533316,MF1_RS04705,MF1_RS04705,MF1_09480,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210413,-
+803,56533317,MF1_RS04710,MF1_RS04710,MF1_09490,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210413,-
+803,56533318,MF1_RS04715,MF1_RS04715,MF1_09500,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210413,-
+803,56533319,MF1_RS04720,MF1_RS04720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533320,MF1_RS04725,MF1_RS04725,MF1_09510,-,-,-,DNA-3-methyladenine glycosylase I,protein-coding,-,-,-,DNA-3-methyladenine glycosylase I,20210413,-
+803,56533321,MF1_RS04730,MF1_RS04730,MF1_09520,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210522,-
+803,56533322,MF1_RS04735,MF1_RS04735,MF1_09540,-,-,-,TIGR02186 family protein,protein-coding,-,-,-,TIGR02186 family protein,20210413,-
+803,56533323,MF1_RS04740,MF1_RS04740,MF1_09550,-,-,-,sulfite exporter TauE/SafE family protein,protein-coding,-,-,-,sulfite exporter TauE/SafE family protein,20210413,-
+803,56533324,MF1_RS04745,MF1_RS04745,MF1_09560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533325,MF1_RS04750,MF1_RS04750,MF1_09570,-,-,-,electron transfer flavoprotein subunit beta/FixA family protein,protein-coding,-,-,-,electron transfer flavoprotein subunit beta/FixA family protein,20210413,-
+803,56533326,MF1_RS04755,MF1_RS04755,MF1_09580,-,-,-,electron transfer flavoprotein subunit alpha/FixB family protein,protein-coding,-,-,-,electron transfer flavoprotein subunit alpha/FixB family protein,20210413,-
+803,56533327,MF1_RS04760,MF1_RS04760,MF1_09590,-,-,-,electron transfer flavoprotein-ubiquinone oxidoreductase,protein-coding,-,-,-,electron transfer flavoprotein-ubiquinone oxidoreductase,20210413,-
+803,56533328,MF1_RS04765,MF1_RS04765,MF1_09600,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20210413,-
+803,56533329,MF1_RS04770,MF1_RS04770,MF1_09610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533330,MF1_RS04775,MF1_RS04775,MF1_09620,-,-,-,YraN family protein,protein-coding,-,-,-,YraN family protein,20210413,-
+803,56533331,rsmI,MF1_RS04780,MF1_09630,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20210413,-
+803,56533332,MF1_RS04785,MF1_RS04785,MF1_09640,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20210413,-
+803,56533333,rpmH,MF1_RS04790,MF1_09650,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210417,-
+803,56533334,MF1_RS04795,MF1_RS04795,MF1_09660,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210413,-
+803,56533335,yidC,MF1_RS04800,MF1_09670,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210413,-
+803,56533336,MF1_RS04805,MF1_RS04805,MF1_09680,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20210413,-
+803,56533337,MF1_RS04810,MF1_RS04810,MF1_09690,-,-,-,glutathione S-transferase family protein,protein-coding,-,-,-,glutathione S-transferase family protein,20210413,-
+803,56533338,MF1_RS04815,MF1_RS04815,MF1_09700,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20210413,-
+803,56533339,MF1_RS04820,MF1_RS04820,MF1_09710,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20210413,-
+803,56533340,MF1_RS04825,MF1_RS04825,MF1_t00310,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533341,MF1_RS04830,MF1_RS04830,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533342,MF1_RS04835,MF1_RS04835,MF1_t00320,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533343,MF1_RS04840,MF1_RS04840,MF1_09730,-,-,-,porin,protein-coding,-,-,-,porin,20210413,-
+803,56533344,MF1_RS04845,MF1_RS04845,MF1_09740,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210413,-
+803,56533345,pyrF,MF1_RS04850,MF1_09750,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20210413,-
+803,56533346,MF1_RS04855,MF1_RS04855,MF1_09760,-,-,-,TIGR04086 family membrane protein,protein-coding,-,-,-,TIGR04086 family membrane protein,20210413,-
+803,56533347,MF1_RS04860,MF1_RS04860,MF1_t00330,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533348,rrf,MF1_RS04865,MF1_r00010,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533349,MF1_RS04870,MF1_RS04870,MF1_r00020,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533350,MF1_RS04875,MF1_RS04875,MF1_t00340,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533351,MF1_RS04880,MF1_RS04880,MF1_t00350,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533352,MF1_RS04885,MF1_RS04885,MF1_r00030,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533353,MF1_RS04890,MF1_RS04890,MF1_09770,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20210413,-
+803,56533354,MF1_RS04895,MF1_RS04895,MF1_09780,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210413,-
+803,56533355,MF1_RS04900,MF1_RS04900,MF1_09790,-,-,-,DHA2 family efflux MFS transporter permease subunit,protein-coding,-,-,-,DHA2 family efflux MFS transporter permease subunit,20210413,-
+803,56533356,MF1_RS04905,MF1_RS04905,MF1_09800,-,-,-,N-acetyltransferase,protein-coding,-,-,-,N-acetyltransferase,20210413,-
+803,56533357,MF1_RS04910,MF1_RS04910,MF1_09810,-,-,-,type III PLP-dependent enzyme,protein-coding,-,-,-,type III PLP-dependent enzyme,20210413,-
+803,56533358,MF1_RS04915,MF1_RS04915,MF1_09820,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20210413,-
+803,56533359,eda,MF1_RS04920,MF1_09830,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533360,MF1_RS04925,MF1_RS04925,MF1_09840,-,-,-,ferredoxin--NADP reductase,protein-coding,-,-,-,ferredoxin--NADP reductase,20210413,-
+803,56533361,alr,MF1_RS04930,MF1_09850,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20210413,-
+803,56533362,gcvP,MF1_RS04935,MF1_09860,-,-,-,aminomethyl-transferring glycine dehydrogenase,protein-coding,-,-,-,aminomethyl-transferring glycine dehydrogenase,20210413,-
+803,56533363,gcvH,MF1_RS04940,MF1_09870,-,-,-,glycine cleavage system protein GcvH,protein-coding,-,-,-,glycine cleavage system protein GcvH,20210413,-
+803,56533364,gcvT,MF1_RS04945,MF1_09880,-,-,-,glycine cleavage system aminomethyltransferase GcvT,protein-coding,-,-,-,glycine cleavage system aminomethyltransferase GcvT,20210413,-
+803,56533365,MF1_RS04950,MF1_RS04950,MF1_09890,-,-,-,LON peptidase substrate-binding domain-containing protein,protein-coding,-,-,-,LON peptidase substrate-binding domain-containing protein,20210413,-
+803,56533366,MF1_RS04955,MF1_RS04955,MF1_09900,-,-,-,Trm112 family protein,protein-coding,-,-,-,Trm112 family protein,20210413,-
+803,56533367,MF1_RS04960,MF1_RS04960,MF1_09930,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20210413,-
+803,56533368,MF1_RS04965,MF1_RS04965,MF1_09940,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20210413,-
+803,56533369,MF1_RS04970,MF1_RS04970,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533370,MF1_RS04975,MF1_RS04975,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533371,MF1_RS04985,MF1_RS04985,MF1_09960,-,-,-,MaoC family dehydratase,protein-coding,-,-,-,MaoC family dehydratase,20210413,-
+803,56533372,MF1_RS04990,MF1_RS04990,MF1_09970,-,-,-,homoserine dehydrogenase,protein-coding,-,-,-,homoserine dehydrogenase,20210413,-
+803,56533373,MF1_RS04995,MF1_RS04995,MF1_09990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533374,MF1_RS05005,MF1_RS05005,MF1_10000,-,-,-,creatininase family protein,protein-coding,-,-,-,creatininase family protein,20210413,-
+803,56533375,MF1_RS05010,MF1_RS05010,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533376,MF1_RS05015,MF1_RS05015,MF1_10010,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56533377,MF1_RS05020,MF1_RS05020,MF1_10020,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56533378,MF1_RS05025,MF1_RS05025,MF1_10030,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210413,-
+803,56533379,MF1_RS05030,MF1_RS05030,MF1_10040,-,-,-,iron chelate uptake ABC transporter family permease subunit,protein-coding,-,-,-,iron chelate uptake ABC transporter family permease subunit,20210413,-
+803,56533380,MF1_RS05035,MF1_RS05035,MF1_10050,-,-,-,iron chelate uptake ABC transporter family permease subunit,protein-coding,-,-,-,iron chelate uptake ABC transporter family permease subunit,20210413,-
+803,56533381,MF1_RS05040,MF1_RS05040,MF1_10060,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210413,-
+803,56533382,MF1_RS05045,MF1_RS05045,MF1_t00360,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533383,MF1_RS05050,MF1_RS05050,MF1_10070,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210413,-
+803,56533384,MF1_RS05055,MF1_RS05055,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533385,MF1_RS05060,MF1_RS05060,MF1_10090,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56533386,MF1_RS05065,MF1_RS05065,MF1_10100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533387,MF1_RS05070,MF1_RS05070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533388,MF1_RS05075,MF1_RS05075,MF1_10140,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210413,-
+803,56533389,MF1_RS05080,MF1_RS05080,MF1_10160,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210413,-
+803,56533390,MF1_RS05085,MF1_RS05085,MF1_10170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533391,MF1_RS05090,MF1_RS05090,MF1_10180,-,-,-,TIGR01244 family phosphatase,protein-coding,-,-,-,TIGR01244 family phosphatase,20210413,-
+803,56533392,MF1_RS05095,MF1_RS05095,MF1_10190,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20210413,-
+803,56533393,MF1_RS05100,MF1_RS05100,MF1_10200,-,-,-,TIGR01459 family HAD-type hydrolase,protein-coding,-,-,-,TIGR01459 family HAD-type hydrolase,20210413,-
+803,56533394,MF1_RS05105,MF1_RS05105,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533395,MF1_RS05110,MF1_RS05110,MF1_10210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533396,MF1_RS05115,MF1_RS05115,MF1_10220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533397,MF1_RS05120,MF1_RS05120,MF1_10230,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20210413,-
+803,56533398,MF1_RS05125,MF1_RS05125,MF1_10240,-,-,-,type IV secretion system protein VirB3,protein-coding,-,-,-,type IV secretion system protein VirB3,20210413,-
+803,56533399,MF1_RS05130,MF1_RS05130,MF1_10250,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20210413,-
+803,56533400,MF1_RS05135,MF1_RS05135,MF1_10260,-,-,-,type IV secretion system protein VirB5,protein-coding,-,-,-,type IV secretion system protein VirB5,20210413,-
+803,56533401,virB6,MF1_RS05140,MF1_10270,-,-,-,type IV secretion system protein VirB6,protein-coding,-,-,-,type IV secretion system protein VirB6,20210413,-
+803,56533402,MF1_RS05145,MF1_RS05145,MF1_10280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533403,MF1_RS05150,MF1_RS05150,MF1_10290,-,-,-,virB8 family protein,protein-coding,-,-,-,virB8 family protein,20210605,-
+803,56533404,virB9,MF1_RS05155,MF1_10300,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20210413,-
+803,56533405,virB10,MF1_RS05160,MF1_10310,-,-,-,type IV secretion system protein VirB10,protein-coding,-,-,-,type IV secretion system protein VirB10,20210413,-
+803,56533406,virB11,MF1_RS05165,MF1_10320,-,-,-,P-type DNA transfer ATPase VirB11,protein-coding,-,-,-,P-type DNA transfer ATPase VirB11,20210413,-
+803,56533407,MF1_RS05170,MF1_RS05170,MF1_10330,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533408,traG,MF1_RS05175,MF1_10340,-,-,-,Ti-type conjugative transfer system protein TraG,protein-coding,-,-,-,Ti-type conjugative transfer system protein TraG,20210413,-
+803,56533409,MF1_RS05180,MF1_RS05180,-,-,-,-,antitoxin VbhA family protein,protein-coding,-,-,-,antitoxin VbhA family protein,20210413,-
+803,56533410,MF1_RS05185,MF1_RS05185,MF1_10360,-,-,-,BID domain-containing T4SS effector,protein-coding,-,-,-,BID domain-containing T4SS effector,20210413,-
+803,56533411,MF1_RS05190,MF1_RS05190,-,-,-,-,BID domain-containing T4SS effector,protein-coding,-,-,-,BID domain-containing T4SS effector,20210413,-
+803,56533412,MF1_RS05195,MF1_RS05195,MF1_10380,-,-,-,BID domain-containing T4SS effector,protein-coding,-,-,-,BID domain-containing T4SS effector,20210413,-
+803,56533413,MF1_RS05200,MF1_RS05200,MF1_10390,-,-,-,BID domain-containing T4SS effector,protein-coding,-,-,-,BID domain-containing T4SS effector,20210413,-
+803,56533414,murJ,MF1_RS05205,MF1_10400,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210413,-
+803,56533415,trpS,MF1_RS05210,MF1_10410,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210413,-
+803,56533416,MF1_RS05215,MF1_RS05215,MF1_10420,-,-,-,universal stress protein,protein-coding,-,-,-,universal stress protein,20210413,-
+803,56533417,MF1_RS05220,MF1_RS05220,MF1_10430,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20210413,-
+803,56533418,MF1_RS05225,MF1_RS05225,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533419,groL,MF1_RS05230,MF1_10440,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210413,-
+803,56533420,groES,MF1_RS05235,MF1_10450,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210413,-
+803,56533421,fumC,MF1_RS05240,MF1_10460,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20210413,-
+803,56533422,MF1_RS05245,MF1_RS05245,MF1_10470,-,-,-,alpha-D-glucose phosphate-specific phosphoglucomutase,protein-coding,-,-,-,alpha-D-glucose phosphate-specific phosphoglucomutase,20210413,-
+803,56533423,MF1_RS05250,MF1_RS05250,MF1_10480,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210413,-
+803,56533424,MF1_RS05255,MF1_RS05255,MF1_10490,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533425,MF1_RS05260,MF1_RS05260,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533426,MF1_RS05265,MF1_RS05265,MF1_10500,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210413,-
+803,56533427,pyrF,MF1_RS05270,MF1_10510,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20210413,-
+803,56533428,MF1_RS05275,MF1_RS05275,MF1_10520,-,-,-,TIGR04086 family membrane protein,protein-coding,-,-,-,TIGR04086 family membrane protein,20210413,-
+803,56533429,MF1_RS05280,MF1_RS05280,MF1_t00370,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533430,rrf,MF1_RS05285,MF1_r00040,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533431,MF1_RS05290,MF1_RS05290,MF1_r00050,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533432,MF1_RS05295,MF1_RS05295,MF1_t00380,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533433,MF1_RS05300,MF1_RS05300,MF1_t00390,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533434,MF1_RS05305,MF1_RS05305,MF1_r00060,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210413,-
+803,56533435,MF1_RS05310,MF1_RS05310,MF1_10530,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210413,-
+803,56533436,MF1_RS05315,MF1_RS05315,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533437,MF1_RS05320,MF1_RS05320,MF1_10550,-,-,-,sensor histidine kinase,protein-coding,-,-,-,sensor histidine kinase,20210413,-
+803,56533438,MF1_RS05325,MF1_RS05325,MF1_10560,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533439,MF1_RS05330,MF1_RS05330,MF1_10570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533440,MF1_RS05335,MF1_RS05335,MF1_10580,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210413,-
+803,56533441,MF1_RS05340,MF1_RS05340,MF1_10590,-,-,-,sensor histidine kinase,protein-coding,-,-,-,sensor histidine kinase,20210413,-
+803,56533442,MF1_RS05345,MF1_RS05345,MF1_10600,-,-,-,DUF4167 domain-containing protein,protein-coding,-,-,-,DUF4167 domain-containing protein,20210413,-
+803,56533443,fdhE,MF1_RS05350,-,-,-,-,formate dehydrogenase accessory protein FdhE,protein-coding,-,-,-,formate dehydrogenase accessory protein FdhE,20210413,-
+803,56533444,MF1_RS05360,MF1_RS05360,MF1_10620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533445,MF1_RS05365,MF1_RS05365,MF1_10630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533446,MF1_RS05375,MF1_RS05375,MF1_10640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533447,MF1_RS05380,MF1_RS05380,MF1_10650,-,-,-,phage tail protein,protein-coding,-,-,-,phage tail protein,20210413,-
+803,56533448,MF1_RS05385,MF1_RS05385,MF1_10660,-,-,-,tail fiber domain-containing protein,protein-coding,-,-,-,tail fiber domain-containing protein,20210413,-
+803,56533449,MF1_RS05390,MF1_RS05390,MF1_10670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533450,MF1_RS05395,MF1_RS05395,MF1_10680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533451,MF1_RS05400,MF1_RS05400,MF1_10690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533452,MF1_RS05405,MF1_RS05405,MF1_10700,-,-,-,N4-gp56 family major capsid protein,protein-coding,-,-,-,N4-gp56 family major capsid protein,20210413,-
+803,56533453,MF1_RS05410,MF1_RS05410,MF1_10710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533454,MF1_RS05415,MF1_RS05415,MF1_10720,-,-,-,phage portal protein,protein-coding,-,-,-,phage portal protein,20210522,-
+803,56533455,MF1_RS05420,MF1_RS05420,MF1_10730,-,-,-,phage terminase large subunit,protein-coding,-,-,-,phage terminase large subunit,20210413,-
+803,56533457,MF1_RS05430,MF1_RS05430,MF1_10750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533458,clpB,MF1_RS05435,MF1_10760,-,-,-,ATP-dependent chaperone ClpB,protein-coding,-,-,-,ATP-dependent chaperone ClpB,20210413,-
+803,56533459,yacG,MF1_RS05440,MF1_10770,-,-,-,DNA gyrase inhibitor YacG,protein-coding,-,-,-,DNA gyrase inhibitor YacG,20210413,-
+803,56533460,maf,MF1_RS05445,MF1_10780,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20210413,-
+803,56533461,infA,MF1_RS05450,MF1_10790,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210413,-
+803,56533463,MF1_RS05460,MF1_RS05460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533464,MF1_RS05465,MF1_RS05465,MF1_10810,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20210413,-
+803,56533465,MF1_RS05475,MF1_RS05475,-,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20210413,-
+803,56533466,MF1_RS05485,MF1_RS05485,MF1_10830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533467,purE,MF1_RS05490,MF1_10840,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20210413,-
+803,56533468,MF1_RS05495,MF1_RS05495,MF1_10860,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,20210413,-
+803,56533469,ykgO,MF1_RS05500,MF1_10870,-,-,-,type B 50S ribosomal protein L36,protein-coding,-,-,-,type B 50S ribosomal protein L36,20210413,-
+803,56533470,MF1_RS05505,MF1_RS05505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533471,ssrS,MF1_RS05510,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210413,-
+803,56533472,MF1_RS05515,MF1_RS05515,MF1_10910,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20210413,-
+803,56533473,MF1_RS05520,MF1_RS05520,MF1_10920,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20210413,-
+803,56533474,MF1_RS05525,MF1_RS05525,MF1_10930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533475,MF1_RS05530,MF1_RS05530,MF1_t00400,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533476,murA,MF1_RS05535,MF1_10940,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210413,-
+803,56533477,MF1_RS05540,MF1_RS05540,MF1_10950,-,-,-,YqaJ viral recombinase family protein,protein-coding,-,-,-,YqaJ viral recombinase family protein,20210413,-
+803,56533478,MF1_RS05545,MF1_RS05545,MF1_10990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533479,MF1_RS05550,MF1_RS05550,MF1_11000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533480,MF1_RS05555,MF1_RS05555,MF1_11010,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20210413,-
+803,56533481,MF1_RS05560,MF1_RS05560,MF1_11020,-,-,-,DUF1376 domain-containing protein,protein-coding,-,-,-,DUF1376 domain-containing protein,20210413,-
+803,56533482,MF1_RS05565,MF1_RS05565,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533483,MF1_RS05570,MF1_RS05570,MF1_11030,-,-,-,toprim domain-containing protein,protein-coding,-,-,-,toprim domain-containing protein,20210413,-
+803,56533484,MF1_RS05575,MF1_RS05575,MF1_11040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533485,MF1_RS05580,MF1_RS05580,MF1_11070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533486,MF1_RS05585,MF1_RS05585,MF1_11080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533487,MF1_RS05590,MF1_RS05590,MF1_11100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533489,MF1_RS05600,MF1_RS05600,MF1_11110,-,-,-,YopJ family type III secretion system effector serine/threonine acetyltransferase,protein-coding,-,-,-,YopJ family type III secretion system effector serine/threonine acetyltransferase,20210413,-
+803,56533490,MF1_RS05605,MF1_RS05605,MF1_11120,-,-,-,lysozyme,protein-coding,-,-,-,lysozyme,20210413,-
+803,56533491,MF1_RS05610,MF1_RS05610,MF1_11130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533492,MF1_RS05615,MF1_RS05615,MF1_11140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533493,MF1_RS05620,MF1_RS05620,MF1_11150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533494,MF1_RS05625,MF1_RS05625,MF1_t00410,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533495,MF1_RS05630,MF1_RS05630,MF1_11160,-,-,-,DedA family protein,protein-coding,-,-,-,DedA family protein,20210413,-
+803,56533496,MF1_RS05635,MF1_RS05635,-,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20210413,-
+803,56533497,MF1_RS05640,MF1_RS05640,MF1_11170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533498,MF1_RS05645,MF1_RS05645,MF1_11180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533499,dut,MF1_RS05650,MF1_11190,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210413,-
+803,56533500,MF1_RS05660,MF1_RS05660,MF1_11200,-,-,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20210413,-
+803,56533501,MF1_RS05665,MF1_RS05665,MF1_11210,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20210413,-
+803,56533502,MF1_RS05670,MF1_RS05670,MF1_11220,-,-,-,DUF883 family protein,protein-coding,-,-,-,DUF883 family protein,20210413,-
+803,56533503,MF1_RS05675,MF1_RS05675,MF1_11230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533504,MF1_RS05680,MF1_RS05680,MF1_11240,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20210413,-
+803,56533505,ftsH,MF1_RS05685,MF1_11250,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210413,-
+803,56533506,tilS,MF1_RS05690,MF1_11260,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210413,-
+803,56533508,MF1_RS05700,MF1_RS05700,MF1_11280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533509,pal,MF1_RS05705,MF1_11290,-,-,-,peptidoglycan-associated lipoprotein Pal,protein-coding,-,-,-,peptidoglycan-associated lipoprotein Pal,20210413,-
+803,56533510,MF1_RS05710,MF1_RS05710,MF1_11300,-,-,-,DUF1013 domain-containing protein,protein-coding,-,-,-,DUF1013 domain-containing protein,20210413,-
+803,56533511,MF1_RS05715,MF1_RS05715,MF1_11310,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210413,-
+803,56533513,MF1_RS05725,MF1_RS05725,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20210413,-
+803,56533514,tolB,MF1_RS05730,MF1_11320,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20210413,-
+803,56533515,MF1_RS05735,MF1_RS05735,MF1_11330,-,-,-,cell envelope biogenesis protein TolA,protein-coding,-,-,-,cell envelope biogenesis protein TolA,20210413,-
+803,56533516,tolR,MF1_RS05740,MF1_11340,-,-,-,protein TolR,protein-coding,-,-,-,protein TolR,20210413,-
+803,56533517,tolQ,MF1_RS05745,MF1_11350,-,-,-,protein TolQ,protein-coding,-,-,-,protein TolQ,20210413,-
+803,56533518,ybgC,MF1_RS05750,MF1_11360,-,-,-,tol-pal system-associated acyl-CoA thioesterase,protein-coding,-,-,-,tol-pal system-associated acyl-CoA thioesterase,20210413,-
+803,56533519,ruvB,MF1_RS05755,MF1_11370,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210413,-
+803,56533520,ruvA,MF1_RS05760,MF1_11380,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210413,-
+803,56533521,ruvC,MF1_RS05765,MF1_11390,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20210413,-
+803,56533522,MF1_RS05770,MF1_RS05770,MF1_11400,-,-,-,DUF1465 family protein,protein-coding,-,-,-,DUF1465 family protein,20210413,-
+803,56533523,opgC,MF1_RS05775,MF1_11410,-,-,-,OpgC domain-containing protein,protein-coding,-,-,-,OpgC domain-containing protein,20210413,-
+803,56533524,MF1_RS05780,MF1_RS05780,MF1_11420,-,-,-,thiamine phosphate synthase,protein-coding,-,-,-,thiamine phosphate synthase,20210413,-
+803,56533525,MF1_RS05785,MF1_RS05785,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533526,MF1_RS05790,MF1_RS05790,MF1_11440,-,-,-,sel1 repeat family protein,protein-coding,-,-,-,sel1 repeat family protein,20210413,-
+803,56533527,efp,MF1_RS05795,MF1_11450,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210413,-
+803,56533528,MF1_RS05800,MF1_RS05800,MF1_11460,-,-,-,inositol monophosphatase,protein-coding,-,-,-,inositol monophosphatase,20210413,-
+803,56533529,MF1_RS05805,MF1_RS05805,MF1_11470,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210413,-
+803,56533530,rpmE,MF1_RS05810,MF1_11480,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20210413,-
+803,56533531,MF1_RS05815,MF1_RS05815,MF1_11490,-,-,-,fructose-bisphosphate aldolase class I,protein-coding,-,-,-,fructose-bisphosphate aldolase class I,20210413,-
+803,56533532,MF1_RS05820,MF1_RS05820,MF1_11500,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210413,-
+803,56533533,gap,MF1_RS05825,MF1_11510,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210413,-
+803,56533534,MF1_RS05830,MF1_RS05830,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533535,tkt,MF1_RS05835,MF1_11520,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210413,-
+803,56533536,MF1_RS05840,MF1_RS05840,MF1_11530,-,-,-,DUF4164 domain-containing protein,protein-coding,-,-,-,DUF4164 domain-containing protein,20210413,-
+803,56533537,MF1_RS05845,MF1_RS05845,MF1_11540,-,-,-,cell division protein ZapA,protein-coding,-,-,-,cell division protein ZapA,20210413,-
+803,56533538,MF1_RS05850,MF1_RS05850,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533539,MF1_RS05855,MF1_RS05855,MF1_11560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533540,pyk,MF1_RS05860,MF1_11570,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210413,-
+803,56533541,MF1_RS05865,MF1_RS05865,MF1_11580,-,-,-,DUF1036 domain-containing protein,protein-coding,-,-,-,DUF1036 domain-containing protein,20210413,-
+803,56533542,MF1_RS05870,MF1_RS05870,MF1_11590,-,-,-,DUF2312 domain-containing protein,protein-coding,-,-,-,DUF2312 domain-containing protein,20210413,-
+803,56533543,MF1_RS05875,MF1_RS05875,MF1_11600,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210413,-
+803,56533544,MF1_RS05880,MF1_RS05880,MF1_11610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533545,MF1_RS05885,MF1_RS05885,MF1_11620,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20210413,-
+803,56533546,MF1_RS05890,MF1_RS05890,MF1_11630,-,-,-,M48 family metalloprotease,protein-coding,-,-,-,M48 family metalloprotease,20210413,-
+803,56533547,MF1_RS05895,MF1_RS05895,MF1_11650,-,-,-,RNA polymerase factor sigma-32,protein-coding,-,-,-,RNA polymerase factor sigma-32,20210413,-
+803,56533548,MF1_RS05900,MF1_RS05900,MF1_11660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533549,MF1_RS05905,MF1_RS05905,MF1_11670,-,-,-,ferredoxin family protein,protein-coding,-,-,-,ferredoxin family protein,20210413,-
+803,56533550,MF1_RS05910,MF1_RS05910,MF1_11680,-,-,-,CarD family transcriptional regulator,protein-coding,-,-,-,CarD family transcriptional regulator,20210413,-
+803,56533551,MF1_RS05915,MF1_RS05915,MF1_11690,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210413,-
+803,56533552,MF1_RS05920,MF1_RS05920,MF1_11700,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210413,-
+803,56533553,ispG,MF1_RS05925,MF1_11710|gcpE,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20210413,-
+803,56533554,MF1_RS05930,MF1_RS05930,MF1_11720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533555,MF1_RS05935,MF1_RS05935,MF1_11730,-,-,-,HlyD family secretion protein,protein-coding,-,-,-,HlyD family secretion protein,20210413,-
+803,56533556,MF1_RS05940,MF1_RS05940,MF1_11740,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210413,-
+803,56533557,atpC,MF1_RS05945,MF1_11750,-,-,-,ATP synthase F1 subunit epsilon,protein-coding,-,-,-,ATP synthase F1 subunit epsilon,20210413,-
+803,56533558,atpD,MF1_RS05950,MF1_11760,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210413,-
+803,56533559,MF1_RS05955,MF1_RS05955,MF1_11770,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20210413,-
+803,56533560,atpA,MF1_RS05960,MF1_11780,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20210413,-
+803,56533561,MF1_RS05965,MF1_RS05965,MF1_11790,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20210413,-
+803,56533562,MF1_RS05970,MF1_RS05970,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533563,MF1_RS05975,MF1_RS05975,MF1_11810,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210413,-
+803,56533564,fsa,MF1_RS05980,MF1_11820,-,-,-,fructose-6-phosphate aldolase,protein-coding,-,-,-,fructose-6-phosphate aldolase,20210413,-
+803,56533565,MF1_RS05985,MF1_RS05985,MF1_11830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533566,MF1_RS05990,MF1_RS05990,MF1_11840,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210413,-
+803,56533567,MF1_RS05995,MF1_RS05995,MF1_11850,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,20210413,-
+803,56533568,acs,MF1_RS06000,MF1_11860,-,-,-,acetate--CoA ligase,protein-coding,-,-,-,acetate--CoA ligase,20210413,-
+803,56533569,ftsE,MF1_RS06005,MF1_11870,-,-,-,cell division ATP-binding protein FtsE,protein-coding,-,-,-,cell division ATP-binding protein FtsE,20210413,-
+803,56533570,MF1_RS06010,MF1_RS06010,MF1_11880,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210413,-
+803,56533571,MF1_RS06015,MF1_RS06015,MF1_11890,-,-,-,YdcF family protein,protein-coding,-,-,-,YdcF family protein,20210413,-
+803,56533572,MF1_RS06020,MF1_RS06020,MF1_11900,-,-,-,MacB family efflux pump subunit,protein-coding,-,-,-,MacB family efflux pump subunit,20210413,-
+803,56533573,MF1_RS06025,MF1_RS06025,MF1_11910,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210413,-
+803,56533574,MF1_RS06030,MF1_RS06030,MF1_11920,-,-,-,efflux transporter outer membrane subunit,protein-coding,-,-,-,efflux transporter outer membrane subunit,20210413,-
+803,56533575,MF1_RS06035,MF1_RS06035,MF1_11930,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20210413,-
+803,56533576,MF1_RS06040,MF1_RS06040,MF1_11940,-,-,-,outer-membrane lipoprotein carrier protein LolA,protein-coding,-,-,-,outer-membrane lipoprotein carrier protein LolA,20210413,-
+803,56533577,MF1_RS06045,MF1_RS06045,MF1_11950,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210413,-
+803,56533578,MF1_RS06050,MF1_RS06050,MF1_11960,-,-,-,ubiquinone biosynthesis hydroxylase,protein-coding,-,-,-,ubiquinone biosynthesis hydroxylase,20210413,-
+803,56533579,MF1_RS06055,MF1_RS06055,MF1_11970,-,-,-,H-NS histone family protein,protein-coding,-,-,-,H-NS histone family protein,20210413,-
+803,56533580,MF1_RS06060,MF1_RS06060,MF1_11980,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210413,-
+803,56533581,MF1_RS06065,MF1_RS06065,MF1_11990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533582,trwL,MF1_RS06070,MF1_12000,-,-,-,VirB2 family type IV secretion system major pilin TrwL,protein-coding,-,-,-,VirB2 family type IV secretion system major pilin TrwL,20210413,-
+803,56533583,trwL,MF1_RS06075,MF1_12010,-,-,-,VirB2 family type IV secretion system major pilin TrwL,protein-coding,-,-,-,VirB2 family type IV secretion system major pilin TrwL,20210413,-
+803,56533584,trwL,MF1_RS06080,MF1_12020,-,-,-,VirB2 family type IV secretion system major pilin TrwL,protein-coding,-,-,-,VirB2 family type IV secretion system major pilin TrwL,20210413,-
+803,56533585,trwL,MF1_RS06085,MF1_12030,-,-,-,VirB2 family type IV secretion system major pilin TrwL,protein-coding,-,-,-,VirB2 family type IV secretion system major pilin TrwL,20210413,-
+803,56533586,MF1_RS06090,MF1_RS06090,MF1_12040,-,-,-,conjugal transfer protein,protein-coding,-,-,-,conjugal transfer protein,20210424,-
+803,56533587,MF1_RS06095,MF1_RS06095,MF1_12050,-,-,-,VirB3 family type IV secretion system protein,protein-coding,-,-,-,VirB3 family type IV secretion system protein,20210413,-
+803,56533588,MF1_RS06100,MF1_RS06100,MF1_12060,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20210413,-
+803,56533589,MF1_RS06105,MF1_RS06105,MF1_12070,-,-,-,conjugal transfer protein,protein-coding,-,-,-,conjugal transfer protein,20210413,-
+803,56533590,MF1_RS06110,MF1_RS06110,MF1_12080,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210413,-
+803,56533591,MF1_RS06115,MF1_RS06115,-,-,-,-,TrwH protein,protein-coding,-,-,-,TrwH protein,20210413,-
+803,56533592,MF1_RS06120,MF1_RS06120,MF1_12090,-,-,-,conjugal transfer protein,protein-coding,-,-,-,conjugal transfer protein,20210413,-
+803,56533593,MF1_RS06125,MF1_RS06125,MF1_12100,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210413,-
+803,56533594,MF1_RS06130,MF1_RS06130,-,-,-,-,TrwH protein,protein-coding,-,-,-,TrwH protein,20210413,-
+803,56533595,MF1_RS06135,MF1_RS06135,MF1_12110,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210413,-
+803,56533596,virB9,MF1_RS06140,MF1_12120,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20210413,-
+803,56533597,virB10,MF1_RS06145,MF1_12130,-,-,-,type IV secretion system protein VirB10,protein-coding,-,-,-,type IV secretion system protein VirB10,20210413,-
+803,56533598,virB11,MF1_RS06150,MF1_12140,-,-,-,P-type DNA transfer ATPase VirB11,protein-coding,-,-,-,P-type DNA transfer ATPase VirB11,20210413,-
+803,56533599,MF1_RS06155,MF1_RS06155,MF1_12180,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20210413,-
+803,56533600,MF1_RS06160,MF1_RS06160,MF1_12190,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20210413,-
+803,56533601,sdhD,MF1_RS06165,MF1_12200,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",protein-coding,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",20210413,-
+803,56533602,sdhC,MF1_RS06170,MF1_12210,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",protein-coding,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",20210413,-
+803,56533603,rplS,MF1_RS06175,MF1_12220,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210413,-
+803,56533604,trmD,MF1_RS06180,MF1_12230,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210413,-
+803,56533605,rimM,MF1_RS06185,MF1_12240,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,ribosome maturation factor RimM,20210413,-
+803,56533606,MF1_RS06190,MF1_RS06190,MF1_12250,-,-,-,SapC family protein,protein-coding,-,-,-,SapC family protein,20210413,-
+803,56533607,MF1_RS06195,MF1_RS06195,MF1_12260,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210413,-
+803,56533608,MF1_RS06200,MF1_RS06200,MF1_12270,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20210413,-
+803,56533609,MF1_RS06205,MF1_RS06205,MF1_12280,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210413,-
+803,56533610,cobS,MF1_RS06210,MF1_12290,-,-,-,cobaltochelatase subunit CobS,protein-coding,-,-,-,cobaltochelatase subunit CobS,20210413,-
+803,56533611,cobT,MF1_RS06215,MF1_12300,-,-,-,cobaltochelatase subunit CobT,protein-coding,-,-,-,cobaltochelatase subunit CobT,20210413,-
+803,56533612,rpmB,MF1_RS06225,MF1_12310,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210413,-
+803,56533613,MF1_RS06230,MF1_RS06230,MF1_12320,-,-,-,SURF1 family protein,protein-coding,-,-,-,SURF1 family protein,20210413,-
+803,56533614,purH,MF1_RS06235,MF1_12330,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20210413,-
+803,56533615,MF1_RS06240,MF1_RS06240,MF1_12340,-,-,-,heparinase II/III family protein,protein-coding,-,-,-,heparinase II/III family protein,20210413,-
+803,56533616,MF1_RS06245,MF1_RS06245,MF1_12350,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,20210424,-
+803,56533617,htpX,MF1_RS06250,MF1_12360,-,-,-,zinc metalloprotease HtpX,protein-coding,-,-,-,zinc metalloprotease HtpX,20210413,-
+803,56533618,MF1_RS06255,MF1_RS06255,MF1_12370,-,-,-,DUF1674 domain-containing protein,protein-coding,-,-,-,DUF1674 domain-containing protein,20210413,-
+803,56533619,rpsP,MF1_RS06260,MF1_12380,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210413,-
+803,56533620,MF1_RS06265,MF1_RS06265,MF1_12390,-,-,-,chorismate mutase,protein-coding,-,-,-,chorismate mutase,20210413,-
+803,56533621,ffh,MF1_RS06270,MF1_12400,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210413,-
+803,56533622,MF1_RS06275,MF1_RS06275,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533623,MF1_RS06280,MF1_RS06280,MF1_12420,-,-,-,NAD-glutamate dehydrogenase,protein-coding,-,-,-,NAD-glutamate dehydrogenase,20210413,-
+803,56533624,MF1_RS06285,MF1_RS06285,MF1_12430,-,-,-,DUF2125 domain-containing protein,protein-coding,-,-,-,DUF2125 domain-containing protein,20210522,-
+803,56533625,MF1_RS06290,MF1_RS06290,MF1_12440,-,-,-,glutamine amidotransferase,protein-coding,-,-,-,glutamine amidotransferase,20210413,-
+803,56533626,MF1_RS06295,MF1_RS06295,MF1_12450,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210413,-
+803,56533627,MF1_RS06300,MF1_RS06300,MF1_12460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533628,tsaD,MF1_RS06305,MF1_12470,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210413,-
+803,56533629,MF1_RS06310,MF1_RS06310,MF1_12480,-,-,-,EVE domain-containing protein,protein-coding,-,-,-,EVE domain-containing protein,20210413,-
+803,56533630,MF1_RS06315,MF1_RS06315,MF1_12490,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210413,-
+803,56533631,MF1_RS06320,MF1_RS06320,MF1_12500,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210413,-
+803,56533632,MF1_RS06325,MF1_RS06325,MF1_12510,-,-,-,TIGR02302 family protein,protein-coding,-,-,-,TIGR02302 family protein,20210413,-
+803,56533633,lysA,MF1_RS06330,MF1_12520,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,diaminopimelate decarboxylase,20210413,-
+803,56533634,MF1_RS06335,MF1_RS06335,MF1_12530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533635,argH,MF1_RS06340,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533636,MF1_RS06345,MF1_RS06345,MF1_12580,-,-,-,TlpA family protein disulfide reductase,protein-coding,-,-,-,TlpA family protein disulfide reductase,20210413,-
+803,56533637,MF1_RS06350,MF1_RS06350,MF1_12590,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210413,-
+803,56533638,MF1_RS06355,MF1_RS06355,MF1_12600,-,-,-,prephenate/arogenate dehydrogenase family protein,protein-coding,-,-,-,prephenate/arogenate dehydrogenase family protein,20210413,-
+803,56533639,MF1_RS06360,MF1_RS06360,MF1_12610,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20210413,-
+803,56533640,MF1_RS06365,MF1_RS06365,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533641,MF1_RS06370,MF1_RS06370,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533642,MF1_RS06375,MF1_RS06375,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533643,MF1_RS06380,MF1_RS06380,MF1_t00420,-,-,-,tRNA,tRNA,-,-,-,-,20210413,-
+803,56533644,thiD,MF1_RS06385,MF1_12660,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,protein-coding,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,20210413,-
+803,56533645,MF1_RS06390,MF1_RS06390,MF1_12670,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210413,-
+803,56533646,MF1_RS06395,MF1_RS06395,MF1_12680,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210413,-
+803,56533647,MF1_RS06400,MF1_RS06400,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533648,MF1_RS06405,MF1_RS06405,MF1_12700,-,-,-,"murein L,D-transpeptidase",protein-coding,-,-,-,"murein L,D-transpeptidase",20210413,-
+803,56533649,MF1_RS06410,MF1_RS06410,MF1_12710,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20210413,-
+803,56533650,MF1_RS06415,MF1_RS06415,MF1_12720,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20210413,-
+803,56533651,MF1_RS06420,MF1_RS06420,MF1_12730,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20210413,-
+803,56533652,aroB,MF1_RS06425,MF1_12740,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20210413,-
+803,56533653,MF1_RS06430,MF1_RS06430,MF1_12750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533654,MF1_RS06435,MF1_RS06435,MF1_12760,-,-,-,MliC family protein,protein-coding,-,-,-,MliC family protein,20210413,-
+803,56533655,MF1_RS06440,MF1_RS06440,MF1_12770,-,-,-,MliC family protein,protein-coding,-,-,-,MliC family protein,20210413,-
+803,56533656,MF1_RS06445,MF1_RS06445,MF1_12780,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210413,-
+803,56533657,MF1_RS06450,MF1_RS06450,MF1_12790,-,-,-,K+/H+ antiporter subunit F,protein-coding,-,-,-,K+/H+ antiporter subunit F,20210413,-
+803,56533658,MF1_RS06455,MF1_RS06455,MF1_12800,-,-,-,Na+/H+ antiporter subunit E,protein-coding,-,-,-,Na+/H+ antiporter subunit E,20210413,-
+803,56533659,MF1_RS06460,MF1_RS06460,MF1_12810,-,-,-,monovalent cation/H+ antiporter subunit D,protein-coding,-,-,-,monovalent cation/H+ antiporter subunit D,20210413,-
+803,56533660,MF1_RS06465,MF1_RS06465,MF1_12820,-,-,-,Na+/H+ antiporter subunit C,protein-coding,-,-,-,Na+/H+ antiporter subunit C,20210413,-
+803,56533661,MF1_RS06470,MF1_RS06470,MF1_12830,-,-,-,monovalent cation/H+ antiporter subunit A,protein-coding,-,-,-,monovalent cation/H+ antiporter subunit A,20210413,-
+803,56533662,MF1_RS06475,MF1_RS06475,MF1_12840,-,-,-,BA14K family protein,protein-coding,-,-,-,BA14K family protein,20210413,-
+803,56533663,nspC,MF1_RS06480,MF1_12850,-,-,-,carboxynorspermidine decarboxylase,protein-coding,-,-,-,carboxynorspermidine decarboxylase,20210413,-
+803,56533664,MF1_RS06485,MF1_RS06485,MF1_12860,-,-,-,saccharopine dehydrogenase family protein,protein-coding,-,-,-,saccharopine dehydrogenase family protein,20210413,-
+803,56533665,MF1_RS06490,MF1_RS06490,MF1_12870,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210413,-
+803,56533666,odhB,MF1_RS06495,MF1_12880,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,20210413,-
+803,56533667,MF1_RS06500,MF1_RS06500,MF1_12890,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20210413,-
+803,56533668,sucD,MF1_RS06505,MF1_12900,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20210413,-
+803,56533669,sucC,MF1_RS06510,MF1_12910,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20210413,-
+803,56533670,mdh,MF1_RS06515,MF1_12920,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20210413,-
+803,56533671,MF1_RS06520,MF1_RS06520,MF1_12930,-,-,-,cell division protein ZapE,protein-coding,-,-,-,cell division protein ZapE,20210413,-
+803,56533672,MF1_RS06525,MF1_RS06525,MF1_12940,-,-,-,AprI/Inh family metalloprotease inhibitor,protein-coding,-,-,-,AprI/Inh family metalloprotease inhibitor,20210413,-
+803,56533673,MF1_RS06530,MF1_RS06530,MF1_12950,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20210413,-
+803,56533674,mtaB,MF1_RS06535,MF1_12960,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20210413,-
+803,56533675,ftsY,MF1_RS06540,MF1_12970,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210413,-
+803,56533676,MF1_RS06545,MF1_RS06545,MF1_12980,-,-,-,septation protein A,protein-coding,-,-,-,septation protein A,20210413,-
+803,56533677,gloB,MF1_RS06550,MF1_12990,-,-,-,hydroxyacylglutathione hydrolase,protein-coding,-,-,-,hydroxyacylglutathione hydrolase,20210413,-
+803,56533678,MF1_RS06555,MF1_RS06555,MF1_13000,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210413,-
+803,56533679,MF1_RS06560,MF1_RS06560,MF1_13010,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210413,-
+803,56533680,rsmG,MF1_RS06565,MF1_13020,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210413,-
+803,56533681,mnmG,MF1_RS06570,MF1_13030,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210413,-
+803,56533682,mnmE,MF1_RS06575,MF1_13040,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210413,-
+803,56533683,rho,MF1_RS06580,MF1_13050,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210413,-
+803,56533687,MF1_RS06600,MF1_RS06600,MF1_02680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533688,MF1_RS06605,MF1_RS06605,MF1_07440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533689,MF1_RS06610,MF1_RS06610,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533690,MF1_RS06615,MF1_RS06615,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533691,MF1_RS06620,MF1_RS06620,MF1_01710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533692,MF1_RS06625,MF1_RS06625,MF1_02980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533693,MF1_RS06630,MF1_RS06630,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533694,MF1_RS06635,MF1_RS06635,MF1_03370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533696,MF1_RS06645,MF1_RS06645,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,56533697,MF1_RS06650,MF1_RS06650,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,56533698,MF1_RS06655,MF1_RS06655,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,60529212,MF1_RS06660,MF1_RS06660,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,60529213,MF1_RS06665,MF1_RS06665,MF1_07450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,60529214,MF1_RS06670,MF1_RS06670,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20210605,-
+803,60529215,MF1_RS06675,MF1_RS06675,-,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210605,-
+803,60529216,MF1_RS06680,MF1_RS06680,-,-,-,-,pseudo,pseudo,-,-,-,-,20210413,-
+803,63640736,MF1_RS06685,MF1_RS06685,MF1_09000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-
+803,63640737,MF1_RS06690,MF1_RS06690,MF1_10970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210413,-

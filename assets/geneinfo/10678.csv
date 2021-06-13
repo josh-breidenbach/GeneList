@@ -1,0 +1,119 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+10678,2777379,pmgQ,P1_gp091,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgQ,20201220,-
+10678,2777380,mat,P1_gp006,-,-,-,-,"maturation control, corresponds to former gene 1",protein-coding,-,-,-,Mat,20201220,-
+10678,2777381,pro,P1_gp013,-,-,-,-,head processing; former name: gene 4,protein-coding,-,-,-,head processing protein,20210212,-
+10678,2777382,lydD,P1_gp014,-,-,-,-,"lysis determinant, putative holin",protein-coding,-,-,-,LydD,20201220,-
+10678,2777383,kilA,P1_gp049,-,-,-,-,expression can kill host,protein-coding,-,-,-,antirepressor KilAC domain-containing protein,20201220,-
+10678,2777384,pmgG,P1_gp055,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgG,20200629,-
+10678,2777385,21,P1_gp056,-,-,-,-,baseplate or tail tube,protein-coding,-,-,-,gp21,20201220,-
+10678,2777386,22,P1_gp057,-,-,-,-,sheath,protein-coding,-,-,-,gp22,20201220,-
+10678,2777387,23,P1_gp058,-,-,-,-,head morphogenesis,protein-coding,-,-,-,gp23,20201220,-
+10678,2777388,cin,P1_gp029,-,-,-,-,"site-specific recombinase, DNA invertase",protein-coding,-,-,-,recombinase family protein,20210212,-
+10678,2777389,tciB,P1_gp075,-,-,-,-,"tellurite or colicin resistance or inhibition of cell division accessory function, by homology",protein-coding,-,-,-,DUF3927 family protein,20201220,-
+10678,2777390,tciC,P1_gp076,-,-,-,-,tellurite or colicin resistance or inhibition of cell division accessory protein,protein-coding,-,-,-,TciC,20200908,-
+10678,2777391,trnA,P1_gt070,-,-,-,-,tRNA-Asn,tRNA,-,-,-,-,20200908,-
+10678,2777392,trnT,P1_gt071,-,-,-,-,tRNA-Thr,tRNA,-,-,-,-,20200908,-
+10678,2777393,plp,P1_gp072,-,-,-,-,"putative lipoprotein, by homology",protein-coding,-,-,-,Plp,20200629,-
+10678,2777394,upl,P1_gp073,-,-,-,-,gene upstream of plp,protein-coding,-,-,-,Upl,20200908,-
+10678,2777395,repL,P1_gp050,-,-,-,-,lytic replication,protein-coding,-,-,-,RepL,20201220,-
+10678,2777396,upfC,P1_gp066,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfC,20200908,-
+10678,2777397,upfA,P1_gp062,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfA,20200908,-
+10678,2777398,mlp,P1_gp063,-,-,-,-,membrane lipoprotein precursor,protein-coding,-,-,-,Mlp,20200629,-
+10678,2777399,ppfA,P1_gp064,-,-,-,-,possible periplasmic function,protein-coding,-,-,-,PpfA,20201220,-
+10678,2777400,upfB,P1_gp065,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfB,20200629,-
+10678,2777401,uhr,P1_gp067,-,-,-,-,gene upstream of hrdC,protein-coding,-,-,-,Uhr,20201220,-
+10678,2777402,hrdC,P1_gp068,-,-,-,-,homolog of rdgC,protein-coding,-,-,-,recombination-associated protein RdgC,20201220,-
+10678,2777403,dmt,P1_gp069,-,-,-,-,DNA methylation,protein-coding,-,-,-,Dam family site-specific DNA-(adenine-N6)-methyltransferase,20201220,-
+10678,2777404,R,P1_gp033,-,-,-,-,tail fiber structure or assembly,protein-coding,-,-,-,gpR,20201220,-
+10678,2777405,16,P1_gp034,-,-,-,-,baseplate or tail tube,protein-coding,-,-,-,gp16,20201220,-
+10678,2777406,bplA,P1_gp035,-,-,-,-,baseplate structure; may correspond to gene 3,protein-coding,-,-,-,bleomycin hydrolase,20210212,-
+10678,2777407,pmgA,P1_gp036,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgA,20201220,-
+10678,2777408,sit,P1_gp037,-,-,-,-,structural injection transglycosylase; by homology,protein-coding,-,-,-,transglycosylase SLT domain-containing protein,20201220,-
+10678,2777409,ssb,P1_gp016,-,-,-,-,gene for the single-stranded DNA binding protein homolog,protein-coding,-,-,-,single-stranded DNA-binding protein,20201220,-
+10678,2777410,isaA,P1_gp017,-,-,-,-,IS1 insertion-associated gene,protein-coding,-,-,-,IsaA,20201220,-
+10678,2777411,isaB,P1_gp020,-,-,-,-,IS1 insertion-associated gene,protein-coding,-,-,-,IsaB,20201220,-
+10678,2777412,hxr,P1_gp021,-,-,-,-,homolog of xre,protein-coding,-,-,-,Hxr,20201220,-
+10678,2777413,ddrB,P1_gp022,-,-,-,-,gene downstream of darA,protein-coding,-,-,-,DdrB,20210212,-
+10678,2777414,ddrA,P1_gp023,-,-,-,-,gene downstream of darA,protein-coding,-,-,-,DdrA,20200908,-
+10678,2777415,darA,P1_gp024,-,-,-,-,defense against restriction,protein-coding,-,-,-,DarA,20210212,-
+10678,2777416,lydC,P1_gp028,-,-,-,-,lysis determinant,protein-coding,-,-,-,LydC,20210212,-
+10678,2777417,lxc,P1_gp009,-,-,-,-,lowers expression of c1; modulator of C1 action,protein-coding,-,-,-,Lxc,20201220,-
+10678,2777418,ulx,P1_gp010,-,-,-,-,gene upstream of lxc,protein-coding,-,-,-,Ulx,20200629,-
+10678,2777419,U prime,P1_gp030,-,-,-,-,encodes assembly or structural protein gpU prime of tail fibers in C(-) phage,protein-coding,-,-,-,tail fiber assembly protein,20210417,-
+10678,2777420,pmgP,P1_gp089,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,norphogenetic protein,20201220,-
+10678,2777421,ppp,P1_gp090,-,-,-,-,P1 protein phosphatase,protein-coding,-,-,-,Ppp,20201220,-
+10678,2777422,dbn,P1_gp078,-,-,-,-,gene downstream of ban,protein-coding,-,-,-,Dbn,20210417,-
+10678,2777423,5,P1_gp079,-,-,-,-,baseplate,protein-coding,-,-,-,baseplate protein,20210212,-
+10678,2777424,6,P1_gp080,-,-,-,-,tail length,protein-coding,-,-,-,gp6,20200908,-
+10678,2777425,24,P1_gp081,-,-,-,-,baseplate or tail stability,protein-coding,-,-,-,gp24,20201220,-
+10678,2777426,7,P1_gp082,-,-,-,-,tail stability,protein-coding,-,-,-,gp7,20201220,-
+10678,2777427,25,P1_gp083,-,-,-,-,tail stability,protein-coding,-,-,-,gp25,20201220,-
+10678,2777428,26,P1_gp084,-,-,-,-,baseplate,protein-coding,-,-,-,gp26,20201220,-
+10678,2777429,ref,P1_gp005,-,-,-,-,recombination enhancement function,protein-coding,-,-,-,Ref family protein,20210417,-
+10678,2777430,pmgL,P1_gp085,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgL,20201220,-
+10678,2777431,c1.100,P1_gp111,-,-,-,-,phage repressor ts mutant c1.100,protein-coding,-,-,-,C1.100,20200629,-
+10678,2777432,pacB,P1_gp110,-,-,-,-,phage DNA packaging,protein-coding,-,-,-,terminase,20201220,-
+10678,2777433,tciA,P1_gp074,-,-,-,-,"tellurite or colicin resistnce or inhibition of cell division, by homology",protein-coding,-,-,-,tellurite/colicin resistance protein,20201220,-
+10678,2777434,pacA,P1_gp109,-,-,-,-,phage DNA packaging,protein-coding,-,-,-,PacA,20200629,-
+10678,2777435,rlfA,P1_gp051,-,-,-,-,replication linked function,protein-coding,-,-,-,DUF3800 domain-containing protein,20210212,-
+10678,2777436,U,P1_gp031,-,-,-,-,encodes assembly or structural protein gpU of tail fibers in C(+) phage,protein-coding,-,-,-,tail fiber assembly protein,20201220,-
+10678,2777437,S,P1_gp032,-,-,-,-,encodes structural protein of tail fibers gpS in C(+) phage,protein-coding,-,-,-,gpS,20200629,-
+10678,2777438,pmgT,P1_gp095,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgT,20200629,-
+10678,2777439,repA,P1_gp061,-,-,-,-,plasmid replication,protein-coding,-,-,-,RepB family plasmid replication initiator protein,20201220,-
+10678,2777440,upfM,P1_gp098,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfM,20201220,-
+10678,2777441,upfN,P1_gp099,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfN,20201220,-
+10678,2777442,upfO,P1_gp100,-,-,-,-,unknown protein function,protein-coding,-,-,-,UpfO,20200908,-
+10678,2777443,pmgF,P1_gp053,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgF,20201220,-
+10678,2777444,bplB,P1_gp054,-,-,-,-,"baseplate structure, by homology",protein-coding,-,-,-,BplB,20201220,-
+10678,2777445,pmgU,P1_gp096,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgU,20201220,-
+10678,2777446,pmgV,P1_gp097,-,-,-,-,putative moprhogenetic function,protein-coding,-,-,-,PmgV,20201220,-
+10678,2777447,pmgM,P1_gp086,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,VRR-NUC domain-containing protein,20210212,-
+10678,2777448,pmgN,P1_gp087,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgN,20201220,-
+10678,2777449,pmgO,P1_gp088,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgO,20200908,-
+10678,2777450,icd,P1_gp045,-,-,-,-,causes reversible inhibition of cell division,protein-coding,-,-,-,host cell division inhibitor Icd-like protein,20201220,-
+10678,2777451,ant1,P1_gp046,-,-,-,-,antagonism of C1 repression,protein-coding,-,-,-,antirepressor KilAC domain-containing protein,20201220,-
+10678,2777452,ant2,P1_gp047,-,-,-,-,"antagonism of C1 repression, contained within ant1 and translated in the same frame",protein-coding,-,-,-,Ant2,20201220,-
+10678,2777453,ask,P1_gp048,-,-,-,-,-,other,-,-,-,-,20200908,-
+10678,2777454,lyz,P1_gp015,-,-,-,-,"lysozyme, former name: gene 17",protein-coding,-,-,-,lysozyme,20201220,-
+10678,2777455,pmgR,P1_gp092,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgR,20201220,-
+10678,2777456,pmgS,P1_gp093,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgS,20210417,-
+10678,2777457,pap,P1_gp094,-,-,-,-,P1 acid phosphatase,protein-coding,-,-,-,Pap,20201220,-
+10678,2777458,hot,P1_gp101,-,-,-,-,homolog of gene for theta subunit of E. coli DNA polymerase III,protein-coding,-,-,-,Hot,20201220,-
+10678,2777459,lxr,P1_gp102,-,-,-,-,LexA regulated function,protein-coding,-,-,-,Lxr,20201220,-
+10678,2777460,coi,P1_gp112,-,-,-,-,C one inactivation,protein-coding,-,-,-,Coi,20201220,-
+10678,2777461,imcB,P1_gp113,-,-,-,-,immunity C function,protein-coding,-,-,-,ImcB,20201220,-
+10678,2777462,imcA,P1_gp114,-,-,-,-,immunity C function,protein-coding,-,-,-,ImcA,20201220,-
+10678,2777463,insB,P1_gp018,-,-,-,-,IS1 transposition protein InsB,protein-coding,-,-,-,IS1 family transposase,20201220,-
+10678,2777464,insA,P1_gp019,-,-,-,-,IS1 transposition protein,protein-coding,-,-,-,IS1 family transposase,20210212,-
+10678,2777465,lydE,P1_gp115,-,-,-,-,"lysis determinant, putative antiholin",protein-coding,-,-,-,LydE,20201220,-
+10678,2777466,iddB,P1_gp116,-,-,-,-,gene internal to ddrB,protein-coding,-,-,-,IddB,20200908,-
+10678,2777467,trnI,P1_gt117,-,-,-,-,tRNA-Ile,tRNA,-,-,-,-,20200908,-
+10678,2777468,c8,P1_gp004,-,-,-,-,C8,protein-coding,-,-,-,C8,20201220,-
+10678,2777469,hdf,P1_gp025,-,-,-,-,homolog of darA fragment,protein-coding,-,-,-,Hdf,20201220,-
+10678,2777470,lydB,P1_gp026,-,-,-,-,"lysis determinant, prevents premature lysis",protein-coding,-,-,-,LydB,20201220,-
+10678,2777471,lydA,P1_gp027,-,-,-,-,lysis determinant; holin,protein-coding,-,-,-,holin,20210212,-
+10678,2777472,humD,P1_gp103,-,-,-,-,homolog of umuD,protein-coding,-,-,-,HumD,20210212,-
+10678,2777473,phd,P1_gp104,-,-,-,-,prevention of host death by Doc toxicity,protein-coding,-,-,-,type II toxin-antitoxin system Phd/YefM family antitoxin,20210129,-
+10678,2777474,doc,P1_gp105,-,-,-,-,death on curing,protein-coding,-,-,-,type II toxin-antitoxin system death-on-curing family toxin,20201220,-
+10678,2777475,pdcA,P1_gp106,-,-,-,-,post-doc,protein-coding,-,-,-,PdcA,20200908,-
+10678,2777476,rlfB,P1_gp052,-,-,-,-,replication linked function,protein-coding,-,-,-,RlfB,20200629,-
+10678,2777477,cre,P1_gp003,-,-,-,-,cyclization recombinase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210417,-
+10678,2777478,pmgB,P1_gp038,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgB,20200629,-
+10678,2777479,tub,P1_gp039,-,-,-,-,tail tube structure,protein-coding,-,-,-,Tub,20201220,-
+10678,2777480,pmgC,P1_gp040,-,-,-,-,putative morphogenetic function,protein-coding,-,-,-,PmgC,20200908,-
+10678,2777481,darB,P1_gp011,-,-,-,-,defense against restriction,protein-coding,-,-,-,N-6 DNA methylase,20201220,-
+10678,2777482,prt,P1_gp012,-,-,-,-,"portal, putative",protein-coding,-,-,-,Prt,20200629,-
+10678,2777483,pdcB,P1_gp107,-,-,-,-,post-doc,protein-coding,-,-,-,DUF968 domain-containing protein,20201220,-
+10678,2777484,lpa,P1_gp108,-,-,-,-,late promoter activation,protein-coding,-,-,-,late promoter-activating protein,20201220,-
+10678,2777485,cra,P1_gp002,-,-,-,-,cre associated function,protein-coding,-,-,-,Cra,20201220,-
+10678,2777486,ban,P1_gp077,-,-,-,-,dnaB analog and homolog,protein-coding,-,-,-,replicative DNA helicase,20201220,-
+10678,2777487,simB,P1_gp042,-,-,-,-,superimmunity linked function,protein-coding,-,-,-,SimB,20200908,-
+10678,2777488,simA,P1_gp043,-,-,-,-,superimmunity linked function,protein-coding,-,-,-,SimA,20200908,-
+10678,2777489,res,P1_gp007,-,-,-,-,restriction component of host specificity DNA complex (hsdR) in type III restriction-modification enzyme EcoP1,protein-coding,-,-,-,type III restriction-modification system endonuclease,20201220,-
+10678,2777490,mod,P1_gp008,-,-,-,-,mod; N6-adenine methyltransferase gene,other,-,-,-,-,20200908,-
+10678,2777491,simC,P1_gp041,-,-,-,-,superimmunity; confers superimmunity when in high copy number,protein-coding,-,-,-,SimC,20201220,-
+10678,2777492,Sv prime,P1_gp001,-,-,-,-,-,other,-,-,-,-,20200908,-
+10678,2777493,parB,P1_gp059,-,-,-,-,active partitioning of P1 plasmid prophage at cell division,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210212,-
+10678,2777494,parA,P1_gp060,-,-,-,-,active partitioning of P1 plasmid-prophage at cell division,protein-coding,-,-,-,AAA family ATPase,20210417,-
+10678,2777495,c4,P1_gr044,-,-,-,-,c4 RNA,miscRNA,-,-,-,-,20200908,-
+10678,2828451,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Bacteriophage P1; Enterobacteria phage P1; Escherichia phage P1; phage P1).,other,-,-,-,-,20200513,-

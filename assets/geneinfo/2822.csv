@@ -1,0 +1,296 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2822,22834646,rpl16,Palm.palm.mt.03,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20180130,-
+2822,22834647,cox1,Palm.palm.mt.04,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20180130,-
+2822,22834648,cox2,Palm.palm.mt.05,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20180130,-
+2822,22834649,cox3,Palm.palm.mt.06,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20180130,-
+2822,22834650,ymf39,Palm.palm.mt.07,-,-,MT,-,ATP synthase B chain precursor,protein-coding,-,-,-,-,20180130,-
+2822,22834651,trnG,Palm.palm.mt.08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834652,trnR,Palm.palm.mt.13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834653,trnG,Palm.palm.mt.16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834654,sdh3,Palm.palm.mt.18,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20180130,-
+2822,22834655,trnF,Palm.palm.mt.19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834656,trnC,Palm.palm.mt.23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834657,nad3,Palm.palm.mt.26,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20180130,-
+2822,22834658,nad1,Palm.palm.mt.27,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20180130,-
+2822,22834659,nad2,Palm.palm.mt.28,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20180130,-
+2822,22834660,sdhD,Palm.palm.mt.29,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20180130,-
+2822,22834661,nad4,Palm.palm.mt.30,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20180130,-
+2822,22834662,trnI,Palm.palm.mt.31,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834663,atp8,Palm.palm.mt.33,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20180130,-
+2822,22834664,atp6,Palm.palm.mt.34,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20180130,-
+2822,22834665,trnU,Palm.palm.mt.35,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834666,trnV,Palm.palm.mt.38,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834667,trnK,Palm.palm.mt.40,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834668,orf44,Palm.palm.mt.44,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,22834669,trnN,Palm.palm.mt.45,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834670,rrs,Palm.palm.mt.49,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,22834671,trnA,Palm.palm.mt.09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834672,trnQ,Palm.palm.mt.10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834673,trnL,Palm.palm.mt.11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834674,cob,Palm.palm.mt.12,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20180130,-
+2822,22834675,trnL,Palm.palm.mt.14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834676,nad6,Palm.palm.mt.15,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20180130,-
+2822,22834677,sdh2,Palm.palm.mt.17,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20180130,-
+2822,22834678,trnS,Palm.palm.mt.20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834679,trnP,Palm.palm.mt.21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834680,atp9,Palm.palm.mt.22,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20200912,-
+2822,22834681,trnM,Palm.palm.mt.24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834682,rps11,Palm.palm.mt.25,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20180130,-
+2822,22834683,nad5,Palm.palm.mt.32,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20180130,-
+2822,22834684,trnY,Palm.palm.mt.36,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834685,rps12,Palm.palm.mt.37,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20180130,-
+2822,22834686,secY,Palm.palm.mt.39,-,-,MT,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20180130,-
+2822,22834687,trnR,Palm.palm.mt.41,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834688,trnS,Palm.palm.mt.42,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834689,orf43,Palm.palm.mt.43,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,22834690,trnE,Palm.palm.mt.46,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834691,trnM,Palm.palm.mt.47,-,-,MT,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,22834692,rpl20,Palm.palm.mt.48,-,-,MT,-,ribosomal protein L20,protein-coding,-,-,-,-,20180130,-
+2822,22834693,rps3,Palm.palm.mt.02,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20180130,-
+2822,22834694,nad4L,Palm.palm.mt.50,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20200912,-
+2822,22834695,rrl,Palm.palm.mt.01,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070136,BI157_gt001,BI157_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070137,psbK,BI157_gp203,Palma_003,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20190815,-
+2822,29070138,petG,BI157_gp202,Palma_004,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20180130,-
+2822,29070139,rps14,BI157_gp201,Palma_005,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20180130,-
+2822,29070140,psaB,BI157_gp200,Palma_006,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20180130,-
+2822,29070141,psaA,BI157_gp199,Palma_007,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20180130,-
+2822,29070142,accB,BI157_gp198,Palma_008,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20180130,-
+2822,29070143,ycf45,BI157_gp197,Palma_009,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070144,acpP,BI157_gp196,Palma_010,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20180130,-
+2822,29070145,BI157_gt002,BI157_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070146,chlB,BI157_gp194,Palma_012,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,-,20180130,-
+2822,29070147,orf322,BI157_gp193,Palma_013,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070148,acsF,BI157_gp192,Palma_014,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,protein-coding,-,-,-,-,20180130,-
+2822,29070149,petN,BI157_gp191,Palma_015,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20210116,-
+2822,29070150,petM,BI157_gp190,Palma_016,-,-,-,cytochrome B6-f complex subunit,protein-coding,-,-,-,-,20210116,-
+2822,29070151,secG,BI157_gp189,Palma_017,-,-,-,preprotein translocase subunit G,protein-coding,-,-,-,-,20180130,-
+2822,29070152,ycf36,BI157_gp188,Palma_018,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070153,BI157_gt003,BI157_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070154,pbsA,BI157_gp186,Palma_020,-,-,-,heme oxygenase,protein-coding,-,-,-,-,20180130,-
+2822,29070155,rpl35,BI157_gp185,Palma_021,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20180130,-
+2822,29070156,rpl20,BI157_gp184,Palma_022,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20210116,-
+2822,29070157,preA,BI157_gp183,Palma_023,-,-,-,prenyl transferase,protein-coding,-,-,-,-,20180130,-
+2822,29070158,pdhA,BI157_gp182,Palma_024,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070159,pdhB,BI157_gp181,Palma_025,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070160,petA,BI157_gp180,Palma_026,-,-,-,cytochrome f,protein-coding,-,-,-,-,20180130,-
+2822,29070161,tatC,BI157_gp179,Palma_027,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,-,20180130,-
+2822,29070162,apcE,BI157_gp178,Palma_028,-,-,-,phycobilisome core-membrane linker protein,protein-coding,-,-,-,-,20180130,-
+2822,29070163,apcA,BI157_gp177,Palma_029,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070164,apcB,BI157_gp176,Palma_030,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,-,20190601,-
+2822,29070165,atpE,BI157_gp175,Palma_031,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070166,atpB,BI157_gp174,Palma_032,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070167,ycf3,BI157_gp173,Palma_033,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20190815,-
+2822,29070168,infB,BI157_gp172,Palma_034,-,-,-,translation initiation factor 2,protein-coding,-,-,-,-,20180130,-
+2822,29070169,rps18,BI157_gp171,Palma_035,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20180130,-
+2822,29070170,rpl33,BI157_gp170,Palma_036,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20190814,-
+2822,29070171,rps20,BI157_gp169,Palma_037,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20180130,-
+2822,29070172,rpoB,BI157_gp168,Palma_038,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070173,rpoC1,BI157_gp167,Palma_039,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070174,rpoC2,BI157_gp166,Palma_040,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070175,rps2,BI157_gp165,Palma_041,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20190815,-
+2822,29070176,tsf,BI157_gp164,Palma_042,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20180130,-
+2822,29070177,atpI,BI157_gp163,Palma_043,-,-,-,ATP synthase CFO A chain subunit IV,protein-coding,-,-,-,-,20180130,-
+2822,29070178,atpH,BI157_gp162,Palma_044,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",protein-coding,-,-,-,-,20180130,-
+2822,29070179,atpG,BI157_gp161,Palma_045,-,-,-,ATP synthase CFO B' chain subunit II,protein-coding,-,-,-,-,20180130,-
+2822,29070180,atpF,BI157_gp160,Palma_046,-,-,-,ATP synthase CFO B chain subunit I,protein-coding,-,-,-,-,20180130,-
+2822,29070181,atpD,BI157_gp159,Palma_047,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070182,atpA,BI157_gp158,Palma_048,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070183,sufC,BI157_gp157,Palma_049,-,-,-,iron-sulfur cluster formation ABC transporter ATP-binding subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070184,sufB,BI157_gp156,Palma_050,-,-,-,cysteine desulfurase activator complex subunit SufB,protein-coding,-,-,-,-,20180130,-
+2822,29070185,ORF264,BI157_gp155,Palma_051,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070186,BI157_gt004,BI157_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070187,ycf41,BI157_gp153,Palma_053,-,-,-,putative single-stranded DNA binding protein,protein-coding,-,-,-,-,20180130,-
+2822,29070188,psbI,BI157_gp152,Palma_054,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20190815,-
+2822,29070189,cpcS,BI157_gp151,Palma_055,-,-,-,chromophore lyase,protein-coding,-,-,-,-,20180130,-
+2822,29070190,orf621,BI157_gp150,Palma_056,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070191,cemA,BI157_gp149,Palma_057,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20180130,-
+2822,29070192,BI157_gt005,BI157_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070193,BI157_gt006,BI157_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070194,petL,BI157_gp146,Palma_060,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,-,20180130,-
+2822,29070195,psaL,BI157_gp145,Palma_061,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,-,20180130,-
+2822,29070196,BI157_gt007,BI157_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070197,rpl28,BI157_gp143,Palma_063,-,-,-,ribosomal protein L28,protein-coding,-,-,-,-,20180130,-
+2822,29070198,trxA,BI157_gp142,Palma_064,-,-,-,thioredoxin,protein-coding,-,-,-,-,20180130,-
+2822,29070199,rbcL,BI157_gp141,Palma_065,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20180130,-
+2822,29070200,rbcS,BI157_gp140,Palma_066,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20180130,-
+2822,29070201,cfxQ,BI157_gp139,Palma_067,-,-,-,putative rubisco expression protein,protein-coding,-,-,-,-,20190814,-
+2822,29070202,BI157_gt008,BI157_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070203,ilvH,BI157_gp137,Palma_069,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070204,infC,BI157_gp136,Palma_070,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20180130,-
+2822,29070205,rps4,BI157_gp135,Palma_071,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20180130,-
+2822,29070206,ycf80,BI157_gp134,Palma_072,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070207,BI157_gs002,BI157_gs002,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20180130,-
+2822,29070208,ycf20,BI157_gp132,Palma_074,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070209,cpcG,BI157_gp131,Palma_075,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,-,20180130,-
+2822,29070210,nblA,BI157_gp130,Palma_076,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,-,20180130,-
+2822,29070211,cpeB,BI157_gp129,Palma_077,-,-,-,R-phycoerythrin class I beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070212,cpeA,BI157_gp128,Palma_078,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070213,ccsA,BI157_gp127,Palma_079,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20180130,-
+2822,29070214,psaK,BI157_gp126,Palma_080,-,-,-,photosystem I subunit X,protein-coding,-,-,-,-,20180130,-
+2822,29070215,accA,BI157_gp125,Palma_081,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070216,ycf22,BI157_gp124,Palma_082,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070217,ycf23,BI157_gp123,Palma_083,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070218,psaC,BI157_gp122,Palma_084,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20180130,-
+2822,29070219,gltB,BI157_gp121,Palma_085,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,-,20180130,-
+2822,29070220,rpoZ,BI157_gp120,Palma_086,-,-,-,DNA-directed RNA polymerase omega chain,protein-coding,-,-,-,-,20180130,-
+2822,29070221,cpcB,BI157_gp119,Palma_087,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,-,20190525,-
+2822,29070222,cpcA,BI157_gp118,Palma_088,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070223,pgmA,BI157_gp117,Palma_089,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20180130,-
+2822,29070224,ycf21,BI157_gp116,Palma_090,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070225,secA,BI157_gp115,Palma_091,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20180130,-
+2822,29070226,BI157_gt011,BI157_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070227,BI157_gt012,BI157_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070228,grx,BI157_gp112,Palma_094,-,-,-,glutaredoxin,protein-coding,-,-,-,-,20180130,-
+2822,29070229,psb30,BI157_gp111,Palma_095,-,-,-,photosystem II protein psb30,protein-coding,-,-,-,-,20181215,-
+2822,29070230,ftrB,BI157_gp110,Palma_096,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070231,psaI,BI157_gp109,Palma_097,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20190814,-
+2822,29070232,psbJ,BI157_gp108,Palma_098,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20190814,-
+2822,29070233,psbL,BI157_gp107,Palma_099,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20180130,-
+2822,29070234,psbF,BI157_gp106,Palma_100,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,-,20190815,-
+2822,29070235,psbE,BI157_gp105,Palma_101,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,-,20190815,-
+2822,29070236,dfr,BI157_gp104,Palma_102,-,-,-,two component sensor kinase,protein-coding,-,-,-,-,20180130,-
+2822,29070237,ycf63,BI157_gp103,Palma_103,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070238,BI157_gt013,BI157_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070239,psaM,BI157_gp101,Palma_105,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20180130,-
+2822,29070240,BI157_gr006,BI157_gr006,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070241,ycf60,BI157_gp099,Palma_107,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070242,thiG,BI157_gp098,Palma_108,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20180130,-
+2822,29070243,trpG,BI157_gp097,Palma_109,-,-,-,anthranilate synthase component 2,protein-coding,-,-,-,-,20180130,-
+2822,29070244,ccs1,BI157_gp096,Palma_110,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,-,20180130,-
+2822,29070245,dsbD,BI157_gp095,Palma_111,-,-,-,cytochrome c biogenesis protein transmembrane region,protein-coding,-,-,-,-,20180130,-
+2822,29070246,BI157_gt017,BI157_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070247,psbA,BI157_gp093,Palma_113,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20180130,-
+2822,29070248,rne,BI157_gp092,Palma_114,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20180130,-
+2822,29070249,rpl27,BI157_gp091,Palma_115,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20180130,-
+2822,29070250,rpl21,BI157_gp090,Palma_116,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20180130,-
+2822,29070251,ycf56,BI157_gp089,Palma_117,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070252,rpl32,BI157_gp088,Palma_118,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20190814,-
+2822,29070253,psbY,BI157_gp087,Palma_119,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20190814,-
+2822,29070254,rbcR,BI157_gp086,Palma_120,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,-,20180130,-
+2822,29070255,ycf54,BI157_gp085,Palma_121,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070256,ycf55,BI157_gp084,Palma_122,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070257,ycf53,BI157_gp083,Palma_123,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070258,carA,BI157_gp082,Palma_124,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070259,petJ,BI157_gp081,Palma_125,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20180130,-
+2822,29070260,psbV,BI157_gp080,Palma_126,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,-,20180130,-
+2822,29070261,accD,BI157_gp079,Palma_127,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070262,psbX,BI157_gp078,Palma_128,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20180130,-
+2822,29070263,fabH,BI157_gp077,Palma_129,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20180130,-
+2822,29070264,apcD,BI157_gp076,Palma_130,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070265,psaJ,BI157_gp075,Palma_131,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20190815,-
+2822,29070266,psaF,BI157_gp074,Palma_132,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20180130,-
+2822,29070267,ycf52,BI157_gp073,Palma_133,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,-,20180130,-
+2822,29070268,BI157_gt019,BI157_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070269,rpl34,BI157_gp071,Palma_135,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20180130,-
+2822,29070270,ycf46,BI157_gp070,Palma_136,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070271,chlN,BI157_gp069,Palma_137,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,-,20180130,-
+2822,29070272,chlL,BI157_gp068,Palma_138,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,-,20180130,-
+2822,29070273,BI157_gr003,BI157_gr003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070274,psbD,BI157_gp066,Palma_140,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20190815,-
+2822,29070275,psbC,BI157_gp065,Palma_141,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,-,20180130,-
+2822,29070276,upp,BI157_gp064,Palma_142,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,-,20180130,-
+2822,29070277,ycf19,BI157_gp063,Palma_143,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210116,-
+2822,29070278,rps16,BI157_gp062,Palma_144,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20180130,-
+2822,29070279,ycf65,BI157_gp061,Palma_145,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,-,20180130,-
+2822,29070280,ORF160,BI157_gp060,Palma_146,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070281,groEL,BI157_gp059,Palma_147,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20180130,-
+2822,29070282,BI157_gt022,BI157_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070283,BI157_gt023,BI157_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070284,syfB,BI157_gp056,Palma_150,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20180130,-
+2822,29070285,BI157_gs001,BI157_gs001,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20180130,-
+2822,29070286,thiS,BI157_gp054,Palma_152,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,-,20180130,-
+2822,29070287,BI157_gt024,BI157_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070288,ntcA,BI157_gp052,Palma_154,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,-,20180130,-
+2822,29070289,petB,BI157_gp051,Palma_155,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20190815,-
+2822,29070290,petD,BI157_gp050,Palma_156,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20180130,-
+2822,29070291,rpl12,BI157_gp049,Palma_157,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20180130,-
+2822,29070292,rpl1,BI157_gp048,Palma_158,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20180130,-
+2822,29070293,rpl11,BI157_gp047,Palma_159,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20180130,-
+2822,29070294,BI157_gt025,BI157_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070295,BI157_gt026,BI157_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070296,dnaB,BI157_gp044,Palma_162,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070297,BI157_gt027,BI157_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070298,rpl19,BI157_gp042,Palma_164,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20180130,-
+2822,29070299,BI157_gt028,BI157_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070300,ycf33,BI157_gp040,Palma_166,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070301,argB,BI157_gp039,Palma_167,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20180130,-
+2822,29070302,BI157_gt031,BI157_gt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070303,dnaK,BI157_gp001,Palma_001,-,-,-,heat shock protein 70 chaperone,protein-coding,-,-,-,-,20180130,-
+2822,29070304,psaE,BI157_gp037,Palma_169,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,-,20180130,-
+2822,29070305,psbH,BI157_gp036,Palma_170,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20190815,-
+2822,29070306,psbN,BI157_gp035,Palma_171,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20190815,-
+2822,29070307,psbT,BI157_gp034,Palma_172,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20180707,-
+2822,29070308,psbB,BI157_gp033,Palma_173,-,-,-,photosystem II CP47 protein,protein-coding,-,-,-,-,20180130,-
+2822,29070309,ycf38,BI157_gp032,Palma_174,-,-,-,ABC-2 type transporter,protein-coding,-,-,-,-,20180130,-
+2822,29070310,petF,BI157_gp031,Palma_175,-,-,-,ferredoxin,protein-coding,-,-,-,-,20180130,-
+2822,29070311,rps10,BI157_gp030,Palma_176,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20180130,-
+2822,29070312,tufA,BI157_gp029,Palma_177,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20180130,-
+2822,29070313,rps7,BI157_gp028,Palma_178,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20190814,-
+2822,29070314,rps12,BI157_gp027,Palma_179,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20180130,-
+2822,29070315,rpl31,BI157_gp026,Palma_180,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20180130,-
+2822,29070316,rps9,BI157_gp025,Palma_181,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20180130,-
+2822,29070317,rpl13,BI157_gp024,Palma_182,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20180130,-
+2822,29070318,rpoA,BI157_gp023,Palma_183,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070319,rps11,BI157_gp022,Palma_184,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20180130,-
+2822,29070320,rps13,BI157_gp021,Palma_185,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20180130,-
+2822,29070321,rpl36,BI157_gp020,Palma_186,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20190814,-
+2822,29070322,secY,BI157_gp019,Palma_187,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20180130,-
+2822,29070323,rps5,BI157_gp018,Palma_188,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20180130,-
+2822,29070324,rpl18,BI157_gp017,Palma_189,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20180130,-
+2822,29070325,rpl6,BI157_gp016,Palma_190,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20180130,-
+2822,29070326,rps8,BI157_gp015,Palma_191,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20180130,-
+2822,29070327,rpl5,BI157_gp014,Palma_192,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20190815,-
+2822,29070328,rpl24,BI157_gp013,Palma_193,-,-,-,ribosomal protein L24,protein-coding,-,-,-,-,20180130,-
+2822,29070329,rpl14,BI157_gp012,Palma_194,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20190815,-
+2822,29070330,rps17,BI157_gp011,Palma_195,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20180130,-
+2822,29070331,rpl29,BI157_gp010,Palma_196,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20180130,-
+2822,29070332,rpl16,BI157_gp009,Palma_197,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20180130,-
+2822,29070333,rps3,BI157_gp008,Palma_198,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20180130,-
+2822,29070334,rpl22,BI157_gp007,Palma_199,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20190815,-
+2822,29070335,rps19,BI157_gp006,Palma_200,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20180130,-
+2822,29070336,rpl2,BI157_gp005,Palma_201,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20180130,-
+2822,29070337,rpl23,BI157_gp004,Palma_202,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20180130,-
+2822,29070338,rpl4,BI157_gp003,Palma_203,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20180130,-
+2822,29070339,rpl3,BI157_gp002,Palma_204,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20180130,-
+2822,29070340,psbZ,BI157_gp204,Palma_002,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20180130,-
+2822,29070341,psaD,BI157_gp195,Palma_011,-,-,-,photosystem I subunit II,protein-coding,-,-,-,-,20180130,-
+2822,29070342,bas1,BI157_gp187,Palma_019,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,-,20180130,-
+2822,29070343,ycf39,BI157_gp154,Palma_052,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070344,orf402,BI157_gp148,Palma_058,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070345,ycf4,BI157_gp147,Palma_059,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20180130,-
+2822,29070346,ycf65,BI157_gp144,Palma_062,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,-,20180130,-
+2822,29070347,BI157_gt009,BI157_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070348,ycf34,BI157_gp138,Palma_068,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070349,BI157_gt010,BI157_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070350,apcF,BI157_gp133,Palma_073,-,-,-,Allophycocyanin beta 18 subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070351,trpA,BI157_gp114,Palma_092,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070352,tilS,BI157_gp113,Palma_093,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,-,20180130,-
+2822,29070353,BI157_gt014,BI157_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070354,chlI,BI157_gp102,Palma_104,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,-,20180130,-
+2822,29070355,BI157_gt015,BI157_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070356,BI157_gt016,BI157_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070357,BI157_gr005,BI157_gr005,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070358,BI157_gr004,BI157_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070359,rps6,BI157_gp100,Palma_106,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20180130,-
+2822,29070360,BI157_gt018,BI157_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070361,ycf35,BI157_gp094,Palma_112,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070362,ycf37,BI157_gp072,Palma_134,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070363,BI157_gr002,BI157_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070364,BI157_gt020,BI157_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070365,BI157_gt021,BI157_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070366,BI157_gr001,BI157_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20180130,-
+2822,29070367,ycf27,BI157_gp067,Palma_139,-,-,-,regulatory component of sensory transduction system,protein-coding,-,-,-,-,20190815,-
+2822,29070368,hisS,BI157_gp058,Palma_148,-,-,-,histidine tRNA synthetase,protein-coding,-,-,-,-,20180130,-
+2822,29070369,psbW,BI157_gp057,Palma_149,-,-,-,photosystem II protein W,protein-coding,-,-,-,-,20180130,-
+2822,29070370,rps1,BI157_gp055,Palma_151,-,-,-,ribosomal protein S1,protein-coding,-,-,-,-,20180130,-
+2822,29070371,ycf29,BI157_gp053,Palma_153,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+2822,29070372,moeB,BI157_gp046,Palma_160,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,-,20180130,-
+2822,29070373,rpl9,BI157_gp045,Palma_161,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20180130,-
+2822,29070374,clpC,BI157_gp043,Palma_163,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070375,BI157_gt029,BI157_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070376,BI157_gt030,BI157_gt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070377,ilvB,BI157_gp041,Palma_165,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,-,20180130,-
+2822,29070378,BI157_gt032,BI157_gt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070379,BI157_gt033,BI157_gt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20180130,-
+2822,29070380,ftsH,BI157_gp038,Palma_168,-,-,-,cell division protein,protein-coding,-,-,-,-,20180130,-

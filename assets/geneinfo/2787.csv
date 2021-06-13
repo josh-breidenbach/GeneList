@@ -1,0 +1,309 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2787,809753,rnl,PopuoMr32,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,809754,orf544,PopuoMp01,-,-,MT,-,orf544,protein-coding,-,-,-,-,20160730,-
+2787,809755,orf546,PopuoMp02,-,-,MT,-,orf546,protein-coding,-,-,-,-,20160806,-
+2787,809756,sdh2,PopuoMp03,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20160716,-
+2787,809757,trnL(uaa),PopuoMt34,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809758,trnS(gcu),PopuoMt35,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809759,trnL(uag),PopuoMt36,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809760,trnD(guc),PopuoMt37,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809761,trnH(gug),PopuoMt38,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809762,cob,PopuoMp04,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20160730,-
+2787,809763,trnM(cau)f,PopuoMt39,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809764,trnS(uga),PopuoMt40,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809765,trnQ(uug),PopuoMt41,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809768,orf284,PopuoMp07,-,-,MT,-,orf284,protein-coding,-,-,-,-,20160524,-
+2787,809769,orf238,PopuoMp08,-,-,MT,-,orf238,protein-coding,-,-,-,-,20160524,-
+2787,809770,trnW(uca),PopuoMt42,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809771,trnG(ucc),PopuoMt43,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809772,nad6,PopuoMp09,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160910,-
+2787,809773,atp9,PopuoMp10,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20201003,-
+2787,809774,nad3,PopuoMp11,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160917,-
+2787,809775,nad1,PopuoMp12,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160524,-
+2787,809776,nad2,PopuoMp13,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160716,-
+2787,809777,sdh4,PopuoMp14,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20160524,-
+2787,809778,nad4,PopuoMp15,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160716,-
+2787,809779,nad5,PopuoMp16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160924,-
+2787,809780,atp8,PopuoMp17,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160917,-
+2787,809781,atp6,PopuoMp18,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160524,-
+2787,809782,trnI(gau),PopuoMt44,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809783,ymf39,PopuoMp19,orf25 (angiosperm mt),-,MT,-,unidentified protein,protein-coding,-,-,-,-,20160903,-
+2787,809784,cox3,PopuoMp20,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160716,-
+2787,809785,cox2,PopuoMp21,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160813,-
+2787,809786,cox1,PopuoMp22,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160827,-
+2787,809787,trnE(uuc),PopuoMt45,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809788,trnM(cau)e,PopuoMt46,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809789,orf176,PopuoMp23,-,-,MT,-,orf176,protein-coding,-,-,-,-,20160524,-
+2787,809790,trnA(ugc),PopuoMt47,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809791,orf132,PopuoMp24,-,-,MT,-,orf132,protein-coding,-,-,-,-,20160524,-
+2787,809792,trnR(acg),PopuoMt48,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809793,trnV(uac),PopuoMt49,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809794,rps12,PopuoMp25,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160917,-
+2787,809795,trnF(gaa),PopuoMt50,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809796,ymf16,PopuoMp26,mttB|tatC,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20160730,-
+2787,809797,trnK(uuu),PopuoMt51,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809798,trnY(gua),PopuoMt52,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809799,trnR(ucu),PopuoMt53,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809800,rps3,PopuoMp27,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+2787,809801,rpl16,PopuoMp28,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160524,-
+2787,809802,trnC(gca),PopuoMt54,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809803,rps11,PopuoMp29,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160813,-
+2787,809804,sdh3,PopuoMp30,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20160524,-
+2787,809805,trnG(gcc),PopuoMt55,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809806,trnN(guu),PopuoMt56,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809807,trnP(ugg),PopuoMt57,-,-,MT,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809808,rns,PopuoMr33,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,809809,nad4L,PopuoMp31,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160910,-
+2787,809810,chlL,PopuCp002,-,-,-,-,light-independent protochlorophyllide reductase iron-sulfer ATP-binding protein,protein-coding,-,-,-,light-independent protochlorophyllide reductase iron-sulfer ATP-binding protein|photochlorophyllide reductase subunit L,20160730,-
+2787,809811,chlN,PopuCp003,-,-,-,-,light-independent protochlorophyllide reductase subunit N,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit N|photochlorophyllide reductase subunit N,20160917,-
+2787,809812,ycf46,PopuCp004,-,-,-,-,ORF491,protein-coding,-,-,-,ORF491|Ycf46,20160806,-
+2787,809813,rpl34,PopuCp005,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34|ribosomal protein L34,20160524,-
+2787,809814,ycf37,PopuCp006,-,-,-,-,hypothetical chloroplast ORF 37,protein-coding,-,-,-,hypothetical chloroplast ORF 37|ORF37,20160820,-
+2787,809815,trnP,PopuCt217,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809816,ORF174,PopuCp007,-,-,-,-,ORF174,protein-coding,-,-,-,ORF174|hypothetical protein,20160806,-
+2787,809817,psaF,PopuCp008,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20160524,-
+2787,809818,psaJ,PopuCp009,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20160524,-
+2787,809819,apcD,PopuCp010,-,-,-,-,allphycocyanin gamma chain,protein-coding,-,-,-,allphycocyanin gamma chain|allophycocyanin gamma subunit,20160813,-
+2787,809820,fabH,PopuCp011,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20160524,-
+2787,809821,psbX,PopuCp012,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20201003,-
+2787,809822,accD,PopuCp013,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20160524,-
+2787,809823,psbV,PopuCp014,-,-,-,-,oxygen-evolving complex component,protein-coding,-,-,-,oxygen-evolving complex component|photosystem II cytochrome c550,20160524,-
+2787,809824,petJ,PopuCp015,-,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20160524,-
+2787,809825,carA,PopuCp016,-,-,-,-,carbamoyl phosphate synthase small subunit,protein-coding,-,-,-,carbamoyl phosphate synthase small subunit|carbamoyl-phosphate synthase arginine-specific small subunit,20160806,-
+2787,809826,ORF238,PopuCp017,-,-,-,-,ORF238,protein-coding,-,-,-,ORF238|hypothetical protein,20160716,-
+2787,809827,ORF320,PopuCp018,-,-,-,-,ORF320,protein-coding,-,-,-,ORF320|hypothetical protein,20160806,-
+2787,809828,ORF108,PopuCp019,-,-,-,-,ORF108,protein-coding,-,-,-,ORF108|hypothetical protein,20160903,-
+2787,809829,rbcR,PopuCp020,-,-,-,-,hypothetical chloroplast ORF 30,protein-coding,-,-,-,hypothetical chloroplast ORF 30|LysR transcriptional regulator,20160806,-
+2787,809830,ycf32,PopuCp021,-,-,-,-,hypothetical chloroplast ORF 32,protein-coding,-,-,-,hypothetical chloroplast ORF 32|photosystem II protein Y,20160524,-
+2787,809831,rpl32,PopuCp022,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160524,-
+2787,809832,ORF263,PopuCp023,-,-,-,-,ORF263,protein-coding,-,-,-,ORF263|hypothetical protein,20160813,-
+2787,809833,rpl21,PopuCp024,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21|ribosomal protein L21,20160524,-
+2787,809834,rpl27,PopuCp025,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27|ribosomal protein L27,20160524,-
+2787,809835,rne,PopuCp026,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20160917,-
+2787,809836,psbA,PopuCp027,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160806,-
+2787,809837,ycf35,PopuCp028,-,-,-,-,hypothetical chloroplast ORF 35,protein-coding,-,-,-,hypothetical chloroplast ORF 35|Ycf35,20160524,-
+2787,809838,ycf20,PopuCp029,-,-,-,-,hypothetical chloroplast ORF 20,protein-coding,-,-,-,hypothetical chloroplast ORF 20|ORF20,20160806,-
+2787,809839,apcF,PopuCp030,-,-,-,-,allophycocyanin beta 18 chain,protein-coding,-,-,-,allophycocyanin beta 18 chain|allophycocyanin beta 18 subunit,20160806,-
+2787,809840,ORF121,PopuCp031,-,-,-,-,ORF121,protein-coding,-,-,-,ORF121|hypothetical protein,20160806,-
+2787,809841,trnR_1,PopuCt220,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809842,ORF114,PopuCp032,-,-,-,-,ORF114,protein-coding,-,-,-,ORF114|hypothetical protein,20160524,-
+2787,809843,ORF450,PopuCp033,-,-,-,-,ORF450,protein-coding,-,-,-,ORF450|hypothetical protein,20160827,-
+2787,809844,rps4,PopuCp034,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4|ribosomal protein S4,20160910,-
+2787,809845,trnG,PopuCt221,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809846,ycf4,PopuCp035,-,-,-,-,hypothetical chloroplast ORF 4,protein-coding,-,-,-,hypothetical chloroplast ORF 4|photosystem I assembly protein Ycf4,20160806,-
+2787,809847,ycf7,PopuCp036,-,-,-,-,hypothetical chloroplast ORF 7,protein-coding,-,-,-,hypothetical chloroplast ORF 7|ORF7,20120913,-
+2787,809848,psaL,PopuCp037,-,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,-,20160524,-
+2787,809849,trnT,PopuCt222,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809850,ORF58,PopuCp038,-,-,-,-,ORF58,protein-coding,-,-,-,ORF58|hypothetical protein,20160524,-
+2787,809851,rpl28,PopuCp039,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28|ribosomal protein L28,20160524,-
+2787,809852,trxA,PopuCp040,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20160813,-
+2787,809853,rbcL,PopuCp041,-,-,-,-,RuBisCO large subunit,protein-coding,-,-,-,"RuBisCO large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20160524,-
+2787,809854,rbcS,PopuCp042,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160716,-
+2787,809855,cbbX,PopuCp043,-,-,-,-,ORF301,protein-coding,-,-,-,ORF301|CbbX,20160716,-
+2787,809856,trnC,PopuCt223,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809857,ycf34,PopuCp044,-,-,-,-,hypothetical chloroplast ORF 34,protein-coding,-,-,-,hypothetical chloroplast ORF 34|ORF34,20160917,-
+2787,809858,ilvH,PopuCp045,-,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,acetolactate synthase small subunit|acetohydroxyacid synthase small subunit,20160716,-
+2787,809859,infC,PopuCp046,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20160820,-
+2787,809860,trnM,PopuCt225,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809861,cemA,PopuCp047,ycf10,-,-,-,heme-binding protein,protein-coding,-,-,-,heme-binding protein|envelope membrane protein,20160910,-
+2787,809862,ORF62,PopuCp048,-,-,-,-,ORF62,protein-coding,-,-,-,ORF62|hypothetical protein,20160524,-
+2787,809863,ORF621,PopuCp049,-,-,-,-,ORF621,protein-coding,-,-,-,ORF621|hypothetical protein,20160524,-
+2787,809864,ORF149,PopuCp050,-,-,-,-,ORF149,protein-coding,-,-,-,ORF149|hypothetical protein,20160730,-
+2787,809865,psbI,PopuCp051,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160524,-
+2787,809866,ORF111,PopuCp052,-,-,-,-,ORF111,protein-coding,-,-,-,ORF111|hypothetical protein,20160524,-
+2787,809867,ycf39,PopuCp053,-,-,-,-,hypothetical chloroplast ORF 39,protein-coding,-,-,-,hypothetical chloroplast ORF 39|Ycf39,20160730,-
+2787,809868,ORF287,PopuCp054,-,-,-,-,ORF287,protein-coding,-,-,-,ORF287|hypothetical protein,20160524,-
+2787,809869,ycf24,PopuCp055,-,-,-,-,hypothetical chloroplast ORF 24,protein-coding,-,-,-,hypothetical chloroplast ORF 24|putative ABC transporter,20160910,-
+2787,809870,ycf16,PopuCp056,-,-,-,-,hypothetical chloroplast ORF 16,protein-coding,-,-,-,hypothetical chloroplast ORF 16|sulfate ABC transporter protein,20160524,-
+2787,809871,atpA,PopuCp057,-,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,ATP synthase CF1 alpha chain|ATP synthase CF1 alpha subunit,20160813,-
+2787,809872,atpD,PopuCp058,-,-,-,-,ATP synthase CF1 delta chain,protein-coding,-,-,-,ATP synthase CF1 delta chain|ATP synthase CF1 delta subunit,20160524,-
+2787,809873,atpF,PopuCp059,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20160524,-
+2787,809874,atpG,PopuCp060,-,-,-,-,ATP synthase CF0 beta' chain,protein-coding,-,-,-,ATP synthase CF0 beta' chain|ATP synthase CF0 B' subunit,20160716,-
+2787,809875,atpH,PopuCp061,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C subunit,20160524,-
+2787,809876,atpI,PopuCp062,-,-,-,-,ATPase IV subunit,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A subunit,20160524,-
+2787,809877,tsf,PopuCp063,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20160827,-
+2787,809878,rps2,PopuCp064,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160827,-
+2787,809879,rpoC2,PopuCp065,-,-,-,-,DNA-directed RNA polymerase beta'' chain,protein-coding,-,-,-,DNA-directed RNA polymerase beta'' chain|RNA polymerase beta'' subunit,20160730,-
+2787,809880,rpoC1,PopuCp066,-,-,-,-,DNA-directed RNA polymerase beta' chain,protein-coding,-,-,-,DNA-directed RNA polymerase beta' chain|RNA polymerase beta' subunit,20160917,-
+2787,809881,rpoB,PopuCp067,-,-,-,-,RNA polymerase beta chain,protein-coding,-,-,-,RNA polymerase beta chain|RNA polymerase beta subunit,20160813,-
+2787,809882,rps20,PopuCp068,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20|ribosomal protein S20,20160524,-
+2787,809883,glnB,PopuCp069,-,-,-,-,nitrogen regulatory protein PII,protein-coding,-,-,-,-,20160716,-
+2787,809884,rpl33,PopuCp070,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160524,-
+2787,809885,rps18,PopuCp071,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18|ribosomal protein S18,20160524,-
+2787,809886,infB,PopuCp072,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,-,20160806,-
+2787,809887,ycf3,PopuCp073,-,-,-,-,hypothetical chloroplast ORF 3,protein-coding,-,-,-,hypothetical chloroplast ORF 3|photosystem I assembly protein Ycf3,20160827,-
+2787,809888,atpB,PopuCp074,-,-,-,-,ATPase beta chain,protein-coding,-,-,-,ATPase beta chain|ATP synthase CF1 beta subunit,20160806,-
+2787,809889,atpE,PopuCp075,-,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain|ATP synthase CF1 epsilon subunit,20160524,-
+2787,809890,apcB,PopuCp076,-,-,-,-,allphycocyanin beta chain,protein-coding,-,-,-,allphycocyanin beta chain|allophycocyanin beta subunit,20160730,-
+2787,809891,apcA,PopuCp077,-,-,-,-,allophycocyanin alpha chain,protein-coding,-,-,-,allophycocyanin alpha chain|allophycocyanin alpha subunit,20160716,-
+2787,809892,apcE,PopuCp078,-,-,-,-,phycobillisome linker protein,protein-coding,-,-,-,-,20160813,-
+2787,809893,tatC,PopuCp079,-,-,-,-,ORF254,protein-coding,-,-,-,ORF254|Sec-independent translocase component C,20160524,-
+2787,809894,petA,PopuCp080,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor|cytochrome f,20160827,-
+2787,809895,odpB,PopuCp081,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20160806,-
+2787,809896,odpA,PopuCp082,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20160716,-
+2787,809897,preA,PopuCp083,-,-,-,-,prenyl transferase,protein-coding,-,-,-,-,20160813,-
+2787,809898,rpl20,PopuCp084,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20|ribosomal protein L20,20160806,-
+2787,809899,rpl35,PopuCp085,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35|ribosomal protein L35,20160524,-
+2787,809900,pbsA,PopuCp086,-,-,-,-,heme oxygenase,protein-coding,-,-,-,-,20160716,-
+2787,809901,ORF199,PopuCp087,-,-,-,-,ORF199,protein-coding,-,-,-,ORF199|hypothetical protein,20160524,-
+2787,809902,trnfM,PopuCt227,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809903,ycf36,PopuCp088,-,-,-,-,hypothetical chloroplast ORF 36,protein-coding,-,-,-,hypothetical chloroplast ORF 36|ORF36,20160716,-
+2787,809904,ORF71,PopuCp089,-,-,-,-,ORF71,protein-coding,-,-,-,ORF71|hypothetical protein,20160716,-
+2787,809905,ycf31,PopuCp090,-,-,-,-,hypothetical chloroplast ORF 31,protein-coding,-,-,-,hypothetical chloroplast ORF 31|ORF31,20160924,-
+2787,809906,petN,PopuCp091,ycf6,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,cytochrome b6/f complex subunit 8|cytochrome b6/f complex subunit VIII,20210212,-
+2787,809907,ycf59,PopuCp092,-,-,-,-,ORF349,protein-coding,-,-,-,ORF349|magnesium-protoporphyrin IX monomethyl ester cyclase,20160910,-
+2787,809908,chlB,PopuCp093,-,-,-,-,light-independent protochlorophyllide reductase subunit B,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit B|photochlorophyllide reductase subunit B,20160806,-
+2787,809909,psaD,PopuCp094,-,-,-,-,photosystem I subunit II,protein-coding,-,-,-,-,20160730,-
+2787,809910,trnS,PopuCt228,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809911,acpP,PopuCp095,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20160524,-
+2787,809912,accB,PopuCp098,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20160716,-
+2787,809913,psaA,PopuCp099,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1|photosystem I P700 chlorophyll a apoprotein A1,20160524,-
+2787,809914,psaB,PopuCp100,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2|photosystem I P700 chlorophyll a apoprotein A2,20160524,-
+2787,809915,rps10,PopuCp101,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10|ribosomal protein S10,20160524,-
+2787,809916,tufA,PopuCp102,-,-,-,-,elongation factor 1-alpha,protein-coding,-,-,-,elongation factor 1-alpha|elongation factor Tu,20160730,-
+2787,809917,rps7,PopuCp103,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160917,-
+2787,809918,rps12,PopuCp104,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160806,-
+2787,809919,rpl31,PopuCp105,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31|ribosomal protein L31,20160524,-
+2787,809920,rps9,PopuCp106,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9|ribosomal protein S9,20160524,-
+2787,809921,rpl13,PopuCp107,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20160730,-
+2787,809922,rpoA,PopuCp108,-,-,-,-,DNA-directed RNA polymerase alpha chain,protein-coding,-,-,-,DNA-directed RNA polymerase alpha chain|RNA polymerase alpha subunit,20160813,-
+2787,809923,rps11,PopuCp109,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11|ribosomal protein S11,20160524,-
+2787,809924,rps13,PopuCp110,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13|ribosomal protein S13,20160917,-
+2787,809925,rpl36,PopuCp111,secX,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36|ribosomal protein L36,20160524,-
+2787,809926,secY,PopuCp112,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20160917,-
+2787,809927,rps5,PopuCp113,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5|ribosomal protein S5,20160806,-
+2787,809928,rpl18,PopuCp114,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18|ribosomal protein L18,20160827,-
+2787,809929,rpl6,PopuCp115,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6|ribosomal protein L6,20160924,-
+2787,809930,rps8,PopuCp116,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8|ribosomal protein S8,20160524,-
+2787,809931,rpl5,PopuCp117,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5|ribosomal protein L5,20160813,-
+2787,809932,rpl24,PopuCp118,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24|ribosomal protein L24,20160716,-
+2787,809933,rpl14,PopuCp119,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14|ribosomal protein L14,20160524,-
+2787,809934,rps17,PopuCp120,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17|ribosomal protein S17,20160524,-
+2787,809935,rpl29,PopuCp121,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20160827,-
+2787,809936,rpl16,PopuCp122,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160730,-
+2787,809937,rps3,PopuCp123,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3|ribosomal protein S3,20160716,-
+2787,809938,rpl22,PopuCp124,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160806,-
+2787,809939,rps19,PopuCp125,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20160524,-
+2787,809940,rpl2,PopuCp126,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20160813,-
+2787,809941,rpl23,PopuCp127,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20140927,-
+2787,809942,rpl4,PopuCp128,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4|ribosomal protein L4,20160524,-
+2787,809943,rpl3,PopuCp129,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3|ribosomal protein L3,20160524,-
+2787,809944,dnaK,PopuCp130,-,-,-,-,DnaK,protein-coding,-,-,-,DnaK|heat shock protein 70,20160524,-
+2787,809945,psbZ,PopuCp131,-,-,-,-,hypothetical chloroplast ORF 9,protein-coding,-,-,-,hypothetical chloroplast ORF 9|photosystem II protein Z,20160524,-
+2787,809946,psbK,PopuCp132,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein|photosystem II protein K,20160524,-
+2787,809947,petG,PopuCp133,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20170906,-
+2787,809948,rps14,PopuCp134,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14|ribosomal protein S14,20160524,-
+2787,809949,petF,PopuCp135,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160716,-
+2787,809950,ycf38,PopuCp136,-,-,-,-,hypothetical chloroplast ORF 38,protein-coding,-,-,-,hypothetical chloroplast ORF 38|ORF38,20160924,-
+2787,809951,psbB,PopuCp137,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein|photosystem II 47 kDa protein,20160524,-
+2787,809952,psbT,PopuCp138,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160524,-
+2787,809953,psbN,PopuCp139,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160730,-
+2787,809954,psbH,PopuCp140,-,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H|photosystem II protein H,20201003,-
+2787,809955,psaE,PopuCp141,-,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,-,20160524,-
+2787,809956,ftsH,PopuCp142,-,-,-,-,hypothetical chloroplast ORF 25,protein-coding,-,-,-,hypothetical chloroplast ORF 25|cell division protein,20160827,-
+2787,809957,trnD,PopuCt231,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809958,trnA_1,PopuCt233,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809959,trnI_1,PopuCt234,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809960,argB,PopuCp143,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20160910,-
+2787,809961,ycf33,PopuCp144,-,-,-,-,hypothetical chloroplast ORF 33,protein-coding,-,-,-,hypothetical chloroplast ORF 33|ORF33,20160903,-
+2787,809962,ilvB,PopuCp145,-,-,-,-,acetolactatate synthetase large subunit,protein-coding,-,-,-,acetolactatate synthetase large subunit|acetohydroxyacid synthase large subunit,20160806,-
+2787,809963,trnY,PopuCt236,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809964,trnV,PopuCt237,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809965,rpl19,PopuCp146,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20160524,-
+2787,809966,clpC,PopuCp147,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20160910,-
+2787,809967,trnF,PopuCt238,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809968,dnaB,PopuCp148,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20160730,-
+2787,809969,rpl9,PopuCp149,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20160806,-
+2787,809970,ORF382,PopuCp150,-,-,-,-,ORF382,protein-coding,-,-,-,ORF382|molybdopterin biosynthesis protein,20160524,-
+2787,809971,ORF75,PopuCp151,-,-,-,-,ORF75,protein-coding,-,-,-,ORF75|hypothetical protein,20160716,-
+2787,809972,trnW,PopuCt240,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809973,rpl11,PopuCp152,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11|ribosomal protein L11,20160524,-
+2787,809974,rpl1,PopuCp153,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1|ribosomal protein L1,20160910,-
+2787,809975,rpl12,PopuCp154,-,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12|ribosomal protein L12,20160730,-
+2787,809976,petD,PopuCp155,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4|cytochrome b6/f complex subunit IV,20160806,-
+2787,809977,petB,PopuCp156,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+2787,809978,ycf28,PopuCp157,-,-,-,-,hypothetical chloroplast ORF 28,protein-coding,-,-,-,hypothetical chloroplast ORF 28|ORF28,20160716,-
+2787,809979,ycf29,PopuCp158,-,-,-,-,hypothetical chloroplast ORF 29,protein-coding,-,-,-,hypothetical chloroplast ORF 29|ORF29,20160910,-
+2787,809980,trnH,PopuCt241,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809981,rps1,PopuCp160,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,-,20160917,-
+2787,809982,psbW,PopuCp162,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,-,20160524,-
+2787,809983,trnQ,PopuCt243,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,809984,syh,PopuCp163,-,-,-,-,histidine-tRNA synthetase,protein-coding,-,-,-,-,20160524,-
+2787,809985,groEL,PopuCp164,-,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,60 kDa chaperonin|chaperonin GroEL,20160813,-
+2787,809986,ORF148,PopuCp165,-,-,-,-,ORF148,protein-coding,-,-,-,ORF148|hypothetical protein,20160524,-
+2787,809987,ycf65,PopuCp166,-,-,-,-,ORF99,protein-coding,-,-,-,ORF99|putative ribosomal protein 3,20160524,-
+2787,809988,rps16,PopuCp167,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160524,-
+2787,809989,ycf19,PopuCp168,-,-,-,-,hypothetical chloroplast ORF 19,protein-coding,-,-,-,hypothetical chloroplast ORF 19|ORF19,20210212,-
+2787,809990,ORF198,PopuCp169,-,-,-,-,ORF198,protein-coding,-,-,-,ORF198|hypothetical protein,20160716,-
+2787,809991,ycf17,PopuCp170,-,-,-,-,hypothetical chloroplast ORF 17,protein-coding,-,-,-,hypothetical chloroplast ORF 17|ORF17,20160524,-
+2787,809992,psbC,PopuCp171,-,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,PSII 43 kDa protein|photosystem II 44 kDa protein,20140927,-
+2787,809993,psbD,PopuCp172,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160903,-
+2787,809994,orf27,PopuCp173,-,-,-,-,hypothetical chloroplast ORF 27,protein-coding,-,-,-,hypothetical chloroplast ORF 27|Ycf27,20160716,-
+2787,809995,rrsA,PopuCr211,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,809996,rrlA,PopuCr212,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,809997,rrfA,PopuCr213,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,809998,rps6,PopuCp174,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6|ribosomal protein S6,20160524,-
+2787,809999,ORF203,PopuCp175,-,-,-,-,ORF203,protein-coding,-,-,-,ORF203|hypothetical protein,20160730,-
+2787,810000,thiG,PopuCp176,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20160716,-
+2787,810001,trpG,PopuCp177,-,-,-,-,anthranilate synthase component II,protein-coding,-,-,-,anthranilate synthase component II|anthranilate synthase component 2,20160924,-
+2787,810002,ccs1,PopuCp178,-,-,-,-,ORF437,protein-coding,-,-,-,ORF437|c-type cytochrome biogenensis protein,20160524,-
+2787,810003,ORF240,PopuCp179,-,-,-,-,ORF240,protein-coding,-,-,-,ORF240|hypothetical protein,20160813,-
+2787,810004,trnN,PopuCt247,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810005,cpcG,PopuCp180,-,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,-,20160917,-
+2787,810006,ycf18,PopuCp181,-,-,-,-,hypothetical chloroplast ORF 18,protein-coding,-,-,-,hypothetical chloroplast ORF 18|ORF18,20160730,-
+2787,810007,cpeB,PopuCp182,-,-,-,-,phycoerythrin beta chain,protein-coding,-,-,-,phycoerythrin beta chain|phycoerythrin beta subunit,20160917,-
+2787,810008,cpeA,PopuCp183,-,-,-,-,phycoerythrin alpha chain,protein-coding,-,-,-,phycoerythrin alpha chain|phycoerythrin alpha subunit,20201003,-
+2787,810009,ccsA,PopuCp184,ycf5,-,-,-,hypothetical chloroplast ORF 5,protein-coding,-,-,-,hypothetical chloroplast ORF 5|cytochrome c biogenesis protein,20160524,-
+2787,810010,psaK,PopuCp185,-,-,-,-,photosystem I subunit X,protein-coding,-,-,-,-,20160524,-
+2787,810011,accA,PopuCp186,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,protein-coding,-,-,-,-,20160524,-
+2787,810012,ycf22,PopuCp187,-,-,-,-,hypothetical chloroplast ORF 22,protein-coding,-,-,-,hypothetical chloroplast ORF 22|ORF22,20160903,-
+2787,810013,ycf23,PopuCp188,-,-,-,-,hypothetical chloroplast ORF 23,protein-coding,-,-,-,hypothetical chloroplast ORF 23|ORF23,20160524,-
+2787,810014,psaC,PopuCp189,-,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center|photosystem I subunit VII,20170906,-
+2787,810015,gltB,PopuCp190,-,-,-,-,glutamate synthase,protein-coding,-,-,-,-,20160716,-
+2787,810016,cpcB,PopuCp192,-,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,-,20160806,-
+2787,810017,cpcA,PopuCp193,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20160716,-
+2787,810018,pgmA,PopuCp194,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20160917,-
+2787,810019,ycf21,PopuCp195,-,-,-,-,hypothetical chloroplast ORF 21,protein-coding,-,-,-,hypothetical chloroplast ORF 21|Ycf21,20160827,-
+2787,810020,secA,PopuCp196,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20160827,-
+2787,810021,trnE,PopuCt248,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810022,trpA,PopuCp197,-,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,-,20160806,-
+2787,810023,trnK,PopuCt249,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810024,ORF327,PopuCp198,-,-,-,-,ORF327,protein-coding,-,-,-,ORF327|hypothetical protein,20160917,-
+2787,810025,ORF107,PopuCp199,-,-,-,-,ORF107,protein-coding,-,-,-,ORF107|hypothetical protein,20160524,-
+2787,810026,ycf12,PopuCp200,-,-,-,-,hypothetical chloroplast ORF 12,protein-coding,-,-,-,hypothetical chloroplast ORF 12|Ycf12,20160524,-
+2787,810027,ftrB,PopuCp201,-,-,-,-,ferredoxin thioreductase subunit beta,protein-coding,-,-,-,-,20160524,-
+2787,810028,psaI,PopuCp202,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20160524,-
+2787,810029,psbJ,PopuCp203,-,-,-,-,photosystem II reaction center subunit X,protein-coding,-,-,-,photosystem II reaction center subunit X|photosystem II protein J,20160524,-
+2787,810030,psbL,PopuCp204,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20160524,-
+2787,810031,psbF,PopuCp205,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20160524,-
+2787,810032,psbE,PopuCp206,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20170906,-
+2787,810033,ycf26,PopuCp207,-,-,-,-,hypothetical chloroplast ORF 26,protein-coding,-,-,-,hypothetical chloroplast ORF 26|ORF26,20160716,-
+2787,810034,chlI,PopuCp209,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,-,20160524,-
+2787,810035,psaM,PopuCp210,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20160806,-
+2787,810036,rrsB,PopuCr214,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,810037,rrlB,PopuCr215,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,810038,rrfB,PopuCr216,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120825,-
+2787,810039,trnR_4,PopuCt251,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810040,trnG-2,PopuCt229,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810041,trnT-2,PopuCt235,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810042,trnS-2,PopuCt239,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810043,trnA_3,PopuCt253,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810044,trnI_3,PopuCt252,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810045,syfB,PopuCp161,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20160917,-
+2787,810046,trnR_2,PopuCt242,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810047,trnR_3,PopuCt244,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810048,trnA_2,PopuCt246,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,810049,trnI_2,PopuCt245,-,-,-,-,tRNA,tRNA,-,-,-,-,20120825,-
+2787,1457253,PopuC001,PopuC001,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20120825,-
+2787,1457254,PopuCt232,PopuCt232,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457255,PopuCt230,PopuCt230,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457256,PopuCt226,PopuCt226,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457257,PopuCt224,PopuCt224,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457258,PopuCt219,PopuCt219,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457259,PopuCt218,PopuCt218,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457260,PopuCt250,PopuCt250,-,-,-,-,tRNA,tRNA,-,-,-,-,20091204,-
+2787,1457261,PopuCp096,PopuCp096,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160730,-
+2787,1457262,PopuCp097,PopuCp097,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160813,-
+2787,1457263,PopuCp159,PopuCp159,-,-,-,-,ORF71,protein-coding,-,-,-,ORF71|hypothetical protein,20160524,-
+2787,1457264,ycf61,PopuCp191,-,-,-,-,ORF75,protein-coding,-,-,-,ORF75|DNA-directed RNA polymerase subunit omega,20160524,-
+2787,1457265,PopuCp208,PopuCp208,-,-,-,-,ORF263,protein-coding,-,-,-,ORF263|hypothetical protein,20160917,-
