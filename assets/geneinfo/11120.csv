@@ -1,0 +1,14 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+11120,1489740,1ab,IBVgp1,-,-,-,-,ORF1a polyprotein;ORF1ab polyprotein,protein-coding,-,-,-,ORF1a polyprotein;ORF1ab polyprotein|frameshift product,20201003,-
+11120,1489741,2,IBVgp2,-,-,-,-,spike protein,protein-coding,-,-,-,spike protein,20200516,-
+11120,1489742,3,IBVgp3,-,-,-,-,3a protein;3b protein;small virion-associated protein,protein-coding,-,-,-,3a protein;3b protein;small virion-associated protein,20200516,-
+11120,1489743,M,IBVgp4,-,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200516,-
+11120,1489744,5,IBVgp5,-,-,-,-,5a protein;5b protein,protein-coding,-,-,-,5a protein;5b protein,20200516,-
+11120,1489745,N,IBVgp6,-,-,-,-,nucleocapsid protein,protein-coding,-,-,-,nucleocapsid protein,20200516,-
+11120,2828633,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Avian infectious bronchitis virus; avian infectious bronchitis coronavirus IBV; avian infectious bronchitis virus IBV; avian infectious bronchitis virus, IBV; infectious bronchitis virus IBV).",other,-,-,-,-,20201003,-
+11120,55060239,6,HO266_gp6,IBVgp6,-,-,-,nucleocapsid protein,protein-coding,-,-,-,nucleocapsid protein,20210123,-
+11120,55060240,5,HO266_gp5,IBVgp5,-,-,-,5a protein;5b protein,protein-coding,-,-,-,5a protein;5b protein,20210123,-
+11120,55060241,3,HO266_gp3,IBVgp3,-,-,-,3a protein;3b protein;3c protein,protein-coding,-,-,-,3a protein;3b protein;3c protein,20210123,-
+11120,55060242,S,HO266_gp2,IBVgp2,-,-,-,spike glycoprotein,protein-coding,-,-,-,spike glycoprotein,20210123,-
+11120,55060243,4,HO266_gp4,IBVgp4,-,-,-,membrane glycoprotein,protein-coding,-,-,-,membrane glycoprotein,20210123,-
+11120,55060244,HO266_gp1,HO266_gp1,IBVgp1,-,-,-,ORF 1a polyprotein;ORF1ab polyprotein,protein-coding,-,-,-,ORF 1a polyprotein;ORF1ab polyprotein,20210123,-

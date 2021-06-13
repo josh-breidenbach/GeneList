@@ -1,0 +1,198 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+13805,19907267,trnK (UUU),SppaM_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907268,cox1,SppaM_p01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160903,-
+13805,19907269,atp4,SppaM_p02,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,-,20160903,-
+13805,19907270,atp8,SppaM_p03,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20160903,-
+13805,19907271,rps1,SppaM_p04,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,-,20160903,-
+13805,19907272,trnC (GCA),SppaM_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907273,trnF (GAA),SppaM_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907274,rps2,SppaM_p05,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20150626,-
+13805,19907275,ccmB,SppaM_p06,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,-,20160903,-
+13805,19907276,ccmC,SppaM_p07,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,-,20150711,-
+13805,19907277,ccmFN,SppaM_p08,-,-,MT,-,cytochrome c biogenesis factor N,protein-coding,-,-,-,-,20160903,-
+13805,19907278,ccmFC,SppaM_p09,-,-,MT,-,cytochrome c biogenesis factor C,protein-coding,-,-,-,-,20160903,-
+13805,19907279,trnQ (UUG),SppaM_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907280,trnL (UAG),SppaM_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907281,trnS (UGA),SppaM_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907282,trnG (UCC),SppaM_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907283,rps4,SppaM_p10,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20160520,-
+13805,19907284,tatC,SppaM_p11,-,-,MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,-,20160903,-
+13805,19907285,trnR (UCU),SppaM_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907286,trnY (GUA),SppaM_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907287,nad4L,SppaM_p12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160520,-
+13805,19907288,sdh4,SppaM_p13,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+13805,19907289,sdh3,SppaM_p14,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,-,20160520,-
+13805,19907290,trnP (UGG),SppaM_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907291,rrn18,SppaM_r01,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+13805,19907292,trnM (CAU),SppaM_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907293,rrn5,SppaM_r02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+13805,19907294,trnMf (CAU),SppaM_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907295,rrn26,SppaM_r03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+13805,19907296,rpl10,SppaM_p15,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,-,20150626,-
+13805,19907297,trnH (GUG),SppaM_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907298,trnL (CAA),SppaM_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907299,trnL (UAA),SppaM_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907300,nad5,SppaM_p16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160903,-
+13805,19907301,nad4,SppaM_p17,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+13805,19907302,nad2,SppaM_p18,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160903,-
+13805,19907303,trnG (GCC),SppaM_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907304,trnR (ACG),SppaM_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907305,trnE (UUC),SppaM_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907306,rps12,SppaM_p19,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+13805,19907307,rps7,SppaM_p20,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160520,-
+13805,19907308,atp6,SppaM_p21,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160903,-
+13805,19907309,nad6,SppaM_p22,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160903,-
+13805,19907310,cox2,SppaM_p23,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160903,-
+13805,19907311,cox3,SppaM_p24,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160903,-
+13805,19907312,nad1,SppaM_p25,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160520,-
+13805,19907313,cob,SppaM_p26,-,-,MT,-,cytochrome b,protein-coding,-,-,-,-,20160520,-
+13805,19907314,nad9,SppaM_p27,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20160520,-
+13805,19907315,atp1,SppaM_p28,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,-,20160903,-
+13805,19907316,trnW (CCA),SppaM_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907317,nad3,SppaM_p29,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160903,-
+13805,19907318,trnV (UAC),SppaM_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907319,trnD (GUC),SppaM_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907320,trnA (UGC),SppaM_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907321,trnT (GGU),SppaM_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907322,nad7,SppaM_p30,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20160520,-
+13805,19907323,trnI (CAU),SppaM_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+13805,19907324,rpL2,SppaM_p31,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160903,-
+13805,19907325,rps19,SppaM_p32,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160903,-
+13805,19907326,rps3,SppaM_p33,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160903,-
+13805,19907327,rpL16,SppaM_p34,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160903,-
+13805,19907328,rpL5,SppaM_p35,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160903,-
+13805,19907329,rps14,SppaM_p36,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160903,-
+13805,19907330,rpL6,SppaM_p37,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160903,-
+13805,19907331,rps13,SppaM_p38,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160903,-
+13805,19907332,rps11,SppaM_p39,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160903,-
+13805,19907333,atp9,SppaM_p40,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20181110,-
+13805,27907926,rpl23,A8M30_gp085,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20161005,-
+13805,27907927,rpl2,A8M30_gp084,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20161005,-
+13805,27907928,rps19,A8M30_gp083,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20161005,-
+13805,27907929,rpl22,A8M30_gp082,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20161005,-
+13805,27907930,rps3,A8M30_gp081,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20161005,-
+13805,27907931,rpl16,A8M30_gp080,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20161005,-
+13805,27907932,rpl14,A8M30_gp079,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20161005,-
+13805,27907933,rps8,A8M30_gp078,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20161005,-
+13805,27907934,infA,A8M30_gp077,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20161005,-
+13805,27907935,rpl36,A8M30_gp076,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20161005,-
+13805,27907936,rps11,A8M30_gp075,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20161005,-
+13805,27907937,rpoA,A8M30_gp074,-,-,-,-,alpha subunit of RNA polymerase,protein-coding,-,-,-,-,20161005,-
+13805,27907938,petD,A8M30_gp073,-,-,-,-,subunit IV of cytochrome b6/f complex,protein-coding,-,-,-,-,20161005,-
+13805,27907939,petB,A8M30_gp072,-,-,-,-,apocytochrome b6 of cytochrome b6/f complex,protein-coding,-,-,-,-,20161005,-
+13805,27907940,psbH,A8M30_gp071,-,-,-,-,10 kDa phosphoprotein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907941,psbN,A8M30_gp070,-,-,-,-,N protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907942,psbT,A8M30_gp069,-,-,-,-,T protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907943,psbB,A8M30_gp068,-,-,-,-,CP47 chlorophyll apoprotein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907944,clpP,A8M30_gp067,-,-,-,-,proteolytic subunit 2 of clp protease,protein-coding,-,-,-,-,20161005,-
+13805,27907945,rpl20,A8M30_gp066,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20161005,-
+13805,27907946,rps18,A8M30_gp065,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20161005,-
+13805,27907947,rpl33,A8M30_gp064,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20161005,-
+13805,27907948,psaJ,A8M30_gp063,-,-,-,-,subunit IX of photosystem I,protein-coding,-,-,-,-,20161005,-
+13805,27907949,trnP-UGG,A8M30_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907950,trnW-CCA,A8M30_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907951,petG,A8M30_gp062,-,-,-,-,subunit V of cytochrome b6/f complex,protein-coding,-,-,-,-,20161005,-
+13805,27907952,petL,A8M30_gp061,-,-,-,-,subunit VI of cytochrome b6/f complex,protein-coding,-,-,-,-,20161005,-
+13805,27907953,tufA,A8M30_gp060,-,-,-,-,translational elongation factor Tu,protein-coding,-,-,-,-,20161005,-
+13805,27907954,psbE,A8M30_gp059,-,-,-,-,cytochrome b559 alpha subunit of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907955,psbF,A8M30_gp058,-,-,-,-,cytochrome b559 beta subunit of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907956,psbL,A8M30_gp057,-,-,-,-,L protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907957,psbJ,A8M30_gp056,-,-,-,-,J protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907958,petA,A8M30_gp055,-,-,-,-,apocytochrome f of cytochrome b6/f complex,protein-coding,-,-,-,-,20161005,-
+13805,27907959,cemA,A8M30_gp054,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20161005,-
+13805,27907960,ycf4,A8M30_gp053,-,-,-,-,hypothetical protein RF4,protein-coding,-,-,-,-,20161005,-
+13805,27907961,psaI,A8M30_gp052,-,-,-,-,subunit VIII of photosystem I,protein-coding,-,-,-,-,20161005,-
+13805,27907962,accD,A8M30_gp051,-,-,-,-,beta subunit of acetyl-CoA carboxylase carboxytransferase,protein-coding,-,-,-,-,20161005,-
+13805,27907963,trnR-CCG,A8M30_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907964,rbcL,A8M30_gp050,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20161005,-
+13805,27907965,atpB,A8M30_gp049,-,-,-,-,CF1 beta subunit of ATP synthase,protein-coding,-,-,-,-,20161005,-
+13805,27907966,atpE,A8M30_gp048,-,-,-,-,CF1 epsilon subunit of ATP synthase,protein-coding,-,-,-,-,20161005,-
+13805,27907967,trnM-CAU,A8M30_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907968,trnV-UAC,A8M30_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907969,ndhC,A8M30_gp047,-,-,-,-,subunit 3 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27907970,ndhK,A8M30_gp046,-,-,-,-,27 kDa subunit of NADH-ubiquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27907971,ndhJ,A8M30_gp045,-,-,-,-,30 kDa subunit of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27907972,trnF-GAA,A8M30_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907973,trnL-UAA,A8M30_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907974,trnT-UGU,A8M30_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907975,rps4,A8M30_gp044,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20161005,-
+13805,27907976,trnS-GGA,A8M30_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907977,ycf3,A8M30_gp043,-,-,-,-,hypothetical protein RF3,protein-coding,-,-,-,-,20161005,-
+13805,27907978,psaA,A8M30_gp042,-,-,-,-,P700 apoprotein A1 of photosystem I,protein-coding,-,-,-,-,20161005,-
+13805,27907979,psaB,A8M30_gp041,-,-,-,-,P700 apoprotein A2 of photosystem I,protein-coding,-,-,-,-,20161005,-
+13805,27907980,rps14,A8M30_gp040,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20161005,-
+13805,27907981,trnfM-CAU,A8M30_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907982,trnG-GCC,A8M30_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907983,psbZ,A8M30_gp039,-,-,-,-,Z protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907984,trnS-UGA,A8M30_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907985,psbC,A8M30_gp038,-,-,-,-,CP43 chlorophyll apoprotein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907986,psbD,A8M30_gp037,-,-,-,-,D2 reaction center protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907987,trnT-GGU,A8M30_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907988,trnE-UUC,A8M30_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907989,trnY-GUA,A8M30_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907990,trnD-GUC,A8M30_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907991,ycf2,A8M30_gp036,-,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,-,20161005,-
+13805,27907992,trnH-GUG,A8M30_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907993,psbA,A8M30_gp035,-,-,-,-,D1 reaction center protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907994,trnK-UUU,A8M30_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907995,matK,A8M30_gp034,-,-,-,-,putative maturase,protein-coding,-,-,-,-,20161005,-
+13805,27907996,chlB,A8M30_gp033,-,-,-,-,ChlB subunit of protochlorophyllide reductase,protein-coding,-,-,-,-,20161005,-
+13805,27907997,trnQ-UUG,A8M30_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27907998,psbK,A8M30_gp032,-,-,-,-,K protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27907999,psbI,A8M30_gp031,-,-,-,-,I protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27908000,trnS-GCU,A8M30_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908001,psaM,A8M30_gp030,-,-,-,-,M polypeptide of photosystem I,protein-coding,-,-,-,-,20161005,-
+13805,27908002,ycf12,A8M30_gp029,-,-,-,-,hypothetical protein RF12,protein-coding,-,-,-,-,20161005,-
+13805,27908003,trnG-UCC,A8M30_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908004,trnR-UCU,A8M30_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908005,atpA,A8M30_gp028,-,-,-,-,CF1 alpha subunit of ATP synthase,protein-coding,-,-,-,-,20161005,-
+13805,27908006,atpF,A8M30_gp027,-,-,-,-,CF0 subunit I of ATP synthase,protein-coding,-,-,-,-,20161005,-
+13805,27908007,atpH,A8M30_gp026,-,-,-,-,CF0 subunit III of ATP synthase,protein-coding,-,-,-,-,20180403,-
+13805,27908008,atpI,A8M30_gp025,-,-,-,-,CF0 subunit IV of ATP synthase,protein-coding,-,-,-,-,20161005,-
+13805,27908009,rps2,A8M30_gp024,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20161005,-
+13805,27908010,rpoC2,A8M30_gp023,-,-,-,-,beta'' subunit of RNA polymerase,protein-coding,-,-,-,-,20161005,-
+13805,27908011,rpoC1,A8M30_gp022,-,-,-,-,beta' subunit of RNA polymerase,protein-coding,-,-,-,-,20161005,-
+13805,27908012,rpoB,A8M30_gp021,-,-,-,-,beta subunit of RNA polymerase,protein-coding,-,-,-,-,20161005,-
+13805,27908013,trnC-GCA,A8M30_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908014,ycf66,A8M30_gp020,-,-,-,-,hypothetical protein RF66,protein-coding,-,-,-,-,20161005,-
+13805,27908015,psbM,A8M30_gp019,-,-,-,-,M protein of photosystem II,protein-coding,-,-,-,-,20161005,-
+13805,27908016,trnL-CAA,A8M30_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908017,ndhB,A8M30_gp018,-,-,-,-,subunit 2 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908018,rps7,A8M30_gp017,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20161005,-
+13805,27908019,trnV-GAC,A8M30_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908020,rrn16,A8M30_gr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908021,trnI-GAU,A8M30_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908022,trnA-UGC,A8M30_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908023,rrn23,A8M30_gr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908024,rrn4.5,A8M30_gr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908025,rrn5,A8M30_gr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908026,trnR-ACG,A8M30_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908027,trnN-GUU,A8M30_gt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908028,chlL,A8M30_gp016,-,-,-,-,ATP-binding subunit of protochlorophyllide reductase,protein-coding,-,-,-,-,20161005,-
+13805,27908029,chlN,A8M30_gp015,-,-,-,-,ChlN subunit of protochlorophyllide reductase,protein-coding,-,-,-,-,20161005,-
+13805,27908030,ycf1,A8M30_gp014,-,-,-,-,hypothetical protein RF1,protein-coding,-,-,-,-,20161005,-
+13805,27908031,rps15,A8M30_gp013,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20161005,-
+13805,27908032,ndhH,A8M30_gp012,-,-,-,-,49 kDa subunit of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908033,ndhA,A8M30_gp011,-,-,-,-,subunit 1 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908034,ndhI,A8M30_gp010,-,-,-,-,18 kDa subunit of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908035,ndhG,A8M30_gp009,-,-,-,-,subunit 6 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908036,ndhE,A8M30_gp008,-,-,-,-,subunit 4L of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908037,psaC,A8M30_gp007,-,-,-,-,subunit VII of photosystem I (Fe-S polypeptide),protein-coding,-,-,-,-,20161005,-
+13805,27908038,ndhD,A8M30_gp006,-,-,-,-,subunit 4 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908039,ccsA,A8M30_gp005,-,-,-,-,protein involved in cytochrome c biogenesis,protein-coding,-,-,-,-,20161005,-
+13805,27908040,trnL-UAG,A8M30_gt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908041,cysT,A8M30_gp004,-,-,-,-,pseudo,pseudo,-,-,-,-,20160520,-
+13805,27908042,trnP-GGG,A8M30_gt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908043,rpl32,A8M30_gp003,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20161005,-
+13805,27908044,rpl21,A8M30_gp002,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20161005,-
+13805,27908045,ndhF,A8M30_gp001,-,-,-,-,subunit 5 of NADH-plastoquinone oxidoreductase,protein-coding,-,-,-,-,20161005,-
+13805,27908046,trnN-GUU,A8M30_gt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908047,trnR-ACG,A8M30_gt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908048,rrn5,A8M30_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908049,rrn4.5,A8M30_gr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908050,rrn23,A8M30_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908051,trnA-UGC,A8M30_gt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908052,trnI-GAU,A8M30_gt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908053,rrn16,A8M30_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160520,-
+13805,27908054,trnV-GAC,A8M30_gt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-
+13805,27908055,trnM-CAU,A8M30_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20160520,-

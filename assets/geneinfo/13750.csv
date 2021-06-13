@@ -1,0 +1,204 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+13750,14049410,matK,F713_p002,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160820,-
+13750,14049411,atpB,F713_p003,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049412,ycf3,F713_p004,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20160820,-
+13750,14049413,trnS-GGA,F713_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049414,rps4,F713_p103,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20210123,-
+13750,14049415,trnT-UGU,F713_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049416,trnL-UAA,F713_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049417,trnF-GAA,F713_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049418,ndhJ,F713_p102,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+13750,14049419,ndhK,F713_p101,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049420,ndhC,F713_p100,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+13750,14049421,trnV-UAC,F713_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049422,rbcL,F713_p099,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20150626,-
+13750,14049423,atpB,F713_p098,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160820,-
+13750,14049424,atpE,F713_p097,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20210116,-
+13750,14049425,trnM-CAU,F713_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049426,psaI,F713_p096,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+13750,14049427,ycf4,F713_p095,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+13750,14049428,cemA,F713_p094,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20150626,-
+13750,14049429,petA,F713_p093,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20160820,-
+13750,14049430,ndhI,F713_p092,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049431,ndhI,F713_p091,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049432,trnE-UUC,F713_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049433,trnY-GUA,F713_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049434,trnD-GUC,F713_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049435,psbM,F713_p090,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190815,-
+13750,14049436,petN,F713_p089,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+13750,14049437,trnC-GCA,F713_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049438,rps12,F713_p088,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049439,rps18,F713_p087,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+13750,14049440,rpl33,F713_p086,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+13750,14049441,psaJ,F713_p085,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+13750,14049442,trnP-UGG,F713_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049443,trnP-GGG,F713_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049444,trnW-CCA,F713_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049445,petG,F713_p084,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210123,-
+13750,14049446,petL,F713_p083,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+13750,14049447,psbE,F713_p082,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170906,-
+13750,14049448,psbF,F713_p081,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+13750,14049449,psbL,F713_p080,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+13750,14049450,psbJ,F713_p079,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+13750,14049451,psbB,F713_p078,-,-,-,-,no product string in file,protein-coding,-,-,-,-,20150626,-
+13750,14049452,psbT,F713_p077,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+13750,14049453,psbN,F713_p076,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+13750,14049454,psbH,F713_p075,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150626,-
+13750,14049455,petB,F713_p074,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170906,-
+13750,14049456,petD,F713_p073,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160820,-
+13750,14049457,accD,F713_p072,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049458,trnT-GGU,F713_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049459,psbD,F713_p071,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160806,-
+13750,14049460,psbC,F713_p070,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+13750,14049461,trnS-UGA,F713_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049462,lhbA,F713_p069,-,-,-,-,no product string in file,protein-coding,-,-,-,-,20150626,-
+13750,14049463,trnG-UCC,F713_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049464,trnfM-CAU,F713_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049465,rps14,F713_p068,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+13750,14049466,psaB,F713_p067,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+13750,14049467,psaA,F713_p066,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+13750,14049468,trnQ-UUG,F713_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049469,psbK,F713_p065,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+13750,14049470,psbI,F713_p064,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170906,-
+13750,14049471,trnS-GCU,F713_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049472,trnR-UCU,F713_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049473,atpA,F713_p063,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160820,-
+13750,14049474,atpF,F713_p062,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049475,atpF,F713_p061,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049476,atpH,F713_p060,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+13750,14049477,trnfM-CAU,F713_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049478,atpI,F713_p059,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+13750,14049479,rps2,F713_p058,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160820,-
+13750,14049480,rpoC2,F713_p057,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160820,-
+13750,14049481,rpoC1,F713_p056,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160820,-
+13750,14049482,rpoB,F713_p055,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20150626,-
+13750,14049483,rpoA,F713_p054,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160820,-
+13750,14049484,rps11,F713_p053,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+13750,14049485,rpl36,F713_p052,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+13750,14049486,infA,F713_p051,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049487,rps8,F713_p050,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+13750,14049488,rpl14,F713_p049,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+13750,14049489,rpl16,F713_p048,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160820,-
+13750,14049490,rps18,F713_p047,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049491,rps18,F713_p046,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049492,rps3,F713_p045,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160820,-
+13750,14049493,rpl22,F713_p044,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160820,-
+13750,14049494,rps19,F713_p043,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+13750,14049495,rpl2,F713_p042,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160820,-
+13750,14049496,rpl23,F713_p041,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+13750,14049497,trnI-CAU,F713_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049498,ycf2,F713_p040,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049499,trnL-CAA,F713_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049500,ndhB,F713_p039,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20160820,-
+13750,14049501,rps7,F713_p038,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160820,-
+13750,14049502,rps12,F713_p037,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049503,ycf15,F713_p036,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049504,trnV-GAC,F713_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049505,trnH-GUG,F713_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049506,rps16,F713_p035,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049507,rrn16,F713_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049508,trnI-GAU,F713_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049509,ycf68,F713_p034,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049510,ycf68,F713_p033,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049511,trnA-UGC,F713_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049512,rrn23,F713_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049513,rrn4.5,F713_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049514,rrn5,F713_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049515,trnR-ACG,F713_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049516,trnN-GUU,F713_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049517,rpl22,F713_p032,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049518,rps3,F713_p031,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049519,rps15,F713_p030,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160820,-
+13750,14049520,ndhH,F713_p029,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20160325,-
+13750,14049521,ndhA,F713_p028,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+13750,14049522,ndhI,F713_p027,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+13750,14049523,ndhG,F713_p026,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049524,ndhE,F713_p025,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+13750,14049525,psaC,F713_p024,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+13750,14049526,ndhD,F713_p023,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160820,-
+13750,14049527,ccsA,F713_p022,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049528,trnL-UAG,F713_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049529,rpl32,F713_p021,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+13750,14049530,ndhF,F713_p020,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160820,-
+13750,14049531,rpl32,F713_p019,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+13750,14049532,trnL-UAG,F713_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049533,ccsA,F713_p018,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049534,ndhD,F713_p017,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160820,-
+13750,14049535,psaC,F713_p016,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+13750,14049536,ndhE,F713_p015,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+13750,14049537,ndhG,F713_p014,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049538,ndhI,F713_p013,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+13750,14049539,ndhA,F713_p012,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+13750,14049540,ndhH,F713_p011,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20160325,-
+13750,14049541,rps15,F713_p010,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160820,-
+13750,14049542,rps3,F713_p009,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049543,rpl22,F713_p008,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049544,trnN-GUU,F713_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049545,trnR-ACG,F713_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049546,rrn5,F713_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049547,rrn4.5,F713_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049548,rrn23,F713_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049549,trnA-UGC,F713_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049550,trnI-GAU,F713_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049551,ycf68,F713_p007,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049552,ycf68,F713_p006,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049553,rrn16,F713_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,14049554,rps16,F713_p005,-,-,-,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,14049555,trnH-GUG,F713_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,14049556,psbA,F713_p001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160806,-
+13750,18251010,cox1,AT99_p01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160910,-
+13750,18251011,nad9,AT99_p35,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20150626,-
+13750,18251012,ccmFn,AT99_p33,-,-,MT,-,cytochrome c biogenesis FN,protein-coding,-,-,-,-,20160910,-
+13750,18251013,rps13,AT99_p32,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160910,-
+13750,18251014,rps10,AT99_p31,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20160910,-
+13750,18251015,rps19,AT99_p30,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160910,-
+13750,18251016,nad4L,AT99_p29,-,-,MT,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,18251017,atp4,AT99_p28,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,-,20160910,-
+13750,18251018,mttB,AT99_p27,-,-,MT,-,transport membrane protein,protein-coding,-,-,-,-,20160910,-
+13750,18251019,rpl16,AT99_p26,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20200919,-
+13750,18251020,rpl2,AT99_p25,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160910,-
+13750,18251021,rps4,AT99_p24,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20160910,-
+13750,18251022,rpl10,AT99_p23,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,-,20150626,-
+13750,18251023,ccmB,AT99_p22,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,-,20150626,-
+13750,18251024,rps12,AT99_p21,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+13750,18251025,nad3,AT99_p20,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160910,-
+13750,18251026,ccmC,AT99_p19,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,-,20160910,-
+13750,18251027,atp9,AT99_p18,-,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,-,20160910,-
+13750,18251028,cox3,AT99_p16,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160910,-
+13750,18251029,sdh4,AT99_p15,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,-,20150626,-
+13750,18251030,rrn26,AT99_r03,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,18251031,rps14,AT99_p13,-,-,MT,-,pseudo,pseudo,-,-,-,-,20140127,-
+13750,18251032,rps15,AT99_p12,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160910,-
+13750,18251033,ccmFc,AT99_p11,-,-,MT,-,cytochrome c biogenesis FC,protein-coding,-,-,-,-,20160910,-
+13750,18251034,rps1,AT99_p10,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,-,20150626,-
+13750,18251035,cox2,AT99_p08,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160910,-
+13750,18251036,atp1,AT99_p07,-,-,MT,-,ATPase subunit 1,protein-coding,-,-,-,-,20160910,-
+13750,18251037,nad4,AT99_p06,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160910,-
+13750,18251038,nad6,AT99_p05,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160910,-
+13750,18251039,matR,AT99_p04,-,-,MT,-,maturase,protein-coding,-,-,-,-,20150626,-
+13750,18251040,rrn18,AT99_r02,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,18251041,cob,AT99_p14,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20150626,-
+13750,18251042,nad7,AT99_p03,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150718,-
+13750,18251043,atp8,AT99_p17,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20160910,-
+13750,18251044,nad2,AT99_p02,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160910,-
+13750,18251045,nad1,AT99_p09,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160910,-
+13750,18251046,nad5,AT99_p34,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160910,-
+13750,18261687,AT99_t01,AT99_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261688,AT99_t02,AT99_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261689,AT99_t03,AT99_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261690,AT99_t04,AT99_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261691,AT99_t10,AT99_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261692,AT99_t12,AT99_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261693,AT99_t14,AT99_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261694,AT99_t16,AT99_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261695,AT99_t11,AT99_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261696,AT99_r01,AT99_r01,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20140127,-
+13750,18261697,AT99_t07,AT99_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261698,AT99_t05,AT99_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261699,AT99_t06,AT99_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261700,AT99_t08,AT99_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261701,AT99_t09,AT99_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261702,AT99_t13,AT99_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261703,AT99_t15,AT99_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261704,AT99_t17,AT99_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-
+13750,18261705,AT99_t18,AT99_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140127,-

@@ -1,0 +1,195 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+37420,19592315,cox2,GU14_mp01,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20170127,-
+37420,19592318,rpl10,GU14_mp15,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,-,20170127,-
+37420,19592319,rpl2,GU14_mp40,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20170127,-
+37420,19592320,rps3,GU14_mp38,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20170127,-
+37420,19592321,rpl16,GU14_mp37,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20170127,-
+37420,19592322,rpl15,GU14_mp36,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20170127,-
+37420,19592323,rps14,GU14_mp35,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20210406,-
+37420,19592324,rpl6,GU14_mp34,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20210129,-
+37420,19592325,rps13,GU14_mp33,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20170127,-
+37420,19592326,rps11,GU14_mp32,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20170127,-
+37420,19592327,atp9,GU14_mp31,-,-,MT,-,Atp9,protein-coding,-,-,-,-,20170127,-
+37420,19592328,ccmB,GU14_mp24,-,-,MT,-,CcmB,protein-coding,-,-,-,-,20170127,-
+37420,19592329,ccmC,GU14_mp23,-,-,MT,-,CcmC,protein-coding,-,-,-,-,20170127,-
+37420,19592330,tatC,GU14_mp19,-,-,MT,-,tatC,protein-coding,-,-,-,-,20170127,-
+37420,19592331,rps7,GU14_mp09,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20170127,-
+37420,19592332,atp6,GU14_mp08,-,-,MT,-,Atp6,protein-coding,-,-,-,-,20170127,-
+37420,19592333,nad4,GU14_mp12,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170127,-
+37420,19592334,nad1,GU14_mp03,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170127,-
+37420,19592335,cob,GU14_mp04,-,-,MT,-,cytochrome b,protein-coding,-,-,-,-,20170127,-
+37420,19592336,cox1,GU14_mp30,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20170127,-
+37420,19592337,nad2,GU14_mp11,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170127,-
+37420,19592338,nad9,GU14_mp05,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20170127,-
+37420,19592339,ccmFN,GU14_mp22,-,-,MT,-,CcmFN,protein-coding,-,-,-,-,20170127,-
+37420,19592340,ccmFC,GU14_mp21,-,-,MT,-,CcmFC,protein-coding,-,-,-,-,20170127,-
+37420,19592341,nad5,GU14_mp14,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170127,-
+37420,19592342,cox3,GU14_mp02,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20170127,-
+37420,19592343,rps19,GU14_mp39,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20170127,-
+37420,19592344,rps4,GU14_mp20,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20170127,-
+37420,19592345,rps12,GU14_mp10,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20170127,-
+37420,19592346,nad3,GU14_mp41,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170127,-
+37420,19592347,ORF533,GU14_mp13,-,-,MT,-,ORF533,protein-coding,-,-,-,-,20170127,-
+37420,19592348,atp1,GU14_mp06,-,-,MT,-,Atp1,protein-coding,-,-,-,-,20170127,-
+37420,19592349,rps2,GU14_mp25,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20170127,-
+37420,19592350,atp8,GU14_mp27,-,-,MT,-,Atp8,protein-coding,-,-,-,-,20170127,-
+37420,19592351,rps1,GU14_mp26,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,-,20170127,-
+37420,19592352,sdh3,GU14_mp16,-,-,MT,-,Sdh3,protein-coding,-,-,-,-,20170127,-
+37420,19592353,atp4,GU14_mp28,-,-,MT,-,Atp4,protein-coding,-,-,-,-,20170127,-
+37420,19592355,sdh4,GU14_mp17,-,-,MT,-,Sdh4,protein-coding,-,-,-,-,20170127,-
+37420,19592356,nad4L,GU14_mp18,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20200912,-
+37420,19592357,nad6,GU14_mp07,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170127,-
+37420,19592358,ORF622,GU14_mp29,-,-,MT,-,ORF622,protein-coding,-,-,-,-,20170127,-
+37420,19592361,rpl20,GU14_pp063,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170127,-
+37420,19592362,rpl2,GU14_pp081,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170127,-
+37420,19592363,rps19,GU14_pp080,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170127,-
+37420,19592364,rpl22,GU14_pp079,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170127,-
+37420,19592365,rps3,GU14_pp078,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170127,-
+37420,19592366,rpl16,GU14_pp077,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170127,-
+37420,19592367,rpl14,GU14_pp076,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170127,-
+37420,19592368,rps8,GU14_pp075,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170127,-
+37420,19592369,infA,GU14_pp074,-,-,-,-,InfA,protein-coding,-,-,-,-,20170127,-
+37420,19592370,rpl36,GU14_pp073,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170127,-
+37420,19592371,rps11,GU14_pp072,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170127,-
+37420,19592372,petD,GU14_pp071,-,-,-,-,PetD,protein-coding,-,-,-,-,20170127,-
+37420,19592373,psbT,GU14_pp067,-,-,-,-,PsbT,protein-coding,-,-,-,-,20170127,-
+37420,19592374,rps12,GU14_pp064,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170127,-
+37420,19592375,rps18,GU14_pp062,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170127,-
+37420,19592376,psbF,GU14_pp056,-,-,-,-,PsbF,protein-coding,-,-,-,-,20210612,-
+37420,19592377,psbL,GU14_pp055,-,-,-,-,PsbL,protein-coding,-,-,-,-,20170127,-
+37420,19592378,psbJ,GU14_pp054,-,-,-,-,PsbJ,protein-coding,-,-,-,-,20170127,-
+37420,19592379,petA,GU14_pp053,-,-,-,-,PetA,protein-coding,-,-,-,-,20170127,-
+37420,19592380,atpE,GU14_pp046,-,-,-,-,AtpE,protein-coding,-,-,-,-,20170127,-
+37420,19592382,ndhK,GU14_pp044,-,-,-,-,NdhK,protein-coding,-,-,-,-,20170127,-
+37420,19592383,ndhJ,GU14_pp043,-,-,-,-,NdhJ,protein-coding,-,-,-,-,20170127,-
+37420,19592386,psaA,GU14_pp040,-,-,-,-,PsaA,protein-coding,-,-,-,-,20170127,-
+37420,19592387,psaB,GU14_pp039,-,-,-,-,PsaB,protein-coding,-,-,-,-,20170127,-
+37420,19592388,rps14,GU14_pp038,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170127,-
+37420,19592390,psbI,GU14_pp029,-,-,-,-,PsbI,protein-coding,-,-,-,-,20170127,-
+37420,19592393,chlN,GU14_pp013,-,-,-,-,ChlN,protein-coding,-,-,-,-,20170127,-
+37420,19592394,ycf1,GU14_pp012,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20170127,-
+37420,19592395,rps15,GU14_pp011,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170127,-
+37420,19592396,ndhH,GU14_pp010,-,-,-,-,NdhH,protein-coding,-,-,-,-,20170127,-
+37420,19592397,ndhA,GU14_pp009,-,-,-,-,NdhA,protein-coding,-,-,-,-,20170127,-
+37420,19592398,ndhI,GU14_pp008,-,-,-,-,NdhI,protein-coding,-,-,-,-,20170127,-
+37420,19592399,ndhG,GU14_pp007,-,-,-,-,NdhG,protein-coding,-,-,-,-,20170127,-
+37420,19592400,ndhE,GU14_pp006,-,-,-,-,NdhE,protein-coding,-,-,-,-,20170127,-
+37420,19592401,psaC,GU14_pp005,-,-,-,-,PsaC,protein-coding,-,-,-,-,20170908,-
+37420,19592402,ndhD,GU14_pp004,-,-,-,-,NdhD,protein-coding,-,-,-,-,20170127,-
+37420,19592405,petB,GU14_pp070,-,-,-,-,PetB,protein-coding,-,-,-,-,20170127,-
+37420,19592406,psbH,GU14_pp069,-,-,-,-,PsbH,protein-coding,-,-,-,-,20170127,-
+37420,19592407,psbN,GU14_pp068,-,-,-,-,PsbN,protein-coding,-,-,-,-,20170127,-
+37420,19592408,psbB,GU14_pp066,-,-,-,-,PsbB,protein-coding,-,-,-,-,20170127,-
+37420,19592409,clpP,GU14_pp065,-,-,-,-,ClpP,protein-coding,-,-,-,-,20170127,-
+37420,19592410,rpl33,GU14_pp061,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170127,-
+37420,19592411,psaJ,GU14_pp060,-,-,-,-,PsaJ,protein-coding,-,-,-,-,20170127,-
+37420,19592413,petL,GU14_pp058,-,-,-,-,PetL,protein-coding,-,-,-,-,20170127,-
+37420,19592414,psbE,GU14_pp057,-,-,-,-,PsbE,protein-coding,-,-,-,-,20180428,-
+37420,19592415,cemA,GU14_pp052,-,-,-,-,CemA,protein-coding,-,-,-,-,20170127,-
+37420,19592416,ycf4,GU14_pp051,-,-,-,-,Ycf4,protein-coding,-,-,-,-,20170127,-
+37420,19592417,psaI,GU14_pp050,-,-,-,-,PsaI,protein-coding,-,-,-,-,20170127,-
+37420,19592418,accD,GU14_pp049,-,-,-,-,AccD,protein-coding,-,-,-,-,20170127,-
+37420,19592420,atpB,GU14_pp047,-,-,-,-,AtpB,protein-coding,-,-,-,-,20170127,-
+37420,19592422,psbD,GU14_pp035,-,-,-,-,PsbD,protein-coding,-,-,-,-,20170127,-
+37420,19592426,chlB,GU14_pp031,-,-,-,-,ChlB,protein-coding,-,-,-,-,20170127,-
+37420,19592428,ycf12,GU14_pp027,-,-,-,-,Ycf12,protein-coding,-,-,-,-,20170127,-
+37420,19592429,atpF,GU14_pp025,-,-,-,-,AtpF,protein-coding,-,-,-,-,20170127,-
+37420,19592430,atpH,GU14_pp024,-,-,-,-,AtpH,protein-coding,-,-,-,-,20170127,-
+37420,19592431,atpI,GU14_pp023,-,-,-,-,AtpI,protein-coding,-,-,-,-,20170127,-
+37420,19592432,rps2,GU14_pp022,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170127,-
+37420,19592433,rpoC2,GU14_pp021,-,-,-,-,RpoC2,protein-coding,-,-,-,-,20170127,-
+37420,19592434,rpoC1,GU14_pp020,-,-,-,-,RpoC1,protein-coding,-,-,-,-,20170127,-
+37420,19592435,rpoB,GU14_pp019,-,-,-,-,RpoB,protein-coding,-,-,-,-,20170127,-
+37420,19592437,psbM,GU14_pp017,-,-,-,-,PsbM,protein-coding,-,-,-,-,20170127,-
+37420,19592439,rps7,GU14_pp015,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170127,-
+37420,19592441,rpl21,GU14_pp002,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20170127,-
+37420,19592442,ndhF,GU14_pp001,-,-,-,-,NdhF,protein-coding,-,-,-,-,20170127,-
+37420,19592451,rpl23,GU14_pp082,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170127,-
+37420,19592453,petG,GU14_pp059,-,-,-,-,PetG,protein-coding,-,-,-,-,20210212,-
+37420,19592454,rps4,GU14_pp042,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170127,-
+37420,19592456,psbC,GU14_pp036,-,-,-,-,PsbC,protein-coding,-,-,-,-,20170127,-
+37420,19592459,ycf2,GU14_pp034,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170127,-
+37420,19592460,atpA,GU14_pp026,-,-,-,-,AtpA,protein-coding,-,-,-,-,20170127,-
+37420,19592461,ycf66,GU14_pp018,-,-,-,-,Ycf66,protein-coding,-,-,-,-,20170127,-
+37420,19592465,rbcL,GU14_pp048,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170127,-
+37420,19592468,ycf3,GU14_pp041,-,-,-,-,Ycf3,protein-coding,-,-,-,-,20170127,-
+37420,19592469,psbZ,GU14_pp037,-,-,-,-,PsbZ,protein-coding,-,-,-,-,20170127,-
+37420,19592471,psbA,GU14_pp033,-,-,-,-,PsbA,protein-coding,-,-,-,-,20170127,-
+37420,19592472,psbK,GU14_pp030,-,-,-,-,PsbK,protein-coding,-,-,-,-,20170127,-
+37420,19592473,psaM,GU14_pp028,-,-,-,-,PsaM,protein-coding,-,-,-,-,20170127,-
+37420,19592474,ndhB,GU14_pp016,-,-,-,-,NdhB,protein-coding,-,-,-,-,20170127,-
+37420,19592475,chlL,GU14_pp014,-,-,-,-,ChlL,protein-coding,-,-,-,-,20170127,-
+37420,19592476,rpl32,GU14_pp003,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170127,-
+37420,19592478,ndhC,GU14_pp045,-,-,-,-,NdhC,protein-coding,-,-,-,-,20170127,-
+37420,19592483,matK,GU14_pp032,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170127,-
+37420,19592873,GU14_mt03,GU14_mt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592874,GU14_mt04,GU14_mt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592875,GU14_mt05,GU14_mt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592876,GU14_mt07,GU14_mt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592877,GU14_mt09,GU14_mt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592878,GU14_mt11,GU14_mt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592879,GU14_mt12,GU14_mt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592880,GU14_mt13,GU14_mt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592881,GU14_mt15,GU14_mt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592882,rrn18,GU14_mr03,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19592883,rrn5,GU14_mr02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19592884,rrn26,GU14_mr01,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19592885,GU14_mt20,GU14_mt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592886,GU14_mt21,GU14_mt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592887,GU14_mt23,GU14_mt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592888,GU14_mt24,GU14_mt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592889,GU14_mt18,GU14_mt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592890,GU14_mt17,GU14_mt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592891,GU14_mt02,GU14_mt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592892,GU14_mt06,GU14_mt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592893,GU14_mt19,GU14_mt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592894,GU14_mt10,GU14_mt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592895,GU14_mt22,GU14_mt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592896,GU14_mt01,GU14_mt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592897,GU14_mt08,GU14_mt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592898,GU14_mt16,GU14_mt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19592899,GU14_mt14,GU14_mt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621854,trnM-CAU,GU14_pt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621855,trnF-GAA,GU14_pt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621856,trnS-GGA,GU14_pt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621857,trnfM-CAU,GU14_pt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621858,trnS-GCU,GU14_pt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621859,trnG-UCC,GU14_pt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621860,trnL-UAG,GU14_pt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621861,trnN-GUU,GU14_pt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621862,trnP-UGG,GU14_pt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621863,trnR-CCG,GU14_pt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621864,trnS-UGA,GU14_pt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621865,trnT-GGU,GU14_pt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621866,trnH-GUG,GU14_pt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621867,trnK-UUU,GU14_pt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621868,trnQ-UUG,GU14_pt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621869,trnC-GCA,GU14_pt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621870,trnL-CAA,GU14_pt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621871,trnV-GAC,GU14_pt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621872,trnI-GAU,GU14_pt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621873,rrn4.5,GU14_pr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621874,rrn5,GU14_pr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621875,trnR-ACG,GU14_pt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621876,rrn4.5,GU14_pr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621877,rrn23,GU14_pr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621878,trnA-UGC,GU14_pt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621879,trnV-GAC,GU14_pt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621880,trnW-CCA,GU14_pt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621881,trnG-GCC,GU14_pt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621882,trnY-GUA,GU14_pt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621883,trnD-GUC,GU14_pt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621884,rrn16,GU14_pr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621885,trnN-GUU,GU14_pt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621886,trnR-ACG,GU14_pt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621887,trnV-UAC,GU14_pt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621888,trnL-UAA,GU14_pt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621889,trnE-UUC,GU14_pt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621890,rrn5,GU14_pr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621891,trnR-UCU,GU14_pt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621892,trnA-UGC,GU14_pt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621893,rrn23,GU14_pr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621894,trnT-UGU,GU14_pt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621895,trnI-GAU,GU14_pt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+37420,19621896,rrn16,GU14_pr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+37420,19621897,trnI-CAU,GU14_pt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-

@@ -1,0 +1,120 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+39584,19019092,accD,ED55_p002,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20160910,-
+39584,19019093,rpl23,ED55_p003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+39584,19019094,rpl2,ED55_p004,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+39584,19019095,rps19,ED55_p005,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+39584,19019096,rpl22,ED55_p006,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160910,-
+39584,19019097,rps3,ED55_p007,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+39584,19019098,rpl16,ED55_p008,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+39584,19019099,rpl14,ED55_p009,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+39584,19019100,rps8,ED55_p010,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+39584,19019101,infA,ED55_p011,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160910,-
+39584,19019102,rpl36,ED55_p012,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+39584,19019103,rps11,ED55_p013,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+39584,19019104,rpoA,ED55_p014,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160910,-
+39584,19019105,petD,ED55_p015,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160910,-
+39584,19019106,petB,ED55_p016,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+39584,19019107,psbH,ED55_p017,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20150626,-
+39584,19019108,psbN,ED55_p018,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+39584,19019109,psbT,ED55_p019,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+39584,19019110,psbB,ED55_p020,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+39584,19019111,psaI,ED55_p021,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+39584,19019112,ycf4,ED55_p022,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+39584,19019113,cemA,ED55_p023,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20150626,-
+39584,19019114,petA,ED55_p024,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20180317,-
+39584,19019115,psbJ,ED55_p025,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160325,-
+39584,19019116,psbL,ED55_p026,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+39584,19019117,psbF,ED55_p027,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+39584,19019118,psbE,ED55_p028,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170906,-
+39584,19019119,petL,ED55_p029,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160827,-
+39584,19019120,petG,ED55_p030,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210313,-
+39584,19019123,psaJ,ED55_p082,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+39584,19019124,rpl33,ED55_p081,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+39584,19019125,rps18,ED55_p080,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+39584,19019126,rpl20,ED55_p079,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160910,-
+39584,19019127,clpP,ED55_p077,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160910,-
+39584,19019128,rbcL,ED55_p001,-,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20180317,-
+39584,19019129,ccsA,ED55_p076,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20150626,-
+39584,19019130,ycf1,ED55_p075,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160910,-
+39584,19019133,ndhB,ED55_p073,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20180317,-
+39584,19019143,ndhF,ED55_p071,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20181103,-
+39584,19019144,rpl32,ED55_p070,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+39584,19019145,rps15,ED55_p069,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160910,-
+39584,19019146,ndhH,ED55_p068,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20180317,-
+39584,19019147,ndhA,ED55_p067,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+39584,19019148,ndhI,ED55_p066,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+39584,19019149,ndhG,ED55_p065,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150626,-
+39584,19019150,ndhE,ED55_p064,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+39584,19019151,psaC,ED55_p063,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+39584,19019152,ndhD,ED55_p062,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160910,-
+39584,19019157,rps4,ED55_p061,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20180317,-
+39584,19019159,ycf3,ED55_p060,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170906,-
+39584,19019160,psaA,ED55_p059,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+39584,19019161,psaB,ED55_p058,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+39584,19019162,rps14,ED55_p057,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+39584,19019165,psbZ,ED55_p056,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+39584,19019167,psbC,ED55_p055,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+39584,19019168,psbD,ED55_p054,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160813,-
+39584,19019173,psbM,ED55_p053,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20150626,-
+39584,19019174,petN,ED55_p052,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+39584,19019176,rpoB,ED55_p051,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20150626,-
+39584,19019177,rpoC1,ED55_p050,-,-,-,-,RNA polymerase beta subunit-1,protein-coding,-,-,-,-,20160910,-
+39584,19019178,rpoC2,ED55_p049,-,-,-,-,RNA polymerase beta subunit-2,protein-coding,-,-,-,-,20160910,-
+39584,19019179,rps2,ED55_p048,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160910,-
+39584,19019180,atpI,ED55_p047,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+39584,19019181,atpH,ED55_p046,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+39584,19019182,atpF,ED55_p045,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20181103,-
+39584,19019183,atpA,ED55_p044,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20180317,-
+39584,19019186,psbI,ED55_p042,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+39584,19019187,psbK,ED55_p041,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+39584,19019189,chlB,ED55_p040,-,-,-,-,protochlorophyllide reductase ChlB subunit,protein-coding,-,-,-,-,20180317,-
+39584,19019191,matK,ED55_p039,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160820,-
+39584,19019192,psbA,ED55_p038,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160910,-
+39584,19019195,chlL,ED55_p037,-,-,-,-,protochlorophyllide reductase ATP-binding subunit,protein-coding,-,-,-,-,20180317,-
+39584,19019196,chlN,ED55_p036,-,-,-,-,protochlorophyllide reductase ChlN subunit,protein-coding,-,-,-,-,20181103,-
+39584,19019197,ndhJ,ED55_p035,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+39584,19019198,ndhK,ED55_p034,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160910,-
+39584,19019199,ndhC,ED55_p033,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+39584,19019202,atpB,ED55_p032,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20191025,-
+39584,19019203,rps12,ED55_p078,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+39584,19019204,atpE,ED55_p031,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+39584,19019205,rps7,ED55_p072,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160910,-
+39584,19019206,psaM,ED55_p043,-,-,-,-,photosystem I protein M,protein-coding,-,-,-,-,20160910,-
+39584,19019207,ycf2,ED55_p074,-,-,-,-,hypothetical chloroplast RF2,protein-coding,-,-,-,-,20160910,-
+39584,19047215,trnW-CCA,ED55_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047216,trnP-UGG,ED55_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047217,trnL-CAA,ED55_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047218,trnI-CAU,ED55_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047219,trnV-GAC,ED55_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047220,rrn16,ED55_r004,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140428,-
+39584,19047221,trnI-GAU,ED55_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047222,trnA-UGC,ED55_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047223,rrn23,ED55_r003,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140428,-
+39584,19047224,rrn4.5,ED55_r002,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140428,-
+39584,19047225,rrn5,ED55_r001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140428,-
+39584,19047226,trnR-ACG,ED55_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047227,trnN-GUU,ED55_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047228,trnF-GAA,ED55_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047229,trnL-UAA,ED55_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047230,trnQ-UUG,ED55_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047231,trnT-UGU,ED55_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047232,trnS-GGA,ED55_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047233,trnfM-CAU,ED55_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047234,trnG-GCC,ED55_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047235,trnS-UGA,ED55_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047236,trnT-GGU,ED55_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047237,trnE-UUC,ED55_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047238,trnY-GUA,ED55_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047239,trnD-GUC,ED55_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047240,trnC-GCA,ED55_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047241,trnR-UCU,ED55_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047242,trnG-UCC,ED55_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047243,trnQ-UUG,ED55_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047244,trnK-UUU,ED55_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047245,trnI-CAU,ED55_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047246,trnH-GUG,ED55_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047247,trnV-UAC,ED55_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047248,trnM-CAU,ED55_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047249,trnL-UAG,ED55_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047250,trnS-GCU,ED55_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-
+39584,19047251,trnP-GGG,ED55_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140428,-

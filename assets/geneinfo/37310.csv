@@ -1,0 +1,68 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+37310,19907199,trnK (UUU),AtanM_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907200,cox1,AtanM_p01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160903,-
+37310,19907201,atp4,AtanM_p02,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,-,20160903,-
+37310,19907202,atp8,AtanM_p03,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20160903,-
+37310,19907203,rps1,AtanM_p04,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,-,20160903,-
+37310,19907204,trnC (GCA),AtanM_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907205,trnF (GAA),AtanM_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907206,rps2,AtanM_p05,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20150626,-
+37310,19907207,ccmB,AtanM_p06,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,-,20160903,-
+37310,19907208,ccmC,AtanM_p07,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,-,20160325,-
+37310,19907209,ccmFN,AtanM_p08,-,-,MT,-,cytochrome c biogenesis factor N,protein-coding,-,-,-,-,20160903,-
+37310,19907210,ccmFC,AtanM_p09,-,-,MT,-,cytochrome c biogenesis factor C,protein-coding,-,-,-,-,20160903,-
+37310,19907211,trnQ (UUG),AtanM_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907212,trnL (UAG),AtanM_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907213,trnS (UGA),AtanM_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907214,trnG (UCC),AtanM_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907215,rps4,AtanM_p10,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20181110,-
+37310,19907216,tatC,AtanM_p11,-,-,MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,-,20160903,-
+37310,19907217,trnR (UCU),AtanM_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907218,trnY (GUA),AtanM_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907219,nad4L,AtanM_p12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20200912,-
+37310,19907220,sdh4,AtanM_p13,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,-,20181110,-
+37310,19907221,sdh3,AtanM_p14,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,-,20150626,-
+37310,19907222,trnP (UGG),AtanM_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907223,rrn18,AtanM_r01,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+37310,19907224,trnM (CAU),AtanM_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907225,rrn5,AtanM_r02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+37310,19907226,trnMf (CAU),AtanM_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907227,rrn26,AtanM_r03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20140729,-
+37310,19907228,rpl10,AtanM_p15,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,-,20160325,-
+37310,19907229,trnH (GUG),AtanM_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907230,trnL (CAA),AtanM_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907231,trnL (UAA),AtanM_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907232,nad5,AtanM_p16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160903,-
+37310,19907233,nad4,AtanM_p17,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+37310,19907234,nad2,AtanM_p18,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160903,-
+37310,19907235,trnG (GCC),AtanM_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907236,trnR (ACG),AtanM_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907237,trnE (UUC),AtanM_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907238,rps12,AtanM_p19,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+37310,19907239,rps7,AtanM_p20,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20150626,-
+37310,19907240,atp6,AtanM_p21,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160903,-
+37310,19907241,nad6,AtanM_p22,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20181110,-
+37310,19907242,cox2,AtanM_p23,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160903,-
+37310,19907243,cox3,AtanM_p24,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160903,-
+37310,19907244,nad1,AtanM_p25,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160903,-
+37310,19907245,cob,AtanM_p26,-,-,MT,-,cytochrome b,protein-coding,-,-,-,-,20160325,-
+37310,19907246,nad9,AtanM_p27,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20150626,-
+37310,19907247,atp1,AtanM_p28,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,-,20160903,-
+37310,19907248,trnW (CCA),AtanM_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907249,nad3,AtanM_p29,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20181110,-
+37310,19907250,trnV (UAC),AtanM_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907251,trnD (GUC),AtanM_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907252,trnA (UGC),AtanM_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907253,trnT (GGU),AtanM_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907254,nad7,AtanM_p30,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150711,-
+37310,19907255,trnI (CAU),AtanM_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140729,-
+37310,19907256,rpL2,AtanM_p31,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160903,-
+37310,19907257,rps19,AtanM_p32,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20150711,-
+37310,19907258,rps3,AtanM_p33,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160903,-
+37310,19907259,rpL16,AtanM_p34,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160903,-
+37310,19907260,rpL5,AtanM_p35,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20181110,-
+37310,19907261,rps14,AtanM_p36,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20200926,-
+37310,19907262,rpL6,AtanM_p37,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160903,-
+37310,19907263,rps13,AtanM_p38,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20181110,-
+37310,19907264,rps11,AtanM_p39,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+37310,19907265,atp9,AtanM_p40,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20181110,-

@@ -1,0 +1,285 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+31436,29071934,rps3,BI100_gp26,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160925,-
+31436,29071935,rpl16,BI100_gp25,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160925,-
+31436,29071936,cox1,BI100_gp24,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160925,-
+31436,29071937,cox2,BI100_gp23,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160925,-
+31436,29071938,tatA,BI100_gp22,-,-,MT,-,protein translocase TatA,protein-coding,-,-,-,-,20160925,-
+31436,29071939,cox3,BI100_gp21,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160925,-
+31436,29071940,ymf39,BI100_gp20,-,-,MT,-,ATP synthase B chain precursor,protein-coding,-,-,-,-,20160925,-
+31436,29071941,trnG(TCC),BI100_gt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071942,trnQ(TTG),BI100_gt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071943,trnL(TAA),BI100_gt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071944,cob,BI100_gp19,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20160925,-
+31436,29071945,trnL(TAG),BI100_gt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071946,nad6,BI100_gp18,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160925,-
+31436,29071947,trnG(GCC),BI100_gt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071948,trnH(GTG),BI100_gt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071949,sdh2,BI100_gp17,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20160925,-
+31436,29071950,sdh3,BI100_gp16,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20160925,-
+31436,29071951,trnF(GAA),BI100_gt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071952,trnS(TGA),BI100_gt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071953,trnP(TGG),BI100_gt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071954,atp9,BI100_gp15,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20190604,-
+31436,29071955,trnC(GCA),BI100_gt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071956,trnM(CAT),BI100_gt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071957,rps11,BI100_gp14,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160925,-
+31436,29071958,nad3,BI100_gp13,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160925,-
+31436,29071959,nad1,BI100_gp12,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160925,-
+31436,29071960,nad2,BI100_gp11,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160925,-
+31436,29071961,sdh4,BI100_gp10,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20160925,-
+31436,29071962,nad4,BI100_gp09,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160925,-
+31436,29071963,nad5,BI100_gp08,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160925,-
+31436,29071964,atp8,BI100_gp07,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160925,-
+31436,29071965,atp6,BI100_gp06,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160925,-
+31436,29071966,trnSec(TCA),BI100_gt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071967,orf172,BI100_gp05,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160925,-
+31436,29071968,trnA(TGC),BI100_gt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071969,trnR(TCT),BI100_gt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071970,trnY(GTA),BI100_gt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071971,trnS(GCT),BI100_gt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071972,trnS(GCT),BI100_gt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071973,trnV(TAC),BI100_gt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071974,trnR(ACG),BI100_gt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071975,trnK(TTT),BI100_gt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071976,ymf16,BI100_gp04,-,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20160925,-
+31436,29071977,rps12,BI100_gp03,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160925,-
+31436,29071978,trnE(TTC),BI100_gt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071979,trnM(CAT),BI100_gt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071980,rpl20,BI100_gp02,-,-,MT,-,ribosomal protein L20,protein-coding,-,-,-,-,20160925,-
+31436,29071981,rns,BI100_gr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31436,29071982,nad4L,BI100_gp01,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160925,-
+31436,29071983,rnl,BI100_gr02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31436,29071985,rpl34,BI100_gp002,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20160925,-
+31436,29071986,ycf37,BI100_gp003,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29071987,trnP-TGG,BI100_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29071988,ycf52,BI100_gp202,-,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,-,20160925,-
+31436,29071989,psaf,BI100_gp201,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20160925,-
+31436,29071990,psaJ,BI100_gp200,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20160925,-
+31436,29071991,apcD,BI100_gp199,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,-,20160925,-
+31436,29071992,fabH,BI100_gp198,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20160925,-
+31436,29071993,psbX,BI100_gp197,-,-,-,-,photosystem II reaction center X protein,protein-coding,-,-,-,-,20160925,-
+31436,29071994,accD,BI100_gp196,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29071995,psbV,BI100_gp195,-,-,-,-,cytochrome c-550,protein-coding,-,-,-,-,20160925,-
+31436,29071996,petJ,BI100_gp194,-,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20160925,-
+31436,29071997,carA,BI100_gp193,-,-,-,-,carbamoyl-phosphate synthase small chain,protein-coding,-,-,-,-,20160925,-
+31436,29071998,ycf53,BI100_gp192,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29071999,ycf55,BI100_gp191,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072000,ycf54,BI100_gp190,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072001,rbcR,BI100_gp189,-,-,-,-,putative RuBisCO transcriptional regulator,protein-coding,-,-,-,-,20160925,-
+31436,29072002,psbY,BI100_gp188,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20160925,-
+31436,29072003,rpl32,BI100_gp187,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160925,-
+31436,29072004,ycf56,BI100_gp186,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072005,rpl21,BI100_gp185,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20160925,-
+31436,29072006,rpl27,BI100_gp184,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20160925,-
+31436,29072007,rne,BI100_gp183,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20160925,-
+31436,29072008,psbA,BI100_gp182,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160925,-
+31436,29072009,ycf35,BI100_gp181,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072010,trnL-TAG,BI100_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072011,trnN-GTT,BI100_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072012,ccdA,BI100_gp180,-,-,-,-,cytochrome c biogenesis protein transmembrane region,protein-coding,-,-,-,-,20160925,-
+31436,29072013,ccs1,BI100_gp179,-,-,-,-,cytochrome c biogenesis protein ccs1,protein-coding,-,-,-,-,20160925,-
+31436,29072014,trpG,BI100_gp178,-,-,-,-,anthranilate synthase component II,protein-coding,-,-,-,-,20160925,-
+31436,29072015,thiG,BI100_gp177,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20160925,-
+31436,29072016,ycf60,BI100_gp176,-,-,-,-,Tic20 family protein Ycf60,protein-coding,-,-,-,-,20160925,-
+31436,29072017,rps6,BI100_gp175,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20160925,-
+31436,29072018,rrf,BI100_gr003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31436,29072019,rrl,BI100_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31436,29072020,trnA-TGC,BI100_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072021,trnI-GAT,BI100_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072022,rrs,BI100_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31436,29072023,ompR,BI100_gp174,-,-,-,-,ompR transcriptional regulator,protein-coding,-,-,-,-,20160925,-
+31436,29072024,psbD,BI100_gp173,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160925,-
+31436,29072025,psbC,BI100_gp172,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20160925,-
+31436,29072026,ycf17,BI100_gp171,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072027,upp,BI100_gp170,-,-,-,-,uracil phosphoribosyltransferase or UMP pyrophosphorylase,protein-coding,-,-,-,-,20160925,-
+31436,29072028,ycf19,BI100_gp169,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072029,rps16,BI100_gp168,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160925,-
+31436,29072030,ycf65,BI100_gp167,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072031,groEL,BI100_gp166,-,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,-,20160925,-
+31436,29072032,trnA-ACG,BI100_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072033,syh,BI100_gp165,-,-,-,-,histidine tRNA synthetase,protein-coding,-,-,-,-,20160925,-
+31436,29072034,trnG-TTG,BI100_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072035,psbW,BI100_gp164,-,-,-,-,photosystem II reaction center psb28 protein,protein-coding,-,-,-,-,20160925,-
+31436,29072036,syfB,BI100_gp163,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20160925,-
+31436,29072037,rps1,BI100_gp162,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20160925,-
+31436,29072038,thiS,BI100_gp161,-,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,-,20160925,-
+31436,29072039,trnH-GTG,BI100_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072040,ycf29,BI100_gp160,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072041,ntcA,BI100_gp159,-,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,-,20160925,-
+31436,29072042,petB,BI100_gp158,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160925,-
+31436,29072043,petD,BI100_gp157,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160925,-
+31436,29072044,rpl12,BI100_gp156,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160925,-
+31436,29072045,rpl1,BI100_gp155,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20160925,-
+31436,29072046,rpl11,BI100_gp154,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20160925,-
+31436,29072047,trnW-CCA,BI100_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072048,moeB,BI100_gp153,-,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,-,20160925,-
+31436,29072049,rpl9,BI100_gp152,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20160925,-
+31436,29072050,dnaB,BI100_gp151,-,-,-,-,putative replicative DNA helicase,protein-coding,-,-,-,-,20160925,-
+31436,29072051,tnrF-GAA,BI100_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072052,clpC,BI100_gp150,-,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA-like protein,protein-coding,-,-,-,-,20160925,-
+31436,29072053,rpl19,BI100_gp149,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20160925,-
+31436,29072054,trnV-GAC,BI100_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072055,trnY-GTA,BI100_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072056,trnT-GGT,BI100_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072057,ilvB,BI100_gp148,-,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072058,ycf33,BI100_gp147,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072059,argB,BI100_gp146,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20160925,-
+31436,29072060,trnM-CAT,BI100_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072061,trnS-GCT,BI100_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072062,trnD-GTC,BI100_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072063,ftsH,BI100_gp145,-,-,-,-,putative plastid division protein,protein-coding,-,-,-,-,20160925,-
+31436,29072064,psaE,BI100_gp144,-,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,-,20160925,-
+31436,29072065,psbH,BI100_gp143,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20160925,-
+31436,29072066,psbN,BI100_gp142,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160925,-
+31436,29072067,psbT,BI100_gp141,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+31436,29072068,psbB,BI100_gp140,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20160925,-
+31436,29072069,ycf38,BI100_gp139,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072070,petF,BI100_gp138,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160925,-
+31436,29072071,rps10,BI100_gp137,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20160925,-
+31436,29072072,tufA,BI100_gp136,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20160925,-
+31436,29072073,rps7,BI100_gp135,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160925,-
+31436,29072074,rps12,BI100_gp134,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160925,-
+31436,29072075,rpl31,BI100_gp133,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,-,20160925,-
+31436,29072076,rps9,BI100_gp132,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20160925,-
+31436,29072077,rpl13,BI100_gp131,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20160925,-
+31436,29072078,rpoA,BI100_gp130,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072079,rps11,BI100_gp129,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160925,-
+31436,29072080,rps13,BI100_gp128,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20160925,-
+31436,29072081,rpl36,BI100_gp127,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160925,-
+31436,29072082,secY,BI100_gp126,-,-,-,-,protein translocase subunit SecY,protein-coding,-,-,-,-,20160925,-
+31436,29072083,rps5,BI100_gp125,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20160925,-
+31436,29072084,rpl18,BI100_gp124,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20160925,-
+31436,29072085,rpl6,BI100_gp123,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20160925,-
+31436,29072086,rps8,BI100_gp122,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160925,-
+31436,29072087,rpl5,BI100_gp121,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160925,-
+31436,29072088,rpl24,BI100_gp120,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20160925,-
+31436,29072089,rpl14,BI100_gp119,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160925,-
+31436,29072090,rps17,BI100_gp118,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20160925,-
+31436,29072091,rpl29,BI100_gp117,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20160925,-
+31436,29072092,rpl16,BI100_gp116,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160925,-
+31436,29072093,rps3,BI100_gp115,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160925,-
+31436,29072094,rpl22,BI100_gp114,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160925,-
+31436,29072095,rps19,BI100_gp113,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160925,-
+31436,29072096,rpl2,BI100_gp112,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160925,-
+31436,29072097,rpl23,BI100_gp111,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160925,-
+31436,29072098,rpl4,BI100_gp110,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20160925,-
+31436,29072099,rpl3,BI100_gp109,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20160925,-
+31436,29072100,dnaK,BI100_gp108,-,-,-,-,heat shock protein 70,protein-coding,-,-,-,-,20160925,-
+31436,29072101,trnG-GCC,BI100_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072102,psbZ,BI100_gp107,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160925,-
+31436,29072103,psbK,BI100_gp106,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160925,-
+31436,29072104,petG,BI100_gp105,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210320,-
+31436,29072105,rps14,BI100_gp104,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160925,-
+31436,29072106,psaB,BI100_gp103,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160925,-
+31436,29072107,psaA,BI100_gp102,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160925,-
+31436,29072108,accB,BI100_gp101,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20160925,-
+31436,29072109,ycf86,BI100_gp100,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072110,ycf45,BI100_gp099,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072111,acpP,BI100_gp098,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20160925,-
+31436,29072112,trnS-TGA,BI100_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072113,psaD,BI100_gp097,-,-,-,-,photosystem I reaction center subunit II,protein-coding,-,-,-,-,20160925,-
+31436,29072114,ycf59,BI100_gp096,-,-,-,-,magnesium-protoporphyrin IX monomethyl ester cyclase,protein-coding,-,-,-,-,20160925,-
+31436,29072115,petN,BI100_gp095,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20160925,-
+31436,29072116,petM,BI100_gp094,-,-,-,-,cytochrome b6-f complex subunit VII,protein-coding,-,-,-,-,20160925,-
+31436,29072117,secG,BI100_gp093,-,-,-,-,preprotein translocase subunit G,protein-coding,-,-,-,-,20160925,-
+31436,29072118,ycf36,BI100_gp092,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072119,trnM-CAT,BI100_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072120,bas1,BI100_gp091,-,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,-,20160925,-
+31436,29072121,rpl35,BI100_gp090,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20160925,-
+31436,29072122,rpl20,BI100_gp089,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160925,-
+31436,29072123,preA,BI100_gp088,-,-,-,-,prenyl transferase,protein-coding,-,-,-,-,20160925,-
+31436,29072124,odpA,BI100_gp087,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072125,odpB,BI100_gp086,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072126,petA,BI100_gp085,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20160925,-
+31436,29072127,tatC,BI100_gp084,-,-,-,-,sec-independent protein translocase-like protein,protein-coding,-,-,-,-,20160925,-
+31436,29072128,apcE,BI100_gp083,-,-,-,-,phycobillisome linker protein,protein-coding,-,-,-,-,20160925,-
+31436,29072129,apcA,BI100_gp082,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072130,apcB,BI100_gp081,-,-,-,-,allophycocyanin beta chain,protein-coding,-,-,-,-,20160925,-
+31436,29072131,atpE,BI100_gp080,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072132,atpB,BI100_gp079,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072133,ycf3,BI100_gp078,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072134,infB,BI100_gp077,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,-,20160925,-
+31436,29072135,rps18,BI100_gp076,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160925,-
+31436,29072136,rpl33,BI100_gp075,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160925,-
+31436,29072137,rps20,BI100_gp074,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20160925,-
+31436,29072138,rpoB,BI100_gp073,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072139,rpoC1,BI100_gp072,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160925,-
+31436,29072140,rpoC2,BI100_gp071,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072141,rps2,BI100_gp070,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160925,-
+31436,29072142,tsf,BI100_gp069,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20160925,-
+31436,29072143,atpI,BI100_gp068,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20160925,-
+31436,29072144,atpH,BI100_gp067,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20170908,-
+31436,29072145,atpG,BI100_gp066,-,-,-,-,ATP synthase subunit b',protein-coding,-,-,-,-,20160925,-
+31436,29072146,atpF,BI100_gp065,-,-,-,-,ATP synthase subunit I,protein-coding,-,-,-,-,20160925,-
+31436,29072147,atpD,BI100_gp064,-,-,-,-,ATP synthase subunit delta,protein-coding,-,-,-,-,20160925,-
+31436,29072148,atpA,BI100_gp063,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072149,sufC,BI100_gp062,-,-,-,-,iron-sulfur cluster formation ABC transporter ATP-binding subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072150,sufB,BI100_gp061,-,-,-,-,cysteine desulfurase activator complex subunit SufB,protein-coding,-,-,-,-,20160925,-
+31436,29072151,ycf92,BI100_gp060,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072152,trnL-CAA,BI100_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072153,ycf39,BI100_gp059,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072154,ycf41,BI100_gp058,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072155,psbI,BI100_gp057,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+31436,29072156,ycf58,BI100_gp056,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20170520,-
+31436,29072157,orf621,BI100_gp055,-,-,-,-,hypothetical protein 621,protein-coding,-,-,-,-,20160925,-
+31436,29072158,cemA,BI100_gp054,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160925,-
+31436,29072159,orf426,BI100_gp053,-,-,-,-,putative group II intron reverse transcriptase/maturase protein,protein-coding,-,-,-,-,20160925,-
+31436,29072160,trnG-TCC,BI100_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072161,ycf4,BI100_gp052,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072162,petL,BI100_gp051,-,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,-,20160925,-
+31436,29072163,psaL,BI100_gp050,-,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,-,20160925,-
+31436,29072164,trnT-TGT,BI100_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072165,orf64,BI100_gp049,-,-,-,-,hypothetical protein 64,protein-coding,-,-,-,-,20160925,-
+31436,29072166,rpl28,BI100_gp048,-,-,-,-,ribosomal protein L28,protein-coding,-,-,-,-,20160925,-
+31436,29072167,trxA,BI100_gp047,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20160925,-
+31436,29072168,rbcL,BI100_gp046,-,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160925,-
+31436,29072169,rbcS,BI100_gp045,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160925,-
+31436,29072170,cbbX,BI100_gp044,-,-,-,-,CfxQ-like protein,protein-coding,-,-,-,-,20160925,-
+31436,29072171,trnC-GCA,BI100_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072172,trnL-TAA,BI100_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072173,ycf34,BI100_gp043,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072174,ilvH,BI100_gp042,-,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072175,infC,BI100_gp041,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20160925,-
+31436,29072176,rps4,BI100_gp040,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160925,-
+31436,29072177,ycf80,BI100_gp039,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072178,ycf57,BI100_gp038,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072179,trnR-CCG,BI100_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072180,ycf91,BI100_gp037,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072181,apcF,BI100_gp036,-,-,-,-,allophycocyanin beta-18 subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072182,ycf20,BI100_gp035,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072183,cpcG,BI100_gp034,-,-,-,-,phycobilisome rod-core linker polypeptide,protein-coding,-,-,-,-,20160925,-
+31436,29072184,nblA,BI100_gp033,-,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,-,20160925,-
+31436,29072185,cpeB,BI100_gp032,-,-,-,-,phycoerythrin beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072186,cpeA,BI100_gp031,-,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072187,ccsA,BI100_gp030,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20160925,-
+31436,29072188,psaK,BI100_gp029,-,-,-,-,photosystem I reaction center subunit X,protein-coding,-,-,-,-,20160925,-
+31436,29072189,accA,BI100_gp028,-,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit alpha,protein-coding,-,-,-,-,20160925,-
+31436,29072190,ycf22,BI100_gp027,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072191,ycf23,BI100_gp026,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072192,psaC,BI100_gp025,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20160925,-
+31436,29072193,gltB,BI100_gp024,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,-,20160925,-
+31436,29072194,rpoZ,BI100_gp023,-,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,-,20160925,-
+31436,29072195,cpcB,BI100_gp022,-,-,-,-,C-phycocyanin beta chain,protein-coding,-,-,-,-,20160925,-
+31436,29072196,cpcA,BI100_gp021,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072197,pgmA,BI100_gp020,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20160925,-
+31436,29072198,ycf21,BI100_gp019,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072199,secA,BI100_gp018,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20160925,-
+31436,29072200,trnE-TTC,BI100_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072201,trpA,BI100_gp017,-,-,-,-,tryptophane synthase alpha subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072202,trnK-TTT,BI100_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072203,tilS,BI100_gp016,-,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,-,20160925,-
+31436,29072204,ycf64,BI100_gp015,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072205,psb30,BI100_gp014,-,-,-,-,photosystem II protein psb30,protein-coding,-,-,-,-,20160925,-
+31436,29072206,ftrB,BI100_gp013,-,-,-,-,ferredoxin thioreductase subunit beta,protein-coding,-,-,-,-,20160925,-
+31436,29072207,psaI,BI100_gp012,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20160925,-
+31436,29072208,psbJ,BI100_gp011,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160925,-
+31436,29072209,psbL,BI100_gp010,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170908,-
+31436,29072210,psbF,BI100_gp009,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072211,psbE,BI100_gp008,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+31436,29072212,ycf26,BI100_gp007,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072213,ycf63,BI100_gp006,-,-,-,-,conserved hypothetical plastid protein,protein-coding,-,-,-,-,20160925,-
+31436,29072214,trnV-TAC,BI100_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072215,trnR-TCT,BI100_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31436,29072216,chlI,BI100_gp005,-,-,-,-,protochlorophyllide reductase magnesium chelatase subunit,protein-coding,-,-,-,-,20160925,-
+31436,29072217,psaM,BI100_gp004,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20160925,-
+31436,29072218,ycf46,BI100_gp001,-,-,-,-,"ATPase, AAA family",protein-coding,-,-,-,-,20160925,-

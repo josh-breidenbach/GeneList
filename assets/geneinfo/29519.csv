@@ -1,0 +1,1186 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+29519,3293299,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Borrelia garinii; Borrelia genomic group 20047.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20210405,-
+29519,39513154,DB281_RS05960,DB281_RS05960,DB281_05955,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513155,DB281_RS06045,DB281_RS06045,DB281_06045,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513156,DB281_RS06040,DB281_RS06040,DB281_06040,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513157,DB281_RS06000,DB281_RS06000,DB281_05995,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513158,DB281_RS05965,DB281_RS05965,DB281_05960,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513159,DB281_RS06060,DB281_RS06060,DB281_06060,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513160,DB281_RS06055,DB281_RS06055,DB281_06055,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513161,DB281_RS06030,DB281_RS06030,DB281_06025,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513162,DB281_RS05985,DB281_RS05985,DB281_05980,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513164,DB281_RS05955,DB281_RS05955,DB281_05950,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513165,DB281_RS05930,DB281_RS05930,DB281_05925,-,-,-,OspD family protein,protein-coding,-,-,-,OspD family protein,20210423,-
+29519,39513166,DB281_RS06035,DB281_RS06035,DB281_06030,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513167,DB281_RS05925,DB281_RS05925,DB281_05920,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513168,DB281_RS06015,DB281_RS06015,DB281_06010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513169,DB281_RS05970,DB281_RS05970,DB281_05965,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513170,DB281_RS05980,DB281_RS05980,DB281_05975,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210422,-
+29519,39513171,DB281_RS05935,DB281_RS05935,DB281_05930,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210423,-
+29519,39513172,DB281_RS06005,DB281_RS06005,DB281_06000,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513173,DB281_RS05920,DB281_RS05920,DB281_05915,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513174,DB281_RS06065,DB281_RS06065,DB281_06065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513175,DB281_RS06010,DB281_RS06010,DB281_06005,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513176,DB281_RS05950,DB281_RS05950,DB281_05945,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513177,DB281_RS05975,DB281_RS05975,DB281_05970,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513178,DB281_RS06020,DB281_RS06020,DB281_06015,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513179,DB281_RS05940,DB281_RS05940,DB281_05935,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513180,DB281_RS05915,DB281_RS05915,DB281_05910,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513181,DB281_RS05910,DB281_RS05910,DB281_05905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513182,DB281_RS05995,DB281_RS05995,DB281_05990,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513183,DB281_RS06025,DB281_RS06025,DB281_06020,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513184,DB281_RS05945,DB281_RS05945,DB281_05940,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513185,DB281_RS05990,DB281_RS05990,DB281_05985,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513186,DB281_RS05845,DB281_RS05845,DB281_05865,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513187,DB281_RS05815,DB281_RS05815,DB281_05835,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513188,DB281_RS05795,DB281_RS05795,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513189,DB281_RS05840,DB281_RS05840,DB281_05860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513190,DB281_RS05790,DB281_RS05790,DB281_05815,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513191,DB281_RS05825,DB281_RS05825,DB281_05845,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513193,DB281_RS05855,DB281_RS05855,DB281_05875,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513195,DB281_RS05895,DB281_RS05895,DB281_05890,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513197,DB281_RS05850,DB281_RS05850,DB281_05870,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513202,DB281_RS05905,DB281_RS05905,DB281_05900,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210529,-
+29519,39513203,DB281_RS05900,DB281_RS05900,DB281_05895,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513205,DB281_RS05830,DB281_RS05830,DB281_05850,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513208,DB281_RS05785,DB281_RS05785,DB281_05810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513210,DB281_RS05810,DB281_RS05810,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513211,DB281_RS05780,DB281_RS05780,DB281_05805,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210423,-
+29519,39513212,DB281_RS05775,DB281_RS05775,DB281_05800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513214,eppA,DB281_RS05765,DB281_05790,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513215,DB281_RS05760,DB281_RS05760,DB281_05785,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513216,DB281_RS05755,DB281_RS05755,DB281_05780,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513217,DB281_RS05750,DB281_RS05750,DB281_05775,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513218,DB281_RS05745,DB281_RS05745,DB281_05770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513219,DB281_RS05740,DB281_RS05740,DB281_05765,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513220,DB281_RS05735,DB281_RS05735,DB281_05760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513221,DB281_RS05730,DB281_RS05730,DB281_05755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513222,DB281_RS05725,DB281_RS05725,DB281_05750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513223,DB281_RS05720,DB281_RS05720,DB281_05745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513224,DB281_RS05715,DB281_RS05715,DB281_05740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513225,DB281_RS05710,DB281_RS05710,DB281_05735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513226,DB281_RS05705,DB281_RS05705,DB281_05730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513227,DB281_RS05700,DB281_RS05700,DB281_05725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513228,DB281_RS05695,DB281_RS05695,DB281_05720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513229,DB281_RS05690,DB281_RS05690,DB281_05715,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210423,-
+29519,39513230,DB281_RS05685,DB281_RS05685,DB281_05710,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20210423,-
+29519,39513231,DB281_RS05680,DB281_RS05680,DB281_05705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513232,DB281_RS05675,DB281_RS05675,DB281_05700,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513233,DB281_RS05670,DB281_RS05670,DB281_05695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513234,DB281_RS05665,DB281_RS05665,DB281_05690,-,-,-,right-handed parallel beta-helix repeat-containing protein,protein-coding,-,-,-,right-handed parallel beta-helix repeat-containing protein,20210423,-
+29519,39513235,DB281_RS05660,DB281_RS05660,DB281_05685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513236,DB281_RS05655,DB281_RS05655,DB281_05680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513237,DB281_RS05650,DB281_RS05650,DB281_05675,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513238,DB281_RS05645,DB281_RS05645,DB281_05670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513239,DB281_RS05640,DB281_RS05640,DB281_05665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513240,DB281_RS05635,DB281_RS05635,DB281_05660,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513241,DB281_RS05630,DB281_RS05630,DB281_05655,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513242,DB281_RS05625,DB281_RS05625,DB281_05650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513243,DB281_RS05620,DB281_RS05620,DB281_05645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513244,DB281_RS05510,DB281_RS05510,DB281_05535,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210423,-
+29519,39513245,DB281_RS05615,DB281_RS05615,DB281_05640,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210423,-
+29519,39513246,DB281_RS05610,DB281_RS05610,DB281_05635,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513247,DB281_RS05605,DB281_RS05605,DB281_05630,-,-,-,DUF603 domain-containing protein,protein-coding,-,-,-,DUF603 domain-containing protein,20210423,-
+29519,39513248,DB281_RS05515,DB281_RS05515,DB281_05540,-,-,-,DUF685 domain-containing protein,protein-coding,-,-,-,DUF685 domain-containing protein,20210423,-
+29519,39513249,revA,DB281_RS05540,DB281_05565,-,-,-,fibronectin-binding protein RevA,protein-coding,-,-,-,fibronectin-binding protein RevA,20210423,-
+29519,39513250,DB281_RS05505,DB281_RS05505,DB281_05530,-,-,-,DUF276 domain-containing protein,protein-coding,-,-,-,DUF276 domain-containing protein,20210423,-
+29519,39513251,DB281_RS05500,DB281_RS05500,DB281_05525,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513252,DB281_RS05595,DB281_RS05595,DB281_05620,-,-,-,ErpL protein,protein-coding,-,-,-,ErpL protein,20210423,-
+29519,39513253,DB281_RS05495,DB281_RS05495,DB281_05520,-,-,-,DUF777 family protein,protein-coding,-,-,-,DUF777 family protein,20210423,-
+29519,39513254,DB281_RS05590,DB281_RS05590,DB281_05615,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210423,-
+29519,39513255,DB281_RS05490,DB281_RS05490,DB281_05515,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513256,DB281_RS05485,DB281_RS05485,DB281_05510,-,-,-,DUF792 family protein,protein-coding,-,-,-,DUF792 family protein,20210423,-
+29519,39513257,DB281_RS05480,DB281_RS05480,DB281_05505,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513258,DB281_RS05475,DB281_RS05475,DB281_05500,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210423,-
+29519,39513259,DB281_RS05520,DB281_RS05520,DB281_05545,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210423,-
+29519,39513260,DB281_RS05470,DB281_RS05470,DB281_05495,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210423,-
+29519,39513261,DB281_RS05465,DB281_RS05465,DB281_05490,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210423,-
+29519,39513262,DB281_RS05460,DB281_RS05460,DB281_05485,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210423,-
+29519,39513263,DB281_RS05455,DB281_RS05455,DB281_05480,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210423,-
+29519,39513264,DB281_RS05580,DB281_RS05580,DB281_05605,-,-,-,DUF244 domain-containing protein,protein-coding,-,-,-,DUF244 domain-containing protein,20210423,-
+29519,39513265,DB281_RS05530,DB281_RS05530,DB281_05555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513266,DB281_RS05450,DB281_RS05450,DB281_05475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513267,DB281_RS05445,DB281_RS05445,DB281_05470,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210423,-
+29519,39513268,DB281_RS05440,DB281_RS05440,DB281_05465,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210423,-
+29519,39513269,DB281_RS05435,DB281_RS05435,DB281_05460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513270,DB281_RS05430,DB281_RS05430,DB281_05455,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513271,DB281_RS05425,DB281_RS05425,DB281_05450,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513272,DB281_RS05420,DB281_RS05420,DB281_05445,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513273,DB281_RS05570,DB281_RS05570,DB281_05595,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513274,DB281_RS05415,DB281_RS05415,DB281_05440,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210423,-
+29519,39513276,DB281_RS05585,DB281_RS05585,DB281_05610,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210423,-
+29519,39513277,DB281_RS05575,DB281_RS05575,DB281_05600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513278,DB281_RS05565,DB281_RS05565,DB281_05590,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513279,DB281_RS05555,DB281_RS05555,DB281_05580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513280,DB281_RS05410,DB281_RS05410,DB281_05435,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210423,-
+29519,39513281,DB281_RS05560,DB281_RS05560,DB281_05585,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513282,DB281_RS05535,DB281_RS05535,DB281_05560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513283,DB281_RS05525,DB281_RS05525,DB281_05550,-,-,-,"holin, BlyB family",protein-coding,-,-,-,"holin, BlyB family",20210423,-
+29519,39513284,DB281_RS05550,DB281_RS05550,DB281_05575,-,-,-,ERF family protein,protein-coding,-,-,-,ERF family protein,20210423,-
+29519,39513285,DB281_RS05545,DB281_RS05545,DB281_05570,-,-,-,Mlp family lipoprotein,protein-coding,-,-,-,Mlp family lipoprotein,20210423,-
+29519,39513286,DB281_RS05365,DB281_RS05365,DB281_05390,-,-,-,PTS lactose/cellobiose transporter subunit IIA,protein-coding,-,-,-,PTS lactose/cellobiose transporter subunit IIA,20210423,-
+29519,39513287,DB281_RS05380,DB281_RS05380,DB281_05405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513288,DB281_RS05350,DB281_RS05350,DB281_05375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513289,DB281_RS05355,DB281_RS05355,DB281_05380,-,-,-,alpha3-beta1 integrin-binding protein,protein-coding,-,-,-,alpha3-beta1 integrin-binding protein,20210423,-
+29519,39513290,guaA,DB281_RS05305,DB281_05330,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210423,-
+29519,39513291,DB281_RS05325,DB281_RS05325,DB281_05350,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513292,DB281_RS05360,DB281_RS05360,DB281_05385,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20210423,-
+29519,39513293,DB281_RS05320,DB281_RS05320,DB281_05345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513294,DB281_RS05340,DB281_RS05340,DB281_05365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513295,DB281_RS05395,DB281_RS05395,DB281_05420,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210423,-
+29519,39513296,DB281_RS05375,DB281_RS05375,DB281_05400,-,-,-,telomere resolvase,protein-coding,-,-,-,telomere resolvase,20210423,-
+29519,39513297,DB281_RS05385,DB281_RS05385,DB281_05410,-,-,-,acylphosphatase,protein-coding,-,-,-,acylphosphatase,20210423,-
+29519,39513298,celB,DB281_RS05370,DB281_05395,-,-,-,PTS cellobiose transporter subunit IIC,protein-coding,-,-,-,PTS cellobiose transporter subunit IIC,20210423,-
+29519,39513299,DB281_RS05295,DB281_RS05295,DB281_05320,-,-,-,NCS2 family permease,protein-coding,-,-,-,NCS2 family permease,20210423,-
+29519,39513300,DB281_RS05280,DB281_RS05280,DB281_05305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513301,DB281_RS05300,DB281_RS05300,DB281_05325,-,-,-,cell surface protein,protein-coding,-,-,-,cell surface protein,20210423,-
+29519,39513302,DB281_RS05315,DB281_RS05315,DB281_05340,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210423,-
+29519,39513303,DB281_RS05390,DB281_RS05390,DB281_05415,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210423,-
+29519,39513304,DB281_RS05335,DB281_RS05335,DB281_05360,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513305,DB281_RS05330,DB281_RS05330,DB281_05355,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513306,DB281_RS05290,DB281_RS05290,DB281_05315,-,-,-,NCS2 family permease,protein-coding,-,-,-,NCS2 family permease,20210423,-
+29519,39513307,DB281_RS05405,DB281_RS05405,DB281_05430,-,-,-,ImmA/IrrE family metallo-endopeptidase,protein-coding,-,-,-,ImmA/IrrE family metallo-endopeptidase,20210423,-
+29519,39513308,DB281_RS05400,DB281_RS05400,DB281_05425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513309,DB281_RS05345,DB281_RS05345,DB281_05370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513310,DB281_RS05310,DB281_RS05310,DB281_05335,-,-,-,guanosine monophosphate reductase,protein-coding,-,-,-,guanosine monophosphate reductase,20210423,-
+29519,39513311,DB281_RS05285,DB281_RS05285,DB281_05310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513312,DB281_RS05215,DB281_RS05215,DB281_05235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513313,DB281_RS05240,DB281_RS05240,DB281_05260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513314,DB281_RS05225,DB281_RS05225,DB281_05245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513315,DB281_RS05265,DB281_RS05265,DB281_05285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513316,DB281_RS05230,DB281_RS05230,DB281_05250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513317,DB281_RS05220,DB281_RS05220,DB281_05240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513318,DB281_RS05180,DB281_RS05180,DB281_05200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513319,DB281_RS05190,DB281_RS05190,DB281_05210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513320,DB281_RS05205,DB281_RS05205,DB281_05225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513322,DB281_RS05200,DB281_RS05200,DB281_05220,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,39513323,DB281_RS05210,DB281_RS05210,DB281_05230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513324,DB281_RS05260,DB281_RS05260,DB281_05280,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513325,DB281_RS05235,DB281_RS05235,DB281_05255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513326,DB281_RS05250,DB281_RS05250,DB281_05270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513327,DB281_RS05195,DB281_RS05195,DB281_05215,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,39513328,DB281_RS05245,DB281_RS05245,DB281_05265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513329,DB281_RS05275,DB281_RS05275,DB281_05300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513330,DB281_RS05185,DB281_RS05185,DB281_05205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513332,DB281_RS05175,DB281_RS05175,DB281_05195,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513333,DB281_RS05110,DB281_RS05110,DB281_05110,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513334,DB281_RS05020,DB281_RS05020,DB281_05020,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210422,-
+29519,39513337,DB281_RS05105,DB281_RS05105,DB281_05105,-,-,-,class I SAM-dependent DNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent DNA methyltransferase,20210423,-
+29519,39513338,DB281_RS05160,DB281_RS05160,DB281_05175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513339,DB281_RS05170,DB281_RS05170,DB281_05185,-,-,-,transposase,protein-coding,-,-,-,transposase,20210423,-
+29519,39513341,DB281_RS05130,DB281_RS05130,DB281_05140,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513342,eppA,DB281_RS05100,DB281_05100,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513343,DB281_RS05145,DB281_RS05145,DB281_05155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513344,DB281_RS05115,DB281_RS05115,DB281_05115,-,-,-,virulence associated lipoprotein,protein-coding,-,-,-,virulence associated lipoprotein,20210423,-
+29519,39513345,DB281_RS05140,DB281_RS05140,DB281_05150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513346,DB281_RS05150,DB281_RS05150,DB281_05165,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513347,DB281_RS05155,DB281_RS05155,DB281_05170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513348,DB281_RS05085,DB281_RS05085,DB281_05085,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513351,DB281_RS05030,DB281_RS05030,DB281_05030,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513352,DB281_RS05035,DB281_RS05035,DB281_05035,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513354,DB281_RS05045,DB281_RS05045,DB281_05045,-,-,-,Bdr family protein,protein-coding,-,-,-,Bdr family protein,20210422,-
+29519,39513355,DB281_RS05050,DB281_RS05050,DB281_05050,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513356,DB281_RS05055,DB281_RS05055,DB281_05055,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513358,DB281_RS05165,DB281_RS05165,DB281_05180,-,-,-,P12 family lipoprotein,protein-coding,-,-,-,P12 family lipoprotein,20210422,-
+29519,39513359,DB281_RS05065,DB281_RS05065,DB281_05065,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513360,DB281_RS05070,DB281_RS05070,DB281_05070,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513361,DB281_RS05075,DB281_RS05075,DB281_05075,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513362,DB281_RS05080,DB281_RS05080,DB281_05080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513364,DB281_RS04945,DB281_RS04945,DB281_04945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513365,DB281_RS04835,DB281_RS04835,DB281_04835,-,-,-,DUF792 family protein,protein-coding,-,-,-,DUF792 family protein,20210423,-
+29519,39513366,DB281_RS04935,DB281_RS04935,DB281_04935,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210423,-
+29519,39513367,DB281_RS04875,DB281_RS04875,DB281_04875,-,-,-,"holin, BlyB family",protein-coding,-,-,-,"holin, BlyB family",20210423,-
+29519,39513368,DB281_RS04825,DB281_RS04825,DB281_04825,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210423,-
+29519,39513369,DB281_RS04970,DB281_RS04970,DB281_04970,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513370,DB281_RS04925,DB281_RS04925,DB281_04925,-,-,-,DUF244 domain-containing protein,protein-coding,-,-,-,DUF244 domain-containing protein,20210423,-
+29519,39513371,DB281_RS04985,DB281_RS04985,DB281_04985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513372,DB281_RS04940,DB281_RS04940,DB281_04940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513373,DB281_RS04845,DB281_RS04845,DB281_04845,-,-,-,DUF777 family protein,protein-coding,-,-,-,DUF777 family protein,20210423,-
+29519,39513374,DB281_RS04915,DB281_RS04915,DB281_04915,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513375,DB281_RS04990,DB281_RS04990,DB281_04990,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210423,-
+29519,39513376,DB281_RS04865,DB281_RS04865,DB281_04865,-,-,-,DUF685 domain-containing protein,protein-coding,-,-,-,DUF685 domain-containing protein,20210423,-
+29519,39513377,DB281_RS04910,DB281_RS04910,DB281_04910,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513378,DB281_RS04975,DB281_RS04975,DB281_04975,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513379,DB281_RS04905,DB281_RS04905,DB281_04905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513380,DB281_RS04900,DB281_RS04900,DB281_04900,-,-,-,ERF family protein,protein-coding,-,-,-,ERF family protein,20210423,-
+29519,39513381,DB281_RS04920,DB281_RS04920,DB281_04920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513382,DB281_RS04855,DB281_RS04855,DB281_04855,-,-,-,DUF276 domain-containing protein,protein-coding,-,-,-,DUF276 domain-containing protein,20210423,-
+29519,39513383,DB281_RS04840,DB281_RS04840,DB281_04840,-,-,-,DUF693 family protein,protein-coding,-,-,-,DUF693 family protein,20210423,-
+29519,39513384,DB281_RS04880,DB281_RS04880,DB281_04880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513385,DB281_RS04860,DB281_RS04860,DB281_04860,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210423,-
+29519,39513386,DB281_RS04890,DB281_RS04890,DB281_04890,-,-,-,Bdr family protein,protein-coding,-,-,-,Bdr family protein,20210422,-
+29519,39513387,DB281_RS04870,DB281_RS04870,DB281_04870,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210423,-
+29519,39513388,DB281_RS04965,DB281_RS04965,DB281_04965,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210423,-
+29519,39513389,DB281_RS04895,DB281_RS04895,DB281_04895,-,-,-,Mlp family lipoprotein,protein-coding,-,-,-,Mlp family lipoprotein,20210423,-
+29519,39513390,DB281_RS04955,DB281_RS04955,DB281_04955,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20210423,-
+29519,39513391,DB281_RS04995,DB281_RS04995,DB281_04995,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210423,-
+29519,39513392,DB281_RS05000,DB281_RS05000,DB281_05000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513393,DB281_RS05015,DB281_RS05015,DB281_05015,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210423,-
+29519,39513394,DB281_RS05010,DB281_RS05010,DB281_05010,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210423,-
+29519,39513395,DB281_RS05005,DB281_RS05005,DB281_05005,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210423,-
+29519,39513396,DB281_RS04960,DB281_RS04960,DB281_04960,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210423,-
+29519,39513397,DB281_RS04885,DB281_RS04885,DB281_04885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513398,DB281_RS04930,DB281_RS04930,DB281_04930,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210423,-
+29519,39513399,DB281_RS04830,DB281_RS04830,DB281_04830,-,-,-,DUF759 family protein,protein-coding,-,-,-,DUF759 family protein,20210423,-
+29519,39513400,DB281_RS04820,DB281_RS04820,DB281_04820,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210423,-
+29519,39513401,DB281_RS04950,DB281_RS04950,DB281_04950,-,-,-,DUF603 domain-containing protein,protein-coding,-,-,-,DUF603 domain-containing protein,20210423,-
+29519,39513402,DB281_RS04980,DB281_RS04980,DB281_04980,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513403,DB281_RS04850,DB281_RS04850,DB281_04850,-,-,-,DUF2634 domain-containing protein,protein-coding,-,-,-,DUF2634 domain-containing protein,20210423,-
+29519,39513404,DB281_RS04675,DB281_RS04675,DB281_04675,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513405,DB281_RS04735,DB281_RS04735,DB281_04735,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210529,-
+29519,39513407,DB281_RS04705,DB281_RS04705,DB281_04705,-,-,-,blasticidin S-acetyltransferase,protein-coding,-,-,-,blasticidin S-acetyltransferase,20210423,-
+29519,39513409,DB281_RS04750,DB281_RS04750,DB281_04750,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513411,DB281_RS04795,DB281_RS04795,DB281_04795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513412,DB281_RS04700,DB281_RS04700,DB281_04700,-,-,-,virulence associated lipoprotein,protein-coding,-,-,-,virulence associated lipoprotein,20210423,-
+29519,39513413,DB281_RS04805,DB281_RS04805,DB281_04805,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513414,DB281_RS04725,DB281_RS04725,DB281_04725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513415,DB281_RS04810,DB281_RS04810,DB281_04810,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513417,DB281_RS04650,DB281_RS04650,DB281_04650,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513418,DB281_RS04765,DB281_RS04765,DB281_04765,-,-,-,DUF5425 family lipoprotein,protein-coding,-,-,-,DUF5425 family lipoprotein,20210422,-
+29519,39513419,DB281_RS04730,DB281_RS04730,DB281_04730,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210422,-
+29519,39513420,DB281_RS04710,DB281_RS04710,DB281_04710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513421,DB281_RS04815,DB281_RS04815,DB281_04815,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513422,DB281_RS04745,DB281_RS04745,DB281_04745,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210423,-
+29519,39513423,DB281_RS04635,DB281_RS04635,DB281_04635,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513424,DB281_RS04715,DB281_RS04715,DB281_04715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513426,DB281_RS04645,DB281_RS04645,-,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210422,-
+29519,39513427,DB281_RS04685,DB281_RS04685,DB281_04685,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513429,DB281_RS04800,DB281_RS04800,DB281_04800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513430,DB281_RS04740,DB281_RS04740,DB281_04740,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513431,DB281_RS04785,DB281_RS04785,DB281_04785,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513432,DB281_RS04720,DB281_RS04720,DB281_04720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513434,DB281_RS04660,DB281_RS04660,DB281_04660,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513436,DB281_RS04640,DB281_RS04640,DB281_04640,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513437,DB281_RS04690,DB281_RS04690,DB281_04690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513438,DB281_RS04680,DB281_RS04680,DB281_04680,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513440,DB281_RS04670,DB281_RS04670,DB281_04670,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513441,DB281_RS04615,DB281_RS04615,DB281_04615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513442,DB281_RS04605,DB281_RS04605,DB281_04605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513443,DB281_RS04420,DB281_RS04420,DB281_04420,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210423,-
+29519,39513444,DB281_RS04430,DB281_RS04430,DB281_04430,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210423,-
+29519,39513445,DB281_RS04295,DB281_RS04295,DB281_04295,-,-,-,OMS28 family porin,protein-coding,-,-,-,OMS28 family porin,20210423,-
+29519,39513446,DB281_RS04415,DB281_RS04415,DB281_04415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513447,DB281_RS04555,DB281_RS04555,DB281_04555,-,-,-,peptide transporter,protein-coding,-,-,-,peptide transporter,20210423,-
+29519,39513448,DB281_RS04595,DB281_RS04595,DB281_04595,-,-,-,DUF2634 domain-containing protein,protein-coding,-,-,-,DUF2634 domain-containing protein,20210423,-
+29519,39513449,DB281_RS04545,DB281_RS04545,DB281_04545,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,39513450,dbpB,DB281_RS04525,DB281_04525,-,-,-,decorin-binding protein DbpB,protein-coding,-,-,-,decorin-binding protein DbpB,20210423,-
+29519,39513451,DB281_RS04485,DB281_RS04485,DB281_04485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513452,DB281_RS04385,DB281_RS04385,DB281_04385,-,-,-,DUF777 family protein,protein-coding,-,-,-,DUF777 family protein,20210423,-
+29519,39513453,DB281_RS04360,DB281_RS04360,DB281_04360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513454,DB281_RS04300,DB281_RS04300,DB281_04300,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513455,DB281_RS04460,DB281_RS04460,DB281_04460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513456,DB281_RS04520,DB281_RS04520,DB281_04520,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513457,DB281_RS04535,DB281_RS04535,DB281_04535,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513458,DB281_RS04585,DB281_RS04585,DB281_04585,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210423,-
+29519,39513459,DB281_RS04445,DB281_RS04445,DB281_04445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513460,DB281_RS04450,DB281_RS04450,DB281_04450,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210423,-
+29519,39513461,DB281_RS04600,DB281_RS04600,DB281_04600,-,-,-,BBA07 family lipoprotein,protein-coding,-,-,-,BBA07 family lipoprotein,20210422,-
+29519,39513462,DB281_RS04335,DB281_RS04335,DB281_04335,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513463,DB281_RS04505,DB281_RS04505,DB281_04505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513464,DB281_RS04345,DB281_RS04345,DB281_04345,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210422,-
+29519,39513465,DB281_RS04575,DB281_RS04575,DB281_04575,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210423,-
+29519,39513466,DB281_RS04305,DB281_RS04305,DB281_04305,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513467,DB281_RS04515,DB281_RS04515,DB281_04515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513468,DB281_RS04620,DB281_RS04620,DB281_04620,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513469,DB281_RS04380,DB281_RS04380,DB281_04380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513470,DB281_RS04610,DB281_RS04610,DB281_04610,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210423,-
+29519,39513471,DB281_RS04540,DB281_RS04540,DB281_04540,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210423,-
+29519,39513472,DB281_RS04490,DB281_RS04490,DB281_04490,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210423,-
+29519,39513473,DB281_RS04310,DB281_RS04310,DB281_04310,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210422,-
+29519,39513474,DB281_RS04630,DB281_RS04630,-,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513475,DB281_RS04625,DB281_RS04625,DB281_04625,-,-,-,virulence associated lipoprotein,protein-coding,-,-,-,virulence associated lipoprotein,20210423,-
+29519,39513476,DB281_RS04440,DB281_RS04440,DB281_04440,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210423,-
+29519,39513477,DB281_RS04390,DB281_RS04390,DB281_04390,-,-,-,DUF693 family protein,protein-coding,-,-,-,DUF693 family protein,20210423,-
+29519,39513479,DB281_RS04495,DB281_RS04495,DB281_04495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513481,DB281_RS04435,DB281_RS04435,DB281_04435,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210423,-
+29519,39513482,DB281_RS04425,DB281_RS04425,DB281_04425,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210423,-
+29519,39513484,DB281_RS04320,DB281_RS04320,DB281_04320,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513485,DB281_RS04315,DB281_RS04315,DB281_04315,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513486,DB281_RS04565,DB281_RS04565,DB281_04565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513487,DB281_RS04470,DB281_RS04470,DB281_04470,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210423,-
+29519,39513488,DB281_RS04350,DB281_RS04350,DB281_04350,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513489,DB281_RS04340,DB281_RS04340,DB281_04340,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210422,-
+29519,39513491,DB281_RS04455,DB281_RS04455,DB281_04455,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210423,-
+29519,39513492,DB281_RS04330,DB281_RS04330,DB281_04330,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,39513493,DB281_RS04570,DB281_RS04570,DB281_04570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,39513494,DB281_RS04510,DB281_RS04510,DB281_04510,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20210423,-
+29519,39513495,DB281_RS04355,DB281_RS04355,DB281_04355,-,-,-,Lp6.6 family lipoprotein,protein-coding,-,-,-,Lp6.6 family lipoprotein,20210422,-
+29519,39513496,DB281_RS04370,DB281_RS04370,DB281_04370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513497,dbpA,DB281_RS04530,DB281_04530,-,-,-,decorin-binding protein DbpA,protein-coding,-,-,-,decorin-binding protein DbpA,20210423,-
+29519,39513498,DB281_RS04590,DB281_RS04590,DB281_04590,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513499,DB281_RS04480,DB281_RS04480,DB281_04480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513500,DB281_RS04475,DB281_RS04475,DB281_04475,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210423,-
+29519,39513501,DB281_RS04550,DB281_RS04550,DB281_04550,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210423,-
+29519,39513502,DB281_RS04580,DB281_RS04580,DB281_04580,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,39513503,DB281_RS04400,DB281_RS04400,DB281_04400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513504,DB281_RS04290,DB281_RS04290,DB281_04290,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20210423,-
+29519,39513505,DB281_RS04465,DB281_RS04465,DB281_04465,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210423,-
+29519,39513506,DB281_RS04410,DB281_RS04410,DB281_04410,-,-,-,DUF792 family protein,protein-coding,-,-,-,DUF792 family protein,20210423,-
+29519,39513507,ospA,DB281_RS04560,DB281_04560,-,-,-,outer surface lipoprotein OspA,protein-coding,-,-,-,outer surface lipoprotein OspA,20210423,-
+29519,39513508,DB281_RS04395,DB281_RS04395,DB281_04395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,39513509,DB281_RS04405,DB281_RS04405,DB281_04405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198142,DB281_RS00005,DB281_RS00005,DB281_00005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198143,DB281_RS00010,DB281_RS00010,DB281_00010,-,-,-,glycoside hydrolase family 3 protein,protein-coding,-,-,-,glycoside hydrolase family 3 protein,20210423,-
+29519,64198144,DB281_RS00015,DB281_RS00015,DB281_00015,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210423,-
+29519,64198145,DB281_RS00020,DB281_RS00020,DB281_00020,-,-,-,phosphoglucomutase,protein-coding,-,-,-,phosphoglucomutase,20210423,-
+29519,64198146,trpS,DB281_RS00025,DB281_00025,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210423,-
+29519,64198147,DB281_RS00030,DB281_RS00030,DB281_00030,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210423,-
+29519,64198148,DB281_RS00035,DB281_RS00035,DB281_00035,-,-,-,haloacid dehalogenase-like hydrolase,protein-coding,-,-,-,haloacid dehalogenase-like hydrolase,20210422,-
+29519,64198149,DB281_RS00040,DB281_RS00040,DB281_00040,-,-,-,diadenylate cyclase CdaA,protein-coding,-,-,-,diadenylate cyclase CdaA,20210423,-
+29519,64198150,DB281_RS00045,DB281_RS00045,DB281_00045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198151,acpS,DB281_RS00050,DB281_00050,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20210423,-
+29519,64198152,DB281_RS00055,DB281_RS00055,DB281_00055,-,-,-,DUF2225 domain-containing protein,protein-coding,-,-,-,DUF2225 domain-containing protein,20210423,-
+29519,64198153,truA,DB281_RS00060,DB281_00060,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210423,-
+29519,64198154,DB281_RS00065,DB281_RS00065,DB281_00065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198155,priA,DB281_RS00070,DB281_00070,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210423,-
+29519,64198156,udk,DB281_RS00075,DB281_00075,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20210423,-
+29519,64198157,DB281_RS00080,DB281_RS00080,DB281_00080,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20210423,-
+29519,64198158,DB281_RS00085,DB281_RS00085,DB281_00085,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210423,-
+29519,64198159,DB281_RS00090,DB281_RS00090,DB281_00090,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210423,-
+29519,64198160,DB281_RS00095,DB281_RS00095,DB281_00095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198161,DB281_RS00100,DB281_RS00100,DB281_00100,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20210423,-
+29519,64198162,queA,DB281_RS00105,DB281_00105,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,protein-coding,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,20210423,-
+29519,64198163,ruvB,DB281_RS00110,DB281_00110,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210423,-
+29519,64198164,ruvA,DB281_RS00115,DB281_00115,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210423,-
+29519,64198165,DB281_RS00120,DB281_RS00120,DB281_00120,-,-,-,sorbosone dehydrogenase family protein,protein-coding,-,-,-,sorbosone dehydrogenase family protein,20210423,-
+29519,64198166,DB281_RS00125,DB281_RS00125,DB281_00125,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210423,-
+29519,64198167,DB281_RS00130,DB281_RS00130,DB281_00130,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20210423,-
+29519,64198168,DB281_RS00135,DB281_RS00135,DB281_00135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198169,DB281_RS00140,DB281_RS00140,DB281_00140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198170,DB281_RS00145,DB281_RS00145,DB281_00145,-,-,-,DUF188 domain-containing protein,protein-coding,-,-,-,DUF188 domain-containing protein,20210423,-
+29519,64198171,lepB,DB281_RS00150,DB281_00150,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210423,-
+29519,64198172,lepB,DB281_RS00155,DB281_00155,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210423,-
+29519,64198173,DB281_RS00160,DB281_RS00160,DB281_00160,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20210423,-
+29519,64198174,smpB,DB281_RS00165,DB281_00165,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210423,-
+29519,64198175,DB281_RS00170,DB281_RS00170,DB281_00170,-,-,-,P13 family porin,protein-coding,-,-,-,P13 family porin,20210423,-
+29519,64198176,DB281_RS00175,DB281_RS00175,DB281_00175,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210423,-
+29519,64198177,DB281_RS00180,DB281_RS00180,DB281_00180,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20210423,-
+29519,64198178,DB281_RS00185,DB281_RS00185,DB281_00185,-,-,-,1-acylglycerol-3-phosphate O-acyltransferase,protein-coding,-,-,-,1-acylglycerol-3-phosphate O-acyltransferase,20210423,-
+29519,64198179,DB281_RS00190,DB281_RS00190,DB281_00190,-,-,-,pallilysin-related adhesin,protein-coding,-,-,-,pallilysin-related adhesin,20210422,-
+29519,64198180,DB281_RS00195,DB281_RS00195,DB281_00195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198181,DB281_RS00200,DB281_RS00200,DB281_00200,-,-,-,protein-glutamate O-methyltransferase,protein-coding,-,-,-,protein-glutamate O-methyltransferase,20210423,-
+29519,64198182,phoU,DB281_RS00205,DB281_00205,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20210423,-
+29519,64198183,DB281_RS00210,DB281_RS00210,DB281_00210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198184,DB281_RS00215,DB281_RS00215,DB281_00215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198185,DB281_RS00220,DB281_RS00220,DB281_00220,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210423,-
+29519,64198186,DB281_RS00225,DB281_RS00225,DB281_00225,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210423,-
+29519,64198187,DB281_RS00230,DB281_RS00230,DB281_00230,-,-,-,DUF3276 family protein,protein-coding,-,-,-,DUF3276 family protein,20210423,-
+29519,64198188,DB281_RS00235,DB281_RS00235,DB281_00235,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198189,ssrA,DB281_RS00240,DB281_00240,-,-,-,miscRNA,miscRNA,-,-,-,-,20210422,-
+29519,64198190,DB281_RS00245,DB281_RS00245,DB281_00245,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210423,-
+29519,64198191,DB281_RS00250,DB281_RS00250,DB281_00250,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210423,-
+29519,64198192,DB281_RS00255,DB281_RS00255,DB281_00255,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210423,-
+29519,64198193,ung,DB281_RS00260,DB281_00260,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210423,-
+29519,64198194,secG,DB281_RS00265,DB281_00265,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210422,-
+29519,64198195,DB281_RS00270,DB281_RS00270,DB281_00270,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210423,-
+29519,64198196,DB281_RS00275,DB281_RS00275,DB281_00275,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210423,-
+29519,64198197,gap,DB281_RS00280,DB281_00280,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210423,-
+29519,64198198,DB281_RS00285,DB281_RS00285,DB281_00285,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198199,DB281_RS00290,DB281_RS00290,DB281_00290,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210423,-
+29519,64198200,ybeY,DB281_RS00295,DB281_00295,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210423,-
+29519,64198201,trxA,DB281_RS00300,DB281_00300,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210423,-
+29519,64198202,DB281_RS00305,DB281_RS00305,DB281_00305,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210423,-
+29519,64198203,DB281_RS00310,DB281_RS00310,DB281_00310,-,-,-,PASTA domain-containing protein,protein-coding,-,-,-,PASTA domain-containing protein,20210423,-
+29519,64198204,fmt,DB281_RS00315,DB281_00315,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210423,-
+29519,64198205,def,DB281_RS00320,DB281_00320,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210423,-
+29519,64198206,DB281_RS00325,DB281_RS00325,DB281_00325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198207,DB281_RS00330,DB281_RS00330,DB281_00330,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210423,-
+29519,64198208,DB281_RS00335,DB281_RS00335,DB281_00335,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210423,-
+29519,64198209,DB281_RS00340,DB281_RS00340,DB281_00340,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20210423,-
+29519,64198210,DB281_RS00345,DB281_RS00345,DB281_00345,-,-,-,divergent PAP2 family protein,protein-coding,-,-,-,divergent PAP2 family protein,20210423,-
+29519,64198211,DB281_RS00350,DB281_RS00350,DB281_00350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198212,DB281_RS00355,DB281_RS00355,DB281_00355,-,-,-,RnfABCDGE type electron transport complex subunit D,protein-coding,-,-,-,RnfABCDGE type electron transport complex subunit D,20210423,-
+29519,64198213,DB281_RS00360,DB281_RS00360,DB281_00360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198214,prfB,DB281_RS00365,DB281_00365,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210423,-
+29519,64198215,DB281_RS00370,DB281_RS00370,DB281_00370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198216,ftsY,DB281_RS00375,DB281_00375,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210423,-
+29519,64198217,DB281_RS00380,DB281_RS00380,DB281_00380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198218,DB281_RS00385,DB281_RS00385,DB281_00385,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198219,DB281_RS00390,DB281_RS00390,DB281_00390,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198220,DB281_RS00395,DB281_RS00395,DB281_00395,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198221,DB281_RS00400,DB281_RS00400,DB281_00400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198222,DB281_RS00405,DB281_RS00405,DB281_00405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198223,DB281_RS00410,DB281_RS00410,DB281_00410,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210423,-
+29519,64198224,DB281_RS00415,DB281_RS00415,DB281_00415,-,-,-,iron-sulfur cluster scaffold-like protein,protein-coding,-,-,-,iron-sulfur cluster scaffold-like protein,20210423,-
+29519,64198225,DB281_RS00420,DB281_RS00420,DB281_00420,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20210423,-
+29519,64198226,DB281_RS00425,DB281_RS00425,DB281_00425,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20210423,-
+29519,64198227,lepA,DB281_RS00430,DB281_00430,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210423,-
+29519,64198228,DB281_RS00435,DB281_RS00435,DB281_00435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198229,DB281_RS00440,DB281_RS00440,DB281_00440,-,-,-,ATP synthase subunit K,protein-coding,-,-,-,ATP synthase subunit K,20210423,-
+29519,64198230,DB281_RS00445,DB281_RS00445,DB281_00445,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20210423,-
+29519,64198231,DB281_RS00450,DB281_RS00450,DB281_00450,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20210423,-
+29519,64198232,DB281_RS00455,DB281_RS00455,DB281_00455,-,-,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20210423,-
+29519,64198233,DB281_RS00460,DB281_RS00460,DB281_00460,-,-,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20210423,-
+29519,64198234,DB281_RS00465,DB281_RS00465,DB281_00465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198235,DB281_RS00470,DB281_RS00470,DB281_00470,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20210423,-
+29519,64198236,DB281_RS00475,DB281_RS00475,DB281_00475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198237,DB281_RS00480,DB281_RS00480,DB281_00480,-,-,-,endonuclease MutS2,protein-coding,-,-,-,endonuclease MutS2,20210423,-
+29519,64198238,rsgA,DB281_RS00485,DB281_00485,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20210423,-
+29519,64198239,murI,DB281_RS00490,DB281_00490,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20210423,-
+29519,64198240,asnS,DB281_RS00495,DB281_00495,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20210423,-
+29519,64198241,DB281_RS00500,DB281_RS00500,DB281_00500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198242,DB281_RS00505,DB281_RS00505,DB281_00505,-,-,-,phosphoribosyltransferase,protein-coding,-,-,-,phosphoribosyltransferase,20210423,-
+29519,64198243,DB281_RS00510,DB281_RS00510,DB281_00510,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20210423,-
+29519,64198244,map,DB281_RS00515,DB281_00515,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210423,-
+29519,64198245,DB281_RS00520,DB281_RS00520,DB281_00520,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198246,nusB,DB281_RS00525,DB281_00525,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210423,-
+29519,64198247,DB281_RS00530,DB281_RS00530,DB281_00530,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210423,-
+29519,64198248,DB281_RS00535,DB281_RS00535,DB281_00535,-,-,-,acetyl-CoA C-acyltransferase,protein-coding,-,-,-,acetyl-CoA C-acyltransferase,20210423,-
+29519,64198249,DB281_RS00540,DB281_RS00540,DB281_00540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198250,dnaB,DB281_RS00545,DB281_00545,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210423,-
+29519,64198251,DB281_RS00550,DB281_RS00550,DB281_00550,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210423,-
+29519,64198252,rpsR,DB281_RS00555,DB281_00555,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210423,-
+29519,64198253,ssb,DB281_RS00560,DB281_00560,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210423,-
+29519,64198254,DB281_RS00565,DB281_RS00565,DB281_00565,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210423,-
+29519,64198255,DB281_RS00570,DB281_RS00570,DB281_00570,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210423,-
+29519,64198256,DB281_RS00575,DB281_RS00575,DB281_00575,-,-,-,hemolysin III family protein,protein-coding,-,-,-,hemolysin III family protein,20210423,-
+29519,64198257,rseP,DB281_RS00580,DB281_00580,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20210423,-
+29519,64198258,DB281_RS00585,DB281_RS00585,DB281_00585,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210423,-
+29519,64198259,uppS,DB281_RS00590,DB281_00590,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20210423,-
+29519,64198260,frr,DB281_RS00595,DB281_00595,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210423,-
+29519,64198261,tsf,DB281_RS00600,DB281_00600,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20210423,-
+29519,64198262,rpsB,DB281_RS00605,DB281_00605,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210423,-
+29519,64198263,DB281_RS00610,DB281_RS00610,DB281_00610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198264,DB281_RS00615,DB281_RS00615,DB281_00615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198265,DB281_RS00620,DB281_RS00620,DB281_00620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198266,DB281_RS00625,DB281_RS00625,DB281_00625,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210423,-
+29519,64198267,cmk,DB281_RS00630,DB281_00630,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210423,-
+29519,64198268,DB281_RS00635,DB281_RS00635,DB281_00635,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20210423,-
+29519,64198269,DB281_RS00640,DB281_RS00640,DB281_00640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198270,recA,DB281_RS00645,DB281_00645,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210423,-
+29519,64198271,greA,DB281_RS00650,DB281_00650,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20210423,-
+29519,64198272,DB281_RS00655,DB281_RS00655,DB281_00655,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198273,DB281_RS00660,DB281_RS00660,DB281_00660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198274,DB281_RS00665,DB281_RS00665,DB281_00665,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210423,-
+29519,64198275,DB281_RS00670,DB281_RS00670,DB281_00670,-,-,-,transpeptidase family protein,protein-coding,-,-,-,transpeptidase family protein,20210423,-
+29519,64198276,DB281_RS00675,DB281_RS00675,DB281_00675,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210423,-
+29519,64198277,DB281_RS00680,DB281_RS00680,DB281_00680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198278,DB281_RS00685,DB281_RS00685,DB281_00685,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20210423,-
+29519,64198279,DB281_RS00690,DB281_RS00690,DB281_00690,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210423,-
+29519,64198280,DB281_RS00695,DB281_RS00695,DB281_00695,-,-,-,TolC family protein,protein-coding,-,-,-,TolC family protein,20210423,-
+29519,64198281,yidD,DB281_RS00700,DB281_00700,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210423,-
+29519,64198282,DB281_RS00705,DB281_RS00705,DB281_00705,-,-,-,glycine betaine ABC transporter substrate-binding protein,protein-coding,-,-,-,glycine betaine ABC transporter substrate-binding protein,20210423,-
+29519,64198283,DB281_RS00710,DB281_RS00710,DB281_00710,-,-,-,proline/glycine betaine ABC transporter permease,protein-coding,-,-,-,proline/glycine betaine ABC transporter permease,20210423,-
+29519,64198284,DB281_RS00715,DB281_RS00715,DB281_00715,-,-,-,glycine betaine/L-proline ABC transporter ATP-binding protein,protein-coding,-,-,-,glycine betaine/L-proline ABC transporter ATP-binding protein,20210423,-
+29519,64198285,flaB,DB281_RS00720,DB281_00720,-,-,-,flagellin FlaB,protein-coding,-,-,-,flagellin FlaB,20210423,-
+29519,64198286,fliD,DB281_RS00725,DB281_00725,-,-,-,flagellar filament capping protein FliD,protein-coding,-,-,-,flagellar filament capping protein FliD,20210423,-
+29519,64198287,nagA,DB281_RS00730,DB281_00730,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,protein-coding,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,20210423,-
+29519,64198288,DB281_RS00735,DB281_RS00735,DB281_00735,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20210423,-
+29519,64198289,DB281_RS00740,DB281_RS00740,DB281_00740,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20210423,-
+29519,64198290,secA,DB281_RS00745,DB281_00745,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210423,-
+29519,64198291,DB281_RS00750,DB281_RS00750,DB281_00750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198292,DB281_RS00755,DB281_RS00755,DB281_00755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198293,DB281_RS00760,DB281_RS00760,DB281_00760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198294,DB281_RS00765,DB281_RS00765,DB281_00765,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210423,-
+29519,64198295,DB281_RS00770,DB281_RS00770,DB281_00770,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210423,-
+29519,64198296,alr,DB281_RS00775,DB281_00775,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20210423,-
+29519,64198297,DB281_RS00780,DB281_RS00780,DB281_00780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198298,DB281_RS00785,DB281_RS00785,DB281_00785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198299,DB281_RS00790,DB281_RS00790,DB281_00790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198300,DB281_RS00795,DB281_RS00795,DB281_00795,-,-,-,calcium/sodium antiporter,protein-coding,-,-,-,calcium/sodium antiporter,20210423,-
+29519,64198301,DB281_RS00800,DB281_RS00800,DB281_00800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198302,malQ,DB281_RS00805,DB281_00805,-,-,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20210423,-
+29519,64198303,DB281_RS00810,DB281_RS00810,DB281_00810,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20210423,-
+29519,64198304,DB281_RS00815,DB281_RS00815,DB281_00815,-,-,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20210423,-
+29519,64198305,infA,DB281_RS00820,DB281_00820,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210423,-
+29519,64198306,DB281_RS00825,DB281_RS00825,DB281_00825,-,-,-,BatD family protein,protein-coding,-,-,-,BatD family protein,20210423,-
+29519,64198307,DB281_RS00830,DB281_RS00830,DB281_00830,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198308,DB281_RS00835,DB281_RS00835,DB281_00835,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210423,-
+29519,64198309,DB281_RS00840,DB281_RS00840,DB281_00840,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210423,-
+29519,64198310,DB281_RS00845,DB281_RS00845,DB281_00845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198311,DB281_RS00850,DB281_RS00850,DB281_00850,-,-,-,DUF58 domain-containing protein,protein-coding,-,-,-,DUF58 domain-containing protein,20210423,-
+29519,64198312,DB281_RS00855,DB281_RS00855,DB281_00855,-,-,-,MoxR family ATPase,protein-coding,-,-,-,MoxR family ATPase,20210423,-
+29519,64198313,rsmG,DB281_RS00860,DB281_00860,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210423,-
+29519,64198314,mnmG,DB281_RS00865,DB281_00865,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210423,-
+29519,64198315,mnmE,DB281_RS00870,DB281_00870,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210423,-
+29519,64198316,DB281_RS00875,DB281_RS00875,DB281_00875,-,-,-,flagellar protein FlbF,protein-coding,-,-,-,flagellar protein FlbF,20210422,-
+29519,64198317,flgK,DB281_RS00880,DB281_00880,-,-,-,flagellar hook-associated protein FlgK,protein-coding,-,-,-,flagellar hook-associated protein FlgK,20210423,-
+29519,64198318,DB281_RS00885,DB281_RS00885,DB281_00885,-,-,-,flagellar hook-associated protein 3,protein-coding,-,-,-,flagellar hook-associated protein 3,20210423,-
+29519,64198319,fliW,DB281_RS00890,DB281_00890,-,-,-,flagellar assembly protein FliW,protein-coding,-,-,-,flagellar assembly protein FliW,20210423,-
+29519,64198320,csrA,DB281_RS00895,DB281_00895,-,-,-,carbon storage regulator CsrA,protein-coding,-,-,-,carbon storage regulator CsrA,20210423,-
+29519,64198321,tsaB,DB281_RS00900,DB281_00900,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210423,-
+29519,64198322,tsaE,DB281_RS00905,DB281_00905,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210423,-
+29519,64198323,DB281_RS00910,DB281_RS00910,DB281_00910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198324,rplT,DB281_RS00915,DB281_00915,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210423,-
+29519,64198325,rpmI,DB281_RS00920,DB281_00920,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210423,-
+29519,64198326,DB281_RS00925,DB281_RS00925,DB281_00925,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210423,-
+29519,64198327,DB281_RS00930,DB281_RS00930,DB281_00930,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210423,-
+29519,64198328,DB281_RS00935,DB281_RS00935,DB281_00935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198329,DB281_RS00940,DB281_RS00940,DB281_00940,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210423,-
+29519,64198330,DB281_RS00945,DB281_RS00945,DB281_00945,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198331,prfA,DB281_RS00950,DB281_00950,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210423,-
+29519,64198332,prmC,DB281_RS00955,DB281_00955,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210423,-
+29519,64198333,spoT,DB281_RS00960,DB281_00960,-,-,-,"guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20210423,-
+29519,64198334,DB281_RS00965,DB281_RS00965,DB281_00965,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198335,DB281_RS00970,DB281_RS00970,DB281_00970,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210423,-
+29519,64198336,DB281_RS00975,DB281_RS00975,DB281_00975,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20210423,-
+29519,64198337,DB281_RS00980,DB281_RS00980,DB281_00980,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198338,DB281_RS00985,DB281_RS00985,DB281_00985,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210423,-
+29519,64198339,hflK,DB281_RS00990,DB281_00990,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20210423,-
+29519,64198340,hflC,DB281_RS00995,DB281_00995,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20210423,-
+29519,64198341,DB281_RS01000,DB281_RS01000,DB281_01000,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198342,DB281_RS01005,DB281_RS01005,DB281_01005,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198343,DB281_RS01010,DB281_RS01010,DB281_01010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198344,rsmD,DB281_RS01015,DB281_01015,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210423,-
+29519,64198345,DB281_RS01020,DB281_RS01020,DB281_01020,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210423,-
+29519,64198346,DB281_RS01025,DB281_RS01025,DB281_01025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198347,DB281_RS01030,DB281_RS01030,DB281_01030,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198348,DB281_RS01035,DB281_RS01035,DB281_01035,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198349,mutL,DB281_RS01040,DB281_01040,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20210423,-
+29519,64198350,DB281_RS01045,DB281_RS01045,DB281_01045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198351,DB281_RS01050,DB281_RS01050,DB281_01050,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198352,DB281_RS01055,DB281_RS01055,DB281_01055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198353,efp,DB281_RS01060,DB281_01060,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210423,-
+29519,64198354,DB281_RS01065,DB281_RS01065,DB281_01065,-,-,-,extracellular solute-binding protein,protein-coding,-,-,-,extracellular solute-binding protein,20210423,-
+29519,64198355,pstC,DB281_RS01070,DB281_01070,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20210423,-
+29519,64198356,pstA,DB281_RS01075,DB281_01075,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210423,-
+29519,64198357,DB281_RS01080,DB281_RS01080,DB281_01080,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20210423,-
+29519,64198358,DB281_RS01085,DB281_RS01085,DB281_01085,-,-,-,ZIP family metal transporter,protein-coding,-,-,-,ZIP family metal transporter,20210423,-
+29519,64198359,DB281_RS01090,DB281_RS01090,DB281_01090,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210423,-
+29519,64198360,DB281_RS01095,DB281_RS01095,DB281_01095,-,-,-,flagellar motor switch protein FliG,protein-coding,-,-,-,flagellar motor switch protein FliG,20210423,-
+29519,64198361,DB281_RS01100,DB281_RS01100,DB281_01100,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210423,-
+29519,64198362,DB281_RS01105,DB281_RS01105,DB281_01105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198363,dusA,DB281_RS01110,DB281_01110,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,protein-coding,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,20210423,-
+29519,64198364,serS,DB281_RS01115,DB281_01115,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210423,-
+29519,64198365,DB281_RS01120,DB281_RS01120,DB281_01120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198366,DB281_RS01125,DB281_RS01125,DB281_01125,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210423,-
+29519,64198367,DB281_RS01130,DB281_RS01130,DB281_01130,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210423,-
+29519,64198368,rho,DB281_RS01135,DB281_01135,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210423,-
+29519,64198369,DB281_RS01140,DB281_RS01140,DB281_01140,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210423,-
+29519,64198370,DB281_RS01145,DB281_RS01145,DB281_01145,-,-,-,integration host factor subunit beta,protein-coding,-,-,-,integration host factor subunit beta,20210423,-
+29519,64198371,DB281_RS01150,DB281_RS01150,DB281_01150,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210423,-
+29519,64198372,DB281_RS01155,DB281_RS01155,DB281_01155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198373,ychF,DB281_RS01160,DB281_01160,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210423,-
+29519,64198374,DB281_RS01165,DB281_RS01165,DB281_01165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198375,lnt,DB281_RS01170,DB281_01170,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20210423,-
+29519,64198376,DB281_RS01175,DB281_RS01175,DB281_01175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198377,DB281_RS01180,DB281_RS01180,DB281_01180,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210423,-
+29519,64198378,DB281_RS01185,DB281_RS01185,DB281_01185,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20210423,-
+29519,64198379,glpK,DB281_RS01190,DB281_01190,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20210423,-
+29519,64198380,DB281_RS01195,DB281_RS01195,DB281_01195,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,protein-coding,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,20210423,-
+29519,64198381,DB281_RS01200,DB281_RS01200,DB281_01200,-,-,-,DUF327 family protein,protein-coding,-,-,-,DUF327 family protein,20210423,-
+29519,64198382,DB281_RS01205,DB281_RS01205,DB281_01205,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210423,-
+29519,64198383,DB281_RS01210,DB281_RS01210,DB281_01210,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20210423,-
+29519,64198384,rdgB,DB281_RS01215,DB281_01215,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20210423,-
+29519,64198385,pepF,DB281_RS01220,DB281_01220,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210423,-
+29519,64198386,DB281_RS01225,DB281_RS01225,DB281_01225,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20210423,-
+29519,64198387,DB281_RS01230,DB281_RS01230,DB281_01230,-,-,-,DedA family protein,protein-coding,-,-,-,DedA family protein,20210423,-
+29519,64198388,DB281_RS01235,DB281_RS01235,DB281_01235,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198389,leuS,DB281_RS01240,DB281_01240,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210423,-
+29519,64198390,DB281_RS01245,DB281_RS01245,DB281_01245,-,-,-,RND family transporter,protein-coding,-,-,-,RND family transporter,20210423,-
+29519,64198391,lon,DB281_RS01250,DB281_01250,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210423,-
+29519,64198392,recJ,DB281_RS01255,DB281_01255,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210423,-
+29519,64198393,DB281_RS01260,DB281_RS01260,DB281_01260,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210423,-
+29519,64198394,DB281_RS01265,DB281_RS01265,DB281_01265,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210423,-
+29519,64198395,DB281_RS01270,DB281_RS01270,DB281_01270,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210423,-
+29519,64198396,DB281_RS01275,DB281_RS01275,DB281_01275,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20210423,-
+29519,64198397,DB281_RS01280,DB281_RS01280,DB281_01280,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210423,-
+29519,64198398,DB281_RS01285,DB281_RS01285,DB281_01285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198399,DB281_RS01290,DB281_RS01290,DB281_01290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198400,DB281_RS01295,DB281_RS01295,DB281_01295,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210423,-
+29519,64198401,lepB,DB281_RS01300,DB281_01300,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210423,-
+29519,64198402,DB281_RS01305,DB281_RS01305,DB281_01305,-,-,-,Hsp70 family protein,protein-coding,-,-,-,Hsp70 family protein,20210423,-
+29519,64198403,DB281_RS01310,DB281_RS01310,DB281_01310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198404,DB281_RS01315,DB281_RS01315,DB281_01315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198405,DB281_RS01320,DB281_RS01320,DB281_01320,-,-,-,DUF342 domain-containing protein,protein-coding,-,-,-,DUF342 domain-containing protein,20210423,-
+29519,64198406,DB281_RS01325,DB281_RS01325,DB281_01325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198407,DB281_RS01330,DB281_RS01330,DB281_01330,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210423,-
+29519,64198408,flhF,DB281_RS01335,DB281_01335,-,-,-,flagellar biosynthesis protein FlhF,protein-coding,-,-,-,flagellar biosynthesis protein FlhF,20210423,-
+29519,64198409,flhA,DB281_RS01340,DB281_01340,-,-,-,flagellar biosynthesis protein FlhA,protein-coding,-,-,-,flagellar biosynthesis protein FlhA,20210423,-
+29519,64198410,flhB,DB281_RS01345,DB281_01345,-,-,-,flagellar biosynthesis protein FlhB,protein-coding,-,-,-,flagellar biosynthesis protein FlhB,20210423,-
+29519,64198411,fliR,DB281_RS01350,DB281_01350,-,-,-,flagellar biosynthetic protein FliR,protein-coding,-,-,-,flagellar biosynthetic protein FliR,20210423,-
+29519,64198412,fliQ,DB281_RS01355,DB281_01355,-,-,-,flagellar biosynthesis protein FliQ,protein-coding,-,-,-,flagellar biosynthesis protein FliQ,20210423,-
+29519,64198413,fliP,DB281_RS01360,DB281_01360,-,-,-,flagellar type III secretion system pore protein FliP,protein-coding,-,-,-,flagellar type III secretion system pore protein FliP,20210423,-
+29519,64198414,DB281_RS01365,DB281_RS01365,DB281_01365,-,-,-,flagella biosynthesis regulatory protein FliZ,protein-coding,-,-,-,flagella biosynthesis regulatory protein FliZ,20210423,-
+29519,64198415,fliN,DB281_RS01370,DB281_01370,-,-,-,flagellar motor switch protein FliN,protein-coding,-,-,-,flagellar motor switch protein FliN,20210423,-
+29519,64198416,fliM,DB281_RS01375,DB281_01375,-,-,-,flagellar motor switch protein FliM,protein-coding,-,-,-,flagellar motor switch protein FliM,20210423,-
+29519,64198417,fliL,DB281_RS01380,DB281_01380,-,-,-,flagellar basal body-associated protein FliL,protein-coding,-,-,-,flagellar basal body-associated protein FliL,20210423,-
+29519,64198418,motB,DB281_RS01385,DB281_01385,-,-,-,flagellar motor protein MotB,protein-coding,-,-,-,flagellar motor protein MotB,20210423,-
+29519,64198419,DB281_RS01390,DB281_RS01390,DB281_01390,-,-,-,motility protein A,protein-coding,-,-,-,motility protein A,20210423,-
+29519,64198420,DB281_RS01395,DB281_RS01395,DB281_01395,-,-,-,flagellar FlbD family protein,protein-coding,-,-,-,flagellar FlbD family protein,20210423,-
+29519,64198421,flgE,DB281_RS01400,DB281_01400,-,-,-,flagellar hook protein FlgE,protein-coding,-,-,-,flagellar hook protein FlgE,20210423,-
+29519,64198422,flgD,DB281_RS01405,DB281_01405,-,-,-,flagellar hook assembly protein FlgD,protein-coding,-,-,-,flagellar hook assembly protein FlgD,20210423,-
+29519,64198423,DB281_RS01410,DB281_RS01410,DB281_01410,-,-,-,flagellar hook-length control protein FliK,protein-coding,-,-,-,flagellar hook-length control protein FliK,20210423,-
+29519,64198424,DB281_RS01415,DB281_RS01415,DB281_01415,-,-,-,flagellar protein,protein-coding,-,-,-,flagellar protein,20210423,-
+29519,64198425,DB281_RS01420,DB281_RS01420,DB281_01420,-,-,-,flagellar protein FlbA,protein-coding,-,-,-,flagellar protein FlbA,20210422,-
+29519,64198426,DB281_RS01425,DB281_RS01425,DB281_01425,-,-,-,FliI/YscN family ATPase,protein-coding,-,-,-,FliI/YscN family ATPase,20210423,-
+29519,64198427,fliH,DB281_RS01430,DB281_01430,-,-,-,flagellar assembly protein FliH,protein-coding,-,-,-,flagellar assembly protein FliH,20210423,-
+29519,64198428,fliG,DB281_RS01435,DB281_01435,-,-,-,flagellar motor switch protein FliG,protein-coding,-,-,-,flagellar motor switch protein FliG,20210423,-
+29519,64198429,fliF,DB281_RS01440,DB281_01440,-,-,-,flagellar M-ring protein FliF,protein-coding,-,-,-,flagellar M-ring protein FliF,20210423,-
+29519,64198430,fliE,DB281_RS01445,DB281_01445,-,-,-,flagellar hook-basal body complex protein FliE,protein-coding,-,-,-,flagellar hook-basal body complex protein FliE,20210423,-
+29519,64198431,flgC,DB281_RS01450,DB281_01450,-,-,-,flagellar basal body rod protein FlgC,protein-coding,-,-,-,flagellar basal body rod protein FlgC,20210423,-
+29519,64198432,flgB,DB281_RS01455,DB281_01455,-,-,-,flagellar basal body rod protein FlgB,protein-coding,-,-,-,flagellar basal body rod protein FlgB,20210423,-
+29519,64198433,hslU,DB281_RS01460,DB281_01460,-,-,-,HslU--HslV peptidase ATPase subunit,protein-coding,-,-,-,HslU--HslV peptidase ATPase subunit,20210423,-
+29519,64198434,hslV,DB281_RS01465,DB281_01465,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20210423,-
+29519,64198435,dprA,DB281_RS01470,DB281_01470,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210423,-
+29519,64198436,DB281_RS01475,DB281_RS01475,DB281_01475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198437,ftsZ,DB281_RS01480,DB281_01480,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210423,-
+29519,64198438,ftsA,DB281_RS01485,DB281_01485,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20210423,-
+29519,64198439,DB281_RS01490,DB281_RS01490,DB281_01490,-,-,-,cell division protein FtsQ/DivIB,protein-coding,-,-,-,cell division protein FtsQ/DivIB,20210423,-
+29519,64198440,ftsW,DB281_RS01495,DB281_01495,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20210423,-
+29519,64198441,DB281_RS01500,DB281_RS01500,DB281_01500,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20210423,-
+29519,64198442,DB281_RS01505,DB281_RS01505,DB281_01505,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210423,-
+29519,64198443,DB281_RS01510,DB281_RS01510,DB281_01510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198444,rsmH,DB281_RS01515,DB281_01515,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210423,-
+29519,64198445,DB281_RS01520,DB281_RS01520,DB281_01520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198446,DB281_RS01525,DB281_RS01525,DB281_01525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198447,DB281_RS01530,DB281_RS01530,DB281_01530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198448,DB281_RS01535,DB281_RS01535,DB281_01535,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20210423,-
+29519,64198449,DB281_RS01540,DB281_RS01540,DB281_01540,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210423,-
+29519,64198450,DB281_RS01545,DB281_RS01545,DB281_01545,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20210423,-
+29519,64198451,DB281_RS01550,DB281_RS01550,DB281_01550,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210423,-
+29519,64198452,DB281_RS01555,DB281_RS01555,DB281_01555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198453,DB281_RS01560,DB281_RS01560,DB281_01560,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198454,DB281_RS01565,DB281_RS01565,DB281_01565,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198455,DB281_RS01570,DB281_RS01570,DB281_01570,-,-,-,sugar ABC transporter ATP-binding protein,protein-coding,-,-,-,sugar ABC transporter ATP-binding protein,20210423,-
+29519,64198456,DB281_RS01575,DB281_RS01575,DB281_01575,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20210423,-
+29519,64198457,DB281_RS01585,DB281_RS01585,DB281_01585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198458,DB281_RS01590,DB281_RS01590,DB281_01590,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210423,-
+29519,64198459,DB281_RS01595,DB281_RS01595,DB281_01595,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198460,DB281_RS01600,DB281_RS01600,DB281_01600,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210423,-
+29519,64198461,DB281_RS01605,DB281_RS01605,DB281_01605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198462,DB281_RS01610,DB281_RS01610,DB281_01610,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210423,-
+29519,64198463,DB281_RS01615,DB281_RS01615,DB281_01615,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210423,-
+29519,64198464,DB281_RS01620,DB281_RS01620,DB281_01620,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210423,-
+29519,64198465,DB281_RS01625,DB281_RS01625,DB281_01625,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210423,-
+29519,64198466,DB281_RS01630,DB281_RS01630,DB281_01630,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198467,DB281_RS01635,DB281_RS01635,DB281_01635,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198468,DB281_RS01640,DB281_RS01640,DB281_01640,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198469,DB281_RS01645,DB281_RS01645,DB281_01645,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210423,-
+29519,64198470,DB281_RS01650,DB281_RS01650,DB281_01650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+29519,64198471,eno,DB281_RS01655,DB281_01655,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210423,-
+29519,64198472,rpsI,DB281_RS01660,DB281_01660,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210423,-
+29519,64198473,rplM,DB281_RS01665,DB281_01665,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210423,-
+29519,64198474,DB281_RS01670,DB281_RS01670,DB281_01670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198475,gatB,DB281_RS01675,DB281_01675,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210423,-
+29519,64198476,gatA,DB281_RS01680,DB281_01680,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210423,-
+29519,64198477,gatC,DB281_RS01685,DB281_01685,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210423,-
+29519,64198478,DB281_RS01690,DB281_RS01690,DB281_01690,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210423,-
+29519,64198479,DB281_RS01695,DB281_RS01695,DB281_01695,-,-,-,BB_0345 family helix-turn-helix protein,protein-coding,-,-,-,BB_0345 family helix-turn-helix protein,20210423,-
+29519,64198480,DB281_RS01700,DB281_RS01700,DB281_01700,-,-,-,outer membrane lipoprotein carrier protein LolA,protein-coding,-,-,-,outer membrane lipoprotein carrier protein LolA,20210423,-
+29519,64198481,DB281_RS01705,DB281_RS01705,DB281_01705,-,-,-,fibronectin-binding domain-containing protein,protein-coding,-,-,-,fibronectin-binding domain-containing protein,20210423,-
+29519,64198482,pyk,DB281_RS01710,DB281_01710,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210423,-
+29519,64198483,amrB,DB281_RS01715,DB281_01715,-,-,-,AmmeMemoRadiSam system protein B,protein-coding,-,-,-,AmmeMemoRadiSam system protein B,20210422,-
+29519,64198484,DB281_RS01720,DB281_RS01720,DB281_01720,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210423,-
+29519,64198485,DB281_RS01725,DB281_RS01725,DB281_01725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198486,DB281_RS01730,DB281_RS01730,DB281_01730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198487,DB281_RS01735,DB281_RS01735,DB281_01735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198488,DB281_RS01740,DB281_RS01740,DB281_01740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198489,DB281_RS01745,DB281_RS01745,DB281_01745,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20210423,-
+29519,64198490,DB281_RS01750,DB281_RS01750,DB281_01750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198491,DB281_RS01755,DB281_RS01755,DB281_01755,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210423,-
+29519,64198492,DB281_RS01760,DB281_RS01760,DB281_01760,-,-,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20210423,-
+29519,64198493,DB281_RS01770,DB281_RS01770,DB281_01770,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210423,-
+29519,64198494,DB281_RS01775,DB281_RS01775,DB281_01775,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210423,-
+29519,64198495,DB281_RS01780,DB281_RS01780,DB281_01780,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,64198496,mgsA,DB281_RS01785,DB281_01785,-,-,-,methylglyoxal synthase,protein-coding,-,-,-,methylglyoxal synthase,20210423,-
+29519,64198497,DB281_RS01790,DB281_RS01790,DB281_01790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198498,DB281_RS01795,DB281_RS01795,DB281_01795,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20210423,-
+29519,64198499,DB281_RS01800,DB281_RS01800,DB281_01800,-,-,-,DNA mismatch repair protein MutT,protein-coding,-,-,-,DNA mismatch repair protein MutT,20210423,-
+29519,64198500,DB281_RS01805,DB281_RS01805,DB281_01805,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210423,-
+29519,64198501,DB281_RS01810,DB281_RS01810,DB281_01810,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210423,-
+29519,64198502,DB281_RS01815,DB281_RS01815,DB281_01815,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210423,-
+29519,64198503,DB281_RS01820,DB281_RS01820,DB281_01820,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210423,-
+29519,64198504,DB281_RS01825,DB281_RS01825,DB281_01825,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210423,-
+29519,64198505,DB281_RS01830,DB281_RS01830,DB281_01830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198506,pdeB,DB281_RS01835,DB281_01835,-,-,-,cyclic di-GMP phosphodiesterase PdeB,protein-coding,-,-,-,cyclic di-GMP phosphodiesterase PdeB,20210423,-
+29519,64198507,DB281_RS01840,DB281_RS01840,DB281_01840,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210423,-
+29519,64198508,metK,DB281_RS01845,DB281_01845,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210423,-
+29519,64198509,DB281_RS01850,DB281_RS01850,DB281_01850,-,-,-,S-ribosylhomocysteine lyase,protein-coding,-,-,-,S-ribosylhomocysteine lyase,20210423,-
+29519,64198510,DB281_RS01855,DB281_RS01855,DB281_01855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198511,DB281_RS01860,DB281_RS01860,DB281_01860,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20210423,-
+29519,64198512,mgtE,DB281_RS01865,DB281_01865,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210423,-
+29519,64198513,DB281_RS01870,DB281_RS01870,DB281_01870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198514,DB281_RS01875,DB281_RS01875,DB281_01875,-,-,-,nucleoside ABC transporter substrate-binding protein BmpB,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpB,20210423,-
+29519,64198515,DB281_RS01880,DB281_RS01880,DB281_01880,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,20210423,-
+29519,64198516,DB281_RS01885,DB281_RS01885,DB281_01885,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20210423,-
+29519,64198517,DB281_RS01890,DB281_RS01890,DB281_01890,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,20210423,-
+29519,64198518,DB281_RS01895,DB281_RS01895,DB281_01895,-,-,-,nucleoside ABC transporter substrate-binding protein BmpC,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpC,20210423,-
+29519,64198519,DB281_RS01900,DB281_RS01900,DB281_01900,-,-,-,nucleoside ABC transporter substrate-binding protein BmpD,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpD,20210423,-
+29519,64198520,rpsG,DB281_RS01905,DB281_01905,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210423,-
+29519,64198521,DB281_RS01910,DB281_RS01910,DB281_01910,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210423,-
+29519,64198522,rpoC,DB281_RS01915,DB281_01915,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210423,-
+29519,64198523,rpoB,DB281_RS01920,DB281_01920,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210423,-
+29519,64198524,rplL,DB281_RS01925,DB281_01925,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210423,-
+29519,64198525,DB281_RS01930,DB281_RS01930,DB281_01930,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210423,-
+29519,64198526,DB281_RS01935,DB281_RS01935,DB281_01935,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210423,-
+29519,64198527,rplK,DB281_RS01940,DB281_01940,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210423,-
+29519,64198528,nusG,DB281_RS01945,DB281_01945,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20210423,-
+29519,64198529,secE,DB281_RS01950,DB281_01950,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210423,-
+29519,64198530,DB281_RS01955,DB281_RS01955,DB281_01955,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198531,rpmG,DB281_RS01960,DB281_01960,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210423,-
+29519,64198532,DB281_RS01965,DB281_RS01965,DB281_01965,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198533,DB281_RS01970,DB281_RS01970,DB281_01970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198534,DB281_RS01975,DB281_RS01975,DB281_01975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198535,DB281_RS01980,DB281_RS01980,DB281_01980,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210423,-
+29519,64198536,DB281_RS01985,DB281_RS01985,DB281_01985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198537,DB281_RS01990,DB281_RS01990,DB281_01990,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210423,-
+29519,64198538,proS,DB281_RS01995,DB281_01995,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210423,-
+29519,64198539,DB281_RS02000,DB281_RS02000,DB281_02000,-,-,-,DUF2259 domain-containing protein,protein-coding,-,-,-,DUF2259 domain-containing protein,20210423,-
+29519,64198540,DB281_RS02010,DB281_RS02010,DB281_02010,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210423,-
+29519,64198541,DB281_RS02015,DB281_RS02015,DB281_02015,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210423,-
+29519,64198542,manA,DB281_RS02020,DB281_02020,-,-,-,"mannose-6-phosphate isomerase, class I",protein-coding,-,-,-,"mannose-6-phosphate isomerase, class I",20210423,-
+29519,64198543,DB281_RS02025,DB281_RS02025,DB281_02025,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210423,-
+29519,64198544,DB281_RS02030,DB281_RS02030,DB281_02030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198545,DB281_RS02035,DB281_RS02035,DB281_02035,-,-,-,DNA/RNA non-specific endonuclease,protein-coding,-,-,-,DNA/RNA non-specific endonuclease,20210423,-
+29519,64198546,DB281_RS02040,DB281_RS02040,DB281_02040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198547,DB281_RS02045,DB281_RS02045,DB281_02045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198548,DB281_RS02050,DB281_RS02050,DB281_02050,-,-,-,protein-glutamate O-methyltransferase,protein-coding,-,-,-,protein-glutamate O-methyltransferase,20210423,-
+29519,64198549,DB281_RS02055,DB281_RS02055,DB281_02055,-,-,-,chemotaxis protein CheB,protein-coding,-,-,-,chemotaxis protein CheB,20210423,-
+29519,64198550,DB281_RS02060,DB281_RS02060,DB281_02060,-,-,-,TraB family protein,protein-coding,-,-,-,TraB family protein,20210423,-
+29519,64198551,DB281_RS02065,DB281_RS02065,DB281_02065,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20210423,-
+29519,64198552,DB281_RS02070,DB281_RS02070,DB281_02070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198553,rrp1,DB281_RS02075,DB281_02075,-,-,-,cyclic-di-GMP-producing response regulator Rrp1,protein-coding,-,-,-,cyclic-di-GMP-producing response regulator Rrp1,20210423,-
+29519,64198554,DB281_RS02080,DB281_RS02080,DB281_02080,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210423,-
+29519,64198555,rrf,DB281_RS02085,DB281_02085,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210422,-
+29519,64198556,DB281_RS02090,DB281_RS02090,DB281_02090,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210422,-
+29519,64198557,rrf,DB281_RS02095,DB281_02095,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210422,-
+29519,64198558,DB281_RS02100,DB281_RS02100,DB281_02100,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210422,-
+29519,64198559,DB281_RS02105,DB281_RS02105,DB281_02105,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210423,-
+29519,64198560,DB281_RS02110,DB281_RS02110,DB281_02110,-,-,-,DNA-3-methyladenine glycosylase,protein-coding,-,-,-,DNA-3-methyladenine glycosylase,20210423,-
+29519,64198561,DB281_RS02115,DB281_RS02115,DB281_02115,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198562,DB281_RS02120,DB281_RS02120,DB281_02120,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198563,DB281_RS02125,DB281_RS02125,DB281_02125,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210422,-
+29519,64198564,DB281_RS02130,DB281_RS02130,DB281_02130,-,-,-,nucleoside 2-deoxyribosyltransferase,protein-coding,-,-,-,nucleoside 2-deoxyribosyltransferase,20210423,-
+29519,64198565,rsmI,DB281_RS02135,DB281_02135,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20210423,-
+29519,64198566,DB281_RS02140,DB281_RS02140,DB281_02140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198567,DB281_RS02145,DB281_RS02145,DB281_02145,-,-,-,DUF1893 domain-containing protein,protein-coding,-,-,-,DUF1893 domain-containing protein,20210423,-
+29519,64198568,DB281_RS02150,DB281_RS02150,DB281_02150,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210423,-
+29519,64198569,DB281_RS02155,DB281_RS02155,DB281_02155,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210423,-
+29519,64198570,DB281_RS02160,DB281_RS02160,DB281_02160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198571,DB281_RS02165,DB281_RS02165,DB281_02165,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210423,-
+29519,64198572,gyrA,DB281_RS02170,DB281_02170,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20210423,-
+29519,64198573,gyrB,DB281_RS02175,DB281_02175,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210423,-
+29519,64198574,dnaA,DB281_RS02180,DB281_02180,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210423,-
+29519,64198575,DB281_RS02185,DB281_RS02185,DB281_02185,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210423,-
+29519,64198576,DB281_RS02190,DB281_RS02190,DB281_02190,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210422,-
+29519,64198577,rpmH,DB281_RS02195,DB281_02195,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210423,-
+29519,64198578,rnpA,DB281_RS02200,DB281_02200,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210423,-
+29519,64198579,yidC,DB281_RS02205,DB281_02205,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210423,-
+29519,64198580,DB281_RS02210,DB281_RS02210,DB281_02210,-,-,-,protein jag,protein-coding,-,-,-,protein jag,20210423,-
+29519,64198581,DB281_RS02215,DB281_RS02215,DB281_02215,-,-,-,NAD-dependent epimerase,protein-coding,-,-,-,NAD-dependent epimerase,20210423,-
+29519,64198582,fbaA,DB281_RS02220,DB281_02220,-,-,-,class II fructose-bisphosphate aldolase,protein-coding,-,-,-,class II fructose-bisphosphate aldolase,20210423,-
+29519,64198583,aspS,DB281_RS02225,DB281_02225,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210423,-
+29519,64198584,DB281_RS02230,DB281_RS02230,DB281_02230,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210423,-
+29519,64198585,DB281_RS02235,DB281_RS02235,DB281_02235,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210423,-
+29519,64198586,DB281_RS02240,DB281_RS02240,DB281_02240,-,-,-,HPF/RaiA family ribosome-associated protein,protein-coding,-,-,-,HPF/RaiA family ribosome-associated protein,20210423,-
+29519,64198587,rpoN,DB281_RS02245,DB281_02245,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20210423,-
+29519,64198588,DB281_RS02250,DB281_RS02250,DB281_02250,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210423,-
+29519,64198589,DB281_RS02255,DB281_RS02255,DB281_02255,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210423,-
+29519,64198590,DB281_RS02260,DB281_RS02260,DB281_02260,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,mechanosensitive ion channel family protein,20210423,-
+29519,64198591,DB281_RS02265,DB281_RS02265,DB281_02265,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20210423,-
+29519,64198592,DB281_RS02270,DB281_RS02270,DB281_02270,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20210423,-
+29519,64198593,DB281_RS02275,DB281_RS02275,DB281_02275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198594,uvrC,DB281_RS02280,DB281_02280,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20210423,-
+29519,64198595,DB281_RS02285,DB281_RS02285,DB281_02285,-,-,-,fibronectin type III domain-containing protein,protein-coding,-,-,-,fibronectin type III domain-containing protein,20210423,-
+29519,64198596,DB281_RS02290,DB281_RS02290,DB281_02290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198597,DB281_RS02295,DB281_RS02295,DB281_02295,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198598,DB281_RS02300,DB281_RS02300,DB281_02300,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198599,DB281_RS02305,DB281_RS02305,DB281_02305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198600,DB281_RS02310,DB281_RS02310,DB281_02310,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198601,DB281_RS02315,DB281_RS02315,DB281_02315,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198602,ffs,DB281_RS02320,DB281_02320,-,-,-,ncRNA,ncRNA,-,-,-,-,20210422,-
+29519,64198603,dnaX,DB281_RS02325,DB281_02325,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210423,-
+29519,64198604,efbC,DB281_RS02330,DB281_02330,-,-,-,nucleoid-associated protein EbfC,protein-coding,-,-,-,nucleoid-associated protein EbfC,20210423,-
+29519,64198605,DB281_RS02335,DB281_RS02335,DB281_02335,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210423,-
+29519,64198606,DB281_RS02340,DB281_RS02340,DB281_02340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198607,DB281_RS02345,DB281_RS02345,DB281_02345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198608,lptB,DB281_RS02350,DB281_02350,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20210423,-
+29519,64198609,pgeF,DB281_RS02355,DB281_02355,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20210423,-
+29519,64198610,DB281_RS02360,DB281_RS02360,DB281_02360,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210423,-
+29519,64198611,DB281_RS02365,DB281_RS02365,DB281_02365,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210423,-
+29519,64198612,DB281_RS02375,DB281_RS02375,DB281_02375,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20210423,-
+29519,64198613,murA,DB281_RS02380,DB281_02380,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210423,-
+29519,64198614,DB281_RS02385,DB281_RS02385,DB281_02385,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210423,-
+29519,64198615,DB281_RS02390,DB281_RS02390,DB281_02390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198616,tuf,DB281_RS02395,DB281_02395,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210423,-
+29519,64198617,rpsJ,DB281_RS02400,DB281_02400,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210423,-
+29519,64198618,rplC,DB281_RS02405,DB281_02405,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210423,-
+29519,64198619,rplD,DB281_RS02410,DB281_02410,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210423,-
+29519,64198620,rplW,DB281_RS02415,DB281_02415,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210423,-
+29519,64198621,rplB,DB281_RS02420,DB281_02420,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210423,-
+29519,64198622,rpsS,DB281_RS02425,DB281_02425,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210423,-
+29519,64198623,rplV,DB281_RS02430,DB281_02430,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210423,-
+29519,64198624,rpsC,DB281_RS02435,DB281_02435,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210423,-
+29519,64198625,rplP,DB281_RS02440,DB281_02440,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210423,-
+29519,64198626,DB281_RS02445,DB281_RS02445,DB281_02445,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210423,-
+29519,64198627,rpsQ,DB281_RS02450,DB281_02450,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210423,-
+29519,64198628,rplN,DB281_RS02455,DB281_02455,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210423,-
+29519,64198629,DB281_RS02460,DB281_RS02460,DB281_02460,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210423,-
+29519,64198630,rplE,DB281_RS02465,DB281_02465,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210423,-
+29519,64198631,DB281_RS02470,DB281_RS02470,DB281_02470,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210423,-
+29519,64198632,rpsH,DB281_RS02475,DB281_02475,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210423,-
+29519,64198633,rplF,DB281_RS02480,DB281_02480,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210423,-
+29519,64198634,DB281_RS02485,DB281_RS02485,DB281_02485,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210423,-
+29519,64198635,rpsE,DB281_RS02490,DB281_02490,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210423,-
+29519,64198636,rpmD,DB281_RS02495,DB281_02495,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20210423,-
+29519,64198637,rplO,DB281_RS02500,DB281_02500,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210423,-
+29519,64198638,secY,DB281_RS02505,DB281_02505,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210423,-
+29519,64198639,rpmJ,DB281_RS02510,DB281_02510,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210423,-
+29519,64198640,rpsM,DB281_RS02515,DB281_02515,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210423,-
+29519,64198641,rpsK,DB281_RS02520,DB281_02520,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210423,-
+29519,64198642,DB281_RS02525,DB281_RS02525,DB281_02525,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210423,-
+29519,64198643,rplQ,DB281_RS02530,DB281_02530,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210423,-
+29519,64198644,rny,DB281_RS02535,DB281_02535,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20210423,-
+29519,64198645,DB281_RS02540,DB281_RS02540,DB281_02540,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20210423,-
+29519,64198646,DB281_RS02545,DB281_RS02545,DB281_02545,-,-,-,TlyA family RNA methyltransferase,protein-coding,-,-,-,TlyA family RNA methyltransferase,20210423,-
+29519,64198647,DB281_RS02550,DB281_RS02550,DB281_02550,-,-,-,GerMN domain-containing protein,protein-coding,-,-,-,GerMN domain-containing protein,20210423,-
+29519,64198648,der,DB281_RS02555,DB281_02555,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210423,-
+29519,64198649,DB281_RS02560,DB281_RS02560,DB281_02560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198650,DB281_RS02565,DB281_RS02565,DB281_02565,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210423,-
+29519,64198651,DB281_RS02570,DB281_RS02570,DB281_02570,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210423,-
+29519,64198652,DB281_RS02575,DB281_RS02575,DB281_02575,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210423,-
+29519,64198653,DB281_RS02580,DB281_RS02580,DB281_02580,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210423,-
+29519,64198654,trxB,DB281_RS02585,DB281_02585,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210423,-
+29519,64198655,rlmB,DB281_RS02590,DB281_02590,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20210423,-
+29519,64198656,dnaJ,DB281_RS02595,DB281_02595,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210423,-
+29519,64198657,dnaK,DB281_RS02600,DB281_02600,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210423,-
+29519,64198658,grpE,DB281_RS02605,DB281_02605,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210423,-
+29519,64198659,nadE,DB281_RS02610,DB281_02610,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210423,-
+29519,64198660,DB281_RS02620,DB281_RS02620,DB281_02620,-,-,-,inositol monophosphatase,protein-coding,-,-,-,inositol monophosphatase,20210423,-
+29519,64198661,DB281_RS02625,DB281_RS02625,DB281_02625,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198662,DB281_RS02630,DB281_RS02630,DB281_02630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198663,DB281_RS02635,DB281_RS02635,DB281_02635,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20210423,-
+29519,64198664,DB281_RS02640,DB281_RS02640,DB281_02640,-,-,-,aldo/keto reductase,protein-coding,-,-,-,aldo/keto reductase,20210423,-
+29519,64198665,DB281_RS02645,DB281_RS02645,DB281_02645,-,-,-,TIGR02757 family protein,protein-coding,-,-,-,TIGR02757 family protein,20210423,-
+29519,64198666,DB281_RS02650,DB281_RS02650,DB281_02650,-,-,-,glucosaminidase domain-containing protein,protein-coding,-,-,-,glucosaminidase domain-containing protein,20210423,-
+29519,64198667,DB281_RS02655,DB281_RS02655,DB281_02655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198668,DB281_RS02660,DB281_RS02660,DB281_02660,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210423,-
+29519,64198669,xth,DB281_RS02665,DB281_02665,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210423,-
+29519,64198670,DB281_RS02670,DB281_RS02670,DB281_02670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198671,DB281_RS02675,DB281_RS02675,DB281_02675,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210423,-
+29519,64198672,DB281_RS02680,DB281_RS02680,DB281_02680,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198673,DB281_RS02685,DB281_RS02685,DB281_02685,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198674,DB281_RS02690,DB281_RS02690,DB281_02690,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198675,DB281_RS02695,DB281_RS02695,DB281_02695,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210423,-
+29519,64198676,DB281_RS02700,DB281_RS02700,DB281_02700,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20210423,-
+29519,64198677,DB281_RS02705,DB281_RS02705,DB281_02705,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210423,-
+29519,64198678,DB281_RS02710,DB281_RS02710,DB281_02710,-,-,-,KTSC domain-containing protein,protein-coding,-,-,-,KTSC domain-containing protein,20210423,-
+29519,64198679,DB281_RS02715,DB281_RS02715,DB281_02715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198680,DB281_RS02720,DB281_RS02720,DB281_02720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198681,DB281_RS02725,DB281_RS02725,DB281_02725,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210423,-
+29519,64198682,DB281_RS02730,DB281_RS02730,DB281_02730,-,-,-,FGGY-family carbohydrate kinase,protein-coding,-,-,-,FGGY-family carbohydrate kinase,20210423,-
+29519,64198683,DB281_RS02735,DB281_RS02735,DB281_02735,-,-,-,SPOR domain-containing protein,protein-coding,-,-,-,SPOR domain-containing protein,20210423,-
+29519,64198684,DB281_RS02740,DB281_RS02740,DB281_02740,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210423,-
+29519,64198685,polA,DB281_RS02745,DB281_02745,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210423,-
+29519,64198686,DB281_RS02750,DB281_RS02750,DB281_02750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198687,fliS,DB281_RS02755,DB281_02755,-,-,-,flagellar export chaperone FliS,protein-coding,-,-,-,flagellar export chaperone FliS,20210423,-
+29519,64198688,DB281_RS02760,DB281_RS02760,DB281_02760,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210423,-
+29519,64198689,ligA,DB281_RS02765,DB281_02765,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210423,-
+29519,64198690,DB281_RS02770,DB281_RS02770,DB281_02770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198691,DB281_RS02775,DB281_RS02775,DB281_02775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198692,DB281_RS02780,DB281_RS02780,DB281_02780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198693,DB281_RS02785,DB281_RS02785,DB281_02785,-,-,-,xanthine dehydrogenase family protein subunit M,protein-coding,-,-,-,xanthine dehydrogenase family protein subunit M,20210423,-
+29519,64198694,DB281_RS02790,DB281_RS02790,DB281_02790,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210423,-
+29519,64198695,ptsP,DB281_RS02795,DB281_02795,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20210423,-
+29519,64198696,crr,DB281_RS02800,DB281_02800,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210423,-
+29519,64198697,htpG,DB281_RS02805,DB281_02805,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20210423,-
+29519,64198698,gnd,DB281_RS02810,DB281_02810,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20210423,-
+29519,64198699,DB281_RS02815,DB281_RS02815,DB281_02815,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210423,-
+29519,64198700,DB281_RS02820,DB281_RS02820,DB281_02820,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210423,-
+29519,64198701,DB281_RS02825,DB281_RS02825,DB281_02825,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210423,-
+29519,64198702,DB281_RS02830,DB281_RS02830,DB281_02830,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210423,-
+29519,64198703,DB281_RS02835,DB281_RS02835,DB281_02835,-,-,-,STAS domain-containing protein,protein-coding,-,-,-,STAS domain-containing protein,20210423,-
+29519,64198704,DB281_RS02840,DB281_RS02840,DB281_02840,-,-,-,chemotaxis protein CheA,protein-coding,-,-,-,chemotaxis protein CheA,20210423,-
+29519,64198705,DB281_RS02845,DB281_RS02845,DB281_02845,-,-,-,chemotaxis protein CheB,protein-coding,-,-,-,chemotaxis protein CheB,20210423,-
+29519,64198706,DB281_RS02850,DB281_RS02850,DB281_02850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198707,DB281_RS02855,DB281_RS02855,DB281_02855,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210423,-
+29519,64198708,DB281_RS02860,DB281_RS02860,DB281_02860,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198709,DB281_RS02865,DB281_RS02865,DB281_02865,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210423,-
+29519,64198710,DB281_RS02870,DB281_RS02870,DB281_02870,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210423,-
+29519,64198711,DB281_RS02875,DB281_RS02875,DB281_02875,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198712,DB281_RS02880,DB281_RS02880,DB281_02880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198713,pyrG,DB281_RS02885,DB281_02885,-,-,-,CTP synthase (glutamine hydrolyzing),protein-coding,-,-,-,CTP synthase (glutamine hydrolyzing),20210423,-
+29519,64198714,DB281_RS02890,DB281_RS02890,DB281_02890,-,-,-,DUF1761 family protein,protein-coding,-,-,-,DUF1761 family protein,20210423,-
+29519,64198715,DB281_RS02895,DB281_RS02895,DB281_02895,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198716,DB281_RS02900,DB281_RS02900,DB281_02900,-,-,-,chemotaxis protein,protein-coding,-,-,-,chemotaxis protein,20210423,-
+29519,64198717,dnaE,DB281_RS02905,DB281_02905,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210423,-
+29519,64198718,DB281_RS02910,DB281_RS02910,DB281_02910,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20210423,-
+29519,64198719,recG,DB281_RS02915,DB281_02915,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210423,-
+29519,64198720,DB281_RS02920,DB281_RS02920,DB281_02920,-,-,-,D-alanyl-D-alanine carboxypeptidase family protein,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase family protein,20210423,-
+29519,64198721,DB281_RS02925,DB281_RS02925,DB281_02925,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210423,-
+29519,64198722,DB281_RS02935,DB281_RS02935,DB281_02935,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210423,-
+29519,64198723,murD,DB281_RS02940,DB281_02940,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210423,-
+29519,64198724,DB281_RS02945,DB281_RS02945,DB281_02945,-,-,-,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein,protein-coding,-,-,-,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein,20210423,-
+29519,64198725,metG,DB281_RS02950,DB281_02950,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210423,-
+29519,64198726,DB281_RS02955,DB281_RS02955,DB281_02955,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210423,-
+29519,64198727,pta,DB281_RS02960,DB281_02960,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20210423,-
+29519,64198728,rsmA,DB281_RS02965,DB281_02965,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210423,-
+29519,64198729,DB281_RS02970,DB281_RS02970,DB281_02970,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210423,-
+29519,64198730,DB281_RS02975,DB281_RS02975,DB281_02975,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20210423,-
+29519,64198731,DB281_RS02980,DB281_RS02980,DB281_02980,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210423,-
+29519,64198732,DB281_RS02985,DB281_RS02985,DB281_02985,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210423,-
+29519,64198733,DB281_RS02990,DB281_RS02990,DB281_02990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198734,DB281_RS02995,DB281_RS02995,DB281_02995,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210423,-
+29519,64198735,DB281_RS03000,DB281_RS03000,DB281_03000,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210423,-
+29519,64198736,DB281_RS03005,DB281_RS03005,DB281_03005,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210423,-
+29519,64198737,DB281_RS03010,DB281_RS03010,DB281_03010,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210423,-
+29519,64198738,DB281_RS03015,DB281_RS03015,DB281_03015,-,-,-,DNA-binding protein,protein-coding,-,-,-,DNA-binding protein,20210423,-
+29519,64198739,DB281_RS03020,DB281_RS03020,DB281_03020,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210423,-
+29519,64198740,DB281_RS03025,DB281_RS03025,DB281_03025,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210423,-
+29519,64198741,DB281_RS03030,DB281_RS03030,DB281_03030,-,-,-,integrin-binding adhesin P66 family protein,protein-coding,-,-,-,integrin-binding adhesin P66 family protein,20210423,-
+29519,64198742,DB281_RS03035,DB281_RS03035,DB281_03035,-,-,-,lactate permease LctP family transporter,protein-coding,-,-,-,lactate permease LctP family transporter,20210423,-
+29519,64198743,DB281_RS03040,DB281_RS03040,DB281_03040,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210423,-
+29519,64198744,cheD,DB281_RS03045,DB281_03045,-,-,-,chemoreceptor glutamine deamidase CheD,protein-coding,-,-,-,chemoreceptor glutamine deamidase CheD,20210423,-
+29519,64198745,DB281_RS03050,DB281_RS03050,DB281_03050,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210423,-
+29519,64198746,pepD,DB281_RS03055,DB281_03055,-,-,-,beta-Ala-His dipeptidase,protein-coding,-,-,-,beta-Ala-His dipeptidase,20210423,-
+29519,64198747,DB281_RS03060,DB281_RS03060,DB281_03060,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198748,DB281_RS03065,DB281_RS03065,DB281_03065,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198749,DB281_RS03070,DB281_RS03070,DB281_03070,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198750,DB281_RS03075,DB281_RS03075,DB281_03075,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198751,DB281_RS03080,DB281_RS03080,DB281_03080,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210423,-
+29519,64198752,clpP,DB281_RS03085,DB281_03085,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20210423,-
+29519,64198753,clpX,DB281_RS03090,DB281_03090,-,-,-,ATP-dependent protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent protease ATP-binding subunit ClpX,20210423,-
+29519,64198754,lon,DB281_RS03095,DB281_03095,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210423,-
+29519,64198755,DB281_RS03100,DB281_RS03100,DB281_03100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198756,rpsD,DB281_RS03105,DB281_03105,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210423,-
+29519,64198757,DB281_RS03110,DB281_RS03110,DB281_03110,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198758,DB281_RS03115,DB281_RS03115,DB281_03115,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20210423,-
+29519,64198759,DB281_RS03120,DB281_RS03120,DB281_03120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198760,cdd,DB281_RS03125,DB281_03125,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20210423,-
+29519,64198761,DB281_RS03130,DB281_RS03130,DB281_03130,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20210423,-
+29519,64198762,DB281_RS03135,DB281_RS03135,DB281_03135,-,-,-,glycoside hydrolase family 3 protein,protein-coding,-,-,-,glycoside hydrolase family 3 protein,20210423,-
+29519,64198763,DB281_RS03140,DB281_RS03140,DB281_03140,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198764,DB281_RS03145,DB281_RS03145,DB281_03145,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20210423,-
+29519,64198765,DB281_RS03150,DB281_RS03150,DB281_03150,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20210423,-
+29519,64198766,mfd,DB281_RS03155,DB281_03155,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210423,-
+29519,64198767,DB281_RS03160,DB281_RS03160,DB281_03160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198768,DB281_RS03165,DB281_RS03165,DB281_03165,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210423,-
+29519,64198769,DB281_RS03170,DB281_RS03170,DB281_03170,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198770,rnmV,DB281_RS03175,DB281_03175,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20210423,-
+29519,64198771,DB281_RS03180,DB281_RS03180,DB281_03180,-,-,-,M18 family aminopeptidase,protein-coding,-,-,-,M18 family aminopeptidase,20210423,-
+29519,64198772,DB281_RS03185,DB281_RS03185,DB281_03185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198773,DB281_RS03190,DB281_RS03190,DB281_03190,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210423,-
+29519,64198774,pfkB,DB281_RS03195,DB281_03195,-,-,-,1-phosphofructokinase,protein-coding,-,-,-,1-phosphofructokinase,20210423,-
+29519,64198775,DB281_RS03200,DB281_RS03200,DB281_03200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198776,DB281_RS03205,DB281_RS03205,DB281_03205,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198777,recD,DB281_RS03210,DB281_03210,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20210423,-
+29519,64198778,recB,DB281_RS03215,DB281_03215,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20210423,-
+29519,64198779,DB281_RS03220,DB281_RS03220,DB281_03220,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20210423,-
+29519,64198780,DB281_RS03225,DB281_RS03225,DB281_03225,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210423,-
+29519,64198781,DB281_RS03230,DB281_RS03230,DB281_03230,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20210423,-
+29519,64198782,DB281_RS03235,DB281_RS03235,DB281_03235,-,-,-,Na+/H+ antiporter NhaC family protein,protein-coding,-,-,-,Na+/H+ antiporter NhaC family protein,20210423,-
+29519,64198783,DB281_RS03240,DB281_RS03240,DB281_03240,-,-,-,Na+/H+ antiporter NhaC family protein,protein-coding,-,-,-,Na+/H+ antiporter NhaC family protein,20210423,-
+29519,64198784,DB281_RS03245,DB281_RS03245,DB281_03245,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210423,-
+29519,64198785,DB281_RS03250,DB281_RS03250,DB281_03250,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198786,DB281_RS03255,DB281_RS03255,DB281_03255,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198787,DB281_RS03260,DB281_RS03260,DB281_03260,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198788,ylqF,DB281_RS03265,DB281_03265,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20210423,-
+29519,64198789,DB281_RS03270,DB281_RS03270,DB281_03270,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,protein-coding,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,20210423,-
+29519,64198790,DB281_RS03275,DB281_RS03275,DB281_03275,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210423,-
+29519,64198791,DB281_RS03280,DB281_RS03280,DB281_03280,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210423,-
+29519,64198792,bosR,DB281_RS03285,DB281_03285,-,-,-,oxidative stress transcriptional regulator BosR,protein-coding,-,-,-,oxidative stress transcriptional regulator BosR,20210423,-
+29519,64198793,DB281_RS03290,DB281_RS03290,DB281_03290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198794,groL,DB281_RS03295,DB281_03295,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210423,-
+29519,64198795,DB281_RS03300,DB281_RS03300,DB281_03300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198796,yajC,DB281_RS03305,DB281_03305,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20210423,-
+29519,64198797,secD,DB281_RS03310,DB281_03310,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210423,-
+29519,64198798,secF,DB281_RS03315,DB281_03315,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20210423,-
+29519,64198799,DB281_RS03320,DB281_RS03320,DB281_03320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198800,DB281_RS03325,DB281_RS03325,DB281_03325,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210423,-
+29519,64198801,psgB,DB281_RS03330,DB281_03330,-,-,-,HemN-related non-iron pseudo-SAM protein PsgB,protein-coding,-,-,-,HemN-related non-iron pseudo-SAM protein PsgB,20210423,-
+29519,64198802,rpiA,DB281_RS03335,DB281_03335,-,-,-,ribose 5-phosphate isomerase A,protein-coding,-,-,-,ribose 5-phosphate isomerase A,20210423,-
+29519,64198803,gpmA,DB281_RS03340,DB281_03340,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",20210423,-
+29519,64198804,lysS,DB281_RS03345,DB281_03345,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210423,-
+29519,64198805,era,DB281_RS03350,DB281_03350,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210423,-
+29519,64198806,DB281_RS03355,DB281_RS03355,DB281_03355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198807,DB281_RS03360,DB281_RS03360,DB281_03360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198808,DB281_RS03365,DB281_RS03365,DB281_03365,-,-,-,DUF192 domain-containing protein,protein-coding,-,-,-,DUF192 domain-containing protein,20210423,-
+29519,64198809,DB281_RS03370,DB281_RS03370,DB281_03370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198810,DB281_RS03375,DB281_RS03375,DB281_03375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198811,DB281_RS03380,DB281_RS03380,DB281_03380,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210423,-
+29519,64198812,DB281_RS03385,DB281_RS03385,DB281_03385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198813,flaA,DB281_RS03390,DB281_03390,-,-,-,flagellar filament outer layer protein FlaA,protein-coding,-,-,-,flagellar filament outer layer protein FlaA,20210423,-
+29519,64198814,DB281_RS03395,DB281_RS03395,DB281_03395,-,-,-,chemotaxis protein CheA,protein-coding,-,-,-,chemotaxis protein CheA,20210423,-
+29519,64198815,DB281_RS03400,DB281_RS03400,DB281_03400,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210423,-
+29519,64198816,DB281_RS03405,DB281_RS03405,DB281_03405,-,-,-,chemotaxis protein CheX,protein-coding,-,-,-,chemotaxis protein CheX,20210423,-
+29519,64198817,DB281_RS03410,DB281_RS03410,DB281_03410,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210423,-
+29519,64198818,DB281_RS03415,DB281_RS03415,DB281_03415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198819,DB281_RS03420,DB281_RS03420,DB281_03420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198820,DB281_RS03425,DB281_RS03425,DB281_03425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198821,DB281_RS03430,DB281_RS03430,DB281_03430,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210423,-
+29519,64198822,DB281_RS03435,DB281_RS03435,DB281_03435,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198823,DB281_RS03440,DB281_RS03440,DB281_03440,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198824,DB281_RS03445,DB281_RS03445,DB281_03445,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198825,DB281_RS03450,DB281_RS03450,DB281_03450,-,-,-,chemotaxis protein,protein-coding,-,-,-,chemotaxis protein,20210423,-
+29519,64198826,DB281_RS03455,DB281_RS03455,DB281_03455,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210423,-
+29519,64198827,mnmA,DB281_RS03460,DB281_03460,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210423,-
+29519,64198828,DB281_RS03465,DB281_RS03465,DB281_03465,-,-,-,hydroxymethylglutaryl-CoA synthase,protein-coding,-,-,-,hydroxymethylglutaryl-CoA synthase,20210423,-
+29519,64198829,fni,DB281_RS03470,DB281_03470,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,protein-coding,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,20210423,-
+29519,64198830,DB281_RS03475,DB281_RS03475,DB281_03475,-,-,-,"hydroxymethylglutaryl-CoA reductase, degradative",protein-coding,-,-,-,"hydroxymethylglutaryl-CoA reductase, degradative",20210423,-
+29519,64198831,mvaD,DB281_RS03480,DB281_03480,-,-,-,diphosphomevalonate decarboxylase,protein-coding,-,-,-,diphosphomevalonate decarboxylase,20210423,-
+29519,64198832,DB281_RS03485,DB281_RS03485,DB281_03485,-,-,-,phosphomevalonate kinase,protein-coding,-,-,-,phosphomevalonate kinase,20210423,-
+29519,64198833,mvk,DB281_RS03490,DB281_03490,-,-,-,mevalonate kinase,protein-coding,-,-,-,mevalonate kinase,20210423,-
+29519,64198834,DB281_RS03495,DB281_RS03495,DB281_03495,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198835,DB281_RS03500,DB281_RS03500,DB281_03500,-,-,-,CAP domain-containing protein,protein-coding,-,-,-,CAP domain-containing protein,20210423,-
+29519,64198836,DB281_RS03505,DB281_RS03505,DB281_03505,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20210423,-
+29519,64198837,DB281_RS03510,DB281_RS03510,DB281_03510,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210423,-
+29519,64198838,DB281_RS03515,DB281_RS03515,DB281_03515,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20210423,-
+29519,64198839,ffh,DB281_RS03520,DB281_03520,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210423,-
+29519,64198840,rpsP,DB281_RS03525,DB281_03525,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210423,-
+29519,64198841,DB281_RS03530,DB281_RS03530,DB281_03530,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20210423,-
+29519,64198842,rimM,DB281_RS03535,DB281_03535,-,-,-,16S rRNA processing protein RimM,protein-coding,-,-,-,16S rRNA processing protein RimM,20210423,-
+29519,64198843,trmD,DB281_RS03540,DB281_03540,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210423,-
+29519,64198844,rplS,DB281_RS03545,DB281_03545,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210423,-
+29519,64198845,DB281_RS03550,DB281_RS03550,DB281_03550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198846,coaD,DB281_RS03555,DB281_03555,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210423,-
+29519,64198847,rpmF,DB281_RS03560,DB281_03560,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210423,-
+29519,64198848,acpP,DB281_RS03565,DB281_03565,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210423,-
+29519,64198849,rnc,DB281_RS03570,DB281_03570,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210423,-
+29519,64198850,DB281_RS03575,DB281_RS03575,DB281_03575,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210423,-
+29519,64198851,DB281_RS03580,DB281_RS03580,DB281_03580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198852,DB281_RS03585,DB281_RS03585,DB281_03585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198853,DB281_RS03590,DB281_RS03590,DB281_03590,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198854,DB281_RS03595,DB281_RS03595,DB281_03595,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198855,mltG,DB281_RS03600,DB281_03600,-,-,-,endolytic transglycosylase MltG,protein-coding,-,-,-,endolytic transglycosylase MltG,20210423,-
+29519,64198856,dnaG,DB281_RS03605,DB281_03605,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210423,-
+29519,64198857,rpoD,DB281_RS03610,DB281_03610,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20210423,-
+29519,64198858,DB281_RS03615,DB281_RS03615,DB281_03615,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20210423,-
+29519,64198859,rnpB,DB281_RS03620,DB281_03620,-,-,-,ncRNA,ncRNA,-,-,-,-,20210422,-
+29519,64198860,DB281_RS03625,DB281_RS03625,DB281_03625,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210423,-
+29519,64198861,DB281_RS03630,DB281_RS03630,DB281_03630,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20210423,-
+29519,64198862,mreC,DB281_RS03635,DB281_03635,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20210423,-
+29519,64198863,DB281_RS03640,DB281_RS03640,DB281_03640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198864,mrdA,DB281_RS03645,DB281_03645,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210423,-
+29519,64198865,rodA,DB281_RS03650,DB281_03650,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20210423,-
+29519,64198866,DB281_RS03655,DB281_RS03655,DB281_03655,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210423,-
+29519,64198867,pgsA,DB281_RS03660,DB281_03660,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210423,-
+29519,64198868,DB281_RS03665,DB281_RS03665,DB281_03665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198869,cyaB,DB281_RS03670,DB281_03670,-,-,-,class IV adenylate cyclase,protein-coding,-,-,-,class IV adenylate cyclase,20210423,-
+29519,64198870,DB281_RS03675,DB281_RS03675,DB281_03675,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210423,-
+29519,64198871,DB281_RS03680,DB281_RS03680,DB281_03680,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20210423,-
+29519,64198872,DB281_RS03685,DB281_RS03685,DB281_03685,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210423,-
+29519,64198873,DB281_RS03690,DB281_RS03690,DB281_03690,-,-,-,ATP-dependent 6-phosphofructokinase,protein-coding,-,-,-,ATP-dependent 6-phosphofructokinase,20210423,-
+29519,64198874,DB281_RS03695,DB281_RS03695,DB281_03695,-,-,-,CoA-disulfide reductase,protein-coding,-,-,-,CoA-disulfide reductase,20210423,-
+29519,64198875,DB281_RS03700,DB281_RS03700,DB281_03700,-,-,-,L-cystine transporter,protein-coding,-,-,-,L-cystine transporter,20210423,-
+29519,64198876,DB281_RS03705,DB281_RS03705,DB281_03705,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210423,-
+29519,64198877,DB281_RS03710,DB281_RS03710,DB281_03710,-,-,-,ParB N-terminal domain-containing protein,protein-coding,-,-,-,ParB N-terminal domain-containing protein,20210423,-
+29519,64198878,DB281_RS03715,DB281_RS03715,DB281_03715,-,-,-,penicillin-binding protein 1A,protein-coding,-,-,-,penicillin-binding protein 1A,20210423,-
+29519,64198879,DB281_RS03720,DB281_RS03720,DB281_03720,-,-,-,PilZ domain-containing protein,protein-coding,-,-,-,PilZ domain-containing protein,20210422,-
+29519,64198880,DB281_RS03725,DB281_RS03725,DB281_03725,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210423,-
+29519,64198881,DB281_RS03730,DB281_RS03730,DB281_03730,-,-,-,septal ring lytic transglycosylase RlpA family protein,protein-coding,-,-,-,septal ring lytic transglycosylase RlpA family protein,20210423,-
+29519,64198882,DB281_RS03735,DB281_RS03735,DB281_03735,-,-,-,tRNA-dihydrouridine synthase,protein-coding,-,-,-,tRNA-dihydrouridine synthase,20210423,-
+29519,64198883,valS,DB281_RS03740,DB281_03740,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210423,-
+29519,64198884,DB281_RS03745,DB281_RS03745,DB281_03745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198885,mnmD,DB281_RS03750,DB281_03750,-,-,-,tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD,protein-coding,-,-,-,tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD,20210423,-
+29519,64198886,groES,DB281_RS03755,DB281_03755,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210423,-
+29519,64198887,DB281_RS03760,DB281_RS03760,DB281_03760,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210423,-
+29519,64198888,DB281_RS03765,DB281_RS03765,DB281_03765,-,-,-,PQQ-like beta-propeller repeat protein,protein-coding,-,-,-,PQQ-like beta-propeller repeat protein,20210423,-
+29519,64198889,DB281_RS03770,DB281_RS03770,DB281_03770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198890,DB281_RS03775,DB281_RS03775,DB281_03775,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198891,DB281_RS03780,DB281_RS03780,DB281_03780,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198892,DB281_RS03785,DB281_RS03785,DB281_03785,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210423,-
+29519,64198893,DB281_RS03790,DB281_RS03790,DB281_03790,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210423,-
+29519,64198894,DB281_RS03795,DB281_RS03795,DB281_03795,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210423,-
+29519,64198895,DB281_RS03800,DB281_RS03800,DB281_03800,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210423,-
+29519,64198896,DB281_RS03805,DB281_RS03805,DB281_03805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198897,DB281_RS03810,DB281_RS03810,DB281_03810,-,-,-,DUF4340 domain-containing protein,protein-coding,-,-,-,DUF4340 domain-containing protein,20210423,-
+29519,64198898,DB281_RS03815,DB281_RS03815,DB281_03815,-,-,-,Gldg family protein,protein-coding,-,-,-,Gldg family protein,20210423,-
+29519,64198899,DB281_RS03820,DB281_RS03820,DB281_03820,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210423,-
+29519,64198900,DB281_RS03825,DB281_RS03825,DB281_03825,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210423,-
+29519,64198901,DB281_RS03830,DB281_RS03830,DB281_03830,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20210423,-
+29519,64198902,DB281_RS03835,DB281_RS03835,DB281_03835,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210423,-
+29519,64198903,DB281_RS03840,DB281_RS03840,DB281_03840,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210423,-
+29519,64198904,DB281_RS03845,DB281_RS03845,DB281_03845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198905,DB281_RS03850,DB281_RS03850,DB281_03850,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198906,DB281_RS03855,DB281_RS03855,DB281_03855,-,-,-,DUF368 domain-containing protein,protein-coding,-,-,-,DUF368 domain-containing protein,20210423,-
+29519,64198907,DB281_RS03860,DB281_RS03860,DB281_03860,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,protein-coding,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,20210423,-
+29519,64198908,DB281_RS03865,DB281_RS03865,DB281_03865,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210423,-
+29519,64198909,DB281_RS03870,DB281_RS03870,DB281_03870,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210423,-
+29519,64198910,DB281_RS03875,DB281_RS03875,DB281_03875,-,-,-,GHKL domain-containing protein,protein-coding,-,-,-,GHKL domain-containing protein,20210423,-
+29519,64198911,DB281_RS03880,DB281_RS03880,DB281_03880,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210423,-
+29519,64198912,DB281_RS03885,DB281_RS03885,DB281_03885,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210423,-
+29519,64198913,murG,DB281_RS03890,DB281_03890,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20210423,-
+29519,64198914,DB281_RS03895,DB281_RS03895,DB281_03895,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,protein-coding,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,20210423,-
+29519,64198915,tsaD,DB281_RS03900,DB281_03900,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210423,-
+29519,64198916,DB281_RS03905,DB281_RS03905,DB281_03905,-,-,-,divergent polysaccharide deacetylase family protein,protein-coding,-,-,-,divergent polysaccharide deacetylase family protein,20210423,-
+29519,64198917,rpoS,DB281_RS03910,DB281_03910,-,-,-,RNA polymerase sigma factor RpoS,protein-coding,-,-,-,RNA polymerase sigma factor RpoS,20210423,-
+29519,64198918,DB281_RS03915,DB281_RS03915,DB281_03915,-,-,-,rod-binding protein,protein-coding,-,-,-,rod-binding protein,20210423,-
+29519,64198919,DB281_RS03920,DB281_RS03920,DB281_03920,-,-,-,flagellar basal body P-ring protein FlgI,protein-coding,-,-,-,flagellar basal body P-ring protein FlgI,20210423,-
+29519,64198920,DB281_RS03925,DB281_RS03925,DB281_03925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198921,flgG,DB281_RS03930,DB281_03930,-,-,-,flagellar basal-body rod protein FlgG,protein-coding,-,-,-,flagellar basal-body rod protein FlgG,20210423,-
+29519,64198922,DB281_RS03935,DB281_RS03935,DB281_03935,-,-,-,flagellar hook-basal body protein,protein-coding,-,-,-,flagellar hook-basal body protein,20210423,-
+29519,64198923,DB281_RS03940,DB281_RS03940,DB281_03940,-,-,-,DUF2147 domain-containing protein,protein-coding,-,-,-,DUF2147 domain-containing protein,20210423,-
+29519,64198924,DB281_RS03945,DB281_RS03945,DB281_03945,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20210423,-
+29519,64198925,rplU,DB281_RS03950,DB281_03950,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210423,-
+29519,64198926,DB281_RS03955,DB281_RS03955,DB281_03955,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20210423,-
+29519,64198927,rpmA,DB281_RS03960,DB281_03960,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210423,-
+29519,64198928,obgE,DB281_RS03965,DB281_03965,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210423,-
+29519,64198929,nadD,DB281_RS03970,DB281_03970,-,-,-,nicotinate (nicotinamide) nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate (nicotinamide) nucleotide adenylyltransferase,20210423,-
+29519,64198930,DB281_RS03975,DB281_RS03975,DB281_03975,-,-,-,LCP family protein,protein-coding,-,-,-,LCP family protein,20210423,-
+29519,64198931,rsfS,DB281_RS03980,DB281_03980,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20210423,-
+29519,64198932,spoVG,DB281_RS03985,DB281_03985,-,-,-,DNA-binding protein SpoVG,protein-coding,-,-,-,DNA-binding protein SpoVG,20210423,-
+29519,64198933,DB281_RS03990,DB281_RS03990,DB281_03990,-,-,-,tRNA,tRNA,-,-,-,-,20210422,-
+29519,64198934,DB281_RS03995,DB281_RS03995,DB281_03995,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210423,-
+29519,64198935,DB281_RS04000,DB281_RS04000,DB281_04000,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210423,-
+29519,64198936,tilS,DB281_RS04005,DB281_04005,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210423,-
+29519,64198937,ftsH,DB281_RS04010,DB281_04010,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210423,-
+29519,64198938,DB281_RS04015,DB281_RS04015,DB281_04015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198939,DB281_RS04020,DB281_RS04020,DB281_04020,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210423,-
+29519,64198940,DB281_RS04025,DB281_RS04025,DB281_04025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198941,tmk,DB281_RS04030,DB281_04030,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210423,-
+29519,64198942,DB281_RS04035,DB281_RS04035,DB281_04035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198943,bamA,DB281_RS04040,DB281_04040,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20210423,-
+29519,64198944,DB281_RS04045,DB281_RS04045,DB281_04045,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20210423,-
+29519,64198945,mutS,DB281_RS04050,DB281_04050,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210423,-
+29519,64198946,DB281_RS04055,DB281_RS04055,DB281_04055,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20210423,-
+29519,64198947,rimP,DB281_RS04060,DB281_04060,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20210423,-
+29519,64198948,nusA,DB281_RS04065,DB281_04065,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210423,-
+29519,64198949,infB,DB281_RS04070,DB281_04070,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210423,-
+29519,64198950,rbfA,DB281_RS04075,DB281_04075,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210423,-
+29519,64198951,truB,DB281_RS04080,DB281_04080,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210423,-
+29519,64198952,rpsO,DB281_RS04085,DB281_04085,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210423,-
+29519,64198953,pnp,DB281_RS04090,DB281_04090,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210423,-
+29519,64198954,DB281_RS04095,DB281_RS04095,DB281_04095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198955,DB281_RS04100,DB281_RS04100,DB281_04100,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20210423,-
+29519,64198956,DB281_RS04105,DB281_RS04105,DB281_04105,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20210423,-
+29519,64198957,tgt,DB281_RS04110,DB281_04110,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20210423,-
+29519,64198958,murJ,DB281_RS04115,DB281_04115,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210423,-
+29519,64198959,DB281_RS04120,DB281_RS04120,DB281_04120,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20210423,-
+29519,64198960,coaBC,DB281_RS04125,DB281_04125,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20210423,-
+29519,64198961,DB281_RS04130,DB281_RS04130,DB281_04130,-,-,-,DUF997 family protein,protein-coding,-,-,-,DUF997 family protein,20210423,-
+29519,64198962,panF,DB281_RS04135,DB281_04135,-,-,-,sodium/pantothenate symporter,protein-coding,-,-,-,sodium/pantothenate symporter,20210423,-
+29519,64198963,DB281_RS04140,DB281_RS04140,DB281_04140,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210423,-
+29519,64198964,DB281_RS04145,DB281_RS04145,DB281_04145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198965,DB281_RS04150,DB281_RS04150,DB281_04150,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20210423,-
+29519,64198966,DB281_RS04155,DB281_RS04155,DB281_04155,-,-,-,YicC family protein,protein-coding,-,-,-,YicC family protein,20210423,-
+29519,64198967,DB281_RS04160,DB281_RS04160,DB281_04160,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210423,-
+29519,64198968,DB281_RS04165,DB281_RS04165,DB281_04165,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210423,-
+29519,64198969,miaA,DB281_RS04170,DB281_04170,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210423,-
+29519,64198970,DB281_RS04175,DB281_RS04175,DB281_04175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198971,DB281_RS04180,DB281_RS04180,DB281_04180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198972,DB281_RS04185,DB281_RS04185,DB281_04185,-,-,-,phosphodiester glycosidase family protein,protein-coding,-,-,-,phosphodiester glycosidase family protein,20210423,-
+29519,64198973,DB281_RS04190,DB281_RS04190,DB281_04190,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198974,DB281_RS04195,DB281_RS04195,DB281_04195,-,-,-,ATP-dependent RNA helicase,protein-coding,-,-,-,ATP-dependent RNA helicase,20210423,-
+29519,64198975,topA,DB281_RS04200,DB281_04200,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210423,-
+29519,64198976,DB281_RS04205,DB281_RS04205,DB281_04205,-,-,-,exonuclease SbcCD subunit D,protein-coding,-,-,-,exonuclease SbcCD subunit D,20210423,-
+29519,64198977,DB281_RS04210,DB281_RS04210,DB281_04210,-,-,-,SMC family ATPase,protein-coding,-,-,-,SMC family ATPase,20210423,-
+29519,64198978,DB281_RS04215,DB281_RS04215,DB281_04215,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20210423,-
+29519,64198979,DB281_RS04220,DB281_RS04220,DB281_04220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198980,DB281_RS04225,DB281_RS04225,DB281_04225,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210423,-
+29519,64198981,DB281_RS04230,DB281_RS04230,DB281_04230,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210423,-
+29519,64198982,DB281_RS04235,DB281_RS04235,DB281_04235,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210423,-
+29519,64198983,uvrB,DB281_RS04240,DB281_04240,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20210423,-
+29519,64198984,uvrA,DB281_RS04245,DB281_04245,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210423,-
+29519,64198985,DB281_RS04250,DB281_RS04250,DB281_04250,-,-,-,LPS-assembly protein LptD,protein-coding,-,-,-,LPS-assembly protein LptD,20210423,-
+29519,64198986,DB281_RS04255,DB281_RS04255,DB281_04255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198987,DB281_RS04260,DB281_RS04260,DB281_04260,-,-,-,viroplasmin family protein,protein-coding,-,-,-,viroplasmin family protein,20210423,-
+29519,64198988,DB281_RS04265,DB281_RS04265,DB281_04265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+29519,64198989,arcA,DB281_RS04270,DB281_04270,-,-,-,arginine deiminase,protein-coding,-,-,-,arginine deiminase,20210423,-
+29519,64198990,argF,DB281_RS04275,DB281_04275,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20210423,-
+29519,64198991,DB281_RS04280,DB281_RS04280,DB281_04280,-,-,-,YfcC family protein,protein-coding,-,-,-,YfcC family protein,20210423,-
+29519,64198992,DB281_RS04285,DB281_RS04285,DB281_04285,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,64198993,DB281_RS06070,DB281_RS06070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210422,-
+29519,64198994,DB281_RS06075,DB281_RS06075,-,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210423,-
+29519,64198995,DB281_RS06080,DB281_RS06080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198996,DB281_RS06085,DB281_RS06085,-,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210423,-
+29519,64198997,DB281_RS06090,DB281_RS06090,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64198998,DB281_RS06095,DB281_RS06095,-,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210423,-
+29519,64198999,DB281_RS06100,DB281_RS06100,-,-,-,-,DUF5425 family lipoprotein,protein-coding,-,-,-,DUF5425 family lipoprotein,20210422,-
+29519,64199000,DB281_RS06105,DB281_RS06105,-,-,-,-,P12 family lipoprotein,protein-coding,-,-,-,P12 family lipoprotein,20210422,-
+29519,64199001,DB281_RS06115,DB281_RS06115,-,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210423,-
+29519,64199002,DB281_RS06120,DB281_RS06120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64199003,DB281_RS06125,DB281_RS06125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210423,-
+29519,64199004,DB281_RS06130,DB281_RS06130,-,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210529,-
+29519,64199005,DB281_RS06135,DB281_RS06135,-,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-
+29519,64199006,DB281_RS06140,DB281_RS06140,-,-,-,-,pseudo,pseudo,-,-,-,-,20210422,-

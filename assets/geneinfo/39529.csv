@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+39529,42904350,trnK-UUU,GP602_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904351,matK,GP602_pgp085,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20201217,-
+39529,42904352,rps16,GP602_pgp084,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200926,-
+39529,42904353,trnQ-UUG,GP602_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904354,psbK,GP602_pgp083,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20200908,-
+39529,42904355,psbI,GP602_pgp082,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200908,-
+39529,42904356,trnS-GCU,GP602_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904357,trnG-UCC,GP602_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904358,trnR-UCU,GP602_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904359,atpA,GP602_pgp081,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20200908,-
+39529,42904360,atpF,GP602_pgp080,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20200908,-
+39529,42904361,atpH,GP602_pgp079,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200908,-
+39529,42904362,atpI,GP602_pgp078,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200908,-
+39529,42904363,rps2,GP602_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200908,-
+39529,42904364,rpoC2,GP602_pgp076,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20201217,-
+39529,42904365,rpoC1,GP602_pgp075,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20201217,-
+39529,42904366,rpoB,GP602_pgp074,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20200908,-
+39529,42904367,trnC-GCA,GP602_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904368,petN,GP602_pgp073,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200908,-
+39529,42904369,psbM,GP602_pgp072,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200908,-
+39529,42904370,trnD-GUC,GP602_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904371,trnY-GUA,GP602_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904372,trnE-UUC,GP602_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904373,trnT-GGU,GP602_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904374,psbD,GP602_pgp071,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200908,-
+39529,42904375,psbC,GP602_pgp070,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200908,-
+39529,42904376,trnS-UGA,GP602_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904377,psbZ,GP602_pgp069,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200912,-
+39529,42904378,trnG-GCC,GP602_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904379,trnfM-CAU,GP602_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904380,rps14,GP602_pgp068,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200908,-
+39529,42904381,psaB,GP602_pgp067,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20200908,-
+39529,42904382,psaA,GP602_pgp066,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20200908,-
+39529,42904383,ycf3,GP602_pgp065,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200908,-
+39529,42904384,trnS-GGA,GP602_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904385,rps4,GP602_pgp064,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200908,-
+39529,42904386,trnT-UGU,GP602_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904387,trnL-UAA,GP602_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904388,trnF-GAA,GP602_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904389,ndhJ,GP602_pgp063,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200908,-
+39529,42904390,ndhK,GP602_pgp062,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20200905,-
+39529,42904391,trnV-UAC,GP602_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904392,trnM-CAU,GP602_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904393,atpE,GP602_pgp061,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20200908,-
+39529,42904394,atpB,GP602_pgp060,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20200908,-
+39529,42904395,rbcL,GP602_pgp059,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200908,-
+39529,42904396,accD,GP602_pgp058,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20200908,-
+39529,42904397,psaI,GP602_pgp057,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200908,-
+39529,42904398,ycf4,GP602_pgp056,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20200908,-
+39529,42904399,cemA,GP602_pgp055,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20200908,-
+39529,42904400,petA,GP602_pgp054,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20200926,-
+39529,42904401,psbJ,GP602_pgp053,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200908,-
+39529,42904402,psbL,GP602_pgp052,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200908,-
+39529,42904403,psbF,GP602_pgp051,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200908,-
+39529,42904404,psbE,GP602_pgp050,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200908,-
+39529,42904405,petL,GP602_pgp049,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200908,-
+39529,42904406,petG,GP602_pgp048,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210129,-
+39529,42904407,trnW-CCA,GP602_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904408,trnP-UGG,GP602_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904409,psaJ,GP602_pgp047,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200908,-
+39529,42904410,rpl33,GP602_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200908,-
+39529,42904411,rps18,GP602_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200908,-
+39529,42904412,rpl20,GP602_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200908,-
+39529,42904413,clpP,GP602_pgp042,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20200908,-
+39529,42904414,psbA,GP602_pgp001,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200908,-
+39529,42904415,psbB,GP602_pgp041,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200908,-
+39529,42904416,psbT,GP602_pgp040,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20200908,-
+39529,42904417,psbN,GP602_pgp039,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200908,-
+39529,42904418,psbH,GP602_pgp038,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200908,-
+39529,42904419,petB,GP602_pgp037,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200919,-
+39529,42904420,petD,GP602_pgp036,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20200926,-
+39529,42904421,rpoA,GP602_pgp035,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20201217,-
+39529,42904422,rps11,GP602_pgp034,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200908,-
+39529,42904423,rpl36,GP602_pgp033,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200908,-
+39529,42904424,infA,GP602_pgp032,-,-,-,-,pseudo,pseudo,-,-,-,-,20200908,-
+39529,42904425,rps8,GP602_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200908,-
+39529,42904426,rpl14,GP602_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200919,-
+39529,42904427,rpl16,GP602_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200926,-
+39529,42904428,rps3,GP602_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200908,-
+39529,42904429,rpl22,GP602_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200926,-
+39529,42904430,rps19,GP602_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+39529,42904431,trnH-GUG,GP602_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904432,rpl2,GP602_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+39529,42904433,rpl23,GP602_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200908,-
+39529,42904434,trnI-CAU,GP602_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904435,ycf2,GP602_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200926,-
+39529,42904436,trnL-CAA,GP602_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904437,ndhB,GP602_pgp022,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200926,-
+39529,42904438,rps7,GP602_pgp021,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201010,-
+39529,42904439,trnV-GAC,GP602_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904440,rrn16,GP602_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904441,trnI-GAU,GP602_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904442,trnA-UGC,GP602_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904443,rrn23,GP602_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904444,rrn4.5,GP602_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904445,rrn5,GP602_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904446,trnR-ACG,GP602_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904447,trnN-GUU,GP602_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904448,ycf1,GP602_pgp020,-,-,-,-,pseudo,pseudo,-,-,-,-,20200908,-
+39529,42904449,ndhF,GP602_pgp019,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20201217,-
+39529,42904450,rpl32,GP602_pgp018,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200908,-
+39529,42904451,trnL-UAG,GP602_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904452,ccsA,GP602_pgp017,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20201217,-
+39529,42904453,ndhD,GP602_pgp016,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20200926,-
+39529,42904454,psaC,GP602_pgp015,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200908,-
+39529,42904455,ndhE,GP602_pgp014,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200912,-
+39529,42904456,ndhG,GP602_pgp013,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200908,-
+39529,42904457,ndhI,GP602_pgp012,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20200908,-
+39529,42904458,ndhA,GP602_pgp011,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20200908,-
+39529,42904459,ndhH,GP602_pgp010,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20200908,-
+39529,42904460,rps15,GP602_pgp009,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200908,-
+39529,42904461,ycf1,GP602_pgp008,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20201217,-
+39529,42904462,trnN-GUU,GP602_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904463,trnR-ACG,GP602_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904464,rrn5,GP602_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904465,rrn4.5,GP602_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904466,rrn23,GP602_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904467,trnA-UGC,GP602_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904468,trnI-GAU,GP602_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904469,rrn16,GP602_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+39529,42904470,trnV-GAC,GP602_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904471,rps7,GP602_pgp007,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201010,-
+39529,42904472,ndhB,GP602_pgp006,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200926,-
+39529,42904473,trnL-CAA,GP602_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904474,ycf2,GP602_pgp005,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200926,-
+39529,42904475,trnI-CAU,GP602_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904476,rpl23,GP602_pgp004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200908,-
+39529,42904477,rpl2,GP602_pgp003,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+39529,42904478,trnH-GUG,GP602_pgt038,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+39529,42904479,rps19,GP602_pgp002,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200908,-
+39529,42904480,rps12,GP602_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200926,-

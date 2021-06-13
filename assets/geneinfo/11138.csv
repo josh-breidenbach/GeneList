@@ -1,0 +1,19 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+11138,1489749,ORF1ab,MHVgp1,-,-,-,-,ORF1a polyprotein;ORF1ab polyprotein,protein-coding,-,-,-,ORF1a polyprotein;ORF1ab polyprotein|polyprotein pp1a|polyprotein pp1ab,20210529,-
+11138,1489752,S,MHVgp4,-,-,-,-,E2 glycoprotein precursor,protein-coding,-,-,-,E2 glycoprotein precursor|spike protein,20200828,-
+11138,1489756,M,MHVgp8,-,-,-,-,E1 glycoprotein,protein-coding,-,-,-,E1 glycoprotein|matrix glycoprotein|membrane protein,20201114,-
+11138,1489757,N,MHVgp9,-,-,-,-,I protein;nucleocapsid protein,protein-coding,-,-,-,I protein;nucleocapsid protein|internal protein,20210417,-
+11138,27209481,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (mouse hepatitis virus; mouse hepatitis virus MHV; murine hepatitis virus MHV; murine hepatitis virus, MHV).",other,-,-,-,-,20200520,-
+11138,55060275,ORF1ab,HO264_gp09,-,-,-,-,ORF1ab polyprotein,protein-coding,-,-,-,ORF1ab polyprotein|polyprotein pp1ab|replicative polyprotein 1ab,20210529,-
+11138,55060276,ORF2a,HO264_gp08,-,-,-,-,nonstructural protein 2a,protein-coding,-,-,-,nonstructural protein 2a,20210212,-
+11138,55060277,HO264_gp10,HO264_gp10,-,-,-,-,ORF1a polyprotein,protein-coding,-,-,-,ORF1a polyprotein|polyprotein pp1a|replicative polyprotein 1a,20210529,-
+11138,55060278,HE,HO264_gp07,-,-,-,-,hemagglutinin-esterase,protein-coding,-,-,-,hemagglutinin-esterase,20210320,-
+11138,55060279,S,HO264_gp06,-,-,-,-,spike glycoprotein,protein-coding,-,-,-,spike glycoprotein,20210212,-
+11138,55060280,HO264_gp05,HO264_gp05,-,-,-,-,putative ORF4 protein,protein-coding,-,-,-,putative ORF4 protein,20210212,-
+11138,55060281,HO264_gp04,HO264_gp04,-,-,-,-,ORF5a protein,protein-coding,-,-,-,ORF5a protein,20210212,-
+11138,55060282,E,HO264_gp03,-,-,-,-,envelope protein,protein-coding,-,-,-,envelope protein,20210212,-
+11138,55060283,M,HO264_gp02,-,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210212,-
+11138,55060284,N,HO264_gp01,-,-,-,-,I protein;nucleocapsid protein,protein-coding,-,-,-,I protein;nucleocapsid protein|internal protein,20210417,-
+11138,55060285,HO264_gs01,HO264_gs01,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20200908,-
+11138,58783427,ORF2a,MHVgp2,-,-,-,-,nonstructural protein 2a,protein-coding,-,-,-,nonstructural protein 2a,20210212,-
+11138,59893232,E,MHVgp3,-,-,-,-,envelope protein,protein-coding,-,-,-,envelope protein|small membrane protein,20210212,-

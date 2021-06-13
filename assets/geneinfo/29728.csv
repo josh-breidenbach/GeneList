@@ -1,0 +1,216 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+29728,30216304,rpl5,BOP31_gp69,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20190525,-
+29728,30216305,rps14,BOP31_gp68,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20210417,-
+29728,30216306,cob,BOP31_gp67,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20170908,-
+29728,30216307,BOP31_gt03,BOP31_gt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216308,orf115c,BOP31_gp65,-,-,MT,-,orf115c,protein-coding,-,-,-,-,20170310,-
+29728,30216309,orf109a,BOP31_gp60,-,-,MT,-,orf109a,protein-coding,-,-,-,-,20170310,-
+29728,30216310,orf165,BOP31_gp56,-,-,MT,-,orf165,protein-coding,-,-,-,-,20170310,-
+29728,30216311,orf115d,BOP31_gp54,-,-,MT,-,orf115d,protein-coding,-,-,-,-,20170310,-
+29728,30216312,orf100a,BOP31_gp50,-,-,MT,-,orf100a,protein-coding,-,-,-,-,20170310,-
+29728,30216313,orf146,BOP31_gp47,-,-,MT,-,orf146,protein-coding,-,-,-,-,20170310,-
+29728,30216314,orf117,BOP31_gp45,-,-,MT,-,orf117,protein-coding,-,-,-,-,20170310,-
+29728,30216315,orf114,BOP31_gp43,-,-,MT,-,orf114,protein-coding,-,-,-,-,20170310,-
+29728,30216316,orf115a,BOP31_gp41,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20170310,-
+29728,30216317,rpl2,BOP31_gp29,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20170310,-
+29728,30216318,orf298,BOP31_gp37,-,-,MT,-,orf298,protein-coding,-,-,-,-,20170310,-
+29728,30216319,orf109b,BOP31_gp34,-,-,MT,-,orf109b,protein-coding,-,-,-,-,20170310,-
+29728,30216320,orf225,BOP31_gp32,-,-,MT,-,orf225,protein-coding,-,-,-,-,20170310,-
+29728,30216321,ccmC,BOP31_gp38,-,-,MT,-,heme exporter protein CcmC,protein-coding,-,-,-,heme exporter protein CcmC|cytochrome c biogenesis ccmC,20170908,-
+29728,30216322,orfX,BOP31_gp30,tatC,-,MT,-,Sec-independent protein translocase protein; TatC,protein-coding,-,-,-,Sec-independent protein translocase protein|TatC|hypothetical protein,20170310,-
+29728,30216323,nad5,BOP31_gp21,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170310,-
+29728,30216324,orf124,BOP31_gp28,-,-,MT,-,orf124,protein-coding,-,-,-,-,20170310,-
+29728,30216325,nad9,BOP31_gp20,-,-,MT,-,NADH dehydrogenase subunit C,protein-coding,-,-,-,NADH dehydrogenase subunit C|NADH dehydrogenase subunit 9,20170908,-
+29728,30216326,ccmFN2,BOP31_gp19,-,-,MT,-,cytochrome c biogenesis ccmF,protein-coding,-,-,-,-,20210417,-
+29728,30216327,BOP31_gt16,BOP31_gt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216328,BOP31_gt17,BOP31_gt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216329,nad4L,BOP31_gp16,-,-,MT,-,NADH:ubiquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH:ubiquinone oxidoreductase subunit K|NADH dehydrogenase subunit 4L,20170908,-
+29728,30216330,orf103,BOP31_gp15,-,-,MT,-,orf103,protein-coding,-,-,-,-,20170310,-
+29728,30216331,BOP31_gt18,BOP31_gt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216332,orf104,BOP31_gp08,-,-,MT,-,orf104,protein-coding,-,-,-,-,20170310,-
+29728,30216333,nad3,BOP31_gp06,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20210212,-
+29728,30216334,orf130b,BOP31_gp05,-,-,MT,-,orf130b,protein-coding,-,-,-,-,20170310,-
+29728,30216335,orf224,BOP31_gp01,-,-,MT,-,orf224,protein-coding,-,-,-,-,20170310,-
+29728,30216336,orf131,BOP31_gp64,-,-,MT,-,orf131,protein-coding,-,-,-,-,20170310,-
+29728,30216337,orf192,BOP31_gp63,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20170310,-
+29728,30216338,atp9,BOP31_gp57,-,-,MT,-,ATP synthase subunit C,protein-coding,-,-,-,-,20190608,-
+29728,30216339,orf108b,BOP31_gp53,-,-,MT,-,orf108b,protein-coding,-,-,-,-,20170310,-
+29728,30216340,orf128,BOP31_gp52,-,-,MT,-,orf128,protein-coding,-,-,-,-,20170310,-
+29728,30216341,rps7,BOP31_gp12,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+29728,30216342,BOP31_gt06,BOP31_gt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216343,cox1,BOP31_gp35,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20170908,-
+29728,30216344,nad4,BOP31_gp31,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170310,-
+29728,30216345,orf108a,BOP31_gp62,-,-,MT,-,orf108a,protein-coding,-,-,-,-,20170310,-
+29728,30216346,ccmFN1,BOP31_gp55,-,-,MT,-,cytochrome c assembly protein,protein-coding,-,-,-,-,20170310,-
+29728,30216347,matR,BOP31_gp09,-,-,MT,-,maturase-related protein,protein-coding,-,-,-,-,20170310,-
+29728,30216348,BOP31_gt05,BOP31_gt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216349,orf161,BOP31_gp10,-,-,MT,-,orf161,protein-coding,-,-,-,-,20170310,-
+29728,30216350,cox3,BOP31_gp48,-,-,MT,-,cytochrome c oxidase subunit III,protein-coding,-,-,-,cytochrome c oxidase subunit III|cytochrome c oxidase subunit 3,20170908,-
+29728,30216351,ccmB,BOP31_gp02,-,-,MT,-,cytochrome c biogenesis ccmB,protein-coding,-,-,-,-,20170310,-
+29728,30216352,orf101c,BOP31_gp04,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20170310,-
+29728,30216353,nad2,BOP31_gp39,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20181103,-
+29728,30216354,orf111,BOP31_gp27,-,-,MT,-,orf111,protein-coding,-,-,-,-,20170310,-
+29728,30216355,atp8,BOP31_gp44,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+29728,30216356,BOP31_gt09,BOP31_gt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216357,rps4,BOP31_gp40,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20210406,-
+29728,30216358,nad7,BOP31_gp42,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20200912,-
+29728,30216359,BOP31_gt12,BOP31_gt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216360,BOP31_gr03,BOP31_gr03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20161115,-
+29728,30216361,BOP31_gt08,BOP31_gt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216362,atp1,BOP31_gp61,-,-,MT,-,F1 ATP synthase alpha,protein-coding,-,-,-,-,20170310,-
+29728,30216363,BOP31_gt14,BOP31_gt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216364,BOP31_gr02,BOP31_gr02,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20161115,-
+29728,30216365,orf101b,BOP31_gp14,-,-,MT,-,orf101b,protein-coding,-,-,-,-,20170310,-
+29728,30216366,BOP31_gt04,BOP31_gt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216367,orf108c,BOP31_gp23,-,-,MT,-,orf108c,protein-coding,-,-,-,-,20170310,-
+29728,30216368,orf309,BOP31_gp13,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20170310,-
+29728,30216369,orf130a,BOP31_gp03,-,-,MT,-,orf130a,protein-coding,-,-,-,-,20170310,-
+29728,30216370,orf141,BOP31_gp49,-,-,MT,-,orf141,protein-coding,-,-,-,-,20170310,-
+29728,30216371,BOP31_gt13,BOP31_gt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216372,BOP31_gt02,BOP31_gt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216373,rpl16,BOP31_gp70,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20210406,-
+29728,30216374,cox2-1,BOP31_gp66,-,-,MT,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,-,20190525,-
+29728,30216375,orf106,BOP31_gp59,-,-,MT,-,orf106,protein-coding,-,-,-,-,20170310,-
+29728,30216376,orf138a,BOP31_gp58,-,-,MT,-,orf138a,protein-coding,-,-,-,-,20170310,-
+29728,30216377,ccmFC,BOP31_gp46,-,-,MT,-,cytochrome c biogenesis ccmF,protein-coding,-,-,-,-,20181103,-
+29728,30216378,BOP31_gt07,BOP31_gt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216379,orf257,BOP31_gp36,-,-,MT,-,orf257,protein-coding,-,-,-,-,20170310,-
+29728,30216380,nad6,BOP31_gp33,-,-,MT,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J|NADH dehydrogenase subunit 6,20210212,-
+29728,30216381,BOP31_gt10,BOP31_gt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216382,BOP31_gt11,BOP31_gt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216383,orf110,BOP31_gp26,-,-,MT,-,orf110,protein-coding,-,-,-,-,20170310,-
+29728,30216384,orf100b,BOP31_gp25,-,-,MT,-,orf100b,protein-coding,-,-,-,-,20170310,-
+29728,30216385,orf101a,BOP31_gp24,-,-,MT,-,orf101a,protein-coding,-,-,-,-,20170310,-
+29728,30216386,BOP31_gt15,BOP31_gt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216387,orf170,BOP31_gp22,-,-,MT,-,orf170,protein-coding,-,-,-,-,20200912,-
+29728,30216388,atp6,BOP31_gp18,-,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,-,20170908,-
+29728,30216389,atp4,BOP31_gp17,-,-,MT,-,ATP synthase B chain precursor,protein-coding,-,-,-,ATP synthase B chain precursor|hypothetical protein,20200905,-
+29728,30216390,orf142,BOP31_gp11,-,-,MT,-,orf142,protein-coding,-,-,-,-,20170310,-
+29728,30216391,BOP31_gr01,BOP31_gr01,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20161115,-
+29728,30216392,rps12,BOP31_gp07,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+29728,30216393,BOP31_gt01,BOP31_gt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20161115,-
+29728,30216394,nad1,BOP31_gp51,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20210406,-
+29728,33374244,BOP31_pgt001,BOP31_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374245,clpP,BOP31_pgp041,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374246,matK,BOP31_pgp086,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+29728,33374247,rps16,BOP31_pgp085,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+29728,33374248,BOP31_pgt002,BOP31_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374249,psbI,BOP31_pgp083,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+29728,33374250,BOP31_pgt003,BOP31_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374251,atpF,BOP31_pgp081,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374252,atpI,BOP31_pgp079,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374253,rps2,BOP31_pgp078,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+29728,33374254,rpoC2,BOP31_pgp077,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374255,rpoC1,BOP31_pgp076,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374256,rpoB,BOP31_pgp075,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374257,BOP31_pgt005,BOP31_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374258,psbM,BOP31_pgp073,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190601,-
+29728,33374259,BOP31_pgt006,BOP31_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374260,psbC,BOP31_pgp071,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20170908,-
+29728,33374261,BOP31_pgt010,BOP31_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374262,BOP31_pgt011,BOP31_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374263,psaB,BOP31_pgp068,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20170908,-
+29728,33374264,psaA,BOP31_pgp067,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20170908,-
+29728,33374265,ycf3,BOP31_pgp066,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170908,-
+29728,33374266,BOP31_pgt013,BOP31_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374267,BOP31_pgt014,BOP31_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374268,ndhK,BOP31_pgp063,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20170908,-
+29728,33374269,ndhC,BOP31_pgp062,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170908,-
+29728,33374270,BOP31_pgt016,BOP31_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374271,atpB,BOP31_pgp060,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374272,rbcL,BOP31_pgp059,-,-,-,-,"ribulose-1,5 -bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+29728,33374273,accD,BOP31_pgp058,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374274,psaI,BOP31_pgp057,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20170908,-
+29728,33374275,ycf4,BOP31_pgp056,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20170908,-
+29728,33374276,cemA,BOP31_pgp055,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+29728,33374277,petA,BOP31_pgp054,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+29728,33374278,psbJ,BOP31_pgp053,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20170908,-
+29728,33374279,psbL,BOP31_pgp052,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170908,-
+29728,33374280,psbF,BOP31_pgp051,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20170908,-
+29728,33374281,psbE,BOP31_pgp050,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170908,-
+29728,33374282,petL,BOP31_pgp049,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170908,-
+29728,33374283,petG,BOP31_pgp048,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210129,-
+29728,33374284,BOP31_pgt017,BOP31_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374285,rpl33,BOP31_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+29728,33374286,rps18,BOP31_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+29728,33374287,rpl20,BOP31_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+29728,33374288,rps12,BOP31_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+29728,33374289,psbB,BOP31_pgp040,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20170908,-
+29728,33374290,atpH,BOP31_pgp080,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374291,psbT,BOP31_pgp039,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+29728,33374292,psbN,BOP31_pgp038,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20170908,-
+29728,33374293,psbH,BOP31_pgp037,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20170908,-
+29728,33374294,petB,BOP31_pgp036,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+29728,33374295,petD,BOP31_pgp035,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+29728,33374296,rpoA,BOP31_pgp034,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374297,rps11,BOP31_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+29728,33374298,rpl36,BOP31_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+29728,33374299,rps8,BOP31_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+29728,33374300,rpl14,BOP31_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+29728,33374301,rpl16,BOP31_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+29728,33374302,rps3,BOP31_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+29728,33374303,rpl22,BOP31_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+29728,33374304,rps19,BOP31_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+29728,33374305,rpl2,BOP31_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+29728,33374306,rpl23,BOP31_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+29728,33374307,BOP31_pgt019,BOP31_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374308,ycf15,BOP31_pgp022,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20170908,-
+29728,33374309,BOP31_pgt020,BOP31_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374310,rps7,BOP31_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+29728,33374311,BOP31_pgt021,BOP31_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374312,ndhF,BOP31_pgp018,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170908,-
+29728,33374313,rpl32,BOP31_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+29728,33374314,BOP31_pgt024,BOP31_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374315,ndhD,BOP31_pgp015,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170908,-
+29728,33374316,psaC,BOP31_pgp014,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+29728,33374317,ndhE,BOP31_pgp013,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170908,-
+29728,33374318,ndhI,BOP31_pgp011,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20170908,-
+29728,33374319,ndhA,BOP31_pgp010,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170908,-
+29728,33374320,ndhH,BOP31_pgp009,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170908,-
+29728,33374321,rps15,BOP31_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+29728,33374322,ycf1,BOP31_pgp007,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170908,-
+29728,33374323,BOP31_pgt025,BOP31_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374324,ndhB,BOP31_pgp005,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+29728,33374325,BOP31_pgt028,BOP31_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374326,ycf2,BOP31_pgp003,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170908,-
+29728,33374327,BOP31_pgt029,BOP31_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374328,rpl2,BOP31_pgp001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+29728,33374329,ndhG,BOP31_pgp012,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170908,-
+29728,33374330,rps12,BOP31_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+29728,33374331,psbA,BOP31_pgp087,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20170908,-
+29728,33374332,psbK,BOP31_pgp084,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20170908,-
+29728,33374333,BOP31_pgt004,BOP31_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374334,atpA,BOP31_pgp082,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374335,petN,BOP31_pgp074,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20170908,-
+29728,33374336,BOP31_pgt007,BOP31_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374337,BOP31_pgt008,BOP31_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374338,BOP31_pgt009,BOP31_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374339,psbD,BOP31_pgp072,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20170908,-
+29728,33374340,psbZ,BOP31_pgp070,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20170908,-
+29728,33374341,BOP31_pgt012,BOP31_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374342,rps14,BOP31_pgp069,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+29728,33374343,rps4,BOP31_pgp065,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+29728,33374344,BOP31_pgt015,BOP31_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374345,ndhJ,BOP31_pgp064,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20170908,-
+29728,33374346,atpE,BOP31_pgp061,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+29728,33374347,BOP31_pgt018,BOP31_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374348,psaJ,BOP31_pgp047,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20170908,-
+29728,33374349,ycf2,BOP31_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170908,-
+29728,33374350,ndhB,BOP31_pgp021,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+29728,33374351,BOP31_pgr008,BOP31_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374352,BOP31_pgr007,BOP31_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374353,BOP31_pgr006,BOP31_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374354,BOP31_pgr005,BOP31_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374355,BOP31_pgt022,BOP31_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374356,BOP31_pgt023,BOP31_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374357,ycf1,BOP31_pgp019,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170908,-
+29728,33374358,ccsA,BOP31_pgp016,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+29728,33374359,BOP31_pgt026,BOP31_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374360,BOP31_pgr004,BOP31_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374361,BOP31_pgr003,BOP31_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374362,BOP31_pgr002,BOP31_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374363,BOP31_pgr001,BOP31_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+29728,33374364,BOP31_pgt027,BOP31_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+29728,33374365,rps7,BOP31_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+29728,33374366,ycf15,BOP31_pgp004,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20170908,-
+29728,33374367,rpl23,BOP31_pgp002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-

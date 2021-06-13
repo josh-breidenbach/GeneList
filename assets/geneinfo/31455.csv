@@ -1,0 +1,317 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+31455,36944797,rbcL,DR485_pgp001,Grafi_p001,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20180721,-
+31455,36944798,rpoZ,DR485_pgp214,Grafi_p023,-,-,-,putative DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,putative DNA-directed RNA polymerase subunit omega,20210403,-
+31455,36944799,rps2,DR485_pgp036,Grafi_p201,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20180721,-
+31455,36944800,rpoC1,DR485_pgp038,Grafi_p199,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20180721,-
+31455,36944801,DR485_pgt010,DR485_pgt010,Grafi_t10,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944802,apcA,DR485_pgp048,Grafi_p189,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,allophycocyanin alpha subunit,20180721,-
+31455,36944803,trpA,DR485_pgp208,Grafi_p029,-,-,-,tryptophan synthase alpha chain,protein-coding,-,-,-,tryptophan synthase alpha chain,20180721,-
+31455,36944804,orf18,DR485_pgp125,Grafi_p112,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944805,rps18,DR485_pgp042,Grafi_p195,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20180721,-
+31455,36944806,accB,DR485_pgp076,Grafi_p161,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20180721,-
+31455,36944807,psaA,DR485_pgp077,Grafi_p160,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20180721,-
+31455,36944808,orf24,DR485_pgp146,Grafi_p091,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944809,cemA,DR485_pgp021,Grafi_p216,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20210403,-
+31455,36944810,ycf63,DR485_pgp197,Grafi_p040,-,-,-,putative ABC transporter permease protein Ycf63,protein-coding,-,-,-,putative ABC transporter permease protein Ycf63,20180721,-
+31455,36944811,DR485_pgt016,DR485_pgt016,Grafi_t16,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944812,rpoC2,DR485_pgp037,Grafi_p200,-,-,-,DNA-directed RNA polymerase subunit beta'',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta'',20180721,-
+31455,36944813,psaE,DR485_pgp119,Grafi_p118,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,photosystem I reaction center subunit IV,20180721,-
+31455,36944814,DR485_pgt023,DR485_pgt023,Grafi_t23,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944815,ycf33,DR485_pgp122,Grafi_p115,-,-,-,Ycf33,protein-coding,-,-,-,Ycf33,20180721,-
+31455,36944816,acpP,DR485_pgp072,Grafi_p165,-,-,-,acyl carrier protein (ACP),protein-coding,-,-,-,acyl carrier protein (ACP),20180721,-
+31455,36944817,DR485_pgt012,DR485_pgt012,Grafi_t12,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944818,ycf21,DR485_pgp210,Grafi_p027,-,-,-,Ycf21,protein-coding,-,-,-,Ycf21,20210403,-
+31455,36944819,ycf38,DR485_pgp114,Grafi_p123,-,-,-,putative transport permease ycf38,protein-coding,-,-,-,putative transport permease ycf38,20210403,-
+31455,36944820,ycf16,DR485_pgp028,Grafi_p209,-,-,-,putative ATP-dependent transporter ycf16,protein-coding,-,-,-,putative ATP-dependent transporter ycf16,20180721,-
+31455,36944821,rpl27,DR485_pgp185,Grafi_p052,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20180721,-
+31455,36944822,DR485_pgp163,DR485_pgp163,Grafi_p074,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944823,DR485_pgr003,DR485_pgr003,Grafi_r01,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+31455,36944824,rbcS,DR485_pgp002,Grafi_p002,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20180721,-
+31455,36944825,DR485_pgs001,DR485_pgs001,Grafi_tm01,-,-,-,miscRNA,miscRNA,-,-,-,-,20200908,-
+31455,36944826,DR485_pgp026,DR485_pgp026,Grafi_p211,-,-,-,Ycf92,protein-coding,-,-,-,Ycf92,20180706,-
+31455,36944827,ycf3,DR485_pgp044,Grafi_p193,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,photosystem I assembly protein ycf3,20180721,-
+31455,36944828,DR485_pgp017,DR485_pgp017,Grafi_p222,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944829,ycf17,DR485_pgp157,Grafi_p080,-,-,-,Ycf17,protein-coding,-,-,-,Ycf17,20180706,-
+31455,36944830,DR485_pgp019,DR485_pgp019,Grafi_p220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944831,dsbD,DR485_pgp189,Grafi_p048,-,-,-,thiol-disulfide interchange protein,protein-coding,-,-,-,thiol-disulfide interchange protein,20180721,-
+31455,36944832,DR485_pgt013,DR485_pgt013,Grafi_t13,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944833,rps5,DR485_pgp100,Grafi_p137,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20180721,-
+31455,36944834,rps7,DR485_pgp110,Grafi_p127,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20180721,-
+31455,36944835,petJ,DR485_pgp175,Grafi_p062,-,-,-,cytochrome c6,protein-coding,-,-,-,cytochrome c6,20210403,-
+31455,36944836,rpl9,DR485_pgp128,Grafi_p109,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20180721,-
+31455,36944837,rne,DR485_pgp186,Grafi_p051,-,-,-,ribonuclease E-like protein,protein-coding,-,-,-,ribonuclease E-like protein,20180721,-
+31455,36944838,acsF,DR485_pgp063,Grafi_p174,-,-,-,magnesium-protoporphyrin IX monomethyl ester cyclase,protein-coding,-,-,-,magnesium-protoporphyrin IX monomethyl ester cyclase,20180721,-
+31455,36944839,psaM,DR485_pgp195,Grafi_p042,-,-,-,photosystem I reaction center subunit XII,protein-coding,-,-,-,photosystem I reaction center subunit XII,20180721,-
+31455,36944840,psbC,DR485_pgp158,Grafi_p079,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20180721,-
+31455,36944841,odpB,DR485_pgp052,Grafi_p185,-,-,-,pyruvate dehydrogenase E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase E1 component subunit beta,20180721,-
+31455,36944842,petN,DR485_pgp062,Grafi_p175,-,-,-,cytochrome b6-f complex subunit 8,protein-coding,-,-,-,cytochrome b6-f complex subunit 8,20210123,-
+31455,36944843,grx,DR485_pgp206,Grafi_p031,-,-,-,glutaredoxin,protein-coding,-,-,-,glutaredoxin,20180721,-
+31455,36944844,apcD,DR485_pgp170,Grafi_p067,-,-,-,allophycocyanin-B,protein-coding,-,-,-,allophycocyanin-B,20210123,-
+31455,36944845,psbI,DR485_pgp024,Grafi_p213,-,-,-,photosystem II reaction center protein I,protein-coding,-,-,-,photosystem II reaction center protein I,20180721,-
+31455,36944846,ycf53,DR485_pgp177,Grafi_p060,-,-,-,Ycf53,protein-coding,-,-,-,Ycf53,20210403,-
+31455,36944847,odpA,DR485_pgp053,Grafi_p184,-,-,-,pyruvate dehydrogenase E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase E1 component subunit alpha,20180721,-
+31455,36944848,petA,DR485_pgp051,Grafi_p186,-,-,-,apocytochrome f,protein-coding,-,-,-,apocytochrome f,20180721,-
+31455,36944849,ycf43,DR485_pgp050,Grafi_p187,-,-,-,TatC-like protein Ycf43,protein-coding,-,-,-,TatC-like protein Ycf43,20180721,-
+31455,36944850,ycf22,DR485_pgp218,Grafi_p019,-,-,-,Ycf22,protein-coding,-,-,-,Ycf22,20210403,-
+31455,36944851,ycf54,DR485_pgp179,Grafi_p058,-,-,-,Ycf54,protein-coding,-,-,-,Ycf54,20210403,-
+31455,36944852,rps11,DR485_pgp104,Grafi_p133,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20180721,-
+31455,36944853,DR485_pgp014,DR485_pgp014,Grafi_p225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944854,DR485_pgt004,DR485_pgt004,Grafi_t04,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944855,trnC,DR485_pgt001,Grafi_t01,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944856,petF,DR485_pgp113,Grafi_p124,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20180721,-
+31455,36944857,psbX,DR485_pgp172,Grafi_p065,-,-,-,photosystem II reaction center X protein,protein-coding,-,-,-,photosystem II reaction center X protein,20180721,-
+31455,36944858,DR485_pgt020,DR485_pgt020,Grafi_t20,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944859,orf449,DR485_pgp020,Grafi_p219,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944860,rpl23,DR485_pgp086,Grafi_p151,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20180721,-
+31455,36944861,trpG,DR485_pgp191,Grafi_p046,-,-,-,anthranilate synthase component II,protein-coding,-,-,-,anthranilate synthase component II,20180721,-
+31455,36944862,DR485_pgt005,DR485_pgt005,Grafi_t05,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944863,DR485_pgt026,DR485_pgt026,Grafi_t26,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944864,ycf24,DR485_pgp027,Grafi_p210,-,-,-,UPF0051 protein ycf24,protein-coding,-,-,-,UPF0051 protein ycf24,20180721,-
+31455,36944865,atpH,DR485_pgp033,Grafi_p204,-,-,-,ATP synthase subunit c,protein-coding,-,-,-,ATP synthase subunit c,20180721,-
+31455,36944866,DR485_pgt007,DR485_pgt007,Grafi_t07,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944867,carA,DR485_pgp176,Grafi_p061,-,-,-,carbamoyl-phosphate synthase small chain,protein-coding,-,-,-,carbamoyl-phosphate synthase small chain,20180721,-
+31455,36944868,apcE,DR485_pgp049,Grafi_p188,-,-,-,phycobilisome core-membrane linker protein,protein-coding,-,-,-,phycobilisome core-membrane linker protein,20180721,-
+31455,36944869,rpl11,DR485_pgp136,Grafi_p101,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20180721,-
+31455,36944870,nblA,DR485_pgp224,Grafi_p013,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,phycobilisome degradation protein,20210403,-
+31455,36944871,rpl35,DR485_pgp056,Grafi_p181,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20180721,-
+31455,36944872,rpl32,DR485_pgp182,Grafi_p055,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20180721,-
+31455,36944873,rpl22,DR485_pgp089,Grafi_p148,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20180721,-
+31455,36944874,DR485_pgp010,DR485_pgp010,Grafi_p229,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944875,tsf,DR485_pgp035,Grafi_p202,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20180721,-
+31455,36944876,petB,DR485_pgp140,Grafi_p097,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20180721,-
+31455,36944877,atpI,DR485_pgp034,Grafi_p203,-,-,-,ATP synthase subunit a,protein-coding,-,-,-,ATP synthase subunit a,20180721,-
+31455,36944878,orf33,DR485_pgp161,Grafi_p076,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944879,rpl3,DR485_pgp084,Grafi_p153,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20180721,-
+31455,36944880,petD,DR485_pgp139,Grafi_p098,-,-,-,cytochrome b6-f complex subunit 4,protein-coding,-,-,-,cytochrome b6-f complex subunit 4,20180721,-
+31455,36944881,DR485_pgp064,DR485_pgp064,Grafi_p173,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944882,ntcA,DR485_pgp141,Grafi_p096,-,-,-,putative uncharacterized protein ntcA,protein-coding,-,-,-,putative uncharacterized protein ntcA,20180721,-
+31455,36944883,thiG,DR485_pgp192,Grafi_p045,-,-,-,thiazole synthase,protein-coding,-,-,-,thiazole synthase,20180721,-
+31455,36944884,dnaK,DR485_pgp083,Grafi_p154,-,-,-,chaperone protein DnaK,protein-coding,-,-,-,chaperone protein DnaK,20180721,-
+31455,36944885,ycf40,DR485_pgp143,Grafi_p094,-,-,-,Ycf40,protein-coding,-,-,-,Ycf40,20210403,-
+31455,36944886,ycf80,DR485_pgp229,Grafi_p008,-,-,-,Ycf80,protein-coding,-,-,-,Ycf80,20180706,-
+31455,36944887,DR485_pgt027,DR485_pgt027,Grafi_t27,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944888,pbsA,DR485_pgp057,Grafi_p180,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20180721,-
+31455,36944889,ccs1,DR485_pgp190,Grafi_p047,-,-,-,cytochrome c biogenesis protein ccs1,protein-coding,-,-,-,cytochrome c biogenesis protein ccs1,20180721,-
+31455,36944890,ycf19,DR485_pgp155,Grafi_p082,-,-,-,Ycf19,protein-coding,-,-,-,Ycf19,20210123,-
+31455,36944891,ycf52,DR485_pgp167,Grafi_p070,-,-,-,N-acetyltransferase Ycf52,protein-coding,-,-,-,N-acetyltransferase Ycf52,20210403,-
+31455,36944892,rps4,DR485_pgp230,Grafi_p007,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20180721,-
+31455,36944893,DR485_pgp029,DR485_pgp029,Grafi_p208,-,-,-,ATP synthase subunit alpha,protein-coding,-,-,-,ATP synthase subunit alpha,20180721,-
+31455,36944894,petL,DR485_pgp008,Grafi_p231,-,-,-,cytochrome b6-f complex subunit 6,protein-coding,-,-,-,cytochrome b6-f complex subunit 6,20180706,-
+31455,36944895,secA,DR485_pgp209,Grafi_p028,-,-,-,protein translocase subunit SecA,protein-coding,-,-,-,protein translocase subunit SecA,20180721,-
+31455,36944896,rpl24,DR485_pgp095,Grafi_p142,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210403,-
+31455,36944897,DR485_pgt025,DR485_pgt025,Grafi_t25,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944898,DR485_pgt009,DR485_pgt009,Grafi_t09,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944899,rps8,DR485_pgp097,Grafi_p140,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20180721,-
+31455,36944900,atpD,DR485_pgp030,Grafi_p207,-,-,-,ATP synthase subunit delta,protein-coding,-,-,-,ATP synthase subunit delta,20180721,-
+31455,36944901,cpeA,DR485_pgp222,Grafi_p015,-,-,-,B-phycoerythrin alpha chain,protein-coding,-,-,-,B-phycoerythrin alpha chain,20210403,-
+31455,36944902,rpl18,DR485_pgp099,Grafi_p138,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20180721,-
+31455,36944903,infC,DR485_pgp231,Grafi_p006,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20180721,-
+31455,36944904,DR485_pgp068,DR485_pgp068,Grafi_p169,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944905,cpcA,DR485_pgp212,Grafi_p025,-,-,-,C-phycocyanin alpha chain,protein-coding,-,-,-,C-phycocyanin alpha chain,20180721,-
+31455,36944906,accD,DR485_pgp173,Grafi_p064,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit beta,20180721,-
+31455,36944907,rpl19,DR485_pgp124,Grafi_p113,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20180721,-
+31455,36944908,infB,DR485_pgp043,Grafi_p194,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20180721,-
+31455,36944909,ycf20,DR485_pgp226,Grafi_p011,-,-,-,Ycf20,protein-coding,-,-,-,Ycf20,20180721,-
+31455,36944910,rpl34,DR485_pgp165,Grafi_p072,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210403,-
+31455,36944911,ccsA,DR485_pgp221,Grafi_p016,-,-,-,cytochrome c biogenesis protein ccsA,protein-coding,-,-,-,cytochrome c biogenesis protein ccsA,20180721,-
+31455,36944912,ORF75,DR485_pgp075,Grafi_p162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944913,pgmA,DR485_pgp211,Grafi_p026,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20180721,-
+31455,36944914,psaJ,DR485_pgp169,Grafi_p068,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,photosystem I reaction center subunit IX,20180721,-
+31455,36944915,apcB,DR485_pgp047,Grafi_p190,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,allophycocyanin beta subunit,20180721,-
+31455,36944916,atpE,DR485_pgp046,Grafi_p191,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain,20180721,-
+31455,36944917,DR485_pgp015,DR485_pgp015,Grafi_p224,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944918,rpl12,DR485_pgp138,Grafi_p099,-,-,-,50S ribosomal protein L12,protein-coding,-,-,-,50S ribosomal protein L12,20180721,-
+31455,36944919,atpF,DR485_pgp031,Grafi_p206,-,-,-,ATP synthase subunit b,protein-coding,-,-,-,ATP synthase subunit b,20210403,-
+31455,36944920,rps12,DR485_pgp109,Grafi_p128,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20180721,-
+31455,36944921,ORF696,DR485_pgp022,Grafi_p215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944922,dnaB,DR485_pgp127,Grafi_p110,-,-,-,putative replicative DNA helicase,protein-coding,-,-,-,putative replicative DNA helicase,20180721,-
+31455,36944923,DR485_pgt028,DR485_pgt028,Grafi_t28,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944924,orf63,DR485_pgp217,Grafi_p020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944925,rpoA,DR485_pgp105,Grafi_p132,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20180721,-
+31455,36944926,orf57,DR485_pgp135,Grafi_p102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944927,cfxQ,DR485_pgp003,Grafi_p003,-,-,-,CfxQ-like protein,protein-coding,-,-,-,CfxQ-like protein,20180721,-
+31455,36944928,rpl13,DR485_pgp106,Grafi_p131,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20180721,-
+31455,36944929,rps3,DR485_pgp090,Grafi_p147,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20180721,-
+31455,36944930,atpB,DR485_pgp045,Grafi_p192,-,-,-,ATP synthase subunit beta,protein-coding,-,-,-,ATP synthase subunit beta,20180721,-
+31455,36944931,DR485_pgp070,DR485_pgp070,Grafi_p167,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944932,rpl5,DR485_pgp096,Grafi_p141,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20180721,-
+31455,36944933,rpl1,DR485_pgp137,Grafi_p100,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20180721,-
+31455,36944934,rps13,DR485_pgp103,Grafi_p134,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20180721,-
+31455,36944935,psbA,DR485_pgp187,Grafi_p050,-,-,-,photosystem Q(B) protein,protein-coding,-,-,-,photosystem Q(B) protein,20180721,-
+31455,36944936,rpl36,DR485_pgp102,Grafi_p135,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20180721,-
+31455,36944937,rpl31,DR485_pgp108,Grafi_p129,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20180721,-
+31455,36944938,DR485_pgt017,DR485_pgt017,Grafi_t17,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944939,rps17,DR485_pgp093,Grafi_p144,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20180721,-
+31455,36944940,psaI,DR485_pgp203,Grafi_p034,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,photosystem I reaction center subunit VIII,20180721,-
+31455,36944941,rps19,DR485_pgp088,Grafi_p149,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20180721,-
+31455,36944942,preA,DR485_pgp054,Grafi_p183,-,-,-,prenyl transferase,protein-coding,-,-,-,prenyl transferase,20180721,-
+31455,36944943,syfB,DR485_pgp147,Grafi_p090,-,-,-,phenylalanine--tRNA ligase beta subunit,protein-coding,-,-,-,phenylalanine--tRNA ligase beta subunit,20180721,-
+31455,36944944,psbV,DR485_pgp174,Grafi_p063,-,-,-,cytochrome c-550,protein-coding,-,-,-,cytochrome c-550,20180721,-
+31455,36944945,psaK,DR485_pgp220,Grafi_p017,-,-,-,photosystem I reaction center subunit PsaK,protein-coding,-,-,-,photosystem I reaction center subunit PsaK,20180721,-
+31455,36944946,tufA,DR485_pgp111,Grafi_p126,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20180721,-
+31455,36944947,cpcG,DR485_pgp225,Grafi_p012,-,-,-,phycobilisome rod-core linker polypeptide,protein-coding,-,-,-,phycobilisome rod-core linker polypeptide,20210403,-
+31455,36944948,ycf12,DR485_pgp205,Grafi_p032,-,-,-,photosystem II reaction center protein Ycf12,protein-coding,-,-,-,photosystem II reaction center protein Ycf12,20180721,-
+31455,36944949,ycf56,DR485_pgp183,Grafi_p054,-,-,-,Ycf56,protein-coding,-,-,-,Ycf56,20210403,-
+31455,36944950,rpl6,DR485_pgp098,Grafi_p139,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20180721,-
+31455,36944951,ycf60,DR485_pgp193,Grafi_p044,-,-,-,Tic20 family protein Ycf60,protein-coding,-,-,-,Tic20 family protein Ycf60,20210123,-
+31455,36944952,ycf55,DR485_pgp178,Grafi_p059,-,-,-,Ycf55,protein-coding,-,-,-,Ycf55,20210403,-
+31455,36944953,rpl4,DR485_pgp085,Grafi_p152,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20180721,-
+31455,36944954,psaB,DR485_pgp078,Grafi_p159,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20180721,-
+31455,36944955,rps10,DR485_pgp112,Grafi_p125,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20180721,-
+31455,36944956,DR485_pgp012,DR485_pgp012,Grafi_p227,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944957,rps16,DR485_pgp154,Grafi_p083,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20180721,-
+31455,36944958,rpl2,DR485_pgp087,Grafi_p150,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20180721,-
+31455,36944959,DR485_pgp016,DR485_pgp016,Grafi_p223,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944960,rpoB,DR485_pgp039,Grafi_p198,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20180721,-
+31455,36944961,apcF,DR485_pgp227,Grafi_p010,-,-,-,phycobilisome core component,protein-coding,-,-,-,phycobilisome core component,20180721,-
+31455,36944962,DR485_pgt024,DR485_pgt024,Grafi_t24,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944963,cpcB,DR485_pgp213,Grafi_p024,-,-,-,C-phycocyanin beta chain,protein-coding,-,-,-,C-phycocyanin beta chain,20180721,-
+31455,36944964,accA,DR485_pgp219,Grafi_p018,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit alpha,20180721,-
+31455,36944965,rpl14,DR485_pgp094,Grafi_p143,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20180721,-
+31455,36944966,ycf26,DR485_pgp198,Grafi_p039,-,-,-,sensor-like histidine kinase ycf26,protein-coding,-,-,-,sensor-like histidine kinase ycf26,20180721,-
+31455,36944967,rpl21,DR485_pgp184,Grafi_p053,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20180721,-
+31455,36944968,ycf65,DR485_pgp153,Grafi_p084,-,-,-,putative 30S ribosomal protein 3,protein-coding,-,-,-,putative 30S ribosomal protein 3,20210123,-
+31455,36944969,atpG,DR485_pgp032,Grafi_p205,-,-,-,ATP synthase subunit b',protein-coding,-,-,-,ATP synthase subunit b',20180721,-
+31455,36944970,gltB,DR485_pgp215,Grafi_p022,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,ferredoxin-dependent glutamate synthase,20180721,-
+31455,36944971,orf48,DR485_pgp152,Grafi_p085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944972,rpl29,DR485_pgp092,Grafi_p145,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20180721,-
+31455,36944973,ilvH,DR485_pgp232,Grafi_p005,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,acetolactate synthase small subunit,20180721,-
+31455,36944974,DR485_pgp074,DR485_pgp074,Grafi_p163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944975,rps9,DR485_pgp107,Grafi_p130,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20180721,-
+31455,36944976,ycf36,DR485_pgp059,Grafi_p178,-,-,-,Ycf36,protein-coding,-,-,-,Ycf36,20210403,-
+31455,36944977,rpl33,DR485_pgp041,Grafi_p196,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20180721,-
+31455,36944978,ompR,DR485_pgp162,Grafi_p075,-,-,-,OmpR transcriptional regulator,protein-coding,-,-,-,OmpR transcriptional regulator,20180721,-
+31455,36944979,DR485_pgt014,DR485_pgt014,Grafi_t14,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944980,psbN,DR485_pgp117,Grafi_p120,-,-,-,protein PsbN,protein-coding,-,-,-,protein PsbN,20180721,-
+31455,36944981,rpl16,DR485_pgp091,Grafi_p146,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20180721,-
+31455,36944982,rpl20,DR485_pgp055,Grafi_p182,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20180721,-
+31455,36944983,DR485_pgp065,DR485_pgp065,Grafi_p172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944984,argB,DR485_pgp121,Grafi_p116,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20180721,-
+31455,36944985,rps20,DR485_pgp040,Grafi_p197,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210403,-
+31455,36944986,orf34,DR485_pgp145,Grafi_p092,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944987,trxA,DR485_pgp004,Grafi_p235,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20180721,-
+31455,36944988,psaC,DR485_pgp216,Grafi_p021,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center,20180721,-
+31455,36944989,psbK,DR485_pgp081,Grafi_p156,-,-,-,photosystem II reaction center protein K,protein-coding,-,-,-,photosystem II reaction center protein K,20180721,-
+31455,36944990,DR485_pgp133,DR485_pgp133,Grafi_p104,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944991,DR485_pgt015,DR485_pgt015,Grafi_t15,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36944992,psbY,DR485_pgp181,Grafi_p056,-,-,-,photosystem II protein Y,protein-coding,-,-,-,photosystem II protein Y,20210123,-
+31455,36944993,psbH,DR485_pgp118,Grafi_p119,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H,20210123,-
+31455,36944994,DR485_pgp013,DR485_pgp013,Grafi_p226,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944995,cpeB,DR485_pgp223,Grafi_p014,-,-,-,B-phycoerythrin beta chain,protein-coding,-,-,-,B-phycoerythrin beta chain,20210123,-
+31455,36944996,DR485_pgp130,DR485_pgp130,Grafi_p107,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36944997,DR485_pgp134,DR485_pgp134,Grafi_p103,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36944998,rpl28,DR485_pgp005,Grafi_p234,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20180721,-
+31455,36944999,groEL,DR485_pgp150,Grafi_p087,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,60 kDa chaperonin,20180721,-
+31455,36945000,DR485_pgp011,DR485_pgp011,Grafi_p228,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945001,DR485_pgp131,DR485_pgp131,Grafi_p106,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36945002,orf51,DR485_pgp151,Grafi_p086,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945003,ycf46,DR485_pgp164,Grafi_p073,-,-,-,AAA domain-containing protein Ycf46,protein-coding,-,-,-,AAA domain-containing protein Ycf46,20210403,-
+31455,36945004,psbD,DR485_pgp159,Grafi_p078,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,photosystem II D2 protein,20180721,-
+31455,36945005,psaF,DR485_pgp168,Grafi_p069,-,-,-,photosystem I reaction center subunit III,protein-coding,-,-,-,photosystem I reaction center subunit III,20180721,-
+31455,36945006,petG,DR485_pgp080,Grafi_p157,-,-,-,cytochrome b6-f complex subunit 5,protein-coding,-,-,-,cytochrome b6-f complex subunit 5,20210123,-
+31455,36945007,psbE,DR485_pgp199,Grafi_p038,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,cytochrome b559 subunit alpha,20180721,-
+31455,36945008,upp,DR485_pgp156,Grafi_p081,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20180706,-
+31455,36945009,psbT,DR485_pgp116,Grafi_p121,-,-,-,photosystem II reaction center protein T,protein-coding,-,-,-,photosystem II reaction center protein T,20180721,-
+31455,36945010,DR485_pgp066,DR485_pgp066,Grafi_p171,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945011,cpcS,DR485_pgp023,Grafi_p214,-,-,-,chromophore lyase CpcS/CpeS-like protein,protein-coding,-,-,-,chromophore lyase CpcS/CpeS-like protein,20180706,-
+31455,36945012,DR485_pgp067,DR485_pgp067,Grafi_p170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945013,DR485_pgr002,DR485_pgr002,Grafi_r02,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+31455,36945014,psbL,DR485_pgp201,Grafi_p036,-,-,-,photosystem II reaction center protein L,protein-coding,-,-,-,photosystem II reaction center protein L,20180721,-
+31455,36945015,rbcR,DR485_pgp180,Grafi_p057,-,-,-,putative RuBisCO transcriptional regulator,protein-coding,-,-,-,putative RuBisCO transcriptional regulator,20180721,-
+31455,36945016,fabH,DR485_pgp171,Grafi_p066,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,20180721,-
+31455,36945017,psbF,DR485_pgp200,Grafi_p037,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,cytochrome b559 subunit beta,20180721,-
+31455,36945018,secY,DR485_pgp101,Grafi_p136,-,-,-,protein translocase subunit SecY,protein-coding,-,-,-,protein translocase subunit SecY,20180721,-
+31455,36945019,rps14,DR485_pgp079,Grafi_p158,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20180721,-
+31455,36945020,ycf45,DR485_pgp073,Grafi_p164,-,-,-,Ycf45,protein-coding,-,-,-,Ycf45,20210403,-
+31455,36945021,psbJ,DR485_pgp202,Grafi_p035,-,-,-,photosystem II reaction center protein J,protein-coding,-,-,-,photosystem II reaction center protein J,20180721,-
+31455,36945022,DR485_pgp069,DR485_pgp069,Grafi_p168,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945023,DR485_pgp018,DR485_pgp018,Grafi_p221,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36945024,rps1,DR485_pgp144,Grafi_p093,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20180721,-
+31455,36945025,ftrB,DR485_pgp204,Grafi_p033,-,-,-,ferredoxin-thioredoxin reductase catalytic chain,protein-coding,-,-,-,ferredoxin-thioredoxin reductase catalytic chain,20180721,-
+31455,36945026,DR485_pgp132,DR485_pgp132,Grafi_p105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945027,DR485_pgp160,DR485_pgp160,Grafi_p077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945028,secG,DR485_pgp060,Grafi_p177,-,-,-,putative protein-export membrane protein secG,protein-coding,-,-,-,putative protein-export membrane protein secG,20180706,-
+31455,36945029,psbB,DR485_pgp115,Grafi_p122,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20180721,-
+31455,36945030,psaL,DR485_pgp007,Grafi_p232,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,photosystem I reaction center subunit XI,20180721,-
+31455,36945031,rps6,DR485_pgp194,Grafi_p043,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20180721,-
+31455,36945032,petM,DR485_pgp061,Grafi_p176,-,-,-,cytochrome b6-f complex subunit 7,protein-coding,-,-,-,cytochrome b6-f complex subunit 7,20180706,-
+31455,36945033,DR485_pgt022,DR485_pgt022,Grafi_t22,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945034,psaD,DR485_pgp071,Grafi_p166,-,-,-,photosystem I reaction center subunit II,protein-coding,-,-,-,photosystem I reaction center subunit II,20180721,-
+31455,36945035,ycf34,DR485_pgp233,Grafi_p004,-,-,-,Ycf34,protein-coding,-,-,-,Ycf34,20180721,-
+31455,36945036,ycf35,DR485_pgp188,Grafi_p049,-,-,-,Ycf35,protein-coding,-,-,-,Ycf35,20210403,-
+31455,36945037,DR485_pgt019,DR485_pgt019,Grafi_t19,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945038,ycf39,DR485_pgp025,Grafi_p212,-,-,-,Ycf39,protein-coding,-,-,-,Ycf39,20180721,-
+31455,36945039,ycf37,DR485_pgp166,Grafi_p071,-,-,-,Ycf37,protein-coding,-,-,-,Ycf37,20180721,-
+31455,36945040,DR485_pgr001,DR485_pgr001,Grafi_r03,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+31455,36945041,DR485_pgt018,DR485_pgt018,Grafi_t18,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945042,DR485_pgt021,DR485_pgt021,Grafi_t21,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945043,ftsH,DR485_pgp120,Grafi_p117,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20180721,-
+31455,36945044,syh,DR485_pgp149,Grafi_p088,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20180721,-
+31455,36945045,bas1,DR485_pgp058,Grafi_p179,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,thiol-specific antioxidant protein,20180721,-
+31455,36945046,DR485_pgp228,DR485_pgp228,Grafi_p009,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180721,-
+31455,36945047,chlI,DR485_pgp196,Grafi_p041,-,-,-,magnesium-chelatase subunit ChlI,protein-coding,-,-,-,magnesium-chelatase subunit ChlI,20180721,-
+31455,36945048,DR485_pgt011,DR485_pgt011,Grafi_t11,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945049,ycf29,DR485_pgp142,Grafi_p095,-,-,-,putative transcriptional regulator Ycf29,protein-coding,-,-,-,putative transcriptional regulator Ycf29,20210403,-
+31455,36945050,moeB,DR485_pgp129,Grafi_p108,-,-,-,putative molybdopterin-synthase adenylyltransferase,protein-coding,-,-,-,putative molybdopterin-synthase adenylyltransferase,20180721,-
+31455,36945051,clpC,DR485_pgp126,Grafi_p111,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA-like protein,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA-like protein,20180721,-
+31455,36945052,ORF58,DR485_pgp006,Grafi_p233,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945053,tilS,DR485_pgp207,Grafi_p030,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,tRNA(Ile)-lysidine synthase,20180721,-
+31455,36945054,DR485_pgt006,DR485_pgt006,Grafi_t06,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945055,DR485_pgt008,DR485_pgt008,Grafi_t08,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945056,psb28,DR485_pgp148,Grafi_p089,-,-,-,photosystem II reaction center psb28 protein,protein-coding,-,-,-,photosystem II reaction center psb28 protein,20180721,-
+31455,36945057,ilvB,DR485_pgp123,Grafi_p114,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,acetolactate synthase large subunit,20180721,-
+31455,36945058,psbZ,DR485_pgp082,Grafi_p155,-,-,-,photosystem II reaction center protein Z,protein-coding,-,-,-,photosystem II reaction center protein Z,20180721,-
+31455,36945059,trnL,DR485_pgt002,Grafi_t02,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945060,ycf4,DR485_pgp009,Grafi_p230,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20180721,-
+31455,36945061,DR485_pgt003,DR485_pgt003,Grafi_t03,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945115,rrl,DR485_mgr02,-,-,MT,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+31455,36945116,rps3,DR485_mgp25,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20180721,-
+31455,36945117,atp8,DR485_mgp07,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20180721,-
+31455,36945118,sdh4,DR485_mgp10,-,-,MT,-,succinate dehydrogenase membrane anchor subunit,protein-coding,-,-,-,succinate dehydrogenase membrane anchor subunit,20180721,-
+31455,36945119,trnI,DR485_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945120,nad4l,DR485_mgp01,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 4L,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 4L,20180721,-
+31455,36945121,trnL2,DR485_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945122,nad2,DR485_mgp11,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 2,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 2,20180721,-
+31455,36945123,ymf39,DR485_mgp20,-,-,MT,-,Ymf39,protein-coding,-,-,-,Ymf39,20180706,-
+31455,36945124,cox3,DR485_mgp21,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20180721,-
+31455,36945125,trnW,DR485_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945126,sdh3,DR485_mgp16,-,-,MT,-,succinate dehydrogenase cytochrome b560 subunit,protein-coding,-,-,-,succinate dehydrogenase cytochrome b560 subunit,20180721,-
+31455,36945127,rps12,DR485_mgp03,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20180721,-
+31455,36945128,rpl16,DR485_mgp24,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20180721,-
+31455,36945129,trnG2,DR485_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945130,trnG1,DR485_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945131,nad5,DR485_mgp08,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 5,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 5,20180721,-
+31455,36945132,trnA,DR485_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945133,trnD,DR485_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945134,atp6,DR485_mgp06,-,-,MT,-,ATP synthase subunit a,protein-coding,-,-,-,ATP synthase subunit a,20180721,-
+31455,36945135,trnF,DR485_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945136,trnE,DR485_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945137,nad1,DR485_mgp12,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 1,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 1,20180721,-
+31455,36945138,nad3,DR485_mgp13,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 3,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 3,20180721,-
+31455,36945139,nad4,DR485_mgp09,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 4,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 4,20180721,-
+31455,36945140,rrs,DR485_mgr01,-,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+31455,36945141,trnC,DR485_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945142,cob,DR485_mgp19,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20180721,-
+31455,36945143,trnN,DR485_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945144,trnP,DR485_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945145,trnR1,DR485_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945146,nad6,DR485_mgp18,-,-,MT,-,NADH-ubiquinone oxidoreductase chain 6,protein-coding,-,-,-,NADH-ubiquinone oxidoreductase chain 6,20180721,-
+31455,36945147,trnK,DR485_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945148,atp9,DR485_mgp15,-,-,MT,-,ATP synthase subunit 9,protein-coding,-,-,-,ATP synthase subunit 9,20190604,-
+31455,36945149,trnY,DR485_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945150,rpl20,DR485_mgp02,-,-,MT,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20180706,-
+31455,36945151,trnQ,DR485_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945152,rps11,DR485_mgp14,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20180721,-
+31455,36945153,sdh2,DR485_mgp17,-,-,MT,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20180721,-
+31455,36945154,secY,DR485_mgp04,-,-,MT,-,protein translocase subunit SecY,protein-coding,-,-,-,protein translocase subunit SecY,20180721,-
+31455,36945155,orf174,DR485_mgp05,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180706,-
+31455,36945156,trnS2,DR485_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945157,trnV,DR485_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945158,trnS1,DR485_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945159,trnM1,DR485_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945160,cox1,DR485_mgp23,-,-,MT,-,cytochrome c oxidase subunit 1;hypothetical protein,protein-coding,-,-,-,cytochrome c oxidase subunit 1;hypothetical protein,20180721,-
+31455,36945161,trnL1,DR485_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945162,trnR2,DR485_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945163,trnM,DR485_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945164,trnH,DR485_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+31455,36945165,cox2,DR485_mgp22,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20180721,-

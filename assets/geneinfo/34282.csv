@@ -1,0 +1,129 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+34282,12799131,atpA,GogoCp006,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+34282,12799132,rps2,GogoCp010,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160910,-
+34282,12799133,atpH,GogoCp008,-,-,-,-,ATPase III subunit; ATP synthase CF0 C chain,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C chain|ATP synthase CF0 C subunit,20150626,-
+34282,12799134,rpoC2,GogoCp011,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160813,-
+34282,12799135,psbM,GogoCp015,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+34282,12799136,trnD-GUC,GogoCt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799137,trnY-GUA,GogoCt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799138,trnT-GGU,GogoCt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799139,psbD,GogoCp016,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160716,-
+34282,12799140,psbC,GogoCp017,-,-,-,-,PSII 43 kDa protein; CP43,protein-coding,-,-,-,PSII 43 kDa protein|CP43|photosystem II 44 kDa protein,20150626,-
+34282,12799141,psbZ,GogoCp018,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+34282,12799142,trnG-GCC,GogoCt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799143,ycf3,GogoCp022,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170906,-
+34282,12799144,trnS-GGA,GogoCt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799145,trnT-UGU,GogoCt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799146,ndhJ,GogoCp024,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20150626,-
+34282,12799147,ndhK,GogoCp025,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20160910,-
+34282,12799148,ndhC,GogoCp026,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20150626,-
+34282,12799149,atpE,GogoCp027,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20150626,-
+34282,12799150,trnV-UAC,GogoCt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799151,psaI,GogoCp031,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+34282,12799152,ycf4,GogoCp032,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20160325,-
+34282,12799153,cemA,GogoCp033,ycf10,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20150626,-
+34282,12799154,psbL,GogoCp036,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20150626,-
+34282,12799155,psbF,GogoCp037,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20150626,-
+34282,12799156,psbE,GogoCp038,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20170906,-
+34282,12799157,petL,GogoCp039,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+34282,12799158,petG,GogoCp040,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+34282,12799159,trnW-CCA,GogoCt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799160,trnP-UGG,GogoCt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799161,psaJ,GogoCp041,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+34282,12799162,rpl33,GogoCp042,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+34282,12799163,rps18,GogoCp043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+34282,12799164,rpl20,GogoCp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160910,-
+34282,12799165,rps12,GogoCp045,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+34282,12799166,clpP,GogoCp047,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160910,-
+34282,12799167,psbB,GogoCp048,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20150626,-
+34282,12799168,psbH,GogoCp051,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20150626,-
+34282,12799169,petB,GogoCp052,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170906,-
+34282,12799170,petD,GogoCp053,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160716,-
+34282,12799171,rpoA,GogoCp054,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170906,-
+34282,12799172,rpl36,GogoCp056,secX,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20201026,-
+34282,12799173,rps8,GogoCp057,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+34282,12799174,rpl16,GogoCp059,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+34282,12799175,rpl14,GogoCp058,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160325,-
+34282,12799176,rps3,GogoCp060,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160813,-
+34282,12799177,rpl2,GogoCp062,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20170906,-
+34282,12799178,rpl23,GogoCp063,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20160325,-
+34282,12799179,trnI-CAU,GogoCt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799180,ycf2,GogoCp064,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160813,-
+34282,12799181,trnL-CAA,GogoCt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799182,ndhB,GogoCp066,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+34282,12799183,rps7,GogoCp067,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160806,-
+34282,12799184,trnV-GAC,GogoCt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799185,GogoCr001,GogoCr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799186,trnI-GAU,GogoCt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799187,trnA-UGC,GogoCt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799188,GogoCr003,GogoCr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799189,trnR-ACG,GogoCt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799190,trnN-GUU,GogoCt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799191,ccsA,GogoCp077,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20150626,-
+34282,12799192,trnL-UAG,GogoCt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799193,rpl32,GogoCp078,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+34282,12799194,ndhF,GogoCp079,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160813,-
+34282,12799195,trnN-GUU,GogoCt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799196,trnR-ACG,GogoCt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799197,GogoCr005,GogoCr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799198,GogoCr006,GogoCr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799199,GogoCr007,GogoCr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799200,trnA-UGC,GogoCt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799201,GogoCr008,GogoCr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799202,trnV-GAC,GogoCt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799203,rps19,GogoCp061,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20150626,-
+34282,12799204,rpoC1,GogoCp012,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160813,-
+34282,12799205,rps11,GogoCp055,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+34282,12799206,trnR-UCU,GogoCt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799207,atpI,GogoCp009,-,-,-,-,ATPase IV subunit; ATP synthase CF0 A chain,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A chain|ATP synthase CF0 A subunit,20150626,-
+34282,12799208,rpoB,GogoCp013,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160813,-
+34282,12799209,atpF,GogoCp007,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I|ATP synthase CF0 B subunit,20160813,-
+34282,12799210,trnC-GCA,GogoCt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799211,trnS-UGA,GogoCt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799212,trnfM-CAU,GogoCt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799213,rps14,GogoCp019,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+34282,12799214,psaB,GogoCp020,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+34282,12799215,psaA,GogoCp021,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160325,-
+34282,12799216,rps4,GogoCp023,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+34282,12799217,trnL-UAA,GogoCt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799218,trnF-GAA,GogoCt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799219,trnM-CAU,GogoCt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799220,atpB,GogoCp028,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170906,-
+34282,12799221,rbcL,GogoCp029,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170906,-
+34282,12799222,accD,GogoCp030,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20150626,-
+34282,12799223,petA,GogoCp034,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+34282,12799224,psbJ,GogoCp035,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+34282,12799225,psbT,GogoCp049,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+34282,12799226,psbN,GogoCp050,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein|photosystem II protein N,20150626,-
+34282,12799227,GogoCr002,GogoCr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799228,psbI,GogoCp005,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+34282,12799229,GogoCr004,GogoCr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120510,-
+34282,12799230,ycf1,GogoCp068,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160813,-
+34282,12799231,psbK,GogoCp004,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+34282,12799232,rps15,GogoCp069,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+34282,12799233,trnQ-UUG,GogoCt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799234,ndhH,GogoCp070,-,-,-,-,NADH dehydrogenase 49 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 49 kDa subunit|NADH dehydrogenase subunit 7,20170906,-
+34282,12799235,rps16,GogoCp003,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160325,-
+34282,12799236,rpl2,GogoCp086,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20170906,-
+34282,12799237,ndhA,GogoCp071,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150626,-
+34282,12799238,matK,GogoCp002,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160806,-
+34282,12799239,rpl23,GogoCp085,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20150626,-
+34282,12799240,psaC,GogoCp075,-,-,-,-,photosystem I iron-sulfur center; 9 kDa protein,protein-coding,-,-,-,photosystem I iron-sulfur center|9 kDa protein|photosystem I subunit VII,20170906,-
+34282,12799241,rps12,GogoCp046,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+34282,12799242,ndhB,GogoCp082,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+34282,12799243,ndhD,GogoCp076,ndh4,-,-,-,start codon may be formed as a result of RNA editing,protein-coding,-,-,-,start codon may be formed as a result of RNA editing|NADH dehydrogenase subunit 4,20160910,-
+34282,12799244,trnS-GCU,GogoCt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799245,rps7,GogoCp081,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160806,-
+34282,12799246,ndhI,GogoCp072,frxB,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit|NADH dehydrogenase subunit I,20170906,-
+34282,12799247,trnK-UUU,GogoCt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799248,trnI-CAU,GogoCt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799249,ndhG,GogoCp073,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20150626,-
+34282,12799250,psbA,GogoCp001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160716,-
+34282,12799251,ycf2,GogoCp084,-,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,hypothetical protein RF2|Ycf2,20160813,-
+34282,12799252,ndhE,GogoCp074,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150626,-
+34282,12799253,trnH-GUG,GogoCt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799254,trnL-CAA,GogoCt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799255,trnI-GAU,GogoCt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799256,trnE-UUC,GogoCt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-
+34282,12799257,petN,GogoCp014,ycf6,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+34282,12799258,trnG-GCC,GogoCt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20120510,-

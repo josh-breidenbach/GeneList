@@ -1,0 +1,287 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+31502,18129111,rpl16,Rhody.mt.03,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20150626,-
+31502,18129112,trnD,Rhody.mt.04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129113,cox2,Rhody.mt.06,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160903,-
+31502,18129114,cox3,Rhody.mt.07,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160903,-
+31502,18129115,Rhody.mt.08,Rhody.mt.08,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+31502,18129116,trnG,Rhody.mt.09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129117,trnL,Rhody.mt.13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129118,trnG,Rhody.mt.15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129119,sdh3,Rhody.mt.17,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+31502,18129120,trnF,Rhody.mt.18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129121,trnC,Rhody.mt.22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129122,nad3,Rhody.mt.25,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160903,-
+31502,18129123,nad1,Rhody.mt.26,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150626,-
+31502,18129124,nad2,Rhody.mt.27,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160903,-
+31502,18129125,sdhD,Rhody.mt.28,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20150626,-
+31502,18129126,nad4,Rhody.mt.29,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+31502,18129127,trnI,Rhody.mt.30,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129128,atp8,Rhody.mt.32,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160903,-
+31502,18129129,atp6,Rhody.mt.33,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160903,-
+31502,18129130,Rhody.mt.35,Rhody.mt.35,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+31502,18129131,trnA,Rhody.mt.36,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129132,rps12,Rhody.mt.43,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+31502,18129133,trnE,Rhody.mt.44,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129134,cox1,Rhody.mt.05,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160903,-
+31502,18129135,trnQ,Rhody.mt.10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129136,trnL,Rhody.mt.11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129137,cob,Rhody.mt.12,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20160903,-
+31502,18129138,nad6,Rhody.mt.14,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160903,-
+31502,18129139,sdh2,Rhody.mt.16,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20160903,-
+31502,18129140,trnS,Rhody.mt.19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129141,trnP,Rhody.mt.20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129142,atp9,Rhody.mt.21,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20190604,-
+31502,18129143,trnM,Rhody.mt.23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129144,rps11,Rhody.mt.24,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160903,-
+31502,18129145,nad5,Rhody.mt.31,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160903,-
+31502,18129146,trnS,Rhody.mt.37,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129147,trnN,Rhody.mt.38,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129148,trnV,Rhody.mt.39,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129149,trnR,Rhody.mt.40,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129150,trnK,Rhody.mt.41,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129151,secY,Rhody.mt.42,-,-,MT,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20150626,-
+31502,18129152,trnM,Rhody.mt.45,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140103,-
+31502,18129153,rrs,Rhody.mt.46,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140103,-
+31502,18129154,rps3,Rhody.mt.02,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160903,-
+31502,18129155,nad4L,Rhody.mt.47,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160903,-
+31502,18129156,rrl,Rhody.mt.01,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140103,-
+31502,29069405,BI154_gt001,BI154_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069406,psbK,BI154_gp200,Rhodyp_003,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20170210,-
+31502,29069407,petG,BI154_gp199,Rhodyp_004,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20181013,-
+31502,29069408,rps14,BI154_gp198,Rhodyp_005,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170210,-
+31502,29069409,psaB,BI154_gp197,Rhodyp_006,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20170210,-
+31502,29069410,psaA,BI154_gp196,Rhodyp_007,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20170210,-
+31502,29069411,accB,BI154_gp195,Rhodyp_008,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20170210,-
+31502,29069412,ycf45,BI154_gp194,Rhodyp_009,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069413,acpP,BI154_gp193,Rhodyp_010,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20170210,-
+31502,29069414,BI154_gt002,BI154_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069415,acsF,BI154_gp191,Rhodyp_012,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,protein-coding,-,-,-,-,20170210,-
+31502,29069416,petN,BI154_gp190,Rhodyp_013,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20170210,-
+31502,29069417,petM,BI154_gp189,Rhodyp_014,-,-,-,cytochrome B6-f complex subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069418,secG,BI154_gp188,Rhodyp_015,-,-,-,preprotein translocase subunit G,protein-coding,-,-,-,-,20170210,-
+31502,29069419,ycf36,BI154_gp187,Rhodyp_016,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069420,BI154_gt003,BI154_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069421,pbsA,BI154_gp185,Rhodyp_018,-,-,-,heme oxygenase,protein-coding,-,-,-,-,20170210,-
+31502,29069422,rpl35,BI154_gp184,Rhodyp_019,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20170210,-
+31502,29069423,rpl20,BI154_gp183,Rhodyp_020,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170210,-
+31502,29069424,preA,BI154_gp182,Rhodyp_021,-,-,-,prenyl transferase,protein-coding,-,-,-,-,20170210,-
+31502,29069425,odpA,BI154_gp181,Rhodyp_022,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069426,odpB,BI154_gp180,Rhodyp_023,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069427,petA,BI154_gp179,Rhodyp_024,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170210,-
+31502,29069428,ycf43,BI154_gp178,Rhodyp_025,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069429,apcE,BI154_gp177,Rhodyp_026,-,-,-,phycobilisome core-membrane linker protein,protein-coding,-,-,-,-,20170210,-
+31502,29069430,apcA,BI154_gp176,Rhodyp_027,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069431,apcB,BI154_gp175,Rhodyp_028,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069432,atpE,BI154_gp174,Rhodyp_029,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069433,atpB,BI154_gp173,Rhodyp_030,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069434,ycf3,BI154_gp172,Rhodyp_031,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170210,-
+31502,29069435,infB,BI154_gp171,Rhodyp_032,-,-,-,translation initiation factor 2,protein-coding,-,-,-,-,20170210,-
+31502,29069436,rps18,BI154_gp170,Rhodyp_033,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170210,-
+31502,29069437,rpl33,BI154_gp169,Rhodyp_034,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170210,-
+31502,29069438,rps20,BI154_gp168,Rhodyp_035,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20170210,-
+31502,29069439,rpoB,BI154_gp167,Rhodyp_036,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069440,rpoC1,BI154_gp166,Rhodyp_037,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069441,rpoC2,BI154_gp165,Rhodyp_038,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069442,rps2,BI154_gp164,Rhodyp_039,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170210,-
+31502,29069443,tsf,BI154_gp163,Rhodyp_040,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20170210,-
+31502,29069444,atpI,BI154_gp162,Rhodyp_041,-,-,-,ATP synthase CFO A chain subunit IV,protein-coding,-,-,-,-,20170210,-
+31502,29069445,atpH,BI154_gp161,Rhodyp_042,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",protein-coding,-,-,-,-,20170908,-
+31502,29069446,atpG,BI154_gp160,Rhodyp_043,-,-,-,ATP synthase CFO B' chain subunit II,protein-coding,-,-,-,-,20170210,-
+31502,29069447,atpF,BI154_gp159,Rhodyp_044,-,-,-,ATP synthase CFO B chain subunit I,protein-coding,-,-,-,-,20170210,-
+31502,29069448,atpD,BI154_gp158,Rhodyp_045,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069449,atpA,BI154_gp157,Rhodyp_046,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069450,ycf16,BI154_gp156,Rhodyp_047,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069451,ycf24,BI154_gp155,Rhodyp_048,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069452,ycf92,BI154_gp154,Rhodyp_049,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069453,BI154_gt004,BI154_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069454,ycf41,BI154_gp152,Rhodyp_051,-,-,-,putative single-stranded DNA binding protein,protein-coding,-,-,-,-,20170210,-
+31502,29069455,psbI,BI154_gp151,Rhodyp_052,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+31502,29069456,ycf58,BI154_gp150,Rhodyp_053,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170520,-
+31502,29069457,orf621,BI154_gp149,Rhodyp_054,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069458,BI154_gp148,BI154_gp148,Rhodyp_055,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069459,BI154_gp147,BI154_gp147,Rhodyp_056,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069460,cemA,BI154_gp146,Rhodyp_057,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170210,-
+31502,29069461,BI154_gt005,BI154_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069462,BI154_gt006,BI154_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069463,petL,BI154_gp143,Rhodyp_060,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,-,20170210,-
+31502,29069464,psaL,BI154_gp142,Rhodyp_061,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,-,20170210,-
+31502,29069465,BI154_gt007,BI154_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069466,rpl28,BI154_gp140,Rhodyp_063,-,-,-,ribosomal protein L28,protein-coding,-,-,-,-,20170210,-
+31502,29069467,trxA,BI154_gp139,Rhodyp_064,-,-,-,thioredoxin,protein-coding,-,-,-,-,20170210,-
+31502,29069468,rbcL,BI154_gp138,Rhodyp_065,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170210,-
+31502,29069469,rbcS,BI154_gp137,Rhodyp_066,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20170210,-
+31502,29069470,cfxQ,BI154_gp136,Rhodyp_067,-,-,-,putative rubisco expression protein,protein-coding,-,-,-,-,20170210,-
+31502,29069471,BI154_gt008,BI154_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069472,ilvH,BI154_gp134,Rhodyp_069,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069473,infC,BI154_gp133,Rhodyp_070,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20170210,-
+31502,29069474,rps4,BI154_gp132,Rhodyp_071,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170210,-
+31502,29069475,ycf80,BI154_gp131,Rhodyp_072,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069476,BI154_gs001,BI154_gs001,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20160925,-
+31502,29069477,apcF,BI154_gp129,Rhodyp_074,-,-,-,Allophycocyanin beta 18 subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069478,ycf20,BI154_gp128,Rhodyp_075,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069479,cpcG,BI154_gp127,Rhodyp_076,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,-,20170210,-
+31502,29069480,nblA,BI154_gp126,Rhodyp_077,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,-,20170210,-
+31502,29069481,rpeB,BI154_gp125,Rhodyp_078,-,-,-,R-phycoerythrin class I beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069482,rpeA,BI154_gp124,Rhodyp_079,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069483,ccsA,BI154_gp123,Rhodyp_080,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170210,-
+31502,29069484,psaK,BI154_gp122,Rhodyp_081,-,-,-,photosystem I subunit X,protein-coding,-,-,-,-,20170210,-
+31502,29069485,accA,BI154_gp121,Rhodyp_082,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069486,ycf22,BI154_gp120,Rhodyp_083,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069487,psaC,BI154_gp119,Rhodyp_084,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170210,-
+31502,29069488,gltB,BI154_gp118,Rhodyp_085,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,-,20170210,-
+31502,29069489,ycf61,BI154_gp117,Rhodyp_086,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069490,cpcB,BI154_gp116,Rhodyp_087,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069491,cpcA,BI154_gp115,Rhodyp_088,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069492,pgmA,BI154_gp114,Rhodyp_089,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20170210,-
+31502,29069493,ycf21,BI154_gp113,Rhodyp_090,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069494,secA,BI154_gp112,Rhodyp_091,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20170210,-
+31502,29069495,BI154_gt011,BI154_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069496,BI154_gt012,BI154_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069497,grx,BI154_gp109,Rhodyp_094,-,-,-,glutaredoxin,protein-coding,-,-,-,-,20170210,-
+31502,29069498,psb30,BI154_gp108,Rhodyp_095,-,-,-,photosystem II protein psb30,protein-coding,-,-,-,-,20170210,-
+31502,29069499,ftrB,BI154_gp107,Rhodyp_096,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069500,psaI,BI154_gp106,Rhodyp_097,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20170210,-
+31502,29069501,psbJ,BI154_gp105,Rhodyp_098,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20181013,-
+31502,29069502,psbL,BI154_gp104,Rhodyp_099,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170908,-
+31502,29069503,psbF,BI154_gp103,Rhodyp_100,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,-,20170210,-
+31502,29069504,psbE,BI154_gp102,Rhodyp_101,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,-,20170210,-
+31502,29069505,dfr,BI154_gp101,Rhodyp_102,-,-,-,two component sensor kinase,protein-coding,-,-,-,-,20170210,-
+31502,29069506,ycf63,BI154_gp100,Rhodyp_103,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069507,BI154_gt013,BI154_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069508,psaM,BI154_gp098,Rhodyp_105,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20170908,-
+31502,29069509,BI154_gr006,BI154_gr006,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069510,ycf60,BI154_gp096,Rhodyp_107,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069511,thiG,BI154_gp095,Rhodyp_108,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20170210,-
+31502,29069512,trpG,BI154_gp094,Rhodyp_109,-,-,-,anthranilate synthase component 2,protein-coding,-,-,-,-,20170210,-
+31502,29069513,ccs1,BI154_gp093,Rhodyp_110,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,-,20170210,-
+31502,29069514,ccdA,BI154_gp092,Rhodyp_111,-,-,-,cytochrome c biogenesis protein transmembrane region,protein-coding,-,-,-,-,20170210,-
+31502,29069515,BI154_gt017,BI154_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069516,psbA,BI154_gp090,Rhodyp_113,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20170210,-
+31502,29069517,rne,BI154_gp089,Rhodyp_114,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20170210,-
+31502,29069518,rpl27,BI154_gp088,Rhodyp_115,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20170210,-
+31502,29069519,rpl21,BI154_gp087,Rhodyp_116,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20170210,-
+31502,29069520,ycf56,BI154_gp086,Rhodyp_117,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069521,rpl32,BI154_gp085,Rhodyp_118,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170210,-
+31502,29069522,psbY,BI154_gp084,Rhodyp_119,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20170210,-
+31502,29069523,rbcR,BI154_gp083,Rhodyp_120,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,-,20170210,-
+31502,29069524,ycf54,BI154_gp082,Rhodyp_121,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069525,ycf55,BI154_gp081,Rhodyp_122,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069526,ycf53,BI154_gp080,Rhodyp_123,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069527,carA,BI154_gp079,Rhodyp_124,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069528,petJ,BI154_gp078,Rhodyp_125,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20170210,-
+31502,29069529,psbV,BI154_gp077,Rhodyp_126,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,-,20170210,-
+31502,29069530,accD,BI154_gp076,Rhodyp_127,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069531,psbX,BI154_gp075,Rhodyp_128,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20170210,-
+31502,29069532,fabH,BI154_gp074,Rhodyp_129,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20170210,-
+31502,29069533,apcD,BI154_gp073,Rhodyp_130,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069534,psaJ,BI154_gp072,Rhodyp_131,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20170210,-
+31502,29069535,psaF,BI154_gp071,Rhodyp_132,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20170210,-
+31502,29069536,ycf52,BI154_gp070,Rhodyp_133,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,-,20170210,-
+31502,29069537,BI154_gt019,BI154_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069538,ycf46,BI154_gp068,Rhodyp_135,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069539,BI154_gr003,BI154_gr003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069540,psbD,BI154_gp066,Rhodyp_137,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20170210,-
+31502,29069541,psbC,BI154_gp065,Rhodyp_138,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,-,20170210,-
+31502,29069542,upp,BI154_gp064,Rhodyp_139,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,-,20170210,-
+31502,29069543,ycf19,BI154_gp063,Rhodyp_140,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069544,rps16,BI154_gp062,Rhodyp_141,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170210,-
+31502,29069545,ycf65,BI154_gp061,Rhodyp_142,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,-,20170210,-
+31502,29069546,orf6,BI154_gp060,Rhodyp_143,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069547,groEL,BI154_gp059,Rhodyp_144,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20170210,-
+31502,29069548,BI154_gt022,BI154_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069549,BI154_gt023,BI154_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069550,syfB,BI154_gp056,Rhodyp_147,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20170210,-
+31502,29069551,rps1,BI154_gp055,Rhodyp_148,-,-,-,ribosomal protein S1,protein-coding,-,-,-,-,20170210,-
+31502,29069552,thiS,BI154_gp054,Rhodyp_149,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,-,20170210,-
+31502,29069553,BI154_gt024,BI154_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069554,ntcA,BI154_gp052,Rhodyp_151,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,-,20170210,-
+31502,29069555,petB,BI154_gp051,Rhodyp_152,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170210,-
+31502,29069556,petD,BI154_gp050,Rhodyp_153,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170210,-
+31502,29069557,rpl12,BI154_gp049,Rhodyp_154,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20170210,-
+31502,29069558,rpl1,BI154_gp048,Rhodyp_155,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20170210,-
+31502,29069559,rpl11,BI154_gp047,Rhodyp_156,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20170210,-
+31502,29069560,BI154_gt025,BI154_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069561,rpl9,BI154_gp045,Rhodyp_158,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20170210,-
+31502,29069562,dnaB,BI154_gp044,Rhodyp_159,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069563,BI154_gt026,BI154_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069564,rpl19,BI154_gp042,Rhodyp_161,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20170210,-
+31502,29069565,BI154_gt027,BI154_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069566,ycf33,BI154_gp040,Rhodyp_163,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069567,argB,BI154_gp039,Rhodyp_164,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20170210,-
+31502,29069568,BI154_gt030,BI154_gt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069569,psaE,BI154_gp037,Rhodyp_166,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,-,20170210,-
+31502,29069570,psbH,BI154_gp036,Rhodyp_167,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20210116,-
+31502,29069571,psbN,BI154_gp035,Rhodyp_168,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20170210,-
+31502,29069572,psbT,BI154_gp034,Rhodyp_169,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+31502,29069573,psbB,BI154_gp033,Rhodyp_170,-,-,-,photosystem II CP47 protein,protein-coding,-,-,-,-,20170210,-
+31502,29069574,ycf38,BI154_gp032,Rhodyp_171,-,-,-,ABC-2 type transporter,protein-coding,-,-,-,-,20170210,-
+31502,29069575,petF,BI154_gp031,Rhodyp_172,-,-,-,ferredoxin,protein-coding,-,-,-,-,20170210,-
+31502,29069576,rps10,BI154_gp030,Rhodyp_173,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20170210,-
+31502,29069577,tufA,BI154_gp029,Rhodyp_174,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20170210,-
+31502,29069578,rps7,BI154_gp028,Rhodyp_175,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170210,-
+31502,29069579,rps12,BI154_gp027,Rhodyp_176,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170210,-
+31502,29069580,rpl31,BI154_gp026,Rhodyp_177,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20170210,-
+31502,29069581,rps9,BI154_gp025,Rhodyp_178,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20170210,-
+31502,29069582,rpl13,BI154_gp024,Rhodyp_179,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20170210,-
+31502,29069583,rpoA,BI154_gp023,Rhodyp_180,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069584,rps11,BI154_gp022,Rhodyp_181,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170210,-
+31502,29069585,rps13,BI154_gp021,Rhodyp_182,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20170210,-
+31502,29069586,rpl36,BI154_gp020,Rhodyp_183,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170210,-
+31502,29069587,secY,BI154_gp019,Rhodyp_184,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20170210,-
+31502,29069588,rps5,BI154_gp018,Rhodyp_185,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20170210,-
+31502,29069589,rpl18,BI154_gp017,Rhodyp_186,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20170210,-
+31502,29069590,rpl6,BI154_gp016,Rhodyp_187,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20170210,-
+31502,29069591,rps8,BI154_gp015,Rhodyp_188,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170210,-
+31502,29069592,rpl5,BI154_gp014,Rhodyp_189,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20170210,-
+31502,29069593,rpl24,BI154_gp013,Rhodyp_190,-,-,-,ribosomal protein L24,protein-coding,-,-,-,-,20170210,-
+31502,29069594,rpl14,BI154_gp012,Rhodyp_191,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170210,-
+31502,29069595,rps17,BI154_gp011,Rhodyp_192,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20170210,-
+31502,29069596,rpl29,BI154_gp010,Rhodyp_193,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20170210,-
+31502,29069597,rpl16,BI154_gp009,Rhodyp_194,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170210,-
+31502,29069598,rps3,BI154_gp008,Rhodyp_195,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170210,-
+31502,29069599,rpl22,BI154_gp007,Rhodyp_196,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170210,-
+31502,29069600,rps19,BI154_gp006,Rhodyp_197,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170210,-
+31502,29069601,rpl2,BI154_gp005,Rhodyp_198,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170210,-
+31502,29069602,rpl23,BI154_gp004,Rhodyp_199,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170210,-
+31502,29069603,rpl4,BI154_gp003,Rhodyp_200,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20170210,-
+31502,29069604,rpl3,BI154_gp002,Rhodyp_201,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20170210,-
+31502,29069605,psbZ,BI154_gp201,Rhodyp_002,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20170210,-
+31502,29069606,psaD,BI154_gp192,Rhodyp_011,-,-,-,photosystem I subunit II,protein-coding,-,-,-,-,20170210,-
+31502,29069607,bas1,BI154_gp186,Rhodyp_017,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,-,20170210,-
+31502,29069608,ycf39,BI154_gp153,Rhodyp_050,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069609,orf434,BI154_gp145,Rhodyp_058,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069610,ycf4,BI154_gp144,Rhodyp_059,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20170210,-
+31502,29069611,orf58,BI154_gp141,Rhodyp_062,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069612,BI154_gt009,BI154_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069613,ycf34,BI154_gp135,Rhodyp_068,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069614,BI154_gt010,BI154_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069615,orf83,BI154_gp130,Rhodyp_073,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069616,trpA,BI154_gp111,Rhodyp_092,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069617,tilS,BI154_gp110,Rhodyp_093,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,-,20170210,-
+31502,29069618,BI154_gt014,BI154_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069619,chlI,BI154_gp099,Rhodyp_104,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,-,20170210,-
+31502,29069620,BI154_gt015,BI154_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069621,BI154_gt016,BI154_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069622,BI154_gr005,BI154_gr005,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069623,BI154_gr004,BI154_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069624,rps6,BI154_gp097,Rhodyp_106,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20170210,-
+31502,29069625,BI154_gt018,BI154_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069626,ycf35,BI154_gp091,Rhodyp_112,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069627,rpl34,BI154_gp069,Rhodyp_134,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20170210,-
+31502,29069628,BI154_gr002,BI154_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069629,BI154_gt020,BI154_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069630,BI154_gt021,BI154_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069631,BI154_gr001,BI154_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160925,-
+31502,29069632,ycf27,BI154_gp067,Rhodyp_136,-,-,-,regulatory component of sensory transduction system,protein-coding,-,-,-,-,20170210,-
+31502,29069633,syh,BI154_gp058,Rhodyp_145,-,-,-,histidine-tRNA synthetase,protein-coding,-,-,-,-,20170210,-
+31502,29069634,psb28,BI154_gp057,Rhodyp_146,-,-,-,photosystem II reaction center,protein-coding,-,-,-,-,20170210,-
+31502,29069635,ycf29,BI154_gp053,Rhodyp_150,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+31502,29069636,moeB,BI154_gp046,Rhodyp_157,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,-,20170210,-
+31502,29069637,clpC,BI154_gp043,Rhodyp_160,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069638,BI154_gt028,BI154_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069639,BI154_gt029,BI154_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069640,ilvB,BI154_gp041,Rhodyp_162,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,-,20170210,-
+31502,29069641,BI154_gt031,BI154_gt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069642,BI154_gt032,BI154_gt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20160925,-
+31502,29069643,ftsH,BI154_gp038,Rhodyp_165,-,-,-,cell division protein,protein-coding,-,-,-,-,20170210,-
+31502,29069644,dnaK,BI154_gp001,Rhodyp_001,-,-,-,heat shock protein 70 chaperone,protein-coding,-,-,-,-,20170210,-

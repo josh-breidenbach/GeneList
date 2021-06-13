@@ -1,0 +1,923 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+39717,6481144,PCC_0317,PCC_0317,-,-,-,-,putative Rubisco transcriptional regulator,protein-coding,-,-,-,-,20160716,-
+39717,6481145,PCC_0318,PCC_0318,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481146,dnaK,PCC_0160,-,-,-,-,"molecular chaperone DnaK, heat shock protein",protein-coding,-,-,-,-,20160716,-
+39717,6481147,pstC,PCC_0161,-,-,-,-,"Phosphate ABC transporter, permease protein PstC",protein-coding,-,-,-,-,20160716,-
+39717,6481148,pstA,PCC_0162,-,-,-,-,putative phosphate ABC transporter,protein-coding,-,-,-,-,20160716,-
+39717,6481149,pstB,PCC_0163,-,-,-,-,"putative phosphate ABC transporter, ATP binding subunit",protein-coding,-,-,-,-,20150626,-
+39717,6481150,PCC_0164,PCC_0164,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481151,PCC_0116,PCC_0116,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481152,pgsA,PCC_0117,-,-,-,-,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481153,PCC_0118,PCC_0118,-,-,-,-,putative transcripton factor,protein-coding,-,-,-,-,20160716,-
+39717,6481154,PCC_0119,PCC_0119,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481155,PCC_0120,PCC_0120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481156,aroB,PCC_0121,-,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481157,PCC_0170,PCC_0170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481158,ycf49,PCC_0171,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481159,PCC_0172,PCC_0172,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481160,PCC_0173,PCC_0173,-,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481161,ilvA,PCC_0174,-,-,-,-,threonine dehydratase,protein-coding,-,-,-,-,20150626,-
+39717,6481162,PCC_0175,PCC_0175,-,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",protein-coding,-,-,-,-,20160716,-
+39717,6481163,PCC_0021,PCC_0021,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481164,PCC_0022,PCC_0022,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481165,PCC_0023,PCC_0023,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481166,gltX,PCC_0024,-,-,-,-,glutamyl-tRNA synthetase,protein-coding,-,-,-,-,20150626,-
+39717,6481167,ndhI,PCC_0325,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20160716,-
+39717,6481168,ndhA,PCC_0326,-,-,-,-,NADH dehydrogenase subunit H,protein-coding,-,-,-,-,20160716,-
+39717,6481169,PCC_0327,PCC_0327,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481170,hrcA,PCC_0328,-,-,-,-,Negative regulator of class I heat shock protein,protein-coding,-,-,-,-,20160716,-
+39717,6481171,cysC,PCC_0329,-,-,-,-,Adenylylsulfate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6481172,chlM,PCC_0330,-,-,-,-,Mg-protoporphyrin IX methyl transferase,protein-coding,-,-,-,-,20160716,-
+39717,6481173,PCC_0917,PCC_0917,-,-,-,-,CO2 hydration,protein-coding,-,-,-,-,20160716,-
+39717,6481174,PCC_0918,PCC_0918,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481175,PCC_0919,PCC_0919,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481176,hisG,PCC_0920,-,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481177,PCC_0921,PCC_0921,-,-,-,-,ATPase,protein-coding,-,-,-,-,20160716,-
+39717,6481178,PCC_0922,PCC_0922,-,-,-,-,possible acetyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481179,PCC_0094,PCC_0094,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481180,rpoC2,PCC_0095,-,-,-,-,DNA-directed RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481181,rpoC1,PCC_0096,-,-,-,-,DNA-directed RNA polymerase gamma chain,protein-coding,-,-,-,-,20160716,-
+39717,6481182,rpoB,PCC_0097,-,-,-,-,DNA-directed RNA polymerase beta subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481183,rpsT,PCC_0098,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,-,20150626,-
+39717,6481184,rpiA,PCC_0099,-,-,-,-,Ribose 5-phosphate isomerase,protein-coding,-,-,-,-,20160716,-
+39717,6481185,PCC_0685,PCC_0685,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481186,PCC_0686,PCC_0686,-,-,-,-,Photosystem q(b) protein,protein-coding,-,-,-,-,20150725,-
+39717,6481187,PCC_0687,PCC_0687,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481188,menB,PCC_0688,-,-,-,-,Naphthoate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481189,menD,PCC_0689,-,-,-,-,Menaquinone biosynthesis protein,protein-coding,-,-,-,-,20150626,-
+39717,6481190,lepB,PCC_0690,-,-,-,-,"Peptidase S26A, signal peptidase I",protein-coding,-,-,-,-,20150626,-
+39717,6481191,dnaA,PCC_0001,-,-,-,-,chromosomal replication initiation protein,protein-coding,-,-,-,-,20160716,-
+39717,6481192,PCC_0263,PCC_0263,-,-,-,-,putative carboxypeptidase,protein-coding,-,-,-,-,20160716,-
+39717,6481193,PCC_0264,PCC_0264,-,-,-,-,tyrosine binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481194,PCC_0265,PCC_0265,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481195,ccsA,PCC_0266,-,-,-,-,possible heme transporter,protein-coding,-,-,-,-,20150626,-
+39717,6481196,cfxE,PCC_0267,-,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,-,20160716,-
+39717,6481197,PCC_0837,PCC_0837,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481198,PCC_0838,PCC_0838,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481199,PCC_0839,PCC_0839,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481200,gcpE,PCC_0840,-,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481201,PCC_0841,PCC_0841,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481202,fmt,PCC_0842,-,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481203,PCC_0843,PCC_0843,-,-,-,-,possible modulator of DNA gyrase,protein-coding,-,-,-,-,20150626,-
+39717,6481204,PCC_0844,PCC_0844,-,-,-,-,putative modulator of DNA gyrase; TldD,protein-coding,-,-,-,-,20150626,-
+39717,6481205,murZ,PCC_0090,-,-,-,-,UDP-N-glucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481206,PCC_0091,PCC_0091,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481207,argD,PCC_0092,-,-,-,-,acetylornithine aminotransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481208,folC,PCC_0093,-,-,-,-,putative bifunctional Dihydrofolate/Folylpolyglutamate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481209,PCC_0210,PCC_0210,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481210,pepP,PCC_0211,-,-,-,-,putative aminopeptidase P,protein-coding,-,-,-,-,20160716,-
+39717,6481211,ycf65,PCC_0212,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481212,atpE,PCC_0213,-,-,-,-,ATP synthase subunit epsilon,protein-coding,-,-,-,-,20150626,-
+39717,6481213,atpB,PCC_0214,-,-,-,-,ATP synthase subunit B,protein-coding,-,-,-,-,20160716,-
+39717,6481214,groES,PCC_0215,-,-,-,-,co-chaperonin GroES,protein-coding,-,-,-,-,20160716,-
+39717,6481215,rpl2,PCC_0594,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20160716,-
+39717,6481216,rpl23,PCC_0595,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20160716,-
+39717,6481217,rpl4,PCC_0596,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20150626,-
+39717,6481218,rpl3,PCC_0597,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,-,20150626,-
+39717,6481219,PCC_0598,PCC_0598,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481220,PCC_0599,PCC_0599,-,-,-,-,putative ldpA protein,protein-coding,-,-,-,-,20160716,-
+39717,6481221,ycf45,PCC_0600,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481222,glpX,PCC_0268,-,-,-,-,"Fructose-1,6-bisphosphatase/sedoheptulose-1,7- bis phosphatase",protein-coding,-,-,-,-,20160716,-
+39717,6481223,hemA,PCC_0269,-,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481224,glgC,PCC_0270,-,-,-,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,-,20150626,-
+39717,6481225,gnd,PCC_0271,-,-,-,-,6-phosphogluconate dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481226,ilvD,PCC_0272,-,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,-,20150626,-
+39717,6481227,plsX,PCC_0307,-,-,-,-,fatty acid/phospholipid synthesis protein,protein-coding,-,-,-,-,20150626,-
+39717,6481228,fabH,PCC_0308,-,-,-,-,3-oxoacyl-(acyl carrier protein) synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481229,PCC_0309,PCC_0309,-,-,-,-,Malonyl CoA-acyl carrier protein transacylase,protein-coding,-,-,-,-,20160716,-
+39717,6481230,PCC_0310,PCC_0310,-,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481231,PCC_0311,PCC_0311,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481232,PCC_0312,PCC_0312,-,-,-,-,putative RNA-binding protein (RRM domain),protein-coding,-,-,-,-,20160716,-
+39717,6481233,PCC_0497,PCC_0497,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481234,chlD,PCC_0498,-,-,-,-,Magnesium chelatase ATPase subunit D,protein-coding,-,-,-,-,20160716,-
+39717,6481235,PCC_0499,PCC_0499,-,-,-,-,possible 2-amino-4-hydroxy-6- hydroxymethyldihydropteridinepyrophosphokinase,protein-coding,-,-,-,-,20160716,-
+39717,6481236,envM,PCC_0500,-,-,-,-,enoyl-(acyl-carrier-protein) reductase (NADH),protein-coding,-,-,-,-,20150626,-
+39717,6481237,hisB,PCC_0501,-,-,-,-,imidazoleglycerol-phosphate dehydratase,protein-coding,-,-,-,-,20160716,-
+39717,6481238,pyrE,PCC_0502,-,-,-,-,Orotate phosphoribosyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481239,atp1,PCC_0199,-,-,-,-,possible H+-transporting ATP synthase,protein-coding,-,-,-,-,20160325,-
+39717,6481240,atpI,PCC_0200,-,-,-,-,ATP synthase subunit A,protein-coding,-,-,-,-,20150626,-
+39717,6481241,atpH,PCC_0201,-,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,-,20150626,-
+39717,6481242,atpG,PCC_0202,-,-,-,-,ATP synthase subunit B',protein-coding,-,-,-,-,20160716,-
+39717,6481243,atpF,PCC_0203,-,-,-,-,ATP synthase subunit B,protein-coding,-,-,-,-,20160716,-
+39717,6481244,atpD,PCC_0204,-,-,-,-,"ATP synthase, delta (OSCP) subunit",protein-coding,-,-,-,-,20150626,-
+39717,6481245,deoC,PCC_0718,-,-,-,-,Putative deoxyribose-phosphate aldolase (DeoC),protein-coding,-,-,-,-,20150626,-
+39717,6481246,lipB,PCC_0719,-,-,-,-,lipoate-protein ligase B,protein-coding,-,-,-,-,20160716,-
+39717,6481247,PCC_0720,PCC_0720,-,-,-,-,putative long-chain-fatty-acid--CoA ligase,protein-coding,-,-,-,-,20150626,-
+39717,6481248,PCC_0721,PCC_0721,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481249,odhB,PCC_0722,-,-,-,-,dihydrolipoamide acetyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481250,queA,PCC_0723,-,-,-,-,Queuosine biosynthesis protein,protein-coding,-,-,-,-,20160716,-
+39717,6481251,rps4,PCC_0724,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20160716,-
+39717,6481252,PCC_0485,PCC_0485,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481253,mutS,PCC_0486,-,-,-,-,DNA mismatch repair protein,protein-coding,-,-,-,-,20160716,-
+39717,6481254,psbZ,PCC_0487,-,-,-,-,Photosystem II reaction center protein PsbZ,protein-coding,-,-,-,-,20150626,-
+39717,6481255,psbJ,PCC_0488,-,-,-,-,photosystem II reaction center protein PsbJ,protein-coding,-,-,-,-,20150626,-
+39717,6481256,psbL,PCC_0489,-,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,-,20160716,-
+39717,6481257,psbF,PCC_0490,-,-,-,-,"cytochrome b559, beta subunit",protein-coding,-,-,-,-,20150626,-
+39717,6481258,thrC,PCC_0403,-,-,-,-,threonine synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481259,dnaN,PCC_0404,-,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,-,20150626,-
+39717,6481260,PCC_0405,PCC_0405,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481261,gyrA,PCC_0406,-,-,-,-,"DNA gyrase/topoisomerase IV, subunit A",protein-coding,-,-,-,-,20160716,-
+39717,6481262,PCC_0407,PCC_0407,-,-,-,-,4Fe-4S cluster binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481263,PCC_0408,PCC_0408,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481264,engA,PCC_0048,-,-,-,-,GTP-binding protein EngA,protein-coding,-,-,-,-,20160716,-
+39717,6481265,PCC_0049,PCC_0049,-,-,-,-,possible cobalt transport protein,protein-coding,-,-,-,-,20160716,-
+39717,6481266,PCC_0050,PCC_0050,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481267,PCC_0051,PCC_0051,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481268,PCC_0052,PCC_0052,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481269,PCC_0232,PCC_0232,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481270,PCC_0233,PCC_0233,-,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit A,protein-coding,-,-,-,-,20150626,-
+39717,6481271,dnaE,PCC_0234,-,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,-,20160716,-
+39717,6481272,PCC_0235,PCC_0235,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481273,rps15,PCC_0236,-,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,-,20160716,-
+39717,6481274,ruvA,PCC_0237,-,-,-,-,putative holliday junction DNA helicase RuvA,protein-coding,-,-,-,-,20160716,-
+39717,6481275,PCC_0250,PCC_0250,-,-,-,-,cytidine/deoxycytidylate deaminase family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481276,PCC_0251,PCC_0251,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481277,lspA,PCC_0252,-,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,-,20160716,-
+39717,6481278,PCC_0253,PCC_0253,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481279,PCC_0254,PCC_0254,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481280,PCC_0255,PCC_0255,-,-,-,-,phycocyanobilin:ferredoxin oxidoreductase,protein-coding,-,-,-,-,20160716,-
+39717,6481281,PCC_0063,PCC_0063,-,-,-,-,"Peptidase M50, putative membrane-associated zinc metallopeptidase",protein-coding,-,-,-,-,20150626,-
+39717,6481282,serS,PCC_0064,-,-,-,-,seryl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481283,PCC_0065,PCC_0065,-,-,-,-,NifU-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481284,lepA,PCC_0066,-,-,-,-,GTP-binding protein LepA,protein-coding,-,-,-,-,20160716,-
+39717,6481285,PCC_0067,PCC_0067,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481286,PCC_0068,PCC_0068,-,-,-,-,putative tRNA (guanosine-2'-O-) - methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481287,nusB,PCC_0409,-,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,-,20150626,-
+39717,6481288,ftsY,PCC_0410,-,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,-,20160716,-
+39717,6481289,PCC_0411,PCC_0411,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481290,grpE,PCC_0412,-,-,-,-,Heat shock protein GrpE,protein-coding,-,-,-,-,20160716,-
+39717,6481291,dnaJ,PCC_0413,-,-,-,-,DnaJ protein,protein-coding,-,-,-,-,20160716,-
+39717,6481292,PCC_0414,PCC_0414,-,-,-,-,GTPase EngC,protein-coding,-,-,-,-,20160716,-
+39717,6481293,PCC_0331,PCC_0331,-,-,-,-,"two component transcriptional regulator, LuxR family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481294,mraW,PCC_0332,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20150626,-
+39717,6481295,ndhH,PCC_0333,-,-,-,-,NADH dehydrogenase (ubiquinone),protein-coding,-,-,-,-,20160716,-
+39717,6481296,PCC_0334,PCC_0334,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481297,menE,PCC_0335,-,-,-,-,O-succinylbenzoate--CoA ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481298,PCC_0336,PCC_0336,-,-,-,-,putative O-succinylbenzoate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481299,PCC_0457,PCC_0457,-,-,-,-,"two component transcriptional regulator, winged helix family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481300,lysS,PCC_0458,-,-,-,-,lysyl-tRNA synthetase,protein-coding,-,-,-,-,20150626,-
+39717,6481301,PCC_0459,PCC_0459,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481302,PCC_0460,PCC_0460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481303,PCC_0461,PCC_0461,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481304,smpB,PCC_0462,-,-,-,-,SsrA-binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481305,dacB,PCC_0143,-,-,-,-,putative D-Ala-D-Ala carboxypeptidase 3 (S13) family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481306,PCC_0144,PCC_0144,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481307,PCC_0145,PCC_0145,-,-,-,-,coenzyme A biosynthesis protein,protein-coding,-,-,-,-,20160716,-
+39717,6481308,PCC_0146,PCC_0146,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481309,PCC_0147,PCC_0147,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481310,codA,PCC_0086,-,-,-,-,possible cytosine deaminase,protein-coding,-,-,-,-,20160716,-
+39717,6481311,phdD,PCC_0087,-,-,-,-,dihydrolipoamide dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481312,spoU,PCC_0088,-,-,-,-,tRNA/rRNA methyltransferase (SpoU),protein-coding,-,-,-,-,20160716,-
+39717,6481313,PCC_0089,PCC_0089,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481314,fmu,PCC_0069,-,-,-,-,Sun protein (Fmu protein),protein-coding,-,-,-,-,20160716,-
+39717,6481315,PCC_0070,PCC_0070,-,-,-,-,putative penicillin binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481316,chlG,PCC_0071,-,-,-,-,bacteriochlorophyll a synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481317,gerCb,PCC_0072,-,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481318,glyQ,PCC_0073,-,-,-,-,"Glycyl-tRNA synthetase, alpha subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481319,PCC_0074,PCC_0074,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481320,PCC_0138,PCC_0138,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481321,ytfC,PCC_0139,-,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase),protein-coding,-,-,-,-,20160716,-
+39717,6481322,sodB,PCC_0140,-,-,-,-,superoxide dismutase,protein-coding,-,-,-,-,20160716,-
+39717,6481323,PCC_0141,PCC_0141,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481324,PCC_0142,PCC_0142,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481325,PCC_0379,PCC_0379,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481326,PCC_0380,PCC_0380,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481327,PCC_0381,PCC_0381,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481328,PCC_0382,PCC_0382,-,-,-,-,spermidine synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481329,PCC_0383,PCC_0383,-,-,-,-,"agmatinase, putative",protein-coding,-,-,-,-,20150626,-
+39717,6481330,PCC_0009,PCC_0009,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481331,PCC_0010,PCC_0010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481332,PCC_0011,PCC_0011,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481333,hisI,PCC_0012,-,-,-,-,histidine biosynthesis bifunctional protein HisIE,protein-coding,-,-,-,-,20150626,-
+39717,6481334,PCC_0013,PCC_0013,-,-,-,-,cation efflux family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481335,PCC_0014,PCC_0014,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481336,PCC_0277,PCC_0277,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481337,PCC_0278,PCC_0278,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481338,PCC_0279,PCC_0279,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481339,PCC_0659,PCC_0659,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481340,cpcG,PCC_0660,-,-,-,-,phycobilisome rod-core linker polypeptide cpcG (L-RC 28.5),protein-coding,-,-,-,-,20160716,-
+39717,6481341,PCC_0661,PCC_0661,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481342,cysH,PCC_0662,-,-,-,-,phosphoadenosine phosphosulfate reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481343,ndh,PCC_0663,-,-,-,-,"putative NADH dehydrogenase, transport associated",protein-coding,-,-,-,-,20160716,-
+39717,6481344,PCC_0664,PCC_0664,-,-,-,-,"putative sodium/sulfate transporter, DASS family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481345,PCC_0665,PCC_0665,-,-,-,-,"possible sodium transporter, Trk family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481346,PCC_0384,PCC_0384,-,-,-,-,putative Glycine cleavage T-protein (aminomethyl transferase),protein-coding,-,-,-,-,20160716,-
+39717,6481347,aspS,PCC_0385,-,-,-,-,aspartyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481348,pyrG,PCC_0386,-,-,-,-,CTP synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481349,PCC_0387,PCC_0387,-,-,-,-,possible p-aminobenzoate synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481350,PCC_0388,PCC_0388,-,-,-,-,aminotransferase class IV,protein-coding,-,-,-,-,20150626,-
+39717,6481351,cbiF,PCC_0389,-,-,-,-,uroporphyrin-III C-methyltransferase,protein-coding,-,-,-,-,20150626,-
+39717,6481352,PCC_0390,PCC_0390,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481353,PCC_0256,PCC_0256,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481354,rps2,PCC_0257,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20160716,-
+39717,6481355,tsf,PCC_0258,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20160716,-
+39717,6481356,PCC_0259,PCC_0259,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481357,sir,PCC_0260,-,-,-,-,Ferredoxin-sulfite reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481358,glyS,PCC_0261,-,-,-,-,"putative Glycyl-tRNA synthetase, beta subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481359,pheT,PCC_0037,-,-,-,-,Phenylalanyl-tRNA synthetase beta subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481360,rpl33,PCC_0038,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+39717,6481361,rps18,PCC_0039,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+39717,6481362,rnb,PCC_0040,-,-,-,-,probable ribonuclease II,protein-coding,-,-,-,-,20160716,-
+39717,6481363,metG,PCC_0041,-,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481364,ftsW,PCC_0193,-,-,-,-,Cell division protein FtsW,protein-coding,-,-,-,-,20160716,-
+39717,6481365,apcC,PCC_0194,-,-,-,-,"linker polypeptide, allophycocyanin-associated",protein-coding,-,-,-,-,20160716,-
+39717,6481366,apcB,PCC_0195,-,-,-,-,"allophycocyanin, beta subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481367,apcA,PCC_0196,-,-,-,-,allophycocyanin alpha chain,protein-coding,-,-,-,-,20160716,-
+39717,6481368,apcE,PCC_0197,-,-,-,-,anchor polypeptide LCM,protein-coding,-,-,-,-,20160716,-
+39717,6481369,PCC_0198,PCC_0198,-,-,-,-,possible methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481370,PCC_0296,PCC_0296,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150926,-
+39717,6481371,PCC_0297,PCC_0297,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481372,cysM,PCC_0298,-,-,-,-,cysteine synthase A,protein-coding,-,-,-,-,20160716,-
+39717,6481373,psbD,PCC_0299,-,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,-,20150626,-
+39717,6481374,PCC_0300,PCC_0300,-,-,-,-,"possible ABC transporter, ATP-binding component",protein-coding,-,-,-,-,20150626,-
+39717,6481375,PCC_0301,PCC_0301,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481376,pcr,PCC_0901,-,-,-,-,protochlorophyllide oxidoreductase,protein-coding,-,-,-,-,20150626,-
+39717,6481377,chlL,PCC_0902,-,-,-,-,"light-independent protochlorophyllide reductase, iron-sulfur ATP-binding protein",protein-coding,-,-,-,-,20160716,-
+39717,6481378,chlB,PCC_0903,-,-,-,-,light-independent protochlorophyllide reductase subunit B,protein-coding,-,-,-,-,20160716,-
+39717,6481379,chlN,PCC_0904,-,-,-,-,light-independent protochlorophyllide reductase subunit N,protein-coding,-,-,-,-,20150626,-
+39717,6481380,PCC_0905,PCC_0905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481381,PCC_0906,PCC_0906,-,-,-,-,Ham1 protein-like protein,protein-coding,-,-,-,-,20150626,-
+39717,6481382,ccmK,PCC_0907,-,-,-,-,carboxysome shell peptide,protein-coding,-,-,-,-,20170906,-
+39717,6481383,rbcL,PCC_0908,-,-,-,-,"Ribulose 1,5-bisphosphate carboxylase large subunit",protein-coding,-,-,-,-,20160917,-
+39717,6481384,psbW,PCC_0244,-,-,-,-,putative photosystem II reaction center Psb28,protein-coding,-,-,-,-,20150626,-
+39717,6481385,PCC_0245,PCC_0245,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481386,ycf53,PCC_0246,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481387,PCC_0247,PCC_0247,-,-,-,-,generic methyl-transferase,protein-coding,-,-,-,-,20160716,-
+39717,6481388,glnA,PCC_0248,-,-,-,-,"Glutamine synthetase, glutamate--ammonia ligase",protein-coding,-,-,-,-,20160716,-
+39717,6481389,apcF,PCC_0249,-,-,-,-,phycobilisome core component-allophycocyanin beta-18 subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481390,deaD,PCC_0801,-,-,-,-,putative ATP-dependent RNA helicase,protein-coding,-,-,-,-,20150626,-
+39717,6481391,PCC_0802,PCC_0802,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481392,PCC_0803,PCC_0803,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481393,ubiH,PCC_0804,-,-,-,-,possible 2-octaprenyl-6-methoxyphenol 4- monoxygenase; UbiH,protein-coding,-,-,-,-,20160716,-
+39717,6481394,PCC_0805,PCC_0805,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481395,dapB,PCC_0806,-,-,-,-,dihydrodipicolinate reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481396,chlH,PCC_0807,-,-,-,-,cobaltochelatase,protein-coding,-,-,-,-,20160716,-
+39717,6481397,PCC_0808,PCC_0808,-,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481398,groEL,PCC_0216,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20160716,-
+39717,6481399,secG,PCC_0217,-,-,-,-,"preprotein translocase, SecG subunit",protein-coding,-,-,-,-,20150626,-
+39717,6481400,yibO,PCC_0218,-,-,-,-,phosphoglyceromutase,protein-coding,-,-,-,-,20160716,-
+39717,6481401,ftrV,PCC_0219,-,-,-,-,"putative ferredoxin-thioredoxin reductase, variable chain",protein-coding,-,-,-,-,20160716,-
+39717,6481402,PCC_0220,PCC_0220,-,-,-,-,putative DnaK-type molecular chaperone (HSP70 family protein),protein-coding,-,-,-,-,20150626,-
+39717,6481403,PCC_0221,PCC_0221,-,-,-,-,DNA-directed RNA polymerase omega subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481404,PCC_0781,PCC_0781,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481405,PCC_0782,PCC_0782,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481406,prsA,PCC_0783,-,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,-,20160716,-
+39717,6481407,PCC_0784,PCC_0784,-,-,-,-,possible LytR-membrane bound transcriptional regulator,protein-coding,-,-,-,-,20150626,-
+39717,6481408,PCC_0785,PCC_0785,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481409,PCC_0786,PCC_0786,-,-,-,-,"Pseudouridine synthase, Rsu",protein-coding,-,-,-,-,20150626,-
+39717,6481410,PCC_0053,PCC_0053,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481411,PCC_0054,PCC_0054,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481412,PCC_0055,PCC_0055,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481413,PCC_0056,PCC_0056,-,-,-,-,DNA binding protein HU,protein-coding,-,-,-,-,20150626,-
+39717,6481414,PCC_0057,PCC_0057,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481415,PCC_0100,PCC_0100,-,-,-,-,"Serine protease, trypsin family:Chymotrypsin serine protease",protein-coding,-,-,-,-,20160716,-
+39717,6481416,PCC_0101,PCC_0101,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481417,PCC_0102,PCC_0102,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481418,nusA,PCC_0103,-,-,-,-,transcription elongation factor NusA,protein-coding,-,-,-,-,20160716,-
+39717,6481419,PCC_0104,PCC_0104,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481420,accC,PCC_0673,-,-,-,-,acetyl-CoA carboxylase,protein-coding,-,-,-,-,20160716,-
+39717,6481421,PCC_0674,PCC_0674,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481422,PCC_0675,PCC_0675,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481423,PCC_0676,PCC_0676,-,-,-,-,Chromosome segregation protein,protein-coding,-,-,-,-,20160716,-
+39717,6481424,PCC_0677,PCC_0677,-,-,-,-,Putative RNA methylase family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481425,infB,PCC_0105,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,-,20160716,-
+39717,6481426,PCC_0106,PCC_0106,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481427,PCC_0107,PCC_0107,-,-,-,-,putative oxidoreductase,protein-coding,-,-,-,-,20160716,-
+39717,6481428,accD,PCC_0108,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481429,prk,PCC_0109,-,-,-,-,Phosphoribulokinase,protein-coding,-,-,-,-,20150626,-
+39717,6481430,proB,PCC_0110,-,-,-,-,gamma-glutamyl kinase,protein-coding,-,-,-,-,20160716,-
+39717,6481431,dgkA,PCC_0343,-,-,-,-,Prokaryotic diacylglycerol kinase,protein-coding,-,-,-,-,20160325,-
+39717,6481432,trpG,PCC_0344,-,-,-,-,glutamine amidotransferase of anthranilate synthase orpara-aminobenzoate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481433,PCC_0345,PCC_0345,-,-,-,-,Aminotransferase class-I,protein-coding,-,-,-,-,20150626,-
+39717,6481434,argS,PCC_0346,-,-,-,-,arginyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481435,thdF,PCC_0347,-,-,-,-,tRNA modification GTPase,protein-coding,-,-,-,-,20160716,-
+39717,6481436,PCC_0348,PCC_0348,-,-,-,-,metal dependent phosphohydrolase,protein-coding,-,-,-,-,20160716,-
+39717,6481437,PCC_0182,PCC_0182,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481438,ycf35,PCC_0183,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481439,PCC_0184,PCC_0184,-,-,-,-,3Fe-4S ferredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6481440,gidB,PCC_0185,-,-,-,-,putative glucose inhibited division protein B,protein-coding,-,-,-,-,20150626,-
+39717,6481441,dnaJ,PCC_0186,-,-,-,-,DnaJ-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481442,PCC_0415,PCC_0415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481443,PCC_0416,PCC_0416,-,-,-,-,UDP-N-acetylenolpyruvoylglucosamine reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481444,murC,PCC_0417,-,-,-,-,UDP-N-acetylmuramate--alanine ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481445,gap2,PCC_0418,-,-,-,-,Glyceraldehyde 3-phosphate dehydrogenase NADP+; phosphorylating),protein-coding,-,-,-,-,20160716,-
+39717,6481446,PCC_0419,PCC_0419,-,-,-,-,putative thiamine monophosphate kinase,protein-coding,-,-,-,-,20150626,-
+39717,6481447,PCC_0420,PCC_0420,-,-,-,-,putative cyclophilin-type peptidyl-prolyl cis- trans isomerase,protein-coding,-,-,-,-,20150626,-
+39717,6481448,PCC_0691,PCC_0691,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481449,PCC_0692,PCC_0692,-,-,-,-,Carboxylyase-related protein,protein-coding,-,-,-,-,20150626,-
+39717,6481450,PCC_0693,PCC_0693,-,-,-,-,2-phosphosulfolactate phosphatase,protein-coding,-,-,-,-,20150626,-
+39717,6481451,PCC_0694,PCC_0694,-,-,-,-,Cell wall hydrolase/autolysin,protein-coding,-,-,-,-,20160325,-
+39717,6481452,murI,PCC_0695,-,-,-,-,Glutamate racemase,protein-coding,-,-,-,-,20160716,-
+39717,6481453,preA,PCC_0696,-,-,-,-,polyprenyl synthetase; solanesyl diphosphate synthase (sds),protein-coding,-,-,-,-,20160716,-
+39717,6481454,murD,PCC_0697,-,-,-,-,UDP-N-acetylmuramoyl-L-alanyl-D-glutamatesynthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481455,PCC_0445,PCC_0445,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481456,infC,PCC_0446,-,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,-,20160716,-
+39717,6481457,miaA,PCC_0447,-,-,-,-,tRNA delta-2-isopentenylpyrophosphate (IPP) transferase,protein-coding,-,-,-,-,20150626,-
+39717,6481458,gyrB,PCC_0448,-,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,-,20160716,-
+39717,6481459,PCC_0449,PCC_0449,-,-,-,-,Glutathione peroxidase,protein-coding,-,-,-,-,20150626,-
+39717,6481460,PCC_0450,PCC_0450,-,-,-,-,"MgtE family, putative magnesium transport protein",protein-coding,-,-,-,-,20160716,-
+39717,6481461,PCC_0666,PCC_0666,-,-,-,-,"putative potassium channel, VIC family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481462,PCC_0667,PCC_0667,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481463,rps21,PCC_0668,-,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,-,20150626,-
+39717,6481464,PCC_0669,PCC_0669,-,-,-,-,ATPase,protein-coding,-,-,-,-,20160716,-
+39717,6481465,PCC_0670,PCC_0670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481466,psbX,PCC_0671,-,-,-,-,Photosystem II PsbX protein,protein-coding,-,-,-,-,20160716,-
+39717,6481467,PCC_0672,PCC_0672,-,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",protein-coding,-,-,-,-,20150626,-
+39717,6481468,minD,PCC_0643,-,-,-,-,putative septum site-determining protein MinD,protein-coding,-,-,-,-,20160325,-
+39717,6481469,minC,PCC_0644,-,-,-,-,possible septum site-determining protein,protein-coding,-,-,-,-,20160716,-
+39717,6481470,ctpA,PCC_0645,-,-,-,-,PDZ domain (also known as DHR or GLGF):Tail specific protease,protein-coding,-,-,-,-,20150626,-
+39717,6481471,petB,PCC_0646,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160716,-
+39717,6481472,petD,PCC_0647,-,-,-,-,Cytochrome b6-f complex subunit 4 (17 kDa polypeptide),protein-coding,-,-,-,-,20160716,-
+39717,6481473,PCC_0648,PCC_0648,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481474,PCC_0649,PCC_0649,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481475,psbE,PCC_0491,-,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,-,20160716,-
+39717,6481476,PCC_0492,PCC_0492,-,-,-,-,plant photosystem II stability/assembly factor- like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481477,PCC_0493,PCC_0493,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481478,ndhC,PCC_0494,-,-,-,-,NADH dehydrogenase alpha subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481479,ndhK,PCC_0495,-,-,-,-,NADH dehydrogenase beta subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481480,ndhJ,PCC_0496,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20160716,-
+39717,6481481,PCC_0540,PCC_0540,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481482,PCC_0541,PCC_0541,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481483,psbO,PCC_0542,-,-,-,-,Photosystem II manganese-stabilizing polypeptide,protein-coding,-,-,-,-,20160716,-
+39717,6481484,PCC_0543,PCC_0543,-,-,-,-,ATP-sulfurylase,protein-coding,-,-,-,-,20150626,-
+39717,6481485,ftsH,PCC_0544,-,-,-,-,cell division protein ftsH,protein-coding,-,-,-,-,20160716,-
+39717,6481486,PCC_0545,PCC_0545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481487,petF,PCC_0165,-,-,-,-,Ferredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6481488,hisS,PCC_0166,-,-,-,-,Histidine--tRNA ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481489,PCC_0167,PCC_0167,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6481490,htpG,PCC_0168,-,-,-,-,heat shock protein 90,protein-coding,-,-,-,-,20160716,-
+39717,6481491,rpl28,PCC_0169,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,-,20160325,-
+39717,6481492,PCC_0002,PCC_0002,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481493,PCC_0003,PCC_0003,-,-,-,-,K+-dependent Na+/Ca+ exchanger related-protein,protein-coding,-,-,-,-,20160716,-
+39717,6481494,lap,PCC_0711,-,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,-,20150626,-
+39717,6481495,PCC_0712,PCC_0712,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481496,tyrS,PCC_0713,-,-,-,-,tyrosyl-tRNA synthetase,protein-coding,-,-,-,-,20150626,-
+39717,6481497,pyrF,PCC_0714,-,-,-,-,orotidine 5'-phosphate decarboxylase,protein-coding,-,-,-,-,20160716,-
+39717,6481498,PCC_0715,PCC_0715,-,-,-,-,Glycosyl transferase group 1,protein-coding,-,-,-,-,20150626,-
+39717,6481499,PCC_0716,PCC_0716,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481500,recO,PCC_0717,-,-,-,-,Recombination protein O (RecO),protein-coding,-,-,-,-,20160716,-
+39717,6481501,upp,PCC_0273,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481502,PCC_0274,PCC_0274,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481503,PCC_0275,PCC_0275,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481504,PCC_0276,PCC_0276,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481505,PCC_0601,PCC_0601,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481506,recA,PCC_0602,-,-,-,-,recombinase A,protein-coding,-,-,-,-,20150626,-
+39717,6481507,PCC_0603,PCC_0603,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481508,tyrA,PCC_0604,-,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481509,PCC_0605,PCC_0605,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481510,cobA,PCC_0606,-,-,-,-,"cob(I)yrinic acid a,c-diamide adenosyltransferase",protein-coding,-,-,-,-,20160716,-
+39717,6481511,gyrA,PCC_0774,-,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,-,20160716,-
+39717,6481512,PCC_0775,PCC_0775,-,-,-,-,lycopene cyclase,protein-coding,-,-,-,-,20160716,-
+39717,6481513,leuA,PCC_0776,-,-,-,-,2-isopropylmalate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481514,folD,PCC_0777,-,-,-,-,Methylenetetrahydrofolate dehydrogenase (NADP+),protein-coding,-,-,-,-,20160716,-
+39717,6481515,crtE,PCC_0778,-,-,-,-,geranylgeranyl pyrophosphate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481516,PCC_0779,PCC_0779,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481517,petH,PCC_0780,-,-,-,-,ferredoxin--NADP reductase (FNR),protein-coding,-,-,-,-,20150626,-
+39717,6481518,psaF,PCC_0760,-,-,-,-,Photosystem I reaction center subunit III (PsaF),protein-coding,-,-,-,-,20160716,-
+39717,6481519,PCC_0761,PCC_0761,-,-,-,-,probable o-sialoglycoprotein endopeptidase,protein-coding,-,-,-,-,20160716,-
+39717,6481520,PCC_0762,PCC_0762,-,-,-,-,UDP-N-acetylglucosamine 2-epimerase,protein-coding,-,-,-,-,20150626,-
+39717,6481521,PCC_0763,PCC_0763,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481522,PCC_0764,PCC_0764,-,-,-,-,possible SufE protein,protein-coding,-,-,-,-,20160716,-
+39717,6481523,PCC_0765,PCC_0765,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481524,PCC_0766,PCC_0766,-,-,-,-,Holliday junction resolvase RuvC,protein-coding,-,-,-,-,20150626,-
+39717,6481525,PCC_0853,PCC_0853,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481526,rpl32,PCC_0854,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+39717,6481527,PCC_0855,PCC_0855,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481528,cbbA,PCC_0856,-,-,-,-,fructose-bisphosphate aldolase,protein-coding,-,-,-,-,20160716,-
+39717,6481529,PCC_0857,PCC_0857,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481530,PCC_0858,PCC_0858,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481531,psbA,PCC_0859,-,-,-,-,Photosystem q(b) protein,protein-coding,-,-,-,-,20160325,-
+39717,6481532,priA,PCC_0860,-,-,-,-,primosomal protein N' (replication factor Y),protein-coding,-,-,-,-,20160716,-
+39717,6481533,PCC_0222,PCC_0222,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481534,PCC_0223,PCC_0223,-,-,-,-,"possible DNA polymerase III, epsilon subunit",protein-coding,-,-,-,-,20150626,-
+39717,6481535,PCC_0224,PCC_0224,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481536,PCC_0225,PCC_0225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481537,ilvC,PCC_0075,-,-,-,-,Acetohydroxy acid isomeroreductase,protein-coding,-,-,-,-,20160716,-
+39717,6481538,PCC_0076,PCC_0076,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481539,PCC_0077,PCC_0077,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481540,clpP,PCC_0078,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481541,PCC_0079,PCC_0079,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481542,leuS,PCC_0154,-,-,-,-,"t-RNA synthetase, class Ia:Leucyl-tRNA synthetase",protein-coding,-,-,-,-,20160716,-
+39717,6481543,pgi,PCC_0155,-,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,-,20150626,-
+39717,6481544,PCC_0156,PCC_0156,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481545,cyp,PCC_0157,-,-,-,-,Cyclophilin-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,-,20160716,-
+39717,6481546,PCC_0158,PCC_0158,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481547,dnaJ,PCC_0159,-,-,-,-,Heat shock protein DnaJ-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481548,PCC_0280,PCC_0280,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481549,PCC_0281,PCC_0281,-,-,-,-,inositol monophosphate family protein,protein-coding,-,-,-,-,20150626,-
+39717,6481550,PCC_0282,PCC_0282,-,-,-,-,possible Fe-S oxidoreductase,protein-coding,-,-,-,-,20160716,-
+39717,6481551,PCC_0283,PCC_0283,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481552,PCC_0845,PCC_0845,-,-,-,-,Magnesium-protoporphyrin IX monomethyl ester aerobic oxidative cyclase,protein-coding,-,-,-,-,20160716,-
+39717,6481553,PCC_0846,PCC_0846,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481554,ubiX,PCC_0847,-,-,-,-,putative 3-octaprenyl-4-hydroxybenzoate carboxy- lyase,protein-coding,-,-,-,-,20160325,-
+39717,6481555,zam,PCC_0848,-,-,-,-,putative acetazolamide conferring resistance protein Zam,protein-coding,-,-,-,-,20160716,-
+39717,6481556,PCC_0849,PCC_0849,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481557,PCC_0850,PCC_0850,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481558,PCC_0851,PCC_0851,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481559,PCC_0852,PCC_0852,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481560,ctaC,PCC_0746,-,-,-,-,possible cytochrome c oxidase subunit II,protein-coding,-,-,-,-,20160716,-
+39717,6481561,PCC_0747,PCC_0747,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481562,ctaB,PCC_0748,-,-,-,-,putative protoheme IX farnesyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481563,PCC_0749,PCC_0749,-,-,-,-,putative multidrug efflux ABC transporter,protein-coding,-,-,-,-,20160716,-
+39717,6481564,PCC_0750,PCC_0750,-,-,-,-,putative multidrug efflux ABC transporter,protein-coding,-,-,-,-,20160716,-
+39717,6481565,fabG,PCC_0751,-,-,-,-,3-oxoacyl-(acyl-carrier-protein) reductase,protein-coding,-,-,-,-,20150626,-
+39717,6481566,ispD,PCC_0752,-,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481567,alr,PCC_0567,-,-,-,-,alanine racemase,protein-coding,-,-,-,-,20150626,-
+39717,6481568,prfA,PCC_0568,-,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,-,20160716,-
+39717,6481569,rpl31,PCC_0569,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,-,20150626,-
+39717,6481570,rps9,PCC_0570,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,-,20150626,-
+39717,6481571,rpl13,PCC_0571,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20160716,-
+39717,6481572,truA,PCC_0572,-,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,-,20150626,-
+39717,6481573,PCC_0290,PCC_0290,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481574,ycf33,PCC_0291,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481575,PCC_0292,PCC_0292,-,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,-,20150626,-
+39717,6481576,PCC_0293,PCC_0293,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481577,crtQ,PCC_0294,-,-,-,-,zeta-carotene desaturase,protein-coding,-,-,-,-,20160716,-
+39717,6481578,PCC_0295,PCC_0295,-,-,-,-,Uncharacterized HesB family conserved protein,protein-coding,-,-,-,-,20150626,-
+39717,6481579,PCC_0080,PCC_0080,-,-,-,-,Oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,-,20150626,-
+39717,6481580,ftsZ,PCC_0081,-,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,-,20150626,-
+39717,6481581,PCC_0082,PCC_0082,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481582,ddl,PCC_0083,-,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481583,PCC_0084,PCC_0084,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481584,PCC_0085,PCC_0085,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481585,rpl17,PCC_0573,-,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,-,20150626,-
+39717,6481586,rpoA,PCC_0574,-,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481587,rps11,PCC_0575,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+39717,6481588,rps13,PCC_0576,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20160716,-
+39717,6481589,rpl36,PCC_0577,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+39717,6481590,adk,PCC_0578,-,-,-,-,Adenylate kinase,protein-coding,-,-,-,-,20150626,-
+39717,6481591,secY,PCC_0579,-,-,-,-,preprotein translocase SecY,protein-coding,-,-,-,-,20160716,-
+39717,6481592,birA,PCC_0739,-,-,-,-,putative Biotin--acetyl-CoA-carboxylase ligase,protein-coding,-,-,-,-,20160716,-
+39717,6481593,ndhB,PCC_0740,-,-,-,-,NAD(P)H-quinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20160716,-
+39717,6481594,topA,PCC_0741,-,-,-,-,DNA topoisomerase I,protein-coding,-,-,-,-,20160716,-
+39717,6481595,PCC_0742,PCC_0742,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481596,PCC_0743,PCC_0743,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481597,ctaE,PCC_0744,-,-,-,-,possible cytochrome c oxidase subunit III,protein-coding,-,-,-,-,20160325,-
+39717,6481598,ctaD,PCC_0745,-,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,-,20160716,-
+39717,6481599,PCC_0534,PCC_0534,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481600,bhy,PCC_0535,-,-,-,-,beta-carotene hydroxylase,protein-coding,-,-,-,-,20150626,-
+39717,6481601,PCC_0536,PCC_0536,-,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit C,protein-coding,-,-,-,-,20150626,-
+39717,6481602,PCC_0537,PCC_0537,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481603,PCC_0538,PCC_0538,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481604,PCC_0539,PCC_0539,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481605,PCC_0187,PCC_0187,-,-,-,-,biotin biosynthesis protein BioC,protein-coding,-,-,-,-,20160716,-
+39717,6481606,bioF,PCC_0188,-,-,-,-,putative 8-amino-7-oxononanoate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481607,PCC_0189,PCC_0189,-,-,-,-,Hemolysin A,protein-coding,-,-,-,-,20160716,-
+39717,6481608,glnB,PCC_0190,-,-,-,-,nitrogen regulatory protein P-II,protein-coding,-,-,-,-,20150626,-
+39717,6481609,PCC_0191,PCC_0191,-,-,-,-,putative c-type cytochrome biogenesis protein,protein-coding,-,-,-,-,20160716,-
+39717,6481610,PCC_0192,PCC_0192,-,-,-,-,putative c-type cytochrome biogenesis protein CcdA,protein-coding,-,-,-,-,20150626,-
+39717,6481611,PCC_0122,PCC_0122,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481612,phoH,PCC_0123,-,-,-,-,PhoH-like phosphate starvation-inducible protein,protein-coding,-,-,-,-,20160716,-
+39717,6481613,rps16,PCC_0124,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+39717,6481614,ffh,PCC_0125,-,-,-,-,signal recognition particle protein (SRP54),protein-coding,-,-,-,-,20160716,-
+39717,6481615,PCC_0126,PCC_0126,-,-,-,-,Cell division protein Ftn2,protein-coding,-,-,-,-,20160716,-
+39717,6481616,dnaG,PCC_0238,-,-,-,-,DNA primase,protein-coding,-,-,-,-,20160716,-
+39717,6481617,feoB,PCC_0239,-,-,-,-,ferrous iron transport protein B,protein-coding,-,-,-,-,20160716,-
+39717,6481618,ksgA,PCC_0240,-,-,-,-,"putative rRNA (adenine-N6,N6)- dimethyltransferase",protein-coding,-,-,-,-,20160716,-
+39717,6481619,PCC_0241,PCC_0241,-,-,-,-,Putative 4-diphosphocytidyl -2C-methyl-D- erythritol kinase (CMK),protein-coding,-,-,-,-,20160716,-
+39717,6481620,PCC_0242,PCC_0242,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481621,odpB,PCC_0243,-,-,-,-,pyruvate dehydrogenase E1 beta subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481622,PCC_0004,PCC_0004,-,-,-,-,low affinity sulfate transporter,protein-coding,-,-,-,-,20160716,-
+39717,6481623,pyrC,PCC_0005,-,-,-,-,dihydroorotase,protein-coding,-,-,-,-,20160716,-
+39717,6481624,PCC_0006,PCC_0006,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481625,ndhL,PCC_0007,-,-,-,-,NADH dehydrogenase subunit; NdhL,protein-coding,-,-,-,-,20160716,-
+39717,6481626,PCC_0008,PCC_0008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481627,ycf54,PCC_0830,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481628,PCC_0831,PCC_0831,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481629,PCC_0832,PCC_0832,-,-,-,-,ribonucleotide reductase (Class II),protein-coding,-,-,-,-,20160716,-
+39717,6481630,prfC,PCC_0833,-,-,-,-,peptide chain release factor 3,protein-coding,-,-,-,-,20160716,-
+39717,6481631,PCC_0834,PCC_0834,-,-,-,-,"possible ABC transporter, ATP-binding component",protein-coding,-,-,-,-,20150626,-
+39717,6481632,PCC_0835,PCC_0835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481633,PCC_0836,PCC_0836,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481634,galE,PCC_0480,-,-,-,-,UDP-glucose-4-epimerase,protein-coding,-,-,-,-,20160716,-
+39717,6481635,hisS,PCC_0481,-,-,-,-,histidyl-tRNA synthetase,protein-coding,-,-,-,-,20150626,-
+39717,6481636,PCC_0482,PCC_0482,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481637,PCC_0483,PCC_0483,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481638,secA,PCC_0484,-,-,-,-,"preprotein translocase, SecA subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481639,glmS,PCC_0469,-,-,-,-,D-fructose-6-phosphate amidotransferase,protein-coding,-,-,-,-,20150626,-
+39717,6481640,rfbM,PCC_0470,-,-,-,-,GDP-mannose pyrophosphorylase,protein-coding,-,-,-,-,20160716,-
+39717,6481641,PCC_0471,PCC_0471,-,-,-,-,16S rRNA-processing protein,protein-coding,-,-,-,-,20160716,-
+39717,6481642,rnc,PCC_0472,-,-,-,-,putative ribonuclease III,protein-coding,-,-,-,-,20150626,-
+39717,6481643,PCC_0473,PCC_0473,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481644,PCC_0474,PCC_0474,-,-,-,-,Kef-type K+ transport system,protein-coding,-,-,-,-,20160716,-
+39717,6481645,PCC_0391,PCC_0391,-,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481646,PCC_0392,PCC_0392,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481647,PCC_0393,PCC_0393,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481648,PCC_0394,PCC_0394,-,-,-,-,NAD binding site:D-amino acid oxidase,protein-coding,-,-,-,-,20160716,-
+39717,6481649,pstS,PCC_0395,-,-,-,-,"ABC transporter, substrate binding protein, phosphate",protein-coding,-,-,-,-,20150626,-
+39717,6481650,dnaK,PCC_0396,-,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,-,20150626,-
+39717,6481651,PCC_0527,PCC_0527,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481652,PCC_0528,PCC_0528,-,-,-,-,Phosphotransferase superclass,protein-coding,-,-,-,-,20150626,-
+39717,6481653,PCC_0529,PCC_0529,-,-,-,-,"Possible bicarbonate transporter, ICT family",protein-coding,-,-,-,-,20160716,-
+39717,6481654,PCC_0530,PCC_0530,-,-,-,-,tRNA (guanine-N(7)-)-methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481655,PCC_0531,PCC_0531,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481656,ileS,PCC_0532,-,-,-,-,isoleucyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481657,PCC_0533,PCC_0533,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481658,PCC_0877,PCC_0877,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481659,PCC_0878,PCC_0878,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481660,PCC_0879,PCC_0879,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481661,PCC_0880,PCC_0880,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481662,purA,PCC_0881,-,-,-,-,adenylosuccinate synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481663,psbZ,PCC_0882,-,-,-,-,possible Photosystem II Psb27 protein,protein-coding,-,-,-,-,20150626,-
+39717,6481664,proS,PCC_0883,-,-,-,-,prolyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481665,PCC_0884,PCC_0884,-,-,-,-,possible ferredoxin (2Fe-2S),protein-coding,-,-,-,-,20160716,-
+39717,6481666,hemL,PCC_0015,-,-,-,-,glutamate-1-semialdehyde aminotransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481667,PCC_0016,PCC_0016,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481668,PCC_0017,PCC_0017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481669,PCC_0018,PCC_0018,-,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481670,map,PCC_0019,-,-,-,-,methionine aminopeptidase,protein-coding,-,-,-,-,20160716,-
+39717,6481671,rpl19,PCC_0020,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,-,20150626,-
+39717,6481672,rps10,PCC_0553,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20150626,-
+39717,6481673,tufA,PCC_0554,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20160716,-
+39717,6481674,fus,PCC_0555,-,-,-,-,elongation factor EF-2,protein-coding,-,-,-,-,20160716,-
+39717,6481675,rps7,PCC_0556,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160716,-
+39717,6481676,rps12,PCC_0557,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160716,-
+39717,6481677,PCC_0558,PCC_0558,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481678,lipA,PCC_0559,-,-,-,-,lipoyl synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481679,lysA,PCC_0794,-,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,-,20150626,-
+39717,6481680,PCC_0795,PCC_0795,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481681,PCC_0796,PCC_0796,-,-,-,-,Undecaprenyl pyrophosphate synthetase (UPPS),protein-coding,-,-,-,-,20160716,-
+39717,6481682,PCC_0797,PCC_0797,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481683,recR,PCC_0798,-,-,-,-,RecR protein,protein-coding,-,-,-,-,20160716,-
+39717,6481684,PCC_0799,PCC_0799,-,-,-,-,Photosystem II oxygen evolving complex protein PsbP,protein-coding,-,-,-,-,20160716,-
+39717,6481685,PCC_0800,PCC_0800,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481686,PCC_0042,PCC_0042,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481687,PCC_0043,PCC_0043,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481688,pxcA,PCC_0044,-,-,-,-,proton extrusion protein PcxA,protein-coding,-,-,-,-,20150626,-
+39717,6481689,PCC_0045,PCC_0045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481690,PCC_0046,PCC_0046,-,-,-,-,thioredoxin peroxidase,protein-coding,-,-,-,-,20150626,-
+39717,6481691,PCC_0047,PCC_0047,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481692,PCC_0111,PCC_0111,-,-,-,-,HAD-superfamily phosphatase subfamily IIIA,protein-coding,-,-,-,-,20160716,-
+39717,6481693,PCC_0112,PCC_0112,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481694,PCC_0113,PCC_0113,-,-,-,-,Holliday junction resolvase YqgF,protein-coding,-,-,-,-,20160716,-
+39717,6481695,PCC_0114,PCC_0114,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481696,PCC_0115,PCC_0115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481697,rbcS,PCC_0909,-,-,-,-,"Ribulose bisphosphate carboxylase, small chain",protein-coding,-,-,-,-,20160325,-
+39717,6481698,PCC_0910,PCC_0910,-,-,-,-,carboxysome shell protein,protein-coding,-,-,-,-,20160924,-
+39717,6481699,PCC_0911,PCC_0911,-,-,-,-,Carboxysome shell polypeptide,protein-coding,-,-,-,-,20160924,-
+39717,6481700,ccmL,PCC_0912,-,-,-,-,Putative carboxysome peptide A,protein-coding,-,-,-,-,20160924,-
+39717,6481701,PCC_0913,PCC_0913,-,-,-,-,Putative carboxysome peptide B,protein-coding,-,-,-,-,20160924,-
+39717,6481702,bfr,PCC_0914,-,-,-,-,bacterioferritin,protein-coding,-,-,-,-,20160924,-
+39717,6481703,ndhF,PCC_0915,-,-,-,-,NADH dehydrogenase subunit L,protein-coding,-,-,-,-,20160716,-
+39717,6481704,ndhD,PCC_0916,-,-,-,-,NADH dehydrogenase I chain 4 (or M),protein-coding,-,-,-,-,20160716,-
+39717,6481705,tpi,PCC_0809,-,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,-,20160716,-
+39717,6481706,PCC_0810,PCC_0810,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481707,carB,PCC_0811,-,-,-,-,"carbamoyl-phosphate synthase, large subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481708,PCC_0812,PCC_0812,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481709,PCC_0813,PCC_0813,-,-,-,-,putative iojap protein,protein-coding,-,-,-,-,20160716,-
+39717,6481710,ycf36,PCC_0814,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481711,PCC_0815,PCC_0815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481712,PCC_0816,PCC_0816,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481713,PCC_0893,PCC_0893,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481714,PCC_0894,PCC_0894,-,-,-,-,"30S ribosomal protein S1-like B, putative",protein-coding,-,-,-,-,20160716,-
+39717,6481715,PCC_0895,PCC_0895,-,-,-,-,creatininase,protein-coding,-,-,-,-,20160716,-
+39717,6481716,accA,PCC_0896,-,-,-,-,acetyl-CoA carboxylase alpha subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481717,PCC_0897,PCC_0897,-,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,-,20160325,-
+39717,6481718,folE,PCC_0898,-,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,-,20160716,-
+39717,6481719,PCC_0899,PCC_0899,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481720,PCC_0900,PCC_0900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481721,PCC_0619,PCC_0619,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481722,PCC_0620,PCC_0620,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481723,PCC_0621,PCC_0621,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481724,PCC_0622,PCC_0622,-,-,-,-,pseudo,pseudo,-,-,-,-,20100415,-
+39717,6481725,PCC_0623,PCC_0623,-,-,-,-,putative bifunctional enzyme; pantothenate synthetase/cytidylatekinase,protein-coding,-,-,-,-,20160716,-
+39717,6481726,cpcF,PCC_0624,-,-,-,-,phycocyanin alpha phycocyanobilin lyase; CpcF,protein-coding,-,-,-,-,20160716,-
+39717,6481727,PCC_0058,PCC_0058,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481728,PCC_0059,PCC_0059,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481729,PCC_0060,PCC_0060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481730,pnp,PCC_0061,-,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481731,rps14,PCC_0062,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+39717,6481732,ppiB,PCC_0031,-,-,-,-,"probable peptidyl-prolyl cis-trans isomerase, cyclophilin type",protein-coding,-,-,-,-,20160716,-
+39717,6481733,ycf4,PCC_0032,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20150626,-
+39717,6481734,PCC_0033,PCC_0033,-,-,-,-,Photosystem II D2 protein,protein-coding,-,-,-,-,20150626,-
+39717,6481735,psbC,PCC_0034,-,-,-,-,Photosynthetic II protein PsbC,protein-coding,-,-,-,-,20160716,-
+39717,6481736,apcD,PCC_0035,-,-,-,-,allophycocyanin alpha-B chain,protein-coding,-,-,-,-,20150626,-
+39717,6481737,PCC_0036,PCC_0036,-,-,-,-,23S rRNA methyltransferase/RumA,protein-coding,-,-,-,-,20160716,-
+39717,6481738,PCC_0361,PCC_0361,-,-,-,-,lactoylglutathione lyase,protein-coding,-,-,-,-,20160716,-
+39717,6481739,eno,PCC_0362,-,-,-,-,Enolase,protein-coding,-,-,-,-,20150626,-
+39717,6481740,PCC_0363,PCC_0363,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481741,PCC_0364,PCC_0364,-,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit B,protein-coding,-,-,-,-,20160716,-
+39717,6481742,ndkR,PCC_0365,-,-,-,-,Nucleoside-diphosphate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6481743,speA,PCC_0366,-,-,-,-,arginine decarboxylase,protein-coding,-,-,-,-,20160325,-
+39717,6481744,def,PCC_0653,-,-,-,-,peptide deformylase,protein-coding,-,-,-,-,20160716,-
+39717,6481745,nifS,PCC_0654,-,-,-,-,putative cysteine desulfurase or selenocysteine lyase,protein-coding,-,-,-,-,20160716,-
+39717,6481746,PCC_0655,PCC_0655,-,-,-,-,"ABC transporter, membrane component",protein-coding,-,-,-,-,20160716,-
+39717,6481747,sufC,PCC_0656,-,-,-,-,FeS assembly ATPase SufC,protein-coding,-,-,-,-,20150626,-
+39717,6481748,sufB,PCC_0657,-,-,-,-,FeS assembly protein SufB,protein-coding,-,-,-,-,20160716,-
+39717,6481749,ftrC,PCC_0658,-,-,-,-,ferredoxin-thioredoxin reductase catalytic chain,protein-coding,-,-,-,-,20160716,-
+39717,6481750,PCC_0226,PCC_0226,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481751,PCC_0227,PCC_0227,-,-,-,-,"ABC transporter, multidrug efflux family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481752,PCC_0228,PCC_0228,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481753,carA,PCC_0229,-,-,-,-,carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481754,PCC_0230,PCC_0230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481755,PCC_0231,PCC_0231,-,-,-,-,tRNA/rRNA methyltransferase (SpoU):RNA methyltransferase TrmH,protein-coding,-,-,-,-,20160716,-
+39717,6481756,PCC_0514,PCC_0514,-,-,-,-,possible Cytochrome c oxidase subunit Va,protein-coding,-,-,-,-,20150626,-
+39717,6481757,PCC_0515,PCC_0515,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481758,PCC_0516,PCC_0516,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481759,gylA,PCC_0517,-,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481760,PCC_0518,PCC_0518,-,-,-,-,"Glycosyl transferase, family 4",protein-coding,-,-,-,-,20150626,-
+39717,6481761,leuC,PCC_0519,-,-,-,-,isopropylmalate isomerase large subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481762,PCC_0725,PCC_0725,-,-,-,-,ribonucleotide reductase (Class II),protein-coding,-,-,-,-,20160716,-
+39717,6481763,murE,PCC_0726,-,-,-,-,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6- diaminopimelate ligase",protein-coding,-,-,-,-,20160716,-
+39717,6481764,ycf46,PCC_0727,-,-,-,-,AAA ATPase superfamily:AAA-protein,protein-coding,-,-,-,-,20160716,-
+39717,6481765,PCC_0728,PCC_0728,-,-,-,-,putative inner membrane protein translocase component YidC,protein-coding,-,-,-,-,20150626,-
+39717,6481766,PCC_0729,PCC_0729,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481767,PCC_0730,PCC_0730,-,-,-,-,bacterial ribonuclease P protein component of ribozyme,protein-coding,-,-,-,-,20160716,-
+39717,6481768,rpl34,PCC_0731,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20150626,-
+39717,6481769,ndhF,PCC_0319,-,-,-,-,NADH dehydrogenase subunit L,protein-coding,-,-,-,-,20160716,-
+39717,6481770,ndhD,PCC_0320,-,-,-,-,NAD(P)H-quinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160716,-
+39717,6481771,PCC_0321,PCC_0321,-,-,-,-,putative sugar-phosphate nucleotidyl transferase,protein-coding,-,-,-,-,20160716,-
+39717,6481772,PCC_0322,PCC_0322,-,-,-,-,possible transcriptional regulator,protein-coding,-,-,-,-,20160716,-
+39717,6481773,ndhE,PCC_0323,-,-,-,-,NADH dehydrogenase kappa subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481774,ndhG,PCC_0324,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20150626,-
+39717,6481775,psbM,PCC_0637,-,-,-,-,photosystem II protein,protein-coding,-,-,-,-,20150626,-
+39717,6481776,PCC_0638,PCC_0638,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481777,PCC_0639,PCC_0639,-,-,-,-,"modification methylase, HemK family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481778,PCC_0640,PCC_0640,-,-,-,-,Putative translation factor (SUA5),protein-coding,-,-,-,-,20160716,-
+39717,6481779,PCC_0641,PCC_0641,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481780,minE,PCC_0642,-,-,-,-,possible septum site-determining protein MinE,protein-coding,-,-,-,-,20160325,-
+39717,6481781,PCC_0817,PCC_0817,-,-,-,-,small-conductance mechanosensitive channel,protein-coding,-,-,-,-,20160716,-
+39717,6481782,PCC_0818,PCC_0818,-,-,-,-,Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site,protein-coding,-,-,-,-,20160716,-
+39717,6481783,PCC_0819,PCC_0819,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+39717,6481784,rbpA,PCC_0820,-,-,-,-,RNA-binding protein RbpD,protein-coding,-,-,-,-,20160716,-
+39717,6481785,PCC_0821,PCC_0821,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481786,PCC_0822,PCC_0822,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481787,rpl14,PCC_0587,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+39717,6481788,rps17,PCC_0588,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20150626,-
+39717,6481789,rpl29,PCC_0589,-,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,-,20160716,-
+39717,6481790,rpl16,PCC_0590,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20160716,-
+39717,6481791,rps3,PCC_0591,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20160716,-
+39717,6481792,rpl22,PCC_0592,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,-,20160716,-
+39717,6481793,rps19,PCC_0593,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+39717,6481794,rpl15,PCC_0580,-,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,-,20150626,-
+39717,6481795,rps5,PCC_0581,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20160716,-
+39717,6481796,rpl18,PCC_0582,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20160716,-
+39717,6481797,rpl6,PCC_0583,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20160716,-
+39717,6481798,rps8,PCC_0584,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+39717,6481799,rpl5,PCC_0585,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,-,20160716,-
+39717,6481800,rpl24,PCC_0586,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20160716,-
+39717,6481801,rplJ,PCC_0355,-,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,-,20160716,-
+39717,6481802,rpl1,PCC_0356,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20160716,-
+39717,6481803,rpl11,PCC_0357,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20160325,-
+39717,6481804,nusG,PCC_0358,-,-,-,-,transcription antitermination protein NusG,protein-coding,-,-,-,-,20150626,-
+39717,6481805,secE,PCC_0359,-,-,-,-,Preprotein translocase subunit SecE,protein-coding,-,-,-,-,20150626,-
+39717,6481806,PCC_0360,PCC_0360,-,-,-,-,"putative ATP-dependent Clp protease, Hsp 100, ATP-binding subunit ClpB",protein-coding,-,-,-,-,20160716,-
+39717,6481807,aroE,PCC_0397,-,-,-,-,shikimate / quinate 5-dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481808,rps6,PCC_0398,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,-,20150626,-
+39717,6481809,PCC_0399,PCC_0399,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481810,mraY,PCC_0400,-,-,-,-,Phospho-N-acetylmuramoyl-pentapeptidetransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481811,PCC_0401,PCC_0401,-,-,-,-,membrane bound transcriptional regulator-like protein,protein-coding,-,-,-,-,20150626,-
+39717,6481812,PCC_0402,PCC_0402,-,-,-,-,possible protein kinase: ABC1 family protein,protein-coding,-,-,-,-,20150626,-
+39717,6481813,PCC_0698,PCC_0698,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481814,PCC_0699,PCC_0699,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481815,petF,PCC_0700,-,-,-,-,Ferredoxin (2Fe-2S),protein-coding,-,-,-,-,20160716,-
+39717,6481816,PCC_0701,PCC_0701,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481817,psbV,PCC_0702,-,-,-,-,Cytochrome c-550,protein-coding,-,-,-,-,20160716,-
+39717,6481818,PCC_0703,PCC_0703,-,-,-,-,Ribonuclease Z,protein-coding,-,-,-,-,20160716,-
+39717,6481819,ycf32,PCC_0823,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481820,PCC_0824,PCC_0824,-,-,-,-,Carotenoid isomerase,protein-coding,-,-,-,-,20160716,-
+39717,6481821,PCC_0825,PCC_0825,-,-,-,-,two-component response regulator,protein-coding,-,-,-,-,20160716,-
+39717,6481822,PCC_0826,PCC_0826,-,-,-,-,Glutaredoxin-related protein,protein-coding,-,-,-,-,20160716,-
+39717,6481823,PCC_0827,PCC_0827,-,-,-,-,BolA-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481824,PCC_0828,PCC_0828,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481825,pdxJ,PCC_0829,-,-,-,-,pyridoxal phosphate biosynthetic protein,protein-coding,-,-,-,-,20160716,-
+39717,6481826,PCC_0475,PCC_0475,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481827,ho1,PCC_0476,-,-,-,-,Heme oxygenase,protein-coding,-,-,-,-,20160716,-
+39717,6481828,PCC_0477,PCC_0477,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481829,pcnB,PCC_0478,-,-,-,-,tRNA nucleotidyltransferase/poly(A) polymerase,protein-coding,-,-,-,-,20160716,-
+39717,6481830,PCC_0479,PCC_0479,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481831,PCC_0560,PCC_0560,-,-,-,-,Proline-rich region,protein-coding,-,-,-,-,20150626,-
+39717,6481832,psaA,PCC_0561,-,-,-,-,Photosystem I psaA,protein-coding,-,-,-,-,20150626,-
+39717,6481833,psaB,PCC_0562,-,-,-,-,photosystem I core protein PsaB,protein-coding,-,-,-,-,20150626,-
+39717,6481834,psaL,PCC_0563,-,-,-,-,Photosystem I reaction centre subunit XI PsaL,protein-coding,-,-,-,-,20150626,-
+39717,6481835,PCC_0564,PCC_0564,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481836,PCC_0565,PCC_0565,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481837,PCC_0566,PCC_0566,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481838,odpA,PCC_0127,-,-,-,-,Pyruvate dehydrogenase E1 alpha subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481839,PCC_0128,PCC_0128,-,-,-,-,tRNA (5-methylaminomethyl-2-thiouridylate)- methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481840,int,PCC_0129,-,-,-,-,possible apolipoprotein n-acyltransferase,protein-coding,-,-,-,-,20160325,-
+39717,6481841,pyrB,PCC_0130,-,-,-,-,Aspartate and ornithine carbamoyltransferase family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481842,ftsH,PCC_0131,-,-,-,-,cell division protein,protein-coding,-,-,-,-,20160716,-
+39717,6481843,pheS,PCC_0132,-,-,-,-,"Phenylalanyl-tRNA synthetase, alpha subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481844,pys,PCC_0313,-,-,-,-,phytoene synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481845,pds,PCC_0314,-,-,-,-,phytoene desaturase,protein-coding,-,-,-,-,20160716,-
+39717,6481846,PCC_0315,PCC_0315,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481847,PCC_0316,PCC_0316,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481848,ycf37,PCC_0432,-,-,-,-,TPR repeat protein,protein-coding,-,-,-,-,20160716,-
+39717,6481849,rpl20,PCC_0433,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20160716,-
+39717,6481850,rpmI,PCC_0434,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,-,20150626,-
+39717,6481851,PCC_0435,PCC_0435,-,-,-,-,"Glycosyl transferase, family 2",protein-coding,-,-,-,-,20150626,-
+39717,6481852,PCC_0436,PCC_0436,-,-,-,-,"DNA polymerase, gamma and tau subunits",protein-coding,-,-,-,-,20160716,-
+39717,6481853,PCC_0437,PCC_0437,-,-,-,-,Clp protease proteolytic subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481854,tig,PCC_0438,-,-,-,-,trigger factor,protein-coding,-,-,-,-,20160716,-
+39717,6481855,PCC_0632,PCC_0632,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481856,rps1,PCC_0633,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20160716,-
+39717,6481857,psbT,PCC_0634,-,-,-,-,Photosystem II reaction center T protein psbT,protein-coding,-,-,-,-,20150626,-
+39717,6481858,psbB,PCC_0635,-,-,-,-,photosystem II chlorophyll-binding protein,protein-coding,-,-,-,-,20150626,-
+39717,6481859,PCC_0636,PCC_0636,-,-,-,-,possible ferredoxin (2Fe-2S),protein-coding,-,-,-,-,20160716,-
+39717,6481860,guaA,PCC_0427,-,-,-,-,bifunctional GMP synthase/glutamine amidotransferase protein,protein-coding,-,-,-,-,20150626,-
+39717,6481861,PCC_0428,PCC_0428,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481862,PCC_0429,PCC_0429,-,-,-,-,Putative penicillin-binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481863,PCC_0430,PCC_0430,-,-,-,-,SqdX,protein-coding,-,-,-,-,20160325,-
+39717,6481864,sqdB,PCC_0431,-,-,-,-,sulfolipid (UDP-sulfoquinovose) biosynthesis protein,protein-coding,-,-,-,-,20160716,-
+39717,6481865,cpcE,PCC_0625,-,-,-,-,phycocyanin alpha phycocyanobilin lyase; CpcE,protein-coding,-,-,-,-,20160716,-
+39717,6481866,cpcA,PCC_0626,-,-,-,-,"Phycocyanin, alpha subunit",protein-coding,-,-,-,-,20160716,-
+39717,6481867,cpcB,PCC_0627,-,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,-,20150626,-
+39717,6481868,cpcC,PCC_0628,-,-,-,-,phycobilisome linker polypeptide,protein-coding,-,-,-,-,20160716,-
+39717,6481869,PCC_0629,PCC_0629,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481870,PCC_0630,PCC_0630,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481871,PCC_0631,PCC_0631,-,-,-,-,"Putative carbohydrate kinase, FGGY family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481872,cysS,PCC_0025,-,-,-,-,cysteinyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481873,PCC_0026,PCC_0026,-,-,-,-,1-deoxy-D-xylulose 5-phosphate reductoisomerase,protein-coding,-,-,-,-,20160716,-
+39717,6481874,PCC_0027,PCC_0027,-,-,-,-,Thioredoxin reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481875,infA,PCC_0028,-,-,-,-,Translation initiation factor IF-1,protein-coding,-,-,-,-,20160716,-
+39717,6481876,ycf39,PCC_0029,-,-,-,-,putative chaperon-like protein for quinone binding in photosystem II,protein-coding,-,-,-,-,20160716,-
+39717,6481877,ilvN,PCC_0030,-,-,-,-,acetolactate synthase III small subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481878,PCC_0503,PCC_0503,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481879,PCC_0504,PCC_0504,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481880,PCC_0505,PCC_0505,-,-,-,-,Glycosyl transferase WecB/TagA/CpsF,protein-coding,-,-,-,-,20160716,-
+39717,6481881,psbK,PCC_0506,-,-,-,-,photosystem II reaction center protein PsbK precursor,protein-coding,-,-,-,-,20160716,-
+39717,6481882,tgt,PCC_0507,-,-,-,-,Queuine tRNA-ribosyltransferase,protein-coding,-,-,-,-,20150626,-
+39717,6481883,ruvB,PCC_0463,-,-,-,-,Holliday junction DNA helicase RuvB,protein-coding,-,-,-,-,20160716,-
+39717,6481884,PCC_0464,PCC_0464,-,-,-,-,TPR repeat protein,protein-coding,-,-,-,-,20160716,-
+39717,6481885,PCC_0465,PCC_0465,-,-,-,-,transketolase,protein-coding,-,-,-,-,20160716,-
+39717,6481886,fabF,PCC_0466,-,-,-,-,3-oxoacyl-(acyl-carrier-protein) synthase II,protein-coding,-,-,-,-,20160325,-
+39717,6481887,acpP,PCC_0467,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150626,-
+39717,6481888,psaC,PCC_0468,-,-,-,-,Photosystem I subunit VII,protein-coding,-,-,-,-,20180203,-
+39717,6481889,aroH,PCC_0732,-,-,-,-,chorismate mutase,protein-coding,-,-,-,-,20160716,-
+39717,6481890,sppA,PCC_0733,-,-,-,-,signal peptide peptidase SppA (protease IV),protein-coding,-,-,-,-,20150626,-
+39717,6481891,PCC_0734,PCC_0734,-,-,-,-,"putative SMR family transporter, possible pecM- like protein",protein-coding,-,-,-,-,20160716,-
+39717,6481892,PCC_0735,PCC_0735,-,-,-,-,putative UDP-glucose:tetrahydrobiopterin glucosyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481893,PCC_0736,PCC_0736,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481894,im30,PCC_0737,-,-,-,-,chloroplast membrane-associated 30 kD protein-like protein,protein-coding,-,-,-,-,20150626,-
+39717,6481895,trxA,PCC_0738,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6481896,aroC,PCC_0546,-,-,-,-,chorismate synthase,protein-coding,-,-,-,-,20160910,-
+39717,6481897,PCC_0547,PCC_0547,-,-,-,-,Photosystem q(b) protein,protein-coding,-,-,-,-,20150725,-
+39717,6481898,PCC_0548,PCC_0548,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481899,PCC_0549,PCC_0549,-,-,-,-,aspartate aminotransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481900,rne,PCC_0550,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20160716,-
+39717,6481901,pheA,PCC_0551,-,-,-,-,Prephenate dehydratase,protein-coding,-,-,-,-,20150626,-
+39717,6481902,PCC_0552,PCC_0552,-,-,-,-,probable sterol-C-methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481903,PCC_0262,PCC_0262,-,-,-,-,Geranylgeranyl reductase,protein-coding,-,-,-,-,20160716,-
+39717,6481904,efp,PCC_0421,-,-,-,-,elongation factor P,protein-coding,-,-,-,-,20160716,-
+39717,6481905,accB,PCC_0422,-,-,-,-,"acetyl-CoA carboxylase, biotin carboxyl carrier protein",protein-coding,-,-,-,-,20160716,-
+39717,6481906,pdxA,PCC_0423,-,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6481907,PCC_0424,PCC_0424,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481908,PCC_0425,PCC_0425,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481909,PCC_0426,PCC_0426,-,-,-,-,soluble hydrogenase small subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481910,PCC_0885,PCC_0885,-,-,-,-,Possible membrane associated protease,protein-coding,-,-,-,-,20160716,-
+39717,6481911,PCC_0886,PCC_0886,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481912,PCC_0887,PCC_0887,-,-,-,-,putative peptidoglycan synthetase (pbp transpeptidase domain),protein-coding,-,-,-,-,20160716,-
+39717,6481913,PCC_0888,PCC_0888,-,-,-,-,transaldolase,protein-coding,-,-,-,-,20160716,-
+39717,6481914,frr,PCC_0889,-,-,-,-,ribosome releasing factor,protein-coding,-,-,-,-,20160716,-
+39717,6481915,pyrH,PCC_0890,-,-,-,-,uridylate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6481916,hemH,PCC_0891,-,-,-,-,ferrochelatase,protein-coding,-,-,-,-,20160716,-
+39717,6481917,ilvG,PCC_0892,-,-,-,-,acetolactate synthase III large subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481918,rpoDI,PCC_0861,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,-,20160716,-
+39717,6481919,hemC,PCC_0862,-,-,-,-,porphobilinogen deaminase,protein-coding,-,-,-,-,20150626,-
+39717,6481920,ppa,PCC_0863,-,-,-,-,putative inorganic pyrophosphatase,protein-coding,-,-,-,-,20150626,-
+39717,6481921,clpB,PCC_0864,-,-,-,-,ATPase,protein-coding,-,-,-,-,20160716,-
+39717,6481922,petE,PCC_0865,-,-,-,-,plastocyanin precursor,protein-coding,-,-,-,-,20160716,-
+39717,6481923,hemE,PCC_0866,-,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,-,20160716,-
+39717,6481924,PCC_0867,PCC_0867,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481925,PCC_0868,PCC_0868,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481926,rpoD,PCC_0451,-,-,-,-,"type II alternative RNA polymerase sigma factor, sigma-70 family protein",protein-coding,-,-,-,-,20160716,-
+39717,6481927,PCC_0452,PCC_0452,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481928,ahcY,PCC_0453,-,-,-,-,S-adenosyl-L-homocysteine hydrolase,protein-coding,-,-,-,-,20160716,-
+39717,6481929,ssb,PCC_0454,-,-,-,-,single-strand DNA-binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481930,PCC_0455,PCC_0455,-,-,-,-,Rod shape determining protein,protein-coding,-,-,-,-,20150626,-
+39717,6481931,PCC_0456,PCC_0456,-,-,-,-,putative rod shape-determining protein,protein-coding,-,-,-,-,20150626,-
+39717,6481932,menA,PCC_0337,-,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",protein-coding,-,-,-,-,20160716,-
+39717,6481933,menF,PCC_0338,-,-,-,-,Isochorismate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481934,gshB,PCC_0339,-,-,-,-,glutathione synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481935,prfB,PCC_0340,-,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,-,20160716,-
+39717,6481936,PCC_0341,PCC_0341,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481937,PCC_0342,PCC_0342,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481938,psaD,PCC_0613,-,-,-,-,Photosystem I reaction center subunit II (PsaD),protein-coding,-,-,-,-,20160716,-
+39717,6481939,PCC_0614,PCC_0614,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481940,PCC_0615,PCC_0615,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481941,PCC_0616,PCC_0616,-,-,-,-,MRP protein-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481942,hemF,PCC_0617,-,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,-,20150626,-
+39717,6481943,PCC_0618,PCC_0618,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481944,leuD,PCC_0520,-,-,-,-,3-isopropylmalate dehydratase small subunit,protein-coding,-,-,-,-,20160716,-
+39717,6481945,psbI,PCC_0521,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20200926,-
+39717,6481946,psbH,PCC_0522,-,-,-,-,photosystem II reaction center protein PsbH,protein-coding,-,-,-,-,20160325,-
+39717,6481947,PCC_0523,PCC_0523,-,-,-,-,cob(I)alamin adenosyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481948,PCC_0524,PCC_0524,-,-,-,-,Deoxycytidine deaminase,protein-coding,-,-,-,-,20160716,-
+39717,6481949,PCC_0525,PCC_0525,-,-,-,-,alternative thymidylate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6481950,PCC_0526,PCC_0526,-,-,-,-,thioredoxin-like protein TxlA,protein-coding,-,-,-,-,20160716,-
+39717,6481951,dnaB,PCC_0373,-,-,-,-,DnaB helicase:RecA bacterial DNA recombination protein,protein-coding,-,-,-,-,20160716,-
+39717,6481952,gidA,PCC_0374,-,-,-,-,glucose-inhibited division protein A,protein-coding,-,-,-,-,20160716,-
+39717,6481953,PCC_0375,PCC_0375,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481954,PCC_0376,PCC_0376,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481955,PCC_0377,PCC_0377,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481956,valS,PCC_0378,-,-,-,-,"t-RNA synthetase, class Ia:Valyl-tRNA",protein-coding,-,-,-,-,20160716,-
+39717,6481957,dnaX,PCC_0302,-,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,-,20160716,-
+39717,6481958,PCC_0303,PCC_0303,-,-,-,-,putative P-type ATPase transporter for copper,protein-coding,-,-,-,-,20160716,-
+39717,6481959,ycf3,PCC_0304,-,-,-,-,Photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20160716,-
+39717,6481960,PCC_0305,PCC_0305,-,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,-,20160716,-
+39717,6481961,ycf27,PCC_0306,-,-,-,-,two-component response regulator,protein-coding,-,-,-,-,20160716,-
+39717,6481962,alaS,PCC_0367,-,-,-,-,alanyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6481963,PCC_0368,PCC_0368,-,-,-,-,flavoprotein,protein-coding,-,-,-,-,20160716,-
+39717,6481964,PCC_0369,PCC_0369,-,-,-,-,putative flavoprotein,protein-coding,-,-,-,-,20160716,-
+39717,6481965,PCC_0370,PCC_0370,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481966,PCC_0371,PCC_0371,-,-,-,-,Stearoyl-CoA 9-desaturase,protein-coding,-,-,-,-,20160716,-
+39717,6481967,rpl9,PCC_0372,-,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,-,20160716,-
+39717,6481968,truB,PCC_0704,-,-,-,-,putative tRNA pseudouridine 55 synthase,protein-coding,-,-,-,-,20150626,-
+39717,6481969,PCC_0705,PCC_0705,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481970,PCC_0706,PCC_0706,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481971,rpl27,PCC_0707,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,-,20150626,-
+39717,6481972,rpl21,PCC_0708,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,-,20160325,-
+39717,6481973,dfr,PCC_0709,-,-,-,-,multi-sensor signal transduction histidine kinase,protein-coding,-,-,-,-,20160716,-
+39717,6481974,fabZ,PCC_0710,-,-,-,-,(3R)-hydroxymyristoyl ACP dehydratase,protein-coding,-,-,-,-,20160716,-
+39717,6481975,PCC_0650,PCC_0650,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6481976,PCC_0651,PCC_0651,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481977,PCC_0652,PCC_0652,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20100415,-
+39717,6481978,PCC_0787,PCC_0787,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6481979,PCC_0788,PCC_0788,-,-,-,-,possible kinase,protein-coding,-,-,-,-,20150626,-
+39717,6481980,cad,PCC_0789,-,-,-,-,Orn/Lys/Arg decarboxylase family 1,protein-coding,-,-,-,-,20160716,-
+39717,6481981,cdsA,PCC_0790,-,-,-,-,Phosphatidate cytidylyltransferase:Putative integral membrane protein,protein-coding,-,-,-,-,20160716,-
+39717,6481982,gldA,PCC_0791,-,-,-,-,putative glycerol dehydrogenase,protein-coding,-,-,-,-,20150626,-
+39717,6481983,PCC_0792,PCC_0792,-,-,-,-,endopeptidase Clp ATP-binding chain C,protein-coding,-,-,-,-,20160716,-
+39717,6481984,rimI,PCC_0793,-,-,-,-,putative ribosomal-protein-alanine acetyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481985,chlI,PCC_0767,-,-,-,-,Magnesium chelatase ATPase subunit I,protein-coding,-,-,-,-,20150626,-
+39717,6481986,PCC_0768,PCC_0768,-,-,-,-,possible beta-lactamase family protein,protein-coding,-,-,-,-,20160716,-
+39717,6481987,PCC_0769,PCC_0769,-,-,-,-,probable tRNA/rRNA methyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6481988,petG,PCC_0770,-,-,-,-,cytochrome b6-f complex subunit V,protein-coding,-,-,-,-,20150626,-
+39717,6481989,PCC_0771,PCC_0771,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6481990,trxA,PCC_0772,-,-,-,-,Thioredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6481991,guaB,PCC_0773,-,-,-,-,inositol-5-monophosphate dehydrogenase,protein-coding,-,-,-,-,20150626,-
+39717,6481992,PCC_0678,PCC_0678,-,-,-,-,Heat shock protein DnaJ-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6481993,hemB,PCC_0679,-,-,-,-,delta-aminolevulinic acid dehydratase,protein-coding,-,-,-,-,20160716,-
+39717,6481994,PCC_0680,PCC_0680,-,-,-,-,possible ring-cleaving dioxygenase,protein-coding,-,-,-,-,20150626,-
+39717,6481995,PCC_0681,PCC_0681,-,-,-,-,GTP1/Obg family GTP-binding protein,protein-coding,-,-,-,-,20160716,-
+39717,6481996,PCC_0682,PCC_0682,-,-,-,-,ATPase,protein-coding,-,-,-,-,20160716,-
+39717,6481997,PCC_0683,PCC_0683,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+39717,6481998,PCC_0684,PCC_0684,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150725,-
+39717,6481999,ubiA,PCC_0753,-,-,-,-,probable 4-hydroxybenzoate- octaprenyltransferase,protein-coding,-,-,-,-,20160716,-
+39717,6482000,lgt,PCC_0754,-,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,-,20160716,-
+39717,6482001,petA,PCC_0755,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,-,20160716,-
+39717,6482002,petC,PCC_0756,-,-,-,-,plastoquinol--plastocyanin reductase,protein-coding,-,-,-,-,20160716,-
+39717,6482003,PCC_0757,PCC_0757,-,-,-,-,Sec-independent protein translocase TatC,protein-coding,-,-,-,-,20160716,-
+39717,6482004,gmk,PCC_0758,-,-,-,-,Guanylate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482005,psaJ,PCC_0759,-,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,-,20150626,-
+39717,6482006,asd,PCC_0439,-,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,-,20160716,-
+39717,6482007,dapA,PCC_0440,-,-,-,-,dihydrodipicolinate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6482008,PCC_0441,PCC_0441,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482009,PCC_0442,PCC_0442,-,-,-,-,possible MesJ-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6482010,ycf23,PCC_0443,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482011,lysC,PCC_0444,-,-,-,-,aspartate kinase,protein-coding,-,-,-,-,20150626,-
+39717,6482012,pykF,PCC_0176,-,-,-,-,pyruvate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482013,PCC_0177,PCC_0177,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6482014,PCC_0178,PCC_0178,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482015,clpP,PCC_0179,-,-,-,-,"ATP-dependent Clp protease, proteolytic subunit ClpP",protein-coding,-,-,-,-,20160716,-
+39717,6482016,PCC_0180,PCC_0180,-,-,-,-,FtsH ATP-dependent protease-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6482017,PCC_0181,PCC_0181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6482018,PCC_0133,PCC_0133,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482019,PCC_0134,PCC_0134,-,-,-,-,putative riboflavin kinase/FAD synthase,protein-coding,-,-,-,-,20150626,-
+39717,6482020,PCC_0135,PCC_0135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482021,ispF,PCC_0136,-,-,-,-,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,-,20160716,-
+39717,6482022,trmD,PCC_0137,-,-,-,-,tRNA (guanine-N(1)-)-methyltransferase,protein-coding,-,-,-,-,20150626,-
+39717,6482023,PCC_0349,PCC_0349,-,-,-,-,"Pseudouridine synthase, RluD",protein-coding,-,-,-,-,20150626,-
+39717,6482024,PCC_0350,PCC_0350,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6482025,pgk,PCC_0351,-,-,-,-,Phosphoglycerate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482026,murG,PCC_0352,-,-,-,-,Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase,protein-coding,-,-,-,-,20150626,-
+39717,6482027,pyrD,PCC_0353,-,-,-,-,dihydroorotate dehydrogenase,protein-coding,-,-,-,-,20150626,-
+39717,6482028,rpl12,PCC_0354,-,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,-,20160716,-
+39717,6482029,PCC_0508,PCC_0508,-,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482030,PCC_0509,PCC_0509,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482031,purH,PCC_0510,-,-,-,-,phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,-,20160716,-
+39717,6482032,PCC_0511,PCC_0511,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482033,PCC_0512,PCC_0512,-,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,-,20160716,-
+39717,6482034,PCC_0513,PCC_0513,-,-,-,-,integral membrane protein MviN,protein-coding,-,-,-,-,20150626,-
+39717,6482035,PCC_0607,PCC_0607,-,-,-,-,S-adenosylmethionine decarboxylase proenzyme,protein-coding,-,-,-,-,20150626,-
+39717,6482036,recF,PCC_0608,-,-,-,-,putative DNA repair and genetic recombination protein RecF,protein-coding,-,-,-,-,20160716,-
+39717,6482037,PCC_0609,PCC_0609,-,-,-,-,tRNA,tRNA,-,-,-,-,20100415,-
+39717,6482038,PCC_0610,PCC_0610,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6482039,PCC_0611,PCC_0611,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482040,trpE,PCC_0612,-,-,-,-,Anthranilate synthase,protein-coding,-,-,-,-,20160716,-
+39717,6482041,psbU,PCC_0284,-,-,-,-,photosystem II complex extrinsic protein precursor PsuB,protein-coding,-,-,-,-,20150626,-
+39717,6482042,PCC_0285,PCC_0285,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482043,PCC_0286,PCC_0286,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482044,PCC_0287,PCC_0287,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482045,PCC_0288,PCC_0288,-,-,-,-,6-pyruvoyl-tetrahydropterin synthase-like protein,protein-coding,-,-,-,-,20160716,-
+39717,6482046,aroK,PCC_0289,-,-,-,-,shikimate kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482047,ilvE,PCC_0148,-,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,-,20160716,-
+39717,6482048,PCC_0149,PCC_0149,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+39717,6482049,PCC_0150,PCC_0150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482050,PCC_0151,PCC_0151,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482051,nifS,PCC_0152,-,-,-,-,possible cysteine desulfurase (class-V aminotransferase family protein),protein-coding,-,-,-,-,20160716,-
+39717,6482052,dapF,PCC_0153,-,-,-,-,Diaminopimelate epimerase,protein-coding,-,-,-,-,20160716,-
+39717,6482053,atpA,PCC_0205,-,-,-,-,ATP synthase subunit A,protein-coding,-,-,-,-,20160716,-
+39717,6482054,atpC,PCC_0206,-,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,-,20160716,-
+39717,6482055,petF,PCC_0207,-,-,-,-,Ferredoxin,protein-coding,-,-,-,-,20160716,-
+39717,6482056,PCC_0208,PCC_0208,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+39717,6482057,PCC_0209,PCC_0209,-,-,-,-,possible GTPase,protein-coding,-,-,-,-,20160716,-
+39717,6482058,proA,PCC_0869,-,-,-,-,gamma-glutamyl phosphate reductase,protein-coding,-,-,-,-,20160716,-
+39717,6482059,PCC_0870,PCC_0870,-,-,-,-,possible dihydroneopterin aldolase,protein-coding,-,-,-,-,20150626,-
+39717,6482060,PCC_0871,PCC_0871,-,-,-,-,NAD(P)H-quinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160716,-
+39717,6482061,thrB,PCC_0872,-,-,-,-,Homoserine kinase,protein-coding,-,-,-,-,20160716,-
+39717,6482062,glk,PCC_0873,-,-,-,-,Putative glucokinase,protein-coding,-,-,-,-,20160716,-
+39717,6482063,thrS,PCC_0874,-,-,-,-,"Threonyl-tRNA synthetase, class IIa",protein-coding,-,-,-,-,20150626,-
+39717,6482064,trpS,PCC_0875,-,-,-,-,tryptophanyl-tRNA synthetase,protein-coding,-,-,-,-,20160716,-
+39717,6482065,PCC_0876,PCC_0876,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-

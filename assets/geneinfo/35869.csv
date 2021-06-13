@@ -1,0 +1,141 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+35869,4108125,chlL,ZyciCp053,-,-,-,-,light-independent protochlorophyllide reductase iron-sulfer ATP-binding protein,protein-coding,-,-,-,light-independent protochlorophyllide reductase iron-sulfer ATP-binding protein|photochlorophyllide reductase subunit L,20160827,-
+35869,4108126,chlN,ZyciCp054,-,-,-,-,light-independent protochlorophyllide reductase subunit N,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit N|photochlorophyllide reductase subunit N,20160827,-
+35869,4108127,clpP,ZyciCp003,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160827,-
+35869,4108128,cysA,ZyciCp020,-,-,-,-,probable transport protein,protein-coding,-,-,-,-,20160827,-
+35869,4108129,cysT,ZyciCp103,-,-,-,-,sulfate transport protein,protein-coding,-,-,-,-,20160827,-
+35869,4108130,ftsH,ZyciCp089,-,-,-,-,cell division protein,protein-coding,-,-,-,-,20160827,-
+35869,4108131,infA,ZyciCp029,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160827,-
+35869,4108132,ndhA,ZyciCp058,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150626,-
+35869,4108133,ndhB,ZyciCp014,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160827,-
+35869,4108134,ndhC,ZyciCp078,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20150626,-
+35869,4108135,ndhD,ZyciCp041,ndh4,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160827,-
+35869,4108136,ndhE,ZyciCp039,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150626,-
+35869,4108137,ndhF,ZyciCp081,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160827,-
+35869,4108138,ndhG,ZyciCp060,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20150626,-
+35869,4108139,ndhH,ZyciCp057,-,-,-,-,NADH dehydrogenase 49 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 49 kDa subunit|NADH dehydrogenase subunit 7,20150711,-
+35869,4108140,ndhI,ZyciCp059,frxB,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit|NADH dehydrogenase subunit I,20160827,-
+35869,4108141,ndhJ,ZyciCp076,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit|NADH dehydrogenase subunit J,20150626,-
+35869,4108142,ndhK,ZyciCp077,-,-,-,-,NADH dehydrogenase 27 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 27 kDa subunit|NADH dehydrogenase subunit K,20160924,-
+35869,4108143,odpB,ZyciCp038,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20160827,-
+35869,4108144,petA,ZyciCp067,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor|cytochrome f,20160827,-
+35869,4108145,petB,ZyciCp096,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+35869,4108146,petD,ZyciCp097,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4|cytochrome b6/f complex subunit IV,20160827,-
+35869,4108147,petG,ZyciCp084,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210424,-
+35869,4108148,petL,ZyciCp083,-,-,-,-,subunit VI of cytochrome b6/f complex,protein-coding,-,-,-,-,20150626,-
+35869,4108149,petN,ZyciCp101,-,-,-,-,subunit VIII of cytochrome b6/f complex,protein-coding,-,-,-,-,20150626,-
+35869,4108150,psaA,ZyciCp092,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20150626,-
+35869,4108151,psaB,ZyciCp091,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20150626,-
+35869,4108152,psaC,ZyciCp040,-,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center|photosystem I subunit VII,20160827,-
+35869,4108153,psaI,ZyciCp043,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+35869,4108154,psaJ,ZyciCp085,-,-,-,-,subunit IX of photosystem I,protein-coding,-,-,-,-,20150626,-
+35869,4108155,psaM,ZyciCp048,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20160827,-
+35869,4108156,psbA,ZyciCp037,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160827,-
+35869,4108157,psbB,ZyciCp004,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein|photosystem II 47 kDa protein,20150626,-
+35869,4108158,psbC,ZyciCp034,-,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,PSII 43 kDa protein|photosystem II 44 kDa protein,20150626,-
+35869,4108159,psbD,ZyciCp035,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160827,-
+35869,4108160,psbE,ZyciCp065,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20160827,-
+35869,4108161,psbF,ZyciCp064,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20150626,-
+35869,4108162,psbH,ZyciCp007,-,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H|photosystem II protein H,20150626,-
+35869,4108163,psbI,ZyciCp018,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160325,-
+35869,4108164,psbJ,ZyciCp062,-,-,-,-,photosystem II reaction center subunit X,protein-coding,-,-,-,photosystem II reaction center subunit X|photosystem II protein J,20150626,-
+35869,4108165,psbK,ZyciCp017,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein|photosystem II protein K,20150626,-
+35869,4108166,psbL,ZyciCp063,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20160325,-
+35869,4108167,psbM,ZyciCp015,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20150711,-
+35869,4108168,psbN,ZyciCp006,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein|photosystem II protein N,20150626,-
+35869,4108169,psbT,ZyciCp005,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+35869,4108170,psbZ,ZyciCp042,-,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein|photosystem II protein Z,20150626,-
+35869,4108171,rbcL,ZyciCp009,-,-,-,-,RuBisCO large subunit,protein-coding,-,-,-,"RuBisCO large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20150626,-
+35869,4108172,rpl14,ZyciCp026,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14|ribosomal protein L14,20150626,-
+35869,4108173,rpl16,ZyciCp025,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+35869,4108174,rpl2,ZyciCp022,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20160827,-
+35869,4108175,rpl20,ZyciCp001,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20|ribosomal protein L20,20160827,-
+35869,4108176,rpl21,ZyciCp102,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21|ribosomal protein L21,20150626,-
+35869,4108177,rpl23,ZyciCp021,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+35869,4108178,rpl33,ZyciCp087,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+35869,4108179,rpl36,ZyciCp030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+35869,4108180,rpl5,ZyciCp027,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5|ribosomal protein L5,20160827,-
+35869,4108181,rpoA,ZyciCp032,-,-,-,-,alpha subunit of RNA polymerase,protein-coding,-,-,-,-,20160827,-
+35869,4108182,rpoB,ZyciCp100,-,-,-,-,RNA polymerase beta chain,protein-coding,-,-,-,RNA polymerase beta chain|RNA polymerase beta subunit,20150626,-
+35869,4108183,rpoC1,ZyciCp099,-,-,-,-,RNA polymerase beta' chain,protein-coding,-,-,-,RNA polymerase beta' chain|RNA polymerase beta' subunit,20160827,-
+35869,4108184,rpoC2,ZyciCp098,-,-,-,-,beta'' subunit of RNA polymerase,protein-coding,-,-,-,-,20160827,-
+35869,4108185,rps11,ZyciCp031,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11|ribosomal protein S11,20150626,-
+35869,4108186,rps12,ZyciCp002,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+35869,4108187,rps14,ZyciCp008,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14|ribosomal protein S14,20150626,-
+35869,4108188,rps15,ZyciCp056,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160827,-
+35869,4108189,rps16,ZyciCp012,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160325,-
+35869,4108190,rps18,ZyciCp088,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+35869,4108191,rps19,ZyciCp023,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20150626,-
+35869,4108192,rps2,ZyciCp010,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160827,-
+35869,4108193,rps3,ZyciCp024,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3|ribosomal protein S3,20160827,-
+35869,4108194,rps4,ZyciCp045,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160827,-
+35869,4108195,rps7,ZyciCp013,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160827,-
+35869,4108196,rps8,ZyciCp028,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8|ribosomal protein S8,20150626,-
+35869,4108197,ycf1,ZyciCp055,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160827,-
+35869,4108198,ycf12,ZyciCp019,-,-,-,-,Ycf12,protein-coding,-,-,-,-,20150626,-
+35869,4108199,ycf3,ZyciCp046,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20160917,-
+35869,4108200,ycf4,ZyciCp094,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20150626,-
+35869,4108201,ycf62,ZyciCp061,-,-,-,-,hypothetical chloroplast RF62,protein-coding,-,-,-,-,20160827,-
+35869,4108202,ycf66,ZyciCp016,-,-,-,-,hypothetical chloroplast RF66,protein-coding,-,-,-,-,20160827,-
+35869,4108203,rrl,ZyciCr001,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20120919,-
+35869,4108204,trnL(caa),ZyciCt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108205,trnQ(uug),ZyciCt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108206,trnS(cga),ZyciCt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108207,trnE(uuc),ZyciCt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108208,trnT(ggu),ZyciCt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108209,rrf,ZyciCr002,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120919,-
+35869,4108210,orf466,ZyciCp033,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108211,orf125,ZyciCp036,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108212,trnS(gga),ZyciCt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108213,matK,ZyciCp047,-,-,-,-,putative maturase,protein-coding,-,-,-,-,20160827,-
+35869,4108214,trnS(gcu),ZyciCt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108215,trnMf(cau),ZyciCt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108216,trnI(cau),ZyciCt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108217,rrs,ZyciCr003,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20120919,-
+35869,4108218,orf228,ZyciCp066,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108219,trnG(ucc),ZyciCt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108220,orf70,ZyciCp068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108221,orf71,ZyciCp069,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108222,orf86a,ZyciCp070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108223,trnN(guu),ZyciCt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108224,trnK(uuu),ZyciCt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108225,orf73,ZyciCp071,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108226,orf86b,ZyciCp072,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+35869,4108227,orf123,ZyciCp073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108228,orf115,ZyciCp074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108229,trnD(guc),ZyciCt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108230,trnV(uac),ZyciCt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108231,trnMe(cau),ZyciCt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108232,trnC(gca),ZyciCt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108233,trnY(gua),ZyciCt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108234,trnE(uuc),ZyciCt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108235,trnL(uaa),ZyciCt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108236,trnW(cca),ZyciCt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108237,trnP(ugg),ZyciCt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108238,orf61,ZyciCp086,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108239,trnL(uag),ZyciCt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108240,trnR(acg),ZyciCt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108241,trnR(ccg),ZyciCt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108242,trnG(gcc),ZyciCt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108243,trnA(ugc),ZyciCt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108244,trnI(gau),ZyciCt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108245,orf637,ZyciCp090,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108246,trnS(uga),ZyciCt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108247,orf92,ZyciCp095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+35869,4108248,trnT(ugu),ZyciCt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108249,trnF(gaa),ZyciCt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108250,trnR(ucu),ZyciCt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108251,trnV(gac),ZyciCt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108252,chlB,ZyciCp011,-,-,-,-,light-independent protochlorophyllide reductase subunit B,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit B|photochlorophyllide reductase subunit B,20160827,-
+35869,4108253,trnP(ggg),ZyciCt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-
+35869,4108254,accD,ZyciCp044,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20150626,-
+35869,4108255,atpA,ZyciCp049,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160827,-
+35869,4108256,atpB,ZyciCp080,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160827,-
+35869,4108257,atpE,ZyciCp079,-,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain|ATP synthase CF1 epsilon subunit,20150626,-
+35869,4108258,atpF,ZyciCp050,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I|ATP synthase CF0 B subunit,20150626,-
+35869,4108259,atpH,ZyciCp051,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C subunit,20150626,-
+35869,4108260,atpI,ZyciCp082,-,-,-,-,ATPase IV subunit,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A subunit,20150626,-
+35869,4108261,ccsA,ZyciCp052,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20150626,-
+35869,4108262,cemA,ZyciCp093,ycf10,-,-,-,heme-binding protein,protein-coding,-,-,-,heme-binding protein|envelope membrane protein,20150626,-
+35869,4108263,chlI,ZyciCp075,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,-,20150626,-
+35869,4108264,trnH(gug),ZyciCt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20120919,-

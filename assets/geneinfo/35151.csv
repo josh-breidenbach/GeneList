@@ -1,0 +1,230 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+35151,29073842,mat,Eryt_002,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20190222,-
+35151,29073843,orf546,Eryt_003,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073844,cemA,Eryt_004,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20190222,-
+35151,29073845,psbW,Eryt_005,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,photosystem II protein W,20190222,-
+35151,29073846,ntcA,Eryt_006,-,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,global nitrogen transcriptional regulator,20190222,-
+35151,29073847,nblA,Eryt_007,-,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,phycobilisome degradation protein,20190222,-
+35151,29073848,Eryt_224,Eryt_224,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073849,orf240,Eryt_009,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073850,ycf34,Eryt_010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073851,Eryt_231,Eryt_231,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073852,primase,Eryt_012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073853,rpl19,Eryt_013,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,ribosomal protein L19,20190222,-
+35151,29073854,thiS,Eryt_014,-,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,thiamine biosynthesis protein S,20190222,-
+35151,29073855,rpl11,Eryt_015,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,ribosomal protein L11,20190222,-
+35151,29073856,rpl1,Eryt_016,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,ribosomal protein L1,20190222,-
+35151,29073857,rpl12,Eryt_017,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20190222,-
+35151,29073858,petD,Eryt_018,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20190222,-
+35151,29073859,petB,Eryt_019,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20190222,-
+35151,29073860,rps14,Eryt_020,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20190222,-
+35151,29073861,psaL,Eryt_021,-,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,photosystem I subunit XI,20190222,-
+35151,29073862,ORF565,Eryt_022,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073863,ORF68,Eryt_023,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073864,infC,Eryt_024,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,translation initiation factor 3,20190222,-
+35151,29073865,Eryt_226,Eryt_226,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073866,atpD,Eryt_026,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,ATP synthase CF1 delta subunit,20190222,-
+35151,29073867,atpF,Eryt_027,-,-,-,-,ATP synthase CFO B chain subunit I,protein-coding,-,-,-,ATP synthase CFO B chain subunit I,20190222,-
+35151,29073868,atpG,Eryt_028,-,-,-,-,ATP synthase CFO B' chain subunit II,protein-coding,-,-,-,ATP synthase CFO B' chain subunit II,20190222,-
+35151,29073869,atpH,Eryt_029,-,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",protein-coding,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",20190222,-
+35151,29073870,atpI,Eryt_030,-,-,-,-,ATP synthase CFO A chain subunit IV,protein-coding,-,-,-,ATP synthase CFO A chain subunit IV,20190222,-
+35151,29073871,tsf,Eryt_031,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20190222,-
+35151,29073872,rps2,Eryt_032,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20190222,-
+35151,29073873,rpoC2,Eryt_033,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20190222,-
+35151,29073874,rpoC1,Eryt_034,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20190222,-
+35151,29073875,rpoB,Eryt_035,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20190222,-
+35151,29073876,rps20,Eryt_036,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,ribosomal protein S20,20190222,-
+35151,29073877,cpcG,Eryt_037,-,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,phycobilisome rod-core linker protein,20190222,-
+35151,29073878,psaB,Eryt_038,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20190222,-
+35151,29073879,psaA,Eryt_039,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20190222,-
+35151,29073880,mat1b,Eryt_040,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20190222,-
+35151,29073881,ftsH,Eryt_041,-,-,-,-,cell division protein,protein-coding,-,-,-,cell division protein,20190222,-
+35151,29073882,ycf38,Eryt_042,-,-,-,-,ABC-2 type transporter,protein-coding,-,-,-,ABC-2 type transporter,20190222,-
+35151,29073883,Eryt_227,Eryt_227,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073884,sufB,Eryt_044,-,-,-,-,cysteine desulfurase activator complex subunit SufB,protein-coding,-,-,-,cysteine desulfurase activator complex subunit SufB,20190222,-
+35151,29073885,petN,Eryt_045,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20190222,-
+35151,29073886,ycf31,Eryt_046,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073887,rps1,Eryt_047,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20190222,-
+35151,29073888,cpeB,Eryt_048,-,-,-,-,R-phycoerythrin class I beta subunit,protein-coding,-,-,-,R-phycoerythrin class I beta subunit,20190222,-
+35151,29073889,cpeA,Eryt_049,-,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,R-phycoerythrin class I alpha subunit,20190222,-
+35151,29073890,Eryt_228,Eryt_228,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073891,apcA,Eryt_051,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,allophycocyanin alpha subunit,20190222,-
+35151,29073892,apcB,Eryt_052,-,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,allophycocyanin beta subunit,20190222,-
+35151,29073893,rpoZ,Eryt_053,-,-,-,-,DNA-directed RNA polymerase omega chain,protein-coding,-,-,-,DNA-directed RNA polymerase omega chain,20190222,-
+35151,29073894,Eryt_229,Eryt_229,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073895,psaC,Eryt_055,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20190222,-
+35151,29073896,ycf23,Eryt_056,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073897,mntA,Eryt_057,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20190222,-
+35151,29073898,mntB,Eryt_058,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20190222,-
+35151,29073899,psi,Eryt_059,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20190222,-
+35151,29073900,psbT,Eryt_060,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20190222,-
+35151,29073901,psbN,Eryt_061,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20190222,-
+35151,29073902,psbH,Eryt_062,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20190222,-
+35151,29073903,psaE,Eryt_063,-,-,-,-,tRNA-Ser,protein-coding,-,-,-,tRNA-Ser,20190222,-
+35151,29073904,preA,Eryt_064,-,-,-,-,prenyl transferase,protein-coding,-,-,-,prenyl transferase,20190222,-
+35151,29073905,ycf4,Eryt_065,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20190222,-
+35151,29073906,rpl34,Eryt_066,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,ribosomal protein L34,20190222,-
+35151,29073907,trpA,Eryt_067,-,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,tryptophan synthase alpha subunit,20190222,-
+35151,29073908,Eryt_232,Eryt_232,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29073909,ccsA,Eryt_069,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20190222,-
+35151,29073910,psaK,Eryt_070,-,-,-,-,photosystem I subunit X,protein-coding,-,-,-,photosystem I subunit X,20190222,-
+35151,29073911,ccs1,Eryt_071,-,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,c-type cytochrome biogenensis protein,20190222,-
+35151,29073912,rne,Eryt_072,-,-,-,-,ribonuclease E,protein-coding,-,-,-,ribonuclease E,20190222,-
+35151,29073913,rpl27,Eryt_073,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,ribosomal protein L27,20190222,-
+35151,29073914,rpl21,Eryt_074,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20190222,-
+35151,29073915,rpl32,Eryt_075,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20190222,-
+35151,29073916,psbY,Eryt_076,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,photosystem II protein Y,20190222,-
+35151,29073917,rbcR,Eryt_077,-,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,LysR transcriptional regulator,20190222,-
+35151,29073918,ycf54,Eryt_078,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073919,chlI,Eryt_079,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,Mg-protoporyphyrin IX chelatase,20190222,-
+35151,29073920,orf203,Eryt_080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073921,rps6,Eryt_081,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,ribosomal protein S6,20190222,-
+35151,29073922,Eryt_221,Eryt_221,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,29073923,psbD,Eryt_094,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20190222,-
+35151,29073930,ycf46,Eryt_089,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073931,ycf53,Eryt_088,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073932,trpG,Eryt_087,-,-,-,-,anthranilate synthase component 2,protein-coding,-,-,-,anthranilate synthase component 2,20190222,-
+35151,29073933,psbC,Eryt_093,-,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,photosystem II CP43 protein,20190222,-
+35151,29073934,fabH,Eryt_085,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,20190222,-
+35151,29073935,petJ,Eryt_084,-,-,-,-,cytochrome c553,protein-coding,-,-,-,cytochrome c553,20190222,-
+35151,29073936,psbV,Eryt_083,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,photosystem II cytochrome c550,20190222,-
+35151,29073937,psaM,Eryt_082,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,photosystem I subunit XII,20190222,-
+35151,29073939,rpl35,Eryt_097,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,ribosomal protein L35,20190222,-
+35151,29073940,pbsA,Eryt_098,-,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20190222,-
+35151,29073941,bas1,Eryt_099,-,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,thiol-specific antioxidant protein,20190222,-
+35151,29073942,acsF,Eryt_100,-,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,protein-coding,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,20190222,-
+35151,29073943,apcF,Eryt_101,-,-,-,-,allophycocyanin beta 18 subunit,protein-coding,-,-,-,allophycocyanin beta 18 subunit,20190222,-
+35151,29073944,ycf20,Eryt_102,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073945,orf383,Eryt_103,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073946,psbJ,Eryt_104,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20190222,-
+35151,29073947,psbL,Eryt_105,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20190222,-
+35151,29073948,psbF,Eryt_106,-,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,cytochrome b559 subunit beta,20190222,-
+35151,29073949,psbE,Eryt_107,-,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,cytochrome b559 subunit alpha,20190222,-
+35151,29073951,secA,Eryt_109,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20190222,-
+35151,29073952,odpB,Eryt_110,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component beta subunit,20190222,-
+35151,29073953,odpA,Eryt_111,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,20190222,-
+35151,29073954,ycf65,Eryt_112,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,putative ribosomal protein 3,20190222,-
+35151,29073955,rps16,Eryt_113,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20190222,-
+35151,29073956,ilvB,Eryt_114,-,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,acetohydroxyacid synthase large subunit,20190222,-
+35151,29073957,ycf33,Eryt_115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073959,rps18,Eryt_117,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20190222,-
+35151,29073960,infB,Eryt_118,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,translation initiation factor 2,20190222,-
+35151,29073961,ycf58,Eryt_119,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073962,orf64,Eryt_120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073964,psbK,Eryt_122,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20190222,-
+35151,29073965,petG,Eryt_123,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20190222,-
+35151,29073966,psbI,Eryt_124,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20190222,-
+35151,29073967,tatC,Eryt_125,-,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,Sec-independent translocase component C,20190222,-
+35151,29073968,orf621,Eryt_126,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073970,ycf37,Eryt_128,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073971,rpl9,Eryt_129,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,ribosomal protein L9,20190222,-
+35151,29073972,groEL,Eryt_130,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20190222,-
+35151,29073973,syfB,Eryt_131,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,phenylalanyl-tRNA synthetase beta chain,20190222,-
+35151,29073974,petA,Eryt_132,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20190222,-
+35151,29073975,psaD,Eryt_133,-,-,-,-,photosystem I subunit II,protein-coding,-,-,-,photosystem I subunit II,20190222,-
+35151,29073976,ycf36,Eryt_134,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073979,psaI,Eryt_137,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20190222,-
+35151,29073981,cpcB,Eryt_139,-,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,phycocyanin beta subunit,20190222,-
+35151,29073982,cbbX,Eryt_140,-,-,-,-,putative rubisco expression protein,protein-coding,-,-,-,putative rubisco expression protein,20190222,-
+35151,29073983,rbcS,Eryt_141,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20190222,-
+35151,29073984,rbcL,Eryt_142,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20190222,-
+35151,29073985,trxA,Eryt_143,-,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20190222,-
+35151,29073986,rpl28,Eryt_144,-,-,-,-,ribosomal protein L28,protein-coding,-,-,-,ribosomal protein L28,20190222,-
+35151,29073988,ycf35,Eryt_146,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073989,petL,Eryt_147,-,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,cytochrome b6-f complex subunit VI,20190222,-
+35151,29073990,atpE,Eryt_148,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20190222,-
+35151,29073991,atpB,Eryt_149,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20190222,-
+35151,29073992,ycf3,Eryt_150,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20190222,-
+35151,29073993,ORF450,Eryt_151,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073994,rps4,Eryt_152,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20190222,-
+35151,29073995,ilvH,Eryt_153,-,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,acetohydroxyacid synthase small subunit,20190222,-
+35151,29073996,ycf39,Eryt_154,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29073999,ORF198,Eryt_157,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074000,ycf19,Eryt_158,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074001,psbA,Eryt_159,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20190222,-
+35151,29074005,dnaK,Eryt_001,-,-,-,-,heat shock protein 70 chaperone,protein-coding,-,-,-,heat shock protein 70 chaperone,20190222,-
+35151,29074006,rps10,Eryt_163,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20190222,-
+35151,29074007,tufA,Eryt_164,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20190222,-
+35151,29074008,rps7,Eryt_165,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20190222,-
+35151,29074009,rps12,Eryt_166,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20190222,-
+35151,29074010,rpl31,Eryt_167,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20190222,-
+35151,29074011,rps9,Eryt_168,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20190222,-
+35151,29074012,rpl13,Eryt_169,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,ribosomal protein L13,20190222,-
+35151,29074013,rpoA,Eryt_170,-,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,DNA-directed RNA polymerase alpha subunit,20190222,-
+35151,29074014,rps11,Eryt_171,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20190222,-
+35151,29074015,rps13,Eryt_172,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20190222,-
+35151,29074016,rpl36,Eryt_173,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20190222,-
+35151,29074017,secY,Eryt_174,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20190222,-
+35151,29074018,rps5,Eryt_175,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,ribosomal protein S5,20190222,-
+35151,29074019,rpl18,Eryt_176,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,ribosomal protein L18,20190222,-
+35151,29074020,rpl6,Eryt_177,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20190222,-
+35151,29074021,rps8,Eryt_178,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20190222,-
+35151,29074022,rpl5,Eryt_179,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20190222,-
+35151,29074023,rpl24,Eryt_180,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,ribosomal protein L24,20190222,-
+35151,29074024,rpl14,Eryt_181,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20190222,-
+35151,29074025,rps17,Eryt_182,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,ribosomal protein S17,20190222,-
+35151,29074026,rpl29,Eryt_183,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,ribosomal protein L29,20190222,-
+35151,29074027,rpl16,Eryt_184,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20190222,-
+35151,29074028,rps3,Eryt_185,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20190222,-
+35151,29074029,rpl22,Eryt_186,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20190222,-
+35151,29074030,rps19,Eryt_187,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20190222,-
+35151,29074031,rpl2,Eryt_188,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20190222,-
+35151,29074032,rpl23,Eryt_189,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20190222,-
+35151,29074033,rpl4,Eryt_190,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,ribosomal protein L4,20190222,-
+35151,29074034,rpl3,Eryt_191,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,ribosomal protein L3,20190222,-
+35151,29074035,Eryt_225,Eryt_225,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29074036,pgmA,Eryt_008,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,phosphoglycerate mutase,20190222,-
+35151,29074037,syh,Eryt_011,-,-,-,-,histidine-tRNA synthetase,protein-coding,-,-,-,histidine-tRNA synthetase,20190222,-
+35151,29074038,atpA,Eryt_025,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20190222,-
+35151,29074039,ycf16,Eryt_043,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074040,apcE,Eryt_050,-,-,-,-,phycobilisome core-membrane linker protein,protein-coding,-,-,-,phycobilisome core-membrane linker protein,20190222,-
+35151,29074041,Eryt_230,Eryt_230,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29074042,gltB,Eryt_054,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,ferredoxin-dependent glutamate synthase,20190222,-
+35151,29074043,orf327,Eryt_068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074044,Eryt_222,Eryt_222,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,29074045,Eryt_223,Eryt_223,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,29074047,ycf27,Eryt_095,-,-,-,-,regulatory component of sensory transduction system,protein-coding,-,-,-,regulatory component of sensory transduction system,20190222,-
+35151,29074048,ycf52,Eryt_092,-,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,GCN5-like N-acetyltransferase,20190222,-
+35151,29074051,Eryt_192,Eryt_192,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,29074053,rpl20,Eryt_096,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20190222,-
+35151,29074054,thiG,Eryt_108,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,thiamin biosynthesis protein G,20190222,-
+35151,29074057,rpl33,Eryt_116,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20190222,-
+35151,29074058,psbZ,Eryt_121,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20190222,-
+35151,29074059,dnaB,Eryt_127,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,replication helicase subunit,20190222,-
+35151,29074060,clpC,Eryt_135,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,Clp protease ATP binding subunit,20190222,-
+35151,29074061,ycf26,Eryt_136,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074062,cpcA,Eryt_138,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,phycocyanin alpha subunit,20190222,-
+35151,29074065,ycf55,Eryt_145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074067,ftrB,Eryt_155,-,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,ferredoxin-thioredoxin reductase beta subunit,20190222,-
+35151,29074068,ycf17,Eryt_156,-,-,-,-,CAB/ELIP/HLIP superfamily protein,protein-coding,-,-,-,CAB/ELIP/HLIP superfamily protein,20190222,-
+35151,29074070,orf148,Eryt_160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190222,-
+35151,29074071,acpP,Eryt_161,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20190222,-
+35151,29074072,petF,Eryt_162,-,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20190222,-
+35151,33865555,carA,Eryt_086,-,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,20190222,-
+35151,33865556,apcD,Eryt_090,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,allophycocyanin gamma subunit,20190222,-
+35151,33865557,psaF,Eryt_091,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,photosystem I subunit III,20190222,-
+35151,33865558,Eryt_194,Eryt_194,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865559,Eryt_195,Eryt_195,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,33865560,Eryt_198,Eryt_198,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865561,Eryt_199,Eryt_199,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865562,Eryt_203,Eryt_203,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865563,Eryt_204,Eryt_204,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865564,Eryt_205,Eryt_205,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865565,Eryt_206,Eryt_206,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865566,Eryt_207,Eryt_207,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865567,Eryt_208,Eryt_208,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865568,Eryt_211,Eryt_211,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865569,Eryt_213,Eryt_213,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865570,Eryt_214,Eryt_214,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865571,Eryt_216,Eryt_216,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865572,Eryt_217,Eryt_217,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865573,Eryt_218,Eryt_218,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,33865574,Eryt_196,Eryt_196,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865575,Eryt_197,Eryt_197,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865576,Eryt_193,Eryt_193,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200908,-
+35151,33865577,Eryt_200,Eryt_200,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865578,Eryt_201,Eryt_201,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865579,Eryt_209,Eryt_209,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865580,Eryt_210,Eryt_210,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865581,Eryt_212,Eryt_212,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
+35151,33865582,Eryt_215,Eryt_215,-,-,-,-,tRNA,tRNA,-,-,-,-,20200908,-
