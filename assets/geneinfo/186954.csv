@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+186954,37863762,psbA,D3Q44_pgp089,Y16031_001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200911,-
+186954,37863763,trnK-UUU,D3Q44_pgt002,Y16031_002,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863764,matK,D3Q44_pgp088,Y16031_003,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+186954,37863765,rps16,D3Q44_pgp087,Y16031_004,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200911,-
+186954,37863766,trnQ-UUG,D3Q44_pgt003,Y16031_005,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863767,psbK,D3Q44_pgp086,Y16031_006,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200911,-
+186954,37863768,psbI,D3Q44_pgp085,Y16031_007,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200911,-
+186954,37863769,trnS-GCU,D3Q44_pgt004,Y16031_008,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863770,trnC-GCA,D3Q44_pgt005,Y16031_019,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863771,trnT-GGU,D3Q44_pgt011,Y16031_025,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863772,trnG-UCC,D3Q44_pgt010,Y16031_009,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863773,trnR-UCU,D3Q44_pgt009,Y16031_010,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863774,atpA,D3Q44_pgp075,Y16031_011,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200911,-
+186954,37863775,atpF,D3Q44_pgp076,Y16031_012,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATP synthase CF0 subunit I,20200911,-
+186954,37863776,atpH,D3Q44_pgp077,Y16031_013,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,ATP synthase CF0 subunit III,20200911,-
+186954,37863777,atpI,D3Q44_pgp078,Y16031_014,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20200911,-
+186954,37863778,rps2,D3Q44_pgp079,Y16031_015,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+186954,37863779,rpoC2,D3Q44_pgp080,Y16031_016,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+186954,37863780,rpoC1,D3Q44_pgp081,Y16031_017,-,-,-,RNA polymerase beta,protein-coding,-,-,-,RNA polymerase beta,20200911,-
+186954,37863781,petN,D3Q44_pgp084,Y16031_020,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200911,-
+186954,37863782,psbM,D3Q44_pgp083,Y16031_021,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200911,-
+186954,37863783,trnD-GUC,D3Q44_pgt006,Y16031_022,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863784,trnY-GUA,D3Q44_pgt007,Y16031_023,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863785,trnE-UUC,D3Q44_pgt008,Y16031_024,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863786,rpoB,D3Q44_pgp082,Y16031_018,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+186954,37863787,psbD,D3Q44_pgp074,Y16031_026,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200911,-
+186954,37863788,psbC,D3Q44_pgp073,Y16031_027,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200911,-
+186954,37863789,trnS-UGA,D3Q44_pgt012,Y16031_028,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863790,psbZ,D3Q44_pgp072,Y16031_029,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein,20200911,-
+186954,37863791,trnG-GCC,D3Q44_pgt013,Y16031_030,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863792,trnfM-CAU,D3Q44_pgt014,Y16031_031,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863793,rps14,D3Q44_pgp071,Y16031_032,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+186954,37863794,psaB,D3Q44_pgp070,Y16031_033,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200911,-
+186954,37863795,psaA,D3Q44_pgp069,Y16031_034,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20200911,-
+186954,37863796,ycf3,D3Q44_pgp068,Y16031_035,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,hypothetical chloroplast RF34,20200911,-
+186954,37863797,trnS-GGA,D3Q44_pgt015,Y16031_036,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863798,rps4,D3Q44_pgp067,Y16031_037,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+186954,37863799,trnT-UGU,D3Q44_pgt016,Y16031_038,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863800,trnL-UAA,D3Q44_pgt017,Y16031_039,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863801,trnF-GAA,D3Q44_pgt018,Y16031_040,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863802,ndhJ,D3Q44_pgp066,Y16031_041,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20200911,-
+186954,37863803,ndhK,D3Q44_pgp065,Y16031_042,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20200911,-
+186954,37863804,ndhC,D3Q44_pgp064,Y16031_043,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20200911,-
+186954,37863805,trnV-UAC,D3Q44_pgt019,Y16031_044,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863806,trnM-CAU,D3Q44_pgt020,Y16031_045,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863807,atpE,D3Q44_pgp063,Y16031_046,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200911,-
+186954,37863808,atpB,D3Q44_pgp062,Y16031_047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200911,-
+186954,37863809,rbcL,D3Q44_pgp061,Y16031_048,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+186954,37863810,accD,D3Q44_pgp060,Y16031_049,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20200911,-
+186954,37863811,psaI,D3Q44_pgp059,Y16031_050,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20200911,-
+186954,37863812,ycf4,D3Q44_pgp058,Y16031_051,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20200911,-
+186954,37863813,cemA,D3Q44_pgp057,Y16031_052,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20200911,-
+186954,37863814,petA,D3Q44_pgp056,Y16031_053,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20200911,-
+186954,37863815,psbJ,D3Q44_pgp055,Y16031_054,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200911,-
+186954,37863816,psbL,D3Q44_pgp054,Y16031_055,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200911,-
+186954,37863817,psbF,D3Q44_pgp053,Y16031_056,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20200911,-
+186954,37863818,psbE,D3Q44_pgp052,Y16031_057,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200911,-
+186954,37863819,petL,D3Q44_pgp051,Y16031_058,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20200911,-
+186954,37863820,petG,D3Q44_pgp050,Y16031_059,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+186954,37863821,trnW-CCA,D3Q44_pgt021,Y16031_060,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863822,trnP-UGG,D3Q44_pgt022,Y16031_061,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863823,psaJ,D3Q44_pgp049,Y16031_062,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200911,-
+186954,37863824,rpl33,D3Q44_pgp048,Y16031_063,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+186954,37863825,rps18,D3Q44_pgp047,Y16031_064,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+186954,37863826,rpl20,D3Q44_pgp046,Y16031_065,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+186954,37863827,rps12,D3Q44_pgp045,Y16031_067,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+186954,37863828,trnH-GUG,D3Q44_pgt001,Y16031_085,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863829,clpP,D3Q44_pgp043,Y16031_068,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20200911,-
+186954,37863830,psbB,D3Q44_pgp042,Y16031_069,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200911,-
+186954,37863831,psbT,D3Q44_pgp041,Y16031_070,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20200911,-
+186954,37863832,psbN,D3Q44_pgp040,Y16031_071,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200911,-
+186954,37863833,psbH,D3Q44_pgp039,Y16031_072,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20200911,-
+186954,37863834,petB,D3Q44_pgp038,Y16031_073,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200911,-
+186954,37863835,petD,D3Q44_pgp037,Y16031_074,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20200911,-
+186954,37863836,rpoA,D3Q44_pgp036,Y16031_075,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200911,-
+186954,37863837,rps11,D3Q44_pgp035,Y16031_076,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+186954,37863838,rpl36,D3Q44_pgp034,Y16031_077,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+186954,37863839,infA,D3Q44_pgp033,Y16031_078,-,-,-,translational initiation factor 1,protein-coding,-,-,-,translational initiation factor 1,20200911,-
+186954,37863840,rps8,D3Q44_pgp032,Y16031_079,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+186954,37863841,rpl14,D3Q44_pgp031,Y16031_080,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+186954,37863842,rpl16,D3Q44_pgp030,Y16031_081,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+186954,37863843,rps3,D3Q44_pgp029,Y16031_082,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+186954,37863844,rpl22,D3Q44_pgp028,Y16031_083,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200911,-
+186954,37863845,rps19,D3Q44_pgp027,Y16031_084,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+186954,37863846,rpl2,D3Q44_pgp026,Y16031_086,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+186954,37863847,rpl23,D3Q44_pgp025,Y16031_087,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+186954,37863848,trnI-CAU,D3Q44_pgt023,Y16031_088,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863849,ycf2,D3Q44_pgp024,Y16031_089,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-
+186954,37863850,trnL-CAA,D3Q44_pgt024,Y16031_090,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863851,ndhB,D3Q44_pgp023,Y16031_091,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+186954,37863852,rps7,D3Q44_pgp022,Y16031_092,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+186954,37863853,ycf15,D3Q44_pgp021,Y16031_133,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+186954,37863854,rrn16,D3Q44_pgr008,Y16031_094,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863855,trnI-GAU,D3Q44_pgt026,Y16031_095,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863856,trnA-UGC,D3Q44_pgt027,Y16031_096,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863857,rrn23,D3Q44_pgr007,Y16031_097,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863858,rrn4.5,D3Q44_pgr006,Y16031_098,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863859,rrn5,D3Q44_pgr005,Y16031_099,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863860,trnR-ACG,D3Q44_pgt028,Y16031_100,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863861,trnN-GUU,D3Q44_pgt029,Y16031_101,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863862,ycf1,D3Q44_pgp020,Y16031_102,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+186954,37863863,ndhF,D3Q44_pgp019,Y16031_103,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20200911,-
+186954,37863864,rpl32,D3Q44_pgp018,Y16031_104,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+186954,37863865,trnL-UAG,D3Q44_pgt030,Y16031_105,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863866,ccsA,D3Q44_pgp017,Y16031_106,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20200911,-
+186954,37863867,ndhD,D3Q44_pgp016,Y16031_107,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20200911,-
+186954,37863868,psaC,D3Q44_pgp015,Y16031_108,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200911,-
+186954,37863869,ndhE,D3Q44_pgp014,Y16031_109,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,20200911,-
+186954,37863870,ndhG,D3Q44_pgp013,Y16031_110,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20200911,-
+186954,37863871,ndhI,D3Q44_pgp012,Y16031_111,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit I,20200911,-
+186954,37863872,ndhA,D3Q44_pgp011,Y16031_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,20200911,-
+186954,37863873,ndhH,D3Q44_pgp010,Y16031_113,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20200911,-
+186954,37863874,rps15,D3Q44_pgp009,Y16031_114,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200911,-
+186954,37863875,ycf1,D3Q44_pgp008,Y16031_115,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20200911,-
+186954,37863876,trnN-GUU,D3Q44_pgt031,Y16031_116,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863877,trnR-ACG,D3Q44_pgt032,Y16031_117,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863878,rrn5,D3Q44_pgr004,Y16031_118,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863879,rrn4.5,D3Q44_pgr003,Y16031_119,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863880,rrn23,D3Q44_pgr002,Y16031_120,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863881,trnA-UGC,D3Q44_pgt033,Y16031_121,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863882,trnI-GAU,D3Q44_pgt034,Y16031_122,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863883,rrn16,D3Q44_pgr001,Y16031_123,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+186954,37863884,trnV-GAC,D3Q44_pgt035,Y16031_124,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863885,ycf15,D3Q44_pgp007,Y16031_134,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+186954,37863886,ndhB,D3Q44_pgp005,Y16031_126,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+186954,37863887,trnL-CAA,D3Q44_pgt036,Y16031_127,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863888,ycf2,D3Q44_pgp004,Y16031_128,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-
+186954,37863889,trnI-CAU,D3Q44_pgt037,Y16031_129,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863890,rpl23,D3Q44_pgp003,Y16031_130,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+186954,37863891,rps12,D3Q44_pgp044,Y16031_066,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+186954,37863892,rpl2,D3Q44_pgp002,Y16031_131,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+186954,37863893,rps19,D3Q44_pgp001,Y16031_132,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+186954,37863894,trnV-GAC,D3Q44_pgt025,Y16031_093,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+186954,37863895,rps7,D3Q44_pgp006,Y16031_125,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-

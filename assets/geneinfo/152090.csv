@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+152090,44793663,psbA,HCS07_pgp001,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200905,-
+152090,44793664,trnK-UUU,HCS07_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793665,matK,HCS07_pgp085,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20201003,-
+152090,44793666,rps16,HCS07_pgp084,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200905,-
+152090,44793667,trnQ-UUG,HCS07_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793668,psbK,HCS07_pgp083,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20200905,-
+152090,44793669,psbI,HCS07_pgp082,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200801,-
+152090,44793670,trnS-GCU,HCS07_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793671,trnG-UCC,HCS07_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793672,trnR-UCU,HCS07_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793673,atpA,HCS07_pgp081,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20200905,-
+152090,44793674,atpF,HCS07_pgp080,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20201217,-
+152090,44793675,atpH,HCS07_pgp079,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200801,-
+152090,44793676,atpI,HCS07_pgp078,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200912,-
+152090,44793677,rps2,HCS07_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200905,-
+152090,44793678,rpoC2,HCS07_pgp076,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20210123,-
+152090,44793679,rpoC1,HCS07_pgp075,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20200905,-
+152090,44793680,rpoB,HCS07_pgp074,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20201217,-
+152090,44793681,trnC-GCA,HCS07_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793682,petN,HCS07_pgp073,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200801,-
+152090,44793683,psbM,HCS07_pgp072,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200905,-
+152090,44793684,trnD-GUC,HCS07_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793685,trnY-GUA,HCS07_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793686,trnE-UUC,HCS07_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793687,trnT-GGU,HCS07_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793688,psbD,HCS07_pgp071,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200905,-
+152090,44793689,psbC,HCS07_pgp070,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200905,-
+152090,44793690,trnS-UGA,HCS07_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793691,psbZ,HCS07_pgp069,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200912,-
+152090,44793692,trnG-GCC,HCS07_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793693,trnfM-CAU,HCS07_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793694,rps14,HCS07_pgp068,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200905,-
+152090,44793695,psaB,HCS07_pgp067,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20200905,-
+152090,44793696,psaA,HCS07_pgp066,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20200905,-
+152090,44793697,ycf3,HCS07_pgp065,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200905,-
+152090,44793698,trnS-GGA,HCS07_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793699,rps4,HCS07_pgp064,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200905,-
+152090,44793700,trnT-UGU,HCS07_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793701,trnL-UAA,HCS07_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793702,trnF-GAA,HCS07_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793703,ndhJ,HCS07_pgp063,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200905,-
+152090,44793704,ndhK,HCS07_pgp062,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20200829,-
+152090,44793705,ndhC,HCS07_pgp061,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20200905,-
+152090,44793706,trnV-UAC,HCS07_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793707,trnM-CAU,HCS07_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793708,atpE,HCS07_pgp060,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20200905,-
+152090,44793709,atpB,HCS07_pgp059,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20200905,-
+152090,44793710,rbcL,HCS07_pgp058,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210320,-
+152090,44793711,accD,HCS07_pgp057,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20210320,-
+152090,44793712,psaI,HCS07_pgp056,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200905,-
+152090,44793713,ycf4,HCS07_pgp055,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20200905,-
+152090,44793714,cemA,HCS07_pgp054,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20200829,-
+152090,44793715,petA,HCS07_pgp053,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20200905,-
+152090,44793716,psbJ,HCS07_pgp052,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200801,-
+152090,44793717,psbL,HCS07_pgp051,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200801,-
+152090,44793718,psbF,HCS07_pgp050,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200801,-
+152090,44793719,psbE,HCS07_pgp049,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200801,-
+152090,44793720,petL,HCS07_pgp048,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200905,-
+152090,44793721,petG,HCS07_pgp047,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+152090,44793722,trnW-CCA,HCS07_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793723,trnP-UGG,HCS07_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793724,psaJ,HCS07_pgp046,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200905,-
+152090,44793725,rpl33,HCS07_pgp045,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200905,-
+152090,44793726,rps18,HCS07_pgp044,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200905,-
+152090,44793727,rpl20,HCS07_pgp043,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200905,-
+152090,44793728,rps12,HCS07_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+152090,44793729,clpP,HCS07_pgp040,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20210123,-
+152090,44793730,psbB,HCS07_pgp039,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200905,-
+152090,44793731,psbT,HCS07_pgp038,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20210123,-
+152090,44793732,psbN,HCS07_pgp037,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200801,-
+152090,44793733,psbH,HCS07_pgp036,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200905,-
+152090,44793734,petB,HCS07_pgp035,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200905,-
+152090,44793735,petD,HCS07_pgp034,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20201217,-
+152090,44793736,rpoA,HCS07_pgp033,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20200905,-
+152090,44793737,rps11,HCS07_pgp032,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200905,-
+152090,44793738,rpl36,HCS07_pgp031,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200801,-
+152090,44793739,rps8,HCS07_pgp030,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200905,-
+152090,44793740,rpl14,HCS07_pgp029,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200905,-
+152090,44793741,rpl16,HCS07_pgp028,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210320,-
+152090,44793742,rps3,HCS07_pgp027,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200829,-
+152090,44793743,rpl22,HCS07_pgp026,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210313,-
+152090,44793744,rps19,HCS07_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200905,-
+152090,44793745,trnH-GUG,HCS07_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793746,rpl2,HCS07_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210313,-
+152090,44793747,rpl23,HCS07_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200919,-
+152090,44793748,trnI-CAU,HCS07_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793749,ycf2,HCS07_pgp022,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210320,-
+152090,44793750,trnL-CAA,HCS07_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793751,ndhB,HCS07_pgp021,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210320,-
+152090,44793752,rps7,HCS07_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200905,-
+152090,44793753,trnV-GAC,HCS07_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793754,rrn16,HCS07_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793755,trnI-GAU,HCS07_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793756,trnA-UGC,HCS07_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793757,rrn23,HCS07_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793758,rrn4.5,HCS07_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793759,rrn5,HCS07_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793760,trnR-ACG,HCS07_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793761,trnN-GUU,HCS07_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793762,ycf1,HCS07_pgp019,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210123,-
+152090,44793763,ndhF,HCS07_pgp018,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20200905,-
+152090,44793764,rpl32,HCS07_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200905,-
+152090,44793765,trnL-UAG,HCS07_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793766,ccsA,HCS07_pgp016,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20200905,-
+152090,44793767,ndhD,HCS07_pgp015,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20210123,-
+152090,44793768,psaC,HCS07_pgp014,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200801,-
+152090,44793769,ndhE,HCS07_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200912,-
+152090,44793770,ndhG,HCS07_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200905,-
+152090,44793771,ndhI,HCS07_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20200905,-
+152090,44793772,ndhA,HCS07_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20201217,-
+152090,44793773,ndhH,HCS07_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20201217,-
+152090,44793774,rps15,HCS07_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200905,-
+152090,44793775,ycf1,HCS07_pgp007,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210320,-
+152090,44793776,trnN-GUU,HCS07_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793777,trnR-ACG,HCS07_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793778,rrn5,HCS07_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793779,rrn4.5,HCS07_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793780,rrn23,HCS07_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793781,trnA-UGC,HCS07_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793782,trnI-GAU,HCS07_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793783,rrn16,HCS07_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+152090,44793784,trnV-GAC,HCS07_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793785,rps7,HCS07_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200905,-
+152090,44793786,ndhB,HCS07_pgp005,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210320,-
+152090,44793787,trnL-CAA,HCS07_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793788,ycf2,HCS07_pgp004,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210320,-
+152090,44793789,trnI-CAU,HCS07_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793790,rpl23,HCS07_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200919,-
+152090,44793791,rpl2,HCS07_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210313,-
+152090,44793792,trnH-GUG,HCS07_pgt038,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+152090,44793793,rps12,HCS07_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-

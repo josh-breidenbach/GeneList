@@ -1,0 +1,41 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+178876,805387,ND1,CrnefMp12,nad1,-,MT,-,CnANAD1,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 1,20160917,-
+178876,805388,ATP6,CrnefMp05,-,-,MT,-,CnAATP6,protein-coding,-,-,-,ATP synthase F0 subunit a|ATP synthase F0 subunit 6|CnAATP6p,20150626,-
+178876,805389,ATP8,CrnefMp08,-,-,MT,-,CnAATP8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20160813,-
+178876,805390,ATP9,CrnefMp06,-,-,MT,-,CnAATP9,protein-coding,-,-,-,ATP synthase F0 subunit c|ATP synthase F0 subunit 9|CnAATP9p,20160806,-
+178876,805391,cytb,CrnefMp13,cob,-,MT,-,CnACOB1,protein-coding,-,-,-,cytochrome b,20140927,-
+178876,805392,COI,CrnefMp07,cox1,-,MT,-,CnACOX1,protein-coding,-,-,-,cytochrome c oxidase subunit 1|cytochrome c oxidase subunit I,20171216,-
+178876,805393,COII,CrnefMp11,cox2,-,MT,-,CnACOX2,protein-coding,-,-,-,cytochrome c oxidase subunit 2|cytochrome c oxidase subunit II,20171216,-
+178876,805394,ND3,CrnefMp10,nad3,-,MT,-,CnANAD3,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 3,20171216,-
+178876,805395,COIII,CrnefMp01,cox3,-,MT,-,CnACOX3,protein-coding,-,-,-,cytochrome c oxidase subunit 3|cytochrome c oxidase subunit III,20160806,-
+178876,805396,ND5,CrnefMp03,nad5,-,MT,-,CnANAD5,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 5,20171216,-
+178876,805397,ND2,CrnefMp09,nad2,-,MT,-,CnANAD2,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 2,20171216,-
+178876,805398,ND4,CrnefMp02,nad4,-,MT,-,CnANAD4,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 4,20171216,-
+178876,805399,rps3,CrnefMp14,-,-,MT,-,CnAMRP3,protein-coding,-,-,-,ribosomal protein S3,20110613,-
+178876,805400,ND6,CrnefMp04,nad6,-,MT,-,CnANAD6,protein-coding,-,-,-,ubiquinone|NADH dehydrogenase subunit 6,20171216,-
+178876,1505848,rnl,CrnefMr15,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20110613,-
+178876,1505849,rns,CrnefMr16,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20110613,-
+178876,3293489,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Cryptococcus neoformans A; Cryptococcus neoformans serotype A; Filobasidiella neoformans serotype A).,other,-,-,-,-,20181022,-
+178876,7040201,nad4L,CrnefMp17,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20210417,-
+178876,8847044,trnA(tgc),CrnefMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847045,trnY(gta),CrnefMt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847046,trnK(ctt),CrnefMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847047,trnW(cca),CrnefMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847048,trnE(ttc),CrnefMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847049,trnV(tac),CrnefMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847050,trnL(tag),CrnefMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847051,trnH(gtg),CrnefMt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847052,trnD(gtc),CrnefMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847053,trnN(gtt),CrnefMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847054,orf267,CrnefMp18,-,-,MT,-,CnAIORF3,protein-coding,-,-,-,CnAIORF3|hypothetical protein,20160806,-
+178876,8847055,rnpB,CrnefMs01,-,-,MT,-,ncRNA,ncRNA,-,-,-,-,20110613,-
+178876,8847056,trnP(tgg),CrnefMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847057,trnF(gaa),CrnefMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847058,trnM2(cat),CrnefMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847059,trnI(gat),CrnefMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847060,trnS(gct),CrnefMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847061,trnR(tcg),CrnefMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847062,trnQ(ttg),CrnefMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847063,trnT(tgt),CrnefMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847064,trnM1(cat),CrnefMt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-
+178876,8847065,trnG(tcc),CrnefMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20110613,-

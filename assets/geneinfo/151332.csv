@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+151332,38574530,psbA,EJ561_pgp086,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200911,-
+151332,38574531,trnK-UUU,EJ561_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574532,matK,EJ561_pgp085,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+151332,38574533,rps16,EJ561_pgp084,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210129,-
+151332,38574534,trnQ-UUG,EJ561_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574535,psbK,EJ561_pgp083,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20200911,-
+151332,38574536,psbI,EJ561_pgp082,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200911,-
+151332,38574537,trnS-GCU,EJ561_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574538,trnG-GCC,EJ561_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574539,trnR-UCU,EJ561_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574540,atpA,EJ561_pgp081,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20200911,-
+151332,38574541,atpF,EJ561_pgp080,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20200911,-
+151332,38574542,atpH,EJ561_pgp079,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200911,-
+151332,38574543,atpI,EJ561_pgp078,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200911,-
+151332,38574544,rps2,EJ561_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+151332,38574545,rpoC2,EJ561_pgp076,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20210327,-
+151332,38574546,rpoC1,EJ561_pgp075,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20200911,-
+151332,38574547,rpoB,EJ561_pgp074,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20200911,-
+151332,38574548,trnC-GCA,EJ561_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574549,petN,EJ561_pgp073,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200911,-
+151332,38574550,psbM,EJ561_pgp072,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200911,-
+151332,38574551,trnD-GUC,EJ561_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574552,trnY-GUA,EJ561_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574553,trnE-UUC,EJ561_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574554,trnT-GGU,EJ561_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574555,psbD,EJ561_pgp071,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200911,-
+151332,38574556,psbC,EJ561_pgp070,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200911,-
+151332,38574557,trnS-UGA,EJ561_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574558,psbZ,EJ561_pgp069,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200911,-
+151332,38574559,trnG-GCC,EJ561_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574560,trnfM-CAU,EJ561_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574561,rps14,EJ561_pgp068,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+151332,38574562,psaB,EJ561_pgp067,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20200911,-
+151332,38574563,psaA,EJ561_pgp066,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20200911,-
+151332,38574564,ycf3,EJ561_pgp065,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200911,-
+151332,38574565,trnS-GGA,EJ561_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574566,rps4,EJ561_pgp064,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+151332,38574567,trnT-UGU,EJ561_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574568,trnL-UAA,EJ561_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574569,trnF-GAA,EJ561_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574570,ndhJ,EJ561_pgp063,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200911,-
+151332,38574571,ndhK,EJ561_pgp062,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20200911,-
+151332,38574572,ndhC,EJ561_pgp061,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20200911,-
+151332,38574573,trnV-UAC,EJ561_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574574,trnM-CAU,EJ561_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574575,atpE,EJ561_pgp060,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20210327,-
+151332,38574576,atpB,EJ561_pgp059,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20200911,-
+151332,38574577,rbcL,EJ561_pgp058,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+151332,38574578,accD,EJ561_pgp057,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20200911,-
+151332,38574579,psaI,EJ561_pgp056,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200911,-
+151332,38574580,ycf4,EJ561_pgp055,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20200911,-
+151332,38574581,cemA,EJ561_pgp054,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20200911,-
+151332,38574582,petA,EJ561_pgp053,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20200911,-
+151332,38574583,psbJ,EJ561_pgp052,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200911,-
+151332,38574584,psbL,EJ561_pgp051,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200911,-
+151332,38574585,psbF,EJ561_pgp050,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200911,-
+151332,38574586,psbE,EJ561_pgp049,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200911,-
+151332,38574587,petL,EJ561_pgp048,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200911,-
+151332,38574588,petG,EJ561_pgp047,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+151332,38574589,trnW-CCA,EJ561_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574590,trnP-UGG,EJ561_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574591,psaJ,EJ561_pgp046,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200911,-
+151332,38574592,rpl33,EJ561_pgp045,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+151332,38574593,rps18,EJ561_pgp044,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+151332,38574594,rpl20,EJ561_pgp043,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+151332,38574595,rps12,EJ561_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+151332,38574596,clpP,EJ561_pgp040,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20200911,-
+151332,38574597,trnH-GUG,EJ561_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574598,psbB,EJ561_pgp039,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200911,-
+151332,38574599,psbT,EJ561_pgp038,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20200911,-
+151332,38574600,psbN,EJ561_pgp037,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200911,-
+151332,38574601,psbH,EJ561_pgp036,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200911,-
+151332,38574602,petB,EJ561_pgp035,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200911,-
+151332,38574603,petD,EJ561_pgp034,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20200911,-
+151332,38574604,rpoA,EJ561_pgp033,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20210327,-
+151332,38574605,rps11,EJ561_pgp032,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+151332,38574606,rpl36,EJ561_pgp031,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+151332,38574607,rps8,EJ561_pgp030,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+151332,38574608,rpl14,EJ561_pgp029,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+151332,38574609,rpl16,EJ561_pgp028,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+151332,38574610,rps3,EJ561_pgp027,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+151332,38574611,rpl22,EJ561_pgp026,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200912,-
+151332,38574612,rps19,EJ561_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+151332,38574613,rpl2,EJ561_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+151332,38574614,rpl23,EJ561_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+151332,38574615,trnI-CAU,EJ561_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574616,ycf2,EJ561_pgp022,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200911,-
+151332,38574617,trnL-CAA,EJ561_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574618,ndhB,EJ561_pgp021,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+151332,38574619,rps7,EJ561_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+151332,38574620,trnV-GAC,EJ561_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574621,EJ561_pgr008,EJ561_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574622,trnA-UGC,EJ561_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574623,EJ561_pgr007,EJ561_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574624,trnN-GUU,EJ561_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574625,ycf1,EJ561_pgp019,-,-,-,-,hypothetical chloroplast RF1,other,-,-,-,-,20200911,-
+151332,38574626,ndhF,EJ561_pgp018,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20200911,-
+151332,38574627,rpl32,EJ561_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+151332,38574628,trnL-UAG,EJ561_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574629,ccsA,EJ561_pgp016,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20200911,-
+151332,38574630,ndhD,EJ561_pgp015,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20200911,-
+151332,38574631,psaC,EJ561_pgp014,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200911,-
+151332,38574632,ndhE,EJ561_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200911,-
+151332,38574633,ndhG,EJ561_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200911,-
+151332,38574634,ndhI,EJ561_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20200911,-
+151332,38574635,ndhA,EJ561_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20200911,-
+151332,38574636,ndhH,EJ561_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20200912,-
+151332,38574637,rps15,EJ561_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210327,-
+151332,38574638,ycf1,EJ561_pgp007,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20200911,-
+151332,38574639,trnN-GUU,EJ561_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574640,trnR-ACG,EJ561_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574641,EJ561_pgr004,EJ561_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574642,trnI-GAU,EJ561_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574643,EJ561_pgr001,EJ561_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574644,rps7,EJ561_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+151332,38574645,ndhB,EJ561_pgp005,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+151332,38574646,trnL-CAA,EJ561_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574647,ycf2,EJ561_pgp004,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200911,-
+151332,38574648,trnI-CAU,EJ561_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574649,rpl23,EJ561_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+151332,38574650,rps12,EJ561_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+151332,38574651,rpl2,EJ561_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+151332,38574652,rps19,EJ561_pgp001,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+151332,38574653,trnI-GAU,EJ561_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574654,EJ561_pgr006,EJ561_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574655,EJ561_pgr005,EJ561_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574656,trnR-ACG,EJ561_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574657,EJ561_pgr003,EJ561_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574658,EJ561_pgr002,EJ561_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+151332,38574659,trnA-UGC,EJ561_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+151332,38574660,trnV-GAC,EJ561_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-

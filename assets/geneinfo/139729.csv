@@ -1,0 +1,58 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+139729,19592256,sdh2,GU34_p30,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20200905,-
+139729,19592262,cob,GU34_p29,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20150626,-
+139729,19592268,nad6,GU34_p28,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20200905,-
+139729,19592269,atp9,GU34_p27,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20201003,-
+139729,19592270,nad3,GU34_p26,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20200905,-
+139729,19592271,nad1,GU34_p25,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20200905,-
+139729,19592272,nad2,GU34_p24,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160910,-
+139729,19592273,sdh4,GU34_p23,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20150626,-
+139729,19592274,nad4,GU34_p22,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160910,-
+139729,19592275,nad5,GU34_p21,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160910,-
+139729,19592276,atp8,GU34_p20,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20200905,-
+139729,19592277,atp6,GU34_p19,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20200905,-
+139729,19592279,ymf39,GU34_p18,-,-,MT,-,ymf39,protein-coding,-,-,-,-,20160910,-
+139729,19592280,cox3,GU34_p17,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160910,-
+139729,19592281,cox2,GU34_p16,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20200905,-
+139729,19592282,cox1,GU34_p15,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160910,-
+139729,19592283,orf729,GU34_p14,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+139729,19592284,cox1,GU34_p13,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160910,-
+139729,19592285,orf693,GU34_p12,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+139729,19592286,cox1,GU34_p11,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20200905,-
+139729,19592287,orf780,GU34_p10,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+139729,19592288,cox1,GU34_p09,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20200905,-
+139729,19592291,orf169,GU34_p08,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+139729,19592295,rps12,GU34_p07,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+139729,19592297,ymf16,GU34_p06,-,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20160910,-
+139729,19592302,rps3,GU34_p05,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20200905,-
+139729,19592303,rpl16,GU34_p04,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20200905,-
+139729,19592305,rps11,GU34_p03,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160910,-
+139729,19592306,sdh3,GU34_p02,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+139729,19592311,nad4L,GU34_p01,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20200905,-
+139729,19622294,trnL(TAA),GU34_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622295,trnS(GCT),GU34_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622296,trnL(TAG),GU34_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622297,trnD(GTC),GU34_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622298,trnH(GTG),GU34_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622299,trnM(CAT),GU34_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622300,trnS(TGA),GU34_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622301,trnQ(TTG),GU34_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622302,trnS(TCA),GU34_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622303,trnG(TCC),GU34_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622304,trnI(GAT),GU34_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622305,trnE(TTC),GU34_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622306,trnM(CAT),GU34_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622307,trnC(ACA),GU34_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622308,trnR(ACG),GU34_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622309,trnV(TAC),GU34_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622310,trnF(GAA),GU34_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622311,trnA(TGC),GU34_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622312,trnY(GTA),GU34_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622313,trnK(TTT),GU34_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622314,trnR(TCT),GU34_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622315,trnC(GCA),GU34_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622316,trnG(GCC),GU34_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622317,trnN(GTT),GU34_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622318,trnP(TGG),GU34_t25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20140624,-
+139729,19622319,rns,GU34_r01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140624,-
+139729,19622320,rn1,GU34_r02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140624,-

@@ -1,0 +1,128 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+182415,26380907,psaI,AT130_gp053,-,-,-,-,PsaI,protein-coding,-,-,-,-,20160309,-
+182415,26380908,atpF,AT130_gp077,-,-,-,-,AtpF,protein-coding,-,-,-,-,20210424,-
+182415,26380909,rbcL,AT130_gp055,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+182415,26380910,atpB,AT130_gp056,-,-,-,-,AtpB,protein-coding,-,-,-,-,20190814,-
+182415,26380911,atpH,AT130_gp076,-,-,-,-,AtpH,protein-coding,-,-,-,-,20160309,-
+182415,26380912,atpI,AT130_gp075,-,-,-,-,AtpI,protein-coding,-,-,-,-,20160309,-
+182415,26380913,rps2,AT130_gp074,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160730,-
+182415,26380914,ndhD,AT130_gp011,-,-,-,-,NdhD,protein-coding,-,-,-,-,20170908,-
+182415,26380915,petA,AT130_gp050,-,-,-,-,PetA,protein-coding,-,-,-,-,20170908,-
+182415,26380916,rps8,AT130_gp027,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160309,-
+182415,26380917,rps16,AT130_gp081,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160309,-
+182415,26380918,rps7,AT130_gp017,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+182415,26380919,trnL-CAA,AT130_gt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380920,trnV-UAC,AT130_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380921,psaC,AT130_gp010,-,-,-,-,PsaC,protein-coding,-,-,-,-,20170908,-
+182415,26380922,ndhG,AT130_gp008,-,-,-,-,NdhG,protein-coding,-,-,-,-,20160309,-
+182415,26380923,rpl32,AT130_gp013,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160309,-
+182415,26380924,ndhI,AT130_gp007,-,-,-,-,NdhI,protein-coding,-,-,-,-,20170908,-
+182415,26380925,rps15,AT130_gp005,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+182415,26380926,ndhH,AT130_gp006,-,-,-,-,NdhH,protein-coding,-,-,-,-,20190525,-
+182415,26380927,ndhK,AT130_gp059,-,-,-,-,NdhK,protein-coding,-,-,-,-,20160924,-
+182415,26380928,ndhC,AT130_gp058,-,-,-,-,NdhC,protein-coding,-,-,-,-,20160309,-
+182415,26380929,psbJ,AT130_gp049,-,-,-,-,PsbJ,protein-coding,-,-,-,-,20160309,-
+182415,26380930,petD,AT130_gp032,-,-,-,-,PetD,protein-coding,-,-,-,-,20160716,-
+182415,26380931,rpoA,AT130_gp031,-,-,-,-,RpoA,protein-coding,-,-,-,-,20170908,-
+182415,26380932,trnW-CCA,AT130_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380933,petG,AT130_gp044,-,-,-,-,PetG,protein-coding,-,-,-,-,20160910,-
+182415,26380934,psbM,AT130_gp069,-,-,-,-,PsbM,protein-coding,-,-,-,-,20160309,-
+182415,26380935,ycf3,AT130_gp062,-,-,-,-,Ycf3,protein-coding,-,-,-,-,20170908,-
+182415,26380936,psaA,AT130_gp063,-,-,-,-,PsaA,protein-coding,-,-,-,-,20160309,-
+182415,26380937,ndhE,AT130_gp009,-,-,-,-,NdhE,protein-coding,-,-,-,-,20160309,-
+182415,26380938,ycf4,AT130_gp052,-,-,-,-,Ycf4,protein-coding,-,-,-,-,20160309,-
+182415,26380939,rpl33,AT130_gp042,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160309,-
+182415,26380940,trnK-UUU,AT130_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380941,psbT,AT130_gp036,-,-,-,-,PsbT,protein-coding,-,-,-,-,20160309,-
+182415,26380942,trnS-UGA,AT130_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380943,psbC,AT130_gp067,-,-,-,-,PsbC,protein-coding,-,-,-,-,20160309,-
+182415,26380944,petL,AT130_gp045,-,-,-,-,PetL,protein-coding,-,-,-,-,20160309,-
+182415,26380945,psbE,AT130_gp046,-,-,-,-,PsbE,protein-coding,-,-,-,-,20170908,-
+182415,26380946,petB,AT130_gp033,-,-,-,-,PetB,protein-coding,-,-,-,-,20170908,-
+182415,26380947,trnS-GCU,AT130_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380948,psbL,AT130_gp048,-,-,-,-,PsbL,protein-coding,-,-,-,-,20160309,-
+182415,26380949,psbI,AT130_gp079,-,-,-,-,PsbI,protein-coding,-,-,-,-,20160309,-
+182415,26380950,psbF,AT130_gp047,-,-,-,-,PsbF,protein-coding,-,-,-,-,20160325,-
+182415,26380951,trnD-GUC,AT130_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380952,psbH,AT130_gp034,-,-,-,-,PsbH,protein-coding,-,-,-,-,20160309,-
+182415,26380953,psbN,AT130_gp035,-,-,-,-,PsbN,protein-coding,-,-,-,-,20160325,-
+182415,26380954,trnG-UCC,AT130_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380955,accD,AT130_gp054,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20160309,-
+182415,26380956,rpl16,AT130_gp025,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+182415,26380957,rps3,AT130_gp024,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+182415,26380958,rpl23,AT130_gp020,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160309,-
+182415,26380959,rps12,AT130_gp038,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+182415,26380960,rps19,AT130_gp022,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160309,-
+182415,26380961,trnI-CAU,AT130_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380962,trnL-UAG,AT130_gt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380963,rps18,AT130_gp041,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160309,-
+182415,26380964,infA,AT130_gp028,-,-,-,-,InfA,protein-coding,-,-,-,-,20160910,-
+182415,26380965,rps11,AT130_gp030,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160309,-
+182415,26380966,trnC-GCA,AT130_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380967,rpoB,AT130_gp071,-,-,-,-,RpoB,protein-coding,-,-,-,-,20210424,-
+182415,26380968,rpoC1,AT130_gp072,-,-,-,-,RpoC1,protein-coding,-,-,-,-,20170908,-
+182415,26380969,rpl36,AT130_gp029,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160309,-
+182415,26380970,psbB,AT130_gp037,-,-,-,-,PsbB,protein-coding,-,-,-,-,20160309,-
+182415,26380971,psaB,AT130_gp064,-,-,-,-,PsaB,protein-coding,-,-,-,-,20160309,-
+182415,26380972,ycf1,AT130_gp004,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20160730,-
+182415,26380973,trnQ-UUG,AT130_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380974,rpl20,AT130_gp040,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160730,-
+182415,26380975,rpl2,AT130_gp021,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+182415,26380976,rpoC2,AT130_gp073,-,-,-,-,RpoC2,protein-coding,-,-,-,-,20210424,-
+182415,26380977,rpl22,AT130_gp023,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160730,-
+182415,26380978,trnT-UGU,AT130_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380979,ycf15,AT130_gp016,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20160309,-
+182415,26380980,ndhB,AT130_gp001,-,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+182415,26380981,rpl14,AT130_gp026,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160309,-
+182415,26380982,trnI-GAU,AT130_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380983,trnV-GAC,AT130_gt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380984,rrn4.5,AT130_gr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26380985,trnA-UGC,AT130_gt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380986,rrn5,AT130_gr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26380987,rrn23,AT130_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26380988,trnR-ACG,AT130_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380989,rrn4.5,AT130_gr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26380990,rrn23,AT130_gr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26380991,trnI-GAU,AT130_gt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380992,petN,AT130_gp070,-,-,-,-,PetN,protein-coding,-,-,-,-,20160309,-
+182415,26380993,trnY-GUA,AT130_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380994,trnT-GGU,AT130_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380995,ndhJ,AT130_gp060,-,-,-,-,NdhJ,protein-coding,-,-,-,-,20160309,-
+182415,26380996,rps14,AT130_gp065,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160325,-
+182415,26380997,trnR-UCU,AT130_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380998,trnfM-CAU,AT130_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26380999,psbA,AT130_gp083,-,-,-,-,PsbA,protein-coding,-,-,-,-,20160730,-
+182415,26381000,ycf2,AT130_gp019,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160730,-
+182415,26381001,trnA-UGC,AT130_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381002,rrn16,AT130_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26381003,matK,AT130_gp082,-,-,-,-,maturase K,protein-coding,-,-,-,-,20190814,-
+182415,26381004,ndhB,AT130_gp018,-,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+182415,26381005,ccsA,AT130_gp012,-,-,-,-,CcsA,protein-coding,-,-,-,-,20160309,-
+182415,26381006,trnF-GAA,AT130_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381007,atpE,AT130_gp057,-,-,-,-,AtpE,protein-coding,-,-,-,-,20170908,-
+182415,26381008,ycf1,AT130_gp015,-,-,-,-,Ycf1,protein-coding,-,-,-,-,20160730,-
+182415,26381009,trnR-ACG,AT130_gt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381010,psaJ,AT130_gp043,-,-,-,-,PsaJ,protein-coding,-,-,-,-,20160325,-
+182415,26381011,psbK,AT130_gp080,-,-,-,-,PsbK,protein-coding,-,-,-,-,20160309,-
+182415,26381012,trnN-GUU,AT130_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381013,rrn5,AT130_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26381014,atpA,AT130_gp078,-,-,-,-,AtpA,protein-coding,-,-,-,-,20170908,-
+182415,26381015,trnG-UCC,AT130_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381016,rps4,AT130_gp061,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+182415,26381017,psbZ,AT130_gp066,-,-,-,-,PsbZ,protein-coding,-,-,-,-,20160309,-
+182415,26381018,psbD,AT130_gp068,-,-,-,-,PsbD,protein-coding,-,-,-,-,20160813,-
+182415,26381019,trnL-UAA,AT130_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381020,rrn16,AT130_gr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20151208,-
+182415,26381021,ycf15,AT130_gp003,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20160309,-
+182415,26381022,trnM-CAU,AT130_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381023,trnP-UGG,AT130_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381024,trnE-UUC,AT130_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381025,ndhF,AT130_gp014,-,-,-,-,NdhF,protein-coding,-,-,-,-,20210424,-
+182415,26381026,trnN-GUU,AT130_gt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381027,trnV-GAC,AT130_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381028,rps7,AT130_gp002,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+182415,26381029,trnL-CAA,AT130_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381030,trnS-GGA,AT130_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381031,cemA,AT130_gp051,-,-,-,-,CemA,protein-coding,-,-,-,-,20160309,-
+182415,26381032,trnH-GUG,AT130_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20151208,-
+182415,26381033,rps12,AT130_gp039,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-

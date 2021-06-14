@@ -1,0 +1,172 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+163516,19740326,sufB,EX62_p002,-,-,-,-,iron-sulfur cluster formation ABC transporter,protein-coding,-,-,-,-,20160827,-
+163516,19740327,rbcL,EX62_p003,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160325,-
+163516,19740328,rbcS,EX62_p004,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160827,-
+163516,19740329,atpI,EX62_p005,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+163516,19740330,atpH,EX62_p006,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20160325,-
+163516,19740331,atpG,EX62_p007,-,-,-,-,ATP synthase CF0 subunit II,protein-coding,-,-,-,-,20160827,-
+163516,19740332,atpF,EX62_p008,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20160827,-
+163516,19740333,atpD,EX62_p009,-,-,-,-,ATP synthase CF1 subunit delta,protein-coding,-,-,-,-,20150626,-
+163516,19740334,atpA,EX62_p010,-,-,-,-,ATP synthase CF1 subunit alpha,protein-coding,-,-,-,-,20160827,-
+163516,19740335,psbZ,EX62_p011,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+163516,19740336,ycf12,EX62_p012,-,-,-,-,PSII reaction center protein ycf12,protein-coding,-,-,-,-,20150626,-
+163516,19740338,rpl35,EX62_p132,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20150626,-
+163516,19740339,rpl20,EX62_p131,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160827,-
+163516,19740341,psaM,EX62_p130,-,-,-,-,photosystem I reaction center subunit M,protein-coding,-,-,-,-,20150626,-
+163516,19740342,chlI,EX62_p129,-,-,-,-,Mg chelatase subunit e,protein-coding,-,-,-,-,20150626,-
+163516,19740343,secG,EX62_p128,-,-,-,-,preprotein-translocase subunit g,protein-coding,-,-,-,-,20160827,-
+163516,19740345,psaD,EX62_p127,-,-,-,-,ferredoxin-binding,protein-coding,-,-,-,ferredoxin-binding|photosystem I reaction center subunit II,20150626,-
+163516,19740347,petB,EX62_p126,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+163516,19740348,petD,EX62_p125,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,-,20160827,-
+163516,19740349,rpl12,EX62_p124,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160827,-
+163516,19740350,rpl1,EX62_p123,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20160827,-
+163516,19740351,rpl11,EX62_p122,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20150626,-
+163516,19740353,dnaB,EX62_p121,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740356,rps14,EX62_p120,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+163516,19740357,ftsH,EX62_p119,-,-,-,-,cell division protein FTSH,protein-coding,-,-,-,-,20160827,-
+163516,19740358,psaE,EX62_p118,-,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,-,20150626,-
+163516,19740360,psbX,EX62_p117,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20160827,-
+163516,19740361,ycf66,EX62_p116,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740362,psbV,EX62_p115,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,-,20150626,-
+163516,19740363,petJ,EX62_p114,-,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20160827,-
+163516,19740367,rpl19,EX62_p113,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20160325,-
+163516,19740368,petF,EX62_p112,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160827,-
+163516,19740369,petA,EX62_p111,-,-,-,-,apocytochrome f,protein-coding,-,-,-,-,20160827,-
+163516,19740370,tatC,EX62_p110,-,-,-,-,Sec-independent protein translocase component TatC,protein-coding,-,-,-,-,20160325,-
+163516,19740371,atpE,EX62_p109,-,-,-,-,ATP synthase CF1 subunit epsilon,protein-coding,-,-,-,-,20150626,-
+163516,19740372,atpB,EX62_p108,-,-,-,-,ATP synthase CF1 subunit beta,protein-coding,-,-,-,-,20160827,-
+163516,19740373,ycf3,EX62_p107,-,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,-,20160827,-
+163516,19740374,rps18,EX62_p106,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+163516,19740375,rpl33,EX62_p105,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+163516,19740376,rps20,EX62_p104,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20150626,-
+163516,19740377,rpoB,EX62_p103,-,-,-,-,RNA polymerase b-subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740378,rpoC1,EX62_p102,-,-,-,-,RNA polymerase b'-subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740379,rpoC2,EX62_p101,-,-,-,-,RNA polymerase b''-subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740380,rps2,EX62_p100,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+163516,19740382,petG,EX62_p099,-,-,-,-,cytochrome b6/f complex subunit 5,protein-coding,-,-,-,-,20160827,-
+163516,19740383,psbK,EX62_p098,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160827,-
+163516,19740384,psaI,EX62_p097,-,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,-,20150626,-
+163516,19740385,psbD,EX62_p096,-,-,-,-,photosystem II reaction center protein D2,protein-coding,-,-,-,-,20160827,-
+163516,19740386,psbC,EX62_p095,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+163516,19740387,ycf90,EX62_p094,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740388,acpP,EX62_p093,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150626,-
+163516,19740389,ycf45,EX62_p092,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740390,psaA,EX62_p091,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160325,-
+163516,19740391,psaB,EX62_p090,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+163516,19740392,psbB,EX62_p089,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+163516,19740393,psbT,EX62_p088,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+163516,19740394,psbN,EX62_p087,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160827,-
+163516,19740395,psbH,EX62_p086,-,-,-,-,photosystem II 10 kDa phosphoprotein,protein-coding,-,-,-,-,20150626,-
+163516,19740396,petN,EX62_p085,-,-,-,-,cytochrome b6-f complex subunit 8,protein-coding,-,-,-,-,20150626,-
+163516,19740397,petM,EX62_p084,-,-,-,-,cytochrome b6-f complex subunit 7,protein-coding,-,-,-,-,20160827,-
+163516,19740401,ycf33,EX62_p083,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740402,ilvB,EX62_p082,-,-,-,-,acetohydroxyacid synthetase large subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740405,psbJ,EX62_p081,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+163516,19740406,psbL,EX62_p080,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+163516,19740407,psbF,EX62_p079,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20160325,-
+163516,19740408,psbE,EX62_p078,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20180707,-
+163516,19740410,ycf4,EX62_p077,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160325,-
+163516,19740411,petL,EX62_p076,-,-,-,-,cytochrome b6-f complex subunit 6,protein-coding,-,-,-,-,20150626,-
+163516,19740412,psaL,EX62_p075,-,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,-,20150626,-
+163516,19740413,cbbX,EX62_p074,-,-,-,-,rubisco expression protein,protein-coding,-,-,-,-,20160827,-
+163516,19740414,ycf39,EX62_p073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740415,ycf41,EX62_p072,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740416,psbI,EX62_p071,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+163516,19740417,psaF,EX62_p070,-,-,-,-,plastocyanin-binding,protein-coding,-,-,-,plastocyanin-binding|photosystem I reaction center subunit III,20150626,-
+163516,19740418,psaJ,EX62_p069,-,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,-,20150626,-
+163516,19740420,ycf89,EX62_p068,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+163516,19740427,psaC,EX62_p067,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20180707,-
+163516,19740428,ccsA,EX62_p066,-,-,-,-,heme attachment to plastid cytochrome c,protein-coding,-,-,-,-,20150626,-
+163516,19740429,rps6,EX62_p065,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20160827,-
+163516,19740430,rpl34,EX62_p064,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20160325,-
+163516,19740431,secA,EX62_p063,-,-,-,-,preprotein-translocase subunit a,protein-coding,-,-,-,-,20160827,-
+163516,19740432,rpl27,EX62_p062,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20150626,-
+163516,19740433,rpl21,EX62_p061,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20160325,-
+163516,19740434,rbcR,EX62_p060,-,-,-,-,rubisco operon transcription regulator,protein-coding,-,-,-,-,20160827,-
+163516,19740435,dnaK,EX62_p059,-,-,-,-,Hsp70-type chaperone,protein-coding,-,-,-,-,20150626,-
+163516,19740436,rpl3,EX62_p058,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20150626,-
+163516,19740437,rpl4,EX62_p057,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20150626,-
+163516,19740438,rpl23,EX62_p056,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+163516,19740439,rpl2,EX62_p055,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160827,-
+163516,19740440,rps19,EX62_p054,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+163516,19740441,rpl22,EX62_p053,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160827,-
+163516,19740442,rps3,EX62_p052,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160827,-
+163516,19740443,rpl16,EX62_p051,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+163516,19740444,rpl29,EX62_p050,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20160827,-
+163516,19740445,rps17,EX62_p049,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20150626,-
+163516,19740446,rpl14,EX62_p048,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+163516,19740447,rpl24,EX62_p047,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,-,20160827,-
+163516,19740448,rpl5,EX62_p046,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160827,-
+163516,19740449,rps8,EX62_p045,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+163516,19740450,rpl6,EX62_p044,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20160827,-
+163516,19740451,rpl18,EX62_p043,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20160827,-
+163516,19740452,rps5,EX62_p042,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20160827,-
+163516,19740453,secY,EX62_p041,-,-,-,-,SecY-type transporter protein,protein-coding,-,-,-,-,20160827,-
+163516,19740454,rpl36,EX62_p040,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+163516,19740455,rps13,EX62_p039,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20160827,-
+163516,19740456,rps11,EX62_p038,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+163516,19740457,rpoA,EX62_p037,-,-,-,-,RNA polymerase a-subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740458,rpl13,EX62_p036,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20160827,-
+163516,19740459,rps9,EX62_p035,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20150626,-
+163516,19740460,rpl31,EX62_p034,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20150626,-
+163516,19740461,rps12,EX62_p033,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+163516,19740462,rps7,EX62_p032,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+163516,19740463,tufA,EX62_p031,-,-,-,-,translation elongation factor Tu,protein-coding,-,-,-,-,20160827,-
+163516,19740464,rps10,EX62_p030,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20150626,-
+163516,19740465,ilvH,EX62_p029,-,-,-,-,acetohydroxyacid synthetase small subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740468,clpC,EX62_p028,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740469,thiG,EX62_p027,-,-,-,-,thiamine biosynthesis protein G,protein-coding,-,-,-,-,20160827,-
+163516,19740471,rps16,EX62_p026,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+163516,19740472,groEL,EX62_p025,-,-,-,-,60-kDa chaperonin,protein-coding,-,-,-,-,20160827,-
+163516,19740475,psb28,EX62_p024,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,-,20150626,-
+163516,19740476,syfB,EX62_p023,-,-,-,-,phenylalanine-tRNA ligase beta subunit,protein-coding,-,-,-,-,20160827,-
+163516,19740477,thiS,EX62_p022,-,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,-,20150626,-
+163516,19740479,rps4,EX62_p021,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160827,-
+163516,19740480,psbY,EX62_p020,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20150626,-
+163516,19740481,rpl32,EX62_p019,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+163516,19740483,ycf35,EX62_p018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740484,ycf46,EX62_p017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+163516,19740485,ccs1,EX62_p016,-,-,-,-,c-type cytochrome biogenesis protein,protein-coding,-,-,-,-,20150626,-
+163516,19740486,psbA,EX62_p015,-,-,-,-,photosystem II reaction center protein D1,protein-coding,-,-,-,-,20160827,-
+163516,19740487,psaC,EX62_p014,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20180707,-
+163516,19740494,ycf89,EX62_p013,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+163516,19740496,sufC,EX62_p001,-,-,-,-,iron-sulfur cluster formation ABC transporter,protein-coding,-,-,-,-,20160325,-
+163516,19742684,trnK-UUU,EX62_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742685,trnG-GCC,EX62_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742686,trnfM-CAU,EX62_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742687,trnS-UGA,EX62_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742688,trnW-CCA,EX62_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742689,trnF-GAA,EX62_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742690,ffs,EX62_s002,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20140703,-
+163516,19742691,trnR-UCU,EX62_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742692,trnR-CCG,EX62_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742693,ssrA,EX62_s001,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20140703,-
+163516,19742694,trnM-CAU,EX62_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742695,trnT-UGU,EX62_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742696,trnD-GUC,EX62_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742697,trnS-GCU,EX62_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742698,trnI-CAU,EX62_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742699,trnY-GUA,EX62_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742700,trnV-UAC,EX62_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742701,trnG-UCC,EX62_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742702,trnE-UUC,EX62_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742703,trnP-UGG,EX62_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742704,rns,EX62_r006,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742705,trnI-GAU,EX62_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742706,trnA-UGC,EX62_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742707,rnl,EX62_r005,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742708,rrn5,EX62_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742709,trnL-UAA,EX62_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742710,trnC-GCA,EX62_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742711,trnN-GUU,EX62_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742712,trnR-ACG,EX62_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742713,trnQ-UUG,EX62_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742714,trnH-GUG,EX62_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742715,trnL-UAG,EX62_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742716,rrn5,EX62_r003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742717,rnl,EX62_r002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742718,trnA-UGC,EX62_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742719,trnI-GAU,EX62_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742720,rns,EX62_r001,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+163516,19742721,trnP-UGG,EX62_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+163516,19742722,trnE-UUC,EX62_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-

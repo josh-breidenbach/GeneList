@@ -1,0 +1,287 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+172972,36948876,ATP6,DR410_mgp01,GrspinCDS001,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20180721,-
+172972,36948877,nad4L,DR410_mgp14,GrspinCDS021,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20180721,-
+172972,36948878,nad4,DR410_mgp04,GrspinCDS004,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20180721,-
+172972,36948879,trnD,DR410_mgt12,Grspin_t12,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948880,nad1,DR410_mgp07,GrspinCDS007,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20180721,-
+172972,36948881,sdhD,DR410_mgp05,GrspinCDS005,-,MT,-,SdhD,protein-coding,-,-,-,SdhD,20180711,-
+172972,36948882,rpl20,DR410_mgp13,GrspinCDS022,-,MT,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20180721,-
+172972,36948883,trnL1,DR410_mgt09,Grspin_t09,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948884,nad3,DR410_mgp08,GrspinCDS008,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20180721,-
+172972,36948885,cox2,DR410_mgp18,GrspinCDS017,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20180721,-
+172972,36948886,cox1,DR410_mgp17,GrspinCDS018,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20180721,-
+172972,36948887,atp8,DR410_mgp02,GrspinCDS002,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20180721,-
+172972,36948888,trnH,DR410_mgt06,Grspin_t06,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948889,trnK,DR410_mgt15,Grspin_t15,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948890,LSU,DR410_mgr02,Grspin_r02,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+172972,36948891,trnL2,DR410_mgt08,Grspin_t08,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948892,cox3,DR410_mgp19,GrspinCDS016,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20180721,-
+172972,36948893,trnW,DR410_mgt23,Grspin_t23,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948894,rps3,DR410_mgp15,GrspinCDS020,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20180711,-
+172972,36948895,nad5,DR410_mgp03,GrspinCDS003,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20180721,-
+172972,36948896,sdhB,DR410_mgp23,GrspinCDS012,-,MT,-,SdhB,protein-coding,-,-,-,SdhB,20180721,-
+172972,36948897,secY,DR410_mgp11,GrspinCDS024,-,MT,-,SecY,protein-coding,-,-,-,SecY,20180721,-
+172972,36948898,rps11,DR410_mgp09,GrspinCDS009,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20180721,-
+172972,36948899,trnM1,DR410_mgt01,Grspin_t01,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948900,SSU,DR410_mgr01,Grspin_r01,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+172972,36948901,nad2,DR410_mgp06,GrspinCDS006,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20180721,-
+172972,36948902,trnM2,DR410_mgt13,Grspin_t13,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948903,trnP,DR410_mgt03,Grspin_t03,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948904,trnA,DR410_mgt22,Grspin_t22,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948905,trnF,DR410_mgt05,Grspin_t05,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948906,cob,DR410_mgp21,GrspinCDS014,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20180721,-
+172972,36948907,trnQ,DR410_mgt10,Grspin_t10,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948908,trnR2,DR410_mgt20,Grspin_t20,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948909,trnV,DR410_mgt17,Grspin_t17,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948910,trnC,DR410_mgt02,Grspin_t02,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948911,orf143,DR410_mgp10,GrspinORF143,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20180711,-
+172972,36948912,trnS1,DR410_mgt04,Grspin_t04,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948913,trnG1,DR410_mgt07,Grspin_t07,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948914,ymf39,DR410_mgp20,GrspinCDS015,-,MT,-,Ymf39,protein-coding,-,-,-,Ymf39,20180721,-
+172972,36948915,trnE,DR410_mgt14,Grspin_t14,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948916,trnR1,DR410_mgt16,Grspin_t16,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948917,trnN,DR410_mgt18,Grspin_t18,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948918,ATP9,DR410_mgp25,GrspinCDS010,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20190604,-
+172972,36948919,trnG2,DR410_mgt11,Grspin_t11,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948920,sdhC,DR410_mgp24,GrspinCDS011,-,MT,-,SdhC,protein-coding,-,-,-,SdhC,20180721,-
+172972,36948921,nad6,DR410_mgp22,GrspinCDS013,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20180721,-
+172972,36948922,rps12,DR410_mgp12,GrspinCDS023,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20180721,-
+172972,36948923,trnS2,DR410_mgt21,Grspin_t21,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,36948924,rpl16,DR410_mgp16,GrspinCDS019,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20180721,-
+172972,36948925,trnY,DR410_mgt19,Grspin_t19,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152087,apcE,G7X00_pgp001,-,-,-,-,phycobilisom linker polypeptide,protein-coding,-,-,-,phycobilisom linker polypeptide,20210313,-
+172972,44152088,ycf61,G7X00_pgp165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152089,rps2,G7X00_pgp014,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210313,-
+172972,44152090,rpoC1,G7X00_pgp012,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210313,-
+172972,44152091,trnA,G7X00_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152092,trnE,G7X00_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152093,apcA,G7X00_pgp002,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,allophycocyanin alpha subunit,20210403,-
+172972,44152094,trnF,G7X00_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152095,accB,G7X00_pgp040,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20210313,-
+172972,44152096,psaA,G7X00_pgp041,-,-,-,-,photosystem I P700 chlorophyll A apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll A apoprotein A1,20210313,-
+172972,44152097,rps18,G7X00_pgp008,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210313,-
+172972,44152098,mat,G7X00_pgp195,-,-,-,-,group II intron reverse transcriptase maturase protein,protein-coding,-,-,-,group II intron reverse transcriptase maturase protein,20200314,-
+172972,44152099,psbW,G7X00_pgp092,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,photosystem II protein W,20210313,-
+172972,44152100,ycf63,G7X00_pgp149,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152101,rpoC2,G7X00_pgp013,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210313,-
+172972,44152102,psaE,G7X00_pgp083,-,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,photosystem I reaction center subunit IV,20210313,-
+172972,44152103,trnG,G7X00_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152104,ycf33,G7X00_pgp086,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152105,ORF149,G7X00_pgp089,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152106,trnS,G7X00_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152107,trnR,G7X00_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152108,ycf21,G7X00_pgp161,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152109,ycf38,G7X00_pgp078,-,-,-,-,ABC transporter,protein-coding,-,-,-,ABC transporter,20210313,-
+172972,44152110,ycf16,G7X00_pgp022,-,-,-,-,ABC transporter subunit,protein-coding,-,-,-,ABC transporter subunit,20210313,-
+172972,44152111,ompR,G7X00_pgp115,-,-,-,-,ompR transcriptional regulator,protein-coding,-,-,-,ompR transcriptional regulator,20210313,-
+172972,44152112,psbA,G7X00_pgp123,Grc000024,-,-,-,photosystem II Q,protein-coding,-,-,-,photosystem II Q,20210123,-
+172972,44152113,rpl34,G7X00_pgp145,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210313,-
+172972,44152114,rbcS,G7X00_pgp186,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20210313,-
+172972,44152115,ycf17,G7X00_pgp112,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152116,orf245,G7X00_pgp024,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152117,ycf3,G7X00_pgp006,-,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,photosystem I assembly protein ycf3,20210313,-
+172972,44152118,trnR,G7X00_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152119,ORF220,G7X00_pgp197,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152120,trpG,G7X00_pgp119,-,-,-,-,anthranilate synthase component II,protein-coding,-,-,-,anthranilate synthase component II,20210313,-
+172972,44152121,trnQ,G7X00_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152122,rps5,G7X00_pgp064,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210313,-
+172972,44152123,rps7,G7X00_pgp074,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210313,-
+172972,44152124,ycf53,G7X00_pgp133,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152125,ycf35,G7X00_pgp122,Grc000025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152126,trnW,G7X00_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152127,psbC,G7X00_pgp113,-,-,-,-,photosystem II 44 KD apoprotein,protein-coding,-,-,-,photosystem II 44 KD apoprotein,20210313,-
+172972,44152128,petN,G7X00_pgp036,-,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,cytochrome b6/f complex subunit 8,20210123,-
+172972,44152129,psaM,G7X00_pgp147,-,-,-,-,photosystem I reaction center subunit XII,protein-coding,-,-,-,photosystem I reaction center subunit XII,20201010,-
+172972,44152130,odpB,G7X00_pgp027,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component beta subunit,20210313,-
+172972,44152131,psbX,G7X00_pgp138,-,-,-,-,photosystem II reaction center protein X,protein-coding,-,-,-,photosystem II reaction center protein X,20210313,-
+172972,44152132,ycf54,G7X00_pgp131,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152133,ycf22,G7X00_pgp169,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152134,ycf12,G7X00_pgp157,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152135,odpA,G7X00_pgp028,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,20210313,-
+172972,44152136,petA,G7X00_pgp026,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210313,-
+172972,44152137,ORF109,G7X00_pgp201,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152138,rps11,G7X00_pgp068,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210313,-
+172972,44152139,tatC,G7X00_pgp025,-,-,-,-,sec-independent protein translocase-like protein,protein-coding,-,-,-,sec-independent protein translocase-like protein,20210313,-
+172972,44152140,psbY,G7X00_pgp129,-,-,-,-,photosystem II core complex protein Y,protein-coding,-,-,-,photosystem II core complex protein Y,20210320,-
+172972,44152141,psaK,G7X00_pgp171,-,-,-,-,photosystem I reaction center subunit X,protein-coding,-,-,-,photosystem I reaction center subunit X,20210313,-
+172972,44152142,petF,G7X00_pgp077,-,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20210313,-
+172972,44152143,psbV,G7X00_pgp136,-,-,-,-,photosystem II cytochrome c550 oxygen-evolving complex component,protein-coding,-,-,-,photosystem II cytochrome c550 oxygen-evolving complex component,20210313,-
+172972,44152144,trnC,G7X00_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152145,trnM,G7X00_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152146,trnM,G7X00_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152147,ycf60,G7X00_pgp117,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152148,rpl23,G7X00_pgp050,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210313,-
+172972,44152149,trnK,G7X00_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152150,rnpB,G7X00_pgs001,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20200909,-
+172972,44152151,ycf24,G7X00_pgp023,-,-,-,-,ABC transporter subunit,protein-coding,-,-,-,ABC transporter subunit,20210313,-
+172972,44152152,trnV,G7X00_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152153,atpH,G7X00_pgp017,Grc000142,-,-,-,ATP synthase CF0 C chain subunit III,protein-coding,-,-,-,ATP synthase CF0 C chain subunit III,20201003,-
+172972,44152154,ccs1,G7X00_pgp120,-,-,-,-,c-type cytochrome biogenesis protein,protein-coding,-,-,-,c-type cytochrome biogenesis protein,20210313,-
+172972,44152155,psbD,G7X00_pgp114,-,-,-,-,photosystem II D2 reaction center protein,protein-coding,-,-,-,photosystem II D2 reaction center protein,20210123,-
+172972,44152156,ycf55,G7X00_pgp132,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152157,trnL,G7X00_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152158,rpl12,G7X00_pgp100,-,-,-,-,50S ribosomal protein L12,protein-coding,-,-,-,50S ribosomal protein L12,20210313,-
+172972,44152159,rpl35,G7X00_pgp031,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210313,-
+172972,44152160,tsf,G7X00_pgp015,Grc000140,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20210313,-
+172972,44152161,nblA,G7X00_pgp175,-,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,phycobilisome degradation protein,20210313,-
+172972,44152162,rpl21,G7X00_pgp126,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210313,-
+172972,44152163,cemA,G7X00_pgp196,-,-,-,-,heme binding protein cemA,protein-coding,-,-,-,heme binding protein cemA,20210313,-
+172972,44152164,ycf29,G7X00_pgp096,-,-,-,-,tctD transcriptional regulator,protein-coding,-,-,-,tctD transcriptional regulator,20210313,-
+172972,44152165,rpl22,G7X00_pgp053,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210313,-
+172972,44152166,ntcA,G7X00_pgp097,-,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,global nitrogen transcriptional regulator,20210313,-
+172972,44152167,trnH,G7X00_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152168,rpl3,G7X00_pgp048,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210313,-
+172972,44152169,dnaK,G7X00_pgp047,-,-,-,-,Hsp70-type chaperone,protein-coding,-,-,-,Hsp70-type chaperone,20210313,-
+172972,44152170,atpI,G7X00_pgp016,Grc000141,-,-,-,ATP synthase CF0 A chain precursor subunit IV,protein-coding,-,-,-,ATP synthase CF0 A chain precursor subunit IV,20210313,-
+172972,44152171,rps6,G7X00_pgp116,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210313,-
+172972,44152172,ycf80,G7X00_pgp180,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152173,pbsA,G7X00_pgp032,-,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20210313,-
+172972,44152174,ORF197,G7X00_pgp194,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152175,trnG,G7X00_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152176,atpA,G7X00_pgp021,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20210313,-
+172972,44152177,thiG,G7X00_pgp118,-,-,-,-,thiamin biosynthesis protein,protein-coding,-,-,-,thiamin biosynthesis protein,20210313,-
+172972,44152178,psaJ,G7X00_pgp141,-,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,photosystem I reaction center subunit IX,20210313,-
+172972,44152179,ycf19,G7X00_pgp110,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152180,petL,G7X00_pgp192,-,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,cytochrome b6-f complex subunit VI,20200314,-
+172972,44152181,atpD,G7X00_pgp020,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,ATP synthase CF1 delta subunit,20210313,-
+172972,44152182,psaF,G7X00_pgp142,-,-,-,-,photosystem I reaction center subunit III,protein-coding,-,-,-,photosystem I reaction center subunit III,20210313,-
+172972,44152183,rps4,G7X00_pgp181,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210313,-
+172972,44152184,rps8,G7X00_pgp061,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210313,-
+172972,44152185,rpl24,G7X00_pgp059,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210313,-
+172972,44152186,psaC,G7X00_pgp167,-,-,-,-,photosystem I reaction center subunit VII,protein-coding,-,-,-,photosystem I reaction center subunit VII,20210123,-
+172972,44152187,cpeA,G7X00_pgp173,-,-,-,-,R-phycoerythrin alpha subunit,protein-coding,-,-,-,R-phycoerythrin alpha subunit,20210313,-
+172972,44152188,secA,G7X00_pgp160,-,-,-,-,preprotein translocase secA subunit,protein-coding,-,-,-,preprotein translocase secA subunit,20210313,-
+172972,44152189,infC,G7X00_pgp182,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,translation initiation factor 3,20210313,-
+172972,44152190,cpcA,G7X00_pgp163,-,-,-,-,C-phycocyanin alpha subunit,protein-coding,-,-,-,C-phycocyanin alpha subunit,20210313,-
+172972,44152191,rpl18,G7X00_pgp063,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210313,-
+172972,44152192,infB,G7X00_pgp007,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,translation initiation factor 2,20210313,-
+172972,44152193,ycf20,G7X00_pgp177,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152194,ycf45,G7X00_pgp039,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152195,trnM,G7X00_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152196,ccsA,G7X00_pgp172,-,-,-,-,c-type cytochrome synthesis protein,protein-coding,-,-,-,c-type cytochrome synthesis protein,20210313,-
+172972,44152197,petJ,G7X00_pgp135,-,-,-,-,cytochrome c553,protein-coding,-,-,-,cytochrome c553,20210313,-
+172972,44152198,pgmA,G7X00_pgp162,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,phosphoglycerate mutase,20210313,-
+172972,44152199,groEL,G7X00_pgp106,-,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,60 kDa chaperonin,20210313,-
+172972,44152200,apcB,G7X00_pgp003,-,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,allophycocyanin beta subunit,20210403,-
+172972,44152201,atpE,G7X00_pgp004,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20210313,-
+172972,44152202,fabH,G7X00_pgp139,-,-,-,-,beta-ketoacyl-ACP synthase III,protein-coding,-,-,-,beta-ketoacyl-ACP synthase III,20210313,-
+172972,44152203,petB,G7X00_pgp098,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20210313,-
+172972,44152204,ycf23,G7X00_pgp168,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152205,atpF,G7X00_pgp019,-,-,-,-,ATP synthase CF0 B chain subunit I,protein-coding,-,-,-,ATP synthase CF0 B chain subunit I,20210313,-
+172972,44152206,rps12,G7X00_pgp073,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210313,-
+172972,44152207,trnP,G7X00_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152208,moeB,G7X00_pgp103,-,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,molybdopterin biosynthesis protein,20210313,-
+172972,44152209,ORF446,G7X00_pgp198,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152210,trnT,G7X00_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152211,syfB,G7X00_pgp093,-,-,-,-,phenylalanine tRNA synthetase,protein-coding,-,-,-,phenylalanine tRNA synthetase,20210313,-
+172972,44152212,rpoA,G7X00_pgp069,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210313,-
+172972,44152213,rpl1,G7X00_pgp101,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210313,-
+172972,44152214,ycf59,G7X00_pgp037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152215,cbbX,G7X00_pgp185,-,-,-,-,putative rubisco expression protein,protein-coding,-,-,-,putative rubisco expression protein,20210313,-
+172972,44152216,rpl13,G7X00_pgp070,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210313,-
+172972,44152217,rps3,G7X00_pgp054,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210313,-
+172972,44152218,rpl19,G7X00_pgp088,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210313,-
+172972,44152219,atpB,G7X00_pgp005,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20210313,-
+172972,44152220,rpl5,G7X00_pgp060,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210313,-
+172972,44152221,petD,G7X00_pgp099,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4,20210313,-
+172972,44152222,trnL,G7X00_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152223,rps13,G7X00_pgp067,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210313,-
+172972,44152224,rpl36,G7X00_pgp066,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210123,-
+172972,44152225,rpl31,G7X00_pgp072,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20210313,-
+172972,44152226,trnV,G7X00_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152227,rps17,G7X00_pgp057,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210313,-
+172972,44152228,preA,G7X00_pgp029,-,-,-,-,prenyl transferase,protein-coding,-,-,-,prenyl transferase,20210313,-
+172972,44152229,psaI,G7X00_pgp155,-,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,photosystem I reaction center subunit VIII,20210403,-
+172972,44152230,clpC,G7X00_pgp091,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,Clp protease ATP binding subunit,20210313,-
+172972,44152231,rps19,G7X00_pgp052,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210313,-
+172972,44152232,carA,G7X00_pgp134,-,-,-,-,carbamoyl phosphate synthase small subunit,protein-coding,-,-,-,carbamoyl phosphate synthase small subunit,20210313,-
+172972,44152233,rbcL,G7X00_pgp187,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210313,-
+172972,44152234,rbcR,G7X00_pgp130,-,-,-,-,lysR transcriptional regulator,protein-coding,-,-,-,lysR transcriptional regulator,20210313,-
+172972,44152235,tufA,G7X00_pgp075,-,-,-,-,translation elongation factor Tu,protein-coding,-,-,-,translation elongation factor Tu,20210313,-
+172972,44152236,rpl6,G7X00_pgp062,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210313,-
+172972,44152237,rpl27,G7X00_pgp125,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210313,-
+172972,44152238,rrf,G7X00_pgr003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+172972,44152239,psbI,G7X00_pgp200,-,-,-,-,photosystem II reaction center protein I,protein-coding,-,-,-,photosystem II reaction center protein I,20210116,-
+172972,44152240,rpl4,G7X00_pgp049,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210313,-
+172972,44152241,psaB,G7X00_pgp042,-,-,-,-,photosystem I P700 chlorophyll A apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll A apoprotein A2,20210313,-
+172972,44152242,ORF160,G7X00_pgp107,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152243,rps10,G7X00_pgp076,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210313,-
+172972,44152244,rps16,G7X00_pgp109,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210313,-
+172972,44152245,rpoB,G7X00_pgp011,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210313,-
+172972,44152246,rpl2,G7X00_pgp051,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210313,-
+172972,44152247,rne,G7X00_pgp124,-,-,-,-,ribonuclease E,protein-coding,-,-,-,ribonuclease E,20210313,-
+172972,44152248,accA,G7X00_pgp170,-,-,-,-,acetyl-CoA carboxylase carboxytransferase alpha subunit,protein-coding,-,-,-,acetyl-CoA carboxylase carboxytransferase alpha subunit,20210313,-
+172972,44152249,rpl14,G7X00_pgp058,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210313,-
+172972,44152250,apcF,G7X00_pgp178,-,-,-,-,allophycocyanin beta 18 subunit,protein-coding,-,-,-,allophycocyanin beta 18 subunit,20210313,-
+172972,44152251,dfr,G7X00_pgp150,-,-,-,-,drug sensory protein A,protein-coding,-,-,-,drug sensory protein A,20210313,-
+172972,44152252,atpG,G7X00_pgp018,-,-,-,-,ATP synthase CF0 B' chain subunit II,protein-coding,-,-,-,ATP synthase CF0 B' chain subunit II,20210313,-
+172972,44152253,rpl29,G7X00_pgp056,-,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210313,-
+172972,44152254,gltB,G7X00_pgp166,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,ferredoxin-dependent glutamate synthase,20210313,-
+172972,44152255,ycf65,G7X00_pgp108,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152256,ilvH,G7X00_pgp183,-,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,acetolactate synthase small subunit,20210403,-
+172972,44152257,cpcB,G7X00_pgp164,-,-,-,-,C-phycocyanin beta subunit,protein-coding,-,-,-,C-phycocyanin beta subunit,20210313,-
+172972,44152258,rps9,G7X00_pgp071,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210313,-
+172972,44152259,rps1,G7X00_pgp094,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210313,-
+172972,44152260,ycf36,G7X00_pgp034,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152261,rpl33,G7X00_pgp009,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210313,-
+172972,44152262,cpcG,G7X00_pgp176,-,-,-,-,phycobilisome rod-core linker polypeptide,protein-coding,-,-,-,phycobilisome rod-core linker polypeptide,20210313,-
+172972,44152263,psbN,G7X00_pgp081,-,-,-,-,photosystem II reaction center protein N,protein-coding,-,-,-,photosystem II reaction center protein N,20210403,-
+172972,44152264,rpl20,G7X00_pgp030,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210313,-
+172972,44152265,rps20,G7X00_pgp010,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210313,-
+172972,44152266,argB,G7X00_pgp085,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20210313,-
+172972,44152267,trxA,G7X00_pgp188,-,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210313,-
+172972,44152268,psbK,G7X00_pgp045,-,-,-,-,photosystem II reaction center protein K precursor,protein-coding,-,-,-,photosystem II reaction center protein K precursor,20210313,-
+172972,44152269,rpl16,G7X00_pgp055,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210313,-
+172972,44152270,psbH,G7X00_pgp082,-,-,-,-,photosystem II 10 KD phosphoprotein,protein-coding,-,-,-,photosystem II 10 KD phosphoprotein,20210116,-
+172972,44152271,rpl28,G7X00_pgp189,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210313,-
+172972,44152272,cpeB,G7X00_pgp174,-,-,-,-,R-phycoerythrin beta subunit,protein-coding,-,-,-,R-phycoerythrin beta subunit,20210313,-
+172972,44152273,ycf56,G7X00_pgp127,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152274,ycf37,G7X00_pgp144,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152275,petG,G7X00_pgp044,-,-,-,-,cytochrome b6/f complex subunit 5,protein-coding,-,-,-,cytochrome b6/f complex subunit 5,20210320,-
+172972,44152276,psbE,G7X00_pgp151,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit,20201010,-
+172972,44152277,psbT,G7X00_pgp080,-,-,-,-,photosystem II reaction center protein T,protein-coding,-,-,-,photosystem II reaction center protein T,20201010,-
+172972,44152278,apcD,G7X00_pgp140,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,allophycocyanin gamma subunit,20210313,-
+172972,44152279,rrl,G7X00_pgr002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+172972,44152280,psbL,G7X00_pgp153,-,-,-,-,photosystem II reaction center protein L,protein-coding,-,-,-,photosystem II reaction center protein L,20201010,-
+172972,44152281,accD,G7X00_pgp137,-,-,-,-,acetyl-CoA carboxylase carboxytransferase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase carboxytransferase beta subunit,20210313,-
+172972,44152282,ycf58,G7X00_pgp199,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152283,psbF,G7X00_pgp152,-,-,-,-,cytochrome b559 beta subunit,protein-coding,-,-,-,cytochrome b559 beta subunit,20210320,-
+172972,44152284,secY,G7X00_pgp065,-,-,-,-,preprotein translocase secY subunit,protein-coding,-,-,-,preprotein translocase secY subunit,20210313,-
+172972,44152285,rps14,G7X00_pgp043,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20210313,-
+172972,44152286,psbJ,G7X00_pgp154,Grc000197,-,-,-,photosystem II reaction center protein J,protein-coding,-,-,-,photosystem II reaction center protein J,20201010,-
+172972,44152287,ftrB,G7X00_pgp156,-,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,ferredoxin-thioredoxin reductase beta subunit,20210313,-
+172972,44152288,rpl32,G7X00_pgp128,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210313,-
+172972,44152289,psaL,G7X00_pgp191,Grc000160,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,photosystem I reaction center subunit XI,20210313,-
+172972,44152290,psbB,G7X00_pgp079,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein,20210313,-
+172972,44152291,ycf47,G7X00_pgp035,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152292,ycf46,G7X00_pgp146,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152293,trnD,G7X00_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152294,psaD,G7X00_pgp038,-,-,-,-,photosystem I reaction center subunit II,protein-coding,-,-,-,photosystem I reaction center subunit II,20210313,-
+172972,44152295,ycf34,G7X00_pgp184,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152296,ycf39,G7X00_pgp202,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152297,trnN,G7X00_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152298,trnT,G7X00_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152299,bas1,G7X00_pgp033,-,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,thiol-specific antioxidant protein,20210313,-
+172972,44152300,ftsH,G7X00_pgp084,-,-,-,-,ftsH protease-like protein,protein-coding,-,-,-,ftsH protease-like protein,20210313,-
+172972,44152301,trnS,G7X00_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152302,trnY,G7X00_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152303,syh,G7X00_pgp105,-,-,-,-,histidine tRNA synthetase,protein-coding,-,-,-,histidine tRNA synthetase,20210313,-
+172972,44152304,rrs,G7X00_pgr001,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+172972,44152305,ycf52,G7X00_pgp143,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152306,trpA,G7X00_pgp159,-,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,tryptophan synthase alpha subunit,20210313,-
+172972,44152307,dnaB,G7X00_pgp090,-,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210313,-
+172972,44152308,ycf40,G7X00_pgp095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152309,rpl11,G7X00_pgp102,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210313,-
+172972,44152310,trnI,G7X00_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152311,chlI,G7X00_pgp148,-,-,-,-,magnesium chelatase subunit,protein-coding,-,-,-,magnesium chelatase subunit,20210313,-
+172972,44152312,ORF83,G7X00_pgp179,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152313,ORF65,G7X00_pgp190,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200314,-
+172972,44152314,psbZ,G7X00_pgp046,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20210313,-
+172972,44152315,ilvB,G7X00_pgp087,-,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,acetolactate synthase large subunit,20210313,-
+172972,44152316,rpl9,G7X00_pgp104,-,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210313,-
+172972,44152317,dsbD,G7X00_pgp121,-,-,-,-,thiol:disulfide interchange protein,protein-coding,-,-,-,thiol:disulfide interchange protein,20210313,-
+172972,44152318,trnR,G7X00_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152319,ycf62,G7X00_pgp158,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+172972,44152320,trnL,G7X00_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+172972,44152321,ycf4,G7X00_pgp193,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20210313,-
+172972,44152322,upp,G7X00_pgp111,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200314,-

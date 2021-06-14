@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+176129,41796295,psbA,F6C85_pgp086,SAFI_001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200909,-
+176129,41796296,trnK-UUU,F6C85_pgt002,SAFI_002,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796297,matK,F6C85_pgp085,SAFI_003,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200909,-
+176129,41796298,rps16,F6C85_pgp084,SAFI_004,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200909,-
+176129,41796299,trnQ-UUG,F6C85_pgt003,SAFI_005,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796300,psbK,F6C85_pgp083,SAFI_006,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200909,-
+176129,41796301,psbI,F6C85_pgp082,SAFI_007,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200909,-
+176129,41796302,trnS-GCU,F6C85_pgt004,SAFI_008,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796303,trnG-UCC,F6C85_pgt005,SAFI_009,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796304,trnR-UCU,F6C85_pgt006,SAFI_010,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796305,atpA,F6C85_pgp081,SAFI_011,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200909,-
+176129,41796306,atpF,F6C85_pgp080,SAFI_012,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATP synthase CF0 subunit I,20191025,-
+176129,41796307,atpH,F6C85_pgp079,SAFI_013,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,ATP synthase CF0 subunit III,20191025,-
+176129,41796308,atpI,F6C85_pgp078,SAFI_014,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20200909,-
+176129,41796309,rps2,F6C85_pgp077,SAFI_015,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200909,-
+176129,41796310,rpoC2,F6C85_pgp076,SAFI_016,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200905,-
+176129,41796311,rpoC1,F6C85_pgp075,SAFI_017,-,-,-,RNA polymerase beta,protein-coding,-,-,-,RNA polymerase beta,20200905,-
+176129,41796312,rpoB,F6C85_pgp074,SAFI_018,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200909,-
+176129,41796313,trnC-GCA,F6C85_pgt007,SAFI_019,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796314,petN,F6C85_pgp073,SAFI_020,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20191025,-
+176129,41796315,psbM,F6C85_pgp072,SAFI_021,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200909,-
+176129,41796316,trnD-GUC,F6C85_pgt008,SAFI_022,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796317,trnY-GUA,F6C85_pgt009,SAFI_023,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796318,trnE-UUC,F6C85_pgt010,SAFI_024,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796319,trnT-GGU,F6C85_pgt011,SAFI_025,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796320,psbD,F6C85_pgp071,SAFI_026,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200909,-
+176129,41796321,psbC,F6C85_pgp070,SAFI_027,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200909,-
+176129,41796322,trnS-UGA,F6C85_pgt012,SAFI_028,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796323,psbZ,F6C85_pgp069,SAFI_029,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein,20200909,-
+176129,41796324,trnG-GCC,F6C85_pgt013,SAFI_030,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796325,trnfM-CAU,F6C85_pgt014,SAFI_031,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796326,rps14,F6C85_pgp068,SAFI_032,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200905,-
+176129,41796327,psaB,F6C85_pgp067,SAFI_033,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200909,-
+176129,41796328,psaA,F6C85_pgp066,SAFI_034,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20191025,-
+176129,41796329,ycf3,F6C85_pgp065,SAFI_035,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,hypothetical chloroplast RF34,20200909,-
+176129,41796330,trnS-GGA,F6C85_pgt015,SAFI_036,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796331,rps4,F6C85_pgp064,SAFI_037,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200909,-
+176129,41796332,trnT-UGU,F6C85_pgt016,SAFI_038,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796333,trnL-UAA,F6C85_pgt017,SAFI_039,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796334,trnF-GAA,F6C85_pgt018,SAFI_040,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796335,ndhJ,F6C85_pgp063,SAFI_041,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20200909,-
+176129,41796336,ndhK,F6C85_pgp062,SAFI_042,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20200909,-
+176129,41796337,ndhC,F6C85_pgp061,SAFI_043,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20200909,-
+176129,41796338,trnV-UAC,F6C85_pgt019,SAFI_044,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796339,trnM-CAU,F6C85_pgt020,SAFI_045,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796340,atpE,F6C85_pgp060,SAFI_046,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200909,-
+176129,41796341,atpB,F6C85_pgp059,SAFI_047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200905,-
+176129,41796342,rbcL,F6C85_pgp058,SAFI_048,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200905,-
+176129,41796343,accD,F6C85_pgp057,SAFI_049,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,20200905,-
+176129,41796344,psaI,F6C85_pgp056,SAFI_050,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20200905,-
+176129,41796345,ycf4,F6C85_pgp055,SAFI_051,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20200905,-
+176129,41796346,cemA,F6C85_pgp054,SAFI_052,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20200909,-
+176129,41796347,petA,F6C85_pgp053,SAFI_053,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20200909,-
+176129,41796348,psbJ,F6C85_pgp052,SAFI_054,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200905,-
+176129,41796349,psbL,F6C85_pgp051,SAFI_055,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20191025,-
+176129,41796350,psbF,F6C85_pgp050,SAFI_056,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20191025,-
+176129,41796351,psbE,F6C85_pgp049,SAFI_057,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200909,-
+176129,41796352,petL,F6C85_pgp048,SAFI_058,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20200926,-
+176129,41796353,petG,F6C85_pgp047,SAFI_059,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210123,-
+176129,41796354,trnW-CCA,F6C85_pgt021,SAFI_060,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796355,trnP-UGG,F6C85_pgt022,SAFI_061,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796356,psaJ,F6C85_pgp046,SAFI_062,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20191025,-
+176129,41796357,rpl33,F6C85_pgp045,SAFI_063,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200909,-
+176129,41796358,rps18,F6C85_pgp044,SAFI_064,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200909,-
+176129,41796359,rpl20,F6C85_pgp043,SAFI_065,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200905,-
+176129,41796360,rps12,F6C85_pgp042,SAFI_067,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+176129,41796361,trnH-GUG,F6C85_pgt001,SAFI_085,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796362,clpP,F6C85_pgp040,SAFI_068,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20191025,-
+176129,41796363,psbB,F6C85_pgp039,SAFI_069,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200905,-
+176129,41796364,psbT,F6C85_pgp038,SAFI_070,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20191025,-
+176129,41796365,psbN,F6C85_pgp037,SAFI_071,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200909,-
+176129,41796366,psbH,F6C85_pgp036,SAFI_072,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20191025,-
+176129,41796367,petB,F6C85_pgp035,SAFI_073,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200905,-
+176129,41796368,petD,F6C85_pgp034,SAFI_074,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20191025,-
+176129,41796369,rpoA,F6C85_pgp033,SAFI_075,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200909,-
+176129,41796370,rps11,F6C85_pgp032,SAFI_076,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200909,-
+176129,41796371,rpl36,F6C85_pgp031,SAFI_077,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20191025,-
+176129,41796372,infA,F6C85_pgp030,SAFI_078,-,-,-,translational initiation factor 1,pseudo,-,-,-,-,20200909,-
+176129,41796373,rps8,F6C85_pgp029,SAFI_079,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200905,-
+176129,41796374,rpl14,F6C85_pgp028,SAFI_080,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200909,-
+176129,41796375,rpl16,F6C85_pgp027,SAFI_081,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200905,-
+176129,41796376,rps3,F6C85_pgp026,SAFI_082,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200909,-
+176129,41796377,rpl22,F6C85_pgp025,SAFI_083,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200829,-
+176129,41796378,rps19,F6C85_pgp024,SAFI_084,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200909,-
+176129,41796379,rpl2,F6C85_pgp023,SAFI_086,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20201217,-
+176129,41796380,rpl23,F6C85_pgp022,SAFI_087,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200909,-
+176129,41796381,trnI-CAU,F6C85_pgt023,SAFI_088,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796382,ycf2,F6C85_pgp021,SAFI_089,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200909,-
+176129,41796383,trnL-CAA,F6C85_pgt024,SAFI_090,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796384,ndhB,F6C85_pgp020,SAFI_091,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200909,-
+176129,41796385,rps7,F6C85_pgp019,SAFI_092,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+176129,41796386,trnV-GAC,F6C85_pgt025,SAFI_093,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796387,rrn16,F6C85_pgr008,SAFI_094,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796388,trnI-GAU,F6C85_pgt026,SAFI_095,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796389,trnA-UGC,F6C85_pgt027,SAFI_096,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796390,rrn23,F6C85_pgr007,SAFI_097,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796391,rrn4.5,F6C85_pgr006,SAFI_098,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796392,rrn5,F6C85_pgr005,SAFI_099,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796393,trnR-ACG,F6C85_pgt028,SAFI_100,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796394,trnN-GUU,F6C85_pgt029,SAFI_101,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796395,ycf1,F6C85_pgp018,SAFI_102,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+176129,41796396,ndhF,F6C85_pgp017,SAFI_103,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20200829,-
+176129,41796397,rpl32,F6C85_pgp016,SAFI_104,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200909,-
+176129,41796398,trnL-UAG,F6C85_pgt030,SAFI_105,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796399,ccsA,F6C85_pgp015,SAFI_106,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20200905,-
+176129,41796400,ndhD,F6C85_pgp014,SAFI_107,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20200905,-
+176129,41796401,psaC,F6C85_pgp013,SAFI_108,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20191025,-
+176129,41796402,ndhE,F6C85_pgp012,SAFI_109,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,20200905,-
+176129,41796403,ndhG,F6C85_pgp011,SAFI_110,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20200909,-
+176129,41796404,ndhI,F6C85_pgp010,SAFI_111,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit I,20191025,-
+176129,41796405,ndhA,F6C85_pgp009,SAFI_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,20200829,-
+176129,41796406,ndhH,F6C85_pgp008,SAFI_113,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20200909,-
+176129,41796407,rps15,F6C85_pgp007,SAFI_114,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200909,-
+176129,41796408,ycf1,F6C85_pgp006,SAFI_115,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20200829,-
+176129,41796409,trnN-GUU,F6C85_pgt031,SAFI_116,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796410,trnR-ACG,F6C85_pgt032,SAFI_117,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796411,rrn5,F6C85_pgr004,SAFI_118,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796412,rrn4.5,F6C85_pgr003,SAFI_119,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796413,rrn23,F6C85_pgr002,SAFI_120,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796414,trnA-UGC,F6C85_pgt033,SAFI_121,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796415,trnI-GAU,F6C85_pgt034,SAFI_122,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796416,rrn16,F6C85_pgr001,SAFI_123,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+176129,41796417,trnV-GAC,F6C85_pgt035,SAFI_124,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796418,rps7,F6C85_pgp005,SAFI_125,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+176129,41796419,ndhB,F6C85_pgp004,SAFI_126,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200909,-
+176129,41796420,trnL-CAA,F6C85_pgt036,SAFI_127,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796421,ycf2,F6C85_pgp003,SAFI_128,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200909,-
+176129,41796422,trnI-CAU,F6C85_pgt037,SAFI_129,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+176129,41796423,rpl23,F6C85_pgp002,SAFI_130,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200909,-
+176129,41796424,rpl2,F6C85_pgp001,SAFI_131,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20201217,-
+176129,41796425,rps12,F6C85_pgp041,SAFI_066,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-

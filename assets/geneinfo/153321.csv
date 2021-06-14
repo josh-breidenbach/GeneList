@@ -1,0 +1,133 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+153321,56050788,psbA,HX653_pgp087,-,-,-,-,PSII 32 KDa protein,protein-coding,-,-,-,PSII 32 KDa protein,20200801,-
+153321,56050789,trnK-AAA,HX653_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050790,matK,HX653_pgp086,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210522,-
+153321,56050791,rps16,HX653_pgp085,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+153321,56050792,trnQ-CAA,HX653_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050793,psbK,HX653_pgp084,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein,20210522,-
+153321,56050794,psbI,HX653_pgp083,-,-,-,-,PSII I protein,protein-coding,-,-,-,PSII I protein,20200801,-
+153321,56050795,trnS-AGC,HX653_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050796,trnG-GGA,HX653_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050797,trnR-AGA,HX653_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050798,atpA,HX653_pgp082,-,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20210522,-
+153321,56050799,atpF,HX653_pgp081,-,-,-,-,ATPase I subunit,protein-coding,-,-,-,ATPase I subunit,20210522,-
+153321,56050800,atpH,HX653_pgp080,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit,20200801,-
+153321,56050801,atpI,HX653_pgp079,-,-,-,-,ATPase a subunit,protein-coding,-,-,-,ATPase a subunit,20210522,-
+153321,56050802,rps2,HX653_pgp078,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210522,-
+153321,56050803,rpoC2,HX653_pgp077,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210522,-
+153321,56050804,rpoC1,HX653_pgp076,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210522,-
+153321,56050805,rpoB,HX653_pgp075,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210522,-
+153321,56050806,trnC-UGC,HX653_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050807,petN,HX653_pgp074,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200801,-
+153321,56050808,psbM,HX653_pgp073,-,-,-,-,PSII low MW protein,protein-coding,-,-,-,PSII low MW protein,20201217,-
+153321,56050809,trnD-GAC,HX653_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050810,trnY-UAC,HX653_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050811,trnE-GAA,HX653_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050812,trnT-ACC,HX653_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050813,psbD,HX653_pgp072,-,-,-,-,PSII D2 protein,protein-coding,-,-,-,PSII D2 protein,20210522,-
+153321,56050814,psbC,HX653_pgp071,-,-,-,-,PSII 43 KDa protein,protein-coding,-,-,-,PSII 43 KDa protein,20210417,-
+153321,56050815,trnS-UCA,HX653_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050816,psbZ,HX653_pgp070,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20201010,-
+153321,56050817,trnG-GGC,HX653_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050818,trnfM-AUG,HX653_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050819,rps14,HX653_pgp069,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210424,-
+153321,56050820,psaB,HX653_pgp068,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2,20210522,-
+153321,56050821,psaA,HX653_pgp067,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1,20210424,-
+153321,56050822,ycf3,HX653_pgp066,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20210417,-
+153321,56050823,trnS-UCC,HX653_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050824,rps4,HX653_pgp065,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210522,-
+153321,56050825,trnT-ACA,HX653_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050826,trnL-UUA,HX653_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050827,trnF-UUC,HX653_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050828,ndhJ,HX653_pgp064,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J,20210522,-
+153321,56050829,psbG,HX653_pgp063,-,-,-,-,photosystem II G protein,protein-coding,-,-,-,photosystem II G protein,20210522,-
+153321,56050830,ndhC,HX653_pgp062,-,-,-,-,NADH dehydrogenase subunit C,protein-coding,-,-,-,NADH dehydrogenase subunit C,20210522,-
+153321,56050831,trnV-GUA,HX653_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050832,trnM-AUG,HX653_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050833,atpE,HX653_pgp061,-,-,-,-,ATPase epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20210522,-
+153321,56050834,atpB,HX653_pgp060,-,-,-,-,ATPase beta subunit,protein-coding,-,-,-,ATPase beta subunit,20210522,-
+153321,56050835,rbcL,HX653_pgp059,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210129,-
+153321,56050836,accD,HX653_pgp058,-,-,-,-,carboxytransferase beta subunit,protein-coding,-,-,-,carboxytransferase beta subunit,20210522,-
+153321,56050837,psaI,HX653_pgp057,-,-,-,-,PSI I protein,protein-coding,-,-,-,PSI I protein,20201003,-
+153321,56050838,ycf4,HX653_pgp056,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20210522,-
+153321,56050839,cemA,HX653_pgp055,-,-,-,-,putative heme-binding protein,protein-coding,-,-,-,putative heme-binding protein,20210522,-
+153321,56050840,petA,HX653_pgp054,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210522,-
+153321,56050841,psbJ,HX653_pgp053,-,-,-,-,PSII component,protein-coding,-,-,-,PSII component,20201010,-
+153321,56050842,psbL,HX653_pgp052,-,-,-,-,PSII L protein,protein-coding,-,-,-,PSII L protein,20200801,-
+153321,56050843,psbF,HX653_pgp051,-,-,-,-,PSII cytochrome b559,protein-coding,-,-,-,PSII cytochrome b559,20200801,-
+153321,56050844,psbE,HX653_pgp050,-,-,-,-,PSII cytochrome b559,protein-coding,-,-,-,PSII cytochrome b559,20200801,-
+153321,56050845,petL,HX653_pgp049,-,-,-,-,cytochrome b/f complex 3.5 kDa subunit,protein-coding,-,-,-,cytochrome b/f complex 3.5 kDa subunit,20200801,-
+153321,56050846,petG,HX653_pgp048,-,-,-,-,"cytochrome b6-f complex, subunit V",protein-coding,-,-,-,"cytochrome b6-f complex, subunit V",20210212,-
+153321,56050847,trnW-UGG,HX653_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050848,trnP-CCA,HX653_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050849,psaJ,HX653_pgp047,-,-,-,-,PSI J protein,protein-coding,-,-,-,PSI J protein,20210417,-
+153321,56050850,rpl33,HX653_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210522,-
+153321,56050851,rps18,HX653_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210522,-
+153321,56050852,rpl20,HX653_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210522,-
+153321,56050853,rps12,HX653_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+153321,56050854,trnH-CAC,HX653_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050855,clpP,HX653_pgp041,-,-,-,-,ATP-dependent protease subunit,protein-coding,-,-,-,ATP-dependent protease subunit,20210522,-
+153321,56050856,psbB,HX653_pgp040,-,-,-,-,PSII 47KDa protein,protein-coding,-,-,-,PSII 47KDa protein,20210522,-
+153321,56050857,psbT,HX653_pgp039,-,-,-,-,PSII T protein,protein-coding,-,-,-,PSII T protein,20201003,-
+153321,56050858,psbN,HX653_pgp038,-,-,-,-,PSII low MW protein,protein-coding,-,-,-,PSII low MW protein,20200801,-
+153321,56050859,psbH,HX653_pgp037,-,-,-,-,PSII 10KDa phosphoprotein,protein-coding,-,-,-,PSII 10KDa phosphoprotein,20210522,-
+153321,56050860,petB,HX653_pgp036,-,-,-,-,cytochrome B6,protein-coding,-,-,-,cytochrome B6,20201003,-
+153321,56050861,petD,HX653_pgp035,-,-,-,-,cytochrome b/f,protein-coding,-,-,-,cytochrome b/f,20210522,-
+153321,56050862,rpoA,HX653_pgp034,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210522,-
+153321,56050863,rps11,HX653_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210522,-
+153321,56050864,rpl36,HX653_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200801,-
+153321,56050865,rps8,HX653_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210522,-
+153321,56050866,rpl14,HX653_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210129,-
+153321,56050867,rpl16,HX653_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20201003,-
+153321,56050868,rps3,HX653_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210522,-
+153321,56050869,rpl22,HX653_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210522,-
+153321,56050870,rps19,HX653_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210424,-
+153321,56050871,rpl2,HX653_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210522,-
+153321,56050872,rpl23,HX653_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210522,-
+153321,56050873,trnI-CAU,HX653_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050874,ycf2,HX653_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210522,-
+153321,56050875,orf77,HX653_pgp022,-,-,-,-,orf77,protein-coding,-,-,-,orf77,20200905,-
+153321,56050876,trnL-UUG,HX653_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050877,ndhB,HX653_pgp021,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210522,-
+153321,56050878,rps7,HX653_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201003,-
+153321,56050879,trnV-GUC,HX653_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050880,rrn16S,HX653_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050881,trnI-AUC,HX653_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050882,trnA-GCA,HX653_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050883,rrn23S,HX653_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050884,rrn4.5S,HX653_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050885,rrn5S,HX653_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050886,trnR-CGU,HX653_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050887,trnN-AAC,HX653_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050888,ycf1,HX653_pgp019,-,-,-,-,Ycf1.1,protein-coding,-,-,-,Ycf1.1,20210522,-
+153321,56050889,ndhF,HX653_pgp018,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210522,-
+153321,56050890,rpl32,HX653_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210522,-
+153321,56050891,trnL-CUA,HX653_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050892,ccsA,HX653_pgp016,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20210522,-
+153321,56050893,ndhD,HX653_pgp015,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210522,-
+153321,56050894,psaC,HX653_pgp014,-,-,-,-,PSI 9KDa protein,protein-coding,-,-,-,PSI 9KDa protein,20200801,-
+153321,56050895,ndhE,HX653_pgp013,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210522,-
+153321,56050896,ndhG,HX653_pgp012,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210522,-
+153321,56050897,ndhI,HX653_pgp011,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,NADH dehydrogenase subunit I,20210522,-
+153321,56050898,ndhA,HX653_pgp010,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210522,-
+153321,56050899,ndhH,HX653_pgp009,-,-,-,-,NADH dehydrogenase 49KDa protein,protein-coding,-,-,-,NADH dehydrogenase 49KDa protein,20210522,-
+153321,56050900,rps15,HX653_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210522,-
+153321,56050901,ycf1,HX653_pgp007,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+153321,56050902,trnN-AAC,HX653_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050903,trnR-CGU,HX653_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050904,rrn5S,HX653_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050905,rrn4.5S,HX653_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050906,rrn23S,HX653_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050907,trnA-GCA,HX653_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050908,trnI-AUC,HX653_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050909,rrn16S,HX653_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+153321,56050910,trnV-GUC,HX653_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050911,rps7,HX653_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201003,-
+153321,56050912,ndhB,HX653_pgp005,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210522,-
+153321,56050913,trnL-UUG,HX653_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050914,orf77,HX653_pgp004,-,-,-,-,orf77,protein-coding,-,-,-,orf77,20200905,-
+153321,56050915,ycf2,HX653_pgp003,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210522,-
+153321,56050916,trnI-CAU,HX653_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+153321,56050917,rpl23,HX653_pgp002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210522,-
+153321,56050918,rpl2,HX653_pgp001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210522,-
+153321,56050919,rps12,HX653_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-

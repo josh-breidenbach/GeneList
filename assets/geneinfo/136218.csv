@@ -1,0 +1,134 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+136218,42889236,psbA,GPK20_pgp001,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20210320,-
+136218,42889237,trnK-UUU,GPK20_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889238,matK,GPK20_pgp087,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20201010,-
+136218,42889239,rps16,GPK20_pgp086,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20201217,-
+136218,42889240,trnQ-UUG,GPK20_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889241,psbK,GPK20_pgp085,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20200909,-
+136218,42889242,psbI,GPK20_pgp084,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200926,-
+136218,42889243,trnS-GCU,GPK20_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889244,trnG-UCC,GPK20_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889245,trnR-UCU,GPK20_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889246,atpA,GPK20_pgp083,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20200926,-
+136218,42889247,atpF,GPK20_pgp082,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20201217,-
+136218,42889248,atpH,GPK20_pgp081,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200909,-
+136218,42889249,atpI,GPK20_pgp080,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200912,-
+136218,42889250,rps2,GPK20_pgp079,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20201217,-
+136218,42889251,rpoC2,GPK20_pgp078,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20201217,-
+136218,42889252,rpoC1,GPK20_pgp077,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20201217,-
+136218,42889253,rpoB,GPK20_pgp076,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20201217,-
+136218,42889254,trnC-GCA,GPK20_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889255,petN,GPK20_pgp075,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200909,-
+136218,42889256,psbM,GPK20_pgp074,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200909,-
+136218,42889257,trnD-GUC,GPK20_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889258,trnY-GUA,GPK20_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889259,trnE-UUC,GPK20_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889260,trnT-GGU,GPK20_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889261,psbD,GPK20_pgp073,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20201217,-
+136218,42889262,psbC,GPK20_pgp072,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20201217,-
+136218,42889263,trnS-UGA,GPK20_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889264,psbZ,GPK20_pgp071,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200909,-
+136218,42889265,trnG-GCC,GPK20_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889266,trnfM-CAU,GPK20_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889267,rps14,GPK20_pgp070,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20201217,-
+136218,42889268,psaB,GPK20_pgp069,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20201217,-
+136218,42889269,psaA,GPK20_pgp068,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20201217,-
+136218,42889270,ycf3,GPK20_pgp067,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200909,-
+136218,42889271,trnS-GGA,GPK20_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889272,rps4,GPK20_pgp066,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20201217,-
+136218,42889273,trnT-UGU,GPK20_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889274,trnL-UAA,GPK20_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889275,trnF-GAA,GPK20_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889276,ndhJ,GPK20_pgp065,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200926,-
+136218,42889277,ndhK,GPK20_pgp064,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20201217,-
+136218,42889278,ndhC,GPK20_pgp063,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20201217,-
+136218,42889279,trnV-UAC,GPK20_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889280,trnM-CAU,GPK20_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889281,atpE,GPK20_pgp062,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20201217,-
+136218,42889282,atpB,GPK20_pgp061,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20201217,-
+136218,42889283,rbcL,GPK20_pgp060,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20201217,-
+136218,42889284,accD,GPK20_pgp059,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20201217,-
+136218,42889285,psaI,GPK20_pgp058,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200909,-
+136218,42889286,ycf4,GPK20_pgp057,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20201217,-
+136218,42889287,cemA,GPK20_pgp056,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20201217,-
+136218,42889288,petA,GPK20_pgp055,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20201217,-
+136218,42889289,psbJ,GPK20_pgp054,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200926,-
+136218,42889290,psbL,GPK20_pgp053,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20201010,-
+136218,42889291,psbF,GPK20_pgp052,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200909,-
+136218,42889292,psbE,GPK20_pgp051,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200909,-
+136218,42889293,petL,GPK20_pgp050,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20201010,-
+136218,42889294,petG,GPK20_pgp049,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+136218,42889295,trnW-CCA,GPK20_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889296,trnP-UGG,GPK20_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889297,psaJ,GPK20_pgp048,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200926,-
+136218,42889298,rpl33,GPK20_pgp047,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200909,-
+136218,42889299,rps18,GPK20_pgp046,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20201217,-
+136218,42889300,rpl20,GPK20_pgp045,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20201217,-
+136218,42889301,rps12,GPK20_pgp044,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+136218,42889302,clpP,GPK20_pgp042,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20201217,-
+136218,42889303,psbB,GPK20_pgp041,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200909,-
+136218,42889304,psbT,GPK20_pgp040,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20200909,-
+136218,42889305,psbN,GPK20_pgp039,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200909,-
+136218,42889306,psbH,GPK20_pgp038,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200909,-
+136218,42889307,petB,GPK20_pgp037,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200926,-
+136218,42889308,petD,GPK20_pgp036,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20201217,-
+136218,42889309,rpoA,GPK20_pgp035,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20201217,-
+136218,42889310,rps11,GPK20_pgp034,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20201217,-
+136218,42889311,rpl36,GPK20_pgp033,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200909,-
+136218,42889312,infA,GPK20_pgp032,-,-,-,-,InfA,protein-coding,-,-,-,InfA,20200909,-
+136218,42889313,rps8,GPK20_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20201217,-
+136218,42889314,rpl14,GPK20_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200926,-
+136218,42889315,rpl16,GPK20_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20201217,-
+136218,42889316,rps3,GPK20_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20201217,-
+136218,42889317,rpl22,GPK20_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200926,-
+136218,42889318,rps19,GPK20_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200919,-
+136218,42889319,trnH-GUG,GPK20_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889320,rpl2,GPK20_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+136218,42889321,rpl23,GPK20_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200909,-
+136218,42889322,trnI-CAU,GPK20_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889323,ycf2,GPK20_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20201217,-
+136218,42889324,trnL-CAA,GPK20_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889325,ndhB,GPK20_pgp022,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200909,-
+136218,42889326,rps7,GPK20_pgp021,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+136218,42889327,trnV-GAC,GPK20_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889328,rrn16,GPK20_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889329,trnI-GAU,GPK20_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889330,trnA-UGC,GPK20_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889331,rrn23,GPK20_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889332,rrn4.5,GPK20_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889333,rrn5,GPK20_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889334,trnR-ACG,GPK20_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889335,trnN-GUU,GPK20_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889336,ycf1,GPK20_pgp020,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210306,-
+136218,42889337,ndhF,GPK20_pgp019,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20200829,-
+136218,42889338,rpl32,GPK20_pgp018,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20201217,-
+136218,42889339,trnL-UAG,GPK20_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889340,ccsA,GPK20_pgp017,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20201217,-
+136218,42889341,ndhD,GPK20_pgp016,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20200829,-
+136218,42889342,psaC,GPK20_pgp015,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200909,-
+136218,42889343,ndhE,GPK20_pgp014,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20201217,-
+136218,42889344,ndhG,GPK20_pgp013,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200926,-
+136218,42889345,ndhI,GPK20_pgp012,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20201217,-
+136218,42889346,ndhA,GPK20_pgp011,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20201217,-
+136218,42889347,ndhH,GPK20_pgp010,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20201217,-
+136218,42889348,rps15,GPK20_pgp009,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20201217,-
+136218,42889349,ycf1,GPK20_pgp008,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20201217,-
+136218,42889350,trnN-GUU,GPK20_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889351,trnR-ACG,GPK20_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889352,rrn5,GPK20_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889353,rrn4.5,GPK20_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889354,rrn23,GPK20_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889355,trnA-UGC,GPK20_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889356,trnI-GAU,GPK20_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889357,rrn16,GPK20_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+136218,42889358,trnV-GAC,GPK20_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889359,rps7,GPK20_pgp007,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+136218,42889360,ndhB,GPK20_pgp006,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200909,-
+136218,42889361,trnL-CAA,GPK20_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889362,ycf2,GPK20_pgp005,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20201217,-
+136218,42889363,trnI-CAU,GPK20_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889364,rpl23,GPK20_pgp004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200909,-
+136218,42889365,rpl2,GPK20_pgp003,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+136218,42889366,trnH-GUG,GPK20_pgt038,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+136218,42889367,rps19,GPK20_pgp002,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200919,-
+136218,42889368,rps12,GPK20_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
