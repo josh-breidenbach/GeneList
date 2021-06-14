@@ -1,0 +1,640 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2772511,40070066,FDG95_gp001,FDG95_gp001,CBB_1,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070067,FDG95_gp002,FDG95_gp002,CBB_2,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070068,FDG95_gp003,FDG95_gp003,CBB_3,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070069,FDG95_gp004,FDG95_gp004,CBB_4,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070070,FDG95_gp005,FDG95_gp005,CBB_5,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070071,FDG95_gp006,FDG95_gp006,CBB_6,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070072,FDG95_gp007,FDG95_gp007,CBB_7,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070073,FDG95_gp008,FDG95_gp008,CBB_8,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070074,FDG95_gp009,FDG95_gp009,CBB_9,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070075,FDG95_gp010,FDG95_gp010,CBB_10,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070076,FDG95_gp011,FDG95_gp011,CBB_11,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070077,FDG95_gp012,FDG95_gp012,CBB_12,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070078,FDG95_gp013,FDG95_gp013,CBB_13,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070079,FDG95_gp014,FDG95_gp014,CBB_14,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070080,FDG95_gp015,FDG95_gp015,CBB_15,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070081,FDG95_gp016,FDG95_gp016,CBB_16,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070082,FDG95_gp017,FDG95_gp017,CBB_17,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070083,FDG95_gp018,FDG95_gp018,CBB_18,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070084,FDG95_gp019,FDG95_gp019,CBB_19,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070085,FDG95_gp020,FDG95_gp020,CBB_20,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070086,FDG95_gp021,FDG95_gp021,CBB_21,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070087,FDG95_gp022,FDG95_gp022,CBB_22,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070088,FDG95_gp023,FDG95_gp023,CBB_23,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070089,FDG95_gp024,FDG95_gp024,CBB_24,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070090,FDG95_gp025,FDG95_gp025,CBB_25,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070091,FDG95_gp026,FDG95_gp026,CBB_26,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070092,FDG95_gp027,FDG95_gp027,CBB_27,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070093,FDG95_gp028,FDG95_gp028,CBB_28,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070094,FDG95_gp029,FDG95_gp029,CBB_29,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070095,FDG95_gp030,FDG95_gp030,CBB_30,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070096,FDG95_gp031,FDG95_gp031,CBB_31,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070097,FDG95_gp032,FDG95_gp032,CBB_32,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070098,FDG95_gp033,FDG95_gp033,CBB_33,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070099,FDG95_gp034,FDG95_gp034,CBB_34,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070100,FDG95_gp035,FDG95_gp035,CBB_35,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070101,FDG95_gp036,FDG95_gp036,CBB_36,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070102,FDG95_gp037,FDG95_gp037,CBB_37,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070103,FDG95_gp038,FDG95_gp038,CBB_38,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070104,FDG95_gp039,FDG95_gp039,CBB_39,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070105,FDG95_gp040,FDG95_gp040,CBB_40,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070106,FDG95_gp041,FDG95_gp041,CBB_41,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070107,FDG95_gp042,FDG95_gp042,CBB_42,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070108,FDG95_gp043,FDG95_gp043,CBB_43,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070109,FDG95_gp044,FDG95_gp044,CBB_44,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070110,FDG95_gp045,FDG95_gp045,CBB_45,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070111,FDG95_gp046,FDG95_gp046,CBB_46,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070112,FDG95_gp047,FDG95_gp047,CBB_47,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070113,FDG95_gp048,FDG95_gp048,CBB_48,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070114,FDG95_gp049,FDG95_gp049,CBB_49,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070115,FDG95_gp050,FDG95_gp050,CBB_50,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070116,FDG95_gp051,FDG95_gp051,CBB_51,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070117,FDG95_gp052,FDG95_gp052,CBB_52,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070118,FDG95_gp053,FDG95_gp053,CBB_53,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070119,FDG95_gp054,FDG95_gp054,CBB_54,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070120,FDG95_gp055,FDG95_gp055,CBB_55,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070121,FDG95_gp056,FDG95_gp056,CBB_56,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070122,FDG95_gp057,FDG95_gp057,CBB_57,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070123,FDG95_gp058,FDG95_gp058,CBB_58,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070124,FDG95_gp059,FDG95_gp059,CBB_59,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070125,FDG95_gp060,FDG95_gp060,CBB_60,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070126,FDG95_gp061,FDG95_gp061,CBB_61,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070127,FDG95_gp062,FDG95_gp062,CBB_62,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070128,FDG95_gp063,FDG95_gp063,CBB_63,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070129,FDG95_gp064,FDG95_gp064,CBB_64,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070130,FDG95_gp065,FDG95_gp065,CBB_65,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070131,FDG95_gp066,FDG95_gp066,CBB_66,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070132,FDG95_gp067,FDG95_gp067,CBB_67,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070133,FDG95_gp068,FDG95_gp068,CBB_68,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070134,FDG95_gp069,FDG95_gp069,CBB_69,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070135,FDG95_gp070,FDG95_gp070,CBB_70,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070136,FDG95_gp071,FDG95_gp071,CBB_71,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070137,FDG95_gp072,FDG95_gp072,CBB_72,-,-,-,DNA N-6-adenine-methyltransferase,protein-coding,-,-,-,DNA N-6-adenine-methyltransferase,20201222,-
+2772511,40070138,FDG95_gp073,FDG95_gp073,CBB_73,-,-,-,cytitidyltransferase,protein-coding,-,-,-,cytitidyltransferase,20201222,-
+2772511,40070139,FDG95_gp074,FDG95_gp074,CBB_74,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070140,FDG95_gp075,FDG95_gp075,CBB_75,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070141,FDG95_gp076,FDG95_gp076,CBB_76,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070142,FDG95_gp077,FDG95_gp077,CBB_77,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070143,FDG95_gp078,FDG95_gp078,CBB_78,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070144,FDG95_gp079,FDG95_gp079,CBB_79,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070145,FDG95_gp080,FDG95_gp080,CBB_80,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070146,FDG95_gp081,FDG95_gp081,CBB_81,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070147,FDG95_gp082,FDG95_gp082,CBB_82,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070148,FDG95_gp083,FDG95_gp083,CBB_83,-,-,-,RNA ligase 1 and tail fiber attachment catalyst,protein-coding,-,-,-,RNA ligase 1 and tail fiber attachment catalyst,20201222,-
+2772511,40070149,FDG95_gp084,FDG95_gp084,CBB_84,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070150,FDG95_gp085,FDG95_gp085,CBB_85,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070151,FDG95_gp086,FDG95_gp086,CBB_86,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070152,FDG95_gp087,FDG95_gp087,CBB_87,-,-,-,polynucleotide 5'-kinase and 3'-phosphatase,protein-coding,-,-,-,polynucleotide 5'-kinase and 3'-phosphatase,20201222,-
+2772511,40070153,FDG95_gp088,FDG95_gp088,CBB_88,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070154,FDG95_gp089,FDG95_gp089,CBB_89,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070155,FDG95_gp090,FDG95_gp090,CBB_90,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070156,FDG95_gp091,FDG95_gp091,CBB_91,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070157,FDG95_gp092,FDG95_gp092,CBB_92,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070158,FDG95_gp093,FDG95_gp093,CBB_93,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070159,FDG95_gp094,FDG95_gp094,CBB_94,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070160,FDG95_gp095,FDG95_gp095,CBB_95,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070161,FDG95_gp096,FDG95_gp096,CBB_96,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070162,FDG95_gp097,FDG95_gp097,CBB_97,-,-,-,putative serine/threonine protein pnhosphatase,protein-coding,-,-,-,putative serine/threonine protein pnhosphatase,20201222,-
+2772511,40070163,FDG95_gp098,FDG95_gp098,CBB_98,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070164,FDG95_gp099,FDG95_gp099,CBB_99,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070165,FDG95_gp100,FDG95_gp100,CBB_100,-,-,-,DNA ligase,protein-coding,-,-,-,DNA ligase,20201222,-
+2772511,40070166,FDG95_gp101,FDG95_gp101,CBB_101,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070167,FDG95_gp102,FDG95_gp102,CBB_102,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201222,-
+2772511,40070168,FDG95_gp103,FDG95_gp103,CBB_103,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070169,FDG95_gp104,FDG95_gp104,CBB_104,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20201222,-
+2772511,40070170,FDG95_gp105,FDG95_gp105,CBB_105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070171,FDG95_gp106,FDG95_gp106,CBB_106,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070172,FDG95_gp107,FDG95_gp107,CBB_107,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070173,FDG95_gp108,FDG95_gp108,CBB_108,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070174,FDG95_gp109,FDG95_gp109,CBB_109,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070175,FDG95_gp110,FDG95_gp110,CBB_110,-,-,-,CMP/dCMP deaminase,protein-coding,-,-,-,CMP/dCMP deaminase,20201222,-
+2772511,40070176,FDG95_gp111,FDG95_gp111,CBB_111,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070177,FDG95_gp112,FDG95_gp112,CBB_112,-,-,-,major tail protein,protein-coding,-,-,-,major tail protein,20201222,-
+2772511,40070178,FDG95_gp113,FDG95_gp113,CBB_113,-,-,-,bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase,protein-coding,-,-,-,bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase,20201222,-
+2772511,40070179,FDG95_gp114,FDG95_gp114,CBB_114,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070180,FDG95_gp115,FDG95_gp115,CBB_115,-,-,-,nicotinamide phosphoribosyltransferase,protein-coding,-,-,-,nicotinamide phosphoribosyltransferase,20201222,-
+2772511,40070181,FDG95_gp116,FDG95_gp116,CBB_116,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070182,FDG95_gp117,FDG95_gp117,CBB_117,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070183,FDG95_gp118,FDG95_gp118,CBB_118,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070184,FDG95_gp119,FDG95_gp119,CBB_119,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070185,FDG95_gp120,FDG95_gp120,CBB_120,-,-,-,putative Sir2-like protein,protein-coding,-,-,-,putative Sir2-like protein,20201222,-
+2772511,40070186,FDG95_gp121,FDG95_gp121,CBB_121,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070187,FDG95_gp122,FDG95_gp122,CBB_122,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070188,FDG95_gp123,FDG95_gp123,CBB_123,-,-,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20201222,-
+2772511,40070189,FDG95_gp124,FDG95_gp124,CBB_124,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070190,FDG95_gp125,FDG95_gp125,CBB_125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070191,FDG95_gp126,FDG95_gp126,CBB_126,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070192,FDG95_gp127,FDG95_gp127,CBB_127,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070193,FDG95_gp128,FDG95_gp128,CBB_128,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070194,FDG95_gp129,FDG95_gp129,CBB_129,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070195,FDG95_gp130,FDG95_gp130,CBB_130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070196,FDG95_gp131,FDG95_gp131,CBB_131,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070197,FDG95_gp132,FDG95_gp132,CBB_132,-,-,-,tyrosyl-tRNA synthetase,protein-coding,-,-,-,tyrosyl-tRNA synthetase,20201222,-
+2772511,40070198,FDG95_gp133,FDG95_gp133,CBB_133,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070199,FDG95_gp134,FDG95_gp134,CBB_134,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070200,FDG95_gp135,FDG95_gp135,CBB_135,-,-,-,dCMP deaminase,protein-coding,-,-,-,dCMP deaminase,20201222,-
+2772511,40070201,FDG95_gp136,FDG95_gp136,CBB_136,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070202,FDG95_gp137,FDG95_gp137,CBB_137,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070203,FDG95_gp138,FDG95_gp138,CBB_138,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070204,FDG95_gp139,FDG95_gp139,CBB_139,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070205,FDG95_gp140,FDG95_gp140,CBB_140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070206,FDG95_gp141,FDG95_gp141,CBB_141,-,-,-,anaerobic NTP reductase large subunit,protein-coding,-,-,-,anaerobic NTP reductase large subunit,20201222,-
+2772511,40070207,FDG95_gp142,FDG95_gp142,CBB_142,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070208,FDG95_gp143,FDG95_gp143,CBB_143,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070209,FDG95_gp144,FDG95_gp144,CBB_144,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070210,FDG95_gp145,FDG95_gp145,CBB_145,-,-,-,anaerobic ribonucleoside-triphosphate reductase activating protein,protein-coding,-,-,-,anaerobic ribonucleoside-triphosphate reductase activating protein,20201222,-
+2772511,40070211,FDG95_gp146,FDG95_gp146,CBB_146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070212,FDG95_gp147,FDG95_gp147,CBB_147,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070213,FDG95_gp148,FDG95_gp148,CBB_148,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070214,FDG95_gp149,FDG95_gp149,CBB_149,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070215,FDG95_gp150,FDG95_gp150,CBB_150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070216,FDG95_gp151,FDG95_gp151,CBB_151,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070217,FDG95_gp152,FDG95_gp152,CBB_152,-,-,-,putative tRNA-His guanylyltransferase,protein-coding,-,-,-,putative tRNA-His guanylyltransferase,20201222,-
+2772511,40070218,FDG95_gp153,FDG95_gp153,CBB_153,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070219,FDG95_gp154,FDG95_gp154,CBB_154,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070220,FDG95_gp155,FDG95_gp155,CBB_155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070221,FDG95_gp156,FDG95_gp156,CBB_156,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070222,FDG95_gp157,FDG95_gp157,CBB_157,-,-,-,putative N-4 cytosine-specific methyltransferase,protein-coding,-,-,-,putative N-4 cytosine-specific methyltransferase,20201222,-
+2772511,40070223,FDG95_gp158,FDG95_gp158,CBB_158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070224,FDG95_gp159,FDG95_gp159,CBB_159,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20201222,-
+2772511,40070225,FDG95_gp160,FDG95_gp160,CBB_160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070226,FDG95_gp161,FDG95_gp161,CBB_161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070227,FDG95_gp162,FDG95_gp162,CBB_162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070228,FDG95_gp163,FDG95_gp163,CBB_163,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20201222,-
+2772511,40070229,FDG95_gp164,FDG95_gp164,CBB_164,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070230,FDG95_gp165,FDG95_gp165,CBB_165,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070231,FDG95_gp166,FDG95_gp166,CBB_166,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070232,FDG95_gp167,FDG95_gp167,CBB_167,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070233,FDG95_gp168,FDG95_gp168,CBB_168,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070234,FDG95_gp169,FDG95_gp169,CBB_169,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070235,FDG95_gp170,FDG95_gp170,CBB_170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070236,FDG95_gp171,FDG95_gp171,CBB_171,-,-,-,GTP cyclohydrolase,protein-coding,-,-,-,GTP cyclohydrolase,20201222,-
+2772511,40070237,FDG95_gp172,FDG95_gp172,CBB_172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070238,FDG95_gp173,FDG95_gp173,CBB_173,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20201222,-
+2772511,40070239,FDG95_gp174,FDG95_gp174,CBB_174,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070240,FDG95_gp175,FDG95_gp175,CBB_175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070241,FDG95_gp176,FDG95_gp176,CBB_176,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070242,FDG95_gp177,FDG95_gp177,CBB_177,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070243,FDG95_gp178,FDG95_gp178,CBB_178,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070244,FDG95_gp179,FDG95_gp179,CBB_179,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070245,FDG95_gp180,FDG95_gp180,CBB_180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070246,FDG95_gp181,FDG95_gp181,CBB_181,-,-,-,RNA ligase,protein-coding,-,-,-,RNA ligase,20201222,-
+2772511,40070247,FDG95_gp182,FDG95_gp182,CBB_182,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070248,FDG95_gp183,FDG95_gp183,CBB_183,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070249,FDG95_gp184,FDG95_gp184,CBB_184,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070250,FDG95_gp185,FDG95_gp185,CBB_185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070251,FDG95_gp186,FDG95_gp186,CBB_186,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070252,FDG95_gp187,FDG95_gp187,CBB_187,-,-,-,lysozyme,protein-coding,-,-,-,lysozyme,20201222,-
+2772511,40070253,FDG95_gp188,FDG95_gp188,CBB_188,-,-,-,sigma 54 modulation protein/ribosomal protein S30EA,protein-coding,-,-,-,sigma 54 modulation protein/ribosomal protein S30EA,20201222,-
+2772511,40070254,FDG95_gp189,FDG95_gp189,CBB_189,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070255,FDG95_gp190,FDG95_gp190,CBB_190,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070256,FDG95_gp191,FDG95_gp191,CBB_191,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070257,FDG95_gp192,FDG95_gp192,CBB_192,-,-,-,multifunctional tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase,protein-coding,-,-,-,multifunctional tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase,20201222,-
+2772511,40070258,FDG95_gp193,FDG95_gp193,CBB_193,-,-,-,nudix hydrolase,protein-coding,-,-,-,nudix hydrolase,20201222,-
+2772511,40070259,FDG95_gp194,FDG95_gp194,CBB_194,-,-,-,glutaredoxin,protein-coding,-,-,-,glutaredoxin,20201222,-
+2772511,40070260,FDG95_gp195,FDG95_gp195,CBB_195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070261,FDG95_gp196,FDG95_gp196,CBB_196,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070262,FDG95_gp197,FDG95_gp197,CBB_197,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070263,FDG95_gp198,FDG95_gp198,CBB_198,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070264,FDG95_gp199,FDG95_gp199,CBB_199,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070265,FDG95_gp200,FDG95_gp200,CBB_200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070266,FDG95_gp201,FDG95_gp201,CBB_201,-,-,-,neck protein,protein-coding,-,-,-,neck protein,20201222,-
+2772511,40070267,FDG95_gp202,FDG95_gp202,CBB_202,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070268,FDG95_gp203,FDG95_gp203,CBB_203,-,-,-,putative deoxynucleoside monophosphate kinase,protein-coding,-,-,-,putative deoxynucleoside monophosphate kinase,20201222,-
+2772511,40070269,FDG95_gp204,FDG95_gp204,CBB_204,-,-,-,tail sheath monomer,protein-coding,-,-,-,tail sheath monomer,20201222,-
+2772511,40070270,FDG95_gp205,FDG95_gp205,CBB_205,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070271,FDG95_gp206,FDG95_gp206,CBB_206,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070272,FDG95_gp207,FDG95_gp207,CBB_207,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070273,FDG95_gp208,FDG95_gp208,CBB_208,-,-,-,head completion protein,protein-coding,-,-,-,head completion protein,20201222,-
+2772511,40070274,FDG95_gp209,FDG95_gp209,CBB_209,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070275,FDG95_gp210,FDG95_gp210,CBB_210,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070276,FDG95_gp211,FDG95_gp211,CBB_211,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070277,FDG95_gp212,FDG95_gp212,CBB_212,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070278,FDG95_gp213,FDG95_gp213,CBB_213,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070279,FDG95_gp214,FDG95_gp214,CBB_214,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070280,FDG95_gp215,FDG95_gp215,CBB_215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070281,FDG95_gp216,FDG95_gp216,CBB_216,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20201222,-
+2772511,40070282,FDG95_gp217,FDG95_gp217,CBB_217,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070283,FDG95_gp218,FDG95_gp218,CBB_218,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070284,FDG95_gp219,FDG95_gp219,CBB_219,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070285,FDG95_gp220,FDG95_gp220,CBB_220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070286,FDG95_gp221,FDG95_gp221,CBB_221,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070287,FDG95_gp222,FDG95_gp222,CBB_222,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070288,FDG95_gp223,FDG95_gp223,CBB_223,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20201222,-
+2772511,40070289,FDG95_gp224,FDG95_gp224,CBB_224,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070290,FDG95_gp225,FDG95_gp225,CBB_225,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070291,FDG95_gp226,FDG95_gp226,CBB_226,-,-,-,long tail fiber proximal subunit,protein-coding,-,-,-,long tail fiber proximal subunit,20201222,-
+2772511,40070292,FDG95_gp227,FDG95_gp227,CBB_227,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070293,FDG95_gp228,FDG95_gp228,CBB_228,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070294,FDG95_gp229,FDG95_gp229,CBB_229,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070295,FDG95_gp230,FDG95_gp230,CBB_230,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070296,FDG95_gp231,FDG95_gp231,CBB_231,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070297,FDG95_gp232,FDG95_gp232,CBB_232,-,-,-,MutT/NUDIX hydrolase family protein,protein-coding,-,-,-,MutT/NUDIX hydrolase family protein,20201222,-
+2772511,40070298,FDG95_gp233,FDG95_gp233,CBB_233,-,-,-,tail sheath stabilizer and completion protein,protein-coding,-,-,-,tail sheath stabilizer and completion protein,20201222,-
+2772511,40070299,FDG95_gp234,FDG95_gp234,CBB_234,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070300,FDG95_gp235,FDG95_gp235,CBB_235,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA,20201222,-
+2772511,40070301,FDG95_gp236,FDG95_gp236,CBB_236,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070302,FDG95_gp237,FDG95_gp237,CBB_237,-,-,-,baseplate wedge,protein-coding,-,-,-,baseplate wedge,20201222,-
+2772511,40070303,FDG95_gp238,FDG95_gp238,CBB_238,-,-,-,base plate protein,protein-coding,-,-,-,base plate protein,20201222,-
+2772511,40070304,FDG95_gp239,FDG95_gp239,CBB_239,-,-,-,baseplate hub subunit and tail lysozyme,protein-coding,-,-,-,baseplate hub subunit and tail lysozyme,20201222,-
+2772511,40070305,FDG95_gp240,FDG95_gp240,CBB_240,-,-,-,hub subunit and tail lysozyme,protein-coding,-,-,-,hub subunit and tail lysozyme,20201222,-
+2772511,40070306,FDG95_gp241,FDG95_gp241,CBB_241,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070307,FDG95_gp242,FDG95_gp242,CBB_242,-,-,-,baseplate wedge protein,protein-coding,-,-,-,baseplate wedge protein,20201222,-
+2772511,40070308,FDG95_gp243,FDG95_gp243,CBB_243,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070309,FDG95_gp244,FDG95_gp244,CBB_244,-,-,-,sigma factor for late transcription,protein-coding,-,-,-,sigma factor for late transcription,20201222,-
+2772511,40070310,FDG95_gp245,FDG95_gp245,CBB_245,-,-,-,recombination endonuclease subunit,protein-coding,-,-,-,recombination endonuclease subunit,20201222,-
+2772511,40070311,FDG95_gp246,FDG95_gp246,CBB_246,-,-,-,recombination endonuclease subunit,protein-coding,-,-,-,recombination endonuclease subunit,20201222,-
+2772511,40070312,FDG95_gp247,FDG95_gp247,CBB_247,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070313,FDG95_gp248,FDG95_gp248,CBB_248,-,-,-,DNA endonuclease VII,protein-coding,-,-,-,DNA endonuclease VII,20201222,-
+2772511,40070314,FDG95_gp249,FDG95_gp249,CBB_249,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070315,FDG95_gp250,FDG95_gp250,CBB_250,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070316,FDG95_gp251,FDG95_gp251,CBB_251,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070317,FDG95_gp252,FDG95_gp252,CBB_252,-,-,-,portal vertex protein of head,protein-coding,-,-,-,portal vertex protein of head,20201222,-
+2772511,40070318,FDG95_gp253,FDG95_gp253,CBB_253,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070319,FDG95_gp254,FDG95_gp254,CBB_254,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070320,FDG95_gp255,FDG95_gp255,CBB_255,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070321,FDG95_gp256,FDG95_gp256,CBB_256,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070322,FDG95_gp257,FDG95_gp257,CBB_257,-,-,-,precursor of major head subunit,protein-coding,-,-,-,precursor of major head subunit,20201222,-
+2772511,40070323,FDG95_gp258,FDG95_gp258,CBB_258,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070324,FDG95_gp259,FDG95_gp259,CBB_259,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070325,FDG95_gp260,FDG95_gp260,CBB_260,-,-,-,putative tail fiber protein,protein-coding,-,-,-,putative tail fiber protein,20201222,-
+2772511,40070326,FDG95_gp261,FDG95_gp261,CBB_261,-,-,-,tail fiber assembly protein,protein-coding,-,-,-,tail fiber assembly protein,20201222,-
+2772511,40070327,FDG95_gp262,FDG95_gp262,CBB_262,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070328,FDG95_gp263,FDG95_gp263,CBB_263,-,-,-,DNA polymerase,protein-coding,-,-,-,DNA polymerase,20201222,-
+2772511,40070329,FDG95_gp264,FDG95_gp264,CBB_264,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070330,FDG95_gp265,FDG95_gp265,CBB_265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070331,FDG95_gp266,FDG95_gp266,CBB_266,-,-,-,putative phosphoesterase or phosphohydrolase,protein-coding,-,-,-,putative phosphoesterase or phosphohydrolase,20201222,-
+2772511,40070332,FDG95_gp267,FDG95_gp267,CBB_267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070333,FDG95_gp268,FDG95_gp268,CBB_268,-,-,-,co-chaperonin GroES,protein-coding,-,-,-,co-chaperonin GroES,20201222,-
+2772511,40070334,FDG95_gp269,FDG95_gp269,CBB_269,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070335,FDG95_gp270,FDG95_gp270,CBB_270,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070336,FDG95_gp271,FDG95_gp271,CBB_271,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070337,FDG95_gp272,FDG95_gp272,CBB_272,-,-,-,RNaseH ribonuclease,protein-coding,-,-,-,RNaseH ribonuclease,20201222,-
+2772511,40070338,FDG95_gp273,FDG95_gp273,CBB_273,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070339,FDG95_gp274,FDG95_gp274,CBB_274,-,-,-,terminase DNA packaging enzyme large subunit,protein-coding,-,-,-,terminase DNA packaging enzyme large subunit,20201222,-
+2772511,40070340,FDG95_gp275,FDG95_gp275,CBB_275,-,-,-,DNA terminase packaging enzyme large subunit,protein-coding,-,-,-,DNA terminase packaging enzyme large subunit,20201222,-
+2772511,40070341,FDG95_gp276,FDG95_gp276,CBB_276,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070342,FDG95_gp277,FDG95_gp277,CBB_277,-,-,-,ssDNA binding protein,protein-coding,-,-,-,ssDNA binding protein,20201222,-
+2772511,40070343,FDG95_gp278,FDG95_gp278,CBB_278,-,-,-,RecA-like protein,protein-coding,-,-,-,RecA-like protein,20201222,-
+2772511,40070344,FDG95_gp279,FDG95_gp279,CBB_279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070345,FDG95_gp280,FDG95_gp280,CBB_280,-,-,-,putative DNA polymerase III epsilon subunit,protein-coding,-,-,-,putative DNA polymerase III epsilon subunit,20201222,-
+2772511,40070346,FDG95_gp281,FDG95_gp281,CBB_281,-,-,-,RNA-DNA + DNA-DNA helicase,protein-coding,-,-,-,RNA-DNA + DNA-DNA helicase,20201222,-
+2772511,40070347,FDG95_gp282,FDG95_gp282,CBB_282,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070348,FDG95_gp283,FDG95_gp283,CBB_283,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070349,FDG95_gp284,FDG95_gp284,CBB_284,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070350,FDG95_gp285,FDG95_gp285,CBB_285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070351,FDG95_gp286,FDG95_gp286,CBB_286,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070352,FDG95_gp287,FDG95_gp287,CBB_287,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070353,FDG95_gp288,FDG95_gp288,CBB_288,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070354,FDG95_gp289,FDG95_gp289,CBB_289,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070355,FDG95_gp290,FDG95_gp290,CBB_290,-,-,-,putative DNA primase,protein-coding,-,-,-,putative DNA primase,20201222,-
+2772511,40070356,FDG95_gp291,FDG95_gp291,CBB_291,-,-,-,DNA primase-helicase,protein-coding,-,-,-,DNA primase-helicase,20201222,-
+2772511,40070357,FDG95_gp292,FDG95_gp292,CBB_292,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070358,FDG95_gp293,FDG95_gp293,CBB_293,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070359,FDG95_gp294,FDG95_gp294,CBB_294,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070360,FDG95_gp295,FDG95_gp295,CBB_295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070361,FDG95_gp296,FDG95_gp296,CBB_296,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070362,FDG95_gp297,FDG95_gp297,CBB_297,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070363,FDG95_gp298,FDG95_gp298,CBB_298,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070364,FDG95_gp299,FDG95_gp299,CBB_299,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070365,FDG95_gp300,FDG95_gp300,CBB_300,-,-,-,restriction endonuclease type II like-protein,protein-coding,-,-,-,restriction endonuclease type II like-protein,20201222,-
+2772511,40070366,FDG95_gp301,FDG95_gp301,CBB_301,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070367,FDG95_gp302,FDG95_gp302,CBB_302,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070368,FDG95_gp303,FDG95_gp303,CBB_303,-,-,-,ribonucleotide-diphosphate reductase subunit,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit,20201222,-
+2772511,40070369,FDG95_gp304,FDG95_gp304,CBB_304,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070370,FDG95_gp305,FDG95_gp305,CBB_305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070371,FDG95_gp306,FDG95_gp306,CBB_306,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070372,FDG95_gp307,FDG95_gp307,CBB_307,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070373,FDG95_gp308,FDG95_gp308,CBB_308,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070374,FDG95_gp309,FDG95_gp309,CBB_309,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070375,FDG95_gp310,FDG95_gp310,CBB_310,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070376,FDG95_gp311,FDG95_gp311,CBB_311,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070377,FDG95_gp312,FDG95_gp312,CBB_312,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070378,FDG95_gp313,FDG95_gp313,CBB_313,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20201222,-
+2772511,40070379,FDG95_gp314,FDG95_gp314,CBB_314,-,-,-,ribonuclease H,protein-coding,-,-,-,ribonuclease H,20201222,-
+2772511,40070380,FDG95_gp315,FDG95_gp315,CBB_315,-,-,-,DNA helicase Dda,protein-coding,-,-,-,DNA helicase Dda,20201222,-
+2772511,40070381,FDG95_gp316,FDG95_gp316,CBB_316,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070382,FDG95_gp317,FDG95_gp317,CBB_317,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070383,FDG95_gp318,FDG95_gp318,CBB_318,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201222,-
+2772511,40070384,FDG95_gp319,FDG95_gp319,CBB_319,-,-,-,ATP-dependent Clp protease,protein-coding,-,-,-,ATP-dependent Clp protease,20201222,-
+2772511,40070385,FDG95_gp320,FDG95_gp320,CBB_320,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070386,FDG95_gp321,FDG95_gp321,CBB_321,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070387,FDG95_gp322,FDG95_gp322,CBB_322,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070388,FDG95_gp323,FDG95_gp323,CBB_323,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070389,FDG95_gp324,FDG95_gp324,CBB_324,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,DNA gyrase subunit B,20201222,-
+2772511,40070390,FDG95_gp325,FDG95_gp325,CBB_325,-,-,-,DNA topoisomerase II,protein-coding,-,-,-,DNA topoisomerase II,20201222,-
+2772511,40070391,FDG95_gp326,FDG95_gp326,CBB_326,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070392,FDG95_gp327,FDG95_gp327,CBB_327,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070393,FDG95_gp328,FDG95_gp328,CBB_328,-,-,-,DNA polymerase III alpha,protein-coding,-,-,-,DNA polymerase III alpha,20201222,-
+2772511,40070394,FDG95_gp329,FDG95_gp329,CBB_329,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070395,FDG95_gp330,FDG95_gp330,CBB_330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070396,FDG95_gp331,FDG95_gp331,CBB_331,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070397,FDG95_gp332,FDG95_gp332,CBB_332,-,-,-,sliding clamp loader subunit,protein-coding,-,-,-,sliding clamp loader subunit,20201222,-
+2772511,40070398,FDG95_gp333,FDG95_gp333,CBB_333,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070399,FDG95_gp334,FDG95_gp334,CBB_334,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070400,FDG95_gp335,FDG95_gp335,CBB_335,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070401,FDG95_gp336,FDG95_gp336,CBB_336,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070402,FDG95_gp337,FDG95_gp337,CBB_337,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070403,FDG95_gp338,FDG95_gp338,CBB_338,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070404,FDG95_gp339,FDG95_gp339,CBB_339,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070405,FDG95_gp340,FDG95_gp340,CBB_340,-,-,-,toxic ion resistance protein,protein-coding,-,-,-,toxic ion resistance protein,20201222,-
+2772511,40070406,FDG95_gp341,FDG95_gp341,CBB_341,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070407,FDG95_gp342,FDG95_gp342,CBB_342,-,-,-,putative metallopeptidase,protein-coding,-,-,-,putative metallopeptidase,20201222,-
+2772511,40070408,FDG95_gp343,FDG95_gp343,CBB_343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070409,FDG95_gp344,FDG95_gp344,CBB_344,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070410,FDG95_gp345,FDG95_gp345,CBB_345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070411,FDG95_gp346,FDG95_gp346,CBB_346,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070412,FDG95_gp347,FDG95_gp347,CBB_347,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070413,FDG95_gp348,FDG95_gp348,CBB_348,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070414,FDG95_gp349,FDG95_gp349,CBB_349,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070415,FDG95_gp350,FDG95_gp350,CBB_350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070416,FDG95_gp351,FDG95_gp351,CBB_351,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070417,FDG95_gp352,FDG95_gp352,CBB_352,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070418,FDG95_gp353,FDG95_gp353,CBB_353,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070419,FDG95_gp354,FDG95_gp354,CBB_354,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070420,FDG95_gp355,FDG95_gp355,CBB_355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070421,FDG95_gp356,FDG95_gp356,CBB_356,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070422,FDG95_gp357,FDG95_gp357,CBB_357,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070423,FDG95_gp358,FDG95_gp358,CBB_358,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070424,FDG95_gp359,FDG95_gp359,CBB_359,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070425,FDG95_gp360,FDG95_gp360,CBB_360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070426,FDG95_gp361,FDG95_gp361,CBB_361,-,-,-,nicotinamide-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinamide-nucleotide adenylyltransferase,20201222,-
+2772511,40070427,FDG95_gp362,FDG95_gp362,CBB_362,-,-,-,nicotinamide mononucleotide transporter PnuC,protein-coding,-,-,-,nicotinamide mononucleotide transporter PnuC,20201222,-
+2772511,40070428,FDG95_gp363,FDG95_gp363,CBB_363,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070429,FDG95_gp364,FDG95_gp364,CBB_364,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070430,FDG95_gp365,FDG95_gp365,CBB_365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070431,FDG95_gp366,FDG95_gp366,CBB_366,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070432,FDG95_gp367,FDG95_gp367,CBB_367,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070433,FDG95_gp368,FDG95_gp368,CBB_368,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070434,FDG95_gp369,FDG95_gp369,CBB_369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070435,FDG95_gp370,FDG95_gp370,CBB_370,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070436,FDG95_gp371,FDG95_gp371,CBB_371,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070437,FDG95_gp372,FDG95_gp372,CBB_372,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070438,FDG95_gp373,FDG95_gp373,CBB_373,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070439,FDG95_gt001,FDG95_gt001,CBB_tRNA1,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070440,FDG95_gp605,FDG95_gp605,CBB_374,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070441,FDG95_gp604,FDG95_gp604,CBB_375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070442,FDG95_gp603,FDG95_gp603,CBB_376,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070443,FDG95_gp602,FDG95_gp602,CBB_377,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070444,FDG95_gt002,FDG95_gt002,CBB_tRNA1A,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070445,FDG95_gp601,FDG95_gp601,CBB_378,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070446,FDG95_gp600,FDG95_gp600,CBB_379,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070447,FDG95_gp599,FDG95_gp599,CBB_380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070448,FDG95_gp598,FDG95_gp598,CBB_381,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070449,FDG95_gp597,FDG95_gp597,CBB_382,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070450,FDG95_gt003,FDG95_gt003,CBB_tRNA1B,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070451,FDG95_gp596,FDG95_gp596,CBB_383,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070452,FDG95_gt004,FDG95_gt004,CBB_tRNA2,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070453,FDG95_gp595,FDG95_gp595,CBB_384,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070454,FDG95_gp594,FDG95_gp594,CBB_385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070455,FDG95_gp593,FDG95_gp593,CBB_386,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070456,FDG95_gp592,FDG95_gp592,CBB_387,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070457,FDG95_gp591,FDG95_gp591,CBB_388,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070458,FDG95_gp590,FDG95_gp590,CBB_389,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070459,FDG95_gp589,FDG95_gp589,CBB_390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070460,FDG95_gp588,FDG95_gp588,CBB_391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070461,FDG95_gp587,FDG95_gp587,CBB_392,-,-,-,peptidyl-tRNA hydrolase,protein-coding,-,-,-,peptidyl-tRNA hydrolase,20201222,-
+2772511,40070462,FDG95_gt005,FDG95_gt005,CBB_tRNA3,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070463,FDG95_gp586,FDG95_gp586,CBB_393,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070464,FDG95_gp585,FDG95_gp585,CBB_394,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070465,FDG95_gp584,FDG95_gp584,CBB_395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070466,FDG95_gp583,FDG95_gp583,CBB_396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070467,FDG95_gp582,FDG95_gp582,CBB_397,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070468,FDG95_gp581,FDG95_gp581,CBB_398,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070469,FDG95_gp580,FDG95_gp580,CBB_399,-,-,-,cytosine methyltransferase,protein-coding,-,-,-,cytosine methyltransferase,20201222,-
+2772511,40070470,FDG95_gp579,FDG95_gp579,CBB_400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070471,FDG95_gp578,FDG95_gp578,CBB_401,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070472,FDG95_gp577,FDG95_gp577,CBB_402,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070473,FDG95_gp576,FDG95_gp576,CBB_403,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070474,FDG95_gp575,FDG95_gp575,CBB_404,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070475,FDG95_gp574,FDG95_gp574,CBB_405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070476,FDG95_gp573,FDG95_gp573,CBB_406,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070477,FDG95_gp572,FDG95_gp572,CBB_407,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070478,FDG95_gp571,FDG95_gp571,CBB_408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070479,FDG95_gp570,FDG95_gp570,CBB_409,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070480,FDG95_gp569,FDG95_gp569,CBB_410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070481,FDG95_gp568,FDG95_gp568,CBB_411,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070482,FDG95_gp567,FDG95_gp567,CBB_412,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070483,FDG95_gt006,FDG95_gt006,CBB_tRNA4,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070484,FDG95_gp566,FDG95_gp566,CBB_413,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070485,FDG95_gp565,FDG95_gp565,CBB_414,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070486,FDG95_gp564,FDG95_gp564,CBB_415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070487,FDG95_gp563,FDG95_gp563,CBB_416,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070488,FDG95_gp562,FDG95_gp562,CBB_417,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070489,FDG95_gp561,FDG95_gp561,CBB_418,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070490,FDG95_gt007,FDG95_gt007,CBB_tRNA5,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070491,FDG95_gt008,FDG95_gt008,CBB_tRNA6,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070492,FDG95_gt009,FDG95_gt009,CBB_tRNA7,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070493,FDG95_gp560,FDG95_gp560,CBB_419,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070494,FDG95_gt010,FDG95_gt010,CBB_tRNA7A,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070495,FDG95_gp559,FDG95_gp559,CBB_420,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20201222,-
+2772511,40070496,FDG95_gp558,FDG95_gp558,CBB_421,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070497,FDG95_gp557,FDG95_gp557,CBB_422,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070498,FDG95_gp556,FDG95_gp556,CBB_423,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070499,FDG95_gp555,FDG95_gp555,CBB_424,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070500,FDG95_gp554,FDG95_gp554,CBB_425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070501,FDG95_gt011,FDG95_gt011,CBB_tRNA8,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070502,FDG95_gp553,FDG95_gp553,CBB_426,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070503,FDG95_gp552,FDG95_gp552,CBB_427,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070504,FDG95_gp551,FDG95_gp551,CBB_428,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070505,FDG95_gp550,FDG95_gp550,CBB_429,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070506,FDG95_gp549,FDG95_gp549,CBB_430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070507,FDG95_gp548,FDG95_gp548,CBB_431,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070508,FDG95_gp547,FDG95_gp547,CBB_432,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070509,FDG95_gp546,FDG95_gp546,CBB_433,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070510,FDG95_gp545,FDG95_gp545,CBB_434,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070511,FDG95_gt012,FDG95_gt012,CBB_tRNA9,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070512,FDG95_gp544,FDG95_gp544,CBB_435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070513,FDG95_gp543,FDG95_gp543,CBB_436,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070514,FDG95_gp542,FDG95_gp542,CBB_437,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070515,FDG95_gp541,FDG95_gp541,CBB_438,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070516,FDG95_gp540,FDG95_gp540,CBB_439,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070517,FDG95_gt013,FDG95_gt013,CBB_tRNA10,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070518,FDG95_gp539,FDG95_gp539,CBB_440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070519,FDG95_gp538,FDG95_gp538,CBB_441,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070520,FDG95_gp537,FDG95_gp537,CBB_442,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070521,FDG95_gp536,FDG95_gp536,CBB_443,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070522,FDG95_gt014,FDG95_gt014,CBB_tRNA11,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070523,FDG95_gp535,FDG95_gp535,CBB_444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070524,FDG95_gp534,FDG95_gp534,CBB_445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070525,FDG95_gp533,FDG95_gp533,CBB_446,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070526,FDG95_gp532,FDG95_gp532,CBB_447,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070527,FDG95_gp531,FDG95_gp531,CBB_448,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070528,FDG95_gp530,FDG95_gp530,CBB_449,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070529,FDG95_gp529,FDG95_gp529,CBB_450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070530,FDG95_gt015,FDG95_gt015,CBB_tRNA12,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070531,FDG95_gt016,FDG95_gt016,CBB_tRNA13,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070532,FDG95_gt017,FDG95_gt017,CBB_tRNA14,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070533,FDG95_gt018,FDG95_gt018,CBB_tRNA15,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070534,FDG95_gp528,FDG95_gp528,CBB_451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070535,FDG95_gp527,FDG95_gp527,CBB_452,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070536,FDG95_gp526,FDG95_gp526,CBB_453,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070537,FDG95_gp525,FDG95_gp525,CBB_454,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070538,FDG95_gt019,FDG95_gt019,CBB_tRNA16,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070539,FDG95_gp524,FDG95_gp524,CBB_455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070540,FDG95_gp523,FDG95_gp523,CBB_456,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070541,FDG95_gp522,FDG95_gp522,CBB_457,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070542,FDG95_gp521,FDG95_gp521,CBB_458,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070543,FDG95_gt020,FDG95_gt020,CBB_tRNA16A,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070544,FDG95_gp520,FDG95_gp520,CBB_459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070545,FDG95_gt021,FDG95_gt021,CBB_tRNA17,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070546,FDG95_gp519,FDG95_gp519,CBB_460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070547,FDG95_gt022,FDG95_gt022,CBB_tRNA17A,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070548,FDG95_gp518,FDG95_gp518,CBB_461,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070549,FDG95_gp517,FDG95_gp517,CBB_462,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070550,FDG95_gp516,FDG95_gp516,CBB_463,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070551,FDG95_gp515,FDG95_gp515,CBB_464,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070552,FDG95_gt023,FDG95_gt023,CBB_tRNA18,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070553,FDG95_gp514,FDG95_gp514,CBB_465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070554,FDG95_gp513,FDG95_gp513,CBB_466,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070555,FDG95_gt024,FDG95_gt024,CBB_tRNA19,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070556,FDG95_gp512,FDG95_gp512,CBB_467,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070557,FDG95_gp511,FDG95_gp511,CBB_468,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070558,FDG95_gp510,FDG95_gp510,CBB_469,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070559,FDG95_gt025,FDG95_gt025,CBB_tRNA20,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070560,FDG95_gt026,FDG95_gt026,CBB_tRNA21,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070561,FDG95_gp509,FDG95_gp509,CBB_470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070562,FDG95_gt027,FDG95_gt027,CBB_tRNA22,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070563,FDG95_gp508,FDG95_gp508,CBB_471,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070564,FDG95_gt028,FDG95_gt028,CBB_tRNA23,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070565,FDG95_gp507,FDG95_gp507,CBB_472,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070566,FDG95_gp506,FDG95_gp506,CBB_473,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070567,FDG95_gp505,FDG95_gp505,CBB_474,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070568,FDG95_gp504,FDG95_gp504,CBB_475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070569,FDG95_gt029,FDG95_gt029,CBB_tRNA24,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070570,FDG95_gp503,FDG95_gp503,CBB_476,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070571,FDG95_gp502,FDG95_gp502,CBB_477,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070572,FDG95_gp501,FDG95_gp501,CBB_478,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070573,FDG95_gp500,FDG95_gp500,CBB_479,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070574,FDG95_gp499,FDG95_gp499,CBB_480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070575,FDG95_gp498,FDG95_gp498,CBB_481,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070576,FDG95_gp497,FDG95_gp497,CBB_482,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070577,FDG95_gp496,FDG95_gp496,CBB_483,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070578,FDG95_gp495,FDG95_gp495,CBB_484,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070579,FDG95_gp494,FDG95_gp494,CBB_485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070580,FDG95_gp493,FDG95_gp493,CBB_486,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070581,FDG95_gp492,FDG95_gp492,CBB_487,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070582,FDG95_gp491,FDG95_gp491,CBB_488,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070583,FDG95_gp490,FDG95_gp490,CBB_489,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070584,FDG95_gt030,FDG95_gt030,CBB_tRNA25,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070585,FDG95_gp489,FDG95_gp489,CBB_490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070586,FDG95_gp488,FDG95_gp488,CBB_491,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070587,FDG95_gp487,FDG95_gp487,CBB_492,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070588,FDG95_gt031,FDG95_gt031,CBB_tRNA26,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070589,FDG95_gp486,FDG95_gp486,CBB_493,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070590,FDG95_gt032,FDG95_gt032,CBB_tRNA26A,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070591,FDG95_gt033,FDG95_gt033,CBB_tRNA27,-,-,-,tRNA,tRNA,-,-,-,-,20200920,-
+2772511,40070592,FDG95_gp485,FDG95_gp485,CBB_494,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070593,FDG95_gp484,FDG95_gp484,CBB_495,-,-,-,S-adenosyl-L- methionine-dependent methyltransferase,protein-coding,-,-,-,S-adenosyl-L- methionine-dependent methyltransferase,20201222,-
+2772511,40070594,FDG95_gp483,FDG95_gp483,CBB_496,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070595,FDG95_gp482,FDG95_gp482,CBB_497,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070596,FDG95_gp481,FDG95_gp481,CBB_498,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070597,FDG95_gp480,FDG95_gp480,CBB_499,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070598,FDG95_gp479,FDG95_gp479,CBB_500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070599,FDG95_gp478,FDG95_gp478,CBB_501,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070600,FDG95_gp477,FDG95_gp477,CBB_502,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070601,FDG95_gp476,FDG95_gp476,CBB_503,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070602,FDG95_gp475,FDG95_gp475,CBB_504,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070603,FDG95_gp474,FDG95_gp474,CBB_505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070604,FDG95_gp473,FDG95_gp473,CBB_506,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070605,FDG95_gp472,FDG95_gp472,CBB_507,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070606,FDG95_gp471,FDG95_gp471,CBB_508,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070607,FDG95_gp470,FDG95_gp470,CBB_509,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070608,FDG95_gp469,FDG95_gp469,CBB_510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070609,FDG95_gp468,FDG95_gp468,CBB_511,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20201222,-
+2772511,40070610,FDG95_gp467,FDG95_gp467,CBB_512,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070611,FDG95_gp466,FDG95_gp466,CBB_513,-,-,-,subfamily RNA polymerase sigma-70 subunit,protein-coding,-,-,-,subfamily RNA polymerase sigma-70 subunit,20201222,-
+2772511,40070612,FDG95_gp465,FDG95_gp465,CBB_514,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070613,FDG95_gp464,FDG95_gp464,CBB_515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070614,FDG95_gp463,FDG95_gp463,CBB_516,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070615,FDG95_gp462,FDG95_gp462,CBB_517,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070616,FDG95_gp461,FDG95_gp461,CBB_518,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070617,FDG95_gp460,FDG95_gp460,CBB_519,-,-,-,endonuclease V N-glycosylase UV repair enzyme,protein-coding,-,-,-,endonuclease V N-glycosylase UV repair enzyme,20201222,-
+2772511,40070618,FDG95_gp459,FDG95_gp459,CBB_520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070619,FDG95_gp458,FDG95_gp458,CBB_521,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070620,FDG95_gp457,FDG95_gp457,CBB_522,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070621,FDG95_gp456,FDG95_gp456,CBB_523,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070622,FDG95_gp455,FDG95_gp455,CBB_524,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070623,FDG95_gp454,FDG95_gp454,CBB_525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070624,FDG95_gp453,FDG95_gp453,CBB_526,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070625,FDG95_gp452,FDG95_gp452,CBB_527,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070626,FDG95_gp451,FDG95_gp451,CBB_528,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20201222,-
+2772511,40070627,FDG95_gp450,FDG95_gp450,CBB_529,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070628,FDG95_gp449,FDG95_gp449,CBB_530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070629,FDG95_gp448,FDG95_gp448,CBB_531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070630,FDG95_gp447,FDG95_gp447,CBB_532,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070631,FDG95_gp446,FDG95_gp446,CBB_533,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070632,FDG95_gp445,FDG95_gp445,CBB_534,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070633,FDG95_gp444,FDG95_gp444,CBB_535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070634,FDG95_gp443,FDG95_gp443,CBB_536,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070635,FDG95_gp442,FDG95_gp442,CBB_537,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070636,FDG95_gp441,FDG95_gp441,CBB_538,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070637,FDG95_gp440,FDG95_gp440,CBB_539,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070638,FDG95_gp439,FDG95_gp439,CBB_540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070639,FDG95_gp438,FDG95_gp438,CBB_541,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070640,FDG95_gp437,FDG95_gp437,CBB_542,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070641,FDG95_gp436,FDG95_gp436,CBB_543,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070642,FDG95_gp435,FDG95_gp435,CBB_544,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070643,FDG95_gp434,FDG95_gp434,CBB_545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070644,FDG95_gp433,FDG95_gp433,CBB_546,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070645,FDG95_gp432,FDG95_gp432,CBB_547,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070646,FDG95_gp431,FDG95_gp431,CBB_548,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070647,FDG95_gp430,FDG95_gp430,CBB_549,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070648,FDG95_gp429,FDG95_gp429,CBB_550,-,-,-,kelch-like protein,protein-coding,-,-,-,kelch-like protein,20201222,-
+2772511,40070649,FDG95_gp428,FDG95_gp428,CBB_551,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070650,FDG95_gp427,FDG95_gp427,CBB_552,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070651,FDG95_gp426,FDG95_gp426,CBB_553,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070652,FDG95_gp425,FDG95_gp425,CBB_554,-,-,-,kelch-like protein,protein-coding,-,-,-,kelch-like protein,20201222,-
+2772511,40070653,FDG95_gp424,FDG95_gp424,CBB_555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070654,FDG95_gp423,FDG95_gp423,CBB_556,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070655,FDG95_gp422,FDG95_gp422,CBB_557,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070656,FDG95_gp421,FDG95_gp421,CBB_558,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070657,FDG95_gp420,FDG95_gp420,CBB_559,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070658,FDG95_gp419,FDG95_gp419,CBB_560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070659,FDG95_gp418,FDG95_gp418,CBB_561,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070660,FDG95_gp417,FDG95_gp417,CBB_562,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070661,FDG95_gp416,FDG95_gp416,CBB_563,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070662,FDG95_gp415,FDG95_gp415,CBB_564,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070663,FDG95_gp414,FDG95_gp414,CBB_565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070664,FDG95_gp413,FDG95_gp413,CBB_566,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070665,FDG95_gp412,FDG95_gp412,CBB_567,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070666,FDG95_gp411,FDG95_gp411,CBB_568,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070667,FDG95_gp410,FDG95_gp410,CBB_569,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070668,FDG95_gp409,FDG95_gp409,CBB_570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070669,FDG95_gp408,FDG95_gp408,CBB_571,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070670,FDG95_gp407,FDG95_gp407,CBB_572,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070671,FDG95_gp406,FDG95_gp406,CBB_573,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070672,FDG95_gp405,FDG95_gp405,CBB_574,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070673,FDG95_gp404,FDG95_gp404,CBB_575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070674,FDG95_gp403,FDG95_gp403,CBB_576,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070675,FDG95_gp402,FDG95_gp402,CBB_577,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070676,FDG95_gp401,FDG95_gp401,CBB_578,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070677,FDG95_gp400,FDG95_gp400,CBB_579,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070678,FDG95_gp399,FDG95_gp399,CBB_580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070679,FDG95_gp398,FDG95_gp398,CBB_581,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070680,FDG95_gp397,FDG95_gp397,CBB_582,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20201222,-
+2772511,40070681,FDG95_gp396,FDG95_gp396,CBB_583,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070682,FDG95_gp395,FDG95_gp395,CBB_584,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070683,FDG95_gp394,FDG95_gp394,CBB_585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070684,FDG95_gp393,FDG95_gp393,CBB_586,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070685,FDG95_gp392,FDG95_gp392,CBB_587,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070686,FDG95_gp391,FDG95_gp391,CBB_588,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070687,FDG95_gp390,FDG95_gp390,CBB_589,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070688,FDG95_gp389,FDG95_gp389,CBB_590,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070689,FDG95_gp388,FDG95_gp388,CBB_591,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070690,FDG95_gp387,FDG95_gp387,CBB_592,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070691,FDG95_gp386,FDG95_gp386,CBB_593,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070692,FDG95_gp385,FDG95_gp385,CBB_594,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070693,FDG95_gp384,FDG95_gp384,CBB_595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070694,FDG95_gp383,FDG95_gp383,CBB_596,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070695,FDG95_gp382,FDG95_gp382,CBB_597,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070696,FDG95_gp381,FDG95_gp381,CBB_598,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070697,FDG95_gp380,FDG95_gp380,CBB_599,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070698,FDG95_gp379,FDG95_gp379,CBB_600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070699,FDG95_gp378,FDG95_gp378,CBB_601,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070700,FDG95_gp377,FDG95_gp377,CBB_602,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070701,FDG95_gp376,FDG95_gp376,CBB_603,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070702,FDG95_gp375,FDG95_gp375,CBB_604,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,40070703,FDG95_gp374,FDG95_gp374,CBB_605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201222,-
+2772511,58920348,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Enterobacter phage CBB; Enterobacteriaceae bacteriophage vB_PcaM_CBB; Enterobacteriaceae phage vB_PcaM_CBB; Pectobacterium phage CBB).,other,-,-,-,-,20200921,-

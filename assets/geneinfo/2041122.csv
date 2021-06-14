@@ -1,0 +1,168 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2041122,34729890,atpB,CSD92_pgp002,Cyp_tor1Pt0025,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20171028,-
+2041122,34729891,atpE,CSD92_pgp003,Cyp_tor1Pt0040,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20171028,-
+2041122,34729892,accD,CSD92_pgp004,Cyp_tor1Pt0045,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729893,psaI,CSD92_pgp005,Cyp_tor1Pt0049,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20171028,-
+2041122,34729894,pafII,CSD92_pgp006,Cyp_tor1Pt0053,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20171028,-
+2041122,34729895,cemA,CSD92_pgp007,Cyp_tor1Pt0068,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20171028,-
+2041122,34729896,petA,CSD92_pgp008,Cyp_tor1Pt0077,-,-,-,cytochrome f,protein-coding,-,-,-,-,20171028,-
+2041122,34729897,psbE,CSD92_pgp009,Cyp_tor1Pt0098,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20171028,-
+2041122,34729898,psbF,CSD92_pgp010,Cyp_tor1Pt0100,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20171028,-
+2041122,34729899,psbL,CSD92_pgp011,Cyp_tor1Pt0102,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20171028,-
+2041122,34729900,psbJ,CSD92_pgp012,Cyp_tor1Pt0105,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20171028,-
+2041122,34729901,petL,CSD92_pgp013,Cyp_tor1Pt0115,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20171028,-
+2041122,34729902,petG,CSD92_pgp014,Cyp_tor1Pt0117,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20171028,-
+2041122,34729903,trnW (CCA),CSD92_pgt001,Cyp_tor1Pt0120,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729904,trnP (UGG),CSD92_pgt002,Cyp_tor1Pt0122,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729905,psaJ,CSD92_pgp121,Cyp_tor1Pt0127,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20171028,-
+2041122,34729906,rpl33,CSD92_pgp120,Cyp_tor1Pt0133,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20171028,-
+2041122,34729907,rps18,CSD92_pgp119,Cyp_tor1Pt0136,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20171028,-
+2041122,34729908,rpl20,CSD92_pgp118,Cyp_tor1Pt0143,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20171028,-
+2041122,34729909,rpoA,CSD92_pgp117,Cyp_tor1Pt0151,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34729910,rps11,CSD92_pgp116,Cyp_tor1Pt0162,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20171028,-
+2041122,34729911,rpl36,CSD92_pgp115,Cyp_tor1Pt0167,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20171028,-
+2041122,34729912,infA,CSD92_pgp114,Cyp_tor1Pt0169,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729913,ORF219,CSD92_pgp113,Cyp_tor1Pt0176,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34729914,rps12,CSD92_pgp111,Cyp_tor1Pt1618,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20171028,-
+2041122,34729915,rpl14,CSD92_pgp109,Cyp_tor1Pt0197,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20171028,-
+2041122,34729916,rpl16,CSD92_pgp108,Cyp_tor1Pt0202,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20171028,-
+2041122,34729917,rps3,CSD92_pgp107,Cyp_tor1Pt0218,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20171028,-
+2041122,34729918,ORF400,CSD92_pgp106,Cyp_tor1Pt0225,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34729919,rps8,CSD92_pgp105,Cyp_tor1Pt0239,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20171028,-
+2041122,34729920,ORF146,CSD92_pgp104,Cyp_tor1Pt0250,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34729921,trnK (UUU),CSD92_pgt003,Cyp_tor1Pt0257,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729922,matK,CSD92_pgp103,Cyp_tor1Pt0260,-,-,-,maturase K,protein-coding,-,-,-,-,20171028,-
+2041122,34729923,rps16,CSD92_pgp102,Cyp_tor1Pt0289,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20171028,-
+2041122,34729924,trnQ (UUG),CSD92_pgp101,Cyp_tor1Pt0296,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729925,trnQ (UUG),CSD92_pgp100,Cyp_tor1Pt0298,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729926,trnQ (UUG),CSD92_pgt004,Cyp_tor1Pt0299,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729927,CSD92_pgt005,CSD92_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729928,psbI,CSD92_pgp098,Cyp_tor1Pt0314,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20171028,-
+2041122,34729929,trnS (GCU),CSD92_pgt006,Cyp_tor1Pt0316,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729930,trnG (UCC),CSD92_pgt007,Cyp_tor1Pt0325,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729931,trnR (UCU),CSD92_pgt008,Cyp_tor1Pt0334,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729932,atpA,CSD92_pgp097,Cyp_tor1Pt0336,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20171028,-
+2041122,34729933,atpF,CSD92_pgp096,Cyp_tor1Pt0352,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20171028,-
+2041122,34729934,atpH,CSD92_pgp095,Cyp_tor1Pt0369,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20171028,-
+2041122,34729935,atpI,CSD92_pgp094,Cyp_tor1Pt0382,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20171028,-
+2041122,34729936,rps2,CSD92_pgp093,Cyp_tor1Pt0391,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20171028,-
+2041122,34729937,rpoC2,CSD92_pgp092,Cyp_tor1Pt0401,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34729938,rpoC1,CSD92_pgp091,Cyp_tor1Pt0444,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34729939,rpoB,CSD92_pgp090,Cyp_tor1Pt0472,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34729940,rpl23,CSD92_pgp089,Cyp_tor1Pt0506,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729941,trnC (GCA),CSD92_pgt009,Cyp_tor1Pt0522,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729942,petN,CSD92_pgp088,Cyp_tor1Pt0531,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20171028,-
+2041122,34729943,psbM,CSD92_pgp087,Cyp_tor1Pt0537,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+2041122,34729944,trnD (GUC),CSD92_pgt010,Cyp_tor1Pt0549,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729945,trnY (GUA),CSD92_pgt011,Cyp_tor1Pt0551,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729946,trnE (UUC),CSD92_pgt012,Cyp_tor1Pt0552,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729947,trnT (GGU),CSD92_pgp086,Cyp_tor1Pt0561,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729948,psbD,CSD92_pgp085,Cyp_tor1Pt0573,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20171028,-
+2041122,34729949,psbC,CSD92_pgp084,Cyp_tor1Pt0583,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20171028,-
+2041122,34729950,trnS (UGA),CSD92_pgt013,Cyp_tor1Pt0599,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729951,psbZ,CSD92_pgp083,Cyp_tor1Pt0603,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20171028,-
+2041122,34729952,trnG (GCC),CSD92_pgt014,Cyp_tor1Pt0608,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729953,trnfM (CAU),CSD92_pgt015,Cyp_tor1Pt0610,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729954,rps14,CSD92_pgp082,Cyp_tor1Pt0613,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20171028,-
+2041122,34729955,psaB,CSD92_pgp081,Cyp_tor1Pt0617,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20171028,-
+2041122,34729956,psaA,CSD92_pgp080,Cyp_tor1Pt0639,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20171028,-
+2041122,34729957,pafI,CSD92_pgp079,Cyp_tor1Pt0669,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20171028,-
+2041122,34729958,trnS (GGA),CSD92_pgt016,Cyp_tor1Pt0694,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729959,rps4,CSD92_pgp078,Cyp_tor1Pt0698,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20171028,-
+2041122,34729960,trnT (UGU),CSD92_pgt017,Cyp_tor1Pt0708,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729961,trnL (UAA),CSD92_pgt018,Cyp_tor1Pt0716,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729962,trnF (GAA),CSD92_pgt019,Cyp_tor1Pt0726,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729963,ndhJ,CSD92_pgp077,Cyp_tor1Pt0734,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20171028,-
+2041122,34729964,ndhK,CSD92_pgp076,Cyp_tor1Pt0740,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20171028,-
+2041122,34729965,ndhC,CSD92_pgp075,Cyp_tor1Pt0747,-,-,-,NADH dehydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20171028,-
+2041122,34729966,trnV (UAC),CSD92_pgt020,Cyp_tor1Pt0759,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729967,trnM (CAU),CSD92_pgt021,Cyp_tor1Pt0767,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729968,ORF200,CSD92_pgp074,Cyp_tor1Pt0788,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729969,trnH (GUG),CSD92_pgt022,Cyp_tor1Pt0789,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729970,psbA,CSD92_pgp073,Cyp_tor1Pt0793,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20171028,-
+2041122,34729971,ORF171,CSD92_pgp072,Cyp_tor1Pt0804,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729972,ORF166,CSD92_pgp071,Cyp_tor1Pt0810,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34729973,clpP,CSD92_pgp070,Cyp_tor1Pt0816,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34729974,psbB,CSD92_pgp069,Cyp_tor1Pt0828,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20171028,-
+2041122,34729975,psbT,CSD92_pgp068,Cyp_tor1Pt0845,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20171028,-
+2041122,34729976,psbN,CSD92_pgp067,Cyp_tor1Pt0847,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20171028,-
+2041122,34729977,psbH,CSD92_pgp066,Cyp_tor1Pt0849,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20171028,-
+2041122,34729978,petB,CSD92_pgp065,Cyp_tor1Pt0852,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20171028,-
+2041122,34729979,petD,CSD92_pgp064,Cyp_tor1Pt0868,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20171028,-
+2041122,34729980,ORF191,CSD92_pgp063,Cyp_tor1Pt0881,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729981,ORF131,CSD92_pgp062,Cyp_tor1Pt0885,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171028,-
+2041122,34729982,rps19,CSD92_pgp061,Cyp_tor1Pt0889,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20171028,-
+2041122,34729983,rpl2,CSD92_pgp060,Cyp_tor1Pt0893,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20171028,-
+2041122,34729984,rpl23,CSD92_pgp059,Cyp_tor1Pt0908,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34729985,trnI (CAU),CSD92_pgt023,Cyp_tor1Pt0917,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729986,ycf2,CSD92_pgp058,Cyp_tor1Pt0919,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20171028,-
+2041122,34729987,trnL (CAA),CSD92_pgt024,Cyp_tor1Pt0987,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729988,ndhB,CSD92_pgp057,Cyp_tor1Pt0993,-,-,-,NADH dehydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20171028,-
+2041122,34729989,rps7,CSD92_pgp056,Cyp_tor1Pt1018,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20171028,-
+2041122,34729990,trnV (GAC),CSD92_pgt025,Cyp_tor1Pt1049,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729991,rbcL,CSD92_pgp001,Cyp_tor1Pt0003,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20171028,-
+2041122,34729992,rrn16,CSD92_pgr008,Cyp_tor1Pt1052,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34729993,trnI (GAU),CSD92_pgt026,Cyp_tor1Pt1070,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729994,trnA (UGC),CSD92_pgt027,Cyp_tor1Pt1081,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729995,rrn23,CSD92_pgr007,Cyp_tor1Pt1091,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34729996,rrn4.5,CSD92_pgr006,Cyp_tor1Pt1120,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34729997,rrn5,CSD92_pgr005,Cyp_tor1Pt1124,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34729998,trnR (ACG),CSD92_pgt028,Cyp_tor1Pt1127,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34729999,trnN (GUU),CSD92_pgt029,Cyp_tor1Pt1131,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730000,ORF203,CSD92_pgp055,Cyp_tor1Pt1135,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34730001,rpl23,CSD92_pgp054,Cyp_tor1Pt1152,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730002,ycf1,CSD92_pgp053,Cyp_tor1Pt1159,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20171028,-
+2041122,34730003,rps15,CSD92_pgp052,Cyp_tor1Pt1230,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20171028,-
+2041122,34730004,ndhH,CSD92_pgp051,Cyp_tor1Pt1234,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20171028,-
+2041122,34730005,ndhA,CSD92_pgp050,Cyp_tor1Pt1246,-,-,-,NADH dehydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20171028,-
+2041122,34730006,ndhI,CSD92_pgp049,Cyp_tor1Pt1268,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20171028,-
+2041122,34730007,ndhG,CSD92_pgp048,Cyp_tor1Pt1277,-,-,-,NADH dehydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20171028,-
+2041122,34730008,ndhE,CSD92_pgp047,Cyp_tor1Pt1284,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20171028,-
+2041122,34730009,psaC,CSD92_pgp046,Cyp_tor1Pt1290,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20171028,-
+2041122,34730010,ndhD,CSD92_pgp045,Cyp_tor1Pt1294,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20171028,-
+2041122,34730011,ccsA,CSD92_pgp044,Cyp_tor1Pt1311,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20171028,-
+2041122,34730012,trnL (UAG),CSD92_pgt030,Cyp_tor1Pt1322,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730013,rpl32,CSD92_pgp043,Cyp_tor1Pt1330,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20171028,-
+2041122,34730014,ndhF,CSD92_pgp042,Cyp_tor1Pt1340,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20171028,-
+2041122,34730015,ndhG,CSD92_pgp041,Cyp_tor1Pt1368,-,-,-,NADH dehydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20171028,-
+2041122,34730016,ndhI,CSD92_pgp040,Cyp_tor1Pt1377,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20171028,-
+2041122,34730017,ndhA,CSD92_pgp039,Cyp_tor1Pt1383,-,-,-,NADH dehydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20171028,-
+2041122,34730018,ndhH,CSD92_pgp038,Cyp_tor1Pt1404,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20171028,-
+2041122,34730019,rps15,CSD92_pgp037,Cyp_tor1Pt1417,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20171028,-
+2041122,34730020,ycf1,CSD92_pgp036,Cyp_tor1Pt1424,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20171028,-
+2041122,34730021,rpl23,CSD92_pgp035,Cyp_tor1Pt1496,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730022,ORF203,CSD92_pgp034,Cyp_tor1Pt1508,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34730023,trnN (GUU),CSD92_pgt031,Cyp_tor1Pt1519,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730024,trnR (ACG),CSD92_pgt032,Cyp_tor1Pt1522,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730025,rrn5,CSD92_pgr004,Cyp_tor1Pt1525,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34730026,rrn4.5,CSD92_pgr003,Cyp_tor1Pt1528,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34730027,rrn23,CSD92_pgr002,Cyp_tor1Pt1530,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34730028,trnA (UGC),CSD92_pgt033,Cyp_tor1Pt1560,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730029,trnI (GAU),CSD92_pgt034,Cyp_tor1Pt1570,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730030,rrn16,CSD92_pgr001,Cyp_tor1Pt1583,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20171019,-
+2041122,34730031,rps12,CSD92_pgp112,Cyp_tor1Pt1024,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20171028,-
+2041122,34730032,trnV (GAC),CSD92_pgt035,Cyp_tor1Pt1600,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730033,rps7,CSD92_pgp033,Cyp_tor1Pt1627,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20171028,-
+2041122,34730034,ORF191,CSD92_pgp110,Cyp_tor1Pt0191,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730035,ndhB,CSD92_pgp032,Cyp_tor1Pt1635,-,-,-,NADH dehydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20171028,-
+2041122,34730036,trnL (CAA),CSD92_pgt036,Cyp_tor1Pt1662,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730037,ycf2,CSD92_pgp031,Cyp_tor1Pt1669,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20171028,-
+2041122,34730038,trnI (CAU),CSD92_pgt037,Cyp_tor1Pt1732,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730039,rpl23,CSD92_pgp030,Cyp_tor1Pt1740,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730040,rpl2,CSD92_pgp029,Cyp_tor1Pt1742,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20171028,-
+2041122,34730041,rps19,CSD92_pgp028,Cyp_tor1Pt1758,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20171028,-
+2041122,34730042,ORF131,CSD92_pgp027,Cyp_tor1Pt1761,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171028,-
+2041122,34730043,ORF191,CSD92_pgp026,Cyp_tor1Pt1768,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730044,petD,CSD92_pgp025,Cyp_tor1Pt1770,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20171028,-
+2041122,34730045,petB,CSD92_pgp024,Cyp_tor1Pt1783,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20171028,-
+2041122,34730046,psbH,CSD92_pgp023,Cyp_tor1Pt1799,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20171028,-
+2041122,34730047,psbN,CSD92_pgp022,Cyp_tor1Pt1802,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20171028,-
+2041122,34730048,psbT,CSD92_pgp021,Cyp_tor1Pt1804,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20171028,-
+2041122,34730049,psbB,CSD92_pgp020,Cyp_tor1Pt1807,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20171028,-
+2041122,34730050,clpP,CSD92_pgp019,Cyp_tor1Pt1827,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20171028,-
+2041122,34730051,ORF166,CSD92_pgp018,Cyp_tor1Pt1835,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171019,-
+2041122,34730052,ORF171,CSD92_pgp017,Cyp_tor1Pt1843,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730053,psbA,CSD92_pgp016,Cyp_tor1Pt1846,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20171028,-
+2041122,34730054,trnH (GUG),CSD92_pgt038,Cyp_tor1Pt1860,-,-,-,tRNA,tRNA,-,-,-,-,20171019,-
+2041122,34730055,ORF200,CSD92_pgp015,Cyp_tor1Pt1861,-,-,-,pseudo,pseudo,-,-,-,-,20171019,-
+2041122,34730056,psbK,CSD92_pgp099,Cyp_tor1Pt0308,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20171028,-

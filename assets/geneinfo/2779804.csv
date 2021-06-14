@@ -1,0 +1,68 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+2779804,16511105,trnK (UUU),AnatM_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511106,cox1,AnatM_p01,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20201024,-
+2779804,16511107,atp4,AnatM_p02,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20201024,-
+2779804,16511108,atp8,AnatM_p03,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,ATPase subunit 8,20201024,-
+2779804,16511109,rps1,AnatM_p04,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20201024,-
+2779804,16511110,trnC (GCA),AnatM_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511111,trnF (GAA),AnatM_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511112,rps2,AnatM_p05,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20201024,-
+2779804,16511113,ccmB,AnatM_p06,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,cytochrome c biogenesis B,20201024,-
+2779804,16511114,ccmC,AnatM_p07,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,cytochrome c biogenesis C,20201024,-
+2779804,16511115,ccmFN,AnatM_p08,-,-,MT,-,cytochrome c biogenesis factor N,protein-coding,-,-,-,cytochrome c biogenesis factor N,20201024,-
+2779804,16511116,ccmFC,AnatM_p09,-,-,MT,-,cytochrome c biogenesis factor C,protein-coding,-,-,-,cytochrome c biogenesis factor C,20201024,-
+2779804,16511117,trnQ (UUG),AnatM_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511118,trnL (UAG),AnatM_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511119,trnS (UGA),AnatM_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511120,trnG (UCC),AnatM_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511121,rps4,AnatM_p10,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210406,-
+2779804,16511122,tatC,AnatM_p11,-,-,MT,-,Sec-independent protein translocase protein,protein-coding,-,-,-,Sec-independent protein translocase protein,20201024,-
+2779804,16511123,trnR (UCU),AnatM_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511124,trnY (GUA),AnatM_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511125,nad4L,AnatM_p12,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210406,-
+2779804,16511126,sdh4,AnatM_p13,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,succinate dehydrogenase subunit 4,20210406,-
+2779804,16511127,sdh3,AnatM_p14,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20201024,-
+2779804,16511128,trnP (UGG),AnatM_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511129,rrn18,AnatM_r01,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20201024,-
+2779804,16511130,trnM (CAU),AnatM_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511131,rrn5,AnatM_r02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20201024,-
+2779804,16511132,trnMf (CAU),AnatM_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511133,rrn26,AnatM_r03,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20201024,-
+2779804,16511134,rpl10,AnatM_p15,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,ribosomal protein L10,20201024,-
+2779804,16511135,trnH (GUG),AnatM_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511136,trnL (CAA),AnatM_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511137,trnL (UAA),AnatM_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511138,nad5,AnatM_p16,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20201024,-
+2779804,16511139,nad4,AnatM_p17,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20201024,-
+2779804,16511140,nad2,AnatM_p18,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20201024,-
+2779804,16511141,trnG (GCC),AnatM_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511142,trnR (ACG),AnatM_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511143,trnE (UUC),AnatM_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511144,rps12,AnatM_p19,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20201024,-
+2779804,16511145,rps7,AnatM_p20,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20201024,-
+2779804,16511146,atp6,AnatM_p21,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20201024,-
+2779804,16511147,nad6,AnatM_p22,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20201024,-
+2779804,16511148,cox2,AnatM_p23,-,-,MT,-,cytochrome oxidase subunit 2,protein-coding,-,-,-,cytochrome oxidase subunit 2,20210406,-
+2779804,16511149,cox3,AnatM_p24,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210406,-
+2779804,16511150,nad1,AnatM_p25,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20201024,-
+2779804,16511151,cob,AnatM_p26,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20201024,-
+2779804,16511152,nad9,AnatM_p27,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20201024,-
+2779804,16511153,atp1,AnatM_p28,-,-,MT,-,ATP synthase F1 subunit alpha,protein-coding,-,-,-,ATP synthase F1 subunit alpha,20201024,-
+2779804,16511154,trnW (CCA),AnatM_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511155,nad3,AnatM_p29,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210406,-
+2779804,16511156,trnV (UAC),AnatM_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511157,trnD (GUC),AnatM_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511158,trnA (UGC),AnatM_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511159,trnT (GGU),AnatM_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
+2779804,16511160,nad7,AnatM_p30,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20210406,-
+2779804,16511161,rpL2,AnatM_p31,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20201024,-
+2779804,16511162,rps19,AnatM_p32,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20201024,-
+2779804,16511163,rps3,AnatM_p33,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20201024,-
+2779804,16511164,rpL16,AnatM_p34,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210129,-
+2779804,16511165,rpL5,AnatM_p35,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210406,-
+2779804,16511166,rps14,AnatM_p36,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210406,-
+2779804,16511167,rpL6,AnatM_p37,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20201024,-
+2779804,16511168,rps13,AnatM_p38,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210406,-
+2779804,16511169,rps11,AnatM_p39,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20201024,-
+2779804,16511170,atp9,AnatM_p40,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20201024,-
+2779804,16511171,trnI (CAU),AnatM_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20201024,-
