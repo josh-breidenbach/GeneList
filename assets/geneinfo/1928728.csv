@@ -1,0 +1,963 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1928728,38330874,EFG77_pgp002,EFG77_pgp002,PMNZ_002,-,-,-,low affinity sulfate transporter,protein-coding,-,-,-,low affinity sulfate transporter,20200911,-
+1928728,38330875,pyrC,EFG77_pgp003,PMNZ_003,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20200911,-
+1928728,38330876,EFG77_pgt001,EFG77_pgt001,PMNZ_004,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330877,ndhL,EFG77_pgp864,PMNZ_005,-,-,-,NADH dehydrogenase subunit,protein-coding,-,-,-,NADH dehydrogenase subunit,20200911,-
+1928728,38330878,EFG77_pgp863,EFG77_pgp863,PMNZ_006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330879,EFG77_pgp862,EFG77_pgp862,PMNZ_007,-,-,-,AbrB family transcriptional regulator,protein-coding,-,-,-,AbrB family transcriptional regulator,20200911,-
+1928728,38330880,EFG77_pgp861,EFG77_pgp861,PMNZ_008,-,-,-,cytochrome C,protein-coding,-,-,-,cytochrome C,20200911,-
+1928728,38330881,EFG77_pgp860,EFG77_pgp860,PMNZ_009,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330882,EFG77_pgp859,EFG77_pgp859,PMNZ_010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38330883,EFG77_pgp858,EFG77_pgp858,PMNZ_011,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330884,hisI,EFG77_pgp857,PMNZ_012,-,-,-,histidine biosynthesis bifunctional protein HisIE,protein-coding,-,-,-,histidine biosynthesis bifunctional protein HisIE,20200911,-
+1928728,38330885,EFG77_pgp856,EFG77_pgp856,PMNZ_013,-,-,-,6-pyruvoyl tetrahydropterin synthase,protein-coding,-,-,-,6-pyruvoyl tetrahydropterin synthase,20201010,-
+1928728,38330886,EFG77_pgp855,EFG77_pgp855,PMNZ_014,-,-,-,cation efflux family protein,protein-coding,-,-,-,cation efflux family protein,20200911,-
+1928728,38330887,EFG77_pgp854,EFG77_pgp854,PMNZ_015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330888,hemL,EFG77_pgp853,PMNZ_016,-,-,-,glutamate-1-semialdehyde aminotransferase,protein-coding,-,-,-,glutamate-1-semialdehyde aminotransferase,20200911,-
+1928728,38330889,EFG77_pgp852,EFG77_pgp852,PMNZ_017,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330890,EFG77_pgp851,EFG77_pgp851,PMNZ_018,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330891,EFG77_pgp850,EFG77_pgp850,PMNZ_019,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,short chain dehydrogenase,20200911,-
+1928728,38330892,map,EFG77_pgp849,PMNZ_020,-,-,-,methionine aminopeptidase,protein-coding,-,-,-,methionine aminopeptidase,20200911,-
+1928728,38330893,rpl19,EFG77_pgp848,PMNZ_021,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200911,-
+1928728,38330894,EFG77_pgt002,EFG77_pgt002,PMNZ_022,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330895,EFG77_pgp847,EFG77_pgp847,PMNZ_023,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38330896,EFG77_pgt003,EFG77_pgt003,PMNZ_024,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330897,gltX,EFG77_pgp846,PMNZ_025,-,-,-,glutamyl-tRNA synthetase,protein-coding,-,-,-,glutamyl-tRNA synthetase,20200911,-
+1928728,38330898,cysS,EFG77_pgp845,PMNZ_026,-,-,-,cysteinyl-tRNA synthetase,protein-coding,-,-,-,cysteinyl-tRNA synthetase,20200911,-
+1928728,38330899,EFG77_pgp844,EFG77_pgp844,PMNZ_027,-,-,-,1-deoxy-D-xylulose 5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose 5-phosphate reductoisomerase,20200911,-
+1928728,38330900,EFG77_pgp843,EFG77_pgp843,PMNZ_028,-,-,-,Thioredoxin reductase,protein-coding,-,-,-,Thioredoxin reductase,20200911,-
+1928728,38330901,infA,EFG77_pgp842,PMNZ_029,-,-,-,Translation initiation factor IF-1,protein-coding,-,-,-,Translation initiation factor IF-1,20200911,-
+1928728,38330902,ycf39,EFG77_pgp841,PMNZ_030,-,-,-,putative chaperon-like protein for quinone binding in photosystem II,protein-coding,-,-,-,putative chaperon-like protein for quinone binding in photosystem II,20200911,-
+1928728,38330903,ilvN,EFG77_pgp840,PMNZ_031,-,-,-,acetolactate synthase III small subunit,protein-coding,-,-,-,acetolactate synthase III small subunit,20200911,-
+1928728,38330904,ppiB,EFG77_pgp839,PMNZ_032,-,-,-,"putative peptidyl-prolyl cis-trans isomerase, cyclophilin type",protein-coding,-,-,-,"putative peptidyl-prolyl cis-trans isomerase, cyclophilin type",20200911,-
+1928728,38330905,ycf4,EFG77_pgp838,PMNZ_033,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20200911,-
+1928728,38330906,psbD,EFG77_pgp837,PMNZ_034,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,photosystem II D2 protein,20200911,-
+1928728,38330907,psbC,EFG77_pgp836,PMNZ_035,-,-,-,Photosynthetic II protein PsbC,protein-coding,-,-,-,Photosynthetic II protein PsbC,20200911,-
+1928728,38330908,EFG77_pgp835,EFG77_pgp835,PMNZ_036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330909,EFG77_pgt004,EFG77_pgt004,PMNZ_037,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330910,pyrB,EFG77_pgp834,PMNZ_038,-,-,-,aspartate and ornithine carbamoyltransferase family protein,protein-coding,-,-,-,aspartate and ornithine carbamoyltransferase family protein,20200911,-
+1928728,38330911,ftsH,EFG77_pgp833,PMNZ_039,-,-,-,cell division protein ftsH,protein-coding,-,-,-,cell division protein ftsH,20201010,-
+1928728,38330912,pheS,EFG77_pgp832,PMNZ_040,-,-,-,phenylalanyl-tRNA synthetase alpha subunit,protein-coding,-,-,-,phenylalanyl-tRNA synthetase alpha subunit,20200911,-
+1928728,38330913,EFG77_pgp831,EFG77_pgp831,PMNZ_041,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38330914,EFG77_pgp830,EFG77_pgp830,PMNZ_042,-,-,-,putative riboflavin kinase/FAD synthase,protein-coding,-,-,-,putative riboflavin kinase/FAD synthase,20200911,-
+1928728,38330915,EFG77_pgp829,EFG77_pgp829,PMNZ_043,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330916,ispF,EFG77_pgp828,PMNZ_044,-,-,-,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200911,-
+1928728,38330917,trmD,EFG77_pgp827,PMNZ_045,-,-,-,tRNA (guanine-N(1)-)-methyltransferase,protein-coding,-,-,-,tRNA (guanine-N(1)-)-methyltransferase,20200911,-
+1928728,38330918,EFG77_pgp826,EFG77_pgp826,PMNZ_046,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330919,sodB,EFG77_pgp825,PMNZ_047,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20200911,-
+1928728,38330920,ytfC,EFG77_pgp824,PMNZ_048,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20200911,-
+1928728,38330921,int,EFG77_pgp823,PMNZ_049,-,-,-,putative apolipoprotein n-acyltransferase,protein-coding,-,-,-,putative apolipoprotein n-acyltransferase,20200911,-
+1928728,38330922,odpA,EFG77_pgp822,PMNZ_050,-,-,-,pyruvate dehydrogenase E1 alpha subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 alpha subunit,20200911,-
+1928728,38330923,EFG77_pgp821,EFG77_pgp821,PMNZ_051,-,-,-,cell division protein Ftn2,protein-coding,-,-,-,cell division protein Ftn2,20200911,-
+1928728,38330924,ffh,EFG77_pgp820,PMNZ_052,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200911,-
+1928728,38330925,rps16,EFG77_pgp819,PMNZ_053,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200911,-
+1928728,38330926,phoH,EFG77_pgp818,PMNZ_054,-,-,-,PhoH-like phosphate starvation-inducible protein,protein-coding,-,-,-,PhoH-like phosphate starvation-inducible protein,20200911,-
+1928728,38330927,EFG77_pgp817,EFG77_pgp817,PMNZ_055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330928,aroB,EFG77_pgp816,PMNZ_056,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20200911,-
+1928728,38330929,EFG77_pgp815,EFG77_pgp815,PMNZ_057,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330930,EFG77_pgp814,EFG77_pgp814,PMNZ_058,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330931,EFG77_pgp813,EFG77_pgp813,PMNZ_059,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330932,EFG77_pgp812,EFG77_pgp812,PMNZ_060,-,-,-,putative transcripton factor,protein-coding,-,-,-,putative transcripton factor,20200911,-
+1928728,38330933,pgsA,EFG77_pgp811,PMNZ_061,-,-,-,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,20200911,-
+1928728,38330934,EFG77_pgp810,EFG77_pgp810,PMNZ_062,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330935,EFG77_pgp809,EFG77_pgp809,PMNZ_063,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330936,EFG77_pgp808,EFG77_pgp808,PMNZ_064,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330937,EFG77_pgp807,EFG77_pgp807,PMNZ_065,-,-,-,Holliday junction resolvase YqgF,protein-coding,-,-,-,Holliday junction resolvase YqgF,20200911,-
+1928728,38330938,EFG77_pgp806,EFG77_pgp806,PMNZ_066,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330939,EFG77_pgp805,EFG77_pgp805,PMNZ_067,-,-,-,HAD-superfamily phosphatase subfamily IIIA,protein-coding,-,-,-,HAD-superfamily phosphatase subfamily IIIA,20200911,-
+1928728,38330940,proB,EFG77_pgp804,PMNZ_068,-,-,-,gamma-glutamyl kinase,protein-coding,-,-,-,gamma-glutamyl kinase,20200911,-
+1928728,38330941,prk,EFG77_pgp803,PMNZ_069,-,-,-,phosphoribulokinase,protein-coding,-,-,-,phosphoribulokinase,20200911,-
+1928728,38330942,accD,EFG77_pgp802,PMNZ_070,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20200911,-
+1928728,38330943,EFG77_pgp801,EFG77_pgp801,PMNZ_071,-,-,-,putative oxidoreductase,protein-coding,-,-,-,putative oxidoreductase,20200911,-
+1928728,38330944,EFG77_pgp800,EFG77_pgp800,PMNZ_072,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330945,infB,EFG77_pgp799,PMNZ_073,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200911,-
+1928728,38330946,EFG77_pgp798,EFG77_pgp798,PMNZ_074,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330947,nusA,EFG77_pgp797,PMNZ_075,-,-,-,transcription elongation factor NusA,protein-coding,-,-,-,transcription elongation factor NusA,20200911,-
+1928728,38330948,EFG77_pgp796,EFG77_pgp796,PMNZ_076,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330949,EFG77_pgp795,EFG77_pgp795,PMNZ_077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330950,EFG77_pgp794,EFG77_pgp794,PMNZ_078,-,-,-,"Serine protease, trypsin family:Chymotrypsin serine protease",protein-coding,-,-,-,"Serine protease, trypsin family:Chymotrypsin serine protease",20200911,-
+1928728,38330951,rpiA,EFG77_pgp793,PMNZ_079,-,-,-,ribose 5-phosphate isomerase,protein-coding,-,-,-,ribose 5-phosphate isomerase,20200911,-
+1928728,38330952,rpsT,EFG77_pgp792,PMNZ_080,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200911,-
+1928728,38330953,rpoB,EFG77_pgp791,PMNZ_081,-,-,-,DNA-directed RNA polymerase beta subunit,protein-coding,-,-,-,DNA-directed RNA polymerase beta subunit,20200911,-
+1928728,38330954,rpoC1,EFG77_pgp790,PMNZ_082,-,-,-,DNA-directed RNA polymerase gamma chain,protein-coding,-,-,-,DNA-directed RNA polymerase gamma chain,20200911,-
+1928728,38330955,rpoC2,EFG77_pgp789,PMNZ_083,-,-,-,DNA-directed RNA polymerase beta' subunit,protein-coding,-,-,-,DNA-directed RNA polymerase beta' subunit,20200911,-
+1928728,38330956,EFG77_pgp788,EFG77_pgp788,PMNZ_084,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330957,folC,EFG77_pgp787,PMNZ_085,-,-,-,putative bifunctional Dihydrofolate/Folylpolyglutamate synthase,protein-coding,-,-,-,putative bifunctional Dihydrofolate/Folylpolyglutamate synthase,20200911,-
+1928728,38330958,argD,EFG77_pgp786,PMNZ_086,-,-,-,acetylornithine aminotransferase,protein-coding,-,-,-,acetylornithine aminotransferase,20200911,-
+1928728,38330959,EFG77_pgt005,EFG77_pgt005,PMNZ_087,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330960,murZ,EFG77_pgp785,PMNZ_088,-,-,-,UDP-N-glucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-glucosamine 1-carboxyvinyltransferase,20200911,-
+1928728,38330961,EFG77_pgt006,EFG77_pgt006,PMNZ_089,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330962,spoU,EFG77_pgp784,PMNZ_090,-,-,-,tRNA/rRNA methyltransferase (SpoU),protein-coding,-,-,-,tRNA/rRNA methyltransferase (SpoU),20200911,-
+1928728,38330963,phdD,EFG77_pgp783,PMNZ_091,-,-,-,dihydrolipoamide dehydrogenase,protein-coding,-,-,-,dihydrolipoamide dehydrogenase,20200911,-
+1928728,38330964,codA,EFG77_pgp782,PMNZ_092,-,-,-,putative cytosine deaminase,protein-coding,-,-,-,putative cytosine deaminase,20200911,-
+1928728,38330965,EFG77_pgt007,EFG77_pgt007,PMNZ_093,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330966,EFG77_pgp781,EFG77_pgp781,PMNZ_094,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330967,ddl,EFG77_pgp780,PMNZ_095,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20200911,-
+1928728,38330968,EFG77_pgp779,EFG77_pgp779,PMNZ_096,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330969,ftsZ,EFG77_pgp778,PMNZ_097,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200911,-
+1928728,38330970,EFG77_pgp777,EFG77_pgp777,PMNZ_098,-,-,-,Oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,Oxygen-independent coproporphyrinogen III oxidase,20200911,-
+1928728,38330971,EFG77_pgp776,EFG77_pgp776,PMNZ_099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330972,clpP,EFG77_pgp775,PMNZ_100,-,-,-,"ATP-dependent Clp protease, proteolytic subunit ClpP",protein-coding,-,-,-,"ATP-dependent Clp protease, proteolytic subunit ClpP",20200926,-
+1928728,38330973,EFG77_pgp774,EFG77_pgp774,PMNZ_101,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200911,-
+1928728,38330974,EFG77_pgp773,EFG77_pgp773,PMNZ_102,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20201010,-
+1928728,38330975,ilvC,EFG77_pgp772,PMNZ_103,-,-,-,acetohydroxy acid isomeroreductase,protein-coding,-,-,-,acetohydroxy acid isomeroreductase,20200911,-
+1928728,38330976,EFG77_pgt008,EFG77_pgt008,PMNZ_104,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330977,glyQ,EFG77_pgp771,PMNZ_105,-,-,-,glycyl-tRNA synthetase alpha subunit,protein-coding,-,-,-,glycyl-tRNA synthetase alpha subunit,20200911,-
+1928728,38330978,gerCb,EFG77_pgp770,PMNZ_106,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,protein-coding,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,20200911,-
+1928728,38330979,chlG,EFG77_pgp769,PMNZ_107,-,-,-,bacteriochlorophyll a synthase,protein-coding,-,-,-,bacteriochlorophyll a synthase,20200911,-
+1928728,38330980,EFG77_pgp768,EFG77_pgp768,PMNZ_108,-,-,-,putative penicillin binding protein,protein-coding,-,-,-,putative penicillin binding protein,20200911,-
+1928728,38330981,fmu,EFG77_pgp767,PMNZ_109,-,-,-,Sun protein,protein-coding,-,-,-,Sun protein,20200911,-
+1928728,38330982,EFG77_pgp766,EFG77_pgp766,PMNZ_110,-,-,-,putative tRNA (guanosine-2'-O-) - methyltransferase,protein-coding,-,-,-,putative tRNA (guanosine-2'-O-) - methyltransferase,20200911,-
+1928728,38330983,EFG77_pgp765,EFG77_pgp765,PMNZ_111,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330984,lepA,EFG77_pgp764,PMNZ_112,-,-,-,GTP-binding protein LepA,protein-coding,-,-,-,GTP-binding protein LepA,20200911,-
+1928728,38330985,EFG77_pgp763,EFG77_pgp763,PMNZ_113,-,-,-,NifU-like protein,protein-coding,-,-,-,NifU-like protein,20201010,-
+1928728,38330986,serS,EFG77_pgp762,PMNZ_114,-,-,-,seryl-tRNA synthetase,protein-coding,-,-,-,seryl-tRNA synthetase,20200911,-
+1928728,38330987,EFG77_pgp761,EFG77_pgp761,PMNZ_115,-,-,-,peptidase M50,protein-coding,-,-,-,peptidase M50,20200911,-
+1928728,38330988,rps14,EFG77_pgp760,PMNZ_116,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200911,-
+1928728,38330989,pnp,EFG77_pgp759,PMNZ_117,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200911,-
+1928728,38330990,EFG77_pgp758,EFG77_pgp758,PMNZ_118,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330991,EFG77_pgp757,EFG77_pgp757,PMNZ_119,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330992,EFG77_pgt009,EFG77_pgt009,PMNZ_120,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330993,EFG77_pgp756,EFG77_pgp756,PMNZ_121,-,-,-,DNA binding protein HU,protein-coding,-,-,-,DNA binding protein HU,20200911,-
+1928728,38330994,EFG77_pgt010,EFG77_pgt010,PMNZ_122,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38330995,EFG77_pgp755,EFG77_pgp755,PMNZ_123,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330996,EFG77_pgp754,EFG77_pgp754,PMNZ_124,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330997,EFG77_pgp753,EFG77_pgp753,PMNZ_125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330998,EFG77_pgp752,EFG77_pgp752,PMNZ_126,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38330999,EFG77_pgp751,EFG77_pgp751,PMNZ_127,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331000,EFG77_pgp750,EFG77_pgp750,PMNZ_128,-,-,-,putative cobalt transport protein,protein-coding,-,-,-,putative cobalt transport protein,20200911,-
+1928728,38331001,engA,EFG77_pgp749,PMNZ_129,-,-,-,GTP-binding protein EngA,protein-coding,-,-,-,GTP-binding protein EngA,20200911,-
+1928728,38331002,EFG77_pgt011,EFG77_pgt011,PMNZ_130,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331003,EFG77_pgp748,EFG77_pgp748,PMNZ_131,-,-,-,thioredoxin peroxidase,protein-coding,-,-,-,thioredoxin peroxidase,20200911,-
+1928728,38331004,EFG77_pgp747,EFG77_pgp747,PMNZ_132,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20200911,-
+1928728,38331005,EFG77_pgp746,EFG77_pgp746,PMNZ_133,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331006,pxcA,EFG77_pgp745,PMNZ_134,-,-,-,proton extrusion protein PcxA,protein-coding,-,-,-,proton extrusion protein PcxA,20200911,-
+1928728,38331007,EFG77_pgp744,EFG77_pgp744,PMNZ_135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331008,EFG77_pgp743,EFG77_pgp743,PMNZ_136,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331009,metG,EFG77_pgp742,PMNZ_137,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200911,-
+1928728,38331010,rnb,EFG77_pgp741,PMNZ_138,-,-,-,putative ribonuclease II,protein-coding,-,-,-,putative ribonuclease II,20200911,-
+1928728,38331011,rps18,EFG77_pgp740,PMNZ_139,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200911,-
+1928728,38331012,rpl33,EFG77_pgp739,PMNZ_140,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200911,-
+1928728,38331013,pheT,EFG77_pgp738,PMNZ_141,-,-,-,phenylalanyl-tRNA synthetase beta subunit,protein-coding,-,-,-,phenylalanyl-tRNA synthetase beta subunit,20200911,-
+1928728,38331014,EFG77_pgp737,EFG77_pgp737,PMNZ_142,-,-,-,23S rRNA methyltransferase,protein-coding,-,-,-,23S rRNA methyltransferase,20200911,-
+1928728,38331015,apcD,EFG77_pgp736,PMNZ_143,-,-,-,allophycocyanin alpha-B chain,protein-coding,-,-,-,allophycocyanin alpha-B chain,20201010,-
+1928728,38331016,ilvE,EFG77_pgp735,PMNZ_144,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,branched-chain amino acid aminotransferase,20200911,-
+1928728,38331017,EFG77_pgp734,EFG77_pgp734,PMNZ_145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331018,EFG77_pgp733,EFG77_pgp733,PMNZ_146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331019,EFG77_pgp732,EFG77_pgp732,PMNZ_147,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331020,EFG77_pgp731,EFG77_pgp731,PMNZ_148,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+1928728,38331021,EFG77_pgp730,EFG77_pgp730,PMNZ_149,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331022,nifS,EFG77_pgp729,PMNZ_150,-,-,-,putative cysteine desulfurase or selenocysteine lyase,protein-coding,-,-,-,putative cysteine desulfurase or selenocysteine lyase,20200911,-
+1928728,38331023,dapF,EFG77_pgp728,PMNZ_151,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20200911,-
+1928728,38331024,leuS,EFG77_pgp727,PMNZ_152,-,-,-,"t-RNA synthetase, class Ia",protein-coding,-,-,-,"t-RNA synthetase, class Ia",20200911,-
+1928728,38331025,pgi,EFG77_pgp726,PMNZ_153,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200911,-
+1928728,38331026,cyp,EFG77_pgp725,PMNZ_154,-,-,-,Cyclophilin-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,Cyclophilin-type peptidyl-prolyl cis-trans isomerase,20200911,-
+1928728,38331027,dnaJ,EFG77_pgp724,PMNZ_155,-,-,-,DnaJ protein,protein-coding,-,-,-,DnaJ protein,20200911,-
+1928728,38331028,dnaK,EFG77_pgp723,PMNZ_156,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200911,-
+1928728,38331029,EFG77_pgt012,EFG77_pgt012,PMNZ_157,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331030,petF,EFG77_pgp722,PMNZ_158,-,-,-,ferredoxin (2Fe-2S),protein-coding,-,-,-,ferredoxin (2Fe-2S),20200911,-
+1928728,38331031,hisS,EFG77_pgp721,PMNZ_159,-,-,-,histidyl-tRNA synthetase,protein-coding,-,-,-,histidyl-tRNA synthetase,20200911,-
+1928728,38331032,EFG77_pgp720,EFG77_pgp720,PMNZ_160,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20200911,-
+1928728,38331033,htpG,EFG77_pgp719,PMNZ_161,-,-,-,heat shock protein 90,protein-coding,-,-,-,heat shock protein 90,20200911,-
+1928728,38331034,rpl28,EFG77_pgp718,PMNZ_162,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200911,-
+1928728,38331035,ycf49,EFG77_pgp717,PMNZ_163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331036,EFG77_pgp716,EFG77_pgp716,PMNZ_164,-,-,-,putative conserved membrane protein,protein-coding,-,-,-,putative conserved membrane protein,20201010,-
+1928728,38331037,psaK,EFG77_pgp715,PMNZ_165,-,-,-,photosystem I reaction center subunit X,protein-coding,-,-,-,photosystem I reaction center subunit X,20200911,-
+1928728,38331038,EFG77_pgp714,EFG77_pgp714,PMNZ_166,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20200911,-
+1928728,38331039,ilvA,EFG77_pgp713,PMNZ_167,-,-,-,threonine dehydratase,protein-coding,-,-,-,threonine dehydratase,20200911,-
+1928728,38331040,EFG77_pgp712,EFG77_pgp712,PMNZ_168,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",protein-coding,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",20200911,-
+1928728,38331041,pykF,EFG77_pgp711,PMNZ_169,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200911,-
+1928728,38331042,EFG77_pgp710,EFG77_pgp710,PMNZ_170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331043,clpP,EFG77_pgp709,PMNZ_171,-,-,-,"ATP-dependent Clp protease, proteolytic subunit ClpP",protein-coding,-,-,-,"ATP-dependent Clp protease, proteolytic subunit ClpP",20200911,-
+1928728,38331044,EFG77_pgp708,EFG77_pgp708,PMNZ_172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331045,EFG77_pgp707,EFG77_pgp707,PMNZ_173,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331046,ycf35,EFG77_pgp706,PMNZ_174,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331047,EFG77_pgp705,EFG77_pgp705,PMNZ_175,-,-,-,3Fe-4S ferredoxin,protein-coding,-,-,-,3Fe-4S ferredoxin,20200911,-
+1928728,38331048,gidB,EFG77_pgp704,PMNZ_176,-,-,-,putative glucose inhibited division protein B,protein-coding,-,-,-,putative glucose inhibited division protein B,20200911,-
+1928728,38331049,EFG77_pgp703,EFG77_pgp703,PMNZ_177,-,-,-,heat shock protein DnaJ-like protein,protein-coding,-,-,-,heat shock protein DnaJ-like protein,20200911,-
+1928728,38331050,bioC,EFG77_pgp702,PMNZ_178,-,-,-,biotin biosynthesis protein BioC,protein-coding,-,-,-,biotin biosynthesis protein BioC,20200911,-
+1928728,38331051,EFG77_pgp701,EFG77_pgp701,PMNZ_179,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200911,-
+1928728,38331052,bioF,EFG77_pgp700,PMNZ_180,-,-,-,putative 8-amino-7-oxononanoate synthase,protein-coding,-,-,-,putative 8-amino-7-oxononanoate synthase,20200911,-
+1928728,38331053,EFG77_pgp699,EFG77_pgp699,PMNZ_181,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200911,-
+1928728,38331054,EFG77_pgp698,EFG77_pgp698,PMNZ_182,-,-,-,hemolysin A,protein-coding,-,-,-,hemolysin A,20200911,-
+1928728,38331055,glnB,EFG77_pgp697,PMNZ_183,-,-,-,nitrogen regulatory protein P-II,protein-coding,-,-,-,nitrogen regulatory protein P-II,20200911,-
+1928728,38331056,EFG77_pgp696,EFG77_pgp696,PMNZ_184,-,-,-,7-cyano-7-deazaguanine reductase,protein-coding,-,-,-,7-cyano-7-deazaguanine reductase,20200911,-
+1928728,38331057,EFG77_pgp695,EFG77_pgp695,PMNZ_185,-,-,-,putative c-type cytochrome biogenesis protein,protein-coding,-,-,-,putative c-type cytochrome biogenesis protein,20200911,-
+1928728,38331058,EFG77_pgp694,EFG77_pgp694,PMNZ_186,-,-,-,putative c-type cytochrome biogenesis protein CcdA,protein-coding,-,-,-,putative c-type cytochrome biogenesis protein CcdA,20200911,-
+1928728,38331059,ftsW,EFG77_pgp693,PMNZ_187,-,-,-,cell division protein FtsW,protein-coding,-,-,-,cell division protein FtsW,20200911,-
+1928728,38331060,apcC,EFG77_pgp692,PMNZ_188,-,-,-,"linker polypeptide, allophycocyanin-associated",protein-coding,-,-,-,"linker polypeptide, allophycocyanin-associated",20200911,-
+1928728,38331061,apcB,EFG77_pgp691,PMNZ_189,-,-,-,"allophycocyanin, beta subunit",protein-coding,-,-,-,"allophycocyanin, beta subunit",20200911,-
+1928728,38331062,apcA,EFG77_pgp690,PMNZ_190,-,-,-,allophycocyanin alpha chain,protein-coding,-,-,-,allophycocyanin alpha chain,20201010,-
+1928728,38331063,apcE,EFG77_pgp689,PMNZ_191,-,-,-,anchor polypeptide LCM,protein-coding,-,-,-,anchor polypeptide LCM,20200911,-
+1928728,38331064,EFG77_pgp688,EFG77_pgp688,PMNZ_192,-,-,-,putative methyltransferase,protein-coding,-,-,-,putative methyltransferase,20200911,-
+1928728,38331065,atp1,EFG77_pgp687,PMNZ_193,-,-,-,putative H+-transporting ATP synthase,protein-coding,-,-,-,putative H+-transporting ATP synthase,20200911,-
+1928728,38331066,atpI,EFG77_pgp686,PMNZ_194,-,-,-,ATP synthase subunit I,protein-coding,-,-,-,ATP synthase subunit I,20200911,-
+1928728,38331067,atpH,EFG77_pgp685,PMNZ_195,-,-,-,ATP synthase subunit H,protein-coding,-,-,-,ATP synthase subunit H,20200911,-
+1928728,38331068,atpG,EFG77_pgp684,PMNZ_196,-,-,-,ATP synthase subunit G,protein-coding,-,-,-,ATP synthase subunit G,20200911,-
+1928728,38331069,atpF,EFG77_pgp683,PMNZ_197,-,-,-,ATP synthase subunit F,protein-coding,-,-,-,ATP synthase subunit F,20200911,-
+1928728,38331070,atpD,EFG77_pgp682,PMNZ_198,-,-,-,ATP synthase delta subunit,protein-coding,-,-,-,ATP synthase delta subunit,20200911,-
+1928728,38331071,atpA,EFG77_pgp681,PMNZ_199,-,-,-,ATP synthase subunit A,protein-coding,-,-,-,ATP synthase subunit A,20200911,-
+1928728,38331072,atpC,EFG77_pgp680,PMNZ_200,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20200911,-
+1928728,38331073,petF,EFG77_pgp679,PMNZ_201,-,-,-,ferredoxin (2Fe-2S),protein-coding,-,-,-,ferredoxin (2Fe-2S),20200911,-
+1928728,38331074,EFG77_pgp678,EFG77_pgp678,PMNZ_202,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331075,EFG77_pgp677,EFG77_pgp677,PMNZ_203,-,-,-,putative GTPase,protein-coding,-,-,-,putative GTPase,20200911,-
+1928728,38331076,EFG77_pgp676,EFG77_pgp676,PMNZ_204,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331077,pepP,EFG77_pgp675,PMNZ_205,-,-,-,putative aminopeptidase P,protein-coding,-,-,-,putative aminopeptidase P,20200911,-
+1928728,38331078,ycf65,EFG77_pgp674,PMNZ_206,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331079,atpE,EFG77_pgp673,PMNZ_207,-,-,-,ATP synthase subunit epsilon,protein-coding,-,-,-,ATP synthase subunit epsilon,20200911,-
+1928728,38331080,atpB,EFG77_pgp672,PMNZ_208,-,-,-,ATP synthase subunit B,protein-coding,-,-,-,ATP synthase subunit B,20200911,-
+1928728,38331081,groES,EFG77_pgp671,PMNZ_209,-,-,-,co-chaperonin GroES,protein-coding,-,-,-,co-chaperonin GroES,20200911,-
+1928728,38331082,groEL,EFG77_pgp670,PMNZ_210,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200911,-
+1928728,38331083,secG,EFG77_pgp669,PMNZ_211,-,-,-,preprotein translocase SecG subunit,protein-coding,-,-,-,preprotein translocase SecG subunit,20200911,-
+1928728,38331084,yibO,EFG77_pgp668,PMNZ_212,-,-,-,phosphoglyceromutase,protein-coding,-,-,-,phosphoglyceromutase,20200911,-
+1928728,38331085,ftrV,EFG77_pgp667,PMNZ_213,-,-,-,"putative ferredoxin-thioredoxin reductase, variable chain",protein-coding,-,-,-,"putative ferredoxin-thioredoxin reductase, variable chain",20200911,-
+1928728,38331086,EFG77_pgp666,EFG77_pgp666,PMNZ_214,-,-,-,putative DnaK-type molecular chaperone,protein-coding,-,-,-,putative DnaK-type molecular chaperone,20200911,-
+1928728,38331087,EFG77_pgp665,EFG77_pgp665,PMNZ_215,-,-,-,DNA-directed RNA polymerase omega subunit,protein-coding,-,-,-,DNA-directed RNA polymerase omega subunit,20201010,-
+1928728,38331088,EFG77_pgp664,EFG77_pgp664,PMNZ_216,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331089,EFG77_pgp663,EFG77_pgp663,PMNZ_217,-,-,-,"putative DNA polymerase III, epsilon subunit",protein-coding,-,-,-,"putative DNA polymerase III, epsilon subunit",20200911,-
+1928728,38331090,EFG77_pgt013,EFG77_pgt013,PMNZ_218,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331091,EFG77_pgp662,EFG77_pgp662,PMNZ_219,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331092,EFG77_pgp661,EFG77_pgp661,PMNZ_220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331093,EFG77_pgp660,EFG77_pgp660,PMNZ_221,-,-,-,"ABC transporter, multidrug efflux family protein",protein-coding,-,-,-,"ABC transporter, multidrug efflux family protein",20200911,-
+1928728,38331094,EFG77_pgp659,EFG77_pgp659,PMNZ_222,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331095,carA,EFG77_pgp658,PMNZ_223,-,-,-,carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase small subunit,20200911,-
+1928728,38331096,EFG77_pgp657,EFG77_pgp657,PMNZ_224,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331097,trmH,EFG77_pgp656,PMNZ_225,-,-,-,tRNA/rRNA methyltransferase (SpoU):RNA methyltransferase TrmH,protein-coding,-,-,-,tRNA/rRNA methyltransferase (SpoU):RNA methyltransferase TrmH,20200911,-
+1928728,38331098,EFG77_pgp655,EFG77_pgp655,PMNZ_226,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331099,EFG77_pgp654,EFG77_pgp654,PMNZ_227,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit A,protein-coding,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit A,20200911,-
+1928728,38331100,dnaE,EFG77_pgp653,PMNZ_228,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200911,-
+1928728,38331101,EFG77_pgp652,EFG77_pgp652,PMNZ_229,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331102,rps15,EFG77_pgp651,PMNZ_230,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200911,-
+1928728,38331103,ruvA,EFG77_pgp650,PMNZ_231,-,-,-,putative holliday junction DNA helicase RuvA,protein-coding,-,-,-,putative holliday junction DNA helicase RuvA,20200911,-
+1928728,38331104,dnaG,EFG77_pgp649,PMNZ_232,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200911,-
+1928728,38331105,EFG77_pgp648,EFG77_pgp648,PMNZ_233,-,-,-,iron transporter,protein-coding,-,-,-,iron transporter,20200911,-
+1928728,38331106,feoB,EFG77_pgp647,PMNZ_234,-,-,-,ferrous iron transport protein B,protein-coding,-,-,-,ferrous iron transport protein B,20200911,-
+1928728,38331107,ksgA,EFG77_pgp646,PMNZ_235,-,-,-,"putative rRNA (adenine-N6,N6)- dimethyltransferase",protein-coding,-,-,-,"putative rRNA (adenine-N6,N6)- dimethyltransferase",20200911,-
+1928728,38331108,EFG77_pgp645,EFG77_pgp645,PMNZ_236,-,-,-,putative 4-diphosphocytidyl-2C-methyl-D- erythritol kinase,protein-coding,-,-,-,putative 4-diphosphocytidyl-2C-methyl-D- erythritol kinase,20200911,-
+1928728,38331109,EFG77_pgp644,EFG77_pgp644,PMNZ_237,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331110,odpB,EFG77_pgp643,PMNZ_238,-,-,-,pyruvate dehydrogenase E1 beta subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 beta subunit,20200911,-
+1928728,38331111,EFG77_pgp642,EFG77_pgp642,PMNZ_239,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331112,ycf53,EFG77_pgp641,PMNZ_240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331113,EFG77_pgp640,EFG77_pgp640,PMNZ_241,-,-,-,generic methyl-transferase,protein-coding,-,-,-,generic methyl-transferase,20200911,-
+1928728,38331114,glnA,EFG77_pgp639,PMNZ_242,-,-,-,"glutamine synthetase, glutamate--ammonia ligase",protein-coding,-,-,-,"glutamine synthetase, glutamate--ammonia ligase",20200911,-
+1928728,38331115,apcF,EFG77_pgp638,PMNZ_243,-,-,-,phycobilisome core component-allophycocyanin beta-18 subunit,protein-coding,-,-,-,phycobilisome core component-allophycocyanin beta-18 subunit,20200911,-
+1928728,38331116,EFG77_pgp637,EFG77_pgp637,PMNZ_244,-,-,-,cytidine/deoxycytidylate deaminase family protein,protein-coding,-,-,-,cytidine/deoxycytidylate deaminase family protein,20200911,-
+1928728,38331117,EFG77_pgp636,EFG77_pgp636,PMNZ_245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331118,lspA,EFG77_pgp635,PMNZ_246,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20200911,-
+1928728,38331119,EFG77_pgp634,EFG77_pgp634,PMNZ_247,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331120,EFG77_pgp633,EFG77_pgp633,PMNZ_248,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331121,EFG77_pgp632,EFG77_pgp632,PMNZ_249,-,-,-,phycocyanobilin:ferredoxin oxidoreductase,protein-coding,-,-,-,phycocyanobilin:ferredoxin oxidoreductase,20200911,-
+1928728,38331122,EFG77_pgp631,EFG77_pgp631,PMNZ_250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331123,rps2,EFG77_pgp630,PMNZ_251,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200911,-
+1928728,38331124,tsf,EFG77_pgp629,PMNZ_252,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200911,-
+1928728,38331125,sir,EFG77_pgp628,PMNZ_253,-,-,-,ferredoxin-sulfite reductase,protein-coding,-,-,-,ferredoxin-sulfite reductase,20200911,-
+1928728,38331126,glyS,EFG77_pgp627,PMNZ_254,-,-,-,"putative Glycyl-tRNA synthetase, beta subunit",protein-coding,-,-,-,"putative Glycyl-tRNA synthetase, beta subunit",20200911,-
+1928728,38331127,EFG77_pgp626,EFG77_pgp626,PMNZ_255,-,-,-,geranylgeranyl reductase,protein-coding,-,-,-,geranylgeranyl reductase,20200911,-
+1928728,38331128,EFG77_pgp625,EFG77_pgp625,PMNZ_256,-,-,-,putative carboxypeptidase,protein-coding,-,-,-,putative carboxypeptidase,20200911,-
+1928728,38331129,EFG77_pgp624,EFG77_pgp624,PMNZ_257,-,-,-,tyrosine binding protein,protein-coding,-,-,-,tyrosine binding protein,20200911,-
+1928728,38331130,EFG77_pgp623,EFG77_pgp623,PMNZ_258,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331131,ccsA,EFG77_pgp622,PMNZ_259,-,-,-,putative heme transporter,protein-coding,-,-,-,putative heme transporter,20200911,-
+1928728,38331132,cfxE,EFG77_pgp621,PMNZ_260,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200911,-
+1928728,38331133,glpX,EFG77_pgp620,PMNZ_261,-,-,-,"Fructose-1,6-bisphosphatase/sedoheptulose-1,7- bis phosphatase",protein-coding,-,-,-,"Fructose-1,6-bisphosphatase/sedoheptulose-1,7- bis phosphatase",20200911,-
+1928728,38331134,hemA,EFG77_pgp619,PMNZ_262,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20200911,-
+1928728,38331135,glgC,EFG77_pgp618,PMNZ_263,-,-,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,glucose-1-phosphate adenylyltransferase,20200911,-
+1928728,38331136,gnd,EFG77_pgp617,PMNZ_264,-,-,-,6-phosphogluconate dehydrogenase,protein-coding,-,-,-,6-phosphogluconate dehydrogenase,20200911,-
+1928728,38331137,ilvD,EFG77_pgp616,PMNZ_265,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,dihydroxy-acid dehydratase,20200911,-
+1928728,38331138,upp,EFG77_pgp615,PMNZ_266,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200911,-
+1928728,38331139,EFG77_pgt014,EFG77_pgt014,PMNZ_267,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331140,EFG77_pgt015,EFG77_pgt015,PMNZ_268,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331141,EFG77_pgr006,EFG77_pgr006,PMNZ_269,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331142,EFG77_pgr005,EFG77_pgr005,PMNZ_270,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331143,EFG77_pgt016,EFG77_pgt016,PMNZ_271,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331144,EFG77_pgt017,EFG77_pgt017,PMNZ_272,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331145,EFG77_pgr004,EFG77_pgr004,PMNZ_273,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331146,EFG77_pgp614,EFG77_pgp614,PMNZ_274,-,-,-,inositol monophosphate family protein,protein-coding,-,-,-,inositol monophosphate family protein,20200911,-
+1928728,38331147,EFG77_pgp613,EFG77_pgp613,PMNZ_275,-,-,-,putative Fe-S oxidoreductase,protein-coding,-,-,-,putative Fe-S oxidoreductase,20200911,-
+1928728,38331148,EFG77_pgp612,EFG77_pgp612,PMNZ_276,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331149,psbU,EFG77_pgp611,PMNZ_277,-,-,-,photosystem II complex extrinsic protein precursor PsuB,protein-coding,-,-,-,photosystem II complex extrinsic protein precursor PsuB,20200911,-
+1928728,38331150,EFG77_pgp610,EFG77_pgp610,PMNZ_278,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331151,EFG77_pgp609,EFG77_pgp609,PMNZ_279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331152,EFG77_pgp608,EFG77_pgp608,PMNZ_281,-,-,-,cytochrome b6f complex subunit,protein-coding,-,-,-,cytochrome b6f complex subunit,20200911,-
+1928728,38331153,EFG77_pgp607,EFG77_pgp607,PMNZ_282,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331154,EFG77_pgp606,EFG77_pgp606,PMNZ_283,-,-,-,6-pyruvoyl-tetrahydropterin synthase-like protein,protein-coding,-,-,-,6-pyruvoyl-tetrahydropterin synthase-like protein,20200911,-
+1928728,38331155,aroK,EFG77_pgp605,PMNZ_284,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20200911,-
+1928728,38331156,EFG77_pgp604,EFG77_pgp604,PMNZ_285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331157,ycf33,EFG77_pgp603,PMNZ_286,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331158,EFG77_pgp602,EFG77_pgp602,PMNZ_287,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,ribosome-binding factor A,20200911,-
+1928728,38331159,EFG77_pgp601,EFG77_pgp601,PMNZ_288,-,-,-,uroporphyrinogen III methyltransferase,protein-coding,-,-,-,uroporphyrinogen III methyltransferase,20200911,-
+1928728,38331160,EFG77_pgp600,EFG77_pgp600,PMNZ_289,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331161,crtQ,EFG77_pgp599,PMNZ_290,-,-,-,zeta-carotene desaturase,protein-coding,-,-,-,zeta-carotene desaturase,20200911,-
+1928728,38331162,EFG77_pgp598,EFG77_pgp598,PMNZ_291,-,-,-,putative HesB family conserved protein,protein-coding,-,-,-,putative HesB family conserved protein,20200911,-
+1928728,38331163,EFG77_pgp597,EFG77_pgp597,PMNZ_292,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331164,EFG77_pgp596,EFG77_pgp596,PMNZ_293,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331165,cysM,EFG77_pgp595,PMNZ_294,-,-,-,cysteine synthase A,protein-coding,-,-,-,cysteine synthase A,20200911,-
+1928728,38331166,psbD,EFG77_pgp594,PMNZ_295,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,photosystem II D2 protein,20200911,-
+1928728,38331167,EFG77_pgp593,EFG77_pgp593,PMNZ_296,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331168,EFG77_pgp592,EFG77_pgp592,PMNZ_297,-,-,-,"putative ABC transporter, ATP-binding component",protein-coding,-,-,-,"putative ABC transporter, ATP-binding component",20200911,-
+1928728,38331169,EFG77_pgt018,EFG77_pgt018,PMNZ_298,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331170,dnaX,EFG77_pgp591,PMNZ_299,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200911,-
+1928728,38331171,EFG77_pgp590,EFG77_pgp590,PMNZ_300,-,-,-,thymidylate kinase,protein-coding,-,-,-,thymidylate kinase,20200911,-
+1928728,38331172,EFG77_pgp589,EFG77_pgp589,PMNZ_301,-,-,-,putative P-type ATPase transporter for copper,protein-coding,-,-,-,putative P-type ATPase transporter for copper,20200911,-
+1928728,38331173,ycf3,EFG77_pgp588,PMNZ_302,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20200911,-
+1928728,38331174,radA,EFG77_pgp587,PMNZ_303,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20200911,-
+1928728,38331175,ycf27,EFG77_pgp586,PMNZ_304,-,-,-,two-component response regulator,protein-coding,-,-,-,two-component response regulator,20200911,-
+1928728,38331176,plsX,EFG77_pgp585,PMNZ_305,-,-,-,fatty acid/phospholipid synthesis protein,protein-coding,-,-,-,fatty acid/phospholipid synthesis protein,20200911,-
+1928728,38331177,fabH,EFG77_pgp584,PMNZ_306,-,-,-,3-oxoacyl-(acyl carrier protein) synthase,protein-coding,-,-,-,3-oxoacyl-(acyl carrier protein) synthase,20200911,-
+1928728,38331178,EFG77_pgp583,EFG77_pgp583,PMNZ_307,-,-,-,Malonyl CoA-acyl carrier protein transacylase,protein-coding,-,-,-,Malonyl CoA-acyl carrier protein transacylase,20200911,-
+1928728,38331179,EFG77_pgp582,EFG77_pgp582,PMNZ_308,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200911,-
+1928728,38331180,EFG77_pgp581,EFG77_pgp581,PMNZ_309,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331181,EFG77_pgp580,EFG77_pgp580,PMNZ_310,-,-,-,putative RNA-binding protein,protein-coding,-,-,-,putative RNA-binding protein,20200911,-
+1928728,38331182,pys,EFG77_pgp579,PMNZ_311,-,-,-,phytoene synthase,protein-coding,-,-,-,phytoene synthase,20200911,-
+1928728,38331183,pds,EFG77_pgp578,PMNZ_312,-,-,-,phytoene desaturase,protein-coding,-,-,-,phytoene desaturase,20200911,-
+1928728,38331184,EFG77_pgp577,EFG77_pgp577,PMNZ_313,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331185,EFG77_pgp576,EFG77_pgp576,PMNZ_314,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331186,EFG77_pgp575,EFG77_pgp575,PMNZ_315,-,-,-,putative Rubisco transcriptional regulator,protein-coding,-,-,-,putative Rubisco transcriptional regulator,20200911,-
+1928728,38331187,EFG77_pgp574,EFG77_pgp574,PMNZ_316,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331188,ndhF,EFG77_pgp573,PMNZ_317,-,-,-,NADH dehydrogenase subunit L,protein-coding,-,-,-,NADH dehydrogenase subunit L,20200911,-
+1928728,38331189,ndhD,EFG77_pgp572,PMNZ_318,-,-,-,NADH dehydrogenase I chain 4 (or M),protein-coding,-,-,-,NADH dehydrogenase I chain 4 (or M),20200911,-
+1928728,38331190,EFG77_pgp571,EFG77_pgp571,PMNZ_319,-,-,-,putative sugar-phosphate nucleotidyl transferase,protein-coding,-,-,-,putative sugar-phosphate nucleotidyl transferase,20200911,-
+1928728,38331191,EFG77_pgp570,EFG77_pgp570,PMNZ_320,-,-,-,putative transcriptional regulator,protein-coding,-,-,-,putative transcriptional regulator,20200911,-
+1928728,38331192,ndhE,EFG77_pgp569,PMNZ_321,-,-,-,NADH dehydrogenase kappa subunit,protein-coding,-,-,-,NADH dehydrogenase kappa subunit,20200911,-
+1928728,38331193,ndhG,EFG77_pgp568,PMNZ_322,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J,20200911,-
+1928728,38331194,ndhI,EFG77_pgp567,PMNZ_323,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,NADH dehydrogenase subunit I,20200911,-
+1928728,38331195,ndhA,EFG77_pgp566,PMNZ_324,-,-,-,NADH dehydrogenase subunit H,protein-coding,-,-,-,NADH dehydrogenase subunit H,20200911,-
+1928728,38331196,EFG77_pgp565,EFG77_pgp565,PMNZ_325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331197,hrcA,EFG77_pgp564,PMNZ_326,-,-,-,Negative regulator of class I heat shock protein,protein-coding,-,-,-,Negative regulator of class I heat shock protein,20200911,-
+1928728,38331198,cysC,EFG77_pgp563,PMNZ_327,-,-,-,adenylylsulfate kinase,protein-coding,-,-,-,adenylylsulfate kinase,20200911,-
+1928728,38331199,chlM,EFG77_pgp562,PMNZ_328,-,-,-,Mg-protoporphyrin IX methyl transferase,protein-coding,-,-,-,Mg-protoporphyrin IX methyl transferase,20200911,-
+1928728,38331200,EFG77_pgp561,EFG77_pgp561,PMNZ_329,-,-,-,"two component transcriptional regulator, LuxR family protein",protein-coding,-,-,-,"two component transcriptional regulator, LuxR family protein",20200911,-
+1928728,38331201,mraW,EFG77_pgp560,PMNZ_330,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20200911,-
+1928728,38331202,ndhH,EFG77_pgp559,PMNZ_331,-,-,-,NADH dehydrogenase (ubiquinone),protein-coding,-,-,-,NADH dehydrogenase (ubiquinone),20200911,-
+1928728,38331203,EFG77_pgp558,EFG77_pgp558,PMNZ_332,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331204,menE,EFG77_pgp557,PMNZ_333,-,-,-,O-succinylbenzoate--CoA ligase,protein-coding,-,-,-,O-succinylbenzoate--CoA ligase,20200911,-
+1928728,38331205,EFG77_pgp556,EFG77_pgp556,PMNZ_334,-,-,-,putative O-succinylbenzoate synthase,protein-coding,-,-,-,putative O-succinylbenzoate synthase,20200911,-
+1928728,38331206,menA,EFG77_pgp555,PMNZ_335,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",20200911,-
+1928728,38331207,menF,EFG77_pgp554,PMNZ_336,-,-,-,isochorismate synthase,protein-coding,-,-,-,isochorismate synthase,20200911,-
+1928728,38331208,gshB,EFG77_pgp553,PMNZ_337,-,-,-,glutathione synthetase,protein-coding,-,-,-,glutathione synthetase,20200911,-
+1928728,38331209,prfB,EFG77_pgp552,PMNZ_338,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20200911,-
+1928728,38331210,EFG77_pgp551,EFG77_pgp551,PMNZ_339,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331211,EFG77_pgp550,EFG77_pgp550,PMNZ_340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331212,trpG,EFG77_pgp549,PMNZ_341,-,-,-,glutamine amidotransferase of anthranilate synthase orpara-aminobenzoate synthase,protein-coding,-,-,-,glutamine amidotransferase of anthranilate synthase orpara-aminobenzoate synthase,20200911,-
+1928728,38331213,EFG77_pgp548,EFG77_pgp548,PMNZ_342,-,-,-,aminotransferase class-I,protein-coding,-,-,-,aminotransferase class-I,20200911,-
+1928728,38331214,argS,EFG77_pgp547,PMNZ_343,-,-,-,arginyl-tRNA synthetase,protein-coding,-,-,-,arginyl-tRNA synthetase,20200911,-
+1928728,38331215,thdF,EFG77_pgp546,PMNZ_344,-,-,-,tRNA modification GTPase,protein-coding,-,-,-,tRNA modification GTPase,20200911,-
+1928728,38331216,EFG77_pgp545,EFG77_pgp545,PMNZ_345,-,-,-,metal dependent phosphohydrolase,protein-coding,-,-,-,metal dependent phosphohydrolase,20200911,-
+1928728,38331217,rluD,EFG77_pgp544,PMNZ_346,-,-,-,"Pseudouridine synthase, RluD",protein-coding,-,-,-,"Pseudouridine synthase, RluD",20200911,-
+1928728,38331218,EFG77_pgp543,EFG77_pgp543,PMNZ_347,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331219,pgk,EFG77_pgp542,PMNZ_348,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200911,-
+1928728,38331220,murG,EFG77_pgp541,PMNZ_349,-,-,-,Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase,protein-coding,-,-,-,Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase,20200911,-
+1928728,38331221,pyrD,EFG77_pgp540,PMNZ_350,-,-,-,dihydroorotate dehydrogenase,protein-coding,-,-,-,dihydroorotate dehydrogenase,20200911,-
+1928728,38331222,rpl12,EFG77_pgp539,PMNZ_351,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200911,-
+1928728,38331223,rplJ,EFG77_pgp538,PMNZ_352,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200911,-
+1928728,38331224,rpl1,EFG77_pgp537,PMNZ_353,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200911,-
+1928728,38331225,rpl11,EFG77_pgp536,PMNZ_354,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200911,-
+1928728,38331226,nusG,EFG77_pgp535,PMNZ_355,-,-,-,transcription antitermination protein NusG,protein-coding,-,-,-,transcription antitermination protein NusG,20200911,-
+1928728,38331227,secE,EFG77_pgp534,PMNZ_356,-,-,-,Preprotein translocase subunit SecE,protein-coding,-,-,-,Preprotein translocase subunit SecE,20200911,-
+1928728,38331228,EFG77_pgp533,EFG77_pgp533,PMNZ_357,-,-,-,putative ATP-dependent Clp protease,protein-coding,-,-,-,putative ATP-dependent Clp protease,20200911,-
+1928728,38331229,eno,EFG77_pgp532,PMNZ_358,-,-,-,enolase,protein-coding,-,-,-,enolase,20200911,-
+1928728,38331230,EFG77_pgp531,EFG77_pgp531,PMNZ_359,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331231,EFG77_pgp530,EFG77_pgp530,PMNZ_360,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit B,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit B,20200911,-
+1928728,38331232,ndkR,EFG77_pgp529,PMNZ_361,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20200911,-
+1928728,38331233,speA,EFG77_pgp528,PMNZ_362,-,-,-,arginine decarboxylase,protein-coding,-,-,-,arginine decarboxylase,20200911,-
+1928728,38331234,alaS,EFG77_pgp527,PMNZ_363,-,-,-,alanyl-tRNA synthetase,protein-coding,-,-,-,alanyl-tRNA synthetase,20200911,-
+1928728,38331235,EFG77_pgp526,EFG77_pgp526,PMNZ_364,-,-,-,flavoprotein,protein-coding,-,-,-,flavoprotein,20200911,-
+1928728,38331236,EFG77_pgp525,EFG77_pgp525,PMNZ_365,-,-,-,putative flavoprotein,protein-coding,-,-,-,putative flavoprotein,20200911,-
+1928728,38331237,EFG77_pgp524,EFG77_pgp524,PMNZ_366,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331238,EFG77_pgp523,EFG77_pgp523,PMNZ_367,-,-,-,stearoyl-CoA 9-desaturase,protein-coding,-,-,-,stearoyl-CoA 9-desaturase,20200911,-
+1928728,38331239,rpl9,EFG77_pgp522,PMNZ_368,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200911,-
+1928728,38331240,dnaB,EFG77_pgp521,PMNZ_369,-,-,-,DnaB helicase,protein-coding,-,-,-,DnaB helicase,20200911,-
+1928728,38331241,gidA,EFG77_pgp520,PMNZ_370,-,-,-,glucose-inhibited division protein A,protein-coding,-,-,-,glucose-inhibited division protein A,20200911,-
+1928728,38331242,EFG77_pgp519,EFG77_pgp519,PMNZ_371,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331243,EFG77_pgp518,EFG77_pgp518,PMNZ_372,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331244,EFG77_pgp517,EFG77_pgp517,PMNZ_373,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331245,valS,EFG77_pgp516,PMNZ_374,-,-,-,t-RNA synthetase class Ia,protein-coding,-,-,-,t-RNA synthetase class Ia,20200911,-
+1928728,38331246,EFG77_pgp515,EFG77_pgp515,PMNZ_375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331247,EFG77_pgt019,EFG77_pgt019,PMNZ_376,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331248,EFG77_pgp514,EFG77_pgp514,PMNZ_377,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331249,EFG77_pgp513,EFG77_pgp513,PMNZ_378,-,-,-,spermidine synthase,protein-coding,-,-,-,spermidine synthase,20200911,-
+1928728,38331250,EFG77_pgp512,EFG77_pgp512,PMNZ_379,-,-,-,putative agmatinase,protein-coding,-,-,-,putative agmatinase,20200911,-
+1928728,38331251,EFG77_pgp511,EFG77_pgp511,PMNZ_380,-,-,-,putative Glycine cleavage T-protein,protein-coding,-,-,-,putative Glycine cleavage T-protein,20200911,-
+1928728,38331252,aspS,EFG77_pgp510,PMNZ_381,-,-,-,aspartyl-tRNA synthetase,protein-coding,-,-,-,aspartyl-tRNA synthetase,20200911,-
+1928728,38331253,pyrG,EFG77_pgp509,PMNZ_382,-,-,-,CTP synthetase,protein-coding,-,-,-,CTP synthetase,20200911,-
+1928728,38331254,EFG77_pgp508,EFG77_pgp508,PMNZ_383,-,-,-,7-carboxy-7-deazaguanine synthase,protein-coding,-,-,-,7-carboxy-7-deazaguanine synthase,20200911,-
+1928728,38331255,EFG77_pgp507,EFG77_pgp507,PMNZ_384,-,-,-,7-cyano-7-deazaguanine synthase,protein-coding,-,-,-,7-cyano-7-deazaguanine synthase,20200911,-
+1928728,38331256,EFG77_pgp506,EFG77_pgp506,PMNZ_385,-,-,-,putative p-aminobenzoate synthetase,protein-coding,-,-,-,putative p-aminobenzoate synthetase,20200911,-
+1928728,38331257,EFG77_pgp505,EFG77_pgp505,PMNZ_386,-,-,-,aminotransferase class IV,protein-coding,-,-,-,aminotransferase class IV,20200911,-
+1928728,38331258,cbiF,EFG77_pgp504,PMNZ_387,-,-,-,uroporphyrin-III C-methyltransferase,protein-coding,-,-,-,uroporphyrin-III C-methyltransferase,20200911,-
+1928728,38331259,EFG77_pgp503,EFG77_pgp503,PMNZ_388,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331260,EFG77_pgp502,EFG77_pgp502,PMNZ_389,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20200911,-
+1928728,38331261,EFG77_pgp501,EFG77_pgp501,PMNZ_390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331262,EFG77_pgp500,EFG77_pgp500,PMNZ_391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331263,EFG77_pgp499,EFG77_pgp499,PMNZ_392,-,-,-,NAD binding site:D-amino acid oxidase,protein-coding,-,-,-,NAD binding site:D-amino acid oxidase,20200911,-
+1928728,38331264,dnaK,EFG77_pgp498,PMNZ_393,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200911,-
+1928728,38331265,aroE,EFG77_pgp497,PMNZ_394,-,-,-,shikimate/quinate 5-dehydrogenase,protein-coding,-,-,-,shikimate/quinate 5-dehydrogenase,20200911,-
+1928728,38331266,rps6,EFG77_pgp496,PMNZ_395,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200911,-
+1928728,38331267,EFG77_pgp495,EFG77_pgp495,PMNZ_396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331268,mraY,EFG77_pgp494,PMNZ_397,-,-,-,phospho-N-acetylmuramoyl- pentapeptidetransferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl- pentapeptidetransferase,20200911,-
+1928728,38331269,EFG77_pgp493,EFG77_pgp493,PMNZ_398,-,-,-,putative protein kinase: ABC1 family protein,protein-coding,-,-,-,putative protein kinase: ABC1 family protein,20200911,-
+1928728,38331270,thrC,EFG77_pgp492,PMNZ_399,-,-,-,threonine synthase,protein-coding,-,-,-,threonine synthase,20200911,-
+1928728,38331271,dnaN,EFG77_pgp491,PMNZ_400,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200911,-
+1928728,38331272,EFG77_pgp490,EFG77_pgp490,PMNZ_401,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331273,EFG77_pgp489,EFG77_pgp489,PMNZ_402,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20200911,-
+1928728,38331274,gyrA,EFG77_pgp488,PMNZ_403,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200911,-
+1928728,38331275,EFG77_pgp487,EFG77_pgp487,PMNZ_404,-,-,-,4Fe-4S cluster binding protein,protein-coding,-,-,-,4Fe-4S cluster binding protein,20200911,-
+1928728,38331276,EFG77_pgp486,EFG77_pgp486,PMNZ_405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331277,nusB,EFG77_pgp485,PMNZ_406,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20200911,-
+1928728,38331278,ftsY,EFG77_pgp484,PMNZ_407,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200911,-
+1928728,38331279,EFG77_pgp483,EFG77_pgp483,PMNZ_408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331280,EFG77_pgp482,EFG77_pgp482,PMNZ_409,-,-,-,flavoprotein,protein-coding,-,-,-,flavoprotein,20200911,-
+1928728,38331281,grpE,EFG77_pgp481,PMNZ_410,-,-,-,heat shock protein GrpE,protein-coding,-,-,-,heat shock protein GrpE,20200911,-
+1928728,38331282,dnaJ,EFG77_pgp480,PMNZ_411,-,-,-,DnaJ protein,protein-coding,-,-,-,DnaJ protein,20200911,-
+1928728,38331283,EFG77_pgp479,EFG77_pgp479,PMNZ_412,-,-,-,GTPase EngC,protein-coding,-,-,-,GTPase EngC,20200911,-
+1928728,38331284,EFG77_pgp478,EFG77_pgp478,PMNZ_413,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331285,EFG77_pgp477,EFG77_pgp477,PMNZ_414,-,-,-,UDP-N-acetylenolpyruvoylglucosamine reductase,protein-coding,-,-,-,UDP-N-acetylenolpyruvoylglucosamine reductase,20200911,-
+1928728,38331286,murC,EFG77_pgp476,PMNZ_415,-,-,-,UDP-N-acetylmuramate--alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--alanine ligase,20200911,-
+1928728,38331287,gap2,EFG77_pgp475,PMNZ_416,-,-,-,glyceraldehyde 3-phosphate dehydrogenase,protein-coding,-,-,-,glyceraldehyde 3-phosphate dehydrogenase,20201010,-
+1928728,38331288,EFG77_pgp474,EFG77_pgp474,PMNZ_417,-,-,-,putative thiamine monophosphate kinase,protein-coding,-,-,-,putative thiamine monophosphate kinase,20200911,-
+1928728,38331289,EFG77_pgp473,EFG77_pgp473,PMNZ_418,-,-,-,putative cyclophilin-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,putative cyclophilin-type peptidyl-prolyl cis-trans isomerase,20200911,-
+1928728,38331290,efp,EFG77_pgp472,PMNZ_419,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200911,-
+1928728,38331291,accB,EFG77_pgp471,PMNZ_420,-,-,-,"acetyl-CoA carboxylase, biotin carboxyl carrier protein",protein-coding,-,-,-,"acetyl-CoA carboxylase, biotin carboxyl carrier protein",20200911,-
+1928728,38331292,pdxA,EFG77_pgp470,PMNZ_421,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase,protein-coding,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase,20200911,-
+1928728,38331293,EFG77_pgp469,EFG77_pgp469,PMNZ_422,-,-,-,HNH nuclease,protein-coding,-,-,-,HNH nuclease,20200911,-
+1928728,38331294,EFG77_pgp468,EFG77_pgp468,PMNZ_423,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331295,EFG77_pgt020,EFG77_pgt020,PMNZ_424,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331296,EFG77_pgp467,EFG77_pgp467,PMNZ_425,-,-,-,soluble hydrogenase small subunit,protein-coding,-,-,-,soluble hydrogenase small subunit,20200911,-
+1928728,38331297,guaA,EFG77_pgp466,PMNZ_426,-,-,-,bifunctional GMP synthase/glutamine amidotransferase protein,protein-coding,-,-,-,bifunctional GMP synthase/glutamine amidotransferase protein,20200911,-
+1928728,38331298,EFG77_pgp465,EFG77_pgp465,PMNZ_427,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331299,EFG77_pgp464,EFG77_pgp464,PMNZ_428,-,-,-,putative penicillin-binding protein,protein-coding,-,-,-,putative penicillin-binding protein,20200911,-
+1928728,38331300,SqdX,EFG77_pgp463,PMNZ_429,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331301,sqdB,EFG77_pgp462,PMNZ_430,-,-,-,sulfolipid biosynthesis protein,protein-coding,-,-,-,sulfolipid biosynthesis protein,20200911,-
+1928728,38331302,ycf37,EFG77_pgp461,PMNZ_431,-,-,-,TPR repeat protein,protein-coding,-,-,-,TPR repeat protein,20200911,-
+1928728,38331303,rpl20,EFG77_pgp460,PMNZ_432,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200911,-
+1928728,38331304,rpmI,EFG77_pgp459,PMNZ_433,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200911,-
+1928728,38331305,EFG77_pgp458,EFG77_pgp458,PMNZ_434,-,-,-,"glycosyl transferase, family 2",protein-coding,-,-,-,"glycosyl transferase, family 2",20200911,-
+1928728,38331306,EFG77_pgp457,EFG77_pgp457,PMNZ_435,-,-,-,DNA polymerase gamma and tau subunits,protein-coding,-,-,-,DNA polymerase gamma and tau subunits,20200911,-
+1928728,38331307,EFG77_pgp456,EFG77_pgp456,PMNZ_436,-,-,-,Clp protease proteolytic subunit,protein-coding,-,-,-,Clp protease proteolytic subunit,20200911,-
+1928728,38331308,tig,EFG77_pgp455,PMNZ_437,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200911,-
+1928728,38331309,asd,EFG77_pgp454,PMNZ_438,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20200911,-
+1928728,38331310,dapA,EFG77_pgp453,PMNZ_439,-,-,-,dihydrodipicolinate synthase,protein-coding,-,-,-,dihydrodipicolinate synthase,20200911,-
+1928728,38331311,EFG77_pgp452,EFG77_pgp452,PMNZ_440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331312,EFG77_pgp451,EFG77_pgp451,PMNZ_441,-,-,-,putative MesJ-like protein,protein-coding,-,-,-,putative MesJ-like protein,20200911,-
+1928728,38331313,ycf23,EFG77_pgp450,PMNZ_442,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331314,lysC,EFG77_pgp449,PMNZ_443,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20200911,-
+1928728,38331315,EFG77_pgp448,EFG77_pgp448,PMNZ_444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331316,infC,EFG77_pgp447,PMNZ_445,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200911,-
+1928728,38331317,miaA,EFG77_pgp446,PMNZ_446,-,-,-,tRNA delta-2-isopentenylpyrophosphate transferase,protein-coding,-,-,-,tRNA delta-2-isopentenylpyrophosphate transferase,20200911,-
+1928728,38331318,gyrB,EFG77_pgp445,PMNZ_447,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200911,-
+1928728,38331319,EFG77_pgp444,EFG77_pgp444,PMNZ_448,-,-,-,Glutathione peroxidase,protein-coding,-,-,-,Glutathione peroxidase,20200911,-
+1928728,38331320,EFG77_pgp443,EFG77_pgp443,PMNZ_449,-,-,-,"MgtE family, putative magnesium transport protein",protein-coding,-,-,-,"MgtE family, putative magnesium transport protein",20200911,-
+1928728,38331321,rpoD,EFG77_pgp442,PMNZ_450,-,-,-,type II alternative RNA polymerase sigma factor,protein-coding,-,-,-,type II alternative RNA polymerase sigma factor,20200911,-
+1928728,38331322,EFG77_pgp441,EFG77_pgp441,PMNZ_451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331323,ahcY,EFG77_pgp440,PMNZ_452,-,-,-,S-adenosyl-L-homocysteine hydrolase,protein-coding,-,-,-,S-adenosyl-L-homocysteine hydrolase,20200911,-
+1928728,38331324,ssb,EFG77_pgp439,PMNZ_453,-,-,-,single-strand DNA-binding protein,protein-coding,-,-,-,single-strand DNA-binding protein,20200911,-
+1928728,38331325,EFG77_pgp438,EFG77_pgp438,PMNZ_454,-,-,-,Rod shape determining protein,protein-coding,-,-,-,Rod shape determining protein,20200911,-
+1928728,38331326,EFG77_pgp437,EFG77_pgp437,PMNZ_455,-,-,-,putative rod shape-determining protein,protein-coding,-,-,-,putative rod shape-determining protein,20200911,-
+1928728,38331327,EFG77_pgp436,EFG77_pgp436,PMNZ_456,-,-,-,two component transcriptional regulator,protein-coding,-,-,-,two component transcriptional regulator,20200911,-
+1928728,38331328,lysS,EFG77_pgp435,PMNZ_457,-,-,-,lysyl-tRNA synthetase,protein-coding,-,-,-,lysyl-tRNA synthetase,20200911,-
+1928728,38331329,EFG77_pgp434,EFG77_pgp434,PMNZ_458,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331330,EFG77_pgp433,EFG77_pgp433,PMNZ_459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331331,EFG77_pgp432,EFG77_pgp432,PMNZ_460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331332,smpB,EFG77_pgp431,PMNZ_461,-,-,-,SsrA-binding protein,protein-coding,-,-,-,SsrA-binding protein,20200911,-
+1928728,38331333,ruvB,EFG77_pgp430,PMNZ_462,-,-,-,Holliday junction DNA helicase RuvB,protein-coding,-,-,-,Holliday junction DNA helicase RuvB,20200911,-
+1928728,38331334,EFG77_pgp429,EFG77_pgp429,PMNZ_463,-,-,-,TPR repeat protein,protein-coding,-,-,-,TPR repeat protein,20200911,-
+1928728,38331335,EFG77_pgp428,EFG77_pgp428,PMNZ_464,-,-,-,HEAT repeat-containing PBS lyase,protein-coding,-,-,-,HEAT repeat-containing PBS lyase,20200911,-
+1928728,38331336,EFG77_pgp427,EFG77_pgp427,PMNZ_465,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200911,-
+1928728,38331337,fabF,EFG77_pgp426,PMNZ_466,-,-,-,3-oxoacyl-(acyl-carrier-protein) synthase II,protein-coding,-,-,-,3-oxoacyl-(acyl-carrier-protein) synthase II,20200911,-
+1928728,38331338,acpP,EFG77_pgp425,PMNZ_467,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200911,-
+1928728,38331339,psaC,EFG77_pgp424,PMNZ_468,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200911,-
+1928728,38331340,glmS,EFG77_pgp423,PMNZ_469,-,-,-,D-fructose-6-phosphate amidotransferase,protein-coding,-,-,-,D-fructose-6-phosphate amidotransferase,20200911,-
+1928728,38331341,EFG77_pgp422,EFG77_pgp422,PMNZ_470,-,-,-,16S rRNA-processing protein,protein-coding,-,-,-,16S rRNA-processing protein,20200911,-
+1928728,38331342,rnc,EFG77_pgp421,PMNZ_471,-,-,-,putative ribonuclease III,protein-coding,-,-,-,putative ribonuclease III,20200911,-
+1928728,38331343,EFG77_pgt021,EFG77_pgt021,PMNZ_472,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331344,EFG77_pgp420,EFG77_pgp420,PMNZ_473,-,-,-,Kef-type K+ transport system,protein-coding,-,-,-,Kef-type K+ transport system,20200911,-
+1928728,38331345,EFG77_pgp419,EFG77_pgp419,PMNZ_474,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331346,ho1,EFG77_pgp418,PMNZ_475,-,-,-,heme oxygenase,protein-coding,-,-,-,heme oxygenase,20200911,-
+1928728,38331347,pcnB,EFG77_pgp417,PMNZ_476,-,-,-,tRNA nucleotidyltransferase/poly(A) polymerase,protein-coding,-,-,-,tRNA nucleotidyltransferase/poly(A) polymerase,20200911,-
+1928728,38331348,EFG77_pgp416,EFG77_pgp416,PMNZ_477,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331349,galE,EFG77_pgp415,PMNZ_478,-,-,-,UDP-glucose-4-epimerase,protein-coding,-,-,-,UDP-glucose-4-epimerase,20200911,-
+1928728,38331350,hisS,EFG77_pgp414,PMNZ_479,-,-,-,histidyl-tRNA synthetase,protein-coding,-,-,-,histidyl-tRNA synthetase,20200911,-
+1928728,38331351,EFG77_pgt022,EFG77_pgt022,PMNZ_480,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331352,EFG77_pgp413,EFG77_pgp413,PMNZ_481,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331353,secA,EFG77_pgp412,PMNZ_482,-,-,-,preprotein translocase SecA subunit,protein-coding,-,-,-,preprotein translocase SecA subunit,20200911,-
+1928728,38331354,EFG77_pgp411,EFG77_pgp411,PMNZ_483,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331355,mutS,EFG77_pgp410,PMNZ_484,-,-,-,DNA mismatch repair protein,protein-coding,-,-,-,DNA mismatch repair protein,20200911,-
+1928728,38331356,psbZ,EFG77_pgp409,PMNZ_485,-,-,-,putative photosystem II Psb27 protein,protein-coding,-,-,-,putative photosystem II Psb27 protein,20201010,-
+1928728,38331357,psbJ,EFG77_pgp408,PMNZ_486,-,-,-,photosystem II reaction center protein,protein-coding,-,-,-,photosystem II reaction center protein,20200911,-
+1928728,38331358,psbF,EFG77_pgp407,PMNZ_487,-,-,-,"cytochrome b559, beta subunit",protein-coding,-,-,-,"cytochrome b559, beta subunit",20200911,-
+1928728,38331359,psbE,EFG77_pgp406,PMNZ_488,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,cytochrome b559 subunit alpha,20200911,-
+1928728,38331360,EFG77_pgp405,EFG77_pgp405,PMNZ_489,-,-,-,plant photosystem II stability/assembly factor- like protein,protein-coding,-,-,-,plant photosystem II stability/assembly factor- like protein,20200911,-
+1928728,38331361,EFG77_pgp404,EFG77_pgp404,PMNZ_490,-,-,-,rubredoxin,protein-coding,-,-,-,rubredoxin,20200911,-
+1928728,38331362,ndhC,EFG77_pgp403,PMNZ_491,-,-,-,NADH dehydrogenase alpha subunit,protein-coding,-,-,-,NADH dehydrogenase alpha subunit,20200911,-
+1928728,38331363,ndhK,EFG77_pgp402,PMNZ_492,-,-,-,NADH dehydrogenase beta subunit,protein-coding,-,-,-,NADH dehydrogenase beta subunit,20200911,-
+1928728,38331364,ndhJ,EFG77_pgp401,PMNZ_493,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J,20200911,-
+1928728,38331365,chlD,EFG77_pgp400,PMNZ_494,-,-,-,magnesium chelatase ATPase subunit D,protein-coding,-,-,-,magnesium chelatase ATPase subunit D,20200911,-
+1928728,38331366,EFG77_pgp399,EFG77_pgp399,PMNZ_495,-,-,-,putative 2-amino-4-hydroxy-6- hydroxymethyldihydropteridinepyrophosphokinase,protein-coding,-,-,-,putative 2-amino-4-hydroxy-6- hydroxymethyldihydropteridinepyrophosphokinase,20200911,-
+1928728,38331367,envM,EFG77_pgp398,PMNZ_496,-,-,-,enoyl-(acyl-carrier-protein) reductase,protein-coding,-,-,-,enoyl-(acyl-carrier-protein) reductase,20200911,-
+1928728,38331368,hisB,EFG77_pgp397,PMNZ_497,-,-,-,imidazoleglycerol-phosphate dehydratase,protein-coding,-,-,-,imidazoleglycerol-phosphate dehydratase,20200911,-
+1928728,38331369,pyrE,EFG77_pgp396,PMNZ_498,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20200911,-
+1928728,38331370,EFG77_pgt023,EFG77_pgt023,PMNZ_499,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331371,EFG77_pgp395,EFG77_pgp395,PMNZ_500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331372,psbK,EFG77_pgp394,PMNZ_501,-,-,-,photosystem II reaction center protein precursor,protein-coding,-,-,-,photosystem II reaction center protein precursor,20200911,-
+1928728,38331373,tgt,EFG77_pgp393,PMNZ_502,-,-,-,queuine tRNA-ribosyltransferase,protein-coding,-,-,-,queuine tRNA-ribosyltransferase,20200911,-
+1928728,38331374,EFG77_pgp392,EFG77_pgp392,PMNZ_503,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,two-component sensor histidine kinase,20200911,-
+1928728,38331375,EFG77_pgp391,EFG77_pgp391,PMNZ_504,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331376,purH,EFG77_pgp390,PMNZ_505,-,-,-,phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20200911,-
+1928728,38331377,EFG77_pgp389,EFG77_pgp389,PMNZ_506,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331378,EFG77_pgp388,EFG77_pgp388,PMNZ_507,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20200911,-
+1928728,38331379,EFG77_pgp387,EFG77_pgp387,PMNZ_508,-,-,-,integral membrane protein MviN,protein-coding,-,-,-,integral membrane protein MviN,20200911,-
+1928728,38331380,EFG77_pgp386,EFG77_pgp386,PMNZ_509,-,-,-,putative cytochrome c oxidase subunit Va,protein-coding,-,-,-,putative cytochrome c oxidase subunit Va,20200911,-
+1928728,38331381,EFG77_pgp385,EFG77_pgp385,PMNZ_510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331382,EFG77_pgt024,EFG77_pgt024,PMNZ_511,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331383,gylA,EFG77_pgp384,PMNZ_512,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200911,-
+1928728,38331384,leuC,EFG77_pgp383,PMNZ_513,-,-,-,isopropylmalate isomerase large subunit,protein-coding,-,-,-,isopropylmalate isomerase large subunit,20200911,-
+1928728,38331385,leuD,EFG77_pgp382,PMNZ_514,-,-,-,3-isopropylmalate dehydratase small subunit,protein-coding,-,-,-,3-isopropylmalate dehydratase small subunit,20200911,-
+1928728,38331386,psbI,EFG77_pgp381,PMNZ_515,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200926,-
+1928728,38331387,psbH,EFG77_pgp380,PMNZ_516,-,-,-,photosystem II reaction center protein,protein-coding,-,-,-,photosystem II reaction center protein,20200911,-
+1928728,38331388,EFG77_pgp379,EFG77_pgp379,PMNZ_517,-,-,-,cob(I)alamin adenosyltransferase,protein-coding,-,-,-,cob(I)alamin adenosyltransferase,20200911,-
+1928728,38331389,EFG77_pgp378,EFG77_pgp378,PMNZ_518,-,-,-,deoxycytidine deaminase,protein-coding,-,-,-,deoxycytidine deaminase,20200911,-
+1928728,38331390,EFG77_pgp377,EFG77_pgp377,PMNZ_519,-,-,-,alternative thymidylate synthase,protein-coding,-,-,-,alternative thymidylate synthase,20200911,-
+1928728,38331391,EFG77_pgp376,EFG77_pgp376,PMNZ_520,-,-,-,thioredoxin-like protein,protein-coding,-,-,-,thioredoxin-like protein,20200911,-
+1928728,38331392,EFG77_pgp375,EFG77_pgp375,PMNZ_521,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331393,EFG77_pgp374,EFG77_pgp374,PMNZ_522,-,-,-,phosphotransferase superclass,protein-coding,-,-,-,phosphotransferase superclass,20200911,-
+1928728,38331394,EFG77_pgp373,EFG77_pgp373,PMNZ_523,-,-,-,tRNA (guanine-N(7)-)-methyltransferase,protein-coding,-,-,-,tRNA (guanine-N(7)-)-methyltransferase,20200911,-
+1928728,38331395,EFG77_pgp372,EFG77_pgp372,PMNZ_524,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331396,ileS,EFG77_pgp371,PMNZ_525,-,-,-,isoleucyl-tRNA synthetase,protein-coding,-,-,-,isoleucyl-tRNA synthetase,20200911,-
+1928728,38331397,EFG77_pgt025,EFG77_pgt025,PMNZ_526,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331398,bhy,EFG77_pgp370,PMNZ_527,-,-,-,beta-carotene hydroxylase,protein-coding,-,-,-,beta-carotene hydroxylase,20200911,-
+1928728,38331399,EFG77_pgp369,EFG77_pgp369,PMNZ_528,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit C,protein-coding,-,-,-,glutamyl-tRNA (Gln) amidotransferase subunit C,20200911,-
+1928728,38331400,EFG77_pgp368,EFG77_pgp368,PMNZ_529,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331401,EFG77_pgp367,EFG77_pgp367,PMNZ_530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331402,EFG77_pgp366,EFG77_pgp366,PMNZ_531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331403,EFG77_pgt026,EFG77_pgt026,PMNZ_532,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331404,psbO,EFG77_pgp365,PMNZ_533,-,-,-,photosystem II manganese-stabilizing polypeptide,protein-coding,-,-,-,photosystem II manganese-stabilizing polypeptide,20200911,-
+1928728,38331405,cysD,EFG77_pgp364,PMNZ_534,-,-,-,sulfate adenylyltransferase,protein-coding,-,-,-,sulfate adenylyltransferase,20200911,-
+1928728,38331406,EFG77_pgp363,EFG77_pgp363,PMNZ_535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331407,aroC,EFG77_pgp362,PMNZ_536,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20200911,-
+1928728,38331408,EFG77_pgp361,EFG77_pgp361,PMNZ_537,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331409,EFG77_pgp360,EFG77_pgp360,PMNZ_538,-,-,-,aspartate aminotransferase,protein-coding,-,-,-,aspartate aminotransferase,20200911,-
+1928728,38331410,rne,EFG77_pgp359,PMNZ_539,-,-,-,ribonuclease E,protein-coding,-,-,-,ribonuclease E,20200911,-
+1928728,38331411,pheA,EFG77_pgp358,PMNZ_540,-,-,-,Prephenate dehydratase,protein-coding,-,-,-,Prephenate dehydratase,20200911,-
+1928728,38331412,EFG77_pgp357,EFG77_pgp357,PMNZ_541,-,-,-,putative sterol-C-methyltransferase,protein-coding,-,-,-,putative sterol-C-methyltransferase,20200911,-
+1928728,38331413,rps10,EFG77_pgp356,PMNZ_542,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200911,-
+1928728,38331414,tufA,EFG77_pgp355,PMNZ_543,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200911,-
+1928728,38331415,fus,EFG77_pgp354,PMNZ_544,-,-,-,elongation factor EF-2,protein-coding,-,-,-,elongation factor EF-2,20200911,-
+1928728,38331416,rps7,EFG77_pgp353,PMNZ_545,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200911,-
+1928728,38331417,rps12,EFG77_pgp352,PMNZ_546,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200911,-
+1928728,38331418,EFG77_pgp351,EFG77_pgp351,PMNZ_547,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331419,EFG77_pgp350,EFG77_pgp350,PMNZ_548,-,-,-,glutamate synthase,protein-coding,-,-,-,glutamate synthase,20200911,-
+1928728,38331420,EFG77_pgp349,EFG77_pgp349,PMNZ_549,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331421,lipA,EFG77_pgp348,PMNZ_550,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20200911,-
+1928728,38331422,EFG77_pgp347,EFG77_pgp347,PMNZ_551,-,-,-,Proline-rich region,protein-coding,-,-,-,Proline-rich region,20200911,-
+1928728,38331423,psaA,EFG77_pgp346,PMNZ_552,-,-,-,photosystem I,protein-coding,-,-,-,photosystem I,20200911,-
+1928728,38331424,psaB,EFG77_pgp345,PMNZ_553,-,-,-,photosystem I core protein,protein-coding,-,-,-,photosystem I core protein,20200911,-
+1928728,38331425,psaL,EFG77_pgp344,PMNZ_554,-,-,-,photosystem I reaction centre subunit XI,protein-coding,-,-,-,photosystem I reaction centre subunit XI,20200911,-
+1928728,38331426,EFG77_pgp343,EFG77_pgp343,PMNZ_555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331427,EFG77_pgt027,EFG77_pgt027,PMNZ_556,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331428,alr,EFG77_pgp342,PMNZ_557,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20200911,-
+1928728,38331429,prfA,EFG77_pgp341,PMNZ_558,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200911,-
+1928728,38331430,rpl31,EFG77_pgp340,PMNZ_559,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200911,-
+1928728,38331431,rps9,EFG77_pgp339,PMNZ_560,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200911,-
+1928728,38331432,rpl13,EFG77_pgp338,PMNZ_561,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200911,-
+1928728,38331433,truA,EFG77_pgp337,PMNZ_562,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,tRNA pseudouridine synthase A,20200911,-
+1928728,38331434,rpl17,EFG77_pgp336,PMNZ_563,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200911,-
+1928728,38331435,rpoA,EFG77_pgp335,PMNZ_564,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,DNA-directed RNA polymerase alpha subunit,20200911,-
+1928728,38331436,rps11,EFG77_pgp334,PMNZ_565,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200911,-
+1928728,38331437,rps13,EFG77_pgp333,PMNZ_566,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200911,-
+1928728,38331438,rpl36,EFG77_pgp332,PMNZ_567,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200911,-
+1928728,38331439,adk,EFG77_pgp331,PMNZ_568,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20200911,-
+1928728,38331440,secY,EFG77_pgp330,PMNZ_569,-,-,-,preprotein translocase SecY,protein-coding,-,-,-,preprotein translocase SecY,20200911,-
+1928728,38331441,rpl15,EFG77_pgp329,PMNZ_570,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200911,-
+1928728,38331442,rps5,EFG77_pgp328,PMNZ_571,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200911,-
+1928728,38331443,rpl18,EFG77_pgp327,PMNZ_572,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200911,-
+1928728,38331444,rpl6,EFG77_pgp326,PMNZ_573,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200911,-
+1928728,38331445,rps8,EFG77_pgp325,PMNZ_574,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201010,-
+1928728,38331446,rpl5,EFG77_pgp324,PMNZ_575,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200911,-
+1928728,38331447,rpl24,EFG77_pgp323,PMNZ_576,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200911,-
+1928728,38331448,rpl14,EFG77_pgp322,PMNZ_577,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200911,-
+1928728,38331449,rps17,EFG77_pgp321,PMNZ_578,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200911,-
+1928728,38331450,rpl29,EFG77_pgp320,PMNZ_579,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200911,-
+1928728,38331451,rpl16,EFG77_pgp319,PMNZ_580,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200911,-
+1928728,38331452,rps3,EFG77_pgp318,PMNZ_581,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200911,-
+1928728,38331453,rpl22,EFG77_pgp317,PMNZ_582,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200911,-
+1928728,38331454,rps19,EFG77_pgp316,PMNZ_583,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200911,-
+1928728,38331455,rpl2,EFG77_pgp315,PMNZ_584,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200911,-
+1928728,38331456,rpl23,EFG77_pgp314,PMNZ_585,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201010,-
+1928728,38331457,rpl4,EFG77_pgp313,PMNZ_586,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200911,-
+1928728,38331458,rpl3,EFG77_pgp312,PMNZ_587,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200911,-
+1928728,38331459,EFG77_pgp311,EFG77_pgp311,PMNZ_588,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331460,EFG77_pgp310,EFG77_pgp310,PMNZ_589,-,-,-,putative ldpA protein,protein-coding,-,-,-,putative ldpA protein,20200911,-
+1928728,38331461,ycf45,EFG77_pgp309,PMNZ_590,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331462,EFG77_pgt028,EFG77_pgt028,PMNZ_591,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331463,recA,EFG77_pgp308,PMNZ_592,-,-,-,recombinase A,protein-coding,-,-,-,recombinase A,20200911,-
+1928728,38331464,EFG77_pgp307,EFG77_pgp307,PMNZ_593,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331465,tyrA,EFG77_pgp306,PMNZ_594,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,prephenate dehydrogenase,20200911,-
+1928728,38331466,EFG77_pgp305,EFG77_pgp305,PMNZ_595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331467,cobA,EFG77_pgp304,PMNZ_596,-,-,-,"cob(I)yrinic acid a,c-diamide adenosyltransferase",protein-coding,-,-,-,"cob(I)yrinic acid a,c-diamide adenosyltransferase",20200911,-
+1928728,38331468,EFG77_pgp303,EFG77_pgp303,PMNZ_597,-,-,-,S-adenosylmethionine decarboxylase proenzyme,protein-coding,-,-,-,S-adenosylmethionine decarboxylase proenzyme,20200911,-
+1928728,38331469,recF,EFG77_pgp302,PMNZ_598,-,-,-,putative DNA repair and genetic recombination protein RecF,protein-coding,-,-,-,putative DNA repair and genetic recombination protein RecF,20200911,-
+1928728,38331470,EFG77_pgt029,EFG77_pgt029,PMNZ_599,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331471,EFG77_pgp301,EFG77_pgp301,PMNZ_600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331472,EFG77_pgp300,EFG77_pgp300,PMNZ_601,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331473,trpE,EFG77_pgp299,PMNZ_602,-,-,-,anthranilate synthase,protein-coding,-,-,-,anthranilate synthase,20200911,-
+1928728,38331474,psaD,EFG77_pgp298,PMNZ_603,-,-,-,photosystem I reaction center subunit II,protein-coding,-,-,-,photosystem I reaction center subunit II,20201010,-
+1928728,38331475,EFG77_pgp297,EFG77_pgp297,PMNZ_604,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331476,EFG77_pgp296,EFG77_pgp296,PMNZ_605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331477,EFG77_pgp295,EFG77_pgp295,PMNZ_606,-,-,-,MRP protein-like protein,protein-coding,-,-,-,MRP protein-like protein,20200911,-
+1928728,38331478,hemF,EFG77_pgp294,PMNZ_607,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,coproporphyrinogen III oxidase,20200911,-
+1928728,38331479,EFG77_pgp293,EFG77_pgp293,PMNZ_608,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331480,EFG77_pgp292,EFG77_pgp292,PMNZ_609,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331481,EFG77_pgt030,EFG77_pgt030,PMNZ_610,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331482,EFG77_pgp291,EFG77_pgp291,PMNZ_611,-,-,-,Oxidoreductase,protein-coding,-,-,-,Oxidoreductase,20200911,-
+1928728,38331483,EFG77_pgp290,EFG77_pgp290,PMNZ_613,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331484,EFG77_pgp289,EFG77_pgp289,PMNZ_614,-,-,-,putative bifunctional enzyme,protein-coding,-,-,-,putative bifunctional enzyme,20200911,-
+1928728,38331485,cpcF,EFG77_pgp288,PMNZ_615,-,-,-,phycocyanin alpha phycocyanobilin lyase,protein-coding,-,-,-,phycocyanin alpha phycocyanobilin lyase,20200911,-
+1928728,38331486,cpcE,EFG77_pgp287,PMNZ_616,-,-,-,phycocyanin alpha phycocyanobilin lyase,protein-coding,-,-,-,phycocyanin alpha phycocyanobilin lyase,20200911,-
+1928728,38331487,cpcA,EFG77_pgp286,PMNZ_617,-,-,-,"Phycocyanin, alpha subunit",protein-coding,-,-,-,"Phycocyanin, alpha subunit",20201010,-
+1928728,38331488,cpcB,EFG77_pgp285,PMNZ_618,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,phycocyanin beta subunit,20201010,-
+1928728,38331489,cpcC,EFG77_pgp284,PMNZ_619,-,-,-,phycobilisome linker polypeptide,protein-coding,-,-,-,phycobilisome linker polypeptide,20200911,-
+1928728,38331490,EFG77_pgp283,EFG77_pgp283,PMNZ_620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331491,EFG77_pgt031,EFG77_pgt031,PMNZ_621,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331492,EFG77_pgp282,EFG77_pgp282,PMNZ_622,-,-,-,"putative carbohydrate kinase, FGGY family protein",protein-coding,-,-,-,"putative carbohydrate kinase, FGGY family protein",20200911,-
+1928728,38331493,EFG77_pgp281,EFG77_pgp281,PMNZ_623,-,-,-,S-adenosylmethionine synthetase,protein-coding,-,-,-,S-adenosylmethionine synthetase,20200911,-
+1928728,38331494,EFG77_pgp280,EFG77_pgp280,PMNZ_624,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331495,rps1,EFG77_pgp279,PMNZ_625,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200911,-
+1928728,38331496,psbT,EFG77_pgp278,PMNZ_626,-,-,-,photosystem II reaction center T protein,protein-coding,-,-,-,photosystem II reaction center T protein,20200911,-
+1928728,38331497,psbB,EFG77_pgp277,PMNZ_627,-,-,-,photosystem II chlorophyll-binding protein,protein-coding,-,-,-,photosystem II chlorophyll-binding protein,20200911,-
+1928728,38331498,EFG77_pgp276,EFG77_pgp276,PMNZ_628,-,-,-,putative ferredoxin (2Fe-2S),protein-coding,-,-,-,putative ferredoxin (2Fe-2S),20200911,-
+1928728,38331499,psbM,EFG77_pgp275,PMNZ_629,-,-,-,photosystem II protein,protein-coding,-,-,-,photosystem II protein,20200911,-
+1928728,38331500,EFG77_pgp274,EFG77_pgp274,PMNZ_630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331501,EFG77_pgp273,EFG77_pgp273,PMNZ_631,-,-,-,"modification methylase, HemK family protein",protein-coding,-,-,-,"modification methylase, HemK family protein",20200911,-
+1928728,38331502,EFG77_pgt032,EFG77_pgt032,PMNZ_632,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331503,minE,EFG77_pgp272,PMNZ_633,-,-,-,putative septum site-determining protein,protein-coding,-,-,-,putative septum site-determining protein,20200911,-
+1928728,38331504,minD,EFG77_pgp271,PMNZ_634,-,-,-,putative septum site-determining protein,protein-coding,-,-,-,putative septum site-determining protein,20200911,-
+1928728,38331505,minC,EFG77_pgp270,PMNZ_635,-,-,-,putative septum site-determining protein,protein-coding,-,-,-,putative septum site-determining protein,20200911,-
+1928728,38331506,ctpA,EFG77_pgp269,PMNZ_636,-,-,-,PDZ domain,protein-coding,-,-,-,PDZ domain,20200911,-
+1928728,38331507,petB,EFG77_pgp268,PMNZ_637,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200911,-
+1928728,38331508,petD,EFG77_pgp267,PMNZ_638,-,-,-,cytochrome b6-f complex subunit 4,protein-coding,-,-,-,cytochrome b6-f complex subunit 4,20200911,-
+1928728,38331509,EFG77_pgr003,EFG77_pgr003,PMNZ_639,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331510,EFG77_pgt033,EFG77_pgt033,PMNZ_640,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331511,EFG77_pgt034,EFG77_pgt034,PMNZ_641,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331512,EFG77_pgr002,EFG77_pgr002,PMNZ_642,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331513,EFG77_pgr001,EFG77_pgr001,PMNZ_643,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+1928728,38331514,def,EFG77_pgp266,PMNZ_644,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200911,-
+1928728,38331515,nifS,EFG77_pgp265,PMNZ_645,-,-,-,putative cysteine desulfurase or selenocysteine lyase,protein-coding,-,-,-,putative cysteine desulfurase or selenocysteine lyase,20200911,-
+1928728,38331516,EFG77_pgp264,EFG77_pgp264,PMNZ_646,-,-,-,ABC transporter,protein-coding,-,-,-,ABC transporter,20200911,-
+1928728,38331517,sufC,EFG77_pgp263,PMNZ_647,-,-,-,FeS assembly ATPase SufC,protein-coding,-,-,-,FeS assembly ATPase SufC,20201010,-
+1928728,38331518,sufB,EFG77_pgp262,PMNZ_648,-,-,-,FeS assembly protein SufB,protein-coding,-,-,-,FeS assembly protein SufB,20200911,-
+1928728,38331519,ftrC,EFG77_pgp261,PMNZ_649,-,-,-,ferredoxin-thioredoxin reductase catalytic chain,protein-coding,-,-,-,ferredoxin-thioredoxin reductase catalytic chain,20200911,-
+1928728,38331520,EFG77_pgp260,EFG77_pgp260,PMNZ_650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331521,cpcG,EFG77_pgp259,PMNZ_651,-,-,-,phycobilisome rod-core linker polypeptide cpcG,protein-coding,-,-,-,phycobilisome rod-core linker polypeptide cpcG,20200911,-
+1928728,38331522,EFG77_pgp258,EFG77_pgp258,PMNZ_652,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331523,EFG77_pgp257,EFG77_pgp257,PMNZ_653,-,-,-,putative 4'-phosphopantetheinyl transferase family protein,protein-coding,-,-,-,putative 4'-phosphopantetheinyl transferase family protein,20200911,-
+1928728,38331524,cysH,EFG77_pgp256,PMNZ_654,-,-,-,phosphoadenosine phosphosulfate reductase,protein-coding,-,-,-,phosphoadenosine phosphosulfate reductase,20200911,-
+1928728,38331525,ndh,EFG77_pgp255,PMNZ_655,-,-,-,"putative NADH dehydrogenase, transport associated",protein-coding,-,-,-,"putative NADH dehydrogenase, transport associated",20200911,-
+1928728,38331526,EFG77_pgp254,EFG77_pgp254,PMNZ_656,-,-,-,putative sodium/sulfate transporter,protein-coding,-,-,-,putative sodium/sulfate transporter,20200911,-
+1928728,38331527,EFG77_pgp253,EFG77_pgp253,PMNZ_657,-,-,-,putative sodium transporter,protein-coding,-,-,-,putative sodium transporter,20200911,-
+1928728,38331528,EFG77_pgp252,EFG77_pgp252,PMNZ_658,-,-,-,putative potassium channel,protein-coding,-,-,-,putative potassium channel,20200911,-
+1928728,38331529,EFG77_pgp251,EFG77_pgp251,PMNZ_659,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331530,EFG77_pgp250,EFG77_pgp250,PMNZ_660,-,-,-,high light inducible protein,protein-coding,-,-,-,high light inducible protein,20200911,-
+1928728,38331531,rps21,EFG77_pgp249,PMNZ_661,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200911,-
+1928728,38331532,EFG77_pgp248,EFG77_pgp248,PMNZ_662,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20200911,-
+1928728,38331533,EFG77_pgp247,EFG77_pgp247,PMNZ_663,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331534,psbX,EFG77_pgp246,PMNZ_664,-,-,-,photosystem II PsbX protein,protein-coding,-,-,-,photosystem II PsbX protein,20201010,-
+1928728,38331535,EFG77_pgp245,EFG77_pgp245,PMNZ_665,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",protein-coding,-,-,-,"YGGT family, conserved hypothetical integral membrane protein",20200911,-
+1928728,38331536,accC,EFG77_pgp244,PMNZ_666,-,-,-,acetyl-CoA carboxylase,protein-coding,-,-,-,acetyl-CoA carboxylase,20200911,-
+1928728,38331537,EFG77_pgt035,EFG77_pgt035,PMNZ_667,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331538,EFG77_pgp243,EFG77_pgp243,PMNZ_668,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331539,EFG77_pgp242,EFG77_pgp242,PMNZ_669,-,-,-,putative RNA methylase family protein,protein-coding,-,-,-,putative RNA methylase family protein,20200911,-
+1928728,38331540,EFG77_pgp241,EFG77_pgp241,PMNZ_670,-,-,-,heat shock protein DnaJ-like protein,protein-coding,-,-,-,heat shock protein DnaJ-like protein,20200911,-
+1928728,38331541,hemB,EFG77_pgp240,PMNZ_671,-,-,-,delta-aminolevulinic acid dehydratase,protein-coding,-,-,-,delta-aminolevulinic acid dehydratase,20200911,-
+1928728,38331542,EFG77_pgp239,EFG77_pgp239,PMNZ_672,-,-,-,putative ring-cleaving dioxygenase,protein-coding,-,-,-,putative ring-cleaving dioxygenase,20200911,-
+1928728,38331543,EFG77_pgp238,EFG77_pgp238,PMNZ_673,-,-,-,GTP1/Obg family GTP-binding protein,protein-coding,-,-,-,GTP1/Obg family GTP-binding protein,20200911,-
+1928728,38331544,EFG77_pgp237,EFG77_pgp237,PMNZ_674,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331545,EFG77_pgp236,EFG77_pgp236,PMNZ_675,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331546,psbA,EFG77_pgp235,PMNZ_676,-,-,-,photosystem q(b) protein,protein-coding,-,-,-,photosystem q(b) protein,20200911,-
+1928728,38331547,EFG77_pgt036,EFG77_pgt036,PMNZ_677,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331548,menB,EFG77_pgp234,PMNZ_678,-,-,-,naphthoate synthase,protein-coding,-,-,-,naphthoate synthase,20200911,-
+1928728,38331549,menD,EFG77_pgp233,PMNZ_679,-,-,-,Menaquinone biosynthesis protein,protein-coding,-,-,-,Menaquinone biosynthesis protein,20200911,-
+1928728,38331550,lepB,EFG77_pgp232,PMNZ_680,-,-,-,peptidase S26A,protein-coding,-,-,-,peptidase S26A,20200911,-
+1928728,38331551,EFG77_pgp231,EFG77_pgp231,PMNZ_681,-,-,-,carboxylyase-related protein,protein-coding,-,-,-,carboxylyase-related protein,20200911,-
+1928728,38331552,EFG77_pgp230,EFG77_pgp230,PMNZ_682,-,-,-,2-phosphosulfolactate phosphatase,protein-coding,-,-,-,2-phosphosulfolactate phosphatase,20200911,-
+1928728,38331553,EFG77_pgp229,EFG77_pgp229,PMNZ_683,-,-,-,cell wall hydrolase/autolysin,protein-coding,-,-,-,cell wall hydrolase/autolysin,20200911,-
+1928728,38331554,murI,EFG77_pgp228,PMNZ_684,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20200911,-
+1928728,38331555,preA,EFG77_pgp227,PMNZ_685,-,-,-,polyprenyl synthetase,protein-coding,-,-,-,polyprenyl synthetase,20201010,-
+1928728,38331556,murD,EFG77_pgp226,PMNZ_686,-,-,-,UDP-N-acetylmuramoyl-L-alanyl-D- glutamatesynthetase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanyl-D- glutamatesynthetase,20200911,-
+1928728,38331557,EFG77_pgt037,EFG77_pgt037,PMNZ_687,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331558,EFG77_pgp225,EFG77_pgp225,PMNZ_688,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331559,EFG77_pgp224,EFG77_pgp224,PMNZ_689,-,-,-,ribosomal protein L11 methyltransferase,protein-coding,-,-,-,ribosomal protein L11 methyltransferase,20200911,-
+1928728,38331560,petF,EFG77_pgp223,PMNZ_690,-,-,-,ferredoxin (2Fe-2S),protein-coding,-,-,-,ferredoxin (2Fe-2S),20200911,-
+1928728,38331561,EFG77_pgp222,EFG77_pgp222,PMNZ_691,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331562,psbV,EFG77_pgp221,PMNZ_692,-,-,-,cytochrome c-550,protein-coding,-,-,-,cytochrome c-550,20200911,-
+1928728,38331563,EFG77_pgp220,EFG77_pgp220,PMNZ_693,-,-,-,Ribonuclease Z,protein-coding,-,-,-,Ribonuclease Z,20200911,-
+1928728,38331564,truB,EFG77_pgp219,PMNZ_694,-,-,-,putative tRNA pseudouridine 55 synthase,protein-coding,-,-,-,putative tRNA pseudouridine 55 synthase,20200911,-
+1928728,38331565,EFG77_pgp218,EFG77_pgp218,PMNZ_695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331566,rpl27,EFG77_pgp217,PMNZ_696,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200911,-
+1928728,38331567,rpl21,EFG77_pgp216,PMNZ_697,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200911,-
+1928728,38331568,dfr,EFG77_pgp215,PMNZ_698,-,-,-,multi-sensor signal transduction histidine kinase,protein-coding,-,-,-,multi-sensor signal transduction histidine kinase,20200911,-
+1928728,38331569,fabZ,EFG77_pgp214,PMNZ_699,-,-,-,(3R)-hydroxymyristoyl ACP dehydratase,protein-coding,-,-,-,(3R)-hydroxymyristoyl ACP dehydratase,20200911,-
+1928728,38331570,lap,EFG77_pgp213,PMNZ_700,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200911,-
+1928728,38331571,EFG77_pgp212,EFG77_pgp212,PMNZ_701,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331572,tyrS,EFG77_pgp211,PMNZ_702,-,-,-,tyrosyl-tRNA synthetase,protein-coding,-,-,-,tyrosyl-tRNA synthetase,20200911,-
+1928728,38331573,pyrF,EFG77_pgp210,PMNZ_703,-,-,-,orotidine 5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine 5'-phosphate decarboxylase,20200911,-
+1928728,38331574,EFG77_pgp209,EFG77_pgp209,PMNZ_704,-,-,-,glycosyl transferase group 1,protein-coding,-,-,-,glycosyl transferase group 1,20200911,-
+1928728,38331575,recO,EFG77_pgp208,PMNZ_705,-,-,-,Recombination protein O (RecO),protein-coding,-,-,-,Recombination protein O (RecO),20200911,-
+1928728,38331576,deoC,EFG77_pgp207,PMNZ_706,-,-,-,putative deoxyribose-phosphate aldolase,protein-coding,-,-,-,putative deoxyribose-phosphate aldolase,20200911,-
+1928728,38331577,lipB,EFG77_pgp206,PMNZ_707,-,-,-,lipoate-protein ligase B,protein-coding,-,-,-,lipoate-protein ligase B,20200911,-
+1928728,38331578,EFG77_pgp205,EFG77_pgp205,PMNZ_708,-,-,-,putative long-chain-fatty-acid--CoA ligase,protein-coding,-,-,-,putative long-chain-fatty-acid--CoA ligase,20200911,-
+1928728,38331579,EFG77_pgp204,EFG77_pgp204,PMNZ_709,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331580,odhB,EFG77_pgp203,PMNZ_710,-,-,-,dihydrolipoamide acetyltransferase,protein-coding,-,-,-,dihydrolipoamide acetyltransferase,20200911,-
+1928728,38331581,queA,EFG77_pgp202,PMNZ_711,-,-,-,Queuosine biosynthesis protein,protein-coding,-,-,-,Queuosine biosynthesis protein,20200911,-
+1928728,38331582,rps4,EFG77_pgp201,PMNZ_712,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200911,-
+1928728,38331583,EFG77_pgp200,EFG77_pgp200,PMNZ_713,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20200911,-
+1928728,38331584,murE,EFG77_pgp199,PMNZ_714,-,-,-,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6- diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6- diaminopimelate ligase",20200911,-
+1928728,38331585,ycf46,EFG77_pgp198,PMNZ_715,-,-,-,AAA ATPase superfamily:AAA-protein,protein-coding,-,-,-,AAA ATPase superfamily:AAA-protein,20200911,-
+1928728,38331586,EFG77_pgp197,EFG77_pgp197,PMNZ_716,-,-,-,putative inner membrane protein translocase component YidC,protein-coding,-,-,-,putative inner membrane protein translocase component YidC,20200911,-
+1928728,38331587,EFG77_pgp196,EFG77_pgp196,PMNZ_717,-,-,-,PCC 0729,protein-coding,-,-,-,PCC 0729,20200911,-
+1928728,38331588,EFG77_pgp195,EFG77_pgp195,PMNZ_718,-,-,-,bacterial ribonuclease P protein component of ribozyme,protein-coding,-,-,-,bacterial ribonuclease P protein component of ribozyme,20200911,-
+1928728,38331589,rpl34,EFG77_pgp194,PMNZ_719,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200911,-
+1928728,38331590,aroH,EFG77_pgp193,PMNZ_720,-,-,-,chorismate mutase,protein-coding,-,-,-,chorismate mutase,20200911,-
+1928728,38331591,sppA,EFG77_pgp192,PMNZ_721,-,-,-,signal peptide peptidase SppA,protein-coding,-,-,-,signal peptide peptidase SppA,20200911,-
+1928728,38331592,EFG77_pgp191,EFG77_pgp191,PMNZ_722,-,-,-,"putative SMR family transporter, possible pecM-like protein",protein-coding,-,-,-,"putative SMR family transporter, possible pecM-like protein",20200911,-
+1928728,38331593,EFG77_pgp190,EFG77_pgp190,PMNZ_723,-,-,-,putative UDP-glucose:tetrahydrobiopterin glucosyltransferase,protein-coding,-,-,-,putative UDP-glucose:tetrahydrobiopterin glucosyltransferase,20200911,-
+1928728,38331594,EFG77_pgp189,EFG77_pgp189,PMNZ_724,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331595,im30,EFG77_pgp188,PMNZ_725,-,-,-,chloroplast membrane-associated 30 kD protein-like protein,protein-coding,-,-,-,chloroplast membrane-associated 30 kD protein-like protein,20200911,-
+1928728,38331596,trxA,EFG77_pgp187,PMNZ_726,-,-,-,Thioredoxin,protein-coding,-,-,-,Thioredoxin,20200911,-
+1928728,38331597,birA,EFG77_pgp186,PMNZ_727,-,-,-,putative Biotin--acetyl-CoA-carboxylase ligase,protein-coding,-,-,-,putative Biotin--acetyl-CoA-carboxylase ligase,20200911,-
+1928728,38331598,ndhB,EFG77_pgp185,PMNZ_728,-,-,-,NAD(P)H-quinone oxidoreductase subunit 2,protein-coding,-,-,-,NAD(P)H-quinone oxidoreductase subunit 2,20201010,-
+1928728,38331599,topA,EFG77_pgp184,PMNZ_729,-,-,-,DNA topoisomerase I,protein-coding,-,-,-,DNA topoisomerase I,20200911,-
+1928728,38331600,EFG77_pgp183,EFG77_pgp183,PMNZ_730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331601,EFG77_pgp182,EFG77_pgp182,PMNZ_731,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331602,ctaE,EFG77_pgp181,PMNZ_732,-,-,-,putative cytochrome c oxidase subunit III,protein-coding,-,-,-,putative cytochrome c oxidase subunit III,20200911,-
+1928728,38331603,ctaD,EFG77_pgp180,PMNZ_733,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20200911,-
+1928728,38331604,ctaC,EFG77_pgp179,PMNZ_734,-,-,-,putative cytochrome c oxidase subunit II,protein-coding,-,-,-,putative cytochrome c oxidase subunit II,20200911,-
+1928728,38331605,EFG77_pgp178,EFG77_pgp178,PMNZ_735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331606,ctaB,EFG77_pgp177,PMNZ_736,-,-,-,putative protoheme IX farnesyltransferase,protein-coding,-,-,-,putative protoheme IX farnesyltransferase,20200911,-
+1928728,38331607,EFG77_pgp176,EFG77_pgp176,PMNZ_737,-,-,-,putative multidrug efflux ABC transporter,protein-coding,-,-,-,putative multidrug efflux ABC transporter,20200911,-
+1928728,38331608,EFG77_pgp175,EFG77_pgp175,PMNZ_738,-,-,-,putative multidrug efflux ABC transporter,protein-coding,-,-,-,putative multidrug efflux ABC transporter,20200911,-
+1928728,38331609,fabG,EFG77_pgp174,PMNZ_739,-,-,-,3-oxoacyl-(acyl-carrier-protein) reductase,protein-coding,-,-,-,3-oxoacyl-(acyl-carrier-protein) reductase,20200911,-
+1928728,38331610,ispD,EFG77_pgp173,PMNZ_740,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20200911,-
+1928728,38331611,ubiA,EFG77_pgp172,PMNZ_741,-,-,-,putative 4-hydroxybenzoate- octaprenyltransferase,protein-coding,-,-,-,putative 4-hydroxybenzoate- octaprenyltransferase,20200911,-
+1928728,38331612,lgt,EFG77_pgp171,PMNZ_742,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200911,-
+1928728,38331613,petA,EFG77_pgp170,PMNZ_743,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor,20200911,-
+1928728,38331614,petC,EFG77_pgp169,PMNZ_744,-,-,-,plastoquinol--plastocyanin reductase,protein-coding,-,-,-,plastoquinol--plastocyanin reductase,20200911,-
+1928728,38331615,EFG77_pgp168,EFG77_pgp168,PMNZ_745,-,-,-,Sec-independent protein translocase TatC,protein-coding,-,-,-,Sec-independent protein translocase TatC,20200911,-
+1928728,38331616,gmk,EFG77_pgp167,PMNZ_746,-,-,-,Guanylate kinase,protein-coding,-,-,-,Guanylate kinase,20200911,-
+1928728,38331617,psaJ,EFG77_pgp166,PMNZ_747,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,photosystem I reaction center subunit IX,20200911,-
+1928728,38331618,psaF,EFG77_pgp165,PMNZ_748,-,-,-,photosystem I reaction center subunit III,protein-coding,-,-,-,photosystem I reaction center subunit III,20200911,-
+1928728,38331619,EFG77_pgp164,EFG77_pgp164,PMNZ_749,-,-,-,putative o-sialoglycoprotein endopeptidase,protein-coding,-,-,-,putative o-sialoglycoprotein endopeptidase,20200911,-
+1928728,38331620,EFG77_pgp163,EFG77_pgp163,PMNZ_750,-,-,-,UDP-N-acetylglucosamine 2-epimerase,protein-coding,-,-,-,UDP-N-acetylglucosamine 2-epimerase,20200911,-
+1928728,38331621,EFG77_pgp162,EFG77_pgp162,PMNZ_751,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331622,EFG77_pgp161,EFG77_pgp161,PMNZ_752,-,-,-,putative SufE protein,protein-coding,-,-,-,putative SufE protein,20200911,-
+1928728,38331623,EFG77_pgp160,EFG77_pgp160,PMNZ_753,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331624,EFG77_pgp159,EFG77_pgp159,PMNZ_754,-,-,-,Holliday junction resolvase RuvC,protein-coding,-,-,-,Holliday junction resolvase RuvC,20200911,-
+1928728,38331625,chlI,EFG77_pgp158,PMNZ_755,-,-,-,magnesium chelatase ATPase subunit I,protein-coding,-,-,-,magnesium chelatase ATPase subunit I,20200911,-
+1928728,38331626,EFG77_pgp157,EFG77_pgp157,PMNZ_756,-,-,-,putative beta-lactamase family protein,protein-coding,-,-,-,putative beta-lactamase family protein,20200911,-
+1928728,38331627,EFG77_pgp156,EFG77_pgp156,PMNZ_757,-,-,-,putative tRNA/rRNA methyltransferase,protein-coding,-,-,-,putative tRNA/rRNA methyltransferase,20200911,-
+1928728,38331628,petG,EFG77_pgp155,PMNZ_758,-,-,-,cytochrome b6-f complex subunit V,protein-coding,-,-,-,cytochrome b6-f complex subunit V,20200911,-
+1928728,38331629,EFG77_pgp154,EFG77_pgp154,PMNZ_759,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331630,trxA,EFG77_pgp153,PMNZ_760,-,-,-,Thioredoxin,protein-coding,-,-,-,Thioredoxin,20201010,-
+1928728,38331631,guaB,EFG77_pgp152,PMNZ_761,-,-,-,inositol-5-monophosphate dehydrogenase,protein-coding,-,-,-,inositol-5-monophosphate dehydrogenase,20200911,-
+1928728,38331632,gyrA,EFG77_pgp151,PMNZ_762,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200911,-
+1928728,38331633,EFG77_pgp150,EFG77_pgp150,PMNZ_763,-,-,-,lycopene cyclase,protein-coding,-,-,-,lycopene cyclase,20200911,-
+1928728,38331634,leuA,EFG77_pgp149,PMNZ_764,-,-,-,2-isopropylmalate synthase,protein-coding,-,-,-,2-isopropylmalate synthase,20200911,-
+1928728,38331635,EFG77_pgp148,EFG77_pgp148,PMNZ_765,-,-,-,glutathione synthetase,protein-coding,-,-,-,glutathione synthetase,20200911,-
+1928728,38331636,folD,EFG77_pgp147,PMNZ_766,-,-,-,methylenetetrahydrofolate dehydrogenase,protein-coding,-,-,-,methylenetetrahydrofolate dehydrogenase,20200911,-
+1928728,38331637,crtE,EFG77_pgp146,PMNZ_767,-,-,-,geranylgeranyl pyrophosphate synthase,protein-coding,-,-,-,geranylgeranyl pyrophosphate synthase,20200911,-
+1928728,38331638,EFG77_pgp145,EFG77_pgp145,PMNZ_768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331639,petH,EFG77_pgp144,PMNZ_769,-,-,-,ferredoxin--NADP reductase,protein-coding,-,-,-,ferredoxin--NADP reductase,20200911,-
+1928728,38331640,EFG77_pgp143,EFG77_pgp143,PMNZ_770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331641,EFG77_pgt038,EFG77_pgt038,PMNZ_771,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331642,prsA,EFG77_pgp142,PMNZ_772,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20200911,-
+1928728,38331643,EFG77_pgp141,EFG77_pgp141,PMNZ_773,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331644,EFG77_pgp140,EFG77_pgp140,PMNZ_774,-,-,-,putative LytR-membrane bound transcriptional regulator,protein-coding,-,-,-,putative LytR-membrane bound transcriptional regulator,20200911,-
+1928728,38331645,EFG77_pgp139,EFG77_pgp139,PMNZ_775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331646,EFG77_pgp138,EFG77_pgp138,PMNZ_776,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20200911,-
+1928728,38331647,EFG77_pgp137,EFG77_pgp137,PMNZ_777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331648,EFG77_pgp136,EFG77_pgp136,PMNZ_778,-,-,-,putative kinase,protein-coding,-,-,-,putative kinase,20200911,-
+1928728,38331649,cad,EFG77_pgp135,PMNZ_779,-,-,-,Orn/Lys/Arg decarboxylase family 1,protein-coding,-,-,-,Orn/Lys/Arg decarboxylase family 1,20200911,-
+1928728,38331650,cdsA,EFG77_pgp134,PMNZ_780,-,-,-,phosphatidate cytidylyltransferase:putative integral membrane protein,protein-coding,-,-,-,phosphatidate cytidylyltransferase:putative integral membrane protein,20200911,-
+1928728,38331651,gldA,EFG77_pgp133,PMNZ_781,-,-,-,putative glycerol dehydrogenase,protein-coding,-,-,-,putative glycerol dehydrogenase,20200911,-
+1928728,38331652,EFG77_pgp132,EFG77_pgp132,PMNZ_782,-,-,-,endopeptidase Clp ATP-binding chain C,protein-coding,-,-,-,endopeptidase Clp ATP-binding chain C,20200911,-
+1928728,38331653,rimI,EFG77_pgp131,PMNZ_783,-,-,-,putative ribosomal-protein-alanine acetyltransferase,protein-coding,-,-,-,putative ribosomal-protein-alanine acetyltransferase,20200911,-
+1928728,38331654,lysA,EFG77_pgp130,PMNZ_784,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,diaminopimelate decarboxylase,20200911,-
+1928728,38331655,EFG77_pgp129,EFG77_pgp129,PMNZ_785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331656,EFG77_pgp128,EFG77_pgp128,PMNZ_786,-,-,-,undecaprenyl pyrophosphate synthetase,protein-coding,-,-,-,undecaprenyl pyrophosphate synthetase,20200911,-
+1928728,38331657,EFG77_pgp127,EFG77_pgp127,PMNZ_787,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331658,recR,EFG77_pgp126,PMNZ_788,-,-,-,RecR protein,protein-coding,-,-,-,RecR protein,20200911,-
+1928728,38331659,EFG77_pgp125,EFG77_pgp125,PMNZ_789,-,-,-,photosystem II oxygen evolving complex protein PsbP,protein-coding,-,-,-,photosystem II oxygen evolving complex protein PsbP,20200911,-
+1928728,38331660,EFG77_pgp124,EFG77_pgp124,PMNZ_790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331661,deaD,EFG77_pgp123,PMNZ_792,-,-,-,putative ATP-dependent RNA helicase,protein-coding,-,-,-,putative ATP-dependent RNA helicase,20200911,-
+1928728,38331662,EFG77_pgp122,EFG77_pgp122,PMNZ_793,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331663,EFG77_pgp121,EFG77_pgp121,PMNZ_794,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331664,ubiH,EFG77_pgp120,PMNZ_795,-,-,-,putative 2-octaprenyl-6-methoxyphenol 4- monooxygenase,protein-coding,-,-,-,putative 2-octaprenyl-6-methoxyphenol 4- monooxygenase,20200911,-
+1928728,38331665,EFG77_pgp119,EFG77_pgp119,PMNZ_796,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331666,dapB,EFG77_pgp118,PMNZ_797,-,-,-,dihydrodipicolinate reductase,protein-coding,-,-,-,dihydrodipicolinate reductase,20200911,-
+1928728,38331667,chlH,EFG77_pgp117,PMNZ_798,-,-,-,cobaltochelatase,protein-coding,-,-,-,cobaltochelatase,20200911,-
+1928728,38331668,EFG77_pgp116,EFG77_pgp116,PMNZ_799,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20200911,-
+1928728,38331669,tpi,EFG77_pgp115,PMNZ_800,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,triosephosphate isomerase,20200911,-
+1928728,38331670,carb,EFG77_pgp114,PMNZ_801,-,-,-,"carbamoyl-phosphate synthase, large subunit",protein-coding,-,-,-,"carbamoyl-phosphate synthase, large subunit",20200911,-
+1928728,38331671,EFG77_pgp113,EFG77_pgp113,PMNZ_802,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331672,EFG77_pgp112,EFG77_pgp112,PMNZ_803,-,-,-,putative iojap protein,protein-coding,-,-,-,putative iojap protein,20200911,-
+1928728,38331673,ycf36,EFG77_pgp111,PMNZ_804,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331674,EFG77_pgp110,EFG77_pgp110,PMNZ_805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331675,EFG77_pgt039,EFG77_pgt039,PMNZ_806,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331676,EFG77_pgp109,EFG77_pgp109,PMNZ_807,-,-,-,small-conductance mechanosensitive channel,protein-coding,-,-,-,small-conductance mechanosensitive channel,20200911,-
+1928728,38331677,EFG77_pgp108,EFG77_pgp108,PMNZ_808,-,-,-,Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site,protein-coding,-,-,-,Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site,20200911,-
+1928728,38331678,EFG77_pgp107,EFG77_pgp107,PMNZ_809,-,-,-,carboxylesterase,protein-coding,-,-,-,carboxylesterase,20200911,-
+1928728,38331679,rbpA,EFG77_pgp106,PMNZ_810,-,-,-,RNA-binding protein RbpD,protein-coding,-,-,-,RNA-binding protein RbpD,20200911,-
+1928728,38331680,EFG77_pgt040,EFG77_pgt040,PMNZ_811,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331681,EFG77_pgt041,EFG77_pgt041,PMNZ_812,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331682,ycf32,EFG77_pgp105,PMNZ_813,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331683,EFG77_pgp104,EFG77_pgp104,PMNZ_814,-,-,-,carotenoid isomerase,protein-coding,-,-,-,carotenoid isomerase,20200911,-
+1928728,38331684,EFG77_pgp103,EFG77_pgp103,PMNZ_815,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331685,EFG77_pgp102,EFG77_pgp102,PMNZ_816,-,-,-,two-component response regulator,protein-coding,-,-,-,two-component response regulator,20200911,-
+1928728,38331686,EFG77_pgp101,EFG77_pgp101,PMNZ_817,-,-,-,Glutaredoxin-related protein,protein-coding,-,-,-,Glutaredoxin-related protein,20200911,-
+1928728,38331687,EFG77_pgp100,EFG77_pgp100,PMNZ_818,-,-,-,BolA-like protein,protein-coding,-,-,-,BolA-like protein,20200911,-
+1928728,38331688,EFG77_pgp099,EFG77_pgp099,PMNZ_819,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331689,pdxJ,EFG77_pgp098,PMNZ_820,-,-,-,pyridoxal phosphate biosynthetic protein,protein-coding,-,-,-,pyridoxal phosphate biosynthetic protein,20200911,-
+1928728,38331690,ycf54,EFG77_pgp097,PMNZ_821,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331691,EFG77_pgt042,EFG77_pgt042,PMNZ_822,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,38331692,EFG77_pgp096,EFG77_pgp096,PMNZ_823,-,-,-,ribonucleotide reductase (Class II),protein-coding,-,-,-,ribonucleotide reductase (Class II),20200911,-
+1928728,38331693,EFG77_pgp001,EFG77_pgp001,PMNZ_001,-,-,-,K+-dependent Na+/Ca+ exchanger related-protein,protein-coding,-,-,-,K+-dependent Na+/Ca+ exchanger related-protein,20200911,-
+1928728,38331694,prfC,EFG77_pgp095,PMNZ_824,-,-,-,peptide chain release factor 3,protein-coding,-,-,-,peptide chain release factor 3,20200911,-
+1928728,38331695,EFG77_pgp094,EFG77_pgp094,PMNZ_825,-,-,-,molecular chaperone Hsp33,protein-coding,-,-,-,molecular chaperone Hsp33,20200911,-
+1928728,38331696,EFG77_pgp093,EFG77_pgp093,PMNZ_826,-,-,-,"putative ABC transporter, ATP-binding component",protein-coding,-,-,-,"putative ABC transporter, ATP-binding component",20200911,-
+1928728,38331697,EFG77_pgp092,EFG77_pgp092,PMNZ_827,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331698,EFG77_pgp091,EFG77_pgp091,PMNZ_828,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331699,EFG77_pgp090,EFG77_pgp090,PMNZ_829,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331700,EFG77_pgp089,EFG77_pgp089,PMNZ_830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331701,gcpE,EFG77_pgp088,PMNZ_831,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,20200911,-
+1928728,38331702,EFG77_pgp087,EFG77_pgp087,PMNZ_832,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331703,fmt,EFG77_pgp086,PMNZ_833,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200911,-
+1928728,38331704,EFG77_pgp085,EFG77_pgp085,PMNZ_834,-,-,-,putative modulator of DNA gyrase,protein-coding,-,-,-,putative modulator of DNA gyrase,20200911,-
+1928728,38331705,EFG77_pgp084,EFG77_pgp084,PMNZ_835,-,-,-,putative modulator of DNA gyrase,protein-coding,-,-,-,putative modulator of DNA gyrase,20200911,-
+1928728,38331706,EFG77_pgp083,EFG77_pgp083,PMNZ_836,-,-,-,magnesium-protoporphyrin IX monomethyl ester aerobic oxidative cyclase,protein-coding,-,-,-,magnesium-protoporphyrin IX monomethyl ester aerobic oxidative cyclase,20200911,-
+1928728,38331707,EFG77_pgp082,EFG77_pgp082,PMNZ_837,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331708,ubiX,EFG77_pgp081,PMNZ_838,-,-,-,putative 3-octaprenyl-4-hydroxybenzoate carboxy- lyase,protein-coding,-,-,-,putative 3-octaprenyl-4-hydroxybenzoate carboxy- lyase,20200911,-
+1928728,38331709,zam,EFG77_pgp080,PMNZ_839,-,-,-,putative acetazolamide conferring resistance protein Zam,protein-coding,-,-,-,putative acetazolamide conferring resistance protein Zam,20200911,-
+1928728,38331710,EFG77_pgp079,EFG77_pgp079,PMNZ_840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331711,EFG77_pgp078,EFG77_pgp078,PMNZ_841,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331712,EFG77_pgp077,EFG77_pgp077,PMNZ_842,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331713,EFG77_pgp076,EFG77_pgp076,PMNZ_843,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331714,EFG77_pgp075,EFG77_pgp075,PMNZ_844,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+1928728,38331715,rpl32,EFG77_pgp074,PMNZ_845,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201010,-
+1928728,38331716,EFG77_pgp073,EFG77_pgp073,PMNZ_846,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331717,cbbA,EFG77_pgp072,PMNZ_847,-,-,-,fructose-bisphosphate aldolase,protein-coding,-,-,-,fructose-bisphosphate aldolase,20200911,-
+1928728,38331718,EFG77_pgp071,EFG77_pgp071,PMNZ_848,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331719,psbA,EFG77_pgp070,PMNZ_849,-,-,-,photosystem q(b) protein,protein-coding,-,-,-,photosystem q(b) protein,20200911,-
+1928728,38331720,EFG77_pgp069,EFG77_pgp069,PMNZ_850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331721,EFG77_pgp068,EFG77_pgp068,PMNZ_851,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200911,-
+1928728,38331722,EFG77_pgp067,EFG77_pgp067,PMNZ_852,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331723,trpS,EFG77_pgp066,PMNZ_853,-,-,-,tryptophanyl-tRNA synthetase,protein-coding,-,-,-,tryptophanyl-tRNA synthetase,20200911,-
+1928728,38331724,thrS,EFG77_pgp065,PMNZ_854,-,-,-,"Threonyl-tRNA synthetase, class IIa",protein-coding,-,-,-,"Threonyl-tRNA synthetase, class IIa",20200911,-
+1928728,38331725,glk,EFG77_pgp064,PMNZ_855,-,-,-,putative glucokinase,protein-coding,-,-,-,putative glucokinase,20200911,-
+1928728,38331726,thrB,EFG77_pgp063,PMNZ_856,-,-,-,homoserine kinase,protein-coding,-,-,-,homoserine kinase,20200911,-
+1928728,38331727,EFG77_pgp062,EFG77_pgp062,PMNZ_857,-,-,-,NAD(P)H-quinone oxidoreductase subunit 4,protein-coding,-,-,-,NAD(P)H-quinone oxidoreductase subunit 4,20200911,-
+1928728,38331728,EFG77_pgp061,EFG77_pgp061,PMNZ_858,-,-,-,putative dihydroneopterin aldolase,protein-coding,-,-,-,putative dihydroneopterin aldolase,20200911,-
+1928728,38331729,proA,EFG77_pgp060,PMNZ_859,-,-,-,gamma-glutamyl phosphate reductase,protein-coding,-,-,-,gamma-glutamyl phosphate reductase,20200911,-
+1928728,38331730,EFG77_pgp059,EFG77_pgp059,PMNZ_860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331731,EFG77_pgp058,EFG77_pgp058,PMNZ_861,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331732,hemE,EFG77_pgp057,PMNZ_862,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20200911,-
+1928728,38331733,petE,EFG77_pgp056,PMNZ_863,-,-,-,plastocyanin precursor,protein-coding,-,-,-,plastocyanin precursor,20200911,-
+1928728,38331734,clpB,EFG77_pgp055,PMNZ_864,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20200911,-
+1928728,38331735,ppa,EFG77_pgp054,PMNZ_865,-,-,-,putative inorganic pyrophosphatase,protein-coding,-,-,-,putative inorganic pyrophosphatase,20200911,-
+1928728,38331736,hemC,EFG77_pgp053,PMNZ_866,-,-,-,porphobilinogen deaminase,protein-coding,-,-,-,porphobilinogen deaminase,20200911,-
+1928728,38331737,rpoDI,EFG77_pgp052,PMNZ_867,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200911,-
+1928728,38331738,priA,EFG77_pgp051,PMNZ_868,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20200911,-
+1928728,38331739,EFG77_pgp050,EFG77_pgp050,PMNZ_869,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331740,EFG77_pgp049,EFG77_pgp049,PMNZ_870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331741,EFG77_pgp048,EFG77_pgp048,PMNZ_871,-,-,-,Precorrin-6x reductase,protein-coding,-,-,-,Precorrin-6x reductase,20200911,-
+1928728,38331742,purA,EFG77_pgp047,PMNZ_872,-,-,-,adenylosuccinate synthetase,protein-coding,-,-,-,adenylosuccinate synthetase,20200911,-
+1928728,38331743,psbZ,EFG77_pgp046,PMNZ_873,-,-,-,putative photosystem II Psb27 protein,protein-coding,-,-,-,putative photosystem II Psb27 protein,20200911,-
+1928728,38331744,proS,EFG77_pgp045,PMNZ_874,-,-,-,prolyl-tRNA synthetase,protein-coding,-,-,-,prolyl-tRNA synthetase,20200911,-
+1928728,38331745,EFG77_pgp044,EFG77_pgp044,PMNZ_875,-,-,-,putative ferredoxin (2Fe-2S),protein-coding,-,-,-,putative ferredoxin (2Fe-2S),20200911,-
+1928728,38331746,EFG77_pgp043,EFG77_pgp043,PMNZ_876,-,-,-,putative membrane associated protease,protein-coding,-,-,-,putative membrane associated protease,20200911,-
+1928728,38331747,EFG77_pgp042,EFG77_pgp042,PMNZ_877,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331748,EFG77_pgp041,EFG77_pgp041,PMNZ_878,-,-,-,putative peptidoglycan synthetase,protein-coding,-,-,-,putative peptidoglycan synthetase,20200911,-
+1928728,38331749,EFG77_pgp040,EFG77_pgp040,PMNZ_879,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20200911,-
+1928728,38331750,frr,EFG77_pgp039,PMNZ_880,-,-,-,ribosome releasing factor,protein-coding,-,-,-,ribosome releasing factor,20200911,-
+1928728,38331751,pyrH,EFG77_pgp038,PMNZ_881,-,-,-,uridylate kinase,protein-coding,-,-,-,uridylate kinase,20200911,-
+1928728,38331752,EFG77_pgp037,EFG77_pgp037,PMNZ_882,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200911,-
+1928728,38331753,hemH,EFG77_pgp036,PMNZ_883,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20200911,-
+1928728,38331754,ilvG,EFG77_pgp035,PMNZ_884,-,-,-,acetolactate synthase III large subunit,protein-coding,-,-,-,acetolactate synthase III large subunit,20200911,-
+1928728,38331755,EFG77_pgp034,EFG77_pgp034,PMNZ_885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331756,EFG77_pgp033,EFG77_pgp033,PMNZ_886,-,-,-,putative 30S ribosomal protein S1-like B,protein-coding,-,-,-,putative 30S ribosomal protein S1-like B,20200911,-
+1928728,38331757,EFG77_pgp032,EFG77_pgp032,PMNZ_887,-,-,-,creatininase,protein-coding,-,-,-,creatininase,20200911,-
+1928728,38331758,accA,EFG77_pgp031,PMNZ_888,-,-,-,acetyl-CoA carboxylase alpha subunit,protein-coding,-,-,-,acetyl-CoA carboxylase alpha subunit,20200911,-
+1928728,38331759,EFG77_pgp030,EFG77_pgp030,PMNZ_889,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,short chain dehydrogenase,20200911,-
+1928728,38331760,folE,EFG77_pgp029,PMNZ_890,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,GTP cyclohydrolase I,20201010,-
+1928728,38331761,EFG77_pgp028,EFG77_pgp028,PMNZ_891,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331762,EFG77_pgp027,EFG77_pgp027,PMNZ_892,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331763,EFG77_pgp026,EFG77_pgp026,PMNZ_893,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331764,pcr,EFG77_pgp025,PMNZ_894,-,-,-,protochlorophyllide oxidoreductase,protein-coding,-,-,-,protochlorophyllide oxidoreductase,20200911,-
+1928728,38331765,chlL,EFG77_pgp024,PMNZ_895,-,-,-,"light-independent protochlorophyllide reductase, iron-sulfur ATP-binding protein",protein-coding,-,-,-,"light-independent protochlorophyllide reductase, iron-sulfur ATP-binding protein",20200911,-
+1928728,38331766,chlB,EFG77_pgp023,PMNZ_896,-,-,-,light-independent protochlorophyllide reductase subunit B,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit B,20200911,-
+1928728,38331767,chlN,EFG77_pgp022,PMNZ_897,-,-,-,light-independent protochlorophyllide reductase subunit N,protein-coding,-,-,-,light-independent protochlorophyllide reductase subunit N,20200911,-
+1928728,38331768,EFG77_pgp021,EFG77_pgp021,PMNZ_898,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331769,EFG77_pgp020,EFG77_pgp020,PMNZ_899,-,-,-,Ham1 protein-like protein,protein-coding,-,-,-,Ham1 protein-like protein,20200911,-
+1928728,38331770,ccmK,EFG77_pgp019,PMNZ_900,-,-,-,carboxysome shell peptide,protein-coding,-,-,-,carboxysome shell peptide,20200911,-
+1928728,38331771,rbcL,EFG77_pgp018,PMNZ_901,-,-,-,"Ribulose 1,5-bisphosphate carboxylase large subunit",protein-coding,-,-,-,"Ribulose 1,5-bisphosphate carboxylase large subunit",20200911,-
+1928728,38331772,rbcS,EFG77_pgp017,PMNZ_902,-,-,-,"Ribulose bisphosphate carboxylase, small chain",protein-coding,-,-,-,"Ribulose bisphosphate carboxylase, small chain",20200911,-
+1928728,38331773,EFG77_pgp016,EFG77_pgp016,PMNZ_903,-,-,-,carboxysome shell protein,protein-coding,-,-,-,carboxysome shell protein,20200911,-
+1928728,38331774,EFG77_pgp015,EFG77_pgp015,PMNZ_904,-,-,-,carboxysome shell polypeptide,protein-coding,-,-,-,carboxysome shell polypeptide,20200911,-
+1928728,38331775,ccmL,EFG77_pgp014,PMNZ_905,-,-,-,putative carboxysome peptide A,protein-coding,-,-,-,putative carboxysome peptide A,20200911,-
+1928728,38331776,EFG77_pgp013,EFG77_pgp013,PMNZ_906,-,-,-,putative carboxysome peptide B,protein-coding,-,-,-,putative carboxysome peptide B,20200911,-
+1928728,38331777,bfr,EFG77_pgp012,PMNZ_907,-,-,-,bacterioferritin,protein-coding,-,-,-,bacterioferritin,20200911,-
+1928728,38331778,ndhF,EFG77_pgp011,PMNZ_908,-,-,-,NADH dehydrogenase subunit L,protein-coding,-,-,-,NADH dehydrogenase subunit L,20200911,-
+1928728,38331779,ndhD,EFG77_pgp010,PMNZ_909,-,-,-,NADH dehydrogenase I chain 4 (or M),protein-coding,-,-,-,NADH dehydrogenase I chain 4 (or M),20200911,-
+1928728,38331780,EFG77_pgp009,EFG77_pgp009,PMNZ_910,-,-,-,CO2 hydration,protein-coding,-,-,-,CO2 hydration,20200911,-
+1928728,38331781,EFG77_pgp008,EFG77_pgp008,PMNZ_911,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331782,EFG77_pgp007,EFG77_pgp007,PMNZ_912,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,38331783,hisG,EFG77_pgp006,PMNZ_913,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,ATP phosphoribosyltransferase,20200911,-
+1928728,38331784,EFG77_pgp005,EFG77_pgp005,PMNZ_914,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20200911,-
+1928728,38331785,EFG77_pgp004,EFG77_pgp004,PMNZ_915,-,-,-,putative acetyltransferase,protein-coding,-,-,-,putative acetyltransferase,20200911,-
+1928728,42317549,cox1-cox2,GH806_mgp01,PMYN1_Mit1,-,MT,-,cytochrome c oxidase subunit 1-subunit 2 fusion protein,protein-coding,-,-,-,cytochrome c oxidase subunit 1-subunit 2 fusion protein,20201129,-
+1928728,42317550,trnL,GH806_mgt12,PMYN1_Mit23,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317551,GH806_mgp12,GH806_mgp12,PMYN1_Mit34,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,42317552,trnF,GH806_mgt14,PMYN1_Mit35,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317553,trnMf,GH806_mgt21,PMYN1_Mit43,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317554,nad7,GH806_mgp05,PMYN1_Mit50,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20201129,-
+1928728,42317555,trnV,GH806_mgt10,PMYN1_Mit20,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317556,nad5,GH806_mgp08,PMYN1_Mit47,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20201129,-
+1928728,42317557,rns,GH806_mgt08,PMYN1_Mit17,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317558,GH806_mgp13,GH806_mgp13,PMYN1_Mit33,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,42317559,nad1,GH806_mgp02,PMYN1_Mit2,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20201129,-
+1928728,42317560,nad9,GH806_mgp16,PMYN1_Mit30,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20201201,-
+1928728,42317561,nad4L,GH806_mgp03,PMYN1_Mit3,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20201129,-
+1928728,42317562,trnH,GH806_mgt02,PMYN1_Mit8,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317563,cox3,GH806_mgp17,PMYN1_Mit29,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20201129,-
+1928728,42317564,rpl16,GH806_mgp20,PMYN1_Mit25,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20201129,-
+1928728,42317565,rpl14,GH806_mgp04,PMYN1_Mit4,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20201129,-
+1928728,42317566,rpl6,GH806_mgp07,PMYN1_Mit48,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20201129,-
+1928728,42317567,nad2,GH806_mgp27,PMYN1_Mit7,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20201129,-
+1928728,42317568,rps12,GH806_mgp15,PMYN1_Mit31,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20201129,-
+1928728,42317569,atp9,GH806_mgp24,PMYN1_Mit16,-,MT,-,ATP synthase Fo subunit 9,protein-coding,-,-,-,ATP synthase Fo subunit 9,20201129,-
+1928728,42317570,trnL,GH806_mgt09,PMYN1_Mit18,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317571,trnI,GH806_mgt01,PMYN1_Mit5,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317572,rps3,GH806_mgp19,PMYN1_Mit26,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+1928728,42317573,GH806_mgp06,GH806_mgp06,PMYN1_Mit49,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,42317574,trnW,GH806_mgt06,PMYN1_Mit14,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317575,cob,GH806_mgp14,PMYN1_Mit32,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20201129,-
+1928728,42317576,trnI,GH806_mgt13,PMYN1_Mit27,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317577,trnS,GH806_mgt22,PMYN1_Mit45,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317578,rps11,GH806_mgp25,PMYN1_Mit13,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+1928728,42317579,trnL,GH806_mgt05,PMYN1_Mit11,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317580,trnQ,GH806_mgt17,PMYN1_Mit38,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317581,GH806_mgp22,GH806_mgp22,PMYN1_Mit22,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,42317582,trnMe,GH806_mgt15,PMYN1_Mit36,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317583,trnP,GH806_mgt03,PMYN1_Mit9,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317584,nad3,GH806_mgp18,PMYN1_Mit28,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20201129,-
+1928728,42317585,nad6,GH806_mgp28,PMYN1_Mit6,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20201129,-
+1928728,42317586,trnS,GH806_mgt20,PMYN1_Mit41,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317587,rps8,GH806_mgp26,PMYN1_Mit12,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+1928728,42317588,atp1,GH806_mgp23,PMYN1_Mit19,-,MT,-,ATP synthase subunit alpha,protein-coding,-,-,-,ATP synthase subunit alpha,20201129,-
+1928728,42317589,nad4,GH806_mgp21,PMYN1_Mit24,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20201129,-
+1928728,42317590,trnC,GH806_mgt16,PMYN1_Mit37,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317591,rps4,GH806_mgp10,PMYN1_Mit44,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20201201,-
+1928728,42317592,trnA,GH806_mgt04,PMYN1_Mit10,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317593,trnY,GH806_mgt18,PMYN1_Mit39,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317594,GH806_mgp11,GH806_mgp11,PMYN1_Mit42,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200911,-
+1928728,42317595,atp6,GH806_mgp09,PMYN1_Mit46,-,MT,-,ATP synthase Fo subunit 6,protein-coding,-,-,-,ATP synthase Fo subunit 6,20201129,-
+1928728,42317596,trnE,GH806_mgt11,PMYN1_Mit21,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317597,rnl,GH806_mgt07,PMYN1_Mit15,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+1928728,42317598,trnK,GH806_mgt19,PMYN1_Mit40,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-

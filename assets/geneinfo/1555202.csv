@@ -1,0 +1,620 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1555202,22111042,2,PBI_121Q_2,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111043,3,PBI_121Q_3,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111044,4,PBI_121Q_4,-,-,-,-,terminase large subunit,protein-coding,-,-,-,terminase large subunit,20200629,-
+1555202,22111045,5,PBI_121Q_5,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111046,6,PBI_121Q_6,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200905,-
+1555202,22111047,7,PBI_121Q_7,-,-,-,-,recombination protein,protein-coding,-,-,-,recombination protein,20200629,-
+1555202,22111048,8,PBI_121Q_8,-,-,-,-,recombination mediator protein UvsY,protein-coding,-,-,-,recombination mediator protein UvsY,20201221,-
+1555202,22111049,9,PBI_121Q_9,-,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20201221,-
+1555202,22111050,10,PBI_121Q_10,-,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20201221,-
+1555202,22111051,11,PBI_121Q_11,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111052,12,PBI_121Q_12,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111053,13,PBI_121Q_13,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111054,14,PBI_121Q_14,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111055,15,PBI_121Q_15,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111056,16,PBI_121Q_16,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111057,17,PBI_121Q_17,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111058,18,PBI_121Q_18,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111059,19,PBI_121Q_19,-,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200905,-
+1555202,22111060,20,PBI_121Q_20,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201221,-
+1555202,22111061,21,PBI_121Q_21,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111062,22,PBI_121Q_22,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111063,23,PBI_121Q_23,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111064,24,PBI_121Q_24,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111065,25,PBI_121Q_25,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111066,26,PBI_121Q_26,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111067,27,PBI_121Q_27,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111068,28,PBI_121Q_28,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111069,29,PBI_121Q_29,-,-,-,-,exonuclease,protein-coding,-,-,-,exonuclease,20200905,-
+1555202,22111070,30,PBI_121Q_30,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111071,31,PBI_121Q_31,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111072,32,PBI_121Q_32,-,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20201221,-
+1555202,22111073,33,PBI_121Q_33,-,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20201221,-
+1555202,22111074,34,PBI_121Q_34,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111075,35,PBI_121Q_35,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111076,36,PBI_121Q_36,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111077,37,PBI_121Q_37,-,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,protein-coding,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,20201221,-
+1555202,22111078,38,PBI_121Q_38,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111079,39,PBI_121Q_39,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111080,40,PBI_121Q_40,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111081,41,PBI_121Q_41,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111082,42,PBI_121Q_42,-,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200629,-
+1555202,22111083,43,PBI_121Q_43,-,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20201221,-
+1555202,22111084,44,PBI_121Q_44,-,-,-,-,DNA helicase,protein-coding,-,-,-,DNA helicase,20200629,-
+1555202,22111085,45,PBI_121Q_45,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111086,46,PBI_121Q_46,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111087,47,PBI_121Q_47,-,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201221,-
+1555202,22111088,48,PBI_121Q_48,-,-,-,-,ATP-dependent Clp protease adaptor ClpS,protein-coding,-,-,-,ATP-dependent Clp protease adaptor ClpS,20201221,-
+1555202,22111089,49,PBI_121Q_49,-,-,-,-,KTSC domain-containing protein,protein-coding,-,-,-,KTSC domain-containing protein,20201221,-
+1555202,22111090,50,PBI_121Q_50,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111091,51,PBI_121Q_51,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111092,52,PBI_121Q_52,-,-,-,-,topoisomerase II large subunit,protein-coding,-,-,-,topoisomerase II large subunit,20200629,-
+1555202,22111093,53,PBI_121Q_53,-,-,-,-,topoisomerase II medium subunit,protein-coding,-,-,-,topoisomerase II medium subunit,20200629,-
+1555202,22111094,54,PBI_121Q_54,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111095,55,PBI_121Q_55,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111096,56,PBI_121Q_56,-,-,-,-,DNA polymerase III alpha subunit,protein-coding,-,-,-,DNA polymerase III alpha subunit,20200629,-
+1555202,22111097,57,PBI_121Q_57,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111098,58,PBI_121Q_58,-,-,-,-,chaperonin,protein-coding,-,-,-,chaperonin,20200905,-
+1555202,22111099,59,PBI_121Q_59,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111100,60,PBI_121Q_60,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201221,-
+1555202,22111101,61,PBI_121Q_61,-,-,-,-,phosphoglycolate phosphatase,protein-coding,-,-,-,phosphoglycolate phosphatase,20200629,-
+1555202,22111102,62,PBI_121Q_62,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111103,63,PBI_121Q_63,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111104,64,PBI_121Q_64,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111105,65,PBI_121Q_65,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111106,66,PBI_121Q_66,-,-,-,-,TelA-like protein,protein-coding,-,-,-,TelA-like protein,20200905,-
+1555202,22111107,67,PBI_121Q_67,-,-,-,-,3'-5' exoribonuclease,protein-coding,-,-,-,3'-5' exoribonuclease,20201221,-
+1555202,22111108,68,PBI_121Q_68,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111109,69,PBI_121Q_69,-,-,-,-,LEMA protein,protein-coding,-,-,-,LEMA protein,20200629,-
+1555202,22111110,70,PBI_121Q_70,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111111,71,PBI_121Q_71,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111112,72,PBI_121Q_72,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111113,73,PBI_121Q_73,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111114,74,PBI_121Q_74,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111115,75,PBI_121Q_75,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111116,76,PBI_121Q_76,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111117,77,PBI_121Q_77,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111118,78,PBI_121Q_78,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111119,79,PBI_121Q_79,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111120,80,PBI_121Q_80,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111121,81,PBI_121Q_81,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111122,82,PBI_121Q_82,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111123,83,PBI_121Q_83,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111124,84,PBI_121Q_84,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111125,85,PBI_121Q_85,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111126,86,PBI_121Q_86,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111127,87,PBI_121Q_87,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111128,88,PBI_121Q_88,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111129,89,PBI_121Q_89,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111130,90,PBI_121Q_90,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111131,91,PBI_121Q_91,-,-,-,-,DNA-cytosine-methyltransferase,protein-coding,-,-,-,DNA-cytosine-methyltransferase,20200629,-
+1555202,22111132,92,PBI_121Q_92,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111133,93,PBI_121Q_93,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111134,94,PBI_121Q_94,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111135,95,PBI_121Q_95,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111136,96,PBI_121Q_96,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111137,97,PBI_121Q_97,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111138,98,PBI_121Q_98,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111139,99,PBI_121Q_99,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111140,100,PBI_121Q_100,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111141,101,PBI_121Q_101,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111142,102,PBI_121Q_102,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111143,103,PBI_121Q_103,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111144,104,PBI_121Q_104,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111145,105,PBI_121Q_105,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111146,106,PBI_121Q_106,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111147,107,PBI_121Q_107,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111148,108,PBI_121Q_108,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111149,109,PBI_121Q_109,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111150,110,PBI_121Q_110,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111151,111,PBI_121Q_111,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111152,112,PBI_121Q_112,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111153,113,PBI_121Q_113,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111154,114,PBI_121Q_114,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111155,115,PBI_121Q_115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111156,116,PBI_121Q_116,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111157,117,PBI_121Q_117,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111158,118,PBI_121Q_118,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111159,119,PBI_121Q_119,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111160,120,PBI_121Q_120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111161,121,PBI_121Q_121,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111162,122,PBI_121Q_122,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111163,123,PBI_121Q_123,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111164,124,PBI_121Q_124,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111165,125,PBI_121Q_125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111166,126,PBI_121Q_126,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111167,127,PBI_121Q_127,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111168,128,PBI_121Q_128,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111169,129,PBI_121Q_129,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111170,130,PBI_121Q_130,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111171,131,PBI_121Q_131,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111172,132,PBI_121Q_132,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111173,133,PBI_121Q_133,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111174,134,PBI_121Q_134,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111175,135,PBI_121Q_135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111176,136,PBI_121Q_136,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111177,137,PBI_121Q_137,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111178,138,PBI_121Q_138,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111179,139,PBI_121Q_139,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111180,140,PBI_121Q_140,-,-,-,-,tRNA,tRNA,-,-,-,-,20200910,-
+1555202,22111181,141,PBI_121Q_141,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111182,142,PBI_121Q_142,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111183,143,PBI_121Q_143,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111184,144,PBI_121Q_144,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111185,145,PBI_121Q_145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111186,146,PBI_121Q_146,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111187,147,PBI_121Q_147,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111188,148,PBI_121Q_148,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111189,149,PBI_121Q_149,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111190,150,PBI_121Q_150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111191,151,PBI_121Q_151,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111192,152,PBI_121Q_152,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111193,153,PBI_121Q_153,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111194,154,PBI_121Q_154,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111195,155,PBI_121Q_155,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111196,156,PBI_121Q_156,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111197,157,PBI_121Q_157,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111198,158,PBI_121Q_158,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111199,159,PBI_121Q_159,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111200,160,PBI_121Q_160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111201,161,PBI_121Q_161,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111202,162,PBI_121Q_162,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111203,163,PBI_121Q_163,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111204,164,PBI_121Q_164,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111205,165,PBI_121Q_165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111206,166,PBI_121Q_166,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111207,167,PBI_121Q_167,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200629,-
+1555202,22111208,168,PBI_121Q_168,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111209,169,PBI_121Q_169,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111210,170,PBI_121Q_170,-,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20200629,-
+1555202,22111211,171,PBI_121Q_171,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111212,172,PBI_121Q_172,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111213,173,PBI_121Q_173,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111214,174,PBI_121Q_174,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111215,175,PBI_121Q_175,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111216,176,PBI_121Q_176,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111217,177,PBI_121Q_177,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111218,178,PBI_121Q_178,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111219,179,PBI_121Q_179,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111220,180,PBI_121Q_180,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111221,181,PBI_121Q_181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111222,182,PBI_121Q_182,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111223,183,PBI_121Q_183,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111224,184,PBI_121Q_184,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111225,185,PBI_121Q_185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111226,186,PBI_121Q_186,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111227,187,PBI_121Q_187,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111228,188,PBI_121Q_188,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111229,189,PBI_121Q_189,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111230,190,PBI_121Q_190,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111231,191,PBI_121Q_191,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111232,192,PBI_121Q_192,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111233,193,PBI_121Q_193,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111234,194,PBI_121Q_194,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1555202,22111235,195,PBI_121Q_195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111236,196,PBI_121Q_196,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111237,197,PBI_121Q_197,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111238,198,PBI_121Q_198,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111239,199,PBI_121Q_199,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111240,200,PBI_121Q_200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111241,201,PBI_121Q_201,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111242,202,PBI_121Q_202,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111243,203,PBI_121Q_203,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111244,204,PBI_121Q_204,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111245,205,PBI_121Q_205,-,-,-,-,protein kinase,protein-coding,-,-,-,protein kinase,20200629,-
+1555202,22111246,206,PBI_121Q_206,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111247,207,PBI_121Q_207,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111248,208,PBI_121Q_208,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111249,209,PBI_121Q_209,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111250,210,PBI_121Q_210,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111251,211,PBI_121Q_211,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111252,212,PBI_121Q_212,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111253,213,PBI_121Q_213,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111254,214,PBI_121Q_214,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111255,215,PBI_121Q_215,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111256,216,PBI_121Q_216,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111257,217,PBI_121Q_217,-,-,-,-,endonuclease V,protein-coding,-,-,-,endonuclease V,20200905,-
+1555202,22111258,218,PBI_121Q_218,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111259,219,PBI_121Q_219,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111260,220,PBI_121Q_220,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111261,221,PBI_121Q_221,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111262,222,PBI_121Q_222,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111263,223,PBI_121Q_223,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111264,224,PBI_121Q_224,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111265,225,PBI_121Q_225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111266,226,PBI_121Q_226,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111267,227,PBI_121Q_227,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111268,228,PBI_121Q_228,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111269,229,PBI_121Q_229,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111270,230,PBI_121Q_230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111271,231,PBI_121Q_231,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111272,232,PBI_121Q_232,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111273,233,PBI_121Q_233,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111274,234,PBI_121Q_234,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111275,235,PBI_121Q_235,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111276,236,PBI_121Q_236,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111277,237,PBI_121Q_237,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111278,238,PBI_121Q_238,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111279,239,PBI_121Q_239,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111280,240,PBI_121Q_240,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111281,241,PBI_121Q_241,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111282,242,PBI_121Q_242,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111283,243,PBI_121Q_243,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111284,244,PBI_121Q_244,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111285,245,PBI_121Q_245,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111286,246,PBI_121Q_246,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111287,247,PBI_121Q_247,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111288,248,PBI_121Q_248,-,-,-,-,putative DNA condensation protein,protein-coding,-,-,-,putative DNA condensation protein,20200629,-
+1555202,22111289,249,PBI_121Q_249,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111290,250,PBI_121Q_250,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111291,251,PBI_121Q_251,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111292,252,PBI_121Q_252,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111293,253,PBI_121Q_253,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111294,254,PBI_121Q_254,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111295,255,PBI_121Q_255,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111296,256,PBI_121Q_256,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111297,257,PBI_121Q_257,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111298,258,PBI_121Q_258,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111299,259,PBI_121Q_259,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111300,260,PBI_121Q_260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111301,261,PBI_121Q_261,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111302,262,PBI_121Q_262,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111303,263,PBI_121Q_263,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111304,264,PBI_121Q_264,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111305,265,PBI_121Q_265,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111306,266,PBI_121Q_266,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111307,267,PBI_121Q_267,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111308,268,PBI_121Q_268,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111309,269,PBI_121Q_269,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111310,270,PBI_121Q_270,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111311,271,PBI_121Q_271,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111312,272,PBI_121Q_272,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111313,273,PBI_121Q_273,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111314,274,PBI_121Q_274,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111315,275,PBI_121Q_275,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111316,276,PBI_121Q_276,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111317,277,PBI_121Q_277,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111318,278,PBI_121Q_278,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111319,279,PBI_121Q_279,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111320,280,PBI_121Q_280,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111321,281,PBI_121Q_281,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111322,282,PBI_121Q_282,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111323,283,PBI_121Q_283,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111324,284,PBI_121Q_284,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111325,285,PBI_121Q_285,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111326,286,PBI_121Q_286,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111327,287,PBI_121Q_287,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111328,288,PBI_121Q_288,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111329,289,PBI_121Q_289,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111330,290,PBI_121Q_290,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111331,291,PBI_121Q_291,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111332,292,PBI_121Q_292,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111333,293,PBI_121Q_293,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111334,294,PBI_121Q_294,-,-,-,-,C-4 type zinc finger protein,protein-coding,-,-,-,C-4 type zinc finger protein,20200629,-
+1555202,22111335,295,PBI_121Q_295,-,-,-,-,acetyltransferase,protein-coding,-,-,-,acetyltransferase,20200629,-
+1555202,22111336,296,PBI_121Q_296,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111337,297,PBI_121Q_297,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111338,298,PBI_121Q_298,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111339,299,PBI_121Q_299,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111340,300,PBI_121Q_300,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111341,301,PBI_121Q_301,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111342,302,PBI_121Q_302,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111343,303,PBI_121Q_303,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111344,304,PBI_121Q_304,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111345,305,PBI_121Q_305,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111346,306,PBI_121Q_306,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111347,307,PBI_121Q_307,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111348,308,PBI_121Q_308,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111349,309,PBI_121Q_309,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111350,310,PBI_121Q_310,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111351,311,PBI_121Q_311,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111352,312,PBI_121Q_312,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111353,313,PBI_121Q_313,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111354,314,PBI_121Q_314,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111355,315,PBI_121Q_315,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111356,316,PBI_121Q_316,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111357,317,PBI_121Q_317,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111358,318,PBI_121Q_318,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111359,319,PBI_121Q_319,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111360,320,PBI_121Q_320,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111361,321,PBI_121Q_321,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111362,322,PBI_121Q_322,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111363,323,PBI_121Q_323,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111364,324,PBI_121Q_324,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111365,325,PBI_121Q_325,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111366,326,PBI_121Q_326,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111367,327,PBI_121Q_327,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111368,328,PBI_121Q_328,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111369,329,PBI_121Q_329,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111370,330,PBI_121Q_330,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111371,331,PBI_121Q_331,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111372,332,PBI_121Q_332,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111373,333,PBI_121Q_333,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111374,334,PBI_121Q_334,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111375,335,PBI_121Q_335,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111376,336,PBI_121Q_336,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111377,337,PBI_121Q_337,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111378,338,PBI_121Q_338,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111379,339,PBI_121Q_339,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111380,340,PBI_121Q_340,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111381,341,PBI_121Q_341,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111382,342,PBI_121Q_342,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111383,343,PBI_121Q_343,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111384,344,PBI_121Q_344,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111385,345,PBI_121Q_345,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111386,346,PBI_121Q_346,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111387,347,PBI_121Q_347,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111388,348,PBI_121Q_348,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111389,349,PBI_121Q_349,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111390,350,PBI_121Q_350,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111391,351,PBI_121Q_351,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111392,352,PBI_121Q_352,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111393,353,PBI_121Q_353,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111394,354,PBI_121Q_354,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111395,355,PBI_121Q_355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111396,356,PBI_121Q_356,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111397,357,PBI_121Q_357,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111398,358,PBI_121Q_358,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111399,359,PBI_121Q_359,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111400,360,PBI_121Q_360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111401,361,PBI_121Q_361,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111402,362,PBI_121Q_362,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111403,363,PBI_121Q_363,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111404,364,PBI_121Q_364,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111405,365,PBI_121Q_365,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111406,366,PBI_121Q_366,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111407,367,PBI_121Q_367,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111408,368,PBI_121Q_368,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111409,369,PBI_121Q_369,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111410,370,PBI_121Q_370,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111411,371,PBI_121Q_371,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111412,372,PBI_121Q_372,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111413,373,PBI_121Q_373,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111414,374,PBI_121Q_374,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111415,375,PBI_121Q_375,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111416,376,PBI_121Q_376,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111417,377,PBI_121Q_377,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111418,378,PBI_121Q_378,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111419,379,PBI_121Q_379,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111420,380,PBI_121Q_380,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111421,381,PBI_121Q_381,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111422,382,PBI_121Q_382,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111423,383,PBI_121Q_383,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111424,384,PBI_121Q_384,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111425,385,PBI_121Q_385,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111426,386,PBI_121Q_386,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111427,387,PBI_121Q_387,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111428,388,PBI_121Q_388,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111429,389,PBI_121Q_389,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111430,390,PBI_121Q_390,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111431,391,PBI_121Q_391,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111432,392,PBI_121Q_392,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111433,393,PBI_121Q_393,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1555202,22111434,394,PBI_121Q_394,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111435,395,PBI_121Q_395,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111436,396,PBI_121Q_396,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111437,397,PBI_121Q_397,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111438,398,PBI_121Q_398,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111439,399,PBI_121Q_399,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111440,400,PBI_121Q_400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111441,401,PBI_121Q_401,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111442,402,PBI_121Q_402,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111443,403,PBI_121Q_403,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111444,404,PBI_121Q_404,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111445,405,PBI_121Q_405,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111446,406,PBI_121Q_406,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111447,407,PBI_121Q_407,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111448,408,PBI_121Q_408,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111449,409,PBI_121Q_409,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111450,410,PBI_121Q_410,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111451,411,PBI_121Q_411,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111452,412,PBI_121Q_412,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111453,413,PBI_121Q_413,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111454,414,PBI_121Q_414,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111455,415,PBI_121Q_415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111456,416,PBI_121Q_416,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111457,417,PBI_121Q_417,-,-,-,-,DNA methyltransferase,protein-coding,-,-,-,DNA methyltransferase,20200905,-
+1555202,22111458,418,PBI_121Q_418,-,-,-,-,ribonucleotide reductase A,protein-coding,-,-,-,ribonucleotide reductase A,20200905,-
+1555202,22111459,419,PBI_121Q_419,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111460,420,PBI_121Q_420,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111461,421,PBI_121Q_421,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111462,422,PBI_121Q_422,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111463,423,PBI_121Q_423,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111464,424,PBI_121Q_424,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111465,425,PBI_121Q_425,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111466,426,PBI_121Q_426,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111467,427,PBI_121Q_427,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111468,428,PBI_121Q_428,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111469,429,PBI_121Q_429,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111470,430,PBI_121Q_430,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111471,431,PBI_121Q_431,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111472,432,PBI_121Q_432,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111473,433,PBI_121Q_433,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111474,434,PBI_121Q_434,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111475,435,PBI_121Q_435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111476,436,PBI_121Q_436,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111477,437,PBI_121Q_437,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111478,438,PBI_121Q_438,-,-,-,-,"RNA ligase, T4 RnlA family",protein-coding,-,-,-,"RNA ligase, T4 RnlA family",20201221,-
+1555202,22111479,439,PBI_121Q_439,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111480,440,PBI_121Q_440,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111481,441,PBI_121Q_441,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111482,442,PBI_121Q_442,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111483,443,PBI_121Q_443,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201221,-
+1555202,22111484,444,PBI_121Q_444,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111485,445,PBI_121Q_445,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111486,446,PBI_121Q_446,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111487,447,PBI_121Q_447,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111488,448,PBI_121Q_448,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111489,449,PBI_121Q_449,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111490,450,PBI_121Q_450,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111491,451,PBI_121Q_451,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111492,452,PBI_121Q_452,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111493,453,PBI_121Q_453,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111494,454,PBI_121Q_454,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111495,455,PBI_121Q_455,-,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201221,-
+1555202,22111496,456,PBI_121Q_456,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111497,457,PBI_121Q_457,-,-,-,-,chaperone protein,protein-coding,-,-,-,chaperone protein,20200629,-
+1555202,22111498,458,PBI_121Q_458,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111499,459,PBI_121Q_459,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111500,460,PBI_121Q_460,-,-,-,-,DNA ligase,protein-coding,-,-,-,DNA ligase,20200629,-
+1555202,22111501,461,PBI_121Q_461,-,-,-,-,calcineurin-like phosphoesterase,protein-coding,-,-,-,calcineurin-like phosphoesterase,20200629,-
+1555202,22111502,462,PBI_121Q_462,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111503,463,PBI_121Q_463,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111504,464,PBI_121Q_464,-,-,-,-,protease,protein-coding,-,-,-,protease,20200905,-
+1555202,22111505,465,PBI_121Q_465,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111506,466,PBI_121Q_466,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111507,467,PBI_121Q_467,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111508,468,PBI_121Q_468,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111509,469,PBI_121Q_469,-,-,-,-,CMP/dCMP deaminase,protein-coding,-,-,-,CMP/dCMP deaminase,20200905,-
+1555202,22111510,470,PBI_121Q_470,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111511,471,PBI_121Q_471,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111512,472,PBI_121Q_472,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111513,473,PBI_121Q_473,-,-,-,-,protease,protein-coding,-,-,-,protease,20200905,-
+1555202,22111514,474,PBI_121Q_474,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111515,475,PBI_121Q_475,-,-,-,-,protease,protein-coding,-,-,-,protease,20200629,-
+1555202,22111516,476,PBI_121Q_476,-,-,-,-,Sir2-like protein,protein-coding,-,-,-,Sir2-like protein,20200629,-
+1555202,22111517,477,PBI_121Q_477,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111518,478,PBI_121Q_478,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111519,479,PBI_121Q_479,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111520,480,PBI_121Q_480,-,-,-,-,PhoH-like protein,protein-coding,-,-,-,PhoH-like protein,20200629,-
+1555202,22111521,481,PBI_121Q_481,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111522,482,PBI_121Q_482,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111523,483,PBI_121Q_483,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111524,484,PBI_121Q_484,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111525,485,PBI_121Q_485,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111526,486,PBI_121Q_486,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111527,487,PBI_121Q_487,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111528,488,PBI_121Q_488,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111529,489,PBI_121Q_489,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111530,490,PBI_121Q_490,-,-,-,-,dCMP deaminase,protein-coding,-,-,-,dCMP deaminase,20200629,-
+1555202,22111531,491,PBI_121Q_491,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111532,492,PBI_121Q_492,-,-,-,-,HrgC,protein-coding,-,-,-,HrgC,20200629,-
+1555202,22111533,493,PBI_121Q_493,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111534,494,PBI_121Q_494,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111535,495,PBI_121Q_495,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111536,496,PBI_121Q_496,-,-,-,-,anaerobic ribonucleoside-triphosphate reductase,protein-coding,-,-,-,anaerobic ribonucleoside-triphosphate reductase,20201221,-
+1555202,22111537,497,PBI_121Q_497,-,-,-,-,DUF4326 domain-containing protein,protein-coding,-,-,-,DUF4326 domain-containing protein,20201221,-
+1555202,22111538,498,PBI_121Q_498,-,-,-,-,nucleotide reductase-activating protein,protein-coding,-,-,-,nucleotide reductase-activating protein,20200629,-
+1555202,22111539,499,PBI_121Q_499,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111540,500,PBI_121Q_500,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111541,501,PBI_121Q_501,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111542,502,PBI_121Q_502,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111543,503,PBI_121Q_503,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111544,504,PBI_121Q_504,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111545,505,PBI_121Q_505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111546,506,PBI_121Q_506,-,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20200629,-
+1555202,22111547,507,PBI_121Q_507,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111548,508,PBI_121Q_508,-,-,-,-,tail fiber,protein-coding,-,-,-,tail fiber,20200629,-
+1555202,22111549,509,PBI_121Q_509,-,-,-,-,tail fiber,protein-coding,-,-,-,tail fiber,20200629,-
+1555202,22111550,510,PBI_121Q_510,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111551,511,PBI_121Q_511,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111552,512,PBI_121Q_512,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111553,513,PBI_121Q_513,-,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20200905,-
+1555202,22111554,514,PBI_121Q_514,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111555,515,PBI_121Q_515,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111556,516,PBI_121Q_516,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111557,517,PBI_121Q_517,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111558,518,PBI_121Q_518,-,-,-,-,starvation-inducible DNA-binding protein,protein-coding,-,-,-,starvation-inducible DNA-binding protein,20200629,-
+1555202,22111559,519,PBI_121Q_519,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111560,520,PBI_121Q_520,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111561,521,PBI_121Q_521,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111562,522,PBI_121Q_522,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111563,523,PBI_121Q_523,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111564,524,PBI_121Q_524,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111565,525,PBI_121Q_525,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111566,526,PBI_121Q_526,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111567,527,PBI_121Q_527,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111568,528,PBI_121Q_528,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111569,529,PBI_121Q_529,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111570,530,PBI_121Q_530,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111571,531,PBI_121Q_531,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111572,532,PBI_121Q_532,-,-,-,-,lysozyme,protein-coding,-,-,-,lysozyme,20200905,-
+1555202,22111573,533,PBI_121Q_533,-,-,-,-,HPF/RaiA family ribosome-associated protein,protein-coding,-,-,-,HPF/RaiA family ribosome-associated protein,20201221,-
+1555202,22111574,534,PBI_121Q_534,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111575,535,PBI_121Q_535,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111576,536,PBI_121Q_536,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111577,537,PBI_121Q_537,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111578,538,PBI_121Q_538,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111579,539,PBI_121Q_539,-,-,-,-,phosphatase,protein-coding,-,-,-,phosphatase,20200629,-
+1555202,22111580,540,PBI_121Q_540,-,-,-,-,nudix hydrolase,protein-coding,-,-,-,nudix hydrolase,20200629,-
+1555202,22111581,541,PBI_121Q_541,-,-,-,-,glutaredoxin,protein-coding,-,-,-,glutaredoxin,20200905,-
+1555202,22111582,542,PBI_121Q_542,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111583,543,PBI_121Q_543,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111584,544,PBI_121Q_544,-,-,-,-,Appr-1-p processing domain protein,protein-coding,-,-,-,Appr-1-p processing domain protein,20200629,-
+1555202,22111585,545,PBI_121Q_545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111586,546,PBI_121Q_546,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111587,547,PBI_121Q_547,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111588,548,PBI_121Q_548,-,-,-,-,neck protein,protein-coding,-,-,-,neck protein,20200629,-
+1555202,22111589,549,PBI_121Q_549,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111590,550,PBI_121Q_550,-,-,-,-,deoxynucleotide monophosphate kinase,protein-coding,-,-,-,deoxynucleotide monophosphate kinase,20200905,-
+1555202,22111591,551,PBI_121Q_551,-,-,-,-,tail sheath protein,protein-coding,-,-,-,tail sheath protein,20200629,-
+1555202,22111592,552,PBI_121Q_552,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111593,553,PBI_121Q_553,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111594,554,PBI_121Q_554,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111595,555,PBI_121Q_555,-,-,-,-,head completion protein,protein-coding,-,-,-,head completion protein,20210424,-
+1555202,22111596,556,PBI_121Q_556,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111597,557,PBI_121Q_557,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111598,558,PBI_121Q_558,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111599,559,PBI_121Q_559,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111600,560,PBI_121Q_560,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111601,561,PBI_121Q_561,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111602,562,PBI_121Q_562,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111603,563,PBI_121Q_563,-,-,-,-,ATPase,protein-coding,-,-,-,ATPase,20200629,-
+1555202,22111604,564,PBI_121Q_564,-,-,-,-,Zn-dependent hydrolase,protein-coding,-,-,-,Zn-dependent hydrolase,20200905,-
+1555202,22111605,565,PBI_121Q_565,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111606,566,PBI_121Q_566,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111607,567,PBI_121Q_567,-,-,-,-,DUF2493 domain-containing protein,protein-coding,-,-,-,DUF2493 domain-containing protein,20201221,-
+1555202,22111608,568,PBI_121Q_568,-,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20200905,-
+1555202,22111609,569,PBI_121Q_569,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111610,570,PBI_121Q_570,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111611,571,PBI_121Q_571,-,-,-,-,long tail fiber proximal subunit,protein-coding,-,-,-,long tail fiber proximal subunit,20200629,-
+1555202,22111612,572,PBI_121Q_572,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111613,573,PBI_121Q_573,-,-,-,-,colanic acid-degrading protein,protein-coding,-,-,-,colanic acid-degrading protein,20200629,-
+1555202,22111614,574,PBI_121Q_574,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111615,575,PBI_121Q_575,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111616,576,PBI_121Q_576,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111617,577,PBI_121Q_577,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111618,578,PBI_121Q_578,-,-,-,-,NUDIX hydrolase,protein-coding,-,-,-,NUDIX hydrolase,20201221,-
+1555202,22111619,579,PBI_121Q_579,-,-,-,-,tail sheath stabilizer and completion protein,protein-coding,-,-,-,tail sheath stabilizer and completion protein,20200905,-
+1555202,22111620,580,PBI_121Q_580,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111621,581,PBI_121Q_581,-,-,-,-,ClpA-like protein,protein-coding,-,-,-,ClpA-like protein,20200629,-
+1555202,22111622,582,PBI_121Q_582,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111623,583,PBI_121Q_583,-,-,-,-,baseplate wedge,protein-coding,-,-,-,baseplate wedge,20200629,-
+1555202,22111624,584,PBI_121Q_584,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111625,585,PBI_121Q_585,-,-,-,-,GPW/gp25 family protein,protein-coding,-,-,-,GPW/gp25 family protein,20201221,-
+1555202,22111626,586,PBI_121Q_586,-,-,-,-,glycoside hydrolase family protein,protein-coding,-,-,-,glycoside hydrolase family protein,20201221,-
+1555202,22111627,587,PBI_121Q_587,-,-,-,-,glycoside hydrolase family protein,protein-coding,-,-,-,glycoside hydrolase family protein,20201221,-
+1555202,22111628,588,PBI_121Q_588,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200905,-
+1555202,22111629,589,PBI_121Q_589,-,-,-,-,baseplate wedge protein 53,protein-coding,-,-,-,baseplate wedge protein 53,20201221,-
+1555202,22111630,590,PBI_121Q_590,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111631,591,PBI_121Q_591,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200629,-
+1555202,22111632,592,PBI_121Q_592,-,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201221,-
+1555202,22111633,593,PBI_121Q_593,-,-,-,-,recombination endonuclease subunit,protein-coding,-,-,-,recombination endonuclease subunit,20200629,-
+1555202,22111634,594,PBI_121Q_594,-,-,-,-,DNA endonuclease VII,protein-coding,-,-,-,DNA endonuclease VII,20200905,-
+1555202,22111635,595,PBI_121Q_595,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111636,596,PBI_121Q_596,-,-,-,-,baseplate hub subunit,protein-coding,-,-,-,baseplate hub subunit,20200629,-
+1555202,22111637,597,PBI_121Q_597,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111638,598,PBI_121Q_598,-,-,-,-,portal protein,protein-coding,-,-,-,portal protein,20200629,-
+1555202,22111639,599,PBI_121Q_599,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111640,600,PBI_121Q_600,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111641,601,PBI_121Q_601,-,-,-,-,capsid maturation protease,protein-coding,-,-,-,capsid maturation protease,20200905,-
+1555202,22111642,602,PBI_121Q_602,-,-,-,-,scaffolding protein,protein-coding,-,-,-,scaffolding protein,20200629,-
+1555202,22111643,603,PBI_121Q_603,-,-,-,-,major capsid protein,protein-coding,-,-,-,major capsid protein,20200629,-
+1555202,22111644,604,PBI_121Q_604,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111645,605,PBI_121Q_605,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111646,606,PBI_121Q_606,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111647,607,PBI_121Q_607,-,-,-,-,tail fiber,protein-coding,-,-,-,tail fiber,20200629,-
+1555202,22111648,608,PBI_121Q_608,-,-,-,-,tail fiber assembly protein,protein-coding,-,-,-,tail fiber assembly protein,20210424,-
+1555202,22111649,609,PBI_121Q_609,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111650,610,PBI_121Q_610,-,-,-,-,DNA polymerase,protein-coding,-,-,-,DNA polymerase,20200629,-
+1555202,22111651,611,PBI_121Q_611,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111652,612,PBI_121Q_612,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111653,613,PBI_121Q_613,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111654,614,PBI_121Q_614,-,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20201221,-
+1555202,22111655,615,PBI_121Q_615,-,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20201221,-
+1555202,22111656,616,PBI_121Q_616,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200629,-
+1555202,22111657,617,PBI_121Q_617,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111658,618,PBI_121Q_618,-,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200629,-
+1555202,22111659,1,PBI_121Q_1,-,-,-,-,RNase H-like 5'-3' exonuclease,protein-coding,-,-,-,RNase H-like 5'-3' exonuclease,20200629,-
+1555202,22203845,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Escherichia coli phage 121Q).,other,-,-,-,-,20200513,-

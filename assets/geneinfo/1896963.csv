@@ -1,0 +1,275 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1896963,29071408,trnD(GTC),BI108_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071409,cox1,BI108_mgp22,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20170210,-
+1896963,29071410,cox2,BI108_mgp21,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20170210,-
+1896963,29071411,cox3,BI108_mgp20,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20170210,-
+1896963,29071412,ymf39,BI108_mgp19,-,-,MT,-,ATP synthase B chain precursor,protein-coding,-,-,-,-,20170210,-
+1896963,29071413,trnG(TCC),BI108_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071414,trnL(TAA),BI108_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071415,cob,BI108_mgp18,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20170210,-
+1896963,29071416,trnL(TAG),BI108_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071417,trnQ(TTG),BI108_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071418,rps12,BI108_mgp17,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20170210,-
+1896963,29071419,TatC,BI108_mgp16,-,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071420,trnK(TTT),BI108_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071421,trnV(TAC),BI108_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071422,trnS(TGA),BI108_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071423,nad6,BI108_mgp15,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170210,-
+1896963,29071424,trnG(GCC),BI108_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071425,trnP(TGG),BI108_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071426,atp9,BI108_mgp14,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20190604,-
+1896963,29071427,trnC(GCA),BI108_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071428,trnM(CAT),BI108_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071429,rps11,BI108_mgp13,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20170210,-
+1896963,29071430,nad3,BI108_mgp12,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170210,-
+1896963,29071431,nad1,BI108_mgp11,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170210,-
+1896963,29071432,nad2,BI108_mgp10,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170210,-
+1896963,29071433,sdhD,BI108_mgp09,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20170210,-
+1896963,29071434,nad4,BI108_mgp08,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170210,-
+1896963,29071435,nad5,BI108_mgp07,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170210,-
+1896963,29071436,atp8,BI108_mgp06,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20170210,-
+1896963,29071437,atp6,BI108_mgp05,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20170210,-
+1896963,29071438,trnSeC(TCA),BI108_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071439,trnS(GCT),BI108_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071440,trnR(TCT),BI108_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071441,trnY(GTA),BI108_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071442,trnF(GAA),BI108_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071443,sdh2,BI108_mgp04,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,-,20170210,-
+1896963,29071444,trnH(GTG),BI108_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071445,rpl16,BI108_mgp03,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20170210,-
+1896963,29071446,rps3,BI108_mgp02,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20170210,-
+1896963,29071447,trnR(ACG),BI108_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071448,trnN(GTT),BI108_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071449,trnE(TTC),BI108_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071450,trnM(CAT),BI108_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071451,rns,BI108_mgr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20170127,-
+1896963,29071452,nad4L,BI108_mgp01,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170210,-
+1896963,29071453,rnl,BI108_mgr02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20170127,-
+1896963,29071455,ycf60,BI108_pgp002,-,-,-,-,Tic20 family protein Ycf60,protein-coding,-,-,-,-,20170210,-
+1896963,29071456,thiG,BI108_pgp003,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,-,20170210,-
+1896963,29071457,trpG,BI108_pgp004,-,-,-,-,anthranilate synthase component II,protein-coding,-,-,-,-,20170210,-
+1896963,29071458,ccs1,BI108_pgp005,-,-,-,-,cytochrome c biogenesis protein ccs1,protein-coding,-,-,-,-,20170210,-
+1896963,29071459,orf240,BI108_pgp006,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071460,trnN-GTT,BI108_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071461,trnL-TAG,BI108_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071462,ycf35,BI108_pgp197,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071463,psbA,BI108_pgp196,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20170210,-
+1896963,29071464,rne,BI108_pgp195,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20170210,-
+1896963,29071465,rpl27,BI108_pgp194,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20170210,-
+1896963,29071466,rpl21,BI108_pgp193,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20170210,-
+1896963,29071467,orf263,BI108_pgp192,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071468,rpl32,BI108_pgp191,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170210,-
+1896963,29071469,psbY,BI108_pgp190,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20170210,-
+1896963,29071470,rbcR,BI108_pgp189,-,-,-,-,putative RuBisCO transcriptional regulator,protein-coding,-,-,-,-,20170210,-
+1896963,29071471,ycf54,BI108_pgp188,-,-,-,-,hypothetical chloroplast RF54,protein-coding,-,-,-,-,20170210,-
+1896963,29071472,orf320,BI108_pgp187,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071473,orf238,BI108_pgp186,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071474,carA,BI108_pgp185,-,-,-,-,carbamoyl-phosphate synthase small chain,protein-coding,-,-,-,-,20170210,-
+1896963,29071475,petJ,BI108_pgp184,-,-,-,-,cytochrome c553,protein-coding,-,-,-,-,20170210,-
+1896963,29071476,psbV,BI108_pgp183,-,-,-,-,cytochrome c-550,protein-coding,-,-,-,-,20170210,-
+1896963,29071477,accD,BI108_pgp182,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071478,psbX,BI108_pgp181,-,-,-,-,photosystem II reaction center X protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071479,fabH,BI108_pgp180,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,-,20170210,-
+1896963,29071480,apcD,BI108_pgp179,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071481,psaJ,BI108_pgp178,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20170210,-
+1896963,29071482,psaF,BI108_pgp177,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,-,20170210,-
+1896963,29071483,ycf52,BI108_pgp176,-,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,-,20170210,-
+1896963,29071484,trnP-TGG,BI108_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071485,ycf37,BI108_pgp175,-,-,-,-,hypothetical chloroplast RF37,protein-coding,-,-,-,-,20170210,-
+1896963,29071486,rpl34,BI108_pgp174,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20170210,-
+1896963,29071487,ycf46,BI108_pgp173,-,-,-,-,AAA domain-containing protein Ycf46,protein-coding,-,-,-,-,20170210,-
+1896963,29071488,orf8,BI108_pgp172,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071489,orf4,BI108_pgp171,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071490,rrfB,BI108_pgr003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+1896963,29071491,rrlA,BI108_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+1896963,29071492,trnA-TGC,BI108_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071493,trnI-GAT,BI108_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071494,rrsA,BI108_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170127,-
+1896963,29071495,ompR,BI108_pgp170,-,-,-,-,ompR transcriptional regulator,protein-coding,-,-,-,-,20170210,-
+1896963,29071496,psbD,BI108_pgp169,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20170210,-
+1896963,29071497,psbC,BI108_pgp168,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20170210,-
+1896963,29071498,upp,BI108_pgp167,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,-,20170210,-
+1896963,29071499,ycf19,BI108_pgp166,-,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,-,20170210,-
+1896963,29071500,rps16,BI108_pgp165,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170210,-
+1896963,29071501,ycf65,BI108_pgp164,-,-,-,-,hypothetical chloroplast RF65,protein-coding,-,-,-,-,20170210,-
+1896963,29071502,groEL,BI108_pgp163,-,-,-,-,60 kDa chaperonin,protein-coding,-,-,-,-,20170210,-
+1896963,29071503,trnA-ACG,BI108_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071504,syh,BI108_pgp162,-,-,-,-,histidine tRNA synthetase,protein-coding,-,-,-,-,20170210,-
+1896963,29071505,trnG-TTG,BI108_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071506,psbW,BI108_pgp161,-,-,-,-,photosystem II reaction center psb28 protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071507,syfB,BI108_pgp160,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,-,20170210,-
+1896963,29071508,rps1,BI108_pgp159,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20170210,-
+1896963,29071509,ycf40,BI108_pgp158,-,-,-,-,Ycf40,protein-coding,-,-,-,-,20170210,-
+1896963,29071510,trnH-GTG,BI108_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071511,ycf29,BI108_pgp157,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071512,ntcA,BI108_pgp156,-,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,-,20170210,-
+1896963,29071513,petB,BI108_pgp155,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170210,-
+1896963,29071514,petD,BI108_pgp154,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170210,-
+1896963,29071515,rpl12,BI108_pgp153,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20170210,-
+1896963,29071516,rpl1,BI108_pgp152,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20170210,-
+1896963,29071517,rpl11,BI108_pgp151,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20170210,-
+1896963,29071518,trnW-CCA,BI108_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071519,orf382,BI108_pgp150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071520,rpl9,BI108_pgp149,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20170210,-
+1896963,29071521,dnaB,BI108_pgp148,-,-,-,-,putative replicative DNA helicase,protein-coding,-,-,-,-,20170210,-
+1896963,29071522,tnrF-GAA,BI108_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071523,clpC,BI108_pgp147,-,-,-,-,ATP-dependent Clp protease ATP-binding subunit clpA-like protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071524,rpl19,BI108_pgp146,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20170210,-
+1896963,29071525,trnV-GAC,BI108_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071526,trnY-GTA,BI108_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071527,ilvB,BI108_pgp145,-,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071528,ycf33,BI108_pgp144,-,-,-,-,Ycf33,protein-coding,-,-,-,-,20170210,-
+1896963,29071529,argB,BI108_pgp143,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20170210,-
+1896963,29071530,trnM-CAT,BI108_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071531,trnS-GCT,BI108_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071532,trnD-GTC,BI108_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071533,ftsH,BI108_pgp142,-,-,-,-,putative plastid division protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071534,psaE,BI108_pgp141,-,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,-,20170210,-
+1896963,29071535,psbH,BI108_pgp140,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20210116,-
+1896963,29071536,psbN,BI108_pgp139,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20170210,-
+1896963,29071537,psbT,BI108_pgp138,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+1896963,29071538,psbB,BI108_pgp137,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20170210,-
+1896963,29071539,ycf38,BI108_pgp136,-,-,-,-,hypothetical chloroplast RF38,protein-coding,-,-,-,-,20170210,-
+1896963,29071540,petF,BI108_pgp135,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20170210,-
+1896963,29071541,rps10,BI108_pgp134,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20170210,-
+1896963,29071542,tufA,BI108_pgp133,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20170210,-
+1896963,29071543,rps7,BI108_pgp132,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170210,-
+1896963,29071544,rps12,BI108_pgp131,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170210,-
+1896963,29071545,rpl31,BI108_pgp130,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,-,20170210,-
+1896963,29071546,rps9,BI108_pgp129,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20170210,-
+1896963,29071547,rpl13,BI108_pgp128,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20170210,-
+1896963,29071548,rpoA,BI108_pgp127,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071549,rps11,BI108_pgp126,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170210,-
+1896963,29071550,rps13,BI108_pgp125,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20170210,-
+1896963,29071551,rpl36,BI108_pgp124,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170210,-
+1896963,29071552,secY,BI108_pgp123,-,-,-,-,protein translocase subunit SecY,protein-coding,-,-,-,-,20170210,-
+1896963,29071553,rps5,BI108_pgp122,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20170210,-
+1896963,29071554,rpl18,BI108_pgp121,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20170210,-
+1896963,29071555,rpl6,BI108_pgp120,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20170210,-
+1896963,29071556,rps8,BI108_pgp119,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170210,-
+1896963,29071557,rpl5,BI108_pgp118,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20170210,-
+1896963,29071558,rpl24,BI108_pgp117,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20170210,-
+1896963,29071559,rpl14,BI108_pgp116,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170210,-
+1896963,29071560,rps17,BI108_pgp115,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20170210,-
+1896963,29071561,rpl16,BI108_pgp114,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170210,-
+1896963,29071562,rps3,BI108_pgp113,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170210,-
+1896963,29071563,rpl22,BI108_pgp112,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170210,-
+1896963,29071564,rps19,BI108_pgp111,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170210,-
+1896963,29071565,rpl2,BI108_pgp110,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170210,-
+1896963,29071566,rpl23,BI108_pgp109,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170210,-
+1896963,29071567,rpl4,BI108_pgp108,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20170210,-
+1896963,29071568,rpl3,BI108_pgp107,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20170210,-
+1896963,29071569,dnaK,BI108_pgp106,-,-,-,-,heat shock protein 70,protein-coding,-,-,-,-,20170210,-
+1896963,29071570,trnG-GCC,BI108_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071571,psbZ,BI108_pgp105,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20170210,-
+1896963,29071572,psbK,BI108_pgp104,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20170210,-
+1896963,29071573,petG,BI108_pgp103,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210123,-
+1896963,29071574,rps14,BI108_pgp102,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170210,-
+1896963,29071575,psaB,BI108_pgp101,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20170210,-
+1896963,29071576,psaA,BI108_pgp100,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20170210,-
+1896963,29071577,accB,BI108_pgp099,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071578,orf68,BI108_pgp098,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071579,ycf45,BI108_pgp097,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071580,acpP,BI108_pgp096,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071581,trnS-TGA,BI108_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071582,psaD,BI108_pgp095,-,-,-,-,photosystem I reaction center subunit II,protein-coding,-,-,-,-,20170210,-
+1896963,29071583,acsF,BI108_pgp094,-,-,-,-,aerobic magnesium-protoporphyrin IX monomethyl,protein-coding,-,-,-,-,20170210,-
+1896963,29071584,petN,BI108_pgp093,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20170210,-
+1896963,29071585,secG,BI108_pgp092,-,-,-,-,protein-export membrane protein SecG,protein-coding,-,-,-,-,20170210,-
+1896963,29071586,ycf36,BI108_pgp091,-,-,-,-,hypothetical chloroplast RF36,protein-coding,-,-,-,-,20170210,-
+1896963,29071587,trnM-CAT,BI108_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071588,bas1,BI108_pgp090,-,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071589,pbsA,BI108_pgp089,-,-,-,-,heme oxygenase,protein-coding,-,-,-,-,20170210,-
+1896963,29071590,rpl35,BI108_pgp088,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20170210,-
+1896963,29071591,rpl20,BI108_pgp087,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170210,-
+1896963,29071592,preA,BI108_pgp086,-,-,-,-,prenyl transferase,protein-coding,-,-,-,-,20170210,-
+1896963,29071593,odpA,BI108_pgp085,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071594,odpB,BI108_pgp084,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071595,petA,BI108_pgp083,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170210,-
+1896963,29071596,tatC,BI108_pgp082,-,-,-,-,sec-independent protein translocase-like protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071597,apcE,BI108_pgp081,-,-,-,-,phycobillisome linker protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071598,apcA,BI108_pgp080,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071599,apcB,BI108_pgp079,-,-,-,-,allophycocyanin beta chain,protein-coding,-,-,-,-,20170210,-
+1896963,29071600,atpE,BI108_pgp078,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071601,atpB,BI108_pgp077,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071602,ycf3,BI108_pgp076,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170210,-
+1896963,29071603,infB,BI108_pgp075,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,-,20170210,-
+1896963,29071604,rps18,BI108_pgp074,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170210,-
+1896963,29071605,rpl33,BI108_pgp073,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170210,-
+1896963,29071606,rps20,BI108_pgp072,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20170210,-
+1896963,29071607,rpoB,BI108_pgp071,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071608,rpoC1,BI108_pgp070,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20170210,-
+1896963,29071609,rpoC2,BI108_pgp069,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071610,rps2,BI108_pgp068,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170210,-
+1896963,29071611,tsf,BI108_pgp067,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20170210,-
+1896963,29071612,atpI,BI108_pgp066,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20170210,-
+1896963,29071613,atpH,BI108_pgp065,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20170908,-
+1896963,29071614,atpG,BI108_pgp064,-,-,-,-,ATP synthase subunit b',protein-coding,-,-,-,-,20170210,-
+1896963,29071615,atpF,BI108_pgp063,-,-,-,-,ATP synthase CFO B chain subunit I,protein-coding,-,-,-,-,20170210,-
+1896963,29071616,atpD,BI108_pgp062,-,-,-,-,ATP synthase subunit delta,protein-coding,-,-,-,-,20170210,-
+1896963,29071617,atpA,BI108_pgp061,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071618,ycf16,BI108_pgp060,-,-,-,-,sulfate ABC transporter protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071619,ycf24,BI108_pgp059,-,-,-,-,putative ABC transporter,protein-coding,-,-,-,-,20170210,-
+1896963,29071620,ycf92,BI108_pgp058,-,-,-,-,Ycf92,protein-coding,-,-,-,-,20170210,-
+1896963,29071621,trnL-CAA,BI108_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071622,ycf39,BI108_pgp057,-,-,-,-,Ycf39,protein-coding,-,-,-,-,20170210,-
+1896963,29071623,psbI,BI108_pgp056,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+1896963,29071624,ycf58,BI108_pgp055,-,-,-,-,Ycf58,protein-coding,-,-,-,-,20170210,-
+1896963,29071625,orf621,BI108_pgp054,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071626,cemA,BI108_pgp053,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071627,orf14,BI108_pgp052,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071628,trnG-TCC,BI108_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071629,ycf4,BI108_pgp051,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20170210,-
+1896963,29071630,petL,BI108_pgp050,-,-,-,-,cytochrome b6-f complex subunit 6,protein-coding,-,-,-,-,20170210,-
+1896963,29071631,psaL,BI108_pgp049,-,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,-,20170210,-
+1896963,29071632,trnT-TGT,BI108_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071633,orf65,BI108_pgp048,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071634,rpl28,BI108_pgp047,-,-,-,-,ribosomal protein L28,protein-coding,-,-,-,-,20170210,-
+1896963,29071635,trxA,BI108_pgp046,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20170210,-
+1896963,29071636,rbcL,BI108_pgp045,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170210,-
+1896963,29071637,rbcS,BI108_pgp044,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20170210,-
+1896963,29071638,cbbX,BI108_pgp043,-,-,-,-,CfxQ-like protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071639,trnC-GCA,BI108_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071640,trnL-TAA,BI108_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071641,ycf34,BI108_pgp042,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170210,-
+1896963,29071642,ilvH,BI108_pgp041,-,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071643,infC,BI108_pgp040,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,-,20170210,-
+1896963,29071644,rps4,BI108_pgp039,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170210,-
+1896963,29071645,orf450,BI108_pgp038,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071646,trnR-CCG,BI108_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071647,orf83,BI108_pgp037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071648,apcF,BI108_pgp036,-,-,-,-,allophycocyanin beta-18 subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071649,ycf20,BI108_pgp035,-,-,-,-,hypothetical chloroplast RF20,protein-coding,-,-,-,-,20170210,-
+1896963,29071650,cpcG,BI108_pgp034,-,-,-,-,phycobilisome rod-core linker polypeptide,protein-coding,-,-,-,-,20170210,-
+1896963,29071651,nblA,BI108_pgp033,-,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071652,cpeB,BI108_pgp032,-,-,-,-,phycoerythrin beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071653,cpeA,BI108_pgp031,-,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071654,ccsA,BI108_pgp030,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071655,psaK,BI108_pgp029,-,-,-,-,photosystem I reaction center subunit X,protein-coding,-,-,-,-,20170210,-
+1896963,29071656,accA,BI108_pgp028,-,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit alpha,protein-coding,-,-,-,-,20170210,-
+1896963,29071657,ycf22,BI108_pgp027,-,-,-,-,hypothetical chloroplast RF22,protein-coding,-,-,-,-,20170210,-
+1896963,29071658,ycf23,BI108_pgp026,-,-,-,-,hypothetical chloroplast RF23,protein-coding,-,-,-,-,20170210,-
+1896963,29071659,psaC,BI108_pgp025,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170210,-
+1896963,29071660,gltB,BI108_pgp024,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,-,20170210,-
+1896963,29071661,rpoZ,BI108_pgp023,-,-,-,-,putative DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,-,20170210,-
+1896963,29071662,cpcB,BI108_pgp022,-,-,-,-,C-phycocyanin beta chain,protein-coding,-,-,-,-,20170210,-
+1896963,29071663,cpcA,BI108_pgp021,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071664,pgmA,BI108_pgp020,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,-,20170210,-
+1896963,29071665,ycf21,BI108_pgp019,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20170210,-
+1896963,29071666,secA,BI108_pgp018,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20170210,-
+1896963,29071667,trnE-TTC,BI108_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071668,trpA,BI108_pgp017,-,-,-,-,tryptophane synthase alpha subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071669,trnK-TTT,BI108_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071670,ycf12,BI108_pgp016,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071671,ftrB,BI108_pgp015,-,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071672,psaI,BI108_pgp014,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20170210,-
+1896963,29071673,psbJ,BI108_pgp013,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20170908,-
+1896963,29071674,psbL,BI108_pgp012,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170210,-
+1896963,29071675,psbF,BI108_pgp011,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20170908,-
+1896963,29071676,psbE,BI108_pgp010,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+1896963,29071677,ycf63,BI108_pgp009,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170210,-
+1896963,29071678,trnV-TAC,BI108_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071679,trnR-TCT,BI108_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170127,-
+1896963,29071680,chlI,BI108_pgp008,-,-,-,-,protochlorophyllide reductase magnesium chelatase subunit,protein-coding,-,-,-,-,20170210,-
+1896963,29071681,rps6,BI108_pgp001,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20170210,-
+1896963,29071682,psaM,BI108_pgp007,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,-,20170908,-
