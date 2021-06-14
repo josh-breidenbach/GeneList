@@ -1,0 +1,94 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+299110,19522558,rps11,FL48_p62,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+299110,19522559,rps4,FL48_p61,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160827,-
+299110,19522561,psaM,FL48_p60,-,-,-,-,PSI M-polypeptide,protein-coding,-,-,-,-,20150711,-
+299110,19522562,ycf12,FL48_p59,-,-,-,-,photosystem II reaction center protein,protein-coding,-,-,-,-,20160827,-
+299110,19522563,psbK,FL48_p58,-,-,-,-,photosystem II 3.9 kDa protein,protein-coding,-,-,-,-,20160827,-
+299110,19522566,psbB,FL48_p57,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+299110,19522567,psbT,FL48_p56,-,-,-,-,photosystem II T protein,protein-coding,-,-,-,-,20150626,-
+299110,19522569,chlI,FL48_p55,ccsA,-,-,-,chlorophyll biosynthesis,protein-coding,-,-,-,-,20160827,-
+299110,19522570,psbD,FL48_p54,-,-,-,-,photosystem II core 34 kDa protein,protein-coding,-,-,-,-,20160827,-
+299110,19522571,mat2,FL48_p53,-,-,-,-,maturase,protein-coding,-,-,-,-,20160924,-
+299110,19522572,psbC,FL48_p52,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+299110,19522573,ycf13,FL48_p51,-,-,-,-,ycf13,protein-coding,-,-,-,-,20160827,-
+299110,19522574,rpl20,FL48_p50,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160827,-
+299110,19522575,rps12,FL48_p49,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+299110,19522576,rps7,FL48_p48,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+299110,19522577,tufA,FL48_p47,-,-,-,-,translation elongation factor EF-Tu,protein-coding,-,-,-,-,20160827,-
+299110,19522578,ycf4,FL48_p46,-,-,-,-,polar transcribed with TufA,protein-coding,-,-,-,polar transcribed with TufA|photosystem I assembly protein ycf4,20160827,-
+299110,19522581,psbI,FL48_p45,-,-,-,-,photosystem II I polypeptide,protein-coding,-,-,-,-,20150626,-
+299110,19522583,petG,FL48_p44,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20160827,-
+299110,19522585,psaA,FL48_p43,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+299110,19522586,psaB,FL48_p42,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160325,-
+299110,19522587,psbE,FL48_p41,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20160827,-
+299110,19522588,psbF,FL48_p40,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20150711,-
+299110,19522589,psbL,FL48_p39,-,-,-,-,photosystem II L protein,protein-coding,-,-,-,-,20150626,-
+299110,19522590,psbJ,FL48_p38,-,-,-,-,photosystem II J protein,protein-coding,-,-,-,-,20150626,-
+299110,19522591,rpl23,FL48_p37,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160827,-
+299110,19522592,rpl2,FL48_p36,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160827,-
+299110,19522593,rps19,FL48_p35,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+299110,19522594,rpl22,FL48_p34,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160827,-
+299110,19522595,rps3,FL48_p33,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160827,-
+299110,19522596,roaA,FL48_p31,-,-,-,-,RoaA,protein-coding,-,-,-,-,20160827,-
+299110,19522597,rpl16,FL48_p30,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+299110,19522598,rpl14,FL48_p29,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+299110,19522599,rpl5,FL48_p28,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160827,-
+299110,19522600,rps8,FL48_p27,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+299110,19522601,rpl36,FL48_p26,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+299110,19522603,rps14,FL48_p25,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160827,-
+299110,19522606,rps2,FL48_p24,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+299110,19522607,atpI,FL48_p23,-,-,-,-,ATPase subunit IV,protein-coding,-,-,-,-,20150626,-
+299110,19522608,atpH,FL48_p22,-,-,-,-,ATPase subunit III,protein-coding,-,-,-,-,20150626,-
+299110,19522609,atpF,FL48_p21,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,-,20160827,-
+299110,19522610,atpA,FL48_p20,-,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,-,20160827,-
+299110,19522611,rps18,FL48_p19,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160827,-
+299110,19522612,psaJ,FL48_p18,-,-,-,-,photosystem I 5 kDa protein,protein-coding,-,-,-,-,20160827,-
+299110,19522615,psbZ,FL48_p16,ycf9,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160827,-
+299110,19522616,rpl12,FL48_p15,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160827,-
+299110,19522617,rps9,FL48_p14,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20150626,-
+299110,19522618,psaC,FL48_p13,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20160827,-
+299110,19522619,rpl32,FL48_p12,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160827,-
+299110,19522620,rbcL,FL48_p11,-,-,-,-,RuBisC/O large subunit,protein-coding,-,-,-,"RuBisC/O large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20150626,-
+299110,19522621,atpE,FL48_p10,-,-,-,-,ATPase epsilon subunit,protein-coding,-,-,-,-,20150626,-
+299110,19522622,atpB,FL48_p09,-,-,-,-,ATPase beta subunit,protein-coding,-,-,-,-,20160827,-
+299110,19522623,petB,FL48_p08,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+299110,19522624,psbN,FL48_p07,-,-,-,-,photosystem II N protein,protein-coding,-,-,-,-,20160827,-
+299110,19522625,psbH,FL48_p06,-,-,-,-,photosystem II 10 kDa protein,protein-coding,-,-,-,-,20150626,-
+299110,19522634,rpoC2,FL48_p05,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160827,-
+299110,19522635,rpoC1,FL48_p04,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160827,-
+299110,19522636,rpoB,FL48_p03,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20150626,-
+299110,19522645,psbA,FL48_p02,-,-,-,-,photosystem II core 32 kDaprotein,protein-coding,-,-,-,-,20160827,-
+299110,19522646,ycf65,FL48_p01,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,-,20160325,-
+299110,19590099,trnL,FL48_t01,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590100,FL48_p63,FL48_p63,-,-,-,-,maturase,protein-coding,-,-,-,-,20150626,-
+299110,19590101,trnR,FL48_t02,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590102,trnT,FL48_t03,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590103,trnG,FL48_t04,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590104,trnL,FL48_t05,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590105,trnQ,FL48_t06,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590106,trnS,FL48_t07,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590107,trnD,FL48_t08,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590108,trnK,FL48_t09,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590109,FL48_p32,FL48_p32,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+299110,19590110,trnM,FL48_t10,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590111,trnF,FL48_t11,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590112,trnC,FL48_t12,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590113,trnP,FL48_t13,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590114,trnS,FL48_t14,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590115,FL48_p17,FL48_p17,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+299110,19590116,rrn5,FL48_r03,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140610,-
+299110,19590117,rrn23,FL48_r02,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140610,-
+299110,19590118,trnA,FL48_t15,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590119,trnI,FL48_t16,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590120,rrn16,FL48_r01,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140610,-
+299110,19590121,trnR,FL48_t17,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590122,trnN,FL48_t18,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590123,trnV,FL48_t19,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590124,trnH,FL48_t20,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590125,trnM,FL48_t21,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590126,trnW,FL48_t22,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590127,trnE,FL48_t23,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590128,trnG,FL48_t24,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590129,trnM,FL48_t25,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590130,trnY,FL48_t26,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-
+299110,19590131,trnL,FL48_t27,-,-,-,-,tRNA,tRNA,-,-,-,-,20140610,-

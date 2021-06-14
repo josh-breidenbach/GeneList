@@ -1,0 +1,944 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+243161,1245517,TC_RS04725,TC_RS04725,TCA05|TC_A05,-,-,-,Virulence plasmid protein pGP4-D,protein-coding,-,-,-,Virulence plasmid protein pGP4-D,20200225,-
+243161,1245518,TC_RS04730,TC_RS04730,TCA06|TC_A06,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200225,-
+243161,1245519,TC_RS04710,TC_RS04710,TCA03|TC_A03,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210207,-
+243161,1245520,pgp3,TC_RS04720,TCA04|TC_A04,-,-,-,virulence factor Pgp3,protein-coding,-,-,-,virulence factor Pgp3,20210207,-
+243161,1245521,TC_RS04705,TC_RS04705,TCA02|TC_A02,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20200225,-
+243161,1245522,TC_RS04700,TC_RS04700,TCA01|TC_A01,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210207,-
+243161,1245523,TC_RS04735,TC_RS04735,TCA07|TC_A07,-,-,-,CT583 family protein,protein-coding,-,-,-,CT583 family protein,20201025,-
+243161,1245524,hemB,TC_RS00005,TC0001|TC_0001,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20210207,-
+243161,1245525,TC_RS00010,TC_RS00010,TC0002|TC_0002,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,20210207,-
+243161,1245526,TC_RS00015,TC_RS00015,TC0003|TC_0003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245527,TC_RS00020,TC_RS00020,TC0004|TC_0004,-,-,-,GreA/GreB family elongation factor,protein-coding,-,-,-,GreA/GreB family elongation factor,20210207,-
+243161,1245528,TC_RS00025,TC_RS00025,TC_t01|tRNA-Ala-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245529,TC_RS00030,TC_RS00030,TC0005|TC_0005,-,-,-,aromatic amino acid transaminase,protein-coding,-,-,-,aromatic amino acid transaminase,20210207,-
+243161,1245530,TC_RS00035,TC_RS00035,TC0006|TC_0006,-,-,-,PRK14872 family protein,protein-coding,-,-,-,PRK14872 family protein,20210207,-
+243161,1245531,recB,TC_RS00040,TC0007|TC_0007,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20200410,-
+243161,1245532,TC_RS00045,TC_RS00045,TC0008|TC_0008,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20210207,-
+243161,1245533,TC_RS00050,TC_RS00050,TC0009|TC_0009,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210207,-
+243161,1245534,TC_RS00055,TC_RS00055,TC0010|TC_0010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245536,topA,TC_RS00065,TC0012|TC_0012,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210207,-
+243161,1245537,dusB,TC_RS00070,TC0013|TC_0013,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20210207,-
+243161,1245538,TC_RS00075,TC_RS00075,TC0014|TC_0014,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20210207,-
+243161,1245539,TC_RS00080,TC_RS00080,TC0015|TC_0015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245540,TC_RS00085,TC_RS00085,TC0016|TC_0016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245541,TC_RS00090,TC_RS00090,TC0017|TC_0017,-,-,-,toxin-antitoxin system YwqK family antitoxin,protein-coding,-,-,-,toxin-antitoxin system YwqK family antitoxin,20210207,-
+243161,1245542,TC_RS00095,TC_RS00095,TC0018|TC_0018,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20210207,-
+243161,1245543,recA,TC_RS00100,TC0019|TC_0019,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210207,-
+243161,1245544,TC_RS00105,TC_RS00105,TC0020|TC_0020,-,-,-,DUF1347 family protein,protein-coding,-,-,-,DUF1347 family protein,20210207,-
+243161,1245545,recD,TC_RS00110,TC0021|TC_0021,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20210207,-
+243161,1245546,TC_RS00115,TC_RS00115,TC0022|TC_0022,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245547,lptB,TC_RS00120,TC0023|TC_0023,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20210207,-
+243161,1245548,TC_RS00125,TC_RS00125,TC0024|TC_0024,-,-,-,DUF1137 domain-containing protein,protein-coding,-,-,-,DUF1137 domain-containing protein,20210207,-
+243161,1245549,kdsA,TC_RS00130,TC0025|TC_0025,-,-,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20210207,-
+243161,1245551,TC_RS00135,TC_RS00135,TC_t02|tRNA-Arg-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245552,TC_RS00140,TC_RS00140,TC0027|TC_0027,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,1245553,TC_RS00145,TC_RS00145,TC0028|TC_0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245554,TC_RS00150,TC_RS00150,TC0029|TC_0029,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210424,-
+243161,1245555,TC_RS00155,TC_RS00155,TC0030|TC_0030,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20210207,-
+243161,1245556,TC_RS00160,TC_RS00160,TC0031|TC_0031,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210207,-
+243161,1245557,TC_RS00165,TC_RS00165,TC0032|TC_0032,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20210207,-
+243161,1245558,TC_RS00170,TC_RS00170,TC0033|TC_0033,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20210207,-
+243161,1245559,scc4,TC_RS00175,TC0034|TC_0034,-,-,-,CesT family type III secretion system chaperone Scc4,protein-coding,-,-,-,CesT family type III secretion system chaperone Scc4,20210207,-
+243161,1245560,sctD,TC_RS00180,TC0035|TC_0035,-,-,-,type III secretion system inner membrane ring subunit SctD,protein-coding,-,-,-,type III secretion system inner membrane ring subunit SctD,20210207,-
+243161,1245561,TC_RS00185,TC_RS00185,TC0036|TC_0036,-,-,-,DUF5398 domain-containing protein,protein-coding,-,-,-,DUF5398 domain-containing protein,20210207,-
+243161,1245562,TC_RS00190,TC_RS00190,TC0037|TC_0037,-,-,-,DUF5407 family protein,protein-coding,-,-,-,DUF5407 family protein,20210207,-
+243161,1245563,TC_RS00195,TC_RS00195,TC0038|TC_0038,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245564,TC_RS00200,TC_RS00200,TC0039|TC_0039,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245565,cdsN,TC_RS00205,TC0040|TC_0040,-,-,-,SctN family type III secretion system ATPase CdsN,protein-coding,-,-,-,SctN family type III secretion system ATPase CdsN,20210207,-
+243161,1245566,cdsO,TC_RS00210,TC0041|TC_0041,-,-,-,type III secretion system protein CdsO,protein-coding,-,-,-,type III secretion system protein CdsO,20210207,-
+243161,1245567,TC_RS00215,TC_RS00215,TC0042|TC_0042,-,-,-,DUF5421 family protein,protein-coding,-,-,-,DUF5421 family protein,20210207,-
+243161,1245568,sctQ,TC_RS00220,TC0043|TC_0043,-,-,-,type III secretion system cytoplasmic ring protein SctQ,protein-coding,-,-,-,type III secretion system cytoplasmic ring protein SctQ,20210207,-
+243161,1245569,TC_RS00225,TC_RS00225,TC0044|TC_0044,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20210207,-
+243161,1245571,TC_RS00235,TC_RS00235,TC_t03|tRNA-Thr-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245572,TC_RS00240,TC_RS00240,TC0046|TC_0046,-,-,-,protein arginine kinase,protein-coding,-,-,-,protein arginine kinase,20210207,-
+243161,1245573,TC_RS00245,TC_RS00245,TC0047|TC_0047,-,-,-,UvrB/UvrC motif-containing protein,protein-coding,-,-,-,UvrB/UvrC motif-containing protein,20210207,-
+243161,1245574,TC_RS00250,TC_RS00250,TC_t04|tRNA-Lys-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245575,TC_RS00255,TC_RS00255,TC_t05|tRNA-Glu-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245576,frr,TC_RS00260,TC0048|TC_0048,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210207,-
+243161,1245577,TC_RS00265,TC_RS00265,TC0049|TC_0049,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210207,-
+243161,1245578,TC_RS00270,TC_RS00270,TC0050|TC_0050,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210207,-
+243161,1245579,rpsB,TC_RS00275,TC0051|TC_0051,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210207,-
+243161,1245580,TC_RS00280,TC_RS00280,TC_t06|tRNA-Gly-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245581,TC_RS00285,TC_RS00285,TC0052|TC_0052,-,-,-,porin,protein-coding,-,-,-,porin,20200410,-
+243161,1245583,TC_RS00290,TC_RS00290,TC0054|TC_0054,-,-,-,peptidase,protein-coding,-,-,-,peptidase,20210207,-
+243161,1245584,TC_RS00295,TC_RS00295,TC0055|TC_0055,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210207,-
+243161,1245585,sufB,TC_RS00300,TC0056|TC_0056,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20210207,-
+243161,1245586,sufC,TC_RS00305,TC0057|TC_0057,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20210207,-
+243161,1245587,sufD,TC_RS00310,TC0058|TC_0058,-,-,-,Fe-S cluster assembly protein SufD,protein-coding,-,-,-,Fe-S cluster assembly protein SufD,20210207,-
+243161,1245588,TC_RS00315,TC_RS00315,TC0059|TC_0059,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210207,-
+243161,1245589,TC_RS00320,TC_RS00320,TC0060|TC_0060,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210207,-
+243161,1245590,TC_RS00325,TC_RS00325,TC0061|TC_0061,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245591,TC_RS00330,TC_RS00330,TC0062|TC_0062,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245592,TC_RS00335,TC_RS00335,TC0063|TC_0063,-,-,-,TIGR00153 family protein,protein-coding,-,-,-,TIGR00153 family protein,20210207,-
+243161,1245593,TC_RS00340,TC_RS00340,TC0064|TC_0064,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20210207,-
+243161,1245594,TC_RS00345,TC_RS00345,TC0065|TC_0065,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210207,-
+243161,1245595,TC_RS00350,TC_RS00350,TC0066|TC_0066,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245596,TC_RS00355,TC_RS00355,TC0067|TC_0067,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245597,TC_RS00360,TC_RS00360,TC0068|TC_0068,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245598,TC_RS00365,TC_RS00365,TC0069|TC_0069,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210207,-
+243161,1245599,mnmE,TC_RS00370,TC0070|TC_0070,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210207,-
+243161,1245601,TC_RS00380,TC_RS00380,TC0072|TC_0072,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20210207,-
+243161,1245602,TC_RS00385,TC_RS00385,TC0073|TC_0073,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245603,secA,TC_RS00390,TC0074|TC_0074,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210207,-
+243161,1245604,TC_RS00395,TC_RS00395,TC0075|TC_0075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245605,der,TC_RS00400,TC0076|TC_0076,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210207,-
+243161,1245606,TC_RS00405,TC_RS00405,TC0077|TC_0077,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210207,-
+243161,1245607,clpX,TC_RS00410,TC0078|TC_0078,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20210207,-
+243161,1245608,TC_RS00415,TC_RS00415,TC0079|TC_0079,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210207,-
+243161,1245609,TC_RS00420,TC_RS00420,TC0080|TC_0080,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210207,-
+243161,1245610,TC_RS00425,TC_RS00425,TC_t07|tRNA-Gly-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245611,TC_RS00430,TC_RS00430,TC0081|TC_0081,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20210207,-
+243161,1245612,TC_RS00435,TC_RS00435,TC0082|TC_0082,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20210207,-
+243161,1245613,TC_RS00440,TC_RS00440,TC0083|TC_0083,-,-,-,phosphoenolpyruvate carboxykinase (GTP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (GTP),20210207,-
+243161,1245614,TC_RS00445,TC_RS00445,TC0084|TC_0084,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245615,TC_RS00450,TC_RS00450,TC0085|TC_0085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245616,TC_RS00455,TC_RS00455,TC0086|TC_0086,-,-,-,outer membrane protein B,protein-coding,-,-,-,outer membrane protein B,20210207,-
+243161,1245617,TC_RS00460,TC_RS00460,TC0087|TC_0087,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20210207,-
+243161,1245618,TC_RS00465,TC_RS00465,TC0088|TC_0088,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210207,-
+243161,1245619,TC_RS00470,TC_RS00470,TC0089|TC_0089,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245620,TC_RS00475,TC_RS00475,TC0090|TC_0090,-,-,-,type III secretion system ATPase,protein-coding,-,-,-,type III secretion system ATPase,20210207,-
+243161,1245621,TC_RS00480,TC_RS00480,TC0091|TC_0091,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245622,TC_RS00485,TC_RS00485,TC0092|TC_0092,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20210207,-
+243161,1245623,TC_RS00490,TC_RS00490,TC0093|TC_0093,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20210207,-
+243161,1245624,TC_RS00495,TC_RS00495,TC0094|TC_0094,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210207,-
+243161,1245625,TC_RS00500,TC_RS00500,TC0095|TC_0095,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20210207,-
+243161,1245626,TC_RS00505,TC_RS00505,TC0096|TC_0096,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20210207,-
+243161,1245627,TC_RS00510,TC_RS00510,TC0097|TC_0097,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245628,TC_RS00515,TC_RS00515,TC0098|TC_0098,-,-,-,biotin--protein ligase,protein-coding,-,-,-,biotin--protein ligase,20210207,-
+243161,1245629,TC_RS00520,TC_RS00520,TC0099|TC_0099,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20210207,-
+243161,1245630,cadA,TC_RS00525,TC0100|TC_0100,-,-,-,cadmium-translocating P-type ATPase,protein-coding,-,-,-,cadmium-translocating P-type ATPase,20210207,-
+243161,1245631,TC_RS00530,TC_RS00530,TC0101|TC_0101,-,-,-,VIT1/CCC1 transporter family protein,protein-coding,-,-,-,VIT1/CCC1 transporter family protein,20210207,-
+243161,1245632,serS,TC_RS00535,TC0102|TC_0102,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210207,-
+243161,1245633,ribD,TC_RS00540,TC0103|TC_0103,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20210207,-
+243161,1245634,TC_RS00545,TC_RS00545,TC0104|TC_0104,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",protein-coding,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",20210207,-
+243161,1245635,TC_RS00550,TC_RS00550,TC0105|TC_0105,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20210207,-
+243161,1245636,TC_RS00555,TC_RS00555,TC0106|TC_0106,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245637,TC_RS00560,TC_RS00560,TC0107|TC_0107,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245638,TC_RS00565,TC_RS00565,TC0108|TC_0108,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20210207,-
+243161,1245639,TC_RS00570,TC_RS00570,TC0109|TC_0109,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20210207,-
+243161,1245640,TC_RS00575,TC_RS00575,TC0110|TC_0110,-,-,-,SET domain-containing protein-lysine N-methyltransferase,protein-coding,-,-,-,SET domain-containing protein-lysine N-methyltransferase,20210207,-
+243161,1245641,TC_RS00580,TC_RS00580,TC0111|TC_0111,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210207,-
+243161,1245642,TC_RS00585,TC_RS00585,TC0112|TC_0112,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210207,-
+243161,1245643,TC_RS00590,TC_RS00590,TC_t08|tRNA-His-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245645,TC_RS00600,TC_RS00600,TC_r01|TCrrnaB16S,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,1245646,TC_RS00605,TC_RS00605,TC_r02|TCrrnaB23S,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,1245648,rrf,TC_RS00610,TC_r03|TCrrnaB5S,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,1245650,nqrF,TC_RS00620,TC0116|TC_0116,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,20210207,-
+243161,1245651,yajC,TC_RS00625,TC0117|TC_0117,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20210207,-
+243161,1245652,rlmD,TC_RS00630,TC0118|TC_0118,-,-,-,pseudo,pseudo,-,-,-,-,20201025,-
+243161,1245653,TC_RS00635,TC_RS00635,TC0119|TC_0119,-,-,-,histone H1-like protein HC1,protein-coding,-,-,-,histone H1-like protein HC1,20210207,-
+243161,1245654,TC_RS00640,TC_RS00640,TC0120|TC_0120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245655,TC_RS00645,TC_RS00645,TC0121|TC_0121,-,-,-,protoporphyrinogen oxidase,protein-coding,-,-,-,protoporphyrinogen oxidase,20210207,-
+243161,1245656,hemN,TC_RS00650,TC0122|TC_0122,-,-,-,oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,oxygen-independent coproporphyrinogen III oxidase,20210207,-
+243161,1245657,hemE,TC_RS00655,TC0123|TC_0123,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20210207,-
+243161,1245658,mfd,TC_RS00660,TC0124|TC_0124,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210207,-
+243161,1245659,alaS,TC_RS00665,TC0125|TC_0125,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210207,-
+243161,1245661,TC_RS00675,TC_RS00675,TC_r04|TCrrnaA16S,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,1245662,TC_RS00680,TC_RS00680,TC_r05|TCrrnaA23S,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,1245664,TC_RS00690,TC_RS00690,TC0131|TC_0131,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210207,-
+243161,1245665,TC_RS00695,TC_RS00695,TC0132|TC_0132,-,-,-,AMP nucleosidase,protein-coding,-,-,-,AMP nucleosidase,20210207,-
+243161,1245666,efp,TC_RS00700,TC0133|TC_0133,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210207,-
+243161,1245667,TC_RS00705,TC_RS00705,TC0134|TC_0134,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245668,TC_RS00710,TC_RS00710,TC0135|TC_0135,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210207,-
+243161,1245669,TC_RS00715,TC_RS00715,TC0136|TC_0136,-,-,-,molecular chaperone GroEL,protein-coding,-,-,-,molecular chaperone GroEL,20210207,-
+243161,1245670,TC_RS00720,TC_RS00720,TC_t09|tRNA-Cys-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245671,TC_RS00725,TC_RS00725,TC0137|TC_0137,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210207,-
+243161,1245672,TC_RS00730,TC_RS00730,TC0138|TC_0138,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20201025,-
+243161,1245673,TC_RS00735,TC_RS00735,TC0139|TC_0139,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210207,-
+243161,1245674,TC_RS00740,TC_RS00740,TC0140|TC_0140,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210207,-
+243161,1245675,ftsW,TC_RS00745,TC0141|TC_0141,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20210207,-
+243161,1245676,murG,TC_RS00750,TC0142|TC_0142,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20210207,-
+243161,1245677,TC_RS00755,TC_RS00755,TC0143|TC_0143,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,protein-coding,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,20210207,-
+243161,1245678,TC_RS00760,TC_RS00760,TC0144|TC_0144,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20210207,-
+243161,1245679,TC_RS00765,TC_RS00765,TC0145|TC_0145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245680,TC_RS00770,TC_RS00770,TC0146|TC_0146,-,-,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20210207,-
+243161,1245681,miaA,TC_RS00775,TC0147|TC_0147,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210207,-
+243161,1245682,TC_RS00780,TC_RS00780,TC0148|TC_0148,-,-,-,dehypoxanthine futalosine cyclase,protein-coding,-,-,-,dehypoxanthine futalosine cyclase,20210207,-
+243161,1245683,TC_RS00785,TC_RS00785,TC0149|TC_0149,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245684,rsfS,TC_RS00790,TC0150|TC_0150,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20210207,-
+243161,1245685,fabF,TC_RS00795,TC0151|TC_0151,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20210207,-
+243161,1245686,TC_RS00800,TC_RS00800,TC0152|TC_0152,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20210207,-
+243161,1245687,TC_RS00805,TC_RS00805,TC0153|TC_0153,-,-,-,inorganic pyrophosphatase,protein-coding,-,-,-,inorganic pyrophosphatase,20210207,-
+243161,1245688,TC_RS00810,TC_RS00810,TC0154|TC_0154,-,-,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20210207,-
+243161,1245689,TC_RS00815,TC_RS00815,TC0155|TC_0155,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,inositol monophosphatase family protein,20210207,-
+243161,1245690,TC_RS00820,TC_RS00820,TC0156|TC_0156,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210207,-
+243161,1245691,TC_RS00825,TC_RS00825,TC0157|TC_0157,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210207,-
+243161,1245692,TC_RS00830,TC_RS00830,TC0158|TC_0158,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20210207,-
+243161,1245693,priA,TC_RS00835,TC0159|TC_0159,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210207,-
+243161,1245694,TC_RS00840,TC_RS00840,TC0160|TC_0160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245695,TC_RS00845,TC_RS00845,TC0161|TC_0161,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210207,-
+243161,1245697,lysS,TC_RS00850,TC0163|TC_0163,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210207,-
+243161,1245698,TC_RS00855,TC_RS00855,TC0164|TC_0164,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210207,-
+243161,1245700,TC_RS00860,TC_RS00860,TC0166|TC_0166,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210207,-
+243161,1245701,smpB,TC_RS01755,TC0348|TC_0348,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210207,-
+243161,1245702,TC_RS01760,TC_RS01760,TC0349|TC_0349,-,-,-,FAD:protein FMN transferase,protein-coding,-,-,-,FAD:protein FMN transferase,20210207,-
+243161,1245703,folD,TC_RS01765,TC0350|TC_0350,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20210207,-
+243161,1245704,mreD,TC_RS01770,TC0351|TC_0351,-,-,-,rod shape-determining protein MreD,protein-coding,-,-,-,rod shape-determining protein MreD,20210207,-
+243161,1245706,ltuB,TC_RS01775,TC0353|TC_0353,-,-,-,late transcription unit protein LtuB,protein-coding,-,-,-,late transcription unit protein LtuB,20210207,-
+243161,1245708,TC_RS01780,TC_RS01780,TC0355|TC_0355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245709,TC_RS01785,TC_RS01785,TC0356|TC_0356,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245710,TC_RS01790,TC_RS01790,TC0357|TC_0357,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20210207,-
+243161,1245712,TC_RS01795,TC_RS01795,TC0359|TC_0359,-,-,-,menaquinone biosynthesis decarboxylase,protein-coding,-,-,-,menaquinone biosynthesis decarboxylase,20210207,-
+243161,1245714,TC_RS01800,TC_RS01800,TC0361|TC_0361,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210207,-
+243161,1245715,TC_RS01805,TC_RS01805,TC0362|TC_0362,-,-,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20210207,-
+243161,1245716,TC_RS01810,TC_RS01810,TC0363|TC_0363,-,-,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20210207,-
+243161,1245717,sctW,TC_RS01815,TC0364|TC_0364,-,-,-,type III secretion system gatekeeper subunit SctW,protein-coding,-,-,-,type III secretion system gatekeeper subunit SctW,20210207,-
+243161,1245718,cdsV,TC_RS01820,TC0365|TC_0365,-,-,-,SctV family type III secretion system export apparatus subunit CdsV,protein-coding,-,-,-,SctV family type III secretion system export apparatus subunit CdsV,20210207,-
+243161,1245719,cdsU,TC_RS01825,TC0366|TC_0366,-,-,-,SctU family type III secretion system export apparatus subunit CdsU,protein-coding,-,-,-,SctU family type III secretion system export apparatus subunit CdsU,20210207,-
+243161,1245720,ychF,TC_RS01830,TC0367|TC_0367,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210207,-
+243161,1245721,TC_RS01835,TC_RS01835,TC0368|TC_0368,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20210207,-
+243161,1245722,rbfA,TC_RS01845,TC0370|TC_0370,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210207,-
+243161,1245723,infB,TC_RS01850,TC0371|TC_0371,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210207,-
+243161,1245724,nusA,TC_RS01855,TC0372|TC_0372,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210207,-
+243161,1245725,rpsA,TC_RS01860,TC0373|TC_0373,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210207,-
+243161,1245727,trxB,TC_RS01865,TC0375|TC_0375,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210207,-
+243161,1245728,TC_RS01870,TC_RS01870,TC0376|TC_0376,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20210207,-
+243161,1245730,TC_RS01880,TC_RS01880,TC0378|TC_0378,-,-,-,FliO/MopB family protein,protein-coding,-,-,-,FliO/MopB family protein,20210207,-
+243161,1245731,TC_RS01885,TC_RS01885,TC0379|TC_0379,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210207,-
+243161,1245732,TC_RS01890,TC_RS01890,TC0380|TC_0380,-,-,-,enoyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,enoyl-[acyl-carrier-protein] reductase,20210207,-
+243161,1245734,TC_RS01900,TC_RS01900,TC0382|TC_0382,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210207,-
+243161,1245735,mutY,TC_RS01905,TC0383|TC_0383,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20210207,-
+243161,1245736,TC_RS01910,TC_RS01910,TC0384|TC_0384,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210207,-
+243161,1245737,TC_RS01915,TC_RS01915,TC0385|TC_0385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245738,groL,TC_RS01920,TC0386|TC_0386,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210207,-
+243161,1245739,TC_RS01925,TC_RS01925,TC0387|TC_0387,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210207,-
+243161,1245740,pepF,TC_RS01930,TC0388|TC_0388,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210207,-
+243161,1245741,TC_RS01935,TC_RS01935,TC0389|TC_0389,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210207,-
+243161,1245742,TC_RS01940,TC_RS01940,TC0390|TC_0390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245743,incD,TC_RS01945,TC0391|TC_0391,-,-,-,inclusion membrane protein IncD,protein-coding,-,-,-,inclusion membrane protein IncD,20210207,-
+243161,1245744,incE,TC_RS01950,TC0392|TC_0392,-,-,-,inclusion membrane protein IncE,protein-coding,-,-,-,inclusion membrane protein IncE,20210207,-
+243161,1245745,incF,TC_RS01955,TC0393|TC_0393,-,-,-,inclusion membrane protein IncF,protein-coding,-,-,-,inclusion membrane protein IncF,20210207,-
+243161,1245746,TC_RS01960,TC_RS01960,TC0394|TC_0394,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245748,TC_RS01965,TC_RS01965,TC0396|TC_0396,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210417,-
+243161,1245749,rpe,TC_RS01975,TC0397|TC_0397,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210207,-
+243161,1245750,TC_RS01980,TC_RS01980,TC0398|TC_0398,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210207,-
+243161,1245751,accB,TC_RS01985,TC0399|TC_0399,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20210207,-
+243161,1245752,accC,TC_RS01990,TC0400|TC_0400,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20210207,-
+243161,1245753,rplM,TC_RS01995,TC0401|TC_0401,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210207,-
+243161,1245754,rpsI,TC_RS02000,TC0402|TC_0402,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210207,-
+243161,1245755,TC_RS02005,TC_RS02005,TC0403|TC_0403,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20210207,-
+243161,1245756,TC_RS02010,TC_RS02010,TC0404|TC_0404,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20210207,-
+243161,1245757,TC_RS02015,TC_RS02015,TC0405|TC_0405,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20210207,-
+243161,1245758,TC_RS02020,TC_RS02020,TC0406|TC_0406,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20210207,-
+243161,1245759,TC_RS02025,TC_RS02025,TC0408|TC_0408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,1245760,TC_RS02030,TC_RS02030,TC0409|TC_0409,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210207,-
+243161,1245761,TC_RS02035,TC_RS02035,TC0410|TC_0410,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210207,-
+243161,1245762,TC_RS02040,TC_RS02040,TC0411|TC_0411,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245763,TC_RS02045,TC_RS02045,TC0412|TC_0412,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245764,TC_RS02050,TC_RS02050,TC0413|TC_0413,-,-,-,hydrolase,protein-coding,-,-,-,hydrolase,20210207,-
+243161,1245765,TC_RS02055,TC_RS02055,TC0414|TC_0414,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210207,-
+243161,1245766,TC_RS02060,TC_RS02060,TC0415|TC_0415,-,-,-,membrane dipeptidase,protein-coding,-,-,-,membrane dipeptidase,20210207,-
+243161,1245767,TC_RS02065,TC_RS02065,TC0416|TC_0416,-,-,-,peptide-binding protein,protein-coding,-,-,-,peptide-binding protein,20210207,-
+243161,1245768,TC_RS02070,TC_RS02070,TC0417|TC_0417,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210207,-
+243161,1245769,TC_RS02075,TC_RS02075,TC0418|TC_0418,-,-,-,SEC-C domain-containing protein,protein-coding,-,-,-,SEC-C domain-containing protein,20210207,-
+243161,1245770,TC_RS02080,TC_RS02080,TC_t16|tRNA-Thr-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245771,TC_RS02085,TC_RS02085,TC_t17|tRNA-Tyr-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245772,TC_RS02090,TC_RS02090,TC0419|TC_0419,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245773,TC_RS02095,TC_RS02095,TC0420|TC_0420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245774,TC_RS02100,TC_RS02100,TC0421|TC_0421,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245775,TC_RS02105,TC_RS02105,TC0422|TC_0422,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20210207,-
+243161,1245776,ligA,TC_RS02110,TC0423|TC_0423,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210207,-
+243161,1245777,TC_RS02115,TC_RS02115,TC0424|TC_0424,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245778,TC_RS02120,TC_RS02120,TC0425|TC_0425,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20210207,-
+243161,1245779,TC_RS02125,TC_RS02125,TC0426|TC_0426,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210207,-
+243161,1245781,rpmG,TC_RS02135,TC0428|TC_0428,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210207,-
+243161,1245782,TC_RS02140,TC_RS02140,TC0429|TC_0429,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+243161,1245783,TC_RS02145,TC_RS02145,TC0430|TC_0430,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245784,TC_RS02150,TC_RS02150,TC0431|TC_0431,-,-,-,MAC/perforin family protein,protein-coding,-,-,-,MAC/perforin family protein,20210207,-
+243161,1245785,TC_RS02155,TC_RS02155,TC0432|TC_0432,-,-,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20210207,-
+243161,1245786,TC_RS02160,TC_RS02160,TC0433|TC_0433,-,-,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20210207,-
+243161,1245787,TC_RS02165,TC_RS02165,TC0434|TC_0434,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20210207,-
+243161,1245788,TC_RS02170,TC_RS02170,TC0435|TC_0435,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20210207,-
+243161,1245789,TC_RS02175,TC_RS02175,TC0436|TC_0436,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20210207,-
+243161,1245790,TC_RS02180,TC_RS02180,TC0437|TC_0437,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20200410,-
+243161,1245791,TC_RS02185,TC_RS02185,TC0438|TC_0438,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20210207,-
+243161,1245792,TC_RS02190,TC_RS02190,TC0439|TC_0439,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20210207,-
+243161,1245793,TC_RS02195,TC_RS02195,TC0440|TC_0440,-,-,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20210207,-
+243161,1245794,TC_RS02200,TC_RS02200,TC0441|TC_0441,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245795,guaA,TC_RS02205,TC0442|TC_0442,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210207,-
+243161,1245796,TC_RS02210,TC_RS02210,TC0443|TC_0443,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20210207,-
+243161,1245797,TC_RS02215,TC_RS02215,TC0444|TC_0444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245799,TC_RS02225,TC_RS02225,TC0446|TC_0446,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210207,-
+243161,1245800,TC_RS02230,TC_RS02230,TC0447|TC_0447,-,-,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20210207,-
+243161,1245801,TC_RS02235,TC_RS02235,TC0448|TC_0448,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20210207,-
+243161,1245802,TC_RS02240,TC_RS02240,TC0449|TC_0449,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20210207,-
+243161,1245803,TC_RS02245,TC_RS02245,TC0450|TC_0450,-,-,-,vitamin K epoxide reductase family protein,protein-coding,-,-,-,vitamin K epoxide reductase family protein,20210207,-
+243161,1245804,TC_RS02250,TC_RS02250,TC0451|TC_0451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245805,TC_RS02255,TC_RS02255,TC0452|TC_0452,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245806,TC_RS02260,TC_RS02260,TC_t18|tRNA-Ile-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245807,TC_RS02265,TC_RS02265,TC_t19|tRNA-Ala-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245808,TC_RS02270,TC_RS02270,TC0453|TC_0453,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245809,kdsB,TC_RS02275,TC0454|TC_0454,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20210207,-
+243161,1245810,TC_RS02280,TC_RS02280,TC0455|TC_0455,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20210207,-
+243161,1245811,ruvX,TC_RS02285,TC0456|TC_0456,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210207,-
+243161,1245812,TC_RS02290,TC_RS02290,TC0457|TC_0457,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20210207,-
+243161,1245813,pgl,TC_RS02295,TC0458|TC_0458,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210207,-
+243161,1245814,TC_RS02300,TC_RS02300,TC0459|TC_0459,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20210207,-
+243161,1245815,TC_RS02305,TC_RS02305,TC0460|TC_0460,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210207,-
+243161,1245816,gyrA,TC_RS02310,TC0461|TC_0461,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20210207,-
+243161,1245817,gyrB,TC_RS02315,TC0462|TC_0462,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210207,-
+243161,1245818,TC_RS02320,TC_RS02320,TC0463|TC_0463,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210207,-
+243161,1245819,TC_RS02325,TC_RS02325,TC0464|TC_0464,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245820,TC_RS02330,TC_RS02330,TC0465|TC_0465,-,-,-,tRNA-guanosine(34) transglycosylase,protein-coding,-,-,-,tRNA-guanosine(34) transglycosylase,20210207,-
+243161,1245821,mgtE,TC_RS02335,TC0466|TC_0466,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210207,-
+243161,1245823,TC_RS02340,TC_RS02340,TC0468|TC_0468,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245824,TC_RS02345,TC_RS02345,TC0469|TC_0469,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245825,tsaD,TC_RS02350,TC0470|TC_0470,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210207,-
+243161,1245826,TC_RS02355,TC_RS02355,TC0471|TC_0471,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210207,-
+243161,1245827,TC_RS02360,TC_RS02360,TC0472|TC_0472,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+243161,1245828,TC_RS02365,TC_RS02365,TC0473|TC_0473,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+243161,1245829,TC_RS02370,TC_RS02370,TC0473.1|TC_0473a,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245830,TC_RS02375,TC_RS02375,TC0474|TC_0474,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245831,TC_RS02380,TC_RS02380,TC0475|TC_0475,-,-,-,DUF1186 domain-containing protein,protein-coding,-,-,-,DUF1186 domain-containing protein,20210123,-
+243161,1245832,TC_RS02385,TC_RS02385,TC0476|TC_0476,-,-,-,anion permease,protein-coding,-,-,-,anion permease,20210207,-
+243161,1245833,TC_RS02390,TC_RS02390,TC0477|TC_0477,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20210207,-
+243161,1245834,TC_RS02395,TC_RS02395,TC0478|TC_0478,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210207,-
+243161,1245835,TC_RS02400,TC_RS02400,TC0479|TC_0479,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20210207,-
+243161,1245836,TC_RS02405,TC_RS02405,TC_t20|tRNA-Met-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245837,TC_RS02410,TC_RS02410,TC_t21|tRNA-Met-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245838,waaA,TC_RS02415,TC0480|TC_0480,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20210207,-
+243161,1245839,TC_RS02420,TC_RS02420,TC0481|TC_0481,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210207,-
+243161,1245840,hemL,TC_RS02425,TC0482|TC_0482,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",protein-coding,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",20210207,-
+243161,1245841,TC_RS02430,TC_RS02430,TC0483|TC_0483,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20210207,-
+243161,1245842,TC_RS02435,TC_RS02435,TC0484|TC_0484,-,-,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20210207,-
+243161,1245843,rpiA,TC_RS02440,TC0485|TC_0485,-,-,-,ribose-5-phosphate isomerase RpiA,protein-coding,-,-,-,ribose-5-phosphate isomerase RpiA,20210207,-
+243161,1245844,TC_RS02445,TC_RS02445,TC0486|TC_0486,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245845,TC_RS02455,TC_RS02455,TC0487|TC_0487,-,-,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20210207,-
+243161,1245846,TC_RS02460,TC_RS02460,TC0488|TC_0488,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210207,-
+243161,1245847,TC_RS02465,TC_RS02465,TC0489|TC_0489,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,protein-coding,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,20210207,-
+243161,1245848,TC_RS02470,TC_RS02470,TC0490|TC_0490,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210207,-
+243161,1245849,surE,TC_RS02475,TC0491|TC_0491,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20210207,-
+243161,1245850,TC_RS02480,TC_RS02480,TC0492|TC_0492,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,4-hydroxybenzoate octaprenyltransferase,20210207,-
+243161,1245851,TC_RS02485,TC_RS02485,TC0493|TC_0493,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20210207,-
+243161,1245852,TC_RS02490,TC_RS02490,TC0494|TC_0494,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210207,-
+243161,1245853,TC_RS02495,TC_RS02495,TC_t22|tRNA-Asp-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245854,TC_RS02500,TC_RS02500,TC_t23|tRNA-Val-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245855,TC_RS02510,TC_RS02510,TC0495|TC_0495,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+243161,1245856,TC_RS02515,TC_RS02515,TC0496|TC_0496,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+243161,1245857,TC_RS02525,TC_RS02525,TC0497|TC_0497,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245858,TC_RS02530,TC_RS02530,TC0498|TC_0498,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245859,TC_RS02535,TC_RS02535,TC0499|TC_0499,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+243161,1245860,TC_RS02540,TC_RS02540,TC0500|TC_0500,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+243161,1245861,TC_RS02545,TC_RS02545,TC0501|TC_0501,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210207,-
+243161,1245862,TC_RS02550,TC_RS02550,TC0502|TC_0502,-,-,-,sodium-dependent transporter,protein-coding,-,-,-,sodium-dependent transporter,20210207,-
+243161,1245864,TC_RS02560,TC_RS02560,TC0504|TC_0504,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1245865,TC_RS02565,TC_RS02565,TC0505|TC_0505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+243161,1245866,TC_RS02570,TC_RS02570,TC0506|TC_0506,-,-,-,cyclic nucleotide-binding domain-containing protein,protein-coding,-,-,-,cyclic nucleotide-binding domain-containing protein,20210207,-
+243161,1245867,acpP,TC_RS02575,TC0507|TC_0507,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210207,-
+243161,1245868,fabG,TC_RS02580,TC0508|TC_0508,-,-,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20210207,-
+243161,1245869,fabD,TC_RS02585,TC0509|TC_0509,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20210207,-
+243161,1245870,TC_RS02590,TC_RS02590,TC0510|TC_0510,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20210207,-
+243161,1245871,recR,TC_RS02595,TC0511|TC_0511,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210207,-
+243161,1245872,bamA,TC_RS02600,TC0512|TC_0512,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20210207,-
+243161,1245873,TC_RS02605,TC_RS02605,TC0513|TC_0513,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20210207,-
+243161,1245874,lpxD,TC_RS02610,TC0514|TC_0514,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20210207,-
+243161,1245875,TC_RS02615,TC_RS02615,TC0515|TC_0515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245876,pdhA,TC_RS02620,TC0516|TC_0516,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210207,-
+243161,1245877,TC_RS02625,TC_RS02625,TC0517|TC_0517,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20210207,-
+243161,1245878,TC_RS02630,TC_RS02630,TC0518|TC_0518,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20210207,-
+243161,1245879,TC_RS02635,TC_RS02635,TC0519|TC_0519,-,-,-,glycogen/starch/alpha-glucan phosphorylase,protein-coding,-,-,-,glycogen/starch/alpha-glucan phosphorylase,20210207,-
+243161,1245880,TC_RS02640,TC_RS02640,TC0520|TC_0520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245881,dnaA,TC_RS02645,TC0521|TC_0521,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210207,-
+243161,1245882,yidC,TC_RS02650,TC0522|TC_0522,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210207,-
+243161,1245883,TC_RS02655,TC_RS02655,TC0523|TC_0523,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210207,-
+243161,1245884,TC_RS02660,TC_RS02660,TC0524|TC_0524,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245885,TC_RS02665,TC_RS02665,TC0525|TC_0525,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20210207,-
+243161,1245886,TC_RS02670,TC_RS02670,TC0526|TC_0526,-,-,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20210207,-
+243161,1245887,TC_RS02675,TC_RS02675,TC0527|TC_0527,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210207,-
+243161,1245888,TC_RS02680,TC_RS02680,TC0528|TC_0528,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210207,-
+243161,1245889,TC_RS02685,TC_RS02685,TC0529|TC_0529,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210207,-
+243161,1245890,TC_RS02690,TC_RS02690,TC0530|TC_0530,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210207,-
+243161,1245891,TC_RS02695,TC_RS02695,TC0531|TC_0531,-,-,-,YbjN domain-containing protein,protein-coding,-,-,-,YbjN domain-containing protein,20210207,-
+243161,1245892,TC_RS02700,TC_RS02700,TC0532|TC_0532,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20210207,-
+243161,1245893,TC_RS02705,TC_RS02705,TC0533|TC_0533,-,-,-,menaquinone biosynthesis family protein,protein-coding,-,-,-,menaquinone biosynthesis family protein,20210207,-
+243161,1245894,TC_RS02710,TC_RS02710,TC0534|TC_0534,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245895,TC_RS02715,TC_RS02715,TC0535|TC_0535,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+243161,1245896,TC_RS02720,TC_RS02720,TC0536|TC_0536,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20210207,-
+243161,1245897,TC_RS02725,TC_RS02725,TC0537|TC_0537,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245898,TC_RS02730,TC_RS02730,TC0538|TC_0538,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210207,-
+243161,1245899,TC_RS02735,TC_RS02735,TC0539|TC_0539,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210207,-
+243161,1245900,TC_RS02740,TC_RS02740,TC0540|TC_0540,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20210207,-
+243161,1245901,TC_RS02745,TC_RS02745,TC0541|TC_0541,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245902,TC_RS02750,TC_RS02750,TC0542|TC_0542,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210207,-
+243161,1245903,TC_RS02755,TC_RS02755,TC0543|TC_0543,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245904,rsmH,TC_RS02760,TC0544|TC_0544,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210207,-
+243161,1245905,TC_RS02765,TC_RS02765,TC0545|TC_0545,-,-,-,DUF5399 domain-containing protein,protein-coding,-,-,-,DUF5399 domain-containing protein,20210207,-
+243161,1245906,TC_RS02770,TC_RS02770,TC0546|TC_0546,-,-,-,type III secretion chaperone,protein-coding,-,-,-,type III secretion chaperone,20210207,-
+243161,1245907,dnaA,TC_RS02775,TC0547|TC_0547,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210207,-
+243161,1245908,TC_RS02780,TC_RS02780,TC0548|TC_0548,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210207,-
+243161,1245909,TC_RS02785,TC_RS02785,TC0549|TC_0549,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245910,TC_RS02790,TC_RS02790,TC0550|TC_0550,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,protein-coding,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,20210207,-
+243161,1245911,TC_RS02795,TC_RS02795,TC0551|TC_0551,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,20210207,-
+243161,1245912,nqrD,TC_RS02800,TC0552|TC_0552,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,20210207,-
+243161,1245913,nqrE,TC_RS02805,TC0553|TC_0553,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,20210207,-
+243161,1245914,TC_RS02810,TC_RS02810,TC0554|TC_0554,-,-,-,glycine cleavage protein H-like protein,protein-coding,-,-,-,glycine cleavage protein H-like protein,20210207,-
+243161,1245915,TC_RS02815,TC_RS02815,TC0556|TC_0556,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+243161,1245916,TC_RS02820,TC_RS02820,TC0557|TC_0557,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20210207,-
+243161,1245917,TC_RS02825,TC_RS02825,TC0558|TC_0558,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245918,TC_RS02830,TC_RS02830,TC0559|TC_0559,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210207,-
+243161,1245919,mnmA,TC_RS02835,TC0560|TC_0560,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210207,-
+243161,1245920,TC_RS02840,TC_RS02840,TC0561|TC_0561,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245921,TC_RS02845,TC_RS02845,TC0562|TC_0562,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245922,TC_RS02850,TC_RS02850,TC0563|TC_0563,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210207,-
+243161,1245923,TC_RS02855,TC_RS02855,TC0564|TC_0564,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210207,-
+243161,1245924,dut,TC_RS02860,TC0565|TC_0565,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210207,-
+243161,1245925,TC_RS02865,TC_RS02865,TC0566|TC_0566,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20210207,-
+243161,1245926,TC_RS02870,TC_RS02870,TC0567|TC_0567,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20210207,-
+243161,1245927,TC_RS02875,TC_RS02875,TC0568|TC_0568,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210207,-
+243161,1245928,TC_RS02880,TC_RS02880,TC0569|TC_0569,-,-,-,DUF5070 domain-containing protein,protein-coding,-,-,-,DUF5070 domain-containing protein,20210207,-
+243161,1245929,TC_RS02885,TC_RS02885,TC0570|TC_0570,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210207,-
+243161,1245930,radA,TC_RS02890,TC0571|TC_0571,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20210207,-
+243161,1245931,TC_RS02895,TC_RS02895,TC0572|TC_0572,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20210207,-
+243161,1245933,TC_RS02905,TC_RS02905,TC0574|TC_0574,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245934,pknD,TC_RS02910,TC0575|TC_0575,-,-,-,serine/threonine-protein kinase PknD,protein-coding,-,-,-,serine/threonine-protein kinase PknD,20210207,-
+243161,1245935,TC_RS02915,TC_RS02915,TC0576|TC_0576,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210207,-
+243161,1245937,TC_RS02925,TC_RS02925,TC0578|TC_0578,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20210207,-
+243161,1245938,TC_RS02930,TC_RS02930,TC0579|TC_0579,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20210207,-
+243161,1245939,TC_RS02935,TC_RS02935,TC0580|TC_0580,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20210207,-
+243161,1245940,TC_RS02940,TC_RS02940,TC0581|TC_0581,-,-,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20210207,-
+243161,1245941,TC_RS02945,TC_RS02945,TC0582|TC_0582,-,-,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20210207,-
+243161,1245942,TC_RS02950,TC_RS02950,TC0583|TC_0583,-,-,-,DUF2764 family protein,protein-coding,-,-,-,DUF2764 family protein,20210207,-
+243161,1245943,TC_RS02955,TC_RS02955,TC0584|TC_0584,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20210207,-
+243161,1245944,TC_RS02960,TC_RS02960,TC0585|TC_0585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245945,TC_RS02965,TC_RS02965,TC0586|TC_0586,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245946,tal,TC_RS02970,TC0587|TC_0587,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20210207,-
+243161,1245947,rpoC,TC_RS02975,TC0588|TC_0588,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210207,-
+243161,1245948,rpoB,TC_RS02980,TC0589|TC_0589,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210207,-
+243161,1245949,rplL,TC_RS02985,TC0590|TC_0590,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210207,-
+243161,1245950,TC_RS02990,TC_RS02990,TC0591|TC_0591,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210207,-
+243161,1245951,TC_RS02995,TC_RS02995,TC0592|TC_0592,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210207,-
+243161,1245952,rplK,TC_RS03000,TC0593|TC_0593,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210207,-
+243161,1245953,nusG,TC_RS03005,TC0594|TC_0594,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20210207,-
+243161,1245954,secE,TC_RS03010,TC0595|TC_0595,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210207,-
+243161,1245955,TC_RS03015,TC_RS03015,TC_t24|tRNA-Trp-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245956,tuf,TC_RS03020,TC0596|TC_0596,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200410,-
+243161,1245957,TC_RS03025,TC_RS03025,TC_t25|tRNA-Thr-3,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245958,infA,TC_RS03030,TC0597|TC_0597,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210207,-
+243161,1245959,TC_RS03035,TC_RS03035,TC0598|TC_0598,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245960,TC_RS03040,TC_RS03040,TC0599|TC_0599,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20210207,-
+243161,1245961,TC_RS03045,TC_RS03045,TC0600|TC_0600,-,-,-,DUF687 family protein,protein-coding,-,-,-,DUF687 family protein,20210207,-
+243161,1245963,TC_RS03050,TC_RS03050,TC_t26|tRNA-Met-3,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245964,TC_RS03055,TC_RS03055,TC0602|TC_0602,-,-,-,Helicase associated domain protein,protein-coding,-,-,-,Helicase associated domain protein,20210207,-
+243161,1245965,TC_RS03060,TC_RS03060,TC0603|TC_0603,-,-,-,phosphoribosylanthranilate isomerase,protein-coding,-,-,-,phosphoribosylanthranilate isomerase,20210207,-
+243161,1245966,TC_RS03065,TC_RS03065,TC0604|TC_0604,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210207,-
+243161,1245967,TC_RS03070,TC_RS03070,TC0605|TC_0605,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210207,-
+243161,1245968,TC_RS03075,TC_RS03075,TC0606|TC_0606,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20210207,-
+243161,1245969,TC_RS03080,TC_RS03080,TC0607|TC_0607,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245970,TC_RS03085,TC_RS03085,TC0608|TC_0608,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20210207,-
+243161,1245971,pyk,TC_RS03090,TC0609|TC_0609,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210207,-
+243161,1245972,uvrA,TC_RS03095,TC0610|TC_0610,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210207,-
+243161,1245973,dnaX,TC_RS03100,TC0611|TC_0611,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210207,-
+243161,1245974,TC_RS03105,TC_RS03105,TC0612|TC_0612,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210207,-
+243161,1245975,ptsP,TC_RS03110,TC0613|TC_0613,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20210207,-
+243161,1245976,TC_RS03115,TC_RS03115,TC0614|TC_0614,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210207,-
+243161,1245977,TC_RS03130,TC_RS03130,TC0617|TC_0617,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210207,-
+243161,1245978,TC_RS03135,TC_RS03135,TC0618|TC_0618,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210207,-
+243161,1245979,dnaJ,TC_RS03140,TC0619|TC_0619,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210207,-
+243161,1245980,TC_RS03145,TC_RS03145,TC0620|TC_0620,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210207,-
+243161,1245981,TC_RS03150,TC_RS03150,TC0621|TC_0621,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,protein-coding,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,20210207,-
+243161,1245983,lon,TC_RS03155,TC0623|TC_0623,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210207,-
+243161,1245984,TC_RS03160,TC_RS03160,TC0624|TC_0624,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245985,TC_RS03165,TC_RS03165,TC0625|TC_0625,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20210207,-
+243161,1245986,xerC,TC_RS03170,TC0626|TC_0626,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20210207,-
+243161,1245987,TC_RS03175,TC_RS03175,TC0627|TC_0627,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20210207,-
+243161,1245988,maf,TC_RS03180,TC0628|TC_0628,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20210207,-
+243161,1245989,TC_RS03185,TC_RS03185,TC0629|TC_0629,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20210207,-
+243161,1245990,TC_RS03190,TC_RS03190,TC0630|TC_0630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245991,secG,TC_RS03195,TC0631|TC_0631,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210207,-
+243161,1245992,TC_RS03200,TC_RS03200,TC0632|TC_0632,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210207,-
+243161,1245993,rsmA,TC_RS03205,TC0633|TC_0633,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210207,-
+243161,1245994,TC_RS03210,TC_RS03210,TC0634|TC_0634,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245995,TC_RS03215,TC_RS03215,TC0635|TC_0635,-,-,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20210207,-
+243161,1245996,TC_RS03220,TC_RS03220,TC_t27|tRNA-Ser-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1245997,TC_RS03225,TC_RS03225,TC0636|TC_0636,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245998,TC_RS03230,TC_RS03230,TC0637|TC_0637,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1245999,TC_RS03235,TC_RS03235,TC0638|TC_0638,-,-,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20210207,-
+243161,1246000,TC_RS03240,TC_RS03240,TC0639|TC_0639,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246001,TC_RS03245,TC_RS03245,TC0640|TC_0640,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20210207,-
+243161,1246002,TC_RS03250,TC_RS03250,TC0641|TC_0641,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210207,-
+243161,1246003,asd,TC_RS03255,TC0642|TC_0642,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20210207,-
+243161,1246004,TC_RS03260,TC_RS03260,TC0643|TC_0643,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20210207,-
+243161,1246005,TC_RS03265,TC_RS03265,TC0644|TC_0644,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246006,aroA,TC_RS03270,TC0645|TC_0645,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20210207,-
+243161,1246007,TC_RS03275,TC_RS03275,TC0646|TC_0646,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20210207,-
+243161,1246008,aroC,TC_RS03280,TC0647|TC_0647,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20210207,-
+243161,1246009,TC_RS03285,TC_RS03285,TC0648|TC_0648,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20210207,-
+243161,1246010,TC_RS03290,TC_RS03290,TC0649|TC_0649,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,protein-coding,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,20210207,-
+243161,1246011,TC_RS03295,TC_RS03295,TC0650|TC_0650,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20210207,-
+243161,1246012,TC_RS03300,TC_RS03300,TC0651|TC_0651,-,-,-,carbohydrate porin,protein-coding,-,-,-,carbohydrate porin,20210207,-
+243161,1246013,TC_RS03305,TC_RS03305,TC0652|TC_0652,-,-,-,pyruvoyl-dependent arginine decarboxylase AaxB,protein-coding,-,-,-,pyruvoyl-dependent arginine decarboxylase AaxB,20210207,-
+243161,1246014,TC_RS03310,TC_RS03310,TC0653|TC_0653,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210207,-
+243161,1246015,TC_RS03315,TC_RS03315,TC0654|TC_0654,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210207,-
+243161,1246016,TC_RS03320,TC_RS03320,TC0655|TC_0655,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20210207,-
+243161,1246017,ltuA,TC_RS03325,TC0656|TC_0656,-,-,-,late transcription unit protein LtuA,protein-coding,-,-,-,late transcription unit protein LtuA,20210207,-
+243161,1246018,TC_RS03330,TC_RS03330,TC0657|TC_0657,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210207,-
+243161,1246019,hflX,TC_RS03335,TC0658|TC_0658,-,-,-,GTPase HflX,protein-coding,-,-,-,GTPase HflX,20210207,-
+243161,1246020,TC_RS03340,TC_RS03340,TC0659|TC_0659,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210207,-
+243161,1246021,TC_RS03345,TC_RS03345,TC0660|TC_0660,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210207,-
+243161,1246022,aroF,TC_RS03350,TC0661|TC_0661,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20210207,-
+243161,1246023,TC_RS03360,TC_RS03360,TC0662|TC_0662,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246024,TC_RS03365,TC_RS03365,TC0663|TC_0663,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20210522,-
+243161,1246025,TC_RS03370,TC_RS03370,TC0664|TC_0664,-,-,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20210207,-
+243161,1246026,TC_RS03375,TC_RS03375,TC0665|TC_0665,-,-,-,MYG1 family protein,protein-coding,-,-,-,MYG1 family protein,20210207,-
+243161,1246027,TC_RS03385,TC_RS03385,TC0666|TC_0666,-,-,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20210207,-
+243161,1246028,TC_RS03390,TC_RS03390,TC0667|TC_0667,-,-,-,DUF167 domain-containing protein,protein-coding,-,-,-,DUF167 domain-containing protein,20210207,-
+243161,1246029,TC_RS03395,TC_RS03395,TC0668|TC_0668,-,-,-,DUF1207 domain-containing protein,protein-coding,-,-,-,DUF1207 domain-containing protein,20210207,-
+243161,1246030,TC_RS03400,TC_RS03400,TC0669|TC_0669,-,-,-,LL-diaminopimelate aminotransferase,protein-coding,-,-,-,LL-diaminopimelate aminotransferase,20210207,-
+243161,1246031,TC_RS03405,TC_RS03405,TC0670|TC_0670,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210207,-
+243161,1246032,TC_RS03410,TC_RS03410,TC0671|TC_0671,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246033,TC_RS03415,TC_RS03415,TC0672|TC_0672,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210207,-
+243161,1246034,hrcA,TC_RS03420,TC0673|TC_0673,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20210207,-
+243161,1246035,TC_RS03425,TC_RS03425,TC0674|TC_0674,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210207,-
+243161,1246036,dnaK,TC_RS03430,TC0675|TC_0675,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210207,-
+243161,1246037,TC_RS03435,TC_RS03435,TC0676|TC_0676,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,protein-coding,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,20210207,-
+243161,1246038,TC_RS03440,TC_RS03440,TC0677|TC_0677,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20210207,-
+243161,1246040,TC_RS03445,TC_RS03445,TC0679|TC_0679,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20210207,-
+243161,1246041,TC_RS03450,TC_RS03450,TC0680|TC_0680,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20210207,-
+243161,1246042,TC_RS03455,TC_RS03455,TC0681|TC_0681,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210207,-
+243161,1246043,TC_RS03460,TC_RS03460,TC0682|TC_0682,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20210207,-
+243161,1246044,TC_RS03465,TC_RS03465,TC0683|TC_0683,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210207,-
+243161,1246045,TC_RS03470,TC_RS03470,TC0684|TC_0684,-,-,-,class I SAM-dependent rRNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent rRNA methyltransferase,20210207,-
+243161,1246046,TC_RS03475,TC_RS03475,TC0685|TC_0685,-,-,-,riboflavin synthase subunit alpha,protein-coding,-,-,-,riboflavin synthase subunit alpha,20210207,-
+243161,1246047,nrdR,TC_RS03480,TC0686|TC_0686,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20210207,-
+243161,1246048,TC_RS03485,TC_RS03485,TC0687|TC_0687,-,-,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20210207,-
+243161,1246049,TC_RS03490,TC_RS03490,TC0688|TC_0688,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20210207,-
+243161,1246051,TC_RS03495,TC_RS03495,TC0690|TC_0690,-,-,-,AGCS family amino acid carrier protein,protein-coding,-,-,-,AGCS family amino acid carrier protein,20210207,-
+243161,1246052,TC_RS03500,TC_RS03500,TC0691|TC_0691,-,-,-,polynucleotide adenylyltransferase PcnB,protein-coding,-,-,-,polynucleotide adenylyltransferase PcnB,20210207,-
+243161,1246053,lpxB,TC_RS03505,TC0692|TC_0692,-,-,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20210207,-
+243161,1246054,TC_RS03510,TC_RS03510,TC0693|TC_0693,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246055,TC_RS03515,TC_RS03515,TC0694|TC_0694,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246056,TC_RS03520,TC_RS03520,TC0695|TC_0695,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246057,TC_RS03525,TC_RS03525,TC_t28|tRNA-Ser-3,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246058,TC_RS03530,TC_RS03530,TC0696|TC_0696,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20210207,-
+243161,1246059,TC_RS03535,TC_RS03535,TC0697|TC_0697,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20210207,-
+243161,1246060,TC_RS03540,TC_RS03540,TC0698|TC_0698,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210207,-
+243161,1246061,obgE,TC_RS03545,TC0699|TC_0699,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210207,-
+243161,1246062,rpmA,TC_RS03550,TC0700|TC_0700,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210207,-
+243161,1246063,rplU,TC_RS03555,TC0701|TC_0701,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210207,-
+243161,1246064,TC_RS03560,TC_RS03560,TC_t29|tRNA-Phe-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246065,TC_RS03565,TC_RS03565,TC0702|TC_0702,-,-,-,DUF502 domain-containing protein,protein-coding,-,-,-,DUF502 domain-containing protein,20210207,-
+243161,1246068,ybeY,TC_RS03570,TC0705|TC_0705,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210207,-
+243161,1246069,TC_RS03575,TC_RS03575,TC0706|TC_0706,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210207,-
+243161,1246070,TC_RS03580,TC_RS03580,TC0707|TC_0707,-,-,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20210207,-
+243161,1246071,TC_RS03585,TC_RS03585,TC0708|TC_0708,-,-,-,DUF3604 domain-containing protein,protein-coding,-,-,-,DUF3604 domain-containing protein,20210207,-
+243161,1246073,TC_RS03590,TC_RS03590,TC0710|TC_0710,-,-,-,CofH family radical SAM protein,protein-coding,-,-,-,CofH family radical SAM protein,20210207,-
+243161,1246074,TC_RS03595,TC_RS03595,TC0711|TC_0711,-,-,-,menaquinone biosynthetic enzyme MqnA/MqnD family protein,protein-coding,-,-,-,menaquinone biosynthetic enzyme MqnA/MqnD family protein,20210207,-
+243161,1246075,ubiE,TC_RS03600,TC0712|TC_0712,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20210207,-
+243161,1246076,TC_RS03605,TC_RS03605,TC0713|TC_0713,-,-,-,UPF0158 family protein,protein-coding,-,-,-,UPF0158 family protein,20210207,-
+243161,1246077,dapF,TC_RS03610,TC0714|TC_0714,-,-,-,bifunctional diaminopimelate epimerase/glutamate racemase,protein-coding,-,-,-,bifunctional diaminopimelate epimerase/glutamate racemase,20210207,-
+243161,1246078,TC_RS03615,TC_RS03615,TC0715|TC_0715,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210207,-
+243161,1246079,TC_RS03620,TC_RS03620,TC0716|TC_0716,-,-,-,glycine hydroxymethyltransferase,protein-coding,-,-,-,glycine hydroxymethyltransferase,20210207,-
+243161,1246080,TC_RS03625,TC_RS03625,TC0717|TC_0717,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20210207,-
+243161,1246081,TC_RS03630,TC_RS03630,TC0718|TC_0718,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20210207,-
+243161,1246082,TC_RS03635,TC_RS03635,TC0719|TC_0719,-,-,-,sulfite reductase flavoprotein subunit alpha,protein-coding,-,-,-,sulfite reductase flavoprotein subunit alpha,20210207,-
+243161,1246083,rpsJ,TC_RS03640,TC0720|TC_0720,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210207,-
+243161,1246084,fusA,TC_RS03645,TC0721|TC_0721,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210207,-
+243161,1246085,rpsG,TC_RS03650,TC0722|TC_0722,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210207,-
+243161,1246086,TC_RS03655,TC_RS03655,TC0723|TC_0723,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210207,-
+243161,1246087,TC_RS03660,TC_RS03660,TC0724|TC_0724,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246088,TC_RS03665,TC_RS03665,TC0725|TC_0725,-,-,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20210207,-
+243161,1246089,TC_RS03670,TC_RS03670,TC0726|TC_0726,-,-,-,sulfur-rich protein,protein-coding,-,-,-,sulfur-rich protein,20210207,-
+243161,1246090,omcB,TC_RS03680,TC0727|TC_0727,-,-,-,outer membrane complex protein OmcB,protein-coding,-,-,-,outer membrane complex protein OmcB,20201026,-
+243161,1246091,TC_RS03685,TC_RS03685,TC0728|TC_0728,-,-,-,small cysteine-rich outer membrane protein,protein-coding,-,-,-,small cysteine-rich outer membrane protein,20210207,-
+243161,1246092,TC_RS03690,TC_RS03690,TC0729|TC_0729,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246093,TC_RS03695,TC_RS03695,TC0730|TC_0730,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210207,-
+243161,1246094,TC_RS03700,TC_RS03700,TC0731|TC_0731,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210207,-
+243161,1246095,recJ,TC_RS03705,TC0732|TC_0732,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210207,-
+243161,1246096,secD,TC_RS03710,TC0733|TC_0733,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210207,-
+243161,1246097,TC_RS03715,TC_RS03715,TC0734|TC_0734,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246098,TC_RS03720,TC_RS03720,TC0735|TC_0735,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20210207,-
+243161,1246099,TC_RS03725,TC_RS03725,TC0736|TC_0736,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210207,-
+243161,1246100,TC_RS03730,TC_RS03730,TC0737|TC_0737,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210207,-
+243161,1246101,TC_RS03735,TC_RS03735,TC0738|TC_0738,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210207,-
+243161,1246102,argS,TC_RS03740,TC0739|TC_0739,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210207,-
+243161,1246103,murA,TC_RS03745,TC0740|TC_0740,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210207,-
+243161,1246104,tarP,TC_RS03750,TC0741|TC_0741,-,-,-,type III secretion system actin-recruiting effector Tarp,protein-coding,-,-,-,type III secretion system actin-recruiting effector Tarp,20210207,-
+243161,1246105,TC_RS03755,TC_RS03755,TC0742|TC_0742,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210207,-
+243161,1246106,TC_RS03760,TC_RS03760,TC0743|TC_0743,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210207,-
+243161,1246107,prfB,TC_RS03765,TC0744|TC_0744,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210207,-
+243161,1246108,TC_RS03770,TC_RS03770,TC0745|TC_0745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246109,lpxG,TC_RS03775,TC0746|TC_0746,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",protein-coding,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",20210207,-
+243161,1246110,TC_RS03780,TC_RS03780,TC0747|TC_0747,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20210207,-
+243161,1246111,TC_RS03790,TC_RS03790,TC0749|TC_0749,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20210207,-
+243161,1246112,TC_RS03795,TC_RS03795,TC0750|TC_0750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246113,TC_RS03800,TC_RS03800,TC_t30|tRNA-Leu-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246114,TC_RS03805,TC_RS03805,TC0751|TC_0751,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246115,TC_RS03810,TC_RS03810,TC0752|TC_0752,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20210207,-
+243161,1246116,TC_RS03815,TC_RS03815,TC0753|TC_0753,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210207,-
+243161,1246117,TC_RS03820,TC_RS03820,TC_t31|tRNA-Arg-3,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246118,TC_RS03825,TC_RS03825,TC0754|TC_0754,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20210207,-
+243161,1246119,recO,TC_RS03830,TC0755|TC_0755,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210207,-
+243161,1246120,TC_RS03835,TC_RS03835,TC0756|TC_0756,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246121,TC_RS03840,TC_RS03840,TC_t32|tRNA-Leu-3,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246122,TC_RS03850,TC_RS03850,TC0757|TC_0757,-,-,-,RMD1 family protein,protein-coding,-,-,-,RMD1 family protein,20210207,-
+243161,1246123,yidD,TC_RS03855,TC0758|TC_0758,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210207,-
+243161,1246124,TC_RS03860,TC_RS03860,TC0759|TC_0759,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201025,-
+243161,1246125,TC_RS03865,TC_RS03865,TC0760|TC_0760,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210207,-
+243161,1246126,TC_RS03870,TC_RS03870,TC0761|TC_0761,-,-,-,toxin-antitoxin system YwqK family antitoxin,protein-coding,-,-,-,toxin-antitoxin system YwqK family antitoxin,20210207,-
+243161,1246127,TC_RS03875,TC_RS03875,TC0762|TC_0762,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20210207,-
+243161,1246128,TC_RS03880,TC_RS03880,TC0763|TC_0763,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+243161,1246129,TC_RS03885,TC_RS03885,TC0764|TC_0764,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+243161,1246130,TC_RS03890,TC_RS03890,TC0765|TC_0765,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210207,-
+243161,1246132,TC_RS03895,TC_RS03895,TC0767|TC_0767,-,-,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20210207,-
+243161,1246134,TC_RS03900,TC_RS03900,TC0769|TC_0769,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246135,TC_RS03905,TC_RS03905,TC0770|TC_0770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246136,TC_RS03910,TC_RS03910,TC0771|TC_0771,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1246137,TC_RS03915,TC_RS03915,TC0772|TC_0772,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20210207,-
+243161,1246138,TC_RS03920,TC_RS03920,TC0773|TC_0773,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210207,-
+243161,1246139,rsmD,TC_RS03925,TC0774|TC_0774,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210207,-
+243161,1246140,TC_RS03930,TC_RS03930,TC0775|TC_0775,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210207,-
+243161,1246141,glgC,TC_RS03935,TC0776|TC_0776,-,-,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,glucose-1-phosphate adenylyltransferase,20210207,-
+243161,1246142,TC_RS03940,TC_RS03940,TC0777|TC_0777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246143,rho,TC_RS03945,TC0778|TC_0778,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210207,-
+243161,1246144,TC_RS03950,TC_RS03950,TC0779|TC_0779,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210207,-
+243161,1246145,polA,TC_RS03955,TC0780|TC_0780,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210207,-
+243161,1246146,TC_RS03960,TC_RS03960,TC0781|TC_0781,-,-,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20210207,-
+243161,1246147,npt2,TC_RS03965,TC0782|TC_0782,-,-,-,NTP/H+ exchange transporter Npt2,protein-coding,-,-,-,NTP/H+ exchange transporter Npt2,20210207,-
+243161,1246148,TC_RS03970,TC_RS03970,TC0783|TC_0783,-,-,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20210207,-
+243161,1246149,TC_RS03975,TC_RS03975,TC_t33|tRNA-Ser-4,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246150,dnaB,TC_RS03980,TC0784|TC_0784,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210207,-
+243161,1246151,mnmG,TC_RS03985,TC0785|TC_0785,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210207,-
+243161,1246152,TC_RS03990,TC_RS03990,TC0786|TC_0786,-,-,-,lipoate--protein ligase family protein,protein-coding,-,-,-,lipoate--protein ligase family protein,20210207,-
+243161,1246153,ndk,TC_RS03995,TC0787|TC_0787,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210207,-
+243161,1246154,ruvA,TC_RS04000,TC0788|TC_0788,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210207,-
+243161,1246155,ruvC,TC_RS04005,TC0789|TC_0789,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20210207,-
+243161,1246156,TC_RS04010,TC_RS04010,TC0790|TC_0790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246157,TC_RS04015,TC_RS04015,TC_t34|tRNA-Leu-4,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246158,TC_RS04020,TC_RS04020,TC0791|TC_0791,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246159,gap,TC_RS04025,TC0792|TC_0792,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210207,-
+243161,1246160,rplQ,TC_RS04030,TC0793|TC_0793,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210207,-
+243161,1246161,TC_RS04035,TC_RS04035,TC0794|TC_0794,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210207,-
+243161,1246162,rpsK,TC_RS04040,TC0795|TC_0795,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210207,-
+243161,1246163,rpsM,TC_RS04045,TC0796|TC_0796,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210207,-
+243161,1246164,secY,TC_RS04050,TC0797|TC_0797,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210207,-
+243161,1246165,TC_RS04055,TC_RS04055,TC0798|TC_0798,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210207,-
+243161,1246166,rpsE,TC_RS04060,TC0799|TC_0799,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210207,-
+243161,1246167,TC_RS04065,TC_RS04065,TC0800|TC_0800,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210207,-
+243161,1246168,rplF,TC_RS04070,TC0801|TC_0801,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210207,-
+243161,1246169,rpsH,TC_RS04075,TC0802|TC_0802,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210207,-
+243161,1246170,rplE,TC_RS04080,TC0803|TC_0803,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210207,-
+243161,1246171,TC_RS04085,TC_RS04085,TC0804|TC_0804,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210207,-
+243161,1246172,rplN,TC_RS04090,TC0805|TC_0805,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210207,-
+243161,1246173,rpsQ,TC_RS04095,TC0806|TC_0806,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210207,-
+243161,1246174,TC_RS04100,TC_RS04100,TC0807|TC_0807,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210207,-
+243161,1246175,rplP,TC_RS04105,TC0808|TC_0808,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210207,-
+243161,1246176,rpsC,TC_RS04110,TC0809|TC_0809,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210207,-
+243161,1246177,rplV,TC_RS04115,TC0810|TC_0810,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210207,-
+243161,1246178,rpsS,TC_RS04120,TC0811|TC_0811,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210207,-
+243161,1246179,rplB,TC_RS04125,TC0812|TC_0812,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210207,-
+243161,1246180,TC_RS04130,TC_RS04130,TC0813|TC_0813,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210207,-
+243161,1246181,rplD,TC_RS04135,TC0814|TC_0814,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210207,-
+243161,1246182,rplC,TC_RS04140,TC0815|TC_0815,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210207,-
+243161,1246183,TC_RS04145,TC_RS04145,TC0816|TC_0816,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246184,TC_RS04150,TC_RS04150,TC0817|TC_0817,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210207,-
+243161,1246185,lpxA,TC_RS04155,TC0818|TC_0818,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20210207,-
+243161,1246186,fabZ,TC_RS04160,TC0819|TC_0819,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210207,-
+243161,1246187,TC_RS04165,TC_RS04165,TC0820|TC_0820,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20210207,-
+243161,1246188,lnt,TC_RS04170,TC0821|TC_0821,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20210207,-
+243161,1246189,TC_RS04175,TC_RS04175,TC0822|TC_0822,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,acyl-CoA thioesterase,20210207,-
+243161,1246190,TC_RS04180,TC_RS04180,TC0823|TC_0823,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20210207,-
+243161,1246191,tsaE,TC_RS04185,TC0824|TC_0824,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210207,-
+243161,1246192,TC_RS04190,TC_RS04190,TC0825|TC_0825,-,-,-,DUF2709 domain-containing protein,protein-coding,-,-,-,DUF2709 domain-containing protein,20210207,-
+243161,1246193,TC_RS04195,TC_RS04195,TC_t35|tRNA-Leu-5,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246194,trxA,TC_RS04200,TC0826|TC_0826,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210207,-
+243161,1246195,TC_RS04205,TC_RS04205,TC0827|TC_0827,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210207,-
+243161,1246196,TC_RS04210,TC_RS04210,TC0828|TC_0828,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20210207,-
+243161,1246197,aspS,TC_RS04215,TC0829|TC_0829,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210207,-
+243161,1246198,TC_RS04220,TC_RS04220,TC0830|TC_0830,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210207,-
+243161,1246199,TC_RS04225,TC_RS04225,TC0831|TC_0831,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210207,-
+243161,1246200,dnaE,TC_RS04230,TC0832|TC_0832,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210207,-
+243161,1246202,TC_RS04240,TC_RS04240,TC0834|TC_0834,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246203,TC_RS04245,TC_RS04245,TC0835|TC_0835,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210207,-
+243161,1246204,TC_RS04250,TC_RS04250,TC0836|TC_0836,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246205,TC_RS04255,TC_RS04255,TC0837|TC_0837,-,-,-,anti-sigma regulatory factor,protein-coding,-,-,-,anti-sigma regulatory factor,20210207,-
+243161,1246206,TC_RS04260,TC_RS04260,TC0838|TC_0838,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246207,TC_RS04265,TC_RS04265,TC0839|TC_0839,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210207,-
+243161,1246208,TC_RS04270,TC_RS04270,TC0840|TC_0840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246209,TC_RS04275,TC_RS04275,TC0841|TC_0841,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210313,-
+243161,1246210,brnQ,TC_RS04280,TC0842|TC_0842,-,-,-,branched-chain amino acid transport system II carrier protein,protein-coding,-,-,-,branched-chain amino acid transport system II carrier protein,20210207,-
+243161,1246211,TC_RS04285,TC_RS04285,TC0843|TC_0843,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20210207,-
+243161,1246212,TC_RS04290,TC_RS04290,TC0844|TC_0844,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246214,lpdA,TC_RS04295,TC0846|TC_0846,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210207,-
+243161,1246215,lipA,TC_RS04300,TC0847|TC_0847,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20210207,-
+243161,1246216,sctJ,TC_RS04305,TC0848|TC_0848,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,protein-coding,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,20210207,-
+243161,1246217,TC_RS04310,TC_RS04310,TC0849|TC_0849,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246218,TC_RS04315,TC_RS04315,TC0850|TC_0850,-,-,-,HrpE/YscL family type III secretion apparatus protein,protein-coding,-,-,-,HrpE/YscL family type III secretion apparatus protein,20210207,-
+243161,1246220,cdsS,TC_RS04325,TC0852|TC_0852,-,-,-,SctS family type III secretion system export apparatus subunit CdsS,protein-coding,-,-,-,SctS family type III secretion system export apparatus subunit CdsS,20210207,-
+243161,1246221,TC_RS04330,TC_RS04330,TC0853|TC_0853,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,protein-coding,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,20210207,-
+243161,1246222,TC_RS04335,TC_RS04335,TC0854|TC_0854,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246223,TC_RS04340,TC_RS04340,TC0855|TC_0855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246224,TC_RS04345,TC_RS04345,TC0856|TC_0856,-,-,-,DUF1494 domain-containing protein,protein-coding,-,-,-,DUF1494 domain-containing protein,20210207,-
+243161,1246225,TC_RS04350,TC_RS04350,TC0857|TC_0857,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1246226,TC_RS04355,TC_RS04355,TC0858|TC_0858,-,-,-,type II secretion system protein,protein-coding,-,-,-,type II secretion system protein,20210207,-
+243161,1246227,TC_RS04360,TC_RS04360,TC0859|TC_0859,-,-,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20210207,-
+243161,1246228,TC_RS04365,TC_RS04365,TC0860|TC_0860,-,-,-,type II/IV secretion system protein,protein-coding,-,-,-,type II/IV secretion system protein,20210207,-
+243161,1246229,TC_RS04370,TC_RS04370,TC0861|TC_0861,-,-,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20210207,-
+243161,1246230,TC_RS04375,TC_RS04375,TC0862|TC_0862,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246231,TC_RS04380,TC_RS04380,TC0863|TC_0863,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210207,-
+243161,1246232,mutL,TC_RS04385,TC0864|TC_0864,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20210207,-
+243161,1246233,TC_RS04390,TC_RS04390,TC0865|TC_0865,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20210207,-
+243161,1246234,TC_RS04395,TC_RS04395,TC0866|TC_0866,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246235,TC_RS04400,TC_RS04400,TC0867|TC_0867,-,-,-,type III secretion system membrane protein,protein-coding,-,-,-,type III secretion system membrane protein,20210207,-
+243161,1246236,TC_RS04405,TC_RS04405,TC0868|TC_0868,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20210207,-
+243161,1246237,TC_RS04410,TC_RS04410,TC0869|TC_0869,-,-,-,S-adenosylmethionine/S-adenosylhomocysteine transporter,protein-coding,-,-,-,S-adenosylmethionine/S-adenosylhomocysteine transporter,20210417,-
+243161,1246238,thrS,TC_RS04415,TC0870|TC_0870,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210207,-
+243161,1246239,TC_RS04420,TC_RS04420,TC0871|TC_0871,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210207,-
+243161,1246240,TC_RS04425,TC_RS04425,TC0872|TC_0872,-,-,-,pGP6-D family virulence protein,protein-coding,-,-,-,pGP6-D family virulence protein,20210207,-
+243161,1246241,TC_RS04430,TC_RS04430,TC0873|TC_0873,-,-,-,CT584/Cpn0803 family type III secretion system protein,protein-coding,-,-,-,CT584/Cpn0803 family type III secretion system protein,20210207,-
+243161,1246242,trpS,TC_RS04435,TC0874|TC_0874,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210207,-
+243161,1246243,uvrB,TC_RS04440,TC0875|TC_0875,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20210207,-
+243161,1246244,eno,TC_RS04445,TC0876|TC_0876,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210207,-
+243161,1246245,TC_RS04450,TC_RS04450,TC0877|TC_0877,-,-,-,PP2C family protein-serine/threonine phosphatase,protein-coding,-,-,-,PP2C family protein-serine/threonine phosphatase,20210207,-
+243161,1246246,TC_RS04455,TC_RS04455,TC0878|TC_0878,-,-,-,SpoIIE family protein phosphatase,protein-coding,-,-,-,SpoIIE family protein phosphatase,20210207,-
+243161,1246247,TC_RS04460,TC_RS04460,TC0879|TC_0879,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,1246248,sdhB,TC_RS04465,TC0880|TC_0880,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20210522,-
+243161,1246249,sdhA,TC_RS04470,TC0881|TC_0881,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20210207,-
+243161,1246251,TC_RS04480,TC_RS04480,TC0883|TC_0883,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210207,-
+243161,1246252,TC_RS04485,TC_RS04485,TC0884|TC_0884,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210207,-
+243161,1246253,TC_RS04490,TC_RS04490,TC0885|TC_0885,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20210207,-
+243161,1246254,TC_RS04495,TC_RS04495,TC0886|TC_0886,-,-,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20210207,-
+243161,1246255,TC_RS04500,TC_RS04500,TC0887|TC_0887,-,-,-,inclusion-associated protein,protein-coding,-,-,-,inclusion-associated protein,20210207,-
+243161,1246256,tolB,TC_RS04505,TC0888|TC_0888,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20210207,-
+243161,1246257,TC_RS04510,TC_RS04510,TC0889|TC_0889,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20210207,-
+243161,1246258,TC_RS04515,TC_RS04515,TC0890|TC_0890,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210207,-
+243161,1246259,TC_RS04520,TC_RS04520,TC0891|TC_0891,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1246260,TC_RS04525,TC_RS04525,TC0892|TC_0892,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210207,-
+243161,1246261,TC_RS04530,TC_RS04530,TC_t36|tRNA-Arg-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246262,TC_RS04535,TC_RS04535,TC0893|TC_0893,-,-,-,molecular chaperone GroEL,protein-coding,-,-,-,molecular chaperone GroEL,20200410,-
+243161,1246263,TC_RS04540,TC_RS04540,TC0894|TC_0894,-,-,-,DUF1343 domain-containing protein,protein-coding,-,-,-,DUF1343 domain-containing protein,20210207,-
+243161,1246264,TC_RS04545,TC_RS04545,TC0895|TC_0895,-,-,-,non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,non-canonical purine NTP pyrophosphatase,20210207,-
+243161,1246265,TC_RS04550,TC_RS04550,TC0896|TC_0896,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246266,ung,TC_RS04555,TC0897|TC_0897,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210207,-
+243161,1246267,TC_RS04560,TC_RS04560,TC0898|TC_0898,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210207,-
+243161,1246268,TC_RS04565,TC_RS04565,TC0899|TC_0899,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20210207,-
+243161,1246269,TC_RS04570,TC_RS04570,TC0900|TC_0900,-,-,-,CADD family putative folate metabolism protein,protein-coding,-,-,-,CADD family putative folate metabolism protein,20210207,-
+243161,1246270,TC_RS04575,TC_RS04575,TC0901|TC_0901,-,-,-,putative folate metabolism gamma-glutamate ligase,protein-coding,-,-,-,putative folate metabolism gamma-glutamate ligase,20210207,-
+243161,1246271,TC_RS04580,TC_RS04580,TC0902|TC_0902,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20210207,-
+243161,1246272,folP,TC_RS04585,TC0903|TC_0903,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20210207,-
+243161,1246273,folB,TC_RS04590,TC0904|TC_0904,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20210207,-
+243161,1246274,TC_RS04595,TC_RS04595,TC0905|TC_0905,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20210207,-
+243161,1246275,TC_RS04600,TC_RS04600,TC0906|TC_0906,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246276,TC_RS04610,TC_RS04610,TC0907|TC_0907,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210207,-
+243161,1246277,TC_RS04615,TC_RS04615,TC0908|TC_0908,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246278,TC_RS04620,TC_RS04620,TC0909|TC_0909,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246279,TC_RS04625,TC_RS04625,TC0910|TC_0910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246280,TC_RS04630,TC_RS04630,TC0911|TC_0911,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246282,TC_RS04645,TC_RS04645,TC0913|TC_0913,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210207,-
+243161,1246283,TC_RS04650,TC_RS04650,TC0914|TC_0914,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20210207,-
+243161,1246284,rpsD,TC_RS04655,TC0915|TC_0915,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210207,-
+243161,1246285,TC_RS04660,TC_RS04660,TC0916|TC_0916,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20210207,-
+243161,1246286,TC_RS04665,TC_RS04665,TC0917|TC_0917,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210207,-
+243161,1246287,TC_RS04670,TC_RS04670,TC0918|TC_0918,-,-,-,UDP-N-acetylglucosamine pyrophosphorylase GlmU-related enzyme,protein-coding,-,-,-,UDP-N-acetylglucosamine pyrophosphorylase GlmU-related enzyme,20210207,-
+243161,1246288,TC_RS04675,TC_RS04675,TC0919|TC_0919,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210207,-
+243161,1246289,TC_RS04680,TC_RS04680,TC0920|TC_0920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246290,TC_RS04685,TC_RS04685,TC_t37|tRNA-Pro-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246291,TC_RS04690,TC_RS04690,TC0921|TC_0921,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20210207,-
+243161,1246292,TC_RS00865,TC_RS00865,TC0167|TC_0167,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210207,-
+243161,1246294,rpmJ,TC_RS00870,TC0169|TC_0169,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210207,-
+243161,1246295,rpsN,TC_RS00875,TC0170|TC_0170,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20210207,-
+243161,1246296,TC_RS00880,TC_RS00880,TC0171|TC_0171,-,-,-,DUF4339 domain-containing protein,protein-coding,-,-,-,DUF4339 domain-containing protein,20210207,-
+243161,1246297,TC_RS00885,TC_RS00885,TC0172|TC_0172,-,-,-,Asp23/Gls24 family envelope stress response protein,protein-coding,-,-,-,Asp23/Gls24 family envelope stress response protein,20210207,-
+243161,1246298,uvrC,TC_RS00890,TC0173|TC_0173,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20210207,-
+243161,1246299,mutS,TC_RS00895,TC0174|TC_0174,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210207,-
+243161,1246300,TC_RS00900,TC_RS00900,TC0175|TC_0175,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210207,-
+243161,1246301,TC_RS00905,TC_RS00905,TC0176|TC_0176,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246302,TC_RS00910,TC_RS00910,TC0177|TC_0177,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246303,TC_RS00915,TC_RS00915,TC0178|TC_0178,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210207,-
+243161,1246305,pgsA,TC_RS00920,TC0180|TC_0180,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210207,-
+243161,1246306,glgA,TC_RS00925,TC0181|TC_0181,-,-,-,glycogen synthase GlgA,protein-coding,-,-,-,glycogen synthase GlgA,20210515,-
+243161,1246307,TC_RS00930,TC_RS00930,TC_t10|tRNA-Gln-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246308,TC_RS00935,TC_RS00935,TC0182|TC_0182,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210207,-
+243161,1246309,TC_RS00940,TC_RS00940,TC0183|TC_0183,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210207,-
+243161,1246310,TC_RS00945,TC_RS00945,TC0184|TC_0184,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210207,-
+243161,1246311,TC_RS00950,TC_RS00950,TC0185|TC_0185,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210207,-
+243161,1246312,TC_RS00955,TC_RS00955,TC0186|TC_0186,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210207,-
+243161,1246313,TC_RS00960,TC_RS00960,TC0187|TC_0187,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20210207,-
+243161,1246315,TC_RS00970,TC_RS00970,TC0189|TC_0189,-,-,-,putative Na+/H+ antiporter,protein-coding,-,-,-,putative Na+/H+ antiporter,20210207,-
+243161,1246316,TC_RS00975,TC_RS00975,TC0190|TC_0190,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210207,-
+243161,1246318,TC_RS00980,TC_RS00980,TC0192|TC_0192,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210207,-
+243161,1246319,TC_RS00985,TC_RS00985,TC0193|TC_0193,-,-,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20210207,-
+243161,1246320,TC_RS00990,TC_RS00990,TC0194|TC_0194,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246322,plsX,TC_RS00995,TC0196|TC_0196,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210207,-
+243161,1246323,TC_RS01000,TC_RS01000,TC0197|TC_0197,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246325,TC_RS01005,TC_RS01005,TC0199|TC_0199,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246326,TC_RS01010,TC_RS01010,TC0200|TC_0200,-,-,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20210207,-
+243161,1246327,TC_RS01015,TC_RS01015,TC0201|TC_0201,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246328,TC_RS01020,TC_RS01020,TC0202|TC_0202,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20210207,-
+243161,1246329,glmS,TC_RS01025,TC0203|TC_0203,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20210207,-
+243161,1246330,TC_RS01030,TC_RS01030,TC0204|TC_0204,-,-,-,amino acid transporter,protein-coding,-,-,-,amino acid transporter,20210207,-
+243161,1246331,TC_RS01035,TC_RS01035,TC0205|TC_0205,-,-,-,amino acid transporter,protein-coding,-,-,-,amino acid transporter,20210207,-
+243161,1246332,TC_RS01040,TC_RS01040,TC0206|TC_0206,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20210207,-
+243161,1246333,ftsY,TC_RS01045,TC0207|TC_0207,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210207,-
+243161,1246334,sucC,TC_RS01050,TC0208|TC_0208,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20210207,-
+243161,1246335,sucD,TC_RS01055,TC0209|TC_0209,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20210207,-
+243161,1246336,TC_RS01060,TC_RS01060,TC0210|TC_0210,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20210207,-
+243161,1246337,TC_RS01065,TC_RS01065,TC0211|TC_0211,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210207,-
+243161,1246338,TC_RS01070,TC_RS01070,TC0212|TC_0212,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210207,-
+243161,1246339,TC_RS01075,TC_RS01075,TC0213|TC_0213,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20210207,-
+243161,1246340,TC_RS01080,TC_RS01080,TC0214|TC_0214,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20210207,-
+243161,1246341,TC_RS01085,TC_RS01085,TC0215|TC_0215,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20210207,-
+243161,1246343,TC_RS01090,TC_RS01090,TC_t11|tRNA-Val-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246344,TC_RS01095,TC_RS01095,TC0217|TC_0217,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210207,-
+243161,1246345,murB,TC_RS01100,TC0218|TC_0218,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210207,-
+243161,1246346,nusB,TC_RS01105,TC0219|TC_0219,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210207,-
+243161,1246348,TC_RS01110,TC_RS01110,TC0221|TC_0221,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210207,-
+243161,1246349,rpmI,TC_RS01115,TC0222|TC_0222,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210207,-
+243161,1246351,TC_RS01545,TC_RS01545,TC0308|TC_0308,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246352,TC_RS01550,TC_RS01550,TC0309|TC_0309,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20210207,-
+243161,1246353,ruvB,TC_RS01555,TC0310|TC_0310,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210207,-
+243161,1246354,TC_RS01560,TC_RS01560,TC0311|TC_0311,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246355,TC_RS01565,TC_RS01565,TC0312|TC_0312,-,-,-,glycogen-debranching protein,protein-coding,-,-,-,glycogen-debranching protein,20210207,-
+243161,1246356,TC_RS01570,TC_RS01570,TC0313|TC_0313,-,-,-,type III secretion chaperone Slc1,protein-coding,-,-,-,type III secretion chaperone Slc1,20210207,-
+243161,1246357,TC_RS01575,TC_RS01575,TC0314|TC_0314,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210207,-
+243161,1246358,TC_RS01580,TC_RS01580,TC0315|TC_0315,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20210207,-
+243161,1246359,TC_RS01585,TC_RS01585,TC0316|TC_0316,-,-,-,histone H1-like protein HC2,protein-coding,-,-,-,histone H1-like protein HC2,20201025,-
+243161,1246360,TC_RS01590,TC_RS01590,TC0317|TC_0317,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246361,TC_RS01595,TC_RS01595,TC0318|TC_0318,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20210207,-
+243161,1246362,TC_RS01600,TC_RS01600,TC0319|TC_0319,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246364,TC_RS01610,TC_RS01610,TC0321|TC_0321,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246365,hemW,TC_RS01615,TC0322|TC_0322,-,-,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20210207,-
+243161,1246366,TC_RS01620,TC_RS01620,TC0323|TC_0323,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246367,TC_RS01630,TC_RS01630,TC0324|TC_0324,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20210207,-
+243161,1246368,sucB,TC_RS01635,TC0325|TC_0325,-,-,-,dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,dihydrolipoyllysine-residue succinyltransferase,20210207,-
+243161,1246369,pgeF,TC_RS01640,TC0326|TC_0326,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20210207,-
+243161,1246370,TC_RS01645,TC_RS01645,TC0327|TC_0327,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,20210207,-
+243161,1246371,TC_RS01650,TC_RS01650,TC0328|TC_0328,-,-,-,macro domain-containing protein,protein-coding,-,-,-,macro domain-containing protein,20210207,-
+243161,1246372,TC_RS01655,TC_RS01655,TC0329|TC_0329,-,-,-,(2Fe-2S)-binding protein,protein-coding,-,-,-,(2Fe-2S)-binding protein,20210207,-
+243161,1246373,TC_RS01660,TC_RS01660,TC_t15|tRNA-Pro-2,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246374,TC_RS01665,TC_RS01665,TC0330|TC_0330,-,-,-,FHIPEP family type III secretion protein,protein-coding,-,-,-,FHIPEP family type III secretion protein,20210207,-
+243161,1246375,TC_RS01670,TC_RS01670,TC0331|TC_0331,-,-,-,FliA/WhiG family RNA polymerase sigma factor,protein-coding,-,-,-,FliA/WhiG family RNA polymerase sigma factor,20210207,-
+243161,1246376,TC_RS01675,TC_RS01675,TC0332|TC_0332,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210207,-
+243161,1246377,gnd,TC_RS01680,TC0333|TC_0333,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20210207,-
+243161,1246378,lepA,TC_RS01685,TC0334|TC_0334,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20210207,-
+243161,1246379,npt1,TC_RS01690,TC0335|TC_0335,-,-,-,NTP/NDP exchange transporter Npt1,protein-coding,-,-,-,NTP/NDP exchange transporter Npt1,20210207,-
+243161,1246380,TC_RS01700,TC_RS01700,TC0336|TC_0336,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246382,TC_RS01710,TC_RS01710,TC0338|TC_0338,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20201025,-
+243161,1246383,TC_RS01715,TC_RS01715,TC0339|TC_0339,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20210207,-
+243161,1246384,TC_RS01720,TC_RS01720,TC0341|TC_0341,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20201025,-
+243161,1246385,TC_RS01725,TC_RS01725,TC0342|TC_0342,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210207,-
+243161,1246386,TC_RS01730,TC_RS01730,TC0343|TC_0343,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20210207,-
+243161,1246387,TC_RS01735,TC_RS01735,TC0344|TC_0344,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20210207,-
+243161,1246388,TC_RS01740,TC_RS01740,TC0345|TC_0345,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210207,-
+243161,1246389,recF,TC_RS01745,TC0346|TC_0346,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20210207,-
+243161,1246390,TC_RS01750,TC_RS01750,TC0347|TC_0347,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210207,-
+243161,1246391,rplT,TC_RS01120,TC0223|TC_0223,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210207,-
+243161,1246392,pheS,TC_RS01125,TC0224|TC_0224,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210207,-
+243161,1246393,TC_RS01130,TC_RS01130,TC_t12|tRNA-Ser-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246394,TC_RS01135,TC_RS01135,TC0225|TC_0225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246395,TC_RS01140,TC_RS01140,TC0226|TC_0226,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20210207,-
+243161,1246396,TC_RS01145,TC_RS01145,TC0227|TC_0227,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20210207,-
+243161,1246397,tilS,TC_RS01150,TC0228|TC_0228,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210207,-
+243161,1246398,ftsH,TC_RS01155,TC0229|TC_0229,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210207,-
+243161,1246399,pnp,TC_RS01160,TC0230|TC_0230,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210207,-
+243161,1246400,rpsO,TC_RS01165,TC0231|TC_0231,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210207,-
+243161,1246401,TC_RS01170,TC_RS01170,TC0232|TC_0232,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20210207,-
+243161,1246402,TC_RS01175,TC_RS01175,TC0233|TC_0233,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246403,TC_RS01180,TC_RS01180,TC0234|TC_0234,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246404,TC_RS01185,TC_RS01185,TC0235|TC_0235,-,-,-,CT847 family type III secretion system effector,protein-coding,-,-,-,CT847 family type III secretion system effector,20210207,-
+243161,1246405,TC_RS01190,TC_RS01190,TC0236|TC_0236,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20210207,-
+243161,1246406,TC_RS01195,TC_RS01195,TC0237|TC_0237,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20210207,-
+243161,1246407,TC_RS01200,TC_RS01200,TC0238|TC_0238,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246408,TC_RS01205,TC_RS01205,TC0239|TC_0239,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1246409,TC_RS01210,TC_RS01210,TC0240|TC_0240,-,-,-,methionyl aminopeptidase,protein-coding,-,-,-,methionyl aminopeptidase,20210207,-
+243161,1246410,TC_RS01215,TC_RS01215,TC0241|TC_0241,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+243161,1246411,TC_RS01220,TC_RS01220,TC0242|TC_0242,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20210207,-
+243161,1246412,TC_RS01225,TC_RS01225,TC0243|TC_0243,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210207,-
+243161,1246413,fumC,TC_RS01230,TC0244|TC_0244,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20210207,-
+243161,1246414,TC_RS01235,TC_RS01235,TC0245|TC_0245,-,-,-,solute carrier family 26 protein,protein-coding,-,-,-,solute carrier family 26 protein,20210207,-
+243161,1246416,TC_RS01245,TC_RS01245,TC0247|TC_0247,-,-,-,sodium:proton antiporter,protein-coding,-,-,-,sodium:proton antiporter,20210207,-
+243161,1246417,TC_RS01250,TC_RS01250,TC0248|TC_0248,-,-,-,protease-like activity factor CPAF,protein-coding,-,-,-,protease-like activity factor CPAF,20210207,-
+243161,1246418,ispH,TC_RS01255,TC0249|TC_0249,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20210207,-
+243161,1246419,TC_RS01260,TC_RS01260,TC0250|TC_0250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246420,TC_RS01265,TC_RS01265,TC0251|TC_0251,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246421,TC_RS01270,TC_RS01270,TC0252|TC_0252,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20210207,-
+243161,1246422,TC_RS01275,TC_RS01275,TC0253|TC_0253,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246423,TC_RS01280,TC_RS01280,TC_t13|tRNA-Leu-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,1246424,TC_RS01285,TC_RS01285,TC0254|TC_0254,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246425,TC_RS01290,TC_RS01290,TC0255|TC_0255,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20210417,-
+243161,1246426,TC_RS01295,TC_RS01295,TC0256|TC_0256,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246427,glgB,TC_RS01300,TC0257|TC_0257,-,-,-,"1,4-alpha-glucan branching protein GlgB",protein-coding,-,-,-,"1,4-alpha-glucan branching protein GlgB",20210207,-
+243161,1246428,TC_RS01305,TC_RS01305,TC0258|TC_0258,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+243161,1246429,TC_RS01315,TC_RS01315,TC0259|TC_0259,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246430,TC_RS01320,TC_RS01320,TC0260|TC_0260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246431,TC_RS01325,TC_RS01325,TC0261|TC_0261,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246432,TC_RS01330,TC_RS01330,TC0262|TC_0262,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246433,TC_RS01335,TC_RS01335,TC0263|TC_0263,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246434,TC_RS01340,TC_RS01340,TC0264|TC_0264,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+243161,1246436,TC_RS01345,TC_RS01345,TC0266|TC_0266,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246437,TC_RS01350,TC_RS01350,TC0267|TC_0267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246438,TC_RS01355,TC_RS01355,TC0268|TC_0268,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246439,TC_RS01360,TC_RS01360,TC0269|TC_0269,-,-,-,DUF378 domain-containing protein,protein-coding,-,-,-,DUF378 domain-containing protein,20210207,-
+243161,1246440,gatC,TC_RS01365,TC0270|TC_0270,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210207,-
+243161,1246441,gatA,TC_RS01370,TC0271|TC_0271,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210207,-
+243161,1246442,gatB,TC_RS01375,TC0272|TC_0272,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210207,-
+243161,1246443,TC_RS01380,TC_RS01380,TC0273|TC_0273,-,-,-,IncV family inclusion membrane protein,protein-coding,-,-,-,IncV family inclusion membrane protein,20210123,-
+243161,1246444,TC_RS01385,TC_RS01385,TC0274|TC_0274,-,-,-,DUF5422 family protein,protein-coding,-,-,-,DUF5422 family protein,20210207,-
+243161,1246445,TC_RS01390,TC_RS01390,TC0275|TC_0275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246446,TC_RS01395,TC_RS01395,TC0276|TC_0276,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20210207,-
+243161,1246447,TC_RS01400,TC_RS01400,TC0277|TC_0277,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210207,-
+243161,1246448,TC_RS01405,TC_RS01405,TC0278|TC_0278,-,-,-,lauroyl acyltransferase,protein-coding,-,-,-,lauroyl acyltransferase,20210207,-
+243161,1246449,TC_RS01410,TC_RS01410,TC0279|TC_0279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246450,TC_RS01415,TC_RS01415,TC0280|TC_0280,-,-,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20210207,-
+243161,1246451,TC_RS01420,TC_RS01420,TC0281|TC_0281,-,-,-,cytochrome ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome ubiquinol oxidase subunit I,20210207,-
+243161,1246452,cydB,TC_RS01425,TC0282|TC_0282,-,-,-,cytochrome d ubiquinol oxidase subunit II,protein-coding,-,-,-,cytochrome d ubiquinol oxidase subunit II,20210207,-
+243161,1246453,TC_RS01430,TC_RS01430,TC0283|TC_0283,-,-,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20210207,-
+243161,1246454,TC_RS01435,TC_RS01435,TC0284|TC_0284,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246455,TC_RS01440,TC_RS01440,TC0285|TC_0285,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20210207,-
+243161,1246456,TC_RS01445,TC_RS01445,TC0286|TC_0286,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246458,TC_RS01450,TC_RS01450,TC0288|TC_0288,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210207,-
+243161,1246459,lepB,TC_RS01455,TC0289|TC_0289,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210207,-
+243161,1246460,TC_RS01460,TC_RS01460,TC0290|TC_0290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246461,TC_RS01465,TC_RS01465,TC0291|TC_0291,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210207,-
+243161,1246462,prfA,TC_RS01470,TC0292|TC_0292,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210207,-
+243161,1246463,prmC,TC_RS01475,TC0293|TC_0293,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210207,-
+243161,1246464,ffh,TC_RS01480,TC0294|TC_0294,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210207,-
+243161,1246465,TC_RS01485,TC_RS01485,TC0295|TC_0295,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210212,-
+243161,1246466,trmD,TC_RS01490,TC0296|TC_0296,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210207,-
+243161,1246467,rplS,TC_RS01495,TC0297|TC_0297,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210207,-
+243161,1246468,TC_RS01500,TC_RS01500,TC0298|TC_0298,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210207,-
+243161,1246469,gmk,TC_RS01505,TC0299|TC_0299,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210207,-
+243161,1246470,TC_RS01510,TC_RS01510,TC0300|TC_0300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246471,TC_RS01515,TC_RS01515,TC0301|TC_0301,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201025,-
+243161,1246472,TC_RS01520,TC_RS01520,TC0302|TC_0302,-,-,-,ATP-dependent RecD-like DNA helicase,protein-coding,-,-,-,ATP-dependent RecD-like DNA helicase,20210207,-
+243161,1246473,TC_RS01525,TC_RS01525,TC0303|TC_0303,-,-,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20210207,-
+243161,1246475,TC_RS01530,TC_RS01530,TC0305|TC_0305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246476,TC_RS01535,TC_RS01535,TC0306|TC_0306,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,1246477,TC_RS01540,TC_RS01540,TC_t14|tRNA-Asn-1,-,-,-,tRNA,tRNA,-,-,-,-,20201025,-
+243161,2829871,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Chlamydia muridarum Nigg; Chlamydia muridarum strain Nigg; Chlamydia trachomatis MoPn strain Nigg).,other,-,-,-,-,20150211,-
+243161,23334607,TC_RS00230,TC_RS00230,TC0045|TC_0045,-,-,-,secretin,protein-coding,-,-,-,secretin,20210207,-
+243161,23334611,rrf,TC_RS00685,TC_r06|TCrrnaA5S,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201025,-
+243161,23334612,rbp7,TC_RS00965,-,-,-,-,reticulate body protein Rbp-7,protein-coding,-,-,-,reticulate body protein Rbp-7,20210207,-
+243161,23334617,truB,TC_RS01840,-,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210207,-
+243161,23334618,TC_RS01875,TC_RS01875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334624,TC_RS02920,TC_RS02920,TC0577|TC_0577,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334625,TC_RS03120,TC_RS03120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334626,TC_RS03125,TC_RS03125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334627,TC_RS03355,TC_RS03355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334630,truA,TC_RS03785,-,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210207,-
+243161,23334632,upp,TC_RS04235,TC0833|TC_0833,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20210424,-
+243161,23334635,TC_RS04635,TC_RS04635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334636,TC_RS04640,TC_RS04640,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,23334638,TC_RS04715,TC_RS04715,-,-,-,-,Virulence plasmid protein pGP2-D,protein-coding,-,-,-,Virulence plasmid protein pGP2-D,20200103,-
+243161,25249121,rnpB,TC_RS04740,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201025,-
+243161,31473801,rpmH,TC_RS04750,TC0168|TC_0168,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210207,-
+243161,31473804,rpmF,TC_RS04765,TC0195|TC_0195,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210207,-
+243161,31473806,TC_RS04775,TC_RS04775,TC0216|TC_0216,-,-,-,tRNA (guanine(46)-N(7))-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanine(46)-N(7))-methyltransferase TrmB,20210207,-
+243161,31473807,ssrA,TC_RS04780,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201025,-
+243161,31473811,TC_RS04800,TC_RS04800,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,31473812,incB,TC_RS04805,TC0503|TC_0503,-,-,-,inclusion membrane protein IncB,protein-coding,-,-,-,inclusion membrane protein IncB,20210207,-
+243161,31473813,ffs,TC_RS04810,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201025,-
+243161,31473814,TC_RS04815,TC_RS04815,TC0704|TC_0704,-,-,-,small basic protein,protein-coding,-,-,-,small basic protein,20210207,-
+243161,31473815,TC_RS04820,TC_RS04820,TC0709|TC_0709,-,-,-,YSIRK-type signal peptide-containing protein,protein-coding,-,-,-,YSIRK-type signal peptide-containing protein,20210207,-
+243161,31473817,TC_RS04830,TC_RS04830,-,-,-,-,AURKAIP1/COX24 domain-containing protein,protein-coding,-,-,-,AURKAIP1/COX24 domain-containing protein,20210207,-
+243161,31473819,sctR,TC_RS04840,TC0851|TC_0851,-,-,-,type III secretion system export apparatus subunit SctR,protein-coding,-,-,-,type III secretion system export apparatus subunit SctR,20210207,-
+243161,43428460,TC_RS04850,TC_RS04850,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43428461,TC_RS04855,TC_RS04855,TC0467|TC_0467,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43428462,TC_RS04860,TC_RS04860,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43428463,TC_RS04865,TC_RS04865,TC0703|TC_0703,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+243161,43837026,TC_RS04870,TC_RS04870,TC0320|TC_0320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43837027,TC_RS04875,TC_RS04875,TC0381|TC_0381,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43837028,TC_RS04880,TC_RS04880,TC0768|TC_0768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,43965124,TC_RS04885,TC_RS04885,TC0766|TC_0766,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200410,-
+243161,59369347,TC_RS04890,TC_RS04890,-,-,-,-,succinate dehydrogenase,protein-coding,-,-,-,succinate dehydrogenase,20210424,-
+243161,62611410,TC_RS04895,TC_RS04895,-,-,-,-,pseudo,pseudo,-,-,-,-,20210207,-

@@ -1,0 +1,87 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+357446,42437075,oi1rnl,GM559_mgp54,-,-,MT,-,intronic ORF at intron 1 of rnl,protein-coding,-,-,-,intronic ORF at intron 1 of rnl,20200926,-
+357446,42437076,rps3,GM559_mgp53,-,-,MT,-,ribosomal protein 3,protein-coding,-,-,-,ribosomal protein 3,20191126,-
+357446,42437077,oi3rnl,GM559_mgp52,-,-,MT,-,large subunit ribosomal RNA,protein-coding,-,-,-,large subunit ribosomal RNA,20200926,-
+357446,42437078,trnT,GM559_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437079,trnE,GM559_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437080,trnL,GM559_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437081,trnM,GM559_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437082,trnL,GM559_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437083,trnA,GM559_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437084,trnF,GM559_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437085,trnL,GM559_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437086,GIY-YIG,GM559_mgp51,-,-,MT,-,pseudo,pseudo,-,-,-,-,20200909,-
+357446,42437087,trnL,GM559_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437088,trnQ,GM559_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437089,trnH,GM559_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437090,trnM,GM559_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437091,trnM,GM559_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437092,nad2,GM559_mgp50,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200905,-
+357446,42437093,nad3,GM559_mgp49,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210417,-
+357446,42437094,atp9,GM559_mgp48,-,-,MT,-,ATP synthesase subunit 9,protein-coding,-,-,-,ATP synthesase subunit 9,20200905,-
+357446,42437095,cox2,GM559_mgp47,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20200905,-
+357446,42437096,oi1cox2,GM559_mgp46,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+357446,42437097,oi2cox2,GM559_mgp45,-,-,MT,-,GIY endonuclease,protein-coding,-,-,-,GIY endonuclease,20200905,-
+357446,42437098,oi3cox2,GM559_mgp44,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200829,-
+357446,42437099,oi4cox2,GM559_mgp43,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200829,-
+357446,42437100,oi5cox2,GM559_mgp42,-,-,MT,-,GIY protein,protein-coding,-,-,-,GIY protein,20200829,-
+357446,42437101,oi6cox2,GM559_mgp41,-,-,MT,-,GIY endonuclease,protein-coding,-,-,-,GIY endonuclease,20200905,-
+357446,42437102,rnapol,GM559_mgp40,-,-,MT,-,pseudo,pseudo,-,-,-,-,20200909,-
+357446,42437103,trnR,GM559_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437104,nad4L,GM559_mgp39,-,-,MT,-,NADH dehydrogenase subunit H dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit H dehydrogenase subunit 4,20200905,-
+357446,42437105,oi1nad4L,GM559_mgp38,-,-,MT,-,endonuclease-like protein,protein-coding,-,-,-,endonuclease-like protein,20200905,-
+357446,42437106,nad5,GM559_mgp37,-,-,MT,-,NADH dehydrogenase subunit H dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit H dehydrogenase subunit 5,20200905,-
+357446,42437107,oi1_1nad5,GM559_mgp36,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200926,-
+357446,42437108,oi1_2nad5,GM559_mgp35,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437109,oi2nad5,GM559_mgp34,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437110,oi3nad5,GM559_mgp33,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+357446,42437111,oi4nad5,GM559_mgp32,-,-,MT,-,endonuclease,protein-coding,-,-,-,endonuclease,20200905,-
+357446,42437112,oi5nad5,GM559_mgp31,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437113,oi6nad5,GM559_mgp30,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+357446,42437114,oi7nad5,GM559_mgp29,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+357446,42437115,trnC,GM559_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437116,cob,GM559_mgp28,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20200926,-
+357446,42437117,oi1cob,GM559_mgp27,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437118,oi2cob,GM559_mgp26,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437119,cox1,GM559_mgp25,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20200905,-
+357446,42437120,oi1cox1,GM559_mgp24,-,-,MT,-,GIY endonuclease,protein-coding,-,-,-,GIY endonuclease,20200905,-
+357446,42437121,oi2cox1,GM559_mgp23,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437122,oi3cox1,GM559_mgp22,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200926,-
+357446,42437123,oi4cox1,GM559_mgp21,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437124,oi5cox1,GM559_mgp20,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437125,oi6cox1,GM559_mgp19,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437126,oi7cox1,GM559_mgp18,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20191126,-
+357446,42437127,oi8cox1,GM559_mgp17,-,-,MT,-,GIY endonuclease,protein-coding,-,-,-,GIY endonuclease,20200905,-
+357446,42437128,oi9cox1,GM559_mgp16,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437129,oi10cox1,GM559_mgp15,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437130,trnR,GM559_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437131,nad1,GM559_mgp14,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200905,-
+357446,42437132,oi1nad1,GM559_mgp13,-,-,MT,-,GIY endonuclease,protein-coding,-,-,-,GIY endonuclease,20200926,-
+357446,42437133,nad4,GM559_mgp12,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200905,-
+357446,42437134,oi1nad4,GM559_mgp11,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437135,atp8,GM559_mgp10,-,-,MT,-,ATP synthesase subunit 8,protein-coding,-,-,-,ATP synthesase subunit 8,20200905,-
+357446,42437136,atp6,GM559_mgp09,-,-,MT,-,ATP synthase subunit 6,protein-coding,-,-,-,ATP synthase subunit 6,20200905,-
+357446,42437137,oi1atp6,GM559_mgp08,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20200905,-
+357446,42437138,oi2atp6,GM559_mgp07,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20200905,-
+357446,42437139,trnI,GM559_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437140,rns,GM559_mgr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+357446,42437141,oi1rns,GM559_mgp06,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200926,-
+357446,42437142,trnM,GM559_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437143,trnY,GM559_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437144,cox3,GM559_mgp05,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210417,-
+357446,42437145,oi1cox3,GM559_mgp04,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20191126,-
+357446,42437146,oi2cox3,GM559_mgp03,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437147,trnG,GM559_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437148,trnK,GM559_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437149,trnD,GM559_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437150,trnS,GM559_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437151,trnW,GM559_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437152,nad6,GM559_mgp02,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210417,-
+357446,42437153,oi1nad6,GM559_mgp01,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20200905,-
+357446,42437154,trnV,GM559_mgt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437155,trnW,GM559_mgt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437156,trnI,GM559_mgt27,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437157,trnS,GM559_mgt28,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437158,trnN,GM559_mgt29,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437159,trnP,GM559_mgt30,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+357446,42437160,rnl,GM559_mgr02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-

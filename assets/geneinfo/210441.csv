@@ -1,0 +1,238 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+210441,19739410,psaB,EX63_p002,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+210441,19739411,rbcS,EX63_p003,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160827,-
+210441,19739412,rbcL,EX63_p004,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20161209,-
+210441,19739413,sufB,EX63_p005,-,-,-,-,iron-sulfur cluster formation ABC transporter,protein-coding,-,-,-,-,20160827,-
+210441,19739414,sufC,EX63_p006,-,-,-,-,iron-sulfur cluster formation ABC transporter,protein-coding,-,-,-,-,20160325,-
+210441,19739415,atpI,EX63_p007,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+210441,19739416,atpH,EX63_p008,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+210441,19739417,atpG,EX63_p009,-,-,-,-,ATP synthase CF0 subunit II,protein-coding,-,-,-,-,20160827,-
+210441,19739418,atpF,EX63_p010,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20160827,-
+210441,19739419,atpD,EX63_p011,-,-,-,-,ATP synthase CF1 subunit delta,protein-coding,-,-,-,-,20150626,-
+210441,19739420,atpA,EX63_p012,-,-,-,-,ATP synthase CF1 subunit alpha,protein-coding,-,-,-,-,20160827,-
+210441,19739421,rps2,EX63_p013,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+210441,19739422,rpoC2,EX63_p014,-,-,-,-,RNA polymerase b''-subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739423,rpoC1,EX63_p015,-,-,-,-,RNA polymerase b'-subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739424,rpoB,EX63_p016,-,-,-,-,RNA polymerase b-subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739425,rps20,EX63_p017,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20150626,-
+210441,19739426,rpl33,EX63_p018,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+210441,19739427,rps18,EX63_p019,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+210441,19739428,ycf3,EX63_p020,-,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,-,20160827,-
+210441,19739429,atpB,EX63_p021,-,-,-,-,ATP synthase CF1 subunit beta,protein-coding,-,-,-,-,20160827,-
+210441,19739430,atpE,EX63_p022,-,-,-,-,ATP synthase CF1 subunit epsilon,protein-coding,-,-,-,-,20150626,-
+210441,19739431,tatC,EX63_p023,-,-,-,-,Sec-independent protein translocase component TatC,protein-coding,-,-,-,-,20160325,-
+210441,19739432,petA,EX63_p024,-,-,-,-,apocytochrome f,protein-coding,-,-,-,-,20160827,-
+210441,19739433,petF,EX63_p025,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160827,-
+210441,19739434,rpl19,EX63_p026,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20150626,-
+210441,19739438,psbV,EX63_p135,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,-,20150626,-
+210441,19739439,ycf66,EX63_p134,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739440,psbX,EX63_p133,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,-,20160827,-
+210441,19739443,dnaB,EX63_p132,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739445,rpl11,EX63_p131,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20150626,-
+210441,19739446,rpl1,EX63_p130,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20160827,-
+210441,19739447,rpl12,EX63_p129,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160827,-
+210441,19739451,petM,EX63_p128,-,-,-,-,cytochrome b6-f complex subunit 7,protein-coding,-,-,-,-,20160827,-
+210441,19739452,petN,EX63_p127,-,-,-,-,cytochrome b6-f complex subunit 8,protein-coding,-,-,-,-,20150626,-
+210441,19739453,psbH,EX63_p126,-,-,-,-,photosystem II 10 kDa phosphoprotein,protein-coding,-,-,-,-,20150626,-
+210441,19739454,psbN,EX63_p125,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160827,-
+210441,19739455,psbT,EX63_p124,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+210441,19739456,psbB,EX63_p123,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+210441,19739457,rps14,EX63_p122,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+210441,19739458,psaM,EX63_p121,-,-,-,-,photosystem I reaction center subunit M,protein-coding,-,-,-,-,20160827,-
+210441,19739459,chlI,EX63_p120,-,-,-,-,Mg chelatase subunit e,protein-coding,-,-,-,-,20150626,-
+210441,19739460,secG,EX63_p119,-,-,-,-,preprotein-translocase subunit g,protein-coding,-,-,-,-,20150626,-
+210441,19739462,psaD,EX63_p118,-,-,-,-,ferredoxin-binding,protein-coding,-,-,-,ferredoxin-binding|photosystem I reaction center subunit II,20150626,-
+210441,19739464,petB,EX63_p117,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+210441,19739465,petD,EX63_p116,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,-,20160827,-
+210441,19739466,ycf33,EX63_p115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739471,petG,EX63_p114,-,-,-,-,cytochrome b6/f complex subunit 5,protein-coding,-,-,-,-,20160827,-
+210441,19739472,psbK,EX63_p113,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160827,-
+210441,19739473,psaI,EX63_p112,-,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,-,20150626,-
+210441,19739474,psbD,EX63_p111,-,-,-,-,photosystem II reaction center protein D2,protein-coding,-,-,-,-,20160827,-
+210441,19739475,psbC,EX63_p110,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+210441,19739477,ycf12,EX63_p109,-,-,-,-,PSII reaction center protein ycf12,protein-coding,-,-,-,-,20150626,-
+210441,19739478,psbZ,EX63_p108,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150711,-
+210441,19739481,ycf90,EX63_p107,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739482,psbJ,EX63_p106,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+210441,19739483,psbL,EX63_p105,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+210441,19739484,psbF,EX63_p104,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+210441,19739485,psbE,EX63_p103,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20180707,-
+210441,19739487,ycf4,EX63_p102,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160827,-
+210441,19739488,petL,EX63_p101,-,-,-,-,cytochrome b6-f complex subunit 6,protein-coding,-,-,-,-,20160827,-
+210441,19739489,psaL,EX63_p100,-,-,-,-,photosystem I reaction center subunit XI,protein-coding,-,-,-,-,20150626,-
+210441,19739490,cbbX,EX63_p099,-,-,-,-,rubisco expression protein,protein-coding,-,-,-,-,20160827,-
+210441,19739491,ycf39,EX63_p098,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739492,ycf41,EX63_p097,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739493,psbI,EX63_p096,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20180707,-
+210441,19739494,psaF,EX63_p095,-,-,-,-,plastocyanin-binding,protein-coding,-,-,-,plastocyanin-binding|photosystem I reaction center subunit III,20160325,-
+210441,19739495,psaJ,EX63_p094,-,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,-,20150626,-
+210441,19739496,ftsH,EX63_p093,-,-,-,-,cell division protein FTSH,protein-coding,-,-,-,-,20160827,-
+210441,19739497,psaE,EX63_p092,-,-,-,-,photosystem I reaction center subunit IV,protein-coding,-,-,-,-,20160325,-
+210441,19739499,rpl35,EX63_p090,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20150626,-
+210441,19739500,rpl20,EX63_p089,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160827,-
+210441,19739501,ycf45,EX63_p088,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739502,acpP,EX63_p087,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20161209,-
+210441,19739503,acpP2,EX63_p086,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150626,-
+210441,19739504,ycf89,EX63_p085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20161209,-
+210441,19739510,psbY,EX63_p084,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20150626,-
+210441,19739511,psaC,EX63_p083,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20160827,-
+210441,19739514,rpl32,EX63_p082,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160325,-
+210441,19739516,rbcR,EX63_p081,-,-,-,-,rubisco operon transcription regulator,protein-coding,-,-,-,-,20160827,-
+210441,19739517,rpl21,EX63_p080,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20160325,-
+210441,19739518,rpl27,EX63_p079,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20150626,-
+210441,19739519,secA,EX63_p078,-,-,-,-,preprotein-translocase subunit a,protein-coding,-,-,-,-,20160827,-
+210441,19739520,rpl34,EX63_p077,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20150711,-
+210441,19739521,ycf46,EX63_p076,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+210441,19739522,ccs1,EX63_p075,-,-,-,-,c-type cytochrome biogenesis protein,protein-coding,-,-,-,-,20150626,-
+210441,19739523,psbA,EX63_p074,-,-,-,-,photosystem II reaction center protein D1,protein-coding,-,-,-,-,20160827,-
+210441,19739524,ycf35,EX63_p073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+210441,19739525,rps16,EX63_p072,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+210441,19739526,rps4,EX63_p071,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160827,-
+210441,19739528,thiS,EX63_p070,-,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,-,20150626,-
+210441,19739529,syfB,EX63_p069,-,-,-,-,phenylalanine-tRNA ligase beta subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739530,psb28,EX63_p068,-,-,-,-,photosystem II protein W,protein-coding,-,-,-,-,20150626,-
+210441,19739533,groEL,EX63_p067,-,-,-,-,60-kDa chaperonin,protein-coding,-,-,-,-,20160827,-
+210441,19739534,dnaK,EX63_p066,-,-,-,-,Hsp70-type chaperone,protein-coding,-,-,-,-,20160325,-
+210441,19739535,rpl3,EX63_p065,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20150626,-
+210441,19739536,rpl4,EX63_p064,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20150626,-
+210441,19739537,rpl23,EX63_p063,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160325,-
+210441,19739538,rpl2,EX63_p062,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160827,-
+210441,19739539,rps19,EX63_p061,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+210441,19739540,ycf88,EX63_p060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+210441,19739541,rpl22,EX63_p059,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160827,-
+210441,19739542,rps3,EX63_p058,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160827,-
+210441,19739543,rpl16,EX63_p057,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160827,-
+210441,19739544,rpl29,EX63_p056,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20160827,-
+210441,19739545,rps17,EX63_p055,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20150626,-
+210441,19739546,rpl14,EX63_p054,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+210441,19739547,rpl24,EX63_p053,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,-,20160827,-
+210441,19739548,rpl5,EX63_p052,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160827,-
+210441,19739549,rps8,EX63_p051,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+210441,19739550,rpl6,EX63_p050,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20160827,-
+210441,19739551,rpl18,EX63_p049,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20160827,-
+210441,19739552,rps5,EX63_p048,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20160827,-
+210441,19739553,secY,EX63_p047,-,-,-,-,SecY-type transporter protein,protein-coding,-,-,-,-,20160827,-
+210441,19739554,rpl36,EX63_p046,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160325,-
+210441,19739555,rps13,EX63_p045,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20160827,-
+210441,19739556,rps11,EX63_p044,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+210441,19739557,rpoA,EX63_p043,-,-,-,-,RNA polymerase a-subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739558,rpl13,EX63_p042,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20160827,-
+210441,19739559,rps9,EX63_p041,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20150626,-
+210441,19739560,rpl31,EX63_p040,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20160325,-
+210441,19739561,rps12,EX63_p039,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+210441,19739562,rps7,EX63_p038,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+210441,19739563,tufA,EX63_p037,-,-,-,-,translation elongation factor Tu,protein-coding,-,-,-,-,20160827,-
+210441,19739564,rps10,EX63_p036,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20150626,-
+210441,19739565,ccsA,EX63_p035,-,-,-,-,heme attachment to plastid cytochrome c,protein-coding,-,-,-,-,20150626,-
+210441,19739566,rps6,EX63_p034,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,-,20160827,-
+210441,19739568,thiG,EX63_p033,-,-,-,-,thiamine biosynthesis protein G,protein-coding,-,-,-,-,20160827,-
+210441,19739569,clpC,EX63_p032,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,-,20160827,-
+210441,19739572,psaC,EX63_p031,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20160827,-
+210441,19739573,psbY,EX63_p030,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,-,20150626,-
+210441,19739579,ycf89,EX63_p029,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20161209,-
+210441,19739581,acpP2,EX63_p028,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150626,-
+210441,19739583,acpP,EX63_p027,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20161209,-
+210441,19739584,psaA,EX63_p001,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+210441,19742520,trnM-CAU,EX63_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742521,ssrA,EX63_s002,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20140703,-
+210441,19742522,trnR-CCG,EX63_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742523,ffs,EX63_s001,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20140703,-
+210441,19742524,trnF-GAA,EX63_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742525,trnW-CCA,EX63_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742526,trnI-CAU,EX63_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742527,trnS-GCU,EX63_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742528,trnD-GUC,EX63_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742529,trnfM-CAU,EX63_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742530,trnS-UGA,EX63_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742531,trnY-GUA,EX63_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742532,trnV-UAC,EX63_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742533,trnR-UCU,EX63_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742534,trnT-UGU,EX63_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742535,trnK-UUU,EX63_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742536,trnG-GCC,EX63_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742537,trnE-UUC,EX63_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742538,trnG-UCC,EX63_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742539,bas1,EX63_p091,-,-,-,-,pseudo,pseudo,-,-,-,-,20140703,-
+210441,19742540,rns,EX63_r006,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742541,trnI-GAU,EX63_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742542,trnA-UGC,EX63_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742543,rnl,EX63_r005,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742544,rrn5,EX63_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742545,trnL-UAA,EX63_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742546,trnC-GCA,EX63_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742547,trnL-UAG,EX63_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742548,trnH-GUG,EX63_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742549,trnQ-UUG,EX63_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742550,trnR-ACG,EX63_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742551,trnN-GUU,EX63_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742552,trnC-GCA,EX63_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742553,trnL-UAA,EX63_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742554,rrn5,EX63_r003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742555,rnl,EX63_r002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742556,trnA-UGC,EX63_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742557,trnI-GAU,EX63_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742558,rns,EX63_r001,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20140703,-
+210441,19742559,trnP-UGG,EX63_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,19742560,trnP-UGG,EX63_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140703,-
+210441,30510678,trnD(guc),EX63_gt01,BGL49_002,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510679,nad4l,EX63_gp35,BGL49_003,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170310,-
+210441,30510680,trnK(uuu),EX63_gt02,BGL49_004,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510681,atp9,EX63_gp34,BGL49_005,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,-,20170310,-
+210441,30510682,rpl16,EX63_gp33,BGL49_006,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20170310,-
+210441,30510683,rps3,EX63_gp32,BGL49_007,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20170310,-
+210441,30510684,rps19,EX63_gp31,BGL49_008,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20170310,-
+210441,30510685,rpl2,EX63_gp30,BGL49_009,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20170310,-
+210441,30510686,rps11,EX63_gp29,BGL49_010,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20170310,-
+210441,30510687,trnY(gua),EX63_gt03,BGL49_011,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510688,trnP(ugg),EX63_gt04,BGL49_012,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510689,trnM(cau),EX63_gt05,BGL49_013,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510690,trnW(cca),EX63_gt06,BGL49_014,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510691,tatC,EX63_gp28,BGL49_015,-,MT,-,SecY-independent transporter protein,protein-coding,-,-,-,-,20170310,-
+210441,30510692,nad1,EX63_gp27,BGL49_016,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170310,-
+210441,30510693,trnC(gca),EX63_gt07,BGL49_017,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510694,trnS(uga),EX63_gt08,BGL49_018,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510695,trnG(gcc),EX63_gt09,BGL49_019,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510696,rpl5,EX63_gp26,BGL49_020,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20170310,-
+210441,30510697,rpl14,EX63_gp25,BGL49_021,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20170310,-
+210441,30510698,trnR(ucg),EX63_gt10,BGL49_022,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510699,rps7,EX63_gp24,BGL49_023,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20170310,-
+210441,30510700,rps12,EX63_gp23,BGL49_024,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20170310,-
+210441,30510701,trnN(guu),EX63_gt11,BGL49_025,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510702,trnL(uag),EX63_gt12,BGL49_026,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510703,trnL(uaa),EX63_gt13,BGL49_027,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510704,atp8,EX63_gp22,BGL49_028,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,-,20170310,-
+210441,30510705,trnA(ugc),EX63_gt14,BGL49_029,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510706,rps4,EX63_gp21,BGL49_030,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20170310,-
+210441,30510707,rps2,EX63_gp20,BGL49_031,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20170310,-
+210441,30510708,rpl6,EX63_gp19,BGL49_032,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20170310,-
+210441,30510709,rps8,EX63_gp18,BGL49_033,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20170310,-
+210441,30510710,trnF(gaa),EX63_gt15,BGL49_034,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510711,rps10,EX63_gp17,BGL49_035,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20170310,-
+210441,30510712,atp6,EX63_gp16,BGL49_036,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,-,20170310,-
+210441,30510713,rps14,EX63_gp15,BGL49_037,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20170310,-
+210441,30510714,nad9,EX63_gp14,BGL49_038,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20170310,-
+210441,30510715,nad7,EX63_gp13,BGL49_039,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170310,-
+210441,30510716,cox2,EX63_gp12,BGL49_040,-,MT,-,cytochrome oxidase subunit 2,protein-coding,-,-,-,-,20170310,-
+210441,30510717,trnM(cau),EX63_gt16,BGL49_041,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510718,nad5,EX63_gp11,BGL49_042,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170310,-
+210441,30510719,rps13,EX63_gp10,BGL49_043,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20170310,-
+210441,30510720,nad4,EX63_gp09,BGL49_044,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170310,-
+210441,30510721,trnR(ucu),EX63_gt17,BGL49_045,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510722,nad2,EX63_gp08,BGL49_046,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170310,-
+210441,30510723,cox3,EX63_gp07,BGL49_047,-,MT,-,cytochrome oxidase subunit 3,protein-coding,-,-,-,-,20170310,-
+210441,30510724,trnI(gau),EX63_gt18,BGL49_048,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510725,nad6,EX63_gp06,BGL49_049,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170310,-
+210441,30510726,trnM(cau),EX63_gt19,BGL49_050,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510727,rrns,EX63_gr02,BGL49_051,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20161209,-
+210441,30510728,rrnl,EX63_gr01,BGL49_052,-,MT,-,23S ribosomal RNA,rRNA,-,-,-,-,20161209,-
+210441,30510729,trnH(gug),EX63_gt20,BGL49_053,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510730,cox1,EX63_gp05,BGL49_055,-,MT,-,cytochrome oxidase subunit I,protein-coding,-,-,-,-,20170310,-
+210441,30510731,cob,EX63_gp03,BGL49_056,-,MT,-,cytochrome b,protein-coding,-,-,-,-,20170310,-
+210441,30510732,ORF687,EX63_gp04,BGL49_054,-,MT,-,Type II intron,protein-coding,-,-,-,-,20170310,-
+210441,30510733,trnL(caa),EX63_gt21,BGL49_057,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510734,trnV(uac),EX63_gt22,BGL49_058,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510735,nad3,EX63_gp02,BGL49_059,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170310,-
+210441,30510736,trnS(gcu),EX63_gt23,BGL49_060,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510737,trnE(uuc),EX63_gt24,BGL49_061,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510738,trnQ(uug),EX63_gt25,BGL49_062,-,MT,-,tRNA,tRNA,-,-,-,-,20161209,-
+210441,30510739,nad11,EX63_gp01,BGL49_001,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,-,20170310,-

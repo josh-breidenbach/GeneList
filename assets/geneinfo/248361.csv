@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+248361,4290550,psbE,MoinCp038,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170906,-
+248361,4290551,ndhB,MoinCp065,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+248361,4290552,rps7,MoinCp066,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160903,-
+248361,4290553,petL,MoinCp039,ycf7,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+248361,4290554,petG,MoinCp040,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+248361,4290555,tRNA-His (GUG),MoinCt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290556,psbA,MoinCp001,-,-,-,-,PS II protein D1,protein-coding,-,-,-,PS II protein D1|photosystem II protein D1,20160903,-
+248361,4290557,tRNA-Lys (UUU),MoinCt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290558,matK,MoinCp002,-,-,-,-,maturase K,protein-coding,-,-,-,-,20210417,-
+248361,4290559,tRNA-Glu (UUC),MoinCt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290560,tRNA-Thr (GGU),MoinCt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290561,psbD,MoinCp016,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160903,-
+248361,4290562,psbC,MoinCp017,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20150626,-
+248361,4290563,tRNA-Ser (UGA),MoinCt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290564,psbZ,MoinCp018,ycf9,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+248361,4290565,tRNA-Gly (GCC),MoinCt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290566,tRNA-fMet (CAU),MoinCt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290567,rps14,MoinCp019,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160325,-
+248361,4290568,psaB,MoinCp020,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20150626,-
+248361,4290569,psaA,MoinCp021,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20150626,-
+248361,4290570,ycf3,MoinCp022,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170906,-
+248361,4290571,tRNA-Ser (GGA),MoinCt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290572,rps4,MoinCp023,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+248361,4290573,tRNA-Thr (UGU),MoinCt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290574,tRNA-Leu (UAA),MoinCt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290575,tRNA-Phe (GAA),MoinCt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290576,ndhJ,MoinCp024,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20150626,-
+248361,4290577,ndhK,MoinCp025,psbG,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20160903,-
+248361,4290578,ndhC,MoinCp026,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20150626,-
+248361,4290579,psaI,MoinCp031,-,-,-,-,photosystem I reaction centre subunit VIII,protein-coding,-,-,-,-,20150626,-
+248361,4290580,ycf4,MoinCp032,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20150626,-
+248361,4290581,rps12,MoinCp1,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+248361,4290582,rpl2,MoinCp062,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+248361,4290583,rpl23,MoinCp063,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+248361,4290584,tRNA-Ile (CAU),MoinCt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290585,ycf2,MoinCp064,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170906,-
+248361,4290586,tRNA-Leu (CAA),MoinCt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290587,tRNA-Val (GAC),MoinCt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290588,rrn16,MoinCr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290589,tRNA-Ile (GAU),MoinCt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290590,atpF,MoinCp007,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20170906,-
+248361,4290591,atpH,MoinCp008,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,-,20150626,-
+248361,4290592,atpI,MoinCp009,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,-,20150626,-
+248361,4290593,rps2,MoinCp010,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160903,-
+248361,4290594,rpoC2,MoinCp011,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160903,-
+248361,4290595,rpoC1,MoinCp012,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20210417,-
+248361,4290596,rpoB,MoinCp013,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160903,-
+248361,4290597,tRNA-Cys (GCA),MoinCt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290598,petN,MoinCp014,ycf6,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+248361,4290599,psbM,MoinCp015,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190815,-
+248361,4290600,tRNA-Asp (GUC),MoinCt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290601,tRNA-Tyr (GUA),MoinCt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290602,ycf1,MoinCp067,-,-,-,-,hypothetical chloroplast RF1,pseudo,-,-,-,-,20120927,-
+248361,4290603,ndhF,MoinCp068,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160903,-
+248361,4290604,rpl32,MoinCp069,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+248361,4290605,tRNA-Leu (UAG),MoinCt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290606,ccsA,MoinCp070,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20150626,-
+248361,4290607,ndhD,MoinCp071,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160903,-
+248361,4290608,psaC,MoinCp072,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+248361,4290609,ndhE,MoinCp073,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150626,-
+248361,4290610,ndhG,MoinCp074,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160325,-
+248361,4290611,ndhI,MoinCp075,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20170906,-
+248361,4290612,ndhA,MoinCp076,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150626,-
+248361,4290613,ndhH,MoinCp077,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170906,-
+248361,4290614,rps15,MoinCp078,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160903,-
+248361,4290615,ycf1,MoinCp079,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160903,-
+248361,4290616,tRNA-Asn (GUU),MoinCt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290617,rrn16,MoinCr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290618,tRNA-Val (GAC),MoinCt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290619,rps7,MoinCp080,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160903,-
+248361,4290620,ndhB,MoinCp081,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+248361,4290621,tRNA-Leu (CAA),MoinCt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290622,ycf2,MoinCp082,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20170906,-
+248361,4290623,tRNA-Ile (CAU),MoinCt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290624,rpl23,MoinCp083,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+248361,4290625,rpl2,MoinCp084,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+248361,4290627,petB,MoinCp051,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20210129,-
+248361,4290628,petD,MoinCp052,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160716,-
+248361,4290629,rpoA,MoinCp053,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170906,-
+248361,4290630,rps11,MoinCp054,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+248361,4290631,rpl36,MoinCp055,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+248361,4290632,rps8,MoinCp056,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+248361,4290633,rpl14,MoinCp057,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160325,-
+248361,4290634,rpl16,MoinCp058,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160903,-
+248361,4290635,rps3,MoinCp059,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+248361,4290636,rpl22,MoinCp060,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160903,-
+248361,4290637,rps19,MoinCp061,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+248361,4290638,tRNA-Trp (CCA),MoinCt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290639,tRNA-Pro (UGG),MoinCt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290640,psaJ,MoinCp041,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+248361,4290641,rpl33,MoinCp042,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+248361,4290642,rps18,MoinCp043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+248361,4290643,rpl20,MoinCp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160903,-
+248361,4290644,rps12,MoinCp045,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+248361,4290645,clpP,MoinCp046,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160903,-
+248361,4290646,psbB,MoinCp047,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20150626,-
+248361,4290647,psbT,MoinCp048,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+248361,4290648,psbN,MoinCp049,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+248361,4290649,psbH,MoinCp050,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20150626,-
+248361,4290650,tRNA-Arg (ACG),MoinCt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290651,rrn5,MoinCr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290652,rrn4.5,MoinCr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290653,rrn23,MoinCr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290654,tRNA-Ala (UGC),MoinCt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290655,tRNA-Ile (GAU),MoinCt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290656,rps16,MoinCp003,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160325,-
+248361,4290657,tRNA-Gln (UUG),MoinCt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290658,psbK,MoinCp004,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+248361,4290659,psbI,MoinCp005,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+248361,4290660,tRNA-Ser (GCU),MoinCt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290661,tRNA-Gly (UCC),MoinCt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290662,tRNA-Arg (UCU),MoinCt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290663,atpA,MoinCp006,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+248361,4290664,tRNA-Ala (UGC),MoinCt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290665,rrn23,MoinCr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290666,rrn4.5,MoinCr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290667,rrn5,MoinCr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120927,-
+248361,4290668,tRNA-Arg (ACG),MoinCt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290669,tRNA-Asn (GUU),MoinCt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290670,tRNA-Val (UAC),MoinCt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290671,tRNA-Met (CAU),MoinCt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20120927,-
+248361,4290672,atpE,MoinCp027,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+248361,4290673,atpB,MoinCp028,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160903,-
+248361,4290674,rbcL,MoinCp029,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170906,-
+248361,4290675,accD,MoinCp030,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20150626,-
+248361,4290676,cemA,MoinCp033,ycf10,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20160325,-
+248361,4290677,petA,MoinCp034,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+248361,4290678,psbJ,MoinCp035,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+248361,4290679,psbL,MoinCp036,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+248361,4290680,psbF,MoinCp037,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20150626,-

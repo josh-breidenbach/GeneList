@@ -1,0 +1,234 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+382359,4238982,BSV9_gp215,BSV9_gp215,BSV9_gp213,-,-,-,gp215,protein-coding,-,-,-,gp215,20200909,-
+382359,4238983,BSV9_gp216,BSV9_gp216,BSV9_gp214,-,-,-,photosystem II D1 protein,protein-coding,-,-,-,photosystem II D1 protein,20200909,-
+382359,4238984,BSV9_gp217,BSV9_gp217,BSV9_gp215,-,-,-,gp217,protein-coding,-,-,-,gp217,20200909,-
+382359,4238985,BSV9_gp218,BSV9_gp218,BSV9_gp216,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,photosystem II D2 protein,20201220,-
+382359,4238986,BSV9_gp219,BSV9_gp219,BSV9_gp217,-,-,-,gp219,protein-coding,-,-,-,gp219,20200909,-
+382359,4238987,BSV9_gp220,BSV9_gp220,BSV9_gp218,-,-,-,gp220,protein-coding,-,-,-,gp220,20200909,-
+382359,4238988,BSV9_gp221,BSV9_gp221,BSV9_gp219,-,-,-,gp221,protein-coding,-,-,-,gp221,20200909,-
+382359,4238989,BSV9_gp222,BSV9_gp222,BSV9_gp220,-,-,-,gp222,protein-coding,-,-,-,gp222,20200909,-
+382359,4238990,BSV9_gp223,BSV9_gp223,BSV9_gp221,-,-,-,glutaredoxin,protein-coding,-,-,-,glutaredoxin,20200909,-
+382359,4238991,BSV9_gp224,BSV9_gp224,BSV9_gp222,-,-,-,gp224,protein-coding,-,-,-,gp224,20200909,-
+382359,4238992,BSV9_gp225,BSV9_gp225,BSV9_gp223,-,-,-,gp225,protein-coding,-,-,-,gp225,20200909,-
+382359,4238993,BSV9_gp226,BSV9_gp226,BSV9_gp224,-,-,-,gp226,protein-coding,-,-,-,gp226,20200909,-
+382359,4238994,BSV9_gp227,BSV9_gp227,BSV9_gp225,-,-,-,gp227,protein-coding,-,-,-,gp227,20200909,-
+382359,4238995,BSV9_gp228,BSV9_gp228,BSV9_gp226,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20200909,-
+382359,4238996,BSV9_gp229,BSV9_gp229,BSV9_gp227,-,-,-,gp229,protein-coding,-,-,-,gp229,20200909,-
+382359,4238997,BSV9_gp230,BSV9_gp230,BSV9_gp228,-,-,-,gp230,protein-coding,-,-,-,gp230,20200909,-
+382359,4238998,BSV9_gp231,BSV9_gp231,BSV9_gp229,-,-,-,phosphate-starvation inducible protein,protein-coding,-,-,-,phosphate-starvation inducible protein,20200909,-
+382359,4238999,BSV9_gp232,BSV9_gp232,BSV9_gp001,-,-,-,gp232,protein-coding,-,-,-,gp232,20200909,-
+382359,4239000,BSV9_gp101,BSV9_gp101,BSV9_gp097,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239001,BSV9_gp102,BSV9_gp102,BSV9_gp098,-,-,-,baseplate wedge subunit and tail pin,protein-coding,-,-,-,baseplate wedge subunit and tail pin,20200909,-
+382359,4239002,BSV9_gp103,BSV9_gp103,BSV9_gp099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200909,-
+382359,4239003,BSV9_gp104,BSV9_gp104,BSV9_gp100,-,-,-,baseplate wedge,protein-coding,-,-,-,baseplate wedge,20200909,-
+382359,4239004,BSV9_gp105,BSV9_gp105,BSV9_gp101,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239005,BSV9_gp106,BSV9_gp106,BSV9_gp102,-,-,-,gp106,protein-coding,-,-,-,gp106,20200909,-
+382359,4239006,BSV9_gp107,BSV9_gp107,BSV9_gp103,-,-,-,gp107,protein-coding,-,-,-,gp107,20200909,-
+382359,4239007,BSV9_gp108,BSV9_gp108,BSV9_gp104,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239008,13,BSV9_gp109,BSV9_gp105,-,-,-,neck protein,protein-coding,-,-,-,neck protein,20200909,-
+382359,4239009,14,BSV9_gp110,BSV9_gp106,-,-,-,neck protein,protein-coding,-,-,-,neck protein,20200909,-
+382359,4239010,15,BSV9_gp111,BSV9_gp107,-,-,-,tail sheath stabilizer and completion protein,protein-coding,-,-,-,tail sheath stabilizer and completion protein,20201220,-
+382359,4239011,BSV9_gp112,BSV9_gp112,BSV9_gp108,-,-,-,terminase small subunit,protein-coding,-,-,-,terminase small subunit,20200909,-
+382359,4239012,BSV9_gp113,BSV9_gp113,BSV9_gp109,-,-,-,gp113,protein-coding,-,-,-,gp113,20200909,-
+382359,4239013,BSV9_gp114,BSV9_gp114,BSV9_gp110,-,-,-,gp114,protein-coding,-,-,-,gp114,20200909,-
+382359,4239014,BSV9_gp115,BSV9_gp115,BSV9_gp111,-,-,-,gp115,protein-coding,-,-,-,gp115,20200909,-
+382359,4239015,BSV9_gp116,BSV9_gp116,BSV9_gp112,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239016,BSV9_gp117,BSV9_gp117,BSV9_gp113,-,-,-,plastocyanin,protein-coding,-,-,-,plastocyanin,20200909,-
+382359,4239017,BSV9_gp118,BSV9_gp118,BSV9_gp114,-,-,-,gp118,protein-coding,-,-,-,gp118,20200909,-
+382359,4239018,BSV9_gp119,BSV9_gp119,BSV9_gp115,-,-,-,plastoquinol terminal oxidase,protein-coding,-,-,-,plastoquinol terminal oxidase,20200909,-
+382359,4239019,44,BSV9_gp156,BSV9_gp155,-,-,-,"clamp loader, small subunit",protein-coding,-,-,-,"clamp loader, small subunit",20201220,-
+382359,4239020,BSV9_gp157,BSV9_gp157,BSV9_gp156,-,-,-,gp157,protein-coding,-,-,-,gp157,20200909,-
+382359,4239021,BSV9_gp158,BSV9_gp158,BSV9_gp157,-,-,-,putative cytosine specific DNA methyl transferase,protein-coding,-,-,-,putative cytosine specific DNA methyl transferase,20200909,-
+382359,4239022,BSV9_gp159,BSV9_gp159,BSV9_gp158,-,-,-,clamp loader subunit,protein-coding,-,-,-,clamp loader subunit,20200909,-
+382359,4239023,regA,BSV9_gp160,BSV9_gp159,-,-,-,translation repressor protein,protein-coding,-,-,-,translation repressor protein,20201220,-
+382359,4239024,BSV9_gp161,BSV9_gp161,BSV9_gp160,-,-,-,gp161,protein-coding,-,-,-,gp161,20200909,-
+382359,4239025,BSV9_gp162,BSV9_gp162,BSV9_gp161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239026,BSV9_gp163,BSV9_gp163,BSV9_gp162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239027,BSV9_gp164,BSV9_gp164,BSV9_gp163,-,-,-,gp164,protein-coding,-,-,-,gp164,20200909,-
+382359,4239028,BSV9_gp165,BSV9_gp165,BSV9_gp164,-,-,-,gp165,protein-coding,-,-,-,gp165,20200909,-
+382359,4239029,BSV9_gp166,BSV9_gp166,BSV9_gp165,-,-,-,gp166,protein-coding,-,-,-,gp166,20200909,-
+382359,4239030,BSV9_gp167,BSV9_gp167,BSV9_gp166,-,-,-,gp167,protein-coding,-,-,-,gp167,20200909,-
+382359,4239031,BSV9_gp168,BSV9_gp168,BSV9_gp167,-,-,-,heat shock protein,protein-coding,-,-,-,heat shock protein,20200909,-
+382359,4239032,BSV9_gp169,BSV9_gp169,BSV9_gp168,-,-,-,gp169,protein-coding,-,-,-,gp169,20200909,-
+382359,4239033,BSV9_gp170,BSV9_gp170,BSV9_gp169,-,-,-,gp170,protein-coding,-,-,-,gp170,20200909,-
+382359,4239034,BSV9_gp171,BSV9_gp171,BSV9_gp170,-,-,-,gp171,protein-coding,-,-,-,gp171,20200909,-
+382359,4239035,BSV9_gp172,BSV9_gp172,BSV9_gp171,-,-,-,gp172,protein-coding,-,-,-,gp172,20200909,-
+382359,4239036,43,BSV9_gp173,BSV9_gp172,-,-,-,DNA polymerase,protein-coding,-,-,-,DNA polymerase,20200909,-
+382359,4239037,BSV9_gp174,BSV9_gp174,BSV9_gp173,-,-,-,gp174,protein-coding,-,-,-,gp174,20200909,-
+382359,4239038,BSV9_gp175,BSV9_gp175,BSV9_gp174,-,-,-,RecA-like recombination protein,protein-coding,-,-,-,RecA-like recombination protein,20200909,-
+382359,4239039,BSV9_gp195,BSV9_gp195,BSV9_gp194,-,-,-,gp195,protein-coding,-,-,-,gp195,20200909,-
+382359,4239040,BSV9_gp196,BSV9_gp196,BSV9_gp195,-,-,-,gp196,protein-coding,-,-,-,gp196,20200909,-
+382359,4239041,BSV9_gp197,BSV9_gp197,BSV9_gp196,-,-,-,gp197,protein-coding,-,-,-,gp197,20200909,-
+382359,4239042,BSV9_gp198,BSV9_gp198,BSV9_gp197,-,-,-,gp198,protein-coding,-,-,-,gp198,20200909,-
+382359,4239043,BSV9_gp199,BSV9_gp199,BSV9_gp198,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20200909,-
+382359,4239044,BSV9_gp200,BSV9_gp200,BSV9_gp199,-,-,-,gp200,protein-coding,-,-,-,gp200,20200909,-
+382359,4239045,BSV9_gp201,BSV9_gp201,BSV9_gp200,-,-,-,gp201,protein-coding,-,-,-,gp201,20200909,-
+382359,4239046,BSV9_gp202,BSV9_gp202,BSV9_gp201,-,-,-,gp202,protein-coding,-,-,-,gp202,20200909,-
+382359,4239047,BSV9_gp203,BSV9_gp203,BSV9_gp202,-,-,-,gp203,protein-coding,-,-,-,gp203,20200909,-
+382359,4239048,BSV9_gt204,BSV9_gt204,BSV9_gt006,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239049,BSV9_gp205,BSV9_gp205,BSV9_gp203,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239050,BSV9_gp206,BSV9_gp206,BSV9_gp204,-,-,-,gp206,protein-coding,-,-,-,gp206,20200909,-
+382359,4239051,BSV9_gp207,BSV9_gp207,BSV9_gp205,-,-,-,gp207,protein-coding,-,-,-,gp207,20200909,-
+382359,4239052,BSV9_gp208,BSV9_gp208,BSV9_gp206,-,-,-,gp208,protein-coding,-,-,-,gp208,20200909,-
+382359,4239053,BSV9_gp209,BSV9_gp209,BSV9_gp207,-,-,-,high light inducible protein,protein-coding,-,-,-,high light inducible protein,20200909,-
+382359,4239054,BSV9_gp210,BSV9_gp210,BSV9_gp208,-,-,-,high light inducible protein,protein-coding,-,-,-,high light inducible protein,20200909,-
+382359,4239055,BSV9_gp211,BSV9_gp211,BSV9_gp209,-,-,-,putative thioredoxin,protein-coding,-,-,-,putative thioredoxin,20200909,-
+382359,4239056,BSV9_gp212,BSV9_gp212,BSV9_gp210,-,-,-,gp212,protein-coding,-,-,-,gp212,20200909,-
+382359,4239057,BSV9_gp213,BSV9_gp213,BSV9_gp211,-,-,-,gp213,protein-coding,-,-,-,gp213,20200909,-
+382359,4239058,BSV9_gp1,BSV9_gp1,BSV9_gp002,-,-,-,putative late promoter transcription factor,protein-coding,-,-,-,putative late promoter transcription factor,20200909,-
+382359,4239059,59,BSV9_gp2,BSV9_gp003,-,-,-,59 protein,protein-coding,-,-,-,59 protein,20201220,-
+382359,4239060,BSV9_gp3,BSV9_gp3,BSV9_gp004,-,-,-,gp3,protein-coding,-,-,-,gp3,20200909,-
+382359,4239061,32,BSV9_gp4,BSV9_gp005,-,-,-,single-stranded DNA binding protein,protein-coding,-,-,-,single-stranded DNA binding protein,20200909,-
+382359,4239062,BSV9_gp5,BSV9_gp5,BSV9_gp006,-,-,-,gp5,protein-coding,-,-,-,gp5,20200909,-
+382359,4239063,BSV9_gp6,BSV9_gp6,BSV9_gp007,-,-,-,gp6,protein-coding,-,-,-,gp6,20200909,-
+382359,4239064,BSV9_gp7,BSV9_gp7,BSV9_gp008,-,-,-,gp7,protein-coding,-,-,-,gp7,20200909,-
+382359,4239065,BSV9_gp8,BSV9_gp8,BSV9_gp009,-,-,-,baseplate wedge subunit,protein-coding,-,-,-,baseplate wedge subunit,20200909,-
+382359,4239066,BSV9_gt27,BSV9_gt27,BSV9_gt004,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239067,BSV9_gt28,BSV9_gt28,BSV9_gt005,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239068,BSV9_gp29,BSV9_gp29,BSV9_gp025,-,-,-,gp29,protein-coding,-,-,-,gp29,20200909,-
+382359,4239069,BSV9_gp30,BSV9_gp30,BSV9_gp026,-,-,-,gp30,protein-coding,-,-,-,gp30,20200909,-
+382359,4239070,BSV9_gp31,BSV9_gp31,BSV9_gp027,-,-,-,gp31,protein-coding,-,-,-,gp31,20200909,-
+382359,4239071,BSV9_gp32,BSV9_gp32,BSV9_gp028,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239072,BSV9_gp33,BSV9_gp33,BSV9_gp029,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239073,BSV9_gp34,BSV9_gp34,BSV9_gp030,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239074,BSV9_gp35,BSV9_gp35,BSV9_gp031,-,-,-,gp35,protein-coding,-,-,-,gp35,20200909,-
+382359,4239075,BSV9_gp36,BSV9_gp36,BSV9_gp032,-,-,-,gp36,protein-coding,-,-,-,gp36,20200909,-
+382359,4239076,BSV9_gp37,BSV9_gp37,BSV9_gp033,-,-,-,gp37,protein-coding,-,-,-,gp37,20200909,-
+382359,4239077,BSV9_gp38,BSV9_gp38,BSV9_gp034,-,-,-,gp38,protein-coding,-,-,-,gp38,20200909,-
+382359,4239078,BSV9_gp39,BSV9_gp39,BSV9_gp035,-,-,-,gp39,protein-coding,-,-,-,gp39,20200909,-
+382359,4239079,BSV9_gp40,BSV9_gp40,BSV9_gp036,-,-,-,gp40,protein-coding,-,-,-,gp40,20200909,-
+382359,4239080,BSV9_gp41,BSV9_gp41,BSV9_gp037,-,-,-,putative tryptophan halogenase,protein-coding,-,-,-,putative tryptophan halogenase,20200909,-
+382359,4239081,BSV9_gp81,BSV9_gp81,BSV9_gp077,-,-,-,gp81,protein-coding,-,-,-,gp81,20200909,-
+382359,4239082,BSV9_gp82,BSV9_gp82,BSV9_gp078,-,-,-,gp82,protein-coding,-,-,-,gp82,20200909,-
+382359,4239083,BSV9_gp83,BSV9_gp83,BSV9_gp079,-,-,-,gp83,protein-coding,-,-,-,gp83,20200909,-
+382359,4239084,BSV9_gp84,BSV9_gp84,BSV9_gp080,-,-,-,gp84,protein-coding,-,-,-,gp84,20200909,-
+382359,4239085,BSV9_gp85,BSV9_gp85,BSV9_gp081,-,-,-,gp85,protein-coding,-,-,-,gp85,20200909,-
+382359,4239086,BSV9_gp86,BSV9_gp86,BSV9_gp082,-,-,-,gp86,protein-coding,-,-,-,gp86,20200909,-
+382359,4239087,BSV9_gp87,BSV9_gp87,BSV9_gp083,-,-,-,gp87,protein-coding,-,-,-,gp87,20200909,-
+382359,4239088,BSV9_gp88,BSV9_gp88,BSV9_gp084,-,-,-,gp88,protein-coding,-,-,-,gp88,20200909,-
+382359,4239089,BSV9_gp89,BSV9_gp89,BSV9_gp085,-,-,-,gp89,protein-coding,-,-,-,gp89,20200909,-
+382359,4239090,BSV9_gp90,BSV9_gp90,BSV9_gp086,-,-,-,gp90,protein-coding,-,-,-,gp90,20200909,-
+382359,4239091,BSV9_gp91,BSV9_gp91,BSV9_gp087,-,-,-,gp91,protein-coding,-,-,-,gp91,20200909,-
+382359,4239092,BSV9_gp92,BSV9_gp92,BSV9_gp088,-,-,-,gp92,protein-coding,-,-,-,gp92,20200909,-
+382359,4239093,BSV9_gp93,BSV9_gp93,BSV9_gp089,-,-,-,gp93,protein-coding,-,-,-,gp93,20200909,-
+382359,4239094,BSV9_gp94,BSV9_gp94,BSV9_gp090,-,-,-,gp94,protein-coding,-,-,-,gp94,20200909,-
+382359,4239095,BSV9_gp95,BSV9_gp95,BSV9_gp091,-,-,-,gp95,protein-coding,-,-,-,gp95,20200909,-
+382359,4239096,BSV9_gp96,BSV9_gp96,BSV9_gp092,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239097,BSV9_gp97,BSV9_gp97,BSV9_gp093,-,-,-,gp97,protein-coding,-,-,-,gp97,20200909,-
+382359,4239098,BSV9_gp98,BSV9_gp98,BSV9_gp094,-,-,-,gp98,protein-coding,-,-,-,gp98,20200909,-
+382359,4239099,25,BSV9_gp99,BSV9_gp095,-,-,-,baseplate wedge subunit,protein-coding,-,-,-,baseplate wedge subunit,20200909,-
+382359,4239100,6,BSV9_gp100,BSV9_gp096,-,-,-,baseplate wedge subunit,protein-coding,-,-,-,baseplate wedge subunit,20200909,-
+382359,4239101,BSV9_gp42,BSV9_gp42,BSV9_gp038,-,-,-,putative tryptophan halogenase,protein-coding,-,-,-,putative tryptophan halogenase,20200909,-
+382359,4239102,BSV9_gp43,BSV9_gp43,BSV9_gp039,-,-,-,gp43,protein-coding,-,-,-,gp43,20200909,-
+382359,4239103,BSV9_gp44,BSV9_gp44,BSV9_gp040,-,-,-,gp44,protein-coding,-,-,-,gp44,20200909,-
+382359,4239104,BSV9_gp45,BSV9_gp45,BSV9_gp041,-,-,-,gp45,protein-coding,-,-,-,gp45,20200909,-
+382359,4239105,BSV9_gp46,BSV9_gp46,BSV9_gp042,-,-,-,gp46,protein-coding,-,-,-,gp46,20200909,-
+382359,4239106,BSV9_gp47,BSV9_gp47,BSV9_gp043,-,-,-,gp47,protein-coding,-,-,-,gp47,20200909,-
+382359,4239107,BSV9_gp48,BSV9_gp48,BSV9_gp044,-,-,-,gp48,protein-coding,-,-,-,gp48,20200909,-
+382359,4239108,BSV9_gp49,BSV9_gp49,BSV9_gp045,-,-,-,gp49,protein-coding,-,-,-,gp49,20200909,-
+382359,4239109,BSV9_gp50,BSV9_gp50,BSV9_gp046,-,-,-,2OG-Fe(II) oxygenase superfamily,protein-coding,-,-,-,2OG-Fe(II) oxygenase superfamily,20200909,-
+382359,4239110,BSV9_gp51,BSV9_gp51,BSV9_gp047,-,-,-,gp51,protein-coding,-,-,-,gp51,20200909,-
+382359,4239111,BSV9_gp52,BSV9_gp52,BSV9_gp048,-,-,-,gp52,protein-coding,-,-,-,gp52,20200909,-
+382359,4239112,BSV9_gp53,BSV9_gp53,BSV9_gp049,-,-,-,gp53,protein-coding,-,-,-,gp53,20200909,-
+382359,4239113,BSV9_gp54,BSV9_gp54,BSV9_gp050,-,-,-,gp54,protein-coding,-,-,-,gp54,20200909,-
+382359,4239114,BSV9_gp55,BSV9_gp55,BSV9_gp051,-,-,-,gp55,protein-coding,-,-,-,gp55,20200909,-
+382359,4239115,BSV9_gp56,BSV9_gp56,BSV9_gp052,-,-,-,gp56,protein-coding,-,-,-,gp56,20200909,-
+382359,4239116,BSV9_gp57,BSV9_gp57,BSV9_gp053,-,-,-,gp57,protein-coding,-,-,-,gp57,20200909,-
+382359,4239117,BSV9_gp58,BSV9_gp58,BSV9_gp054,-,-,-,gp58,protein-coding,-,-,-,gp58,20200909,-
+382359,4239118,BSV9_gp59,BSV9_gp59,BSV9_gp055,-,-,-,gp59,protein-coding,-,-,-,gp59,20200909,-
+382359,4239119,BSV9_gp60,BSV9_gp60,BSV9_gp056,-,-,-,gp60,protein-coding,-,-,-,gp60,20200909,-
+382359,4239120,BSV9_gp61,BSV9_gp61,BSV9_gp057,-,-,-,gp61,protein-coding,-,-,-,gp61,20200909,-
+382359,4239121,BSV9_gp9,BSV9_gp9,BSV9_gp010,-,-,-,putative baseplate tail tube cap,protein-coding,-,-,-,putative baseplate tail tube cap,20200909,-
+382359,4239122,4,BSV9_gp10,BSV9_gp011,-,-,-,head completion protein,protein-coding,-,-,-,head completion protein,20200909,-
+382359,4239123,BSV9_gp11,BSV9_gp11,BSV9_gp012,-,-,-,gp11,protein-coding,-,-,-,gp11,20200909,-
+382359,4239124,BSV9_gp12,BSV9_gp12,BSV9_gp013,-,-,-,baseplate hub subunit,protein-coding,-,-,-,baseplate hub subunit,20200909,-
+382359,4239125,BSV9_gp13,BSV9_gp13,BSV9_gp014,-,-,-,baseplate hub assembly catalyst,protein-coding,-,-,-,baseplate hub assembly catalyst,20200909,-
+382359,4239126,BSV9_gp14,BSV9_gp14,BSV9_gp015,-,-,-,gp14,protein-coding,-,-,-,gp14,20200909,-
+382359,4239127,BSV9_gp15,BSV9_gp15,BSV9_gp016,-,-,-,gp15,protein-coding,-,-,-,gp15,20200909,-
+382359,4239128,BSV9_gp16,BSV9_gp16,BSV9_gp017,-,-,-,structural protein,protein-coding,-,-,-,structural protein,20200909,-
+382359,4239129,BSV9_gp17,BSV9_gp17,BSV9_gp018,-,-,-,gp17,protein-coding,-,-,-,gp17,20200909,-
+382359,4239130,BSV9_gp18,BSV9_gp18,BSV9_gp019,-,-,-,CpeT-like protein,protein-coding,-,-,-,CpeT-like protein,20200909,-
+382359,4239131,BSV9_gt19,BSV9_gt19,BSV9_gt001,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239132,BSV9_gp20,BSV9_gp20,BSV9_gp020,-,-,-,putative baseplate hub subunit,protein-coding,-,-,-,putative baseplate hub subunit,20200909,-
+382359,4239133,BSV9_gp21,BSV9_gp21,BSV9_gp021,-,-,-,gp21,protein-coding,-,-,-,gp21,20200909,-
+382359,4239134,BSV9_gp22,BSV9_gp22,BSV9_gp022,-,-,-,gp22,protein-coding,-,-,-,gp22,20200909,-
+382359,4239135,BSV9_gp23,BSV9_gp23,BSV9_gp023,-,-,-,gp23,protein-coding,-,-,-,gp23,20200909,-
+382359,4239136,BSV9_gt24,BSV9_gt24,BSV9_gt002,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239137,BSV9_gp25,BSV9_gp25,BSV9_gp024,-,-,-,gp25,protein-coding,-,-,-,gp25,20200909,-
+382359,4239138,BSV9_gp138,BSV9_gp138,BSV9_gp136,-,-,-,tail completion and sheath stabilizer,protein-coding,-,-,-,tail completion and sheath stabilizer,20200909,-
+382359,4239139,BSV9_gp139,BSV9_gp139,BSV9_gp137,-,-,-,gp139,protein-coding,-,-,-,gp139,20200909,-
+382359,4239140,BSV9_gp140,BSV9_gp140,BSV9_gp138,-,-,-,putative DNA repair/recombination,protein-coding,-,-,-,putative DNA repair/recombination,20200909,-
+382359,4239141,BSV9_gp141,BSV9_gp141,BSV9_gp139,-,-,-,2OG-Fe(II) oxygenase superfamily,protein-coding,-,-,-,2OG-Fe(II) oxygenase superfamily,20200909,-
+382359,4239142,uvsW,BSV9_gp142,BSV9_gp140,-,-,-,UvsW helicase,protein-coding,-,-,-,UvsW helicase,20201220,-
+382359,4239143,BSV9_gp143,BSV9_gp143,BSV9_gp141,-,-,-,gp143,protein-coding,-,-,-,gp143,20200909,-
+382359,4239144,55,BSV9_gp144,BSV9_gp142,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20201220,-
+382359,4239146,BSV9_gp145,BSV9_gp145,BSV9_gp144,-,-,-,gp145,protein-coding,-,-,-,gp145,20200909,-
+382359,4239147,47,BSV9_gp146,BSV9_gp145,-,-,-,endonuclease subunit,protein-coding,-,-,-,endonuclease subunit,20201220,-
+382359,4239148,BSV9_gp147,BSV9_gp147,BSV9_gp146,-,-,-,gp147,protein-coding,-,-,-,gp147,20200909,-
+382359,4239149,46,BSV9_gp148,BSV9_gp147,-,-,-,endonuclease subunit,protein-coding,-,-,-,endonuclease subunit,20201220,-
+382359,4239150,BSV9_gp149,BSV9_gp149,BSV9_gp148,-,-,-,gp149,protein-coding,-,-,-,gp149,20200909,-
+382359,4239151,BSV9_gp150,BSV9_gp150,BSV9_gp149,-,-,-,gp150,protein-coding,-,-,-,gp150,20200909,-
+382359,4239152,BSV9_gp151,BSV9_gp151,BSV9_gp150,-,-,-,gp151,protein-coding,-,-,-,gp151,20200909,-
+382359,4239153,BSV9_gp152,BSV9_gp152,BSV9_gp151,-,-,-,gp152,protein-coding,-,-,-,gp152,20200909,-
+382359,4239154,BSV9_gp153,BSV9_gp153,BSV9_gp152,-,-,-,putative porphyrin biosynthetic protein,protein-coding,-,-,-,putative porphyrin biosynthetic protein,20200909,-
+382359,4239155,BSV9_gp154,BSV9_gp154,BSV9_gp153,-,-,-,gp154,protein-coding,-,-,-,gp154,20200909,-
+382359,4239156,BSV9_gp62,BSV9_gp62,BSV9_gp058,-,-,-,putative DNA methyl transferase,protein-coding,-,-,-,putative DNA methyl transferase,20200909,-
+382359,4239157,BSV9_gp63,BSV9_gp63,BSV9_gp059,-,-,-,gp63,protein-coding,-,-,-,gp63,20200909,-
+382359,4239158,BSV9_gp64,BSV9_gp64,BSV9_gp060,-,-,-,gp64,protein-coding,-,-,-,gp64,20200909,-
+382359,4239159,BSV9_gp65,BSV9_gp65,BSV9_gp061,-,-,-,gp65,protein-coding,-,-,-,gp65,20200909,-
+382359,4239160,BSV9_gp66,BSV9_gp66,BSV9_gp062,-,-,-,gp66,protein-coding,-,-,-,gp66,20200909,-
+382359,4239161,BSV9_gp67,BSV9_gp67,BSV9_gp063,-,-,-,gp67,protein-coding,-,-,-,gp67,20200909,-
+382359,4239162,BSV9_gp68,BSV9_gp68,BSV9_gp064,-,-,-,gp68,protein-coding,-,-,-,gp68,20200909,-
+382359,4239163,BSV9_gp69,BSV9_gp69,BSV9_gp065,-,-,-,gp69,protein-coding,-,-,-,gp69,20200909,-
+382359,4239164,BSV9_gp70,BSV9_gp70,BSV9_gp066,-,-,-,gp70,protein-coding,-,-,-,gp70,20200909,-
+382359,4239165,BSV9_gp71,BSV9_gp71,BSV9_gp067,-,-,-,gp71,protein-coding,-,-,-,gp71,20200909,-
+382359,4239166,BSV9_gp72,BSV9_gp72,BSV9_gp068,-,-,-,gp72,protein-coding,-,-,-,gp72,20200909,-
+382359,4239167,BSV9_gp73,BSV9_gp73,BSV9_gp069,-,-,-,gp73,protein-coding,-,-,-,gp73,20200909,-
+382359,4239168,BSV9_gp74,BSV9_gp74,BSV9_gp070,-,-,-,gp74,protein-coding,-,-,-,gp74,20200909,-
+382359,4239169,BSV9_gp75,BSV9_gp75,BSV9_gp071,-,-,-,helicase,protein-coding,-,-,-,helicase,20200909,-
+382359,4239170,BSV9_gp76,BSV9_gp76,BSV9_gp072,-,-,-,gp76,protein-coding,-,-,-,gp76,20200909,-
+382359,4239171,BSV9_gp77,BSV9_gp77,BSV9_gp073,-,-,-,gp77,protein-coding,-,-,-,gp77,20200909,-
+382359,4239172,BSV9_gp78,BSV9_gp78,BSV9_gp074,-,-,-,gp78,protein-coding,-,-,-,gp78,20200909,-
+382359,4239173,BSV9_gp79,BSV9_gp79,BSV9_gp075,-,-,-,gp79,protein-coding,-,-,-,gp79,20200909,-
+382359,4239174,BSV9_gp80,BSV9_gp80,BSV9_gp076,-,-,-,gp80,protein-coding,-,-,-,gp80,20200909,-
+382359,4239175,BSV9_gp120,BSV9_gp120,BSV9_gp116,-,-,-,gp120,protein-coding,-,-,-,gp120,20200909,-
+382359,4239176,BSV9_gp121,BSV9_gp121,BSV9_gp117,-,-,-,6-phosphogluconate dehydrogenase,protein-coding,-,-,-,6-phosphogluconate dehydrogenase,20200909,-
+382359,4239177,18,BSV9_gp127,BSV9_gp118,-,-,-,tail sheath protein,protein-coding,-,-,-,tail sheath protein,20201220,-
+382359,4239178,17,BSV9_gp126,BSV9_gp119,-,-,-,large terminase protein,protein-coding,-,-,-,large terminase protein|terminase packaging subunit,20201220,-
+382359,4239179,BSV9_gp125,BSV9_gp125,BSV9_gp120,-,-,-,endonuclease,protein-coding,-,-,-,endonuclease,20200909,-
+382359,4239180,BSV9_gp124,BSV9_gp124,BSV9_gp121,-,-,-,gp124,protein-coding,-,-,-,gp124,20200909,-
+382359,4239181,BSV9_gp123,BSV9_gp123,BSV9_gp122,-,-,-,gp123,protein-coding,-,-,-,gp123,20200909,-
+382359,4239182,BSV9_gp122,BSV9_gp122,BSV9_gp123,-,-,-,glucose 6-phosphate dehydrogenase,protein-coding,-,-,-,glucose 6-phosphate dehydrogenase,20200909,-
+382359,4239185,19,BSV9_gp128,BSV9_gp126,-,-,-,tail tube protein,protein-coding,-,-,-,tail tube protein,20201220,-
+382359,4239186,20,BSV9_gp129,BSV9_gp127,-,-,-,portal vertex protein,protein-coding,-,-,-,portal vertex protein,20201220,-
+382359,4239187,BSV9_gp130,BSV9_gp130,BSV9_gp128,-,-,-,gp130,protein-coding,-,-,-,gp130,20200909,-
+382359,4239188,21,BSV9_gp131,BSV9_gp129,-,-,-,prohead core scaffolding protein and protease,protein-coding,-,-,-,prohead core scaffolding protein and protease,20201220,-
+382359,4239189,22,BSV9_gp132,BSV9_gp130,-,-,-,prohead core protein,protein-coding,-,-,-,prohead core protein,20201220,-
+382359,4239190,23,BSV9_gp133,BSV9_gp131,-,-,-,major capsid protein,protein-coding,-,-,-,major capsid protein,20201220,-
+382359,4239191,BSV9_gp134,BSV9_gp134,BSV9_gp132,-,-,-,gp134,protein-coding,-,-,-,gp134,20200909,-
+382359,4239192,BSV9_gp135,BSV9_gp135,BSV9_gp133,-,-,-,gp135,protein-coding,-,-,-,gp135,20200909,-
+382359,4239193,BSV9_gp136,BSV9_gp136,BSV9_gp134,-,-,-,gp136,protein-coding,-,-,-,gp136,20200909,-
+382359,4239194,BSV9_gp137,BSV9_gp137,BSV9_gp135,-,-,-,gp137,protein-coding,-,-,-,gp137,20200909,-
+382359,4239195,BSV9_gp176,BSV9_gp176,BSV9_gp175,-,-,-,2OG-Fe(II) oxygenase superfamily,protein-coding,-,-,-,2OG-Fe(II) oxygenase superfamily,20200909,-
+382359,4239196,41,BSV9_gp177,BSV9_gp176,-,-,-,41 helicase,protein-coding,-,-,-,41 helicase,20201220,-
+382359,4239197,BSV9_gp178,BSV9_gp178,BSV9_gp177,-,-,-,putative nucleotide pyrophosphohydrolase,protein-coding,-,-,-,putative nucleotide pyrophosphohydrolase,20200909,-
+382359,4239198,BSV9_gp179,BSV9_gp179,BSV9_gp178,-,-,-,gp179,protein-coding,-,-,-,gp179,20200909,-
+382359,4239199,BSV9_gp180,BSV9_gp180,BSV9_gp179,-,-,-,gp180,protein-coding,-,-,-,gp180,20200909,-
+382359,4239200,BSV9_gp181,BSV9_gp181,BSV9_gp180,-,-,-,gp181,protein-coding,-,-,-,gp181,20200909,-
+382359,4239201,BSV9_gp182,BSV9_gp182,BSV9_gp181,-,-,-,gp182,protein-coding,-,-,-,gp182,20200909,-
+382359,4239202,BSV9_gp183,BSV9_gp183,BSV9_gp182,-,-,-,gp183,protein-coding,-,-,-,gp183,20200909,-
+382359,4239203,BSV9_gp184,BSV9_gp184,BSV9_gp183,-,-,-,gp184,protein-coding,-,-,-,gp184,20200909,-
+382359,4239204,BSV9_gp185,BSV9_gp185,BSV9_gp184,-,-,-,gp185,protein-coding,-,-,-,gp185,20200909,-
+382359,4239205,BSV9_gp186,BSV9_gp186,BSV9_gp185,-,-,-,gp186,protein-coding,-,-,-,gp186,20200909,-
+382359,4239206,BSV9_gp187,BSV9_gp187,BSV9_gp186,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239207,BSV9_gp188,BSV9_gp188,BSV9_gp187,-,-,-,gp188,protein-coding,-,-,-,gp188,20200909,-
+382359,4239208,BSV9_gp189,BSV9_gp189,BSV9_gp188,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201220,-
+382359,4239209,BSV9_gp190,BSV9_gp190,BSV9_gp189,-,-,-,gp190,protein-coding,-,-,-,gp190,20200909,-
+382359,4239210,BSV9_gp191,BSV9_gp191,BSV9_gp190,-,-,-,gp191,protein-coding,-,-,-,gp191,20200909,-
+382359,4239211,61,BSV9_gp192,BSV9_gp191,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20201220,-
+382359,4239212,nrdA,BSV9_gp193,BSV9_gp192,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20201220,-
+382359,4239213,BSV9_gp194,BSV9_gp194,BSV9_gp193,-,-,-,ribonucleotide reductase subunit B,protein-coding,-,-,-,ribonucleotide reductase subunit B,20200909,-
+382359,4239214,BSV9_gt26,BSV9_gt26,BSV9_gt003,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+382359,4239215,45,BSV9_gp155,BSV9_gp154,-,-,-,sliding clamp,protein-coding,-,-,-,sliding clamp,20200909,-
+382359,4239216,BSV9_gp214,BSV9_gp214,BSV9_gp212,-,-,-,gp214,protein-coding,-,-,-,gp214,20200909,-
+382359,5740034,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Bacteriophage Syn9; Phage Syn9; Synechococcus cyanophage syn9).,other,-,-,-,-,20200513,-

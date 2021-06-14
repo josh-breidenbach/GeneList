@@ -1,0 +1,139 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+368926,33369033,psbA,CGV57_pgp094,Lo_chi1Pt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20170908,-
+368926,33369034,rbcL,CGV57_pgp093,Lo_chi1Pt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+368926,33369035,atpB,CGV57_pgp092,Lo_chi1Pt0048,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+368926,33369036,atpE,CGV57_pgp091,Lo_chi1Pt0063,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20170908,-
+368926,33369037,trnM (CAU),CGV57_pgt002,Lo_chi1Pt0069,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369038,trnV (UAC),CGV57_pgt003,Lo_chi1Pt0072,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369039,trnK (UUU),CGV57_pgt004,Lo_chi1Pt0082,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369040,matK,CGV57_pgp090,Lo_chi1Pt0084,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+368926,33369041,rps16,CGV57_pgp089,Lo_chi1Pt0113,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+368926,33369042,ORF192,CGV57_pgp088,Lo_chi1Pt0117,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+368926,33369043,trnQ (UUG),CGV57_pgt005,Lo_chi1Pt0126,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369044,psbK,CGV57_pgp087,Lo_chi1Pt0131,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20170908,-
+368926,33369045,psbI,CGV57_pgp086,Lo_chi1Pt0137,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20170908,-
+368926,33369046,trnS (GCU),CGV57_pgt006,Lo_chi1Pt0139,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369047,trnG (UCC),CGV57_pgt007,Lo_chi1Pt0147,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369048,trnR (UCU),CGV57_pgt008,Lo_chi1Pt0156,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369049,atpA,CGV57_pgp085,Lo_chi1Pt0157,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+368926,33369050,atpF,CGV57_pgp084,Lo_chi1Pt0173,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+368926,33369051,atpH,CGV57_pgp083,Lo_chi1Pt0190,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20170908,-
+368926,33369052,atpI,CGV57_pgp082,Lo_chi1Pt0201,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20170908,-
+368926,33369053,rps2,CGV57_pgp081,Lo_chi1Pt0210,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+368926,33369054,rpoC2,CGV57_pgp080,Lo_chi1Pt0220,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170908,-
+368926,33369055,rpoC1,CGV57_pgp079,Lo_chi1Pt0263,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+368926,33369056,rpoB,CGV57_pgp078,Lo_chi1Pt0291,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+368926,33369057,ORF298,CGV57_pgp077,Lo_chi1Pt0327,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170908,-
+368926,33369058,trnC (GCA),CGV57_pgt009,Lo_chi1Pt0344,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369059,petN,CGV57_pgp076,Lo_chi1Pt0347,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+368926,33369060,psbM,CGV57_pgp075,Lo_chi1Pt0353,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+368926,33369061,trnD (GUC),CGV57_pgt010,Lo_chi1Pt0362,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369062,trnY (GUA),CGV57_pgt011,Lo_chi1Pt0364,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369063,trnE (UUC),CGV57_pgt012,Lo_chi1Pt0365,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369064,trnT (GGU),CGV57_pgp074,Lo_chi1Pt0374,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+368926,33369065,psbD,CGV57_pgp073,Lo_chi1Pt0386,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20170908,-
+368926,33369066,psbC,CGV57_pgp072,Lo_chi1Pt0396,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20170908,-
+368926,33369067,trnS (UGA),CGV57_pgt013,Lo_chi1Pt0413,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369068,psbZ,CGV57_pgp071,Lo_chi1Pt0416,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20170908,-
+368926,33369069,trnG (GCC),CGV57_pgt014,Lo_chi1Pt0421,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369070,trnfM (CAU),CGV57_pgt015,Lo_chi1Pt0424,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369071,rps14,CGV57_pgp070,Lo_chi1Pt0426,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+368926,33369072,psaB,CGV57_pgp069,Lo_chi1Pt0430,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20170908,-
+368926,33369073,psaA,CGV57_pgp068,Lo_chi1Pt0452,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20170908,-
+368926,33369074,pafI,CGV57_pgp067,Lo_chi1Pt0482,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+368926,33369075,trnS (GGA),CGV57_pgt016,Lo_chi1Pt0509,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369076,rps4,CGV57_pgp066,Lo_chi1Pt0513,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+368926,33369077,trnT (UGU),CGV57_pgt017,Lo_chi1Pt0524,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369078,trnL (UAA),CGV57_pgt018,Lo_chi1Pt0531,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369079,trnF (GAA),CGV57_pgt019,Lo_chi1Pt0540,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369080,ndhJ,CGV57_pgp065,Lo_chi1Pt0547,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20170908,-
+368926,33369081,ndhK,CGV57_pgp064,Lo_chi1Pt0553,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20170908,-
+368926,33369082,ndhC,CGV57_pgp063,Lo_chi1Pt0560,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20170908,-
+368926,33369083,ORF227,CGV57_pgp062,Lo_chi1Pt0568,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+368926,33369084,psaI,CGV57_pgp061,Lo_chi1Pt0576,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20170908,-
+368926,33369085,pafII,CGV57_pgp060,Lo_chi1Pt0580,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20170908,-
+368926,33369086,cemA,CGV57_pgp059,Lo_chi1Pt0593,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+368926,33369087,petA,CGV57_pgp058,Lo_chi1Pt0602,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+368926,33369088,psbJ,CGV57_pgp057,Lo_chi1Pt0622,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20170908,-
+368926,33369089,psbL,CGV57_pgp056,Lo_chi1Pt0625,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20170908,-
+368926,33369090,psbF,CGV57_pgp055,Lo_chi1Pt0626,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20170908,-
+368926,33369091,psbE,CGV57_pgp054,Lo_chi1Pt0628,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+368926,33369092,petL,CGV57_pgp053,Lo_chi1Pt0639,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170719,-
+368926,33369093,petG,CGV57_pgp052,Lo_chi1Pt0642,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+368926,33369094,trnW (CCA),CGV57_pgt020,Lo_chi1Pt0644,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369095,trnP (UGG),CGV57_pgt021,Lo_chi1Pt0646,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369096,psaJ,CGV57_pgp051,Lo_chi1Pt0651,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20170908,-
+368926,33369097,rpl33,CGV57_pgp050,Lo_chi1Pt0657,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+368926,33369098,rps18,CGV57_pgp049,Lo_chi1Pt0661,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+368926,33369099,rpl20,CGV57_pgp048,Lo_chi1Pt0667,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+368926,33369100,rps12,CGV57_pgp047,Lo_chi1Pt1506,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+368926,33369101,psbB,CGV57_pgp044,Lo_chi1Pt0706,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20170908,-
+368926,33369102,psbT,CGV57_pgp043,Lo_chi1Pt0723,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20170908,-
+368926,33369103,psbN,CGV57_pgp042,Lo_chi1Pt0725,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20170908,-
+368926,33369104,psbH,CGV57_pgp041,Lo_chi1Pt0727,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20170908,-
+368926,33369105,petB,CGV57_pgp040,Lo_chi1Pt0730,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+368926,33369106,petD,CGV57_pgp039,Lo_chi1Pt0746,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+368926,33369107,rpoA,CGV57_pgp038,Lo_chi1Pt0760,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+368926,33369108,rps11,CGV57_pgp037,Lo_chi1Pt0771,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+368926,33369109,rpl36,CGV57_pgp036,Lo_chi1Pt0776,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+368926,33369110,infA,CGV57_pgp035,Lo_chi1Pt0778,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+368926,33369111,rps8,CGV57_pgp034,Lo_chi1Pt0782,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+368926,33369112,rpl14,CGV57_pgp033,Lo_chi1Pt0788,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+368926,33369113,rpl16,CGV57_pgp032,Lo_chi1Pt0793,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+368926,33369114,rps3,CGV57_pgp031,Lo_chi1Pt0810,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+368926,33369115,rpl22,CGV57_pgp030,Lo_chi1Pt0816,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+368926,33369116,rps19,CGV57_pgp029,Lo_chi1Pt0822,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+368926,33369117,rpl2,CGV57_pgp028,Lo_chi1Pt0825,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+368926,33369118,rpl23,CGV57_pgp027,Lo_chi1Pt0840,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+368926,33369119,trnI (CAU),CGV57_pgt022,Lo_chi1Pt0846,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369120,ycf2,CGV57_pgp026,Lo_chi1Pt0848,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+368926,33369121,trnL (CAA),CGV57_pgt023,Lo_chi1Pt0918,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369122,ndhB,CGV57_pgp025,Lo_chi1Pt0924,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+368926,33369123,rps7,CGV57_pgp024,Lo_chi1Pt0949,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+368926,33369124,trnV (GAC),CGV57_pgt024,Lo_chi1Pt0981,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369125,trnH (GUG),CGV57_pgt001,Lo_chi1Pt0001,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369126,rrn16,CGV57_pgr008,Lo_chi1Pt0984,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369127,trnI (GAU),CGV57_pgt025,Lo_chi1Pt1001,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369128,trnA (UGC),CGV57_pgt026,Lo_chi1Pt1012,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369129,rrn23,CGV57_pgr007,Lo_chi1Pt1022,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369130,rrn4.5,CGV57_pgr006,Lo_chi1Pt1052,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369131,rrn5,CGV57_pgr005,Lo_chi1Pt1055,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369132,trnR (ACG),CGV57_pgt027,Lo_chi1Pt1058,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369133,trnN (GUU),CGV57_pgt028,Lo_chi1Pt1062,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369134,ycf1,CGV57_pgp023,Lo_chi1Pt1069,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+368926,33369135,rps15,CGV57_pgp022,Lo_chi1Pt1138,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+368926,33369136,ndhH,CGV57_pgp021,Lo_chi1Pt1142,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+368926,33369137,ndhA,CGV57_pgp020,Lo_chi1Pt1154,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+368926,33369138,ndhI,CGV57_pgp019,Lo_chi1Pt1176,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+368926,33369139,ndhG,CGV57_pgp018,Lo_chi1Pt1185,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+368926,33369140,ndhE,CGV57_pgp017,Lo_chi1Pt1193,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20170908,-
+368926,33369141,psaC,CGV57_pgp016,Lo_chi1Pt1199,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+368926,33369142,ndhD,CGV57_pgp015,Lo_chi1Pt1202,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20170908,-
+368926,33369143,ccsA,CGV57_pgp014,Lo_chi1Pt1219,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+368926,33369144,trnL (UAG),CGV57_pgt029,Lo_chi1Pt1230,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369145,rpl32,CGV57_pgp013,Lo_chi1Pt1238,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+368926,33369146,ndhF,CGV57_pgp012,Lo_chi1Pt1250,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20170908,-
+368926,33369147,ndhG,CGV57_pgp011,Lo_chi1Pt1278,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+368926,33369148,ndhI,CGV57_pgp010,Lo_chi1Pt1287,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+368926,33369149,ndhA,CGV57_pgp009,Lo_chi1Pt1293,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+368926,33369150,ndhH,CGV57_pgp008,Lo_chi1Pt1314,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+368926,33369151,rps15,CGV57_pgp007,Lo_chi1Pt1327,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+368926,33369152,ycf1,CGV57_pgp006,Lo_chi1Pt1334,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+368926,33369153,trnN (GUU),CGV57_pgt030,Lo_chi1Pt1406,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369154,trnR (ACG),CGV57_pgt031,Lo_chi1Pt1410,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369155,rrn5,CGV57_pgr004,Lo_chi1Pt1413,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369156,rrn4.5,CGV57_pgr003,Lo_chi1Pt1416,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369157,rrn23,CGV57_pgr002,Lo_chi1Pt1418,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369158,trnA (UGC),CGV57_pgt032,Lo_chi1Pt1448,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369159,trnI (GAU),CGV57_pgt033,Lo_chi1Pt1457,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369160,rrn16,CGV57_pgr001,Lo_chi1Pt1470,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+368926,33369161,rps12,CGV57_pgp046,Lo_chi1Pt0955,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+368926,33369162,trnV (GAC),CGV57_pgt034,Lo_chi1Pt1487,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369163,rps7,CGV57_pgp005,Lo_chi1Pt1515,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+368926,33369164,clpP,CGV57_pgp045,Lo_chi1Pt0681,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+368926,33369165,ndhB,CGV57_pgp004,Lo_chi1Pt1522,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+368926,33369166,trnL (CAA),CGV57_pgt035,Lo_chi1Pt1550,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369167,ycf2,CGV57_pgp003,Lo_chi1Pt1556,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+368926,33369168,trnI (CAU),CGV57_pgt036,Lo_chi1Pt1622,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+368926,33369169,rpl23,CGV57_pgp002,Lo_chi1Pt1626,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+368926,33369170,rpl2,CGV57_pgp001,Lo_chi1Pt1629,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-

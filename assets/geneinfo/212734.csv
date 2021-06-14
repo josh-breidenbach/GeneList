@@ -1,0 +1,133 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+212734,2597965,16S rRNA,CafeCr090,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597966,16S rRNA,CafeCr099,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597967,23S,CafeCr096,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597968,23S rRNA,CafeCr091,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597969,4.5S rRNA,CafeCr092,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597970,4.5S rRNA,CafeCr095,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597971,5S rRNA,CafeCr093,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597972,5S rRNA,CafeCr094,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120926,-
+212734,2597973,accD,CafeCp032,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20150626,-
+212734,2597974,atpA,CafeCp008,-,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,ATP synthase CF1 alpha chain|ATP synthase CF1 alpha subunit,20200926,-
+212734,2597975,atpB,CafeCp030,-,-,-,-,ATPase beta chain,protein-coding,-,-,-,ATPase beta chain|ATP synthase CF1 beta subunit,20180421,-
+212734,2597976,atpE,CafeCp029,-,-,-,-,ATP synthase epsilon chain,protein-coding,-,-,-,ATP synthase epsilon chain|ATP synthase CF1 epsilon subunit,20180421,-
+212734,2597977,atpF,CafeCp009,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I|ATP synthase CF0 B subunit,20200926,-
+212734,2597978,atpH,CafeCp010,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit|ATP synthase CF0 C subunit,20150626,-
+212734,2597979,atpI,CafeCp011,-,-,-,-,ATPase IV subunit,protein-coding,-,-,-,ATPase IV subunit|ATP synthase CF0 A subunit,20160325,-
+212734,2597980,cemA,CafeCp035,ycf10,-,-,-,heme-binding protein,protein-coding,-,-,-,heme-binding protein|envelope membrane protein,20150626,-
+212734,2597981,clpP,CafeCp048,-,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent protease proteolytic subunit|ATP-dependent Clp protease proteolytic subunit,20160813,-
+212734,2597982,infA,CafeCp058,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160813,-
+212734,2597983,matK,CafeCp004,-,-,-,-,maturase K,protein-coding,-,-,-,-,20200926,-
+212734,2597984,ndhA,CafeCp078,ndh1,-,-,-,NADH dehydrogenase ND1,protein-coding,-,-,-,NADH dehydrogenase ND1|NADH dehydrogenase subunit 1,20150626,-
+212734,2597985,ndhB,CafeCp086,ndh2,-,-,-,NADH dehydrogenase ND2,protein-coding,-,-,-,NADH dehydrogenase ND2|NADH dehydrogenase subunit 2,20180421,-
+212734,2597986,ndhB,CafeCp094,-,-,-,-,NADH dehydrogenase ND2,protein-coding,-,-,-,NADH dehydrogenase ND2|NADH dehydrogenase subunit 2,20180421,-
+212734,2597987,ndhC,CafeCp028,ndh3,-,-,-,NADH dehydrogenase D3,protein-coding,-,-,-,NADH dehydrogenase D3|NADH dehydrogenase subunit 3,20150626,-
+212734,2597988,ndhD,CafeCp073,ndh4,-,-,-,NdhD protein,protein-coding,-,-,-,NdhD protein|NADH dehydrogenase subunit 4,20200926,-
+212734,2597989,ndhE,CafeCp075,ndh4L,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase ND4L subunit|NADH dehydrogenase subunit 4L,20150626,-
+212734,2597990,ndhF,CafeCp070,ndh5,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase ND5 subunit|NADH dehydrogenase subunit 5,20200926,-
+212734,2597991,ndhG,CafeCp076,-,-,-,-,NADH dehydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase ND6 subunit|NADH dehydrogenase subunit 6,20150626,-
+212734,2597992,ndhH,CafeCp079,-,-,-,-,NADH dehydrogenase 49 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 49 kDa subunit|NADH dehydrogenase subunit 7,20180421,-
+212734,2597993,ndhI,CafeCp077,frxB,-,-,-,NADH dehydrogenase 18 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 18 kDa subunit|NADH dehydrogenase subunit I,20180421,-
+212734,2597994,ndhJ,CafeCp026,-,-,-,-,NADH dehydrogenase 30 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 30 kDa subunit|NADH dehydrogenase subunit J,20150626,-
+212734,2597995,petA,CafeCp036,-,-,-,-,apocytochrome f precursor,protein-coding,-,-,-,apocytochrome f precursor|cytochrome f,20180421,-
+212734,2597996,petB,CafeCp053,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20180421,-
+212734,2597997,petD,CafeCp054,-,-,-,-,cytochrome b6/f complex subunit 4,protein-coding,-,-,-,cytochrome b6/f complex subunit 4|cytochrome b6/f complex subunit IV,20160813,-
+212734,2597998,petG,CafeCp042,-,-,-,-,cytochrome B6-F complex subunit 5,protein-coding,-,-,-,cytochrome B6-F complex subunit 5|cytochrome b6/f complex subunit V,20210212,-
+212734,2597999,petL,CafeCp041,-,-,-,-,cyt b6/f complex subunit VI,protein-coding,-,-,-,cyt b6/f complex subunit VI|cytochrome b6/f complex subunit VI,20160325,-
+212734,2598000,psaA,CafeCp023,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1|photosystem I P700 chlorophyll a apoprotein A1,20150626,-
+212734,2598001,psaB,CafeCp022,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2|photosystem I P700 chlorophyll a apoprotein A2,20150626,-
+212734,2598002,psaC,CafeCp074,-,-,-,-,photosystem I iron-sulfur center,protein-coding,-,-,-,photosystem I iron-sulfur center|photosystem I subunit VII,20170906,-
+212734,2598003,psaI,CafeCp033,-,-,-,-,PSI reaction centre subunit VIII,protein-coding,-,-,-,PSI reaction centre subunit VIII|photosystem I subunit VIII,20150626,-
+212734,2598004,psaJ,CafeCp043,-,-,-,-,PSI reaction centre subunit IX,protein-coding,-,-,-,PSI reaction centre subunit IX|photosystem I subunit IX,20150626,-
+212734,2598005,psbA,CafeCp002,-,-,-,-,PSII 32 kD protein,protein-coding,-,-,-,PSII 32 kD protein|photosystem II protein D1,20160813,-
+212734,2598006,psbB,CafeCp049,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,photosystem II P680 chlorophyll A apoprotein|photosystem II 47 kDa protein,20150626,-
+212734,2598007,psbC,CafeCp019,-,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,PSII 43 kDa protein|photosystem II 44 kDa protein,20150626,-
+212734,2598008,psbD,CafeCp018,-,-,-,-,PSII D2 protein,protein-coding,-,-,-,PSII D2 protein|photosystem II protein D2,20160813,-
+212734,2598009,psbE,CafeCp040,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,cytochrome b559 alpha subunit|photosystem II protein V,20170906,-
+212734,2598010,psbF,CafeCp039,-,-,-,-,photosystem II reaction center subunit VI,protein-coding,-,-,-,photosystem II reaction center subunit VI|photosystem II protein VI,20150626,-
+212734,2598011,ndhK,CafeCp027,-,-,-,-,NADH dehydrogenase 27 kDa subunit,protein-coding,-,-,-,NADH dehydrogenase 27 kDa subunit|NADH dehydrogenase subunit K,20160924,-
+212734,2598012,psbH,CafeCp052,-,-,-,-,photosystem II reaction center protein H,protein-coding,-,-,-,photosystem II reaction center protein H|photosystem II protein H,20150626,-
+212734,2598013,psbI,CafeCp007,-,-,-,-,PSII I protein,protein-coding,-,-,-,PSII I protein|photosystem II protein I,20150626,-
+212734,2598014,psbJ,CafeCp037,-,-,-,-,photosystem II reaction center subunit X,protein-coding,-,-,-,photosystem II reaction center subunit X|photosystem II protein J,20150626,-
+212734,2598015,psbK,CafeCp006,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein|photosystem II protein K,20150626,-
+212734,2598016,psbL,CafeCp038,-,-,-,-,PSII reaction center subunit XII,protein-coding,-,-,-,PSII reaction center subunit XII|photosystem II protein L,20150626,-
+212734,2598017,psbM,CafeCp017,-,-,-,-,PSII low MW protein,protein-coding,-,-,-,PSII low MW protein|photosystem II protein M,20190608,-
+212734,2598018,psbN,CafeCp051,-,-,-,-,photosystem II reaction center N protein,protein-coding,-,-,-,photosystem II reaction center N protein|photosystem II protein N,20150626,-
+212734,2598019,psbT,CafeCp050,-,-,-,-,PSII T protein,protein-coding,-,-,-,PSII T protein|photosystem II protein T,20160325,-
+212734,2598020,rbcL,CafeCp031,-,-,-,-,RuBisCO large subunit,protein-coding,-,-,-,"RuBisCO large subunit|ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200926,-
+212734,2598021,rpl14,CafeCp060,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14|ribosomal protein L14,20150626,-
+212734,2598022,rpl16,CafeCp061,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+212734,2598023,rpl2,CafeCp065,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2|ribosomal protein L2,20180421,-
+212734,2598024,rpl20,CafeCp046,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20|ribosomal protein L20,20160813,-
+212734,2598025,rpl22,CafeCp063,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160813,-
+212734,2598026,rpl23,CafeCp089,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20150626,-
+212734,2598027,rpl23,CafeCp066,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23|ribosomal protein L23,20150626,-
+212734,2598028,rpl32,CafeCp071,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+212734,2598029,rpl33,CafeCp044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+212734,2598030,rpl36,CafeCp057,secX,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36|ribosomal protein L36,20150626,-
+212734,2598031,rpoA,CafeCp055,-,-,-,-,RNA polymerase alpha chain,protein-coding,-,-,-,RNA polymerase alpha chain|RNA polymerase alpha subunit,20200926,-
+212734,2598032,rpoB,CafeCp015,-,-,-,-,RNA polymerase beta chain,protein-coding,-,-,-,RNA polymerase beta chain|RNA polymerase beta subunit,20200919,-
+212734,2598033,rpoC1,CafeCp014,-,-,-,-,RNA polymerase beta' chain,protein-coding,-,-,-,RNA polymerase beta' chain|RNA polymerase beta' subunit,20200926,-
+212734,2598034,rpoC2,CafeCp013,-,-,-,-,RNA polymerase beta'' chain,protein-coding,-,-,-,RNA polymerase beta'' chain|RNA polymerase beta'' subunit,20200926,-
+212734,2598035,rps11,CafeCp056,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11|ribosomal protein S11,20150626,-
+212734,2598036,rps12,CafeCp084,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+212734,2598037,rps12,CafeCp047,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+212734,2598038,rps14,CafeCp021,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14|ribosomal protein S14,20150626,-
+212734,2598039,rps15,CafeCp080,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+212734,2598040,rps16,CafeCp005,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+212734,2598041,rps18,CafeCp045,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18|ribosomal protein S18,20150626,-
+212734,2598042,rps19,CafeCp064,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19|ribosomal protein S19,20150626,-
+212734,2598043,rps2,CafeCp012,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2|ribosomal protein S2,20160813,-
+212734,2598044,rps3,CafeCp062,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3|ribosomal protein S3,20200926,-
+212734,2598045,rps4,CafeCp025,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20200926,-
+212734,2598046,rps7,CafeCp085,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160716,-
+212734,2598047,rps7,CafeCp069,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7|ribosomal protein S7,20160716,-
+212734,2598048,rps8,CafeCp059,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8|ribosomal protein S8,20150626,-
+212734,2598049,trnA(ugc),CafeCt124,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598050,trnA(ugc),CafeCt130,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598051,trnR(acg),CafeCt125,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598052,trnR(acg),CafeCt129,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598053,trnR(ucu),CafeCt103,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598054,trnN(guu),CafeCt128,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598055,trnN(guu),CafeCt126,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598056,trnN(guc),CafeCt105,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598057,trnC (gca),CafeCt104,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598058,trnM(cau),CafeCt111,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598059,trnQ(uug),CafeCt200,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598060,trnE (uuc),CafeCt107,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598061,trnG (gcc),CafeCt110,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598062,trnG(ucc),CafeCt102,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598063,trnH(gug),CafeCt098,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598064,trnI(cau),CafeCt134,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598065,trnI(cau),CafeCt120,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598066,trnI(gau),CafeCt123,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598068,trnI(gau),CafeCt131,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598069,trnL(caa),CafeCt133,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598070,trnL(caa),CafeCt121,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598071,trnL(uaa),CafeCt114,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598072,trnL(uag),CafeCt127,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598073,trnK(uuu),CafeCt099,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598074,trnM(cau),CafeCt117,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598075,trnF(gaa),CafeCt115,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598076,trnP(ugg),CafeCt119,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598077,trnS(gcu),CafeCt101,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598078,trnS (gga),CafeCt112,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598079,trnS(uga),CafeCt109,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598080,trnT(ggu),CafeCt108,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598081,trnT(ugu),CafeCt113,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598082,trnW(cca),CafeCt118,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598083,trnY(gua),CafeCt106,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598084,trnV(gac),CafeCt122,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598085,trnV(gac),CafeCt132,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598086,trnV (uac),CafeCt116,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,2598087,ycf1,CafeCp081,-,-,-,-,Ycf1 protein,protein-coding,-,-,-,-,20200926,-
+212734,2598089,ycf2,CafeCp067,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20200926,-
+212734,2598090,ycf2,CafeCp088,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20200926,-
+212734,2598091,ycf3,CafeCp024,-,-,-,-,Ycf3 protein,protein-coding,-,-,-,Ycf3 protein|photosystem I assembly protein Ycf3,20170906,-
+212734,2598092,ycf4,CafeCp034,-,-,-,-,Ycf4 protein,protein-coding,-,-,-,Ycf4 protein|photosystem I assembly protein Ycf4,20150626,-
+212734,2598093,ccsA,CafeCp072,ycf5,-,-,-,Ycf5 protein,protein-coding,-,-,-,Ycf5 protein|cytochrome c biogenesis protein,20150626,-
+212734,2598094,petN,CafeCp016,ycf6,-,-,-,cytochrome b6/f complex subunit N,protein-coding,-,-,-,cytochrome b6/f complex subunit N|cytochrome b6/f complex subunit VIII,20150626,-
+212734,2598095,psbZ,CafeCp020,-,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein|photosystem II protein Z,20150626,-
+212734,5457107,trnK(uuu),CafeCt100,-,-,-,-,tRNA,tRNA,-,-,-,-,20120926,-
+212734,5457108,CafeCp092,CafeCp092,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+212734,5457110,CafeCp090,CafeCp090,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-

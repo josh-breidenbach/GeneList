@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+262729,37868439,psbA,D6Z36_pgp089,Y16025_001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200911,-
+262729,37868440,trnK-UUU,D6Z36_pgt002,Y16025_002,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868441,matK,D6Z36_pgp088,Y16025_003,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+262729,37868442,rps16,D6Z36_pgp087,Y16025_004,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200911,-
+262729,37868443,trnQ-UUG,D6Z36_pgt003,Y16025_005,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868444,psbK,D6Z36_pgp086,Y16025_006,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200911,-
+262729,37868445,psbI,D6Z36_pgp085,Y16025_007,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200911,-
+262729,37868446,trnS-GCU,D6Z36_pgt004,Y16025_008,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868447,trnC-GCA,D6Z36_pgt005,Y16025_019,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868448,trnT-GGU,D6Z36_pgt011,Y16025_025,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868449,trnG-UCC,D6Z36_pgt010,Y16025_009,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868450,trnR-UCU,D6Z36_pgt009,Y16025_010,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868451,atpA,D6Z36_pgp075,Y16025_011,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200911,-
+262729,37868452,atpF,D6Z36_pgp076,Y16025_012,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATP synthase CF0 subunit I,20200911,-
+262729,37868453,atpH,D6Z36_pgp077,Y16025_013,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,ATP synthase CF0 subunit III,20200911,-
+262729,37868454,atpI,D6Z36_pgp078,Y16025_014,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20200911,-
+262729,37868455,rps2,D6Z36_pgp079,Y16025_015,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+262729,37868456,rpoC2,D6Z36_pgp080,Y16025_016,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+262729,37868457,rpoC1,D6Z36_pgp081,Y16025_017,-,-,-,RNA polymerase beta,protein-coding,-,-,-,RNA polymerase beta,20200911,-
+262729,37868458,petN,D6Z36_pgp084,Y16025_020,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200911,-
+262729,37868459,psbM,D6Z36_pgp083,Y16025_021,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200911,-
+262729,37868460,trnD-GUC,D6Z36_pgt006,Y16025_022,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868461,trnY-GUA,D6Z36_pgt007,Y16025_023,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868462,trnE-UUC,D6Z36_pgt008,Y16025_024,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868463,rpoB,D6Z36_pgp082,Y16025_018,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+262729,37868464,psbD,D6Z36_pgp074,Y16025_026,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200911,-
+262729,37868465,psbC,D6Z36_pgp073,Y16025_027,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200911,-
+262729,37868466,trnS-UGA,D6Z36_pgt012,Y16025_028,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868467,psbZ,D6Z36_pgp072,Y16025_029,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein,20200911,-
+262729,37868468,trnG-GCC,D6Z36_pgt013,Y16025_030,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868469,trnfM-CAU,D6Z36_pgt014,Y16025_031,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868470,rps14,D6Z36_pgp071,Y16025_032,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+262729,37868471,psaB,D6Z36_pgp070,Y16025_033,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200911,-
+262729,37868472,psaA,D6Z36_pgp069,Y16025_034,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20200911,-
+262729,37868473,ycf3,D6Z36_pgp068,Y16025_035,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,hypothetical chloroplast RF34,20200911,-
+262729,37868474,trnS-GGA,D6Z36_pgt015,Y16025_036,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868475,rps4,D6Z36_pgp067,Y16025_037,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+262729,37868476,trnT-UGU,D6Z36_pgt016,Y16025_038,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868477,trnL-UAA,D6Z36_pgt017,Y16025_039,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868478,trnF-GAA,D6Z36_pgt018,Y16025_040,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868479,ndhJ,D6Z36_pgp066,Y16025_041,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20200911,-
+262729,37868480,ndhK,D6Z36_pgp065,Y16025_042,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20200911,-
+262729,37868481,ndhC,D6Z36_pgp064,Y16025_043,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20200911,-
+262729,37868482,trnV-UAC,D6Z36_pgt019,Y16025_044,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868483,trnM-CAU,D6Z36_pgt020,Y16025_045,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868484,atpE,D6Z36_pgp063,Y16025_046,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200911,-
+262729,37868485,atpB,D6Z36_pgp062,Y16025_047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200911,-
+262729,37868486,rbcL,D6Z36_pgp061,Y16025_048,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+262729,37868487,accD,D6Z36_pgp060,Y16025_049,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20200911,-
+262729,37868488,psaI,D6Z36_pgp059,Y16025_050,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20200911,-
+262729,37868489,ycf4,D6Z36_pgp058,Y16025_051,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20200911,-
+262729,37868490,cemA,D6Z36_pgp057,Y16025_052,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20200911,-
+262729,37868491,petA,D6Z36_pgp056,Y16025_053,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20200911,-
+262729,37868492,psbJ,D6Z36_pgp055,Y16025_054,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200911,-
+262729,37868493,psbL,D6Z36_pgp054,Y16025_055,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200911,-
+262729,37868494,psbF,D6Z36_pgp053,Y16025_056,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20200911,-
+262729,37868495,psbE,D6Z36_pgp052,Y16025_057,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200911,-
+262729,37868496,petL,D6Z36_pgp051,Y16025_058,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20200911,-
+262729,37868497,petG,D6Z36_pgp050,Y16025_059,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+262729,37868498,trnW-CCA,D6Z36_pgt021,Y16025_060,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868499,trnP-UGG,D6Z36_pgt022,Y16025_061,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868500,psaJ,D6Z36_pgp049,Y16025_062,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200911,-
+262729,37868501,rpl33,D6Z36_pgp048,Y16025_063,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+262729,37868502,rps18,D6Z36_pgp047,Y16025_064,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+262729,37868503,rpl20,D6Z36_pgp046,Y16025_065,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+262729,37868504,rps12,D6Z36_pgp045,Y16025_067,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+262729,37868505,trnH-GUG,D6Z36_pgt001,Y16025_085,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868506,clpP,D6Z36_pgp043,Y16025_068,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20200911,-
+262729,37868507,psbB,D6Z36_pgp042,Y16025_069,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200911,-
+262729,37868508,psbT,D6Z36_pgp041,Y16025_070,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20200911,-
+262729,37868509,psbN,D6Z36_pgp040,Y16025_071,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200911,-
+262729,37868510,psbH,D6Z36_pgp039,Y16025_072,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20200911,-
+262729,37868511,petB,D6Z36_pgp038,Y16025_073,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200911,-
+262729,37868512,petD,D6Z36_pgp037,Y16025_074,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20200911,-
+262729,37868513,rpoA,D6Z36_pgp036,Y16025_075,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200911,-
+262729,37868514,rps11,D6Z36_pgp035,Y16025_076,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+262729,37868515,rpl36,D6Z36_pgp034,Y16025_077,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+262729,37868516,infA,D6Z36_pgp033,Y16025_078,-,-,-,translational initiation factor 1,protein-coding,-,-,-,translational initiation factor 1,20200911,-
+262729,37868517,rps8,D6Z36_pgp032,Y16025_079,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+262729,37868518,rpl14,D6Z36_pgp031,Y16025_080,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+262729,37868519,rpl16,D6Z36_pgp030,Y16025_081,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+262729,37868520,rps3,D6Z36_pgp029,Y16025_082,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+262729,37868521,rpl22,D6Z36_pgp028,Y16025_083,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200911,-
+262729,37868522,rps19,D6Z36_pgp027,Y16025_084,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+262729,37868523,rpl2,D6Z36_pgp026,Y16025_086,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+262729,37868524,rpl23,D6Z36_pgp025,Y16025_087,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+262729,37868525,trnI-CAU,D6Z36_pgt023,Y16025_088,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868526,ycf2,D6Z36_pgp024,Y16025_089,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-
+262729,37868527,trnL-CAA,D6Z36_pgt024,Y16025_090,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868528,ndhB,D6Z36_pgp023,Y16025_091,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+262729,37868529,rps7,D6Z36_pgp022,Y16025_092,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+262729,37868530,ycf15,D6Z36_pgp021,Y16025_133,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+262729,37868531,rrn16,D6Z36_pgr008,Y16025_094,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868532,trnI-GAU,D6Z36_pgt026,Y16025_095,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868533,trnA-UGC,D6Z36_pgt027,Y16025_096,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868534,rrn23,D6Z36_pgr007,Y16025_097,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868535,rrn4.5,D6Z36_pgr006,Y16025_098,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868536,rrn5,D6Z36_pgr005,Y16025_099,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868537,trnR-ACG,D6Z36_pgt028,Y16025_100,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868538,trnN-GUU,D6Z36_pgt029,Y16025_101,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868539,ycf1,D6Z36_pgp020,Y16025_102,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+262729,37868540,ndhF,D6Z36_pgp019,Y16025_103,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20200911,-
+262729,37868541,rpl32,D6Z36_pgp018,Y16025_104,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+262729,37868542,trnL-UAG,D6Z36_pgt030,Y16025_105,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868543,ccsA,D6Z36_pgp017,Y16025_106,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20200911,-
+262729,37868544,ndhD,D6Z36_pgp016,Y16025_107,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20200911,-
+262729,37868545,psaC,D6Z36_pgp015,Y16025_108,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200911,-
+262729,37868546,ndhE,D6Z36_pgp014,Y16025_109,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,20200911,-
+262729,37868547,ndhG,D6Z36_pgp013,Y16025_110,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20200911,-
+262729,37868548,ndhI,D6Z36_pgp012,Y16025_111,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit I,20200911,-
+262729,37868549,ndhA,D6Z36_pgp011,Y16025_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,20200911,-
+262729,37868550,ndhH,D6Z36_pgp010,Y16025_113,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20200911,-
+262729,37868551,rps15,D6Z36_pgp009,Y16025_114,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200911,-
+262729,37868552,ycf1,D6Z36_pgp008,Y16025_115,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20200911,-
+262729,37868553,trnN-GUU,D6Z36_pgt031,Y16025_116,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868554,trnR-ACG,D6Z36_pgt032,Y16025_117,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868555,rrn5,D6Z36_pgr004,Y16025_118,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868556,rrn4.5,D6Z36_pgr003,Y16025_119,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868557,rrn23,D6Z36_pgr002,Y16025_120,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868558,trnA-UGC,D6Z36_pgt033,Y16025_121,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868559,trnI-GAU,D6Z36_pgt034,Y16025_122,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868560,rrn16,D6Z36_pgr001,Y16025_123,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+262729,37868561,trnV-GAC,D6Z36_pgt035,Y16025_124,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868562,ycf15,D6Z36_pgp007,Y16025_134,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+262729,37868563,ndhB,D6Z36_pgp005,Y16025_126,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+262729,37868564,trnL-CAA,D6Z36_pgt036,Y16025_127,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868565,ycf2,D6Z36_pgp004,Y16025_128,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-
+262729,37868566,trnI-CAU,D6Z36_pgt037,Y16025_129,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868567,rpl23,D6Z36_pgp003,Y16025_130,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+262729,37868568,rps12,D6Z36_pgp044,Y16025_066,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+262729,37868569,rpl2,D6Z36_pgp002,Y16025_131,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+262729,37868570,rps19,D6Z36_pgp001,Y16025_132,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+262729,37868571,trnV-GAC,D6Z36_pgt025,Y16025_093,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+262729,37868572,rps7,D6Z36_pgp006,Y16025_125,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-

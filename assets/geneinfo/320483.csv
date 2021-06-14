@@ -1,0 +1,995 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+320483,7397843,AMF_RS09445,AMF_RS09445,AMF_890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397844,AMF_RS08310,AMF_RS08310,AMF_659,-,-,-,appendage-associated protein,protein-coding,-,-,-,appendage-associated protein,20210603,-
+320483,7397846,AMF_RS08320,AMF_RS08320,AMF_662,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397847,AMF_RS08325,AMF_RS08325,AMF_663,-,-,-,appendage-associated protein,protein-coding,-,-,-,appendage-associated protein,20210603,-
+320483,7397848,AMF_RS08330,AMF_RS08330,AMF_664,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7397850,rnpA,AMF_RS08335,AMF_665,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210603,-
+320483,7397851,AMF_RS08340,AMF_RS08340,AMF_667,-,-,-,alanine:cation symporter family protein,protein-coding,-,-,-,alanine:cation symporter family protein,20210603,-
+320483,7397852,AMF_RS08345,AMF_RS08345,AMF_669,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210603,-
+320483,7397853,pheT,AMF_RS08350,AMF_670,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210603,-
+320483,7397854,rplQ,AMF_RS08355,AMF_671,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210603,-
+320483,7397855,AMF_RS08360,AMF_RS08360,AMF_672,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210603,-
+320483,7397856,rpsK,AMF_RS08365,AMF_673,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201230,-
+320483,7397857,rpsM,AMF_RS08370,AMF_675,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210603,-
+320483,7397858,AMF_RS08375,AMF_RS08375,AMF_676,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20210603,-
+320483,7397859,secY,AMF_RS08380,AMF_677,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210603,-
+320483,7397860,rplO,AMF_RS08385,AMF_678,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210603,-
+320483,7397861,rpsE,AMF_RS08390,AMF_679,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210603,-
+320483,7397862,rplR,AMF_RS08395,AMF_680,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210603,-
+320483,7397863,rplF,AMF_RS08400,AMF_681,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20201228,-
+320483,7397864,rpsH,AMF_RS08405,AMF_682,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210603,-
+320483,7397865,rpsN,AMF_RS08410,AMF_683,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20201227,-
+320483,7397866,rplE,AMF_RS08415,AMF_684,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201227,-
+320483,7397868,rplN,AMF_RS08425,AMF_686,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210603,-
+320483,7397869,rpsQ,AMF_RS08430,AMF_687,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210603,-
+320483,7397870,rpmC,AMF_RS08435,AMF_688,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210603,-
+320483,7397871,rplP,AMF_RS08440,AMF_689,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201230,-
+320483,7397872,rpsC,AMF_RS08445,AMF_690,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210603,-
+320483,7397873,rplV,AMF_RS08450,AMF_691,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210603,-
+320483,7397874,rpsS,AMF_RS08455,AMF_692,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210603,-
+320483,7397875,rplB,AMF_RS08460,AMF_693,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210603,-
+320483,7397876,AMF_RS08465,AMF_RS08465,AMF_694,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201227,-
+320483,7397877,rplD,AMF_RS08470,AMF_695,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210603,-
+320483,7397878,rplC,AMF_RS08475,AMF_696,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210603,-
+320483,7397879,rpsJ,AMF_RS08480,AMF_697,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210603,-
+320483,7397880,tuf,AMF_RS08485,AMF_698,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210603,-
+320483,7397881,AMF_RS08490,AMF_RS08490,AMF_1096,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397882,cmk,AMF_RS08505,AMF_700,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210603,-
+320483,7397883,AMF_RS08510,AMF_RS08510,AMF_701,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210603,-
+320483,7397884,sppA,AMF_RS08515,AMF_702,-,-,-,signal peptide peptidase SppA,protein-coding,-,-,-,signal peptide peptidase SppA,20201227,-
+320483,7397886,AMF_RS08530,AMF_RS08530,AMF_704,-,-,-,cell division protein ZapA,protein-coding,-,-,-,cell division protein ZapA,20210603,-
+320483,7397887,AMF_RS08535,AMF_RS08535,AMF_705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397888,hemH,AMF_RS08540,AMF_706,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20210603,-
+320483,7397889,zapE,AMF_RS08545,AMF_707,-,-,-,cell division protein ZapE,protein-coding,-,-,-,cell division protein ZapE,20210424,-
+320483,7397890,AMF_RS08550,AMF_RS08550,AMF_708,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397891,AMF_RS08560,AMF_RS08560,AMF_709,-,-,-,SPFH domain-containing protein,protein-coding,-,-,-,SPFH domain-containing protein,20201227,-
+320483,7397892,AMF_RS08565,AMF_RS08565,AMF_710,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210603,-
+320483,7397893,AMF_RS08570,AMF_RS08570,AMF_711,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210603,-
+320483,7397894,AMF_RS08575,AMF_RS08575,AMF_712,-,-,-,quinone oxidoreductase,protein-coding,-,-,-,quinone oxidoreductase,20210123,-
+320483,7397895,AMF_RS08580,AMF_RS08580,AMF_713,-,-,-,type I secretion system permease/ATPase,protein-coding,-,-,-,type I secretion system permease/ATPase,20210417,-
+320483,7397896,folP,AMF_RS08590,AMF_714,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20201227,-
+320483,7397897,carB,AMF_RS08600,AMF_716,-,-,-,carbamoyl-phosphate synthase large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase large subunit,20210603,-
+320483,7397898,AMF_RS08610,AMF_RS08610,AMF_717,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397899,fumC,AMF_RS08615,AMF_718,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20210603,-
+320483,7397900,AMF_RS08620,AMF_RS08620,AMF_719,-,-,-,phosphopantothenoylcysteine decarboxylase,protein-coding,-,-,-,phosphopantothenoylcysteine decarboxylase,20210603,-
+320483,7397901,AMF_RS08625,AMF_RS08625,AMF_720,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20210424,-
+320483,7397902,glmM,AMF_RS08630,AMF_721,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20210603,-
+320483,7397903,lipB,AMF_RS08635,AMF_722,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20210603,-
+320483,7397904,radC,AMF_RS08640,AMF_723,-,-,-,DNA repair protein RadC,protein-coding,-,-,-,DNA repair protein RadC,20210603,-
+320483,7397905,AMF_RS08645,AMF_RS08645,AMF_724,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20201230,-
+320483,7397906,groL,AMF_RS08650,AMF_725,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210603,-
+320483,7397907,AMF_RS08655,AMF_RS08655,AMF_726,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20210603,-
+320483,7397908,clpB,AMF_RS08660,AMF_728,-,-,-,ATP-dependent chaperone ClpB,protein-coding,-,-,-,ATP-dependent chaperone ClpB,20201227,-
+320483,7397909,AMF_RS08665,AMF_RS08665,AMF_729,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397910,AMF_RS08670,AMF_RS08670,AMF_730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397911,AMF_RS08675,AMF_RS08675,AMF_731,-,-,-,"Protocatechuate 3,4-dioxygenase (pcxB)",protein-coding,-,-,-,"Protocatechuate 3,4-dioxygenase (pcxB)",20201228,-
+320483,7397913,AMF_RS08685,AMF_RS08685,AMF_1057,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20210424,-
+320483,7397914,AMF_RS08690,AMF_RS08690,AMF_733,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20210603,-
+320483,7397915,AMF_RS08695,AMF_RS08695,AMF_735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7397916,AMF_RS08700,AMF_RS08700,AMF_736,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,20210603,-
+320483,7397917,mnmG,AMF_RS08705,AMF_737,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210603,-
+320483,7397918,glpX,AMF_RS08710,AMF_738,-,-,-,class II fructose-bisphosphatase,protein-coding,-,-,-,class II fructose-bisphosphatase,20210603,-
+320483,7397919,AMF_RS08715,AMF_RS08715,AMF_739,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210603,-
+320483,7397920,AMF_RS08720,AMF_RS08720,AMF_740,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20210603,-
+320483,7397921,AMF_RS08725,AMF_RS08725,AMF_741,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397922,bioB,AMF_RS08730,AMF_742,-,-,-,biotin synthase BioB,protein-coding,-,-,-,biotin synthase BioB,20210603,-
+320483,7397923,AMF_RS08735,AMF_RS08735,AMF_743,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20210603,-
+320483,7397924,folK,AMF_RS08740,AMF_744,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,protein-coding,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,20201227,-
+320483,7397925,AMF_RS08745,AMF_RS08745,AMF_745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397926,AMF_RS08750,AMF_RS08750,AMF_747,-,-,-,M48 family metalloprotease,protein-coding,-,-,-,M48 family metalloprotease,20210603,-
+320483,7397927,AMF_RS06970,AMF_RS06970,AMF_382,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20201227,-
+320483,7397928,AMF_RS06975,AMF_RS06975,AMF_383,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20201227,-
+320483,7397929,tsaB,AMF_RS06980,AMF_384,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210603,-
+320483,7397930,AMF_RS06985,AMF_RS06985,AMF_385,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20201227,-
+320483,7397931,AMF_RS06995,AMF_RS06995,AMF_1074,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397932,AMF_RS07005,AMF_RS07005,AMF_388,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20201227,-
+320483,7397933,truB,AMF_RS07010,AMF_389,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210603,-
+320483,7397934,rpsO,AMF_RS07015,AMF_390,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210603,-
+320483,7397935,pnp,AMF_RS07020,AMF_391,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210603,-
+320483,7397936,AMF_RS07025,AMF_RS07025,AMF_392,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210603,-
+320483,7397937,lepA,AMF_RS07030,AMF_393,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210603,-
+320483,7397938,AMF_RS07035,AMF_RS07035,AMF_394,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397939,AMF_RS07040,AMF_RS07040,AMF_395,-,-,-,major surface protein MSP1a,protein-coding,-,-,-,major surface protein MSP1a,20210522,-
+320483,7397940,AMF_RS07050,AMF_RS07050,AMF_396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397942,AMF_RS07065,AMF_RS07065,AMF_399,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397943,AMF_RS07070,AMF_RS07070,AMF_400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397944,AMF_RS07075,AMF_RS07075,AMF_401,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397945,AMF_RS07080,AMF_RS07080,AMF_402,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397946,AMF_RS07090,AMF_RS07090,AMF_403,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397947,AMF_RS07095,AMF_RS07095,AMF_405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397949,AMF_RS07105,AMF_RS07105,AMF_406,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397950,AMF_RS07110,AMF_RS07110,AMF_407,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397951,AMF_RS07115,AMF_RS07115,AMF_408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397952,thiL,AMF_RS07120,AMF_409,-,-,-,thiamine-phosphate kinase,protein-coding,-,-,-,thiamine-phosphate kinase,20201227,-
+320483,7397953,AMF_RS07125,AMF_RS07125,AMF_412,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210603,-
+320483,7397954,bioA,AMF_RS07130,AMF_413,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,protein-coding,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,20210603,-
+320483,7397955,AMF_RS07135,AMF_RS07135,AMF_1075,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397956,rsmA,AMF_RS07145,AMF_415,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210603,-
+320483,7397957,AMF_RS07150,AMF_RS07150,AMF_1076,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397958,AMF_RS07160,AMF_RS07160,AMF_417,-,-,-,TAXI family TRAP transporter solute-binding subunit,protein-coding,-,-,-,TAXI family TRAP transporter solute-binding subunit,20210603,-
+320483,7397959,tsaD,AMF_RS07165,AMF_418,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210603,-
+320483,7397960,AMF_RS07170,AMF_RS07170,AMF_419,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20201227,-
+320483,7397961,AMF_RS07175,AMF_RS07175,AMF_420,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20210603,-
+320483,7397962,mdh,AMF_RS07180,AMF_421,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20210603,-
+320483,7397963,ubiG,AMF_RS07190,AMF_422,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,protein-coding,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,20210603,-
+320483,7397964,AMF_RS07195,AMF_RS07195,AMF_423,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7397965,AMF_RS07200,AMF_RS07200,AMF_424,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397966,AMF_RS07205,AMF_RS07205,AMF_425,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20210603,-
+320483,7397967,ubiG,AMF_RS07210,AMF_426,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,protein-coding,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,20210603,-
+320483,7397968,AMF_RS07215,AMF_RS07215,AMF_427,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7397969,AMF_RS07220,AMF_RS07220,AMF_428,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397970,terL,AMF_RS07225,AMF_429,-,-,-,phage terminase large subunit,protein-coding,-,-,-,phage terminase large subunit,20201227,-
+320483,7397971,AMF_RS07230,AMF_RS07230,AMF_430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397972,AMF_RS07235,AMF_RS07235,AMF_431,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397973,AMF_RS07240,AMF_RS07240,AMF_432,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397974,AMF_RS07245,AMF_RS07245,AMF_433,-,-,-,phage head-tail connector protein,protein-coding,-,-,-,phage head-tail connector protein,20210603,-
+320483,7397975,AMF_RS07250,AMF_RS07250,AMF_434,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397976,putA,AMF_RS07255,AMF_435,-,-,-,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA,protein-coding,-,-,-,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA,20210116,-
+320483,7397977,fabG,AMF_RS07260,AMF_436,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,20201228,-
+320483,7397978,AMF_RS07265,AMF_RS07265,AMF_438,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7397979,AMF_RS07270,AMF_RS07270,AMF_1077,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397980,AMF_RS07280,AMF_RS07280,AMF_440,-,-,-,septal ring lytic transglycosylase RlpA family protein,protein-coding,-,-,-,septal ring lytic transglycosylase RlpA family protein,20210603,-
+320483,7397981,xth,AMF_RS07285,AMF_441,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20201227,-
+320483,7397982,AMF_RS07290,AMF_RS07290,AMF_442,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7397984,AMF_RS07300,AMF_RS07300,AMF_444,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210603,-
+320483,7397986,AMF_RS07310,AMF_RS07310,AMF_1078,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7397987,rplU,AMF_RS07320,AMF_447,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201227,-
+320483,7397988,eno,AMF_RS07325,AMF_448,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210116,-
+320483,7397989,obgE,AMF_RS07330,AMF_449,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210603,-
+320483,7397990,AMF_RS07335,AMF_RS07335,AMF_450,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7397991,AMF_RS07340,AMF_RS07340,AMF_451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397992,rsmH,AMF_RS07345,AMF_452,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210603,-
+320483,7397993,AMF_RS07350,AMF_RS07350,AMF_453,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20210603,-
+320483,7397995,AMF_RS07370,AMF_RS07370,AMF_458,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397996,AMF_RS07375,AMF_RS07375,AMF_459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397997,AMF_RS07380,AMF_RS07380,AMF_460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7397998,AMF_RS07385,AMF_RS07385,AMF_461,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20210603,-
+320483,7397999,AMF_RS07390,AMF_RS07390,AMF_462,-,-,-,TldD/PmbA family protein,protein-coding,-,-,-,TldD/PmbA family protein,20210603,-
+320483,7398000,AMF_RS07395,AMF_RS07395,AMF_463,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,GTP cyclohydrolase I,20210603,-
+320483,7398001,AMF_RS07400,AMF_RS07400,AMF_464,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20210603,-
+320483,7398002,AMF_RS07405,AMF_RS07405,AMF_465,-,-,-,NADH-quinone oxidoreductase subunit D,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit D,20201227,-
+320483,7398003,nuoE,AMF_RS07410,AMF_466,-,-,-,NADH-quinone oxidoreductase subunit NuoE,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoE,20210603,-
+320483,7398004,dnaQ,AMF_RS07415,AMF_467,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,DNA polymerase III subunit epsilon,20210603,-
+320483,7398005,AMF_RS07420,AMF_RS07420,AMF_468,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20210603,-
+320483,7398006,AMF_RS07425,AMF_RS07425,AMF_470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398007,AMF_RS07430,AMF_RS07430,AMF_471,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398008,AMF_RS07435,AMF_RS07435,AMF_472,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398009,AMF_RS07440,AMF_RS07440,AMF_473,-,-,-,RNA polymerase factor sigma-32,protein-coding,-,-,-,RNA polymerase factor sigma-32,20210603,-
+320483,7398010,argB,AMF_RS07870,AMF_565,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20210603,-
+320483,7398011,yihA,AMF_RS07875,AMF_566,-,-,-,ribosome biogenesis GTP-binding protein YihA/YsxC,protein-coding,-,-,-,ribosome biogenesis GTP-binding protein YihA/YsxC,20210603,-
+320483,7398012,prfA,AMF_RS07880,AMF_568,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210603,-
+320483,7398013,AMF_RS07885,AMF_RS07885,AMF_569,-,-,-,acyl-CoA carboxylase subunit beta,protein-coding,-,-,-,acyl-CoA carboxylase subunit beta,20201228,-
+320483,7398014,mutM,AMF_RS07890,AMF_570,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20201227,-
+320483,7398015,AMF_RS07895,AMF_RS07895,AMF_1081,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398016,AMF_RS07905,AMF_RS07905,AMF_572,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20201230,-
+320483,7398018,AMF_RS07915,AMF_RS07915,AMF_574,-,-,-,porin,protein-coding,-,-,-,porin,20210603,-
+320483,7398019,AMF_RS07920,AMF_RS07920,AMF_575,-,-,-,porin,protein-coding,-,-,-,porin,20210603,-
+320483,7398020,AMF_RS07925,AMF_RS07925,AMF_576,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398021,AMF_RS07930,AMF_RS07930,AMF_577,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398022,AMF_RS07935,AMF_RS07935,AMF_578,-,-,-,cytochrome c1,protein-coding,-,-,-,cytochrome c1,20210603,-
+320483,7398023,AMF_RS07940,AMF_RS07940,AMF_580,-,-,-,cytochrome b/b6,protein-coding,-,-,-,cytochrome b/b6,20210603,-
+320483,7398026,AMF_RS07950,AMF_RS07950,AMF_583,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398027,AMF_RS07955,AMF_RS07955,AMF_584,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210603,-
+320483,7398028,AMF_RS07960,AMF_RS07960,AMF_585,-,-,-,Mth938-like domain-containing protein,protein-coding,-,-,-,Mth938-like domain-containing protein,20210603,-
+320483,7398029,AMF_RS07965,AMF_RS07965,AMF_586,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20210603,-
+320483,7398030,rpsB,AMF_RS07970,AMF_587,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20201230,-
+320483,7398031,maf,AMF_RS07975,AMF_588,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20210603,-
+320483,7398033,AMF_RS07985,AMF_RS07985,AMF_590,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210603,-
+320483,7398034,lpdA,AMF_RS07990,AMF_591,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210603,-
+320483,7398035,AMF_RS07995,AMF_RS07995,AMF_592,-,-,-,PQQ-binding-like beta-propeller repeat protein,protein-coding,-,-,-,PQQ-binding-like beta-propeller repeat protein,20210603,-
+320483,7398036,der,AMF_RS08000,AMF_593,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210603,-
+320483,7398037,gpmI,AMF_RS08005,AMF_594,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210603,-
+320483,7398038,carA,AMF_RS08010,AMF_595,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20210603,-
+320483,7398039,ispH,AMF_RS08015,AMF_597|lytB,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20210603,-
+320483,7398040,dut,AMF_RS08020,AMF_598,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210603,-
+320483,7398041,AMF_RS08025,AMF_RS08025,AMF_599,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20201227,-
+320483,7398042,AMF_RS08030,AMF_RS08030,AMF_601,-,-,-,DUF2460 domain-containing protein,protein-coding,-,-,-,DUF2460 domain-containing protein,20210603,-
+320483,7398043,AMF_RS08035,AMF_RS08035,AMF_602,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210603,-
+320483,7398044,AMF_RS08040,AMF_RS08040,AMF_603,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210603,-
+320483,7398045,AMF_RS08045,AMF_RS08045,AMF_604,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210603,-
+320483,7398046,AMF_RS08050,AMF_RS08050,AMF_605,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20201227,-
+320483,7398047,AMF_RS08055,AMF_RS08055,AMF_606,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20210603,-
+320483,7398048,AMF_RS08060,AMF_RS08060,AMF_607,-,-,-,type IV secretion system protein VirB3,protein-coding,-,-,-,type IV secretion system protein VirB3,20201230,-
+320483,7398049,AMF_RS08065,AMF_RS08065,AMF_608,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20201228,-
+320483,7398050,pstA,AMF_RS08070,AMF_609,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210603,-
+320483,7398051,AMF_RS08075,AMF_RS08075,AMF_1082,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398052,AMF_RS08090,AMF_RS08090,AMF_612,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398053,AMF_RS08095,AMF_RS08095,AMF_613,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398054,AMF_RS08100,AMF_RS08100,AMF_614,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20210603,-
+320483,7398055,AMF_RS08105,AMF_RS08105,AMF_616,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201228,-
+320483,7398057,priA,AMF_RS08115,AMF_618,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210603,-
+320483,7398058,AMF_RS08120,AMF_RS08120,AMF_619,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,protein-coding,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,20210603,-
+320483,7398059,AMF_RS08125,AMF_RS08125,AMF_620,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20201227,-
+320483,7398060,AMF_RS08130,AMF_RS08130,AMF_622,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210603,-
+320483,7398061,AMF_RS08135,AMF_RS08135,AMF_623,-,-,-,TIGR02281 family clan AA aspartic protease,protein-coding,-,-,-,TIGR02281 family clan AA aspartic protease,20210603,-
+320483,7398062,AMF_RS08140,AMF_RS08140,AMF_624,-,-,-,3'-5' exonuclease,protein-coding,-,-,-,3'-5' exonuclease,20201230,-
+320483,7398063,era,AMF_RS08145,AMF_625,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210424,-
+320483,7398064,ffh,AMF_RS08150,AMF_626,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210603,-
+320483,7398065,AMF_RS08155,AMF_RS08155,AMF_628,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20201227,-
+320483,7398066,AMF_RS08160,AMF_RS08160,AMF_629,-,-,-,type II toxin-antitoxin system RatA family toxin,protein-coding,-,-,-,type II toxin-antitoxin system RatA family toxin,20210603,-
+320483,7398067,dnaK,AMF_RS08165,AMF_630,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201228,-
+320483,7398068,AMF_RS08170,AMF_RS08170,AMF_631,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20210603,-
+320483,7398069,AMF_RS08175,AMF_RS08175,AMF_633,-,-,-,cation:proton antiporter subunit C,protein-coding,-,-,-,cation:proton antiporter subunit C,20210603,-
+320483,7398070,AMF_RS08180,AMF_RS08180,AMF_634,-,-,-,Na(+)/H(+) antiporter subunit B,protein-coding,-,-,-,Na(+)/H(+) antiporter subunit B,20201227,-
+320483,7398071,AMF_RS08185,AMF_RS08185,AMF_635,-,-,-,DUF4040 domain-containing protein,protein-coding,-,-,-,DUF4040 domain-containing protein,20210603,-
+320483,7398072,AMF_RS08190,AMF_RS08190,AMF_636,-,-,-,monovalent cation/H(+) antiporter subunit G,protein-coding,-,-,-,monovalent cation/H(+) antiporter subunit G,20210603,-
+320483,7398073,AMF_RS08195,AMF_RS08195,AMF_637,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210603,-
+320483,7398074,tkt,AMF_RS08200,AMF_638,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210123,-
+320483,7398075,AMF_RS08205,AMF_RS08205,AMF_639,-,-,-,carboxypeptidase,protein-coding,-,-,-,carboxypeptidase,20210603,-
+320483,7398076,AMF_RS08210,AMF_RS08210,AMF_640,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20201230,-
+320483,7398077,AMF_RS08215,AMF_RS08215,AMF_641,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20201227,-
+320483,7398078,obgE,AMF_RS08220,AMF_642,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201227,-
+320483,7398079,ruvX,AMF_RS08225,AMF_643,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210603,-
+320483,7398080,AMF_RS08230,AMF_RS08230,AMF_644,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20201227,-
+320483,7398081,AMF_RS08235,AMF_RS08235,AMF_1083,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398082,AMF_RS08245,AMF_RS08245,AMF_646,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398083,AMF_RS08250,AMF_RS08250,AMF_647,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210603,-
+320483,7398084,AMF_RS08255,AMF_RS08255,AMF_648,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210603,-
+320483,7398085,AMF_RS08260,AMF_RS08260,AMF_649,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398086,AMF_RS08265,AMF_RS08265,AMF_650,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20201227,-
+320483,7398087,AMF_RS08270,AMF_RS08270,AMF_651,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20201227,-
+320483,7398088,plsX,AMF_RS08275,AMF_652,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210603,-
+320483,7398090,tgt,AMF_RS08285,AMF_654,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20210603,-
+320483,7398091,AMF_RS08290,AMF_RS08290,AMF_655,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20210522,-
+320483,7398092,dapB,AMF_RS08295,AMF_656,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20210603,-
+320483,7398093,AMF_RS08300,AMF_RS08300,AMF_657,-,-,-,flavin reductase family protein,protein-coding,-,-,-,flavin reductase family protein,20210603,-
+320483,7398094,raiA,AMF_RS07445,AMF_474,-,-,-,ribosome-associated translation inhibitor RaiA,protein-coding,-,-,-,ribosome-associated translation inhibitor RaiA,20210603,-
+320483,7398096,AMF_RS07455,AMF_RS07455,AMF_476,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398097,nuoH,AMF_RS07460,AMF_477,-,-,-,NADH-quinone oxidoreductase subunit NuoH,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoH,20210603,-
+320483,7398098,nuoG,AMF_RS07465,AMF_478,-,-,-,NADH-quinone oxidoreductase subunit NuoG,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoG,20210603,-
+320483,7398099,AMF_RS07470,AMF_RS07470,AMF_479,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398100,gyrB,AMF_RS07475,AMF_480,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210603,-
+320483,7398101,AMF_RS07480,AMF_RS07480,AMF_481,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20210603,-
+320483,7398102,AMF_RS07485,AMF_RS07485,AMF_482,-,-,-,cytochrome c-type biogenesis protein CcmH,protein-coding,-,-,-,cytochrome c-type biogenesis protein CcmH,20201227,-
+320483,7398103,AMF_RS07490,AMF_RS07490,AMF_483,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398104,AMF_RS07495,AMF_RS07495,AMF_484,-,-,-,ferredoxin family 2Fe-2S iron-sulfur cluster binding protein,protein-coding,-,-,-,ferredoxin family 2Fe-2S iron-sulfur cluster binding protein,20210603,-
+320483,7398105,AMF_RS07500,AMF_RS07500,AMF_485,-,-,-,Hsp70 family protein,protein-coding,-,-,-,Hsp70 family protein,20210603,-
+320483,7398106,hscB,AMF_RS07505,AMF_486,-,-,-,Fe-S protein assembly co-chaperone HscB,protein-coding,-,-,-,Fe-S protein assembly co-chaperone HscB,20201227,-
+320483,7398107,AMF_RS07510,AMF_RS07510,AMF_487,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20210603,-
+320483,7398108,iscU,AMF_RS07515,AMF_488,-,-,-,Fe-S cluster assembly scaffold IscU,protein-coding,-,-,-,Fe-S cluster assembly scaffold IscU,20201230,-
+320483,7398109,AMF_RS07520,AMF_RS07520,AMF_489,-,-,-,IscS subfamily cysteine desulfurase,protein-coding,-,-,-,IscS subfamily cysteine desulfurase,20210603,-
+320483,7398110,AMF_RS07525,AMF_RS07525,AMF_490,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210603,-
+320483,7398111,AMF_RS07530,AMF_RS07530,AMF_491,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210603,-
+320483,7398112,AMF_RS07535,AMF_RS07535,AMF_492,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210522,-
+320483,7398113,AMF_RS07540,AMF_RS07540,AMF_493,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398114,truA,AMF_RS07545,AMF_494,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210603,-
+320483,7398115,AMF_RS07550,AMF_RS07550,AMF_495,-,-,-,aspartate carbamoyltransferase catalytic subunit,protein-coding,-,-,-,aspartate carbamoyltransferase catalytic subunit,20210603,-
+320483,7398116,fsa,AMF_RS07555,AMF_498,-,-,-,fructose-6-phosphate aldolase,protein-coding,-,-,-,fructose-6-phosphate aldolase,20210603,-
+320483,7398117,AMF_RS07560,AMF_RS07560,AMF_499,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398118,atpD,AMF_RS07565,AMF_500,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201227,-
+320483,7398119,AMF_RS07570,AMF_RS07570,AMF_1079,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398120,AMF_RS07580,AMF_RS07580,AMF_1080,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398121,AMF_RS07590,AMF_RS07590,AMF_503,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398122,AMF_RS07595,AMF_RS07595,AMF_504,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398123,AMF_RS07600,AMF_RS07600,AMF_505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398124,AMF_RS07605,AMF_RS07605,AMF_507,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398125,AMF_RS07610,AMF_RS07610,AMF_509,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398126,AMF_RS07615,AMF_RS07615,AMF_510,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210417,-
+320483,7398127,recO,AMF_RS07620,AMF_511,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210603,-
+320483,7398128,AMF_RS07625,AMF_RS07625,AMF_512,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398130,AMF_RS07630,AMF_RS07630,AMF_513,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398131,ileS,AMF_RS07635,AMF_514,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210603,-
+320483,7398132,AMF_RS07640,AMF_RS07640,AMF_515,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210603,-
+320483,7398133,AMF_RS07645,AMF_RS07645,AMF_516,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20201228,-
+320483,7398135,AMF_RS07655,AMF_RS07655,AMF_518,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398136,prfB,AMF_RS07660,AMF_519,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398137,AMF_RS07665,AMF_RS07665,AMF_520,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210320,-
+320483,7398138,gatA,AMF_RS07670,AMF_521,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210603,-
+320483,7398139,AMF_RS07675,AMF_RS07675,AMF_522,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,protein-coding,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,20201230,-
+320483,7398140,hemC,AMF_RS07680,AMF_523,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20210603,-
+320483,7398141,murB,AMF_RS07685,AMF_524,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210603,-
+320483,7398142,AMF_RS07690,AMF_RS07690,AMF_526,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210603,-
+320483,7398143,nuoI,AMF_RS07695,AMF_527,-,-,-,NADH-quinone oxidoreductase subunit NuoI,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoI,20210603,-
+320483,7398144,lepB,AMF_RS07700,AMF_528,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210603,-
+320483,7398145,AMF_RS07705,AMF_RS07705,AMF_529,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20210603,-
+320483,7398146,AMF_RS07710,AMF_RS07710,AMF_530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398147,AMF_RS07715,AMF_RS07715,AMF_531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398148,AMF_RS07720,AMF_RS07720,AMF_532,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398152,AMF_RS07735,AMF_RS07735,AMF_536,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398153,typA,AMF_RS07740,AMF_537,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20201230,-
+320483,7398154,AMF_RS07745,AMF_RS07745,AMF_538,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210417,-
+320483,7398155,AMF_RS07750,AMF_RS07750,AMF_540,-,-,-,TerC family protein,protein-coding,-,-,-,TerC family protein,20210603,-
+320483,7398156,rbfA,AMF_RS07755,AMF_541,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210603,-
+320483,7398157,infB,AMF_RS07760,AMF_542,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210603,-
+320483,7398158,nusA,AMF_RS07765,AMF_543,-,-,-,transcription termination factor NusA,protein-coding,-,-,-,transcription termination factor NusA,20210603,-
+320483,7398159,AMF_RS07775,AMF_RS07775,AMF_544,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20210603,-
+320483,7398160,tatC,AMF_RS07780,AMF_545,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20210417,-
+320483,7398161,ispG,AMF_RS07785,AMF_546|gcpE,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20201230,-
+320483,7398162,AMF_RS07790,AMF_RS07790,AMF_547,-,-,-,TRP75-related protein,protein-coding,-,-,-,TRP75-related protein,20210603,-
+320483,7398163,dxr,AMF_RS07795,AMF_548,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20210603,-
+320483,7398164,AMF_RS07800,AMF_RS07800,AMF_549,-,-,-,NADH-quinone oxidoreductase subunit N,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit N,20210603,-
+320483,7398165,AMF_RS07805,AMF_RS07805,AMF_550,-,-,-,NADH-quinone oxidoreductase subunit M,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit M,20210603,-
+320483,7398166,nuoL,AMF_RS07810,AMF_551,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit L,20210123,-
+320483,7398167,nuoK,AMF_RS07815,AMF_552,-,-,-,NADH-quinone oxidoreductase subunit NuoK,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoK,20210603,-
+320483,7398168,AMF_RS07820,AMF_RS07820,AMF_553,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit J,20210603,-
+320483,7398169,nuoF,AMF_RS07825,AMF_555,-,-,-,NADH-quinone oxidoreductase subunit NuoF,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoF,20210603,-
+320483,7398170,AMF_RS07830,AMF_RS07830,AMF_556,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398171,AMF_RS07835,AMF_RS07835,AMF_557,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398172,miaA,AMF_RS07840,AMF_558,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210603,-
+320483,7398173,AMF_RS07845,AMF_RS07845,AMF_560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398174,rmuC,AMF_RS07850,AMF_561,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210603,-
+320483,7398175,serS,AMF_RS07855,AMF_562,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210424,-
+320483,7398176,AMF_RS07860,AMF_RS07860,AMF_563,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398177,hemF,AMF_RS07865,AMF_564,-,-,-,oxygen-dependent coproporphyrinogen oxidase,protein-coding,-,-,-,oxygen-dependent coproporphyrinogen oxidase,20201227,-
+320483,7398178,AMF_RS09885,AMF_RS09885,AMF_982,-,-,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210603,-
+320483,7398179,hemE,AMF_RS09890,AMF_983,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20210603,-
+320483,7398180,AMF_RS09895,AMF_RS09895,AMF_984,-,-,-,hemolysin family protein,protein-coding,-,-,-,hemolysin family protein,20210603,-
+320483,7398181,AMF_RS09900,AMF_RS09900,AMF_985,-,-,-,HK97 family phage prohead protease,protein-coding,-,-,-,HK97 family phage prohead protease,20201228,-
+320483,7398182,AMF_RS09905,AMF_RS09905,AMF_986,-,-,-,phage portal protein,protein-coding,-,-,-,phage portal protein,20201227,-
+320483,7398183,AMF_RS09910,AMF_RS09910,AMF_987,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20201227,-
+320483,7398184,nadA,AMF_RS09915,AMF_988,-,-,-,quinolinate synthase NadA,protein-coding,-,-,-,quinolinate synthase NadA,20210603,-
+320483,7398185,AMF_RS09920,AMF_RS09920,AMF_989,-,-,-,ferredoxin family protein,protein-coding,-,-,-,ferredoxin family protein,20210603,-
+320483,7398186,ilvC,AMF_RS09925,AMF_990,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,ketol-acid reductoisomerase,20210603,-
+320483,7398187,infC,AMF_RS09930,AMF_991,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398188,AMF_RS09935,AMF_RS09935,AMF_992,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20210603,-
+320483,7398189,virB11,AMF_RS09940,AMF_993,-,-,-,P-type DNA transfer ATPase VirB11,protein-coding,-,-,-,P-type DNA transfer ATPase VirB11,20201227,-
+320483,7398190,AMF_RS09945,AMF_RS09945,AMF_994,-,-,-,TrbI/VirB10 family protein,protein-coding,-,-,-,TrbI/VirB10 family protein,20201227,-
+320483,7398191,virB9,AMF_RS09950,AMF_995,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20210603,-
+320483,7398192,AMF_RS09955,AMF_RS09955,AMF_996,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20210603,-
+320483,7398193,AMF_RS09960,AMF_RS09960,AMF_997,-,-,-,GTP cyclohydrolase II,protein-coding,-,-,-,GTP cyclohydrolase II,20201228,-
+320483,7398194,AMF_RS09965,AMF_RS09965,AMF_1091,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398195,AMF_RS09975,AMF_RS09975,AMF_999,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398196,dapF,AMF_RS09980,AMF_1002,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20210603,-
+320483,7398197,AMF_RS09985,AMF_RS09985,AMF_1003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398198,AMF_RS09990,AMF_RS09990,AMF_1004,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398199,AMF_RS09995,AMF_RS09995,AMF_1005,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210116,-
+320483,7398200,AMF_RS10000,AMF_RS10000,AMF_1006,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210603,-
+320483,7398201,AMF_RS10005,AMF_RS10005,AMF_1007,-,-,-,zinc-ribbon domain-containing protein,protein-coding,-,-,-,zinc-ribbon domain-containing protein,20210417,-
+320483,7398202,AMF_RS10010,AMF_RS10010,AMF_1009,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20210417,-
+320483,7398203,mnmE,AMF_RS10015,AMF_1010,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210603,-
+320483,7398204,AMF_RS10020,AMF_RS10020,AMF_1011,-,-,-,phosphopantothenoylcysteine decarboxylase,protein-coding,-,-,-,phosphopantothenoylcysteine decarboxylase,20210603,-
+320483,7398205,AMF_RS10025,AMF_RS10025,AMF_1012,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210603,-
+320483,7398206,AMF_RS10030,AMF_RS10030,AMF_1013,-,-,-,complex I NDUFA9 subunit family protein,protein-coding,-,-,-,complex I NDUFA9 subunit family protein,20210603,-
+320483,7398207,AMF_RS10035,AMF_RS10035,AMF_1014,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20201227,-
+320483,7398208,pth,AMF_RS10040,AMF_1015,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210603,-
+320483,7398209,AMF_RS10045,AMF_RS10045,AMF_1016,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210603,-
+320483,7398212,AMF_RS10065,AMF_RS10065,AMF_1092,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398213,dapE,AMF_RS10075,AMF_1021,-,-,-,succinyl-diaminopimelate desuccinylase,protein-coding,-,-,-,succinyl-diaminopimelate desuccinylase,20210522,-
+320483,7398214,AMF_RS10080,AMF_RS10080,AMF_1022,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210603,-
+320483,7398215,AMF_RS10085,AMF_RS10085,AMF_1023,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210603,-
+320483,7398216,hemJ,AMF_RS10090,AMF_1024,-,-,-,protoporphyrinogen oxidase HemJ,protein-coding,-,-,-,protoporphyrinogen oxidase HemJ,20210603,-
+320483,7398217,AMF_RS10095,AMF_RS10095,AMF_1025,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20210603,-
+320483,7398218,AMF_RS10100,AMF_RS10100,AMF_1026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398219,AMF_RS10105,AMF_RS10105,AMF_1093,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398220,AMF_RS05070,AMF_RS05070,AMF_1031,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398221,ychF,AMF_RS10115,AMF_1028,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210603,-
+320483,7398222,ispF,AMF_RS10120,AMF_1029,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20210603,-
+320483,7398223,AMF_RS10125,AMF_RS10125,AMF_1030,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20201228,-
+320483,7398224,AMF_RS05100,AMF_RS05100,AMF_008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398225,murC,AMF_RS05115,AMF_010,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20201227,-
+320483,7398226,AMF_RS05215,AMF_RS05215,AMF_031,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398227,nrdR,AMF_RS05335,AMF_053,-,-,-,transcriptional regulator NrdR,protein-coding,-,-,-,transcriptional regulator NrdR,20210603,-
+320483,7398228,rrf,AMF_RS05440,AMF_1058,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201227,-
+320483,7398229,guaB,AMF_RS05450,AMF_073,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20210603,-
+320483,7398230,AMF_RS05750,AMF_RS05750,AMF_135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398231,secE,AMF_RS05995,AMF_187,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210417,-
+320483,7398232,AMF_RS06055,AMF_RS06055,AMF_199,-,-,-,8-amino-7-oxononanoate synthase,protein-coding,-,-,-,8-amino-7-oxononanoate synthase,20210603,-
+320483,7398233,sdhC,AMF_RS06135,AMF_215,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",protein-coding,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",20210603,-
+320483,7398234,AMF_RS06180,AMF_RS06180,AMF_224,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398235,AMF_RS06200,AMF_RS06200,AMF_1068,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398236,tig,AMF_RS06205,AMF_229,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20201227,-
+320483,7398237,fmt,AMF_RS06230,AMF_233,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210603,-
+320483,7398238,AMF_RS06480,AMF_RS06480,AMF_1070,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398239,uvrC,AMF_RS06485,AMF_280,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20210603,-
+320483,7398240,fabI,AMF_RS06650,AMF_313,-,-,-,enoyl-ACP reductase FabI,protein-coding,-,-,-,enoyl-ACP reductase FabI,20210116,-
+320483,7398241,AMF_RS06935,AMF_RS06935,AMF_375,-,-,-,holo-[acyl-carrier-protein] synthase,protein-coding,-,-,-,holo-[acyl-carrier-protein] synthase,20210603,-
+320483,7398242,coaD,AMF_RS06955,AMF_379,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210603,-
+320483,7398243,mreC,AMF_RS07000,AMF_387,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20210603,-
+320483,7398244,AMF_RS07140,AMF_RS07140,AMF_414,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20201227,-
+320483,7398245,AMF_RS07155,AMF_RS07155,AMF_416,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,triosephosphate isomerase,20201227,-
+320483,7398246,AMF_RS07275,AMF_RS07275,AMF_439,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398247,rpmA,AMF_RS07315,AMF_446,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210603,-
+320483,7398248,mgtE,AMF_RS07575,AMF_501,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201227,-
+320483,7398249,AMF_RS07585,AMF_RS07585,AMF_502,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20210603,-
+320483,7398250,AMF_RS07900,AMF_RS07900,AMF_571,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398251,lipA,AMF_RS08080,AMF_610,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20201230,-
+320483,7398252,AMF_RS08240,AMF_RS08240,AMF_645,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20201227,-
+320483,7398253,AMF_RS08495,AMF_RS08495,AMF_1084,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398254,rlmB,AMF_RS08500,AMF_699,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20210603,-
+320483,7398255,ftsH,AMF_RS09235,AMF_847,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210603,-
+320483,7398256,AMF_RS09260,AMF_RS09260,AMF_851,-,-,-,heme exporter protein CcmB,protein-coding,-,-,-,heme exporter protein CcmB,20210603,-
+320483,7398257,mrdA,AMF_RS09500,AMF_902,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210603,-
+320483,7398258,glnA,AMF_RS09530,AMF_907,-,-,-,type I glutamate--ammonia ligase,protein-coding,-,-,-,type I glutamate--ammonia ligase,20201227,-
+320483,7398259,AMF_RS09840,AMF_RS09840,AMF_974,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20210603,-
+320483,7398260,AMF_RS09855,AMF_RS09855,AMF_976,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20210603,-
+320483,7398261,rsfS,AMF_RS08755,AMF_748,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20201227,-
+320483,7398262,AMF_RS08760,AMF_RS08760,AMF_749,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398263,AMF_RS08765,AMF_RS08765,AMF_750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398264,purM,AMF_RS08770,AMF_751,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20210603,-
+320483,7398265,AMF_RS08775,AMF_RS08775,AMF_752,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20210603,-
+320483,7398266,AMF_RS08780,AMF_RS08780,AMF_753,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210603,-
+320483,7398268,AMF_RS08785,AMF_RS08785,AMF_755,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398271,rho,AMF_RS08795,AMF_758,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210603,-
+320483,7398273,hslV,AMF_RS08805,AMF_759,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20201230,-
+320483,7398274,hslU,AMF_RS08810,AMF_760,-,-,-,ATP-dependent protease ATPase subunit HslU,protein-coding,-,-,-,ATP-dependent protease ATPase subunit HslU,20210522,-
+320483,7398275,ubiE,AMF_RS08815,AMF_761,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20210603,-
+320483,7398276,AMF_RS08820,AMF_RS08820,AMF_762,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210603,-
+320483,7398277,AMF_RS08825,AMF_RS08825,AMF_764,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210603,-
+320483,7398279,coxB,AMF_RS08835,AMF_766,-,-,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20201227,-
+320483,7398280,ctaD,AMF_RS08840,AMF_767,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20201227,-
+320483,7398281,AMF_RS08845,AMF_RS08845,AMF_768,-,-,-,heme o synthase,protein-coding,-,-,-,heme o synthase,20210603,-
+320483,7398282,bamD,AMF_RS08850,AMF_769,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20210603,-
+320483,7398283,purD,AMF_RS08855,AMF_770,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20210603,-
+320483,7398285,glmS,AMF_RS08865,AMF_772,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20201227,-
+320483,7398286,dnaN,AMF_RS08870,AMF_773,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210603,-
+320483,7398287,AMF_RS08875,AMF_RS08875,AMF_774,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20210603,-
+320483,7398288,AMF_RS08880,AMF_RS08880,AMF_775,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210603,-
+320483,7398289,AMF_RS08890,AMF_RS08890,AMF_776,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210603,-
+320483,7398290,ppa,AMF_RS08900,AMF_777,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210603,-
+320483,7398292,rpsI,AMF_RS08905,AMF_778,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201227,-
+320483,7398293,rplM,AMF_RS08910,AMF_779,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201227,-
+320483,7398294,AMF_RS08915,AMF_RS08915,AMF_780,-,-,-,TolC family protein,protein-coding,-,-,-,TolC family protein,20201227,-
+320483,7398295,AMF_RS08920,AMF_RS08920,AMF_781,-,-,-,DUF2497 domain-containing protein,protein-coding,-,-,-,DUF2497 domain-containing protein,20201228,-
+320483,7398296,AMF_RS08925,AMF_RS08925,AMF_782,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20210603,-
+320483,7398297,prs,AMF_RS08930,AMF_784,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20201227,-
+320483,7398298,AMF_RS08935,AMF_RS08935,AMF_785,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,20210603,-
+320483,7398299,acnA,AMF_RS08940,AMF_786,-,-,-,aconitate hydratase AcnA,protein-coding,-,-,-,aconitate hydratase AcnA,20201227,-
+320483,7398300,apaG,AMF_RS08945,AMF_787,-,-,-,Co2+/Mg2+ efflux protein ApaG,protein-coding,-,-,-,Co2+/Mg2+ efflux protein ApaG,20201227,-
+320483,7398301,AMF_RS08950,AMF_RS08950,AMF_788,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,20201228,-
+320483,7398302,AMF_RS08955,AMF_RS08955,AMF_789,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398303,AMF_RS08960,AMF_RS08960,AMF_790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398306,AMF_RS08975,AMF_RS08975,AMF_794,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398307,AMF_RS08980,AMF_RS08980,AMF_795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398308,AMF_RS08985,AMF_RS08985,AMF_796,-,-,-,VirB4 family type IV secretion system protein,protein-coding,-,-,-,VirB4 family type IV secretion system protein,20210603,-
+320483,7398309,AMF_RS08990,AMF_RS08990,AMF_797,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20210603,-
+320483,7398310,AMF_RS08995,AMF_RS08995,AMF_798,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398311,AMF_RS09000,AMF_RS09000,AMF_799,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398314,AMF_RS09010,AMF_RS09010,AMF_801,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398315,AMF_RS09015,AMF_RS09015,AMF_802,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,7398316,AMF_RS09970,AMF_RS09970,AMF_998,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20201227,-
+320483,7398317,AMF_RS06060,AMF_RS06060,AMF_200,-,-,-,Na+/H+ antiporter subunit E,protein-coding,-,-,-,Na+/H+ antiporter subunit E,20210603,-
+320483,7398318,AMF_RS06065,AMF_RS06065,AMF_201,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20210603,-
+320483,7398319,AMF_RS06070,AMF_RS06070,AMF_203,-,-,-,quinone-dependent dihydroorotate dehydrogenase,protein-coding,-,-,-,quinone-dependent dihydroorotate dehydrogenase,20201228,-
+320483,7398320,AMF_RS06075,AMF_RS06075,AMF_204,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201227,-
+320483,7398321,AMF_RS06080,AMF_RS06080,AMF_205,-,-,-,esterase,protein-coding,-,-,-,esterase,20210603,-
+320483,7398322,AMF_RS06085,AMF_RS06085,AMF_206,-,-,-,patatin-like phospholipase family protein,protein-coding,-,-,-,patatin-like phospholipase family protein,20210603,-
+320483,7398323,pdxH,AMF_RS06090,AMF_207,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,pyridoxamine 5'-phosphate oxidase,20210417,-
+320483,7398324,AMF_RS06095,AMF_RS06095,AMF_208,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20210603,-
+320483,7398326,AMF_RS06105,AMF_RS06105,AMF_210,-,-,-,PLP-dependent transferase,protein-coding,-,-,-,PLP-dependent transferase,20210603,-
+320483,7398327,AMF_RS06110,AMF_RS06110,AMF_211,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20201227,-
+320483,7398328,AMF_RS06115,AMF_RS06115,AMF_212,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398329,dnaE,AMF_RS06120,AMF_213,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210603,-
+320483,7398330,AMF_RS06125,AMF_RS06125,AMF_214,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20210603,-
+320483,7398331,AMF_RS06130,AMF_RS06130,AMF_1059,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201227,-
+320483,7398332,sdhD,AMF_RS06140,AMF_217,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",protein-coding,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",20201227,-
+320483,7398333,AMF_RS06145,AMF_RS06145,AMF_218,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398334,thiD,AMF_RS06150,AMF_219,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,protein-coding,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,20210603,-
+320483,7398335,AMF_RS06155,AMF_RS06155,AMF_220,-,-,-,chromosomal DNA replication initiator,protein-coding,-,-,-,chromosomal DNA replication initiator,20210603,-
+320483,7398336,AMF_RS06160,AMF_RS06160,AMF_221,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210603,-
+320483,7398338,rpsD,AMF_RS06170,AMF_223,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201227,-
+320483,7398339,AMF_RS06175,AMF_RS06175,AMF_1067,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398340,AMF_RS06185,AMF_RS06185,AMF_225,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20201227,-
+320483,7398341,AMF_RS06190,AMF_RS06190,AMF_227,-,-,-,phosphatidylglycerophosphatase A,protein-coding,-,-,-,phosphatidylglycerophosphatase A,20210603,-
+320483,7398343,AMF_RS06195,AMF_RS06195,AMF_1094,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398344,clpP,AMF_RS06210,AMF_230,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20201227,-
+320483,7398345,clpX,AMF_RS06215,AMF_231,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20210603,-
+320483,7398346,lon,AMF_RS06220,AMF_232,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210603,-
+320483,7398347,AMF_RS06225,AMF_RS06225,AMF_1069,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398348,AMF_RS06235,AMF_RS06235,AMF_234,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20201227,-
+320483,7398349,AMF_RS06240,AMF_RS06240,AMF_235,-,-,-,kinase/pyrophosphorylase,protein-coding,-,-,-,kinase/pyrophosphorylase,20210603,-
+320483,7398350,thiE,AMF_RS06250,AMF_236,-,-,-,thiamine phosphate synthase,protein-coding,-,-,-,thiamine phosphate synthase,20210603,-
+320483,7398351,AMF_RS06255,AMF_RS06255,AMF_237,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20201227,-
+320483,7398352,AMF_RS06260,AMF_RS06260,AMF_238,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20201227,-
+320483,7398353,AMF_RS06265,AMF_RS06265,AMF_240,-,-,-,DNA translocase FtsK 4TM domain-containing protein,protein-coding,-,-,-,DNA translocase FtsK 4TM domain-containing protein,20201227,-
+320483,7398354,AMF_RS06270,AMF_RS06270,AMF_241,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398355,AMF_RS06275,AMF_RS06275,AMF_243,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20210603,-
+320483,7398356,AMF_RS06280,AMF_RS06280,AMF_244,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,two-component sensor histidine kinase,20201227,-
+320483,7398357,AMF_RS06285,AMF_RS06285,AMF_245,-,-,-,cell envelope integrity protein TolA,protein-coding,-,-,-,cell envelope integrity protein TolA,20201227,-
+320483,7398358,AMF_RS06290,AMF_RS06290,AMF_246,-,-,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20201227,-
+320483,7398359,AMF_RS06295,AMF_RS06295,AMF_247,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20201227,-
+320483,7398360,mutL,AMF_RS06300,AMF_248,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20210603,-
+320483,7398361,dprA,AMF_RS06305,AMF_249,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210603,-
+320483,7398362,mnmA,AMF_RS06315,AMF_250,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210603,-
+320483,7398363,AMF_RS06320,AMF_RS06320,AMF_251,-,-,-,twitching motility protein PilT,protein-coding,-,-,-,twitching motility protein PilT,20210603,-
+320483,7398364,fabF,AMF_RS06325,AMF_252,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20201227,-
+320483,7398366,rpmG,AMF_RS06340,AMF_1036,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210603,-
+320483,7398367,AMF_RS06345,AMF_RS06345,AMF_255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398368,AMF_RS06350,AMF_RS06350,AMF_256,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20201227,-
+320483,7398370,AMF_RS06360,AMF_RS06360,AMF_257,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398371,AMF_RS06365,AMF_RS06365,AMF_258,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398374,AMF_RS06380,AMF_RS06380,AMF_262,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398375,AMF_RS06385,AMF_RS06385,AMF_264,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398376,AMF_RS06390,AMF_RS06390,AMF_265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398380,AMF_RS06415,AMF_RS06415,AMF_268,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398381,AMF_RS06420,AMF_RS06420,AMF_269,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398382,AMF_RS06425,AMF_RS06425,AMF_271,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201227,-
+320483,7398383,AMF_RS06430,AMF_RS06430,AMF_272,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398384,gyrA,AMF_RS06435,AMF_273,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20201227,-
+320483,7398385,nth,AMF_RS06440,AMF_274,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210603,-
+320483,7398386,AMF_RS06445,AMF_RS06445,AMF_275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398387,htpG,AMF_RS06450,AMF_276,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20201230,-
+320483,7398390,AMF_RS06470,AMF_RS06470,AMF_279,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20201227,-
+320483,7398391,AMF_RS06475,AMF_RS06475,AMF_1095,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398393,AMF_RS06495,AMF_RS06495,AMF_282,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20210603,-
+320483,7398394,AMF_RS06500,AMF_RS06500,AMF_283,-,-,-,glutathione S-transferase family protein,protein-coding,-,-,-,glutathione S-transferase family protein,20210603,-
+320483,7398395,AMF_RS06505,AMF_RS06505,AMF_284,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398396,AMF_RS06510,AMF_RS06510,AMF_285,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+320483,7398397,recR,AMF_RS06520,AMF_286,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398398,AMF_RS06525,AMF_RS06525,AMF_287,-,-,-,metal ABC transporter substrate-binding protein,protein-coding,-,-,-,metal ABC transporter substrate-binding protein,20210603,-
+320483,7398399,AMF_RS06530,AMF_RS06530,AMF_288,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20210603,-
+320483,7398400,ubiB,AMF_RS06535,AMF_289,-,-,-,2-polyprenylphenol 6-hydroxylase,protein-coding,-,-,-,2-polyprenylphenol 6-hydroxylase,20210603,-
+320483,7398401,AMF_RS06540,AMF_RS06540,AMF_290,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210603,-
+320483,7398402,miaB,AMF_RS06545,AMF_291,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20210603,-
+320483,7398403,AMF_RS06550,AMF_RS06550,AMF_293,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,protein-coding,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,20210603,-
+320483,7398404,AMF_RS06555,AMF_RS06555,AMF_294,-,-,-,DUF2163 domain-containing protein,protein-coding,-,-,-,DUF2163 domain-containing protein,20210603,-
+320483,7398405,AMF_RS06560,AMF_RS06560,AMF_295,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20210603,-
+320483,7398406,AMF_RS06565,AMF_RS06565,AMF_296,-,-,-,phage major capsid protein,protein-coding,-,-,-,phage major capsid protein,20210603,-
+320483,7398407,dapA,AMF_RS06570,AMF_297,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20210603,-
+320483,7398408,AMF_RS06575,AMF_RS06575,AMF_299,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20210603,-
+320483,7398409,AMF_RS06580,AMF_RS06580,AMF_300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398410,mutS,AMF_RS06585,AMF_301,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210603,-
+320483,7398411,AMF_RS06590,AMF_RS06590,AMF_302,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398412,AMF_RS06595,AMF_RS06595,AMF_303,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201227,-
+320483,7398413,AMF_RS06600,AMF_RS06600,AMF_304,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210603,-
+320483,7398414,nadE,AMF_RS06605,AMF_305,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210603,-
+320483,7398415,hemB,AMF_RS06610,AMF_306,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20201227,-
+320483,7398416,AMF_RS06615,AMF_RS06615,AMF_307,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210603,-
+320483,7398417,AMF_RS06620,AMF_RS06620,AMF_308,-,-,-,PD-(D/E)XK nuclease family protein,protein-coding,-,-,-,PD-(D/E)XK nuclease family protein,20201227,-
+320483,7398418,AMF_RS06625,AMF_RS06625,AMF_309,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201227,-
+320483,7398419,ssb,AMF_RS06630,AMF_310,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201227,-
+320483,7398420,AMF_RS06635,AMF_RS06635,AMF_311,-,-,-,malonyl-CoA decarboxylase,protein-coding,-,-,-,malonyl-CoA decarboxylase,20210603,-
+320483,7398421,gatB,AMF_RS06640,AMF_312,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210603,-
+320483,7398422,AMF_RS06645,AMF_RS06645,AMF_1071,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398423,dnaA,AMF_RS06655,AMF_314,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210603,-
+320483,7398424,AMF_RS06660,AMF_RS06660,AMF_315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398425,AMF_RS06665,AMF_RS06665,AMF_316,-,-,-,nicotinate-nicotinamide nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nicotinamide nucleotide adenylyltransferase,20210603,-
+320483,7398426,AMF_RS06670,AMF_RS06670,AMF_318,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,pyridoxine 5'-phosphate synthase,20201230,-
+320483,7398427,AMF_RS06675,AMF_RS06675,AMF_1041,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210603,-
+320483,7398428,AMF_RS06680,AMF_RS06680,AMF_319,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398429,AMF_RS06685,AMF_RS06685,AMF_320,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210603,-
+320483,7398430,coaE,AMF_RS06690,AMF_321,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398431,thiC,AMF_RS06695,AMF_322,-,-,-,phosphomethylpyrimidine synthase ThiC,protein-coding,-,-,-,phosphomethylpyrimidine synthase ThiC,20210424,-
+320483,7398432,AMF_RS06700,AMF_RS06700,AMF_323,-,-,-,Smr/MutS family protein,protein-coding,-,-,-,Smr/MutS family protein,20210603,-
+320483,7398433,rpoZ,AMF_RS06705,AMF_324,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210603,-
+320483,7398434,AMF_RS06710,AMF_RS06710,AMF_325,-,-,-,XRE family transcriptional regulator,protein-coding,-,-,-,XRE family transcriptional regulator,20201227,-
+320483,7398435,leuS,AMF_RS06715,AMF_327,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210603,-
+320483,7398436,AMF_RS06720,AMF_RS06720,AMF_328,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210417,-
+320483,7398437,pyrF,AMF_RS06725,AMF_329,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20201227,-
+320483,7398438,ccmE,AMF_RS06730,AMF_330,-,-,-,cytochrome c maturation protein CcmE,protein-coding,-,-,-,cytochrome c maturation protein CcmE,20210603,-
+320483,7398439,surE,AMF_RS06735,AMF_331,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20210603,-
+320483,7398440,AMF_RS06740,AMF_RS06740,AMF_332,-,-,-,NADH-quinone oxidoreductase subunit C,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit C,20210603,-
+320483,7398441,AMF_RS06745,AMF_RS06745,AMF_333,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit B,20201230,-
+320483,7398442,ndhC,AMF_RS06750,AMF_334,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit A,20210603,-
+320483,7398443,uvrA,AMF_RS06755,AMF_335,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210603,-
+320483,7398444,nusB,AMF_RS06760,AMF_336,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20201227,-
+320483,7398445,AMF_RS06765,AMF_RS06765,AMF_337,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20201227,-
+320483,7398446,yidC,AMF_RS06770,AMF_339,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210603,-
+320483,7398447,pssA,AMF_RS06775,AMF_340,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,20210603,-
+320483,7398448,AMF_RS06780,AMF_RS06780,AMF_341,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20201230,-
+320483,7398449,AMF_RS06785,AMF_RS06785,AMF_342,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210603,-
+320483,7398450,AMF_RS06790,AMF_RS06790,AMF_343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398451,AMF_RS06795,AMF_RS06795,AMF_344,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,protein-coding,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,20201227,-
+320483,7398452,efp,AMF_RS06800,AMF_345,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210603,-
+320483,7398453,AMF_RS06805,AMF_RS06805,AMF_346,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,inositol monophosphatase family protein,20210603,-
+320483,7398454,AMF_RS06810,AMF_RS06810,AMF_347,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210603,-
+320483,7398455,AMF_RS06815,AMF_RS06815,AMF_349,-,-,-,PleD family two-component system response regulator,protein-coding,-,-,-,PleD family two-component system response regulator,20210603,-
+320483,7398456,AMF_RS06820,AMF_RS06820,AMF_350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398458,AMF_RS06825,AMF_RS06825,AMF_352,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398459,AMF_RS06835,AMF_RS06835,AMF_353,-,-,-,exopolysaccharide biosynthesis protein,protein-coding,-,-,-,exopolysaccharide biosynthesis protein,20210603,-
+320483,7398460,cysS,AMF_RS06840,AMF_354,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210603,-
+320483,7398461,AMF_RS06845,AMF_RS06845,AMF_355,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20201227,-
+320483,7398462,AMF_RS06850,AMF_RS06850,AMF_357,-,-,-,TlpA family protein disulfide reductase,protein-coding,-,-,-,TlpA family protein disulfide reductase,20210603,-
+320483,7398463,AMF_RS06855,AMF_RS06855,AMF_359,-,-,-,DUF2610 domain-containing protein,protein-coding,-,-,-,DUF2610 domain-containing protein,20210603,-
+320483,7398464,AMF_RS06860,AMF_RS06860,AMF_360,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20210603,-
+320483,7398465,dnaG,AMF_RS06865,AMF_361,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210603,-
+320483,7398467,rpoD,AMF_RS06870,AMF_363,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20201227,-
+320483,7398468,dusB,AMF_RS06875,AMF_365,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20210603,-
+320483,7398469,AMF_RS06880,AMF_RS06880,AMF_366,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20210603,-
+320483,7398471,AMF_RS06895,AMF_RS06895,AMF_368,-,-,-,divalent-cation tolerance protein CutA,protein-coding,-,-,-,divalent-cation tolerance protein CutA,20210603,-
+320483,7398472,AMF_RS06900,AMF_RS06900,AMF_369,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210603,-
+320483,7398473,AMF_RS06905,AMF_RS06905,AMF_370,-,-,-,O-methyltransferase,protein-coding,-,-,-,O-methyltransferase,20210603,-
+320483,7398474,AMF_RS06910,AMF_RS06910,AMF_371,-,-,-,DUF2671 domain-containing protein,protein-coding,-,-,-,DUF2671 domain-containing protein,20201227,-
+320483,7398475,AMF_RS06915,AMF_RS06915,AMF_372,-,-,-,NAD(P)H-hydrate dehydratase,protein-coding,-,-,-,NAD(P)H-hydrate dehydratase,20201227,-
+320483,7398476,topA,AMF_RS06920,AMF_373,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20201227,-
+320483,7398477,AMF_RS06925,AMF_RS06925,AMF_374,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398478,AMF_RS06930,AMF_RS06930,AMF_1072,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398479,AMF_RS06940,AMF_RS06940,AMF_377,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210603,-
+320483,7398480,AMF_RS06945,AMF_RS06945,AMF_378,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,protein-coding,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,20201227,-
+320483,7398481,AMF_RS06950,AMF_RS06950,AMF_1073,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398482,trxB,AMF_RS06960,AMF_380,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210603,-
+320483,7398483,AMF_RS06965,AMF_RS06965,AMF_381,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20201227,-
+320483,7398484,AMF_RS08305,AMF_RS08305,AMF_658,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,4-hydroxybenzoate octaprenyltransferase,20201227,-
+320483,7398485,AMF_RS09450,AMF_RS09450,AMF_891,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398486,AMF_RS09455,AMF_RS09455,AMF_893,-,-,-,lipoprotein-releasing ABC transporter permease subunit,protein-coding,-,-,-,lipoprotein-releasing ABC transporter permease subunit,20210603,-
+320483,7398487,holA,AMF_RS09460,AMF_894,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20201227,-
+320483,7398488,gshA,AMF_RS09465,AMF_895,-,-,-,glutamate--cysteine ligase,protein-coding,-,-,-,glutamate--cysteine ligase,20201227,-
+320483,7398489,AMF_RS09470,AMF_RS09470,AMF_896,-,-,-,citrate synthase,protein-coding,-,-,-,citrate synthase,20210603,-
+320483,7398490,guaA,AMF_RS09475,AMF_897,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210603,-
+320483,7398492,AMF_RS09480,AMF_RS09480,AMF_899,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398493,AMF_RS09485,AMF_RS09485,AMF_900,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20210603,-
+320483,7398494,AMF_RS09490,AMF_RS09490,AMF_901,-,-,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20201227,-
+320483,7398495,AMF_RS09495,AMF_RS09495,AMF_1087,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398496,secF,AMF_RS09505,AMF_903,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20201227,-
+320483,7398497,AMF_RS09510,AMF_RS09510,AMF_904,-,-,-,YraN family protein,protein-coding,-,-,-,YraN family protein,20210603,-
+320483,7398498,hemA,AMF_RS09515,AMF_905,-,-,-,5-aminolevulinate synthase,protein-coding,-,-,-,5-aminolevulinate synthase,20201227,-
+320483,7398499,AMF_RS09520,AMF_RS09520,AMF_906,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201227,-
+320483,7398500,AMF_RS09525,AMF_RS09525,AMF_1088,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398501,mraY,AMF_RS09535,AMF_908,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20210603,-
+320483,7398502,AMF_RS09540,AMF_RS09540,AMF_909,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210603,-
+320483,7398503,AMF_RS09545,AMF_RS09545,AMF_910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398504,AMF_RS09550,AMF_RS09550,AMF_911,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210603,-
+320483,7398505,AMF_RS09555,AMF_RS09555,AMF_912,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210603,-
+320483,7398506,rpe,AMF_RS09560,AMF_913,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201227,-
+320483,7398507,polA,AMF_RS09565,AMF_914,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20201227,-
+320483,7398509,AMF_RS09575,AMF_RS09575,AMF_916,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20210603,-
+320483,7398510,recF,AMF_RS09580,AMF_917,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20210603,-
+320483,7398511,AMF_RS09585,AMF_RS09585,AMF_918,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398512,AMF_RS09590,AMF_RS09590,AMF_919,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398513,AMF_RS09595,AMF_RS09595,AMF_920,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398514,AMF_RS09600,AMF_RS09600,AMF_921,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398516,AMF_RS09610,AMF_RS09610,AMF_923,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398517,AMF_RS09615,AMF_RS09615,AMF_924,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+320483,7398518,AMF_RS09620,AMF_RS09620,AMF_926,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398519,murJ,AMF_RS09625,AMF_929,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210603,-
+320483,7398520,lgt,AMF_RS09630,AMF_930,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210603,-
+320483,7398521,AMF_RS09635,AMF_RS09635,AMF_1054,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398522,rpsT,AMF_RS09640,AMF_931,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201230,-
+320483,7398523,AMF_RS09645,AMF_RS09645,AMF_932,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201227,-
+320483,7398524,def,AMF_RS09650,AMF_933,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210603,-
+320483,7398525,AMF_RS09655,AMF_RS09655,AMF_934,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20201227,-
+320483,7398526,AMF_RS09660,AMF_RS09660,AMF_936,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398527,AMF_RS09665,AMF_RS09665,AMF_937,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398528,AMF_RS09670,AMF_RS09670,AMF_938,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398529,AMF_RS09675,AMF_RS09675,AMF_939,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398530,AMF_RS09680,AMF_RS09680,AMF_940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398531,uvrB,AMF_RS09685,AMF_941,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210603,-
+320483,7398532,secD,AMF_RS09690,AMF_942,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210603,-
+320483,7398533,AMF_RS09695,AMF_RS09695,AMF_944,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398536,AMF_RS09705,AMF_RS09705,AMF_947,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398537,AMF_RS09710,AMF_RS09710,AMF_948,-,-,-,UbiD family decarboxylase,protein-coding,-,-,-,UbiD family decarboxylase,20210603,-
+320483,7398538,AMF_RS09715,AMF_RS09715,AMF_949,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398539,AMF_RS09720,AMF_RS09720,AMF_950,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398540,AMF_RS09725,AMF_RS09725,AMF_951,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398541,ftsZ,AMF_RS09730,AMF_952,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210603,-
+320483,7398542,ybeY,AMF_RS09740,AMF_953,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210603,-
+320483,7398543,AMF_RS09745,AMF_RS09745,AMF_954,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20201230,-
+320483,7398544,AMF_RS09750,AMF_RS09750,AMF_955,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210603,-
+320483,7398545,rimM,AMF_RS09755,AMF_957,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,ribosome maturation factor RimM,20210603,-
+320483,7398546,trmD,AMF_RS09760,AMF_958,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210603,-
+320483,7398547,rplS,AMF_RS09765,AMF_959,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210603,-
+320483,7398548,AMF_RS09770,AMF_RS09770,AMF_960,-,-,-,CinA family protein,protein-coding,-,-,-,CinA family protein,20210603,-
+320483,7398549,thrS,AMF_RS09775,AMF_961,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210603,-
+320483,7398550,infC,AMF_RS09780,AMF_962,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210603,-
+320483,7398551,tsaE,AMF_RS09785,AMF_963,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210603,-
+320483,7398552,AMF_RS09790,AMF_RS09790,AMF_964,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20210603,-
+320483,7398553,AMF_RS09795,AMF_RS09795,AMF_965,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20210603,-
+320483,7398554,AMF_RS09800,AMF_RS09800,AMF_966,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210603,-
+320483,7398555,dnaX,AMF_RS09805,AMF_967,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20201227,-
+320483,7398556,gap,AMF_RS09810,AMF_968,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210603,-
+320483,7398557,AMF_RS09815,AMF_RS09815,AMF_970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398558,elbB,AMF_RS09820,AMF_971,-,-,-,isoprenoid biosynthesis glyoxalase ElbB,protein-coding,-,-,-,isoprenoid biosynthesis glyoxalase ElbB,20210603,-
+320483,7398559,AMF_RS09825,AMF_RS09825,AMF_972,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20210603,-
+320483,7398560,metK,AMF_RS09830,AMF_973,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210603,-
+320483,7398561,AMF_RS09835,AMF_RS09835,AMF_1089,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398563,AMF_RS09850,AMF_RS09850,AMF_1090,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398564,glyS,AMF_RS09860,AMF_977,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,glycine--tRNA ligase subunit beta,20210603,-
+320483,7398565,dnaJ,AMF_RS09865,AMF_978,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210603,-
+320483,7398566,nadC,AMF_RS09870,AMF_979,-,-,-,carboxylating nicotinate-nucleotide diphosphorylase,protein-coding,-,-,-,carboxylating nicotinate-nucleotide diphosphorylase,20210603,-
+320483,7398567,plsY,AMF_RS09875,AMF_980,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20210603,-
+320483,7398568,ruvC,AMF_RS09880,AMF_981,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20210603,-
+320483,7398569,AMF_RS05605,AMF_RS05605,AMF_107,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20210603,-
+320483,7398570,AMF_RS05610,AMF_RS05610,AMF_108,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20201227,-
+320483,7398571,AMF_RS05615,AMF_RS05615,AMF_109,-,-,-,cold shock domain-containing protein,protein-coding,-,-,-,cold shock domain-containing protein,20210123,-
+320483,7398572,AMF_RS05620,AMF_RS05620,AMF_110,-,-,-,HAMP domain-containing protein,protein-coding,-,-,-,HAMP domain-containing protein,20210603,-
+320483,7398573,AMF_RS05625,AMF_RS05625,AMF_111,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20210603,-
+320483,7398574,ligA,AMF_RS05630,AMF_112,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210603,-
+320483,7398575,grxD,AMF_RS05635,AMF_113,-,-,-,Grx4 family monothiol glutaredoxin,protein-coding,-,-,-,Grx4 family monothiol glutaredoxin,20210603,-
+320483,7398576,AMF_RS05640,AMF_RS05640,AMF_114,-,-,-,BolA/IbaG family iron-sulfur metabolism protein,protein-coding,-,-,-,BolA/IbaG family iron-sulfur metabolism protein,20210603,-
+320483,7398577,AMF_RS05645,AMF_RS05645,AMF_115,-,-,-,DsbE family thiol:disulfide interchange protein,protein-coding,-,-,-,DsbE family thiol:disulfide interchange protein,20210603,-
+320483,7398578,radA,AMF_RS05650,AMF_116,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20210603,-
+320483,7398579,AMF_RS05655,AMF_RS05655,AMF_117,-,-,-,TRAP transporter permease,protein-coding,-,-,-,TRAP transporter permease,20210603,-
+320483,7398580,AMF_RS05660,AMF_RS05660,AMF_118,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210603,-
+320483,7398581,rpsF,AMF_RS05665,AMF_119,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20201230,-
+320483,7398582,rpsR,AMF_RS05670,AMF_120,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210603,-
+320483,7398583,rplI,AMF_RS05675,AMF_121,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210603,-
+320483,7398584,AMF_RS05680,AMF_RS05680,AMF_122,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210603,-
+320483,7398585,AMF_RS05685,AMF_RS05685,AMF_123,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398586,AMF_RS05690,AMF_RS05690,AMF_124,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+320483,7398587,AMF_RS05695,AMF_RS05695,AMF_125,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20210603,-
+320483,7398588,AMF_RS05700,AMF_RS05700,AMF_126,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20210603,-
+320483,7398589,thyX,AMF_RS05705,AMF_127,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20210603,-
+320483,7398590,AMF_RS05710,AMF_RS05710,AMF_128,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210603,-
+320483,7398591,ruvB,AMF_RS05715,AMF_129,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210603,-
+320483,7398592,ruvA,AMF_RS05720,AMF_130,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210603,-
+320483,7398593,ccmC,AMF_RS05725,AMF_131,-,-,-,heme ABC transporter permease CcmC,protein-coding,-,-,-,heme ABC transporter permease CcmC,20210603,-
+320483,7398594,gmk,AMF_RS05730,AMF_132,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210522,-
+320483,7398595,AMF_RS05735,AMF_RS05735,AMF_133,-,-,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20210603,-
+320483,7398596,folD,AMF_RS05740,AMF_134,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20210603,-
+320483,7398597,AMF_RS05745,AMF_RS05745,AMF_1064,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398598,AMF_RS05755,AMF_RS05755,AMF_136,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398599,AMF_RS05760,AMF_RS05760,AMF_139,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398600,AMF_RS05770,AMF_RS05770,AMF_141,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201227,-
+320483,7398601,AMF_RS05775,AMF_RS05775,AMF_142,-,-,-,cytochrome c family protein,protein-coding,-,-,-,cytochrome c family protein,20210603,-
+320483,7398602,AMF_RS05785,AMF_RS05785,AMF_144,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20201227,-
+320483,7398603,ppdK,AMF_RS05790,AMF_145,-,-,-,"pyruvate, phosphate dikinase",protein-coding,-,-,-,"pyruvate, phosphate dikinase",20210603,-
+320483,7398604,AMF_RS05795,AMF_RS05795,AMF_146,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20210603,-
+320483,7398605,AMF_RS05800,AMF_RS05800,AMF_147,-,-,-,HAD-IA family hydrolase,protein-coding,-,-,-,HAD-IA family hydrolase,20210417,-
+320483,7398606,aspS,AMF_RS05805,AMF_148,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210603,-
+320483,7398607,AMF_RS05810,AMF_RS05810,AMF_149,-,-,-,BON domain-containing protein,protein-coding,-,-,-,BON domain-containing protein,20210603,-
+320483,7398608,gshB,AMF_RS05815,AMF_150,-,-,-,glutathione synthase,protein-coding,-,-,-,glutathione synthase,20210603,-
+320483,7398609,AMF_RS05820,AMF_RS05820,AMF_151,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210603,-
+320483,7398610,AMF_RS05825,AMF_RS05825,AMF_152,-,-,-,FtsQ-type POTRA domain-containing protein,protein-coding,-,-,-,FtsQ-type POTRA domain-containing protein,20201227,-
+320483,7398611,AMF_RS05830,AMF_RS05830,AMF_153,-,-,-,sigma-54 dependent transcriptional regulator,protein-coding,-,-,-,sigma-54 dependent transcriptional regulator,20210603,-
+320483,7398612,AMF_RS05835,AMF_RS05835,AMF_154,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398614,lpdA,AMF_RS05845,AMF_156,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201227,-
+320483,7398615,AMF_RS05850,AMF_RS05850,AMF_157,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398616,AMF_RS05855,AMF_RS05855,AMF_158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398617,AMF_RS05860,AMF_RS05860,AMF_159,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398618,AMF_RS05865,AMF_RS05865,AMF_160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398619,AMF_RS05870,AMF_RS05870,AMF_161,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210603,-
+320483,7398620,AMF_RS05875,AMF_RS05875,AMF_162,-,-,-,glutamine synthetase,protein-coding,-,-,-,glutamine synthetase,20210603,-
+320483,7398621,pstC,AMF_RS05880,AMF_163,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20210603,-
+320483,7398622,alaS,AMF_RS05885,AMF_164,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210603,-
+320483,7398623,sucD,AMF_RS05895,AMF_167,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20210603,-
+320483,7398624,sucC,AMF_RS05900,AMF_168,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20201230,-
+320483,7398625,rpsU,AMF_RS05905,AMF_169,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210603,-
+320483,7398626,AMF_RS05910,AMF_RS05910,AMF_170,-,-,-,substrate-binding domain-containing protein,protein-coding,-,-,-,substrate-binding domain-containing protein,20210603,-
+320483,7398627,AMF_RS05915,AMF_RS05915,AMF_171,-,-,-,SCO family protein,protein-coding,-,-,-,SCO family protein,20210603,-
+320483,7398628,AMF_RS05920,AMF_RS05920,AMF_172,-,-,-,nitronate monooxygenase,protein-coding,-,-,-,nitronate monooxygenase,20210603,-
+320483,7398629,AMF_RS05925,AMF_RS05925,AMF_173,-,-,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20201227,-
+320483,7398630,AMF_RS05930,AMF_RS05930,AMF_174,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20210603,-
+320483,7398631,AMF_RS05935,AMF_RS05935,AMF_175,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,protein-coding,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,20210603,-
+320483,7398632,AMF_RS05940,AMF_RS05940,AMF_176,-,-,-,COQ9 family protein,protein-coding,-,-,-,COQ9 family protein,20210603,-
+320483,7398633,murD,AMF_RS05945,AMF_177,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210603,-
+320483,7398634,tolB,AMF_RS05950,AMF_178,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20210603,-
+320483,7398635,AMF_RS05955,AMF_RS05955,AMF_179,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20201227,-
+320483,7398636,AMF_RS05960,AMF_RS05960,AMF_180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398637,AMF_RS05965,AMF_RS05965,AMF_181,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201227,-
+320483,7398638,rpsL,AMF_RS05970,AMF_182,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210603,-
+320483,7398639,rpsG,AMF_RS05975,AMF_183,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210603,-
+320483,7398640,fusA,AMF_RS05980,AMF_185,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210603,-
+320483,7398641,tuf,AMF_RS05985,AMF_186,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210603,-
+320483,7398642,AMF_RS05990,AMF_RS05990,AMF_1065,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398643,nusG,AMF_RS06000,AMF_188,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20210603,-
+320483,7398644,rplK,AMF_RS06005,AMF_190,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210603,-
+320483,7398645,rplA,AMF_RS06010,AMF_191,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210603,-
+320483,7398646,rplJ,AMF_RS06015,AMF_192,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210603,-
+320483,7398647,rplL,AMF_RS06020,AMF_193,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210603,-
+320483,7398648,rpoB,AMF_RS06025,AMF_194,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210603,-
+320483,7398649,rpoC,AMF_RS06030,AMF_195,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210603,-
+320483,7398651,AMF_RS06040,AMF_RS06040,AMF_197,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398653,AMF_RS06050,AMF_RS06050,AMF_1066,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398654,hflK,AMF_RS09020,AMF_803,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20201227,-
+320483,7398655,AMF_RS09025,AMF_RS09025,AMF_804,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20201227,-
+320483,7398656,AMF_RS09030,AMF_RS09030,AMF_805,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20210603,-
+320483,7398657,AMF_RS09035,AMF_RS09035,AMF_806,-,-,-,outer membrane lipoprotein carrier protein LolA,protein-coding,-,-,-,outer membrane lipoprotein carrier protein LolA,20210603,-
+320483,7398658,rnc,AMF_RS09040,AMF_807,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210603,-
+320483,7398659,AMF_RS09045,AMF_RS09045,AMF_808,-,-,-,cytochrome c oxidase assembly protein,protein-coding,-,-,-,cytochrome c oxidase assembly protein,20210603,-
+320483,7398660,AMF_RS09050,AMF_RS09050,AMF_809,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398661,AMF_RS09055,AMF_RS09055,AMF_811,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398663,AMF_RS09065,AMF_RS09065,AMF_813,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398664,AMF_RS09070,AMF_RS09070,AMF_814,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210603,-
+320483,7398665,AMF_RS09075,AMF_RS09075,AMF_815,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201227,-
+320483,7398666,lspA,AMF_RS09080,AMF_816,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210603,-
+320483,7398667,AMF_RS09085,AMF_RS09085,AMF_817,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20210603,-
+320483,7398668,grxC,AMF_RS09090,AMF_818,-,-,-,glutaredoxin 3,protein-coding,-,-,-,glutaredoxin 3,20210603,-
+320483,7398669,prmC,AMF_RS09095,AMF_819,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210603,-
+320483,7398670,map,AMF_RS09100,AMF_820,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210603,-
+320483,7398671,sucB,AMF_RS09105,AMF_821,-,-,-,dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,dihydrolipoyllysine-residue succinyltransferase,20201227,-
+320483,7398672,AMF_RS09110,AMF_RS09110,AMF_822,-,-,-,gamma carbonic anhydrase family protein,protein-coding,-,-,-,gamma carbonic anhydrase family protein,20201227,-
+320483,7398673,panC,AMF_RS09115,AMF_823,-,-,-,pantoate--beta-alanine ligase,protein-coding,-,-,-,pantoate--beta-alanine ligase,20210603,-
+320483,7398674,AMF_RS09120,AMF_RS09120,AMF_824,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210603,-
+320483,7398675,AMF_RS09125,AMF_RS09125,AMF_825,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210603,-
+320483,7398677,AMF_RS09135,AMF_RS09135,AMF_827,-,-,-,M50 family metallopeptidase,protein-coding,-,-,-,M50 family metallopeptidase,20210603,-
+320483,7398678,bamA,AMF_RS09140,AMF_828,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20201230,-
+320483,7398679,AMF_RS09145,AMF_RS09145,AMF_829,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20210603,-
+320483,7398680,fabZ,AMF_RS09150,AMF_830,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210129,-
+320483,7398681,purH,AMF_RS09155,AMF_831,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20210603,-
+320483,7398682,pgsA,AMF_RS09160,AMF_832,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20201227,-
+320483,7398683,AMF_RS09165,AMF_RS09165,AMF_834,-,-,-,cbb3-type cytochrome c oxidase subunit I,protein-coding,-,-,-,cbb3-type cytochrome c oxidase subunit I,20210603,-
+320483,7398684,AMF_RS09170,AMF_RS09170,AMF_835,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210603,-
+320483,7398685,AMF_RS09175,AMF_RS09175,AMF_836,-,-,-,SURF1 family protein,protein-coding,-,-,-,SURF1 family protein,20210603,-
+320483,7398686,AMF_RS09180,AMF_RS09180,AMF_837,-,-,-,pentapeptide repeat-containing protein,protein-coding,-,-,-,pentapeptide repeat-containing protein,20201227,-
+320483,7398687,AMF_RS09185,AMF_RS09185,AMF_838,-,-,-,iron-containing alcohol dehydrogenase,protein-coding,-,-,-,iron-containing alcohol dehydrogenase,20210603,-
+320483,7398688,AMF_RS09190,AMF_RS09190,AMF_839,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20210123,-
+320483,7398689,AMF_RS09195,AMF_RS09195,AMF_840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398690,AMF_RS09200,AMF_RS09200,AMF_841,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20201227,-
+320483,7398691,AMF_RS09205,AMF_RS09205,AMF_842,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398692,AMF_RS09210,AMF_RS09210,AMF_843,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398693,ftsA,AMF_RS09215,AMF_844,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20201227,-
+320483,7398694,AMF_RS09220,AMF_RS09220,AMF_845,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210603,-
+320483,7398696,AMF_RS09225,AMF_RS09225,AMF_1085,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398697,secA,AMF_RS09240,AMF_848,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20201227,-
+320483,7398699,AMF_RS09245,AMF_RS09245,AMF_849,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210603,-
+320483,7398700,AMF_RS09250,AMF_RS09250,AMF_850,-,-,-,cation diffusion facilitator family transporter,protein-coding,-,-,-,cation diffusion facilitator family transporter,20210603,-
+320483,7398701,AMF_RS09255,AMF_RS09255,AMF_1086,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398702,AMF_RS09265,AMF_RS09265,AMF_852,-,-,-,TraR/DksA C4-type zinc finger protein,protein-coding,-,-,-,TraR/DksA C4-type zinc finger protein,20210603,-
+320483,7398703,bioD,AMF_RS09270,AMF_853,-,-,-,dethiobiotin synthase,protein-coding,-,-,-,dethiobiotin synthase,20201227,-
+320483,7398704,ftsY,AMF_RS09275,AMF_854,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210603,-
+320483,7398705,icd,AMF_RS09280,AMF_855,-,-,-,isocitrate dehydrogenase,protein-coding,-,-,-,isocitrate dehydrogenase,20201230,-
+320483,7398706,recJ,AMF_RS09285,AMF_856,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210603,-
+320483,7398708,AMF_RS09290,AMF_RS09290,AMF_858,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210603,-
+320483,7398709,ndk,AMF_RS09295,AMF_859,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210417,-
+320483,7398710,AMF_RS09300,AMF_RS09300,AMF_860,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210603,-
+320483,7398711,AMF_RS09305,AMF_RS09305,AMF_861,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398712,AMF_RS09310,AMF_RS09310,AMF_862,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398713,AMF_RS09315,AMF_RS09315,AMF_864,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398715,msp2,AMF_RS09325,AMF_866,-,-,-,outer membrane protein MSP2,protein-coding,-,-,-,outer membrane protein MSP2,20210603,-
+320483,7398717,AMF_RS09335,AMF_RS09335,AMF_868,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20201227,-
+320483,7398719,AMF_RS09345,AMF_RS09345,AMF_870,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398725,AMF_RS09375,AMF_RS09375,AMF_877,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,7398726,AMF_RS09380,AMF_RS09380,AMF_878,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,7398728,AMF_RS09390,AMF_RS09390,AMF_880,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398729,AMF_RS09395,AMF_RS09395,AMF_881,-,-,-,folate-binding protein YgfZ,protein-coding,-,-,-,folate-binding protein YgfZ,20210603,-
+320483,7398730,AMF_RS09400,AMF_RS09400,AMF_882,-,-,-,heme lyase CcmF/NrfE family subunit,protein-coding,-,-,-,heme lyase CcmF/NrfE family subunit,20210603,-
+320483,7398731,AMF_RS09405,AMF_RS09405,AMF_883,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201227,-
+320483,7398732,smpB,AMF_RS09410,AMF_884,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210603,-
+320483,7398733,ribB,AMF_RS09415,AMF_885,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20210603,-
+320483,7398734,greA,AMF_RS09420,AMF_886,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201227,-
+320483,7398735,atpA,AMF_RS09425,AMF_887,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20210603,-
+320483,7398736,atpH,AMF_RS09430,AMF_888,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20210603,-
+320483,7398737,AMF_RS09440,AMF_RS09440,AMF_889,-,-,-,DUF1467 family protein,protein-coding,-,-,-,DUF1467 family protein,20210603,-
+320483,7398738,AMF_RS10070,AMF_RS10070,AMF_1020,-,-,-,ComF family protein,protein-coding,-,-,-,ComF family protein,20201230,-
+320483,7398739,tldD,AMF_RS10110,AMF_1027,-,-,-,peptidase C69,protein-coding,-,-,-,peptidase C69,20210603,-
+320483,7398740,AMF_RS05150,AMF_RS05150,AMF_019,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210603,-
+320483,7398741,AMF_RS05155,AMF_RS05155,AMF_020,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20210603,-
+320483,7398742,AMF_RS05160,AMF_RS05160,AMF_021,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398743,AMF_RS05165,AMF_RS05165,AMF_022,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210603,-
+320483,7398745,AMF_RS05175,AMF_RS05175,AMF_023,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398748,AMF_RS05185,AMF_RS05185,AMF_026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398749,thiS,AMF_RS05190,AMF_027,-,-,-,sulfur carrier protein ThiS,protein-coding,-,-,-,sulfur carrier protein ThiS,20210603,-
+320483,7398750,AMF_RS05195,AMF_RS05195,AMF_028,-,-,-,thiazole synthase,protein-coding,-,-,-,thiazole synthase,20210123,-
+320483,7398751,AMF_RS05200,AMF_RS05200,AMF_029,-,-,-,DUF2628 domain-containing protein,protein-coding,-,-,-,DUF2628 domain-containing protein,20201227,-
+320483,7398752,AMF_RS05205,AMF_RS05205,AMF_030,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210603,-
+320483,7398753,AMF_RS05210,AMF_RS05210,AMF_1062,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398754,AMF_RS05220,AMF_RS05220,AMF_032,-,-,-,RsmD family RNA methyltransferase,protein-coding,-,-,-,RsmD family RNA methyltransferase,20210603,-
+320483,7398755,AMF_RS05225,AMF_RS05225,AMF_033,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398757,AMF_RS05245,AMF_RS05245,AMF_035,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201227,-
+320483,7398758,rpsP,AMF_RS05250,AMF_037,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210603,-
+320483,7398759,AMF_RS05255,AMF_RS05255,AMF_038,-,-,-,NTP transferase domain-containing protein,protein-coding,-,-,-,NTP transferase domain-containing protein,20210603,-
+320483,7398760,AMF_RS05260,AMF_RS05260,AMF_041,-,-,-,SDR family NAD(P)-dependent oxidoreductase,protein-coding,-,-,-,SDR family NAD(P)-dependent oxidoreductase,20210603,-
+320483,7398761,pheS,AMF_RS05265,AMF_042,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210603,-
+320483,7398762,rplT,AMF_RS05270,AMF_043,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210603,-
+320483,7398764,AMF_RS05280,AMF_RS05280,AMF_044,-,-,-,DUF1013 domain-containing protein,protein-coding,-,-,-,DUF1013 domain-containing protein,20210417,-
+320483,7398765,rho,AMF_RS05285,AMF_045,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210603,-
+320483,7398768,AMF_RS05300,AMF_RS05300,AMF_049,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398769,AMF_RS05310,AMF_RS05310,AMF_050,-,-,-,Fe(3+) ABC transporter substrate-binding protein,protein-coding,-,-,-,Fe(3+) ABC transporter substrate-binding protein,20201227,-
+320483,7398770,AMF_RS05315,AMF_RS05315,AMF_1034,-,-,-,Trm112 family protein,protein-coding,-,-,-,Trm112 family protein,20201230,-
+320483,7398771,AMF_RS05320,AMF_RS05320,AMF_051,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,7398772,AMF_RS05325,AMF_RS05325,AMF_052,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,7398773,AMF_RS05330,AMF_RS05330,AMF_1063,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398774,AMF_RS05340,AMF_RS05340,AMF_054,-,-,-,dehydrogenase,protein-coding,-,-,-,dehydrogenase,20210603,-
+320483,7398775,mlaD,AMF_RS05345,AMF_055,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,protein-coding,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,20201227,-
+320483,7398776,AMF_RS05350,AMF_RS05350,AMF_056,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398777,AMF_RS05355,AMF_RS05355,AMF_057,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398779,AMF_RS05370,AMF_RS05370,AMF_059,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,7398780,recA,AMF_RS05375,AMF_061,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201227,-
+320483,7398781,pyrE,AMF_RS05380,AMF_062,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20210603,-
+320483,7398782,AMF_RS05385,AMF_RS05385,AMF_063,-,-,-,HesA/MoeB/ThiF family protein,protein-coding,-,-,-,HesA/MoeB/ThiF family protein,20210603,-
+320483,7398783,AMF_RS05390,AMF_RS05390,AMF_064,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,7398785,AMF_RS05400,AMF_RS05400,AMF_066,-,-,-,permease,protein-coding,-,-,-,permease,20201227,-
+320483,7398786,AMF_RS05405,AMF_RS05405,AMF_067,-,-,-,ETC complex I subunit,protein-coding,-,-,-,ETC complex I subunit,20201227,-
+320483,7398787,xseB,AMF_RS05410,AMF_068,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20210603,-
+320483,7398788,trxA,AMF_RS05415,AMF_069,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20201227,-
+320483,7398789,virB9,AMF_RS05420,AMF_070,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20210603,-
+320483,7398790,pdhA,AMF_RS05425,AMF_071,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210603,-
+320483,7398791,AMF_RS05430,AMF_RS05430,AMF_072,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201227,-
+320483,7398792,AMF_RS05435,AMF_RS05435,AMF_1055,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201227,-
+320483,7398793,AMF_RS05455,AMF_RS05455,AMF_074,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20210603,-
+320483,7398795,fabD,AMF_RS05465,AMF_077,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20201227,-
+320483,7398796,tmk,AMF_RS05470,AMF_078,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210603,-
+320483,7398797,AMF_RS05475,AMF_RS05475,AMF_079,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210603,-
+320483,7398798,AMF_RS05480,AMF_RS05480,AMF_080,-,-,-,Tim44/TimA family putative adaptor protein,protein-coding,-,-,-,Tim44/TimA family putative adaptor protein,20210603,-
+320483,7398799,secB,AMF_RS05485,AMF_081,-,-,-,protein-export chaperone SecB,protein-coding,-,-,-,protein-export chaperone SecB,20201227,-
+320483,7398800,AMF_RS05490,AMF_RS05490,AMF_083,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20210603,-
+320483,7398801,AMF_RS05495,AMF_RS05495,AMF_084,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201227,-
+320483,7398802,AMF_RS05500,AMF_RS05500,AMF_085,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210603,-
+320483,7398803,AMF_RS05505,AMF_RS05505,AMF_086,-,-,-,nitronate monooxygenase,protein-coding,-,-,-,nitronate monooxygenase,20210603,-
+320483,7398804,AMF_RS05510,AMF_RS05510,AMF_087,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20210603,-
+320483,7398805,AMF_RS05515,AMF_RS05515,AMF_089,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398806,AMF_RS05520,AMF_RS05520,AMF_090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398807,mfd,AMF_RS05525,AMF_091,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210603,-
+320483,7398808,rnhA,AMF_RS05530,AMF_092,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20210603,-
+320483,7398809,AMF_RS05535,AMF_RS05535,AMF_093,-,-,-,AsmA-like C-terminal domain-containing protein,protein-coding,-,-,-,AsmA-like C-terminal domain-containing protein,20210603,-
+320483,7398810,pyrH,AMF_RS05540,AMF_094,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210603,-
+320483,7398811,frr,AMF_RS05545,AMF_095,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210603,-
+320483,7398812,uppS,AMF_RS05550,AMF_096,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20210603,-
+320483,7398815,AMF_RS05565,AMF_RS05565,AMF_099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398816,AMF_RS05570,AMF_RS05570,AMF_100,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20210603,-
+320483,7398817,hisS,AMF_RS05575,AMF_101,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210603,-
+320483,7398818,AMF_RS05580,AMF_RS05580,AMF_102,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20210603,-
+320483,7398819,AMF_RS05585,AMF_RS05585,AMF_103,-,-,-,COX15/CtaA family protein,protein-coding,-,-,-,COX15/CtaA family protein,20210603,-
+320483,7398820,panB,AMF_RS05590,AMF_104,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,protein-coding,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,20210603,-
+320483,7398821,ccmA,AMF_RS05595,AMF_105,-,-,-,heme ABC exporter ATP-binding protein CcmA,protein-coding,-,-,-,heme ABC exporter ATP-binding protein CcmA,20201227,-
+320483,7398822,murA,AMF_RS05600,AMF_106,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210603,-
+320483,7398823,purE,AMF_RS05075,AMF_001,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20201227,-
+320483,7398824,AMF_RS05080,AMF_RS05080,AMF_002,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398825,rodA,AMF_RS05085,AMF_005,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20201227,-
+320483,7398826,AMF_RS05090,AMF_RS05090,AMF_006,-,-,-,integration host factor subunit alpha,protein-coding,-,-,-,integration host factor subunit alpha,20210603,-
+320483,7398828,AMF_RS05095,AMF_RS05095,AMF_1060,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398829,AMF_RS05105,AMF_RS05105,AMF_009,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,7398830,AMF_RS05110,AMF_RS05110,AMF_1061,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+320483,7398831,trpS,AMF_RS05120,AMF_011,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210603,-
+320483,7398833,ribD,AMF_RS05130,AMF_013,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20210603,-
+320483,7398834,AMF_RS05135,AMF_RS05135,AMF_015,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20210603,-
+320483,7398835,secG,AMF_RS05140,AMF_016,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210603,-
+320483,7398837,AMF_RS05145,AMF_RS05145,AMF_018,-,-,-,tyrosine recombinase,protein-coding,-,-,-,tyrosine recombinase,20210603,-
+320483,7411864,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Anaplasma marginale 'Florida'; Anaplasma marginale strain Florida).,other,-,-,-,-,20150211,-
+320483,23673018,AMF_RS05125,AMF_RS05125,AMF_012,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210603,-
+320483,23673019,AMF_RS05170,AMF_RS05170,AMF_1032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673020,AMF_RS05180,AMF_RS05180,AMF_025,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673021,AMF_RS05230,AMF_RS05230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,23673023,msp2,AMF_RS05240,-,-,-,-,pseudo,pseudo,-,-,-,-,20210603,-
+320483,23673025,AMF_RS05290,AMF_RS05290,AMF_047,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,23673026,AMF_RS05295,AMF_RS05295,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673030,AMF_RS05395,AMF_RS05395,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673032,rpmE,AMF_RS05460,AMF_076,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20201227,-
+320483,23673033,AMF_RS05555,AMF_RS05555,AMF_097,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210603,-
+320483,23673035,AMF_RS05765,AMF_RS05765,-,-,-,-,DUF1194 domain-containing protein,protein-coding,-,-,-,DUF1194 domain-containing protein,20201227,-
+320483,23673037,AMF_RS05840,AMF_RS05840,AMF_155,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673039,AMF_RS06035,AMF_RS06035,AMF_196,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210424,-
+320483,23673040,iscX,AMF_RS06165,-,-,-,-,Fe-S cluster assembly protein IscX,protein-coding,-,-,-,Fe-S cluster assembly protein IscX,20201227,-
+320483,23673043,AMF_RS06330,AMF_RS06330,AMF_253,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20201227,-
+320483,23673045,AMF_RS06375,AMF_RS06375,AMF_261,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673050,AMF_RS06465,AMF_RS06465,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673051,AMF_RS06515,AMF_RS06515,-,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20201227,-
+320483,23673053,AMF_RS06885,AMF_RS06885,AMF_367,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673055,AMF_RS06990,AMF_RS06990,AMF_386,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20201227,-
+320483,23673060,ykgO,AMF_RS07295,-,-,-,-,type B 50S ribosomal protein L36,protein-coding,-,-,-,type B 50S ribosomal protein L36,20210207,-
+320483,23673062,AMF_RS07360,AMF_RS07360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673063,AMF_RS07365,AMF_RS07365,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673065,AMF_RS07725,AMF_RS07725,AMF_533,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673066,AMF_RS07730,AMF_RS07730,AMF_534,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,23673067,AMF_RS07770,AMF_RS07770,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673068,petA,AMF_RS07945,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673069,infA,AMF_RS07980,AMF_589,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201227,-
+320483,23673070,AMF_RS08085,AMF_RS08085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,23673071,rpmB,AMF_RS08110,AMF_617,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20201227,-
+320483,23673073,rplX,AMF_RS08420,AMF_685,-,-,-,pseudo,pseudo,-,-,-,-,20210603,-
+320483,23673074,AMF_RS08520,AMF_RS08520,-,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201227,-
+320483,23673075,AMF_RS08525,AMF_RS08525,-,-,-,-,DUF4164 domain-containing protein,protein-coding,-,-,-,DUF4164 domain-containing protein,20201227,-
+320483,23673081,AMF_RS08790,AMF_RS08790,AMF_757,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,23673083,yajC,AMF_RS08860,AMF_771,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20201227,-
+320483,23673086,AMF_RS09005,AMF_RS09005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,23673087,AMF_RS09130,AMF_RS09130,AMF_826,-,-,-,succinate dehydrogenase assembly factor 2,protein-coding,-,-,-,succinate dehydrogenase assembly factor 2,20201227,-
+320483,23673089,AMF_RS09340,AMF_RS09340,AMF_869,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,23673090,AMF_RS09350,AMF_RS09350,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673091,msp2,AMF_RS09355,AMF_872,-,-,-,pseudo,pseudo,-,-,-,-,20210603,-
+320483,23673092,AMF_RS09360,AMF_RS09360,-,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201227,-
+320483,23673096,AMF_RS09700,AMF_RS09700,AMF_945,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,23673098,AMF_RS10050,AMF_RS10050,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,23673099,AMF_RS10055,AMF_RS10055,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,25393707,AMF_RS10135,AMF_RS10135,AMF_098,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,25393709,AMF_RS10145,AMF_RS10145,AMF_922,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210603,-
+320483,25393710,AMF_RS10150,AMF_RS10150,AMF_1019,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201227,-
+320483,25393711,rnpB,AMF_RS10155,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201227,-
+320483,31479915,AMF_RS10160,AMF_RS10160,AMF_007,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20210603,-
+320483,31479916,AMF_RS10165,AMF_RS10165,AMF_024,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479917,rpmI,AMF_RS10170,AMF_1033,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210603,-
+320483,31479918,AMF_RS10175,AMF_RS10175,AMF_048,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479921,AMF_RS10190,AMF_RS10190,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479930,ssrA,AMF_RS10235,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201227,-
+320483,31479931,AMF_RS10240,AMF_RS10240,AMF_445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,31479932,mraW,AMF_RS10245,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479935,AMF_RS10260,AMF_RS10260,AMF_535,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479938,ssrS,AMF_RS10275,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201227,-
+320483,31479939,rpmF,AMF_RS10280,AMF_1047,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210603,-
+320483,31479940,rpmH,AMF_RS10285,AMF_1048,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210603,-
+320483,31479945,AMF_RS10310,AMF_RS10310,AMF_800,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479946,tilS,AMF_RS10315,AMF_846,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201228,-
+320483,31479948,AMF_RS10325,AMF_RS10325,AMF_867,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+320483,31479953,AMF_RS10350,AMF_RS10350,-,-,-,-,zinc-finger domain-containing protein,protein-coding,-,-,-,zinc-finger domain-containing protein,20201228,-
+320483,31479954,AMF_RS10355,AMF_RS10355,AMF_946,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,31479955,ffs,AMF_RS10360,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201227,-
+320483,41339757,AMF_RS10380,AMF_RS10380,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,41339759,AMF_RS10390,AMF_RS10390,AMF_281,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,41339760,AMF_RS10395,AMF_RS10395,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+320483,41339766,AMF_RS10425,AMF_RS10425,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,41339768,AMF_RS10435,AMF_RS10435,AMF_756,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,41339769,AMF_RS10440,AMF_RS10440,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,41339770,AMF_RS10445,AMF_RS10445,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,41339771,AMF_RS10450,AMF_RS10450,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,56166499,AMF_RS10490,AMF_RS10490,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,56166500,AMF_RS10495,AMF_RS10495,AMF_058,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210424,-
+320483,56166501,AMF_RS10500,AMF_RS10500,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+320483,56166502,AMF_RS10505,AMF_RS10505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,56166504,AMF_RS10515,AMF_RS10515,AMF_267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,56166505,AMF_RS10520,AMF_RS10520,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,56166506,AMF_RS10525,AMF_RS10525,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,56166507,AMF_RS10530,AMF_RS10530,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,56166508,AMF_RS10535,AMF_RS10535,AMF_792,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-
+320483,56166509,AMF_RS10540,AMF_RS10540,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,56166510,AMF_RS10545,AMF_RS10545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+320483,56166511,AMF_RS10550,AMF_RS10550,AMF_975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+320483,65098917,AMF_RS10555,AMF_RS10555,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210603,-

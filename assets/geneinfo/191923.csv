@@ -1,0 +1,203 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+191923,42263469,rrn5,GFC88_mgr03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,42263470,rrn18,GFC88_mgr04,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,42263471,nad6,GFC88_mgp44,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20200912,-
+191923,42263472,rpl10,GFC88_mgp43,-,-,MT,-,ribosomal protein L10,protein-coding,-,-,-,ribosomal protein L10,20191030,-
+191923,42263473,ccmB,GFC88_mgp42,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,cytochrome c biogenesis B,20191030,-
+191923,42263474,matR,GFC88_mgp40,-,-,MT,-,maturase,protein-coding,-,-,-,maturase,20200912,-
+191923,42263475,trnE(UUC),GFC88_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263476,trnQ(UUG),GFC88_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263477,trnG(GCC),GFC88_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263478,trnH(GUG),GFC88_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263479,trnfM(CAU),GFC88_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263480,atp9,GFC88_mgp39,-,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,ATPase subunit 9,20200912,-
+191923,42263481,nad5,GFC88_mgp38,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200912,-
+191923,42263482,sdh3,GFC88_mgp36,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20200912,-
+191923,42263483,rps1,GFC88_mgp35,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20200912,-
+191923,42263484,trnK(UUU),GFC88_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263485,rpl2,GFC88_mgp34,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200912,-
+191923,42263486,rps10,GFC88_mgp33,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20200912,-
+191923,42263487,ccmFc,GFC88_mgp32,-,-,MT,-,cytochrome c biogenesis FC,protein-coding,-,-,-,cytochrome c biogenesis FC,20200912,-
+191923,42263488,rps3,GFC88_mgp31,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200912,-
+191923,42263489,rpl16,GFC88_mgp30,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200912,-
+191923,42263490,atp6,GFC88_mgp29,-,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,ATPase subunit 6,20200912,-
+191923,42263491,trnfM(CAU),GFC88_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263492,rrn26,GFC88_mgr02,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,42263493,atp1,GFC88_mgp28,-,-,MT,-,ATPase subunit 1,protein-coding,-,-,-,ATPase subunit 1,20200912,-
+191923,42263494,trnM(CAU),GFC88_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263495,trnD(GUC),GFC88_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263496,trnS(UGA),GFC88_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263497,ccmFn,GFC88_mgp26,-,-,MT,-,cytochrome c biogenesis FN,protein-coding,-,-,-,cytochrome c biogenesis FN,20200912,-
+191923,42263498,trnY(GUA),GFC88_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263499,trnN(GUU),GFC88_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263500,trnC(GCA),GFC88_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263501,rps19,GFC88_mgp25,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200912,-
+191923,42263502,rps13,GFC88_mgp24,-,-,MT,-,pseudo,pseudo,-,-,-,-,20200909,-
+191923,42263503,rps7,GFC88_mgp23,-,-,MT,-,pseudo,pseudo,-,-,-,-,20200909,-
+191923,42263504,ccmC,GFC88_mgp22,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,cytochrome c biogenesis C,20200912,-
+191923,42263505,atp4,GFC88_mgp21,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20200912,-
+191923,42263506,nad4L,GFC88_mgp20,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200912,-
+191923,42263507,rps4,GFC88_mgp19,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200912,-
+191923,42263508,trnS(GCU),GFC88_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263509,trnF(GAA),GFC88_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263510,trnP(UGG),GFC88_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263511,cox3,GFC88_mgp18,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200912,-
+191923,42263512,sdh4,GFC88_mgp17,-,-,MT,-,succinate dehydrogenase subunit 4,protein-coding,-,-,-,succinate dehydrogenase subunit 4,20200912,-
+191923,42263513,nad7,GFC88_mgp16,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20200926,-
+191923,42263514,trnM(CAU),GFC88_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263515,trnN(GUU),GFC88_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263516,cob,GFC88_mgp15,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20200912,-
+191923,42263517,rps14,GFC88_mgp14,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210129,-
+191923,42263518,rpl5,GFC88_mgp13,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20200912,-
+191923,42263519,nad4,GFC88_mgp12,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200912,-
+191923,42263520,trnD(GUC),GFC88_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263521,atp8,GFC88_mgp11,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,ATPase subunit 8,20200912,-
+191923,42263522,trnfM(CAU),GFC88_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263523,rrn26,GFC88_mgr01,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,42263524,cox2,GFC88_mgp10,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20200912,-
+191923,42263525,nad3,GFC88_mgp09,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20200912,-
+191923,42263526,rps12,GFC88_mgp08,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200926,-
+191923,42263527,nad9,GFC88_mgp07,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20200912,-
+191923,42263528,trnP(UGG),GFC88_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263529,trnW(CCA),GFC88_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263530,trnV(GAC),GFC88_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263531,cox1,GFC88_mgp06,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20200905,-
+191923,42263532,rps10,GFC88_mgp05,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20200912,-
+191923,42263533,rpl2,GFC88_mgp04,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200912,-
+191923,42263534,trnK(UUU),GFC88_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,42263535,rps1,GFC88_mgp03,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20200912,-
+191923,42263536,nad1,GFC88_mgp41,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200912,-
+191923,42263537,sdh3,GFC88_mgp02,-,-,MT,-,succinate dehydrogenase subunit 3,protein-coding,-,-,-,succinate dehydrogenase subunit 3,20200912,-
+191923,42263538,nad5,GFC88_mgp37,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200912,-
+191923,42263539,mttB,GFC88_mgp01,-,-,MT,-,transport membrane protein,protein-coding,-,-,-,transport membrane protein,20200912,-
+191923,42263540,nad2,GFC88_mgp27,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200912,-
+191923,54371973,trnH-GUG,HHI30_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371974,psbA,HHI30_pgp085,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200909,-
+191923,54371975,trnK-UUU,HHI30_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371976,matK,HHI30_pgp084,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210327,-
+191923,54371977,rps16,HHI30_pgp083,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210123,-
+191923,54371978,trnQ-UUG,HHI30_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371979,psbK,HHI30_pgp082,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200926,-
+191923,54371980,psbI,HHI30_pgp081,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200801,-
+191923,54371981,trnS-GCU,HHI30_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371982,trnG-UCC,HHI30_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371983,trnR-UCU,HHI30_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371984,atpA,HHI30_pgp080,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200926,-
+191923,54371985,atpF,HHI30_pgp079,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,ATP synthase CF0 B subunit,20200926,-
+191923,54371986,atpH,HHI30_pgp078,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,ATP synthase CF0 C subunit,20200801,-
+191923,54371987,atpI,HHI30_pgp077,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,ATP synthase CF0 A subunit,20200926,-
+191923,54371988,rps2,HHI30_pgp076,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210327,-
+191923,54371989,rpoC2,HHI30_pgp075,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210327,-
+191923,54371990,rpoC1,HHI30_pgp074,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210123,-
+191923,54371991,rpoB,HHI30_pgp073,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210327,-
+191923,54371992,trnC-GCA,HHI30_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371993,petN,HHI30_pgp072,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200801,-
+191923,54371994,psbM,HHI30_pgp071,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20210327,-
+191923,54371995,trnD-GUC,HHI30_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371996,trnY-GUA,HHI30_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371997,trnE-UUC,HHI30_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371998,trnT-GGU,HHI30_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54371999,psbD,HHI30_pgp070,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200801,-
+191923,54372000,psbC,HHI30_pgp069,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200926,-
+191923,54372001,trnS-UGA,HHI30_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372002,psbZ,HHI30_pgp068,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20200919,-
+191923,54372003,trnG-GCC,HHI30_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372004,trnfM-CAU,HHI30_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372005,rps14,HHI30_pgp067,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210123,-
+191923,54372006,psaB,HHI30_pgp066,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200926,-
+191923,54372007,psaA,HHI30_pgp065,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20210123,-
+191923,54372008,ycf3,HHI30_pgp064,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20200909,-
+191923,54372009,trnS-GGA,HHI30_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372010,rps4,HHI30_pgp063,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200926,-
+191923,54372011,trnT-UGU,HHI30_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372012,trnL-UAA,HHI30_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372013,trnF-GAA,HHI30_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372014,ndhJ,HHI30_pgp062,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20210123,-
+191923,54372015,ndhK,HHI30_pgp061,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20210327,-
+191923,54372016,ndhC,HHI30_pgp060,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20210123,-
+191923,54372017,trnV-UAC,HHI30_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372018,trnM-CAU,HHI30_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372019,atpE,HHI30_pgp059,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200801,-
+191923,54372020,atpB,HHI30_pgp058,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200909,-
+191923,54372021,rbcL,HHI30_pgp057,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210327,-
+191923,54372022,accD,HHI30_pgp056,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,20210327,-
+191923,54372023,psaI,HHI30_pgp055,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20201217,-
+191923,54372024,ycf4,HHI30_pgp054,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20210123,-
+191923,54372025,cemA,HHI30_pgp053,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,envelope membrane protein,20210123,-
+191923,54372026,petA,HHI30_pgp052,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210123,-
+191923,54372027,psbJ,HHI30_pgp051,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200909,-
+191923,54372028,psbL,HHI30_pgp050,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200909,-
+191923,54372029,psbF,HHI30_pgp049,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20200801,-
+191923,54372030,psbE,HHI30_pgp048,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200801,-
+191923,54372031,petL,HHI30_pgp047,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20200926,-
+191923,54372032,petG,HHI30_pgp046,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+191923,54372033,trnW-CCA,HHI30_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372034,trnP-UGG,HHI30_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372035,psaJ,HHI30_pgp045,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200801,-
+191923,54372036,rpl33,HHI30_pgp044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210123,-
+191923,54372037,rps18,HHI30_pgp043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210123,-
+191923,54372038,rpl20,HHI30_pgp042,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210327,-
+191923,54372039,rps12,HHI30_pgp040,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200801,-
+191923,54372040,clpP,HHI30_pgp039,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20210327,-
+191923,54372041,psbB,HHI30_pgp038,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200926,-
+191923,54372042,psbT,HHI30_pgp037,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20200909,-
+191923,54372043,psbN,HHI30_pgp036,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200909,-
+191923,54372044,psbH,HHI30_pgp035,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20210123,-
+191923,54372045,petB,HHI30_pgp034,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200801,-
+191923,54372046,petD,HHI30_pgp033,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20210123,-
+191923,54372047,rpoA,HHI30_pgp032,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210327,-
+191923,54372048,rps11,HHI30_pgp031,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200926,-
+191923,54372049,rpl36,HHI30_pgp030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200909,-
+191923,54372050,rps8,HHI30_pgp029,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210123,-
+191923,54372051,rpl14,HHI30_pgp028,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210327,-
+191923,54372052,rpl16,HHI30_pgp027,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210327,-
+191923,54372053,rps3,HHI30_pgp026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210123,-
+191923,54372054,rps19,HHI30_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210123,-
+191923,54372055,rpl2,HHI30_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+191923,54372056,rpl23,HHI30_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200926,-
+191923,54372057,trnI-CAU,HHI30_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372058,ycf2,HHI30_pgp022,-,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,hypothetical protein RF2,20210327,-
+191923,54372059,trnL-CAA,HHI30_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372060,ndhB,HHI30_pgp021,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200926,-
+191923,54372061,rps7,HHI30_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+191923,54372062,trnV-GAC,HHI30_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372063,rrn16,HHI30_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372064,trnI-GAU,HHI30_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372065,trnA-UGC,HHI30_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372066,rrn23,HHI30_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372067,rrn4.5,HHI30_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372068,rrn5,HHI30_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372069,trnR-ACG,HHI30_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372070,trnN-GUU,HHI30_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372071,ycf1,HHI30_pgp019,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+191923,54372072,ndhF,HHI30_pgp018,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20210327,-
+191923,54372073,rpl32,HHI30_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210123,-
+191923,54372074,trnL-UAG,HHI30_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372075,ccsA,HHI30_pgp016,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20210327,-
+191923,54372076,ndhD,HHI30_pgp015,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20210327,-
+191923,54372077,psaC,HHI30_pgp014,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200909,-
+191923,54372078,ndhE,HHI30_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200926,-
+191923,54372079,ndhG,HHI30_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200926,-
+191923,54372080,ndhI,HHI30_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20210123,-
+191923,54372081,ndhA,HHI30_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20210327,-
+191923,54372082,ndhH,HHI30_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20210327,-
+191923,54372083,rps15,HHI30_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210123,-
+191923,54372084,ycf1,HHI30_pgp007,-,-,-,-,hypothetical protein RF1,protein-coding,-,-,-,hypothetical protein RF1,20210327,-
+191923,54372085,trnN-GUU,HHI30_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372086,trnR-ACG,HHI30_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372087,rrn5,HHI30_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372088,rrn4.5,HHI30_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372089,rrn23,HHI30_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372090,trnA-UGC,HHI30_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372091,trnI-GAU,HHI30_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372092,rrn16,HHI30_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+191923,54372093,trnV-GAC,HHI30_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372094,rps7,HHI30_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+191923,54372095,ndhB,HHI30_pgp005,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200926,-
+191923,54372096,trnL-CAA,HHI30_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372097,ycf2,HHI30_pgp004,-,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,hypothetical protein RF2,20210327,-
+191923,54372098,trnI-CAU,HHI30_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+191923,54372099,rpl23,HHI30_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200926,-
+191923,54372100,rpl2,HHI30_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+191923,54372101,rps19,HHI30_pgp001,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+191923,54372102,rps12,HHI30_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200801,-

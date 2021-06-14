@@ -1,0 +1,1670 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+192222,904330,rrc,Cj0012c,-,-,-,-,non-heme iron protein,protein-coding,-,-,-,-,20170906,-
+192222,904331,Cj0033,Cj0033,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,904332,Cj0011c,Cj0011c,-,-,-,-,non-specific DNA binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904333,Cj1564,Cj1564,-,-,-,-,methyl-accepting chemotaxis signal transduction protein,protein-coding,-,-,-,-,20210212,-
+192222,904334,rnhB,Cj0010c,-,-,-,-,ribonuclease HII,protein-coding,-,-,-,-,20180130,-
+192222,904335,ilvA,Cj0828c,-,-,-,-,threonine dehydratase,protein-coding,-,-,-,-,20170906,-
+192222,904336,gltD,Cj0009,-,-,-,-,glutamate synthase subunit beta,protein-coding,-,-,-,-,20170906,-
+192222,904337,Cj0008,Cj0008,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+192222,904338,aroA,Cj0895c,-,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904339,gltB,Cj0007,-,-,-,-,glutamate synthase large subunit,protein-coding,-,-,-,-,20210212,-
+192222,904340,dnaN,Cj0002,-,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,-,20170906,-
+192222,904341,Cj0554,Cj0554,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904342,dnaA,Cj0001,-,-,-,-,chromosomal replication initiation protein,protein-coding,-,-,-,-,20180130,-
+192222,904343,gyrB,Cj0003,-,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,-,20180130,-
+192222,904344,Cj0004c,Cj0004c,-,-,-,-,monoheme cytochrome C,protein-coding,-,-,-,-,20210212,-
+192222,904345,Cj0005c,Cj0005c,-,-,-,-,molydopterin containing oxidoreductase,protein-coding,-,-,-,-,20170906,-
+192222,904346,Cj0006,Cj0006,-,-,-,-,Na+/H+ antiporter family protein,protein-coding,-,-,-,-,20170906,-
+192222,904347,Cj0014c,Cj0014c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,904348,napH,Cj0782,-,-,-,-,quinol dehydrogenase membrane subunit,protein-coding,-,-,-,-,20170906,-
+192222,904349,ilvD,Cj0013,-,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,-,20160325,-
+192222,904350,Cj0888c,Cj0888c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,904351,Cj0930,Cj0930,-,-,-,-,ribosome-binding ATPase,protein-coding,-,-,-,-,20210212,-
+192222,904352,Cj0015c,Cj0015c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904353,Cj0016,Cj0016,-,-,-,-,7-cyano-7-deazaguanine synthase,protein-coding,-,-,-,-,20160806,-
+192222,904354,dsbI,Cj0017c,-,-,-,-,disulfide bond formation protein,protein-coding,-,-,-,-,20150626,-
+192222,904355,Cj1563c,Cj1563c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,904356,dba,Cj0018c,-,-,-,-,disulfide bond formation protein,protein-coding,-,-,-,-,20150626,-
+192222,904357,Cj0019c,Cj0019c,-,-,-,-,MCP-domain signal transduction protein,protein-coding,-,-,-,-,20170906,-
+192222,904358,Cj0958c,Cj0958c,-,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,-,20180130,-
+192222,904359,Cj0564,Cj0564,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904360,Cj0020c,Cj0020c,-,-,-,-,cytochrome C551 peroxidase,protein-coding,-,-,-,-,20170906,-
+192222,904361,Cj0021c,Cj0021c,-,-,-,-,fumarylacetoacetate (FAA) hydrolase family protein,protein-coding,-,-,-,-,20170906,-
+192222,904362,Cj0022c,Cj0022c,-,-,-,-,pseudouridine synthase,protein-coding,-,-,-,-,20170906,-
+192222,904363,nrdA,Cj0024,-,-,-,-,ribonucleotide-diphosphate reductase subunit alpha,protein-coding,-,-,-,-,20210129,-
+192222,904364,Cj0025c,Cj0025c,-,-,-,-,sodium:dicarboxylate family transmembrane symporter,protein-coding,-,-,-,-,20150718,-
+192222,904365,thyX,Cj0026c,-,-,-,-,thymidylate synthase,protein-coding,-,-,-,-,20180130,-
+192222,904366,Cj0101,Cj0101,-,-,-,-,chromosome-partitioning protein ParB,protein-coding,-,-,-,-,20190604,-
+192222,904367,pyrG,Cj0027,-,-,-,-,CTP synthetase,protein-coding,-,-,-,-,20180130,-
+192222,904368,tRNAAla,Cjp01,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904369,Cj0030,Cj0030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,904370,Cj0031,Cj0031,-,-,-,-,type IIS restriction/modification enzyme,protein-coding,-,-,-,-,20170906,-
+192222,904372,Cj0034c,Cj0034c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160325,-
+192222,904373,Cj0038c,Cj0038c,-,-,-,-,poly(A) polymerase family protein,protein-coding,-,-,-,-,20150626,-
+192222,904374,typA,Cj0039c,-,-,-,-,GTP-binding protein TypA,protein-coding,-,-,-,-,20170906,-
+192222,904375,Cj0040,Cj0040,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904376,Cj0944c,Cj0944c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904377,Cj0262c,Cj0262c,-,-,-,-,methyl-accepting chemotaxis signal transduction protein,protein-coding,-,-,-,-,20201003,-
+192222,904378,fliK,Cj0041,-,-,-,-,flagellar hook-length control protein,protein-coding,-,-,-,-,20170906,-
+192222,904379,flgD,Cj0042,-,-,-,-,flagellar hook assembly protein,protein-coding,-,-,-,-,20170906,-
+192222,904380,Cj0044c,Cj0044c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,904381,Cj0045c,Cj0045c,-,-,-,-,iron-binding protein,protein-coding,-,-,-,-,20160813,-
+192222,904382,Cj0046,Cj0046,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904383,mnmA,Cj0053c,-,-,-,-,tRNA-specific 2-thiouridylase MnmA,protein-coding,-,-,-,-,20180130,-
+192222,904384,Cj0054c,Cj0054c,-,-,-,-,lysine decarboxylase family protein,protein-coding,-,-,-,-,20150626,-
+192222,904385,hisH,Cj1600,-,-,-,-,imidazole glycerol phosphate synthase subunit HisH,protein-coding,-,-,-,-,20210212,-
+192222,904386,Cj0055c,Cj0055c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904388,Cj0057,Cj0057,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904389,truA,Cj0827,-,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,-,20180130,-
+192222,904390,Cj0058,Cj0058,-,-,-,-,peptidase C39 family protein,protein-coding,-,-,-,-,20160716,-
+192222,904391,fliY,Cj0059c,-,-,-,-,flagellar motor switch protein FliY,protein-coding,-,-,-,-,20170906,-
+192222,904392,fliM,Cj0060c,-,-,-,-,flagellar motor switch protein FliM,protein-coding,-,-,-,-,20170906,-
+192222,904393,fliA,Cj0061c,-,-,-,-,flagellar biosynthesis RNA polymerase sigma factor,protein-coding,-,-,-,-,20170906,-
+192222,904394,Cj0062c,Cj0062c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904395,Cj0063c,Cj0063c,-,-,-,-,ATP-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,904396,folK,Cj0065c,-,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,protein-coding,-,-,-,-,20160807,-
+192222,904397,aroQ,Cj0066c,-,-,-,-,3-dehydroquinate dehydratase,protein-coding,-,-,-,-,20201010,-
+192222,904398,Cj0067,Cj0067,-,-,-,-,amidohydrolase family protein,protein-coding,-,-,-,-,20201010,-
+192222,904399,Cj0072c,Cj0072c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904400,Cj0073c,Cj0073c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150718,-
+192222,904401,Cj0074c,Cj0074c,-,-,-,-,iron-sulfur protein,protein-coding,-,-,-,-,20170906,-
+192222,904402,Cj0075c,Cj0075c,-,-,-,-,oxidoreductase iron-sulfur subunit,protein-coding,-,-,-,-,20170906,-
+192222,904403,lctP,Cj0076c,-,-,-,-,L-lactate permease,protein-coding,-,-,-,-,20150626,-
+192222,904404,cdtC,Cj0077c,-,-,-,-,cytolethal distending toxin C,protein-coding,-,-,-,-,20210212,-
+192222,904405,cdtB,Cj0078c,-,-,-,-,cytolethal distending toxin B,protein-coding,-,-,-,-,20201003,-
+192222,904406,cdtA,Cj0079c,-,-,-,-,cytolethal distending toxin A,protein-coding,-,-,-,-,20210130,-
+192222,904407,Cj0080,Cj0080,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904408,cydA,Cj0081,-,-,-,-,cytochrome bd oxidase subunit I,protein-coding,-,-,-,-,20210212,-
+192222,904409,cydB,Cj0082,-,-,-,-,cytochrome bd oxidase subunit II,protein-coding,-,-,-,-,20180130,-
+192222,904410,Cj0085c,Cj0085c,-,-,-,-,amino acid recemase,protein-coding,-,-,-,-,20150626,-
+192222,904411,ung,Cj0086c,-,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,-,20210212,-
+192222,904412,aspA,Cj0087,-,-,-,-,aspartate ammonia-lyase,protein-coding,-,-,-,-,20180130,-
+192222,904413,dcuA,Cj0088,-,-,-,-,anaerobic C4-dicarboxylate transporter,protein-coding,-,-,-,-,20150626,-
+192222,904414,sodB,Cj0169,-,-,-,-,superoxide dismutase,protein-coding,-,-,-,-,20180130,-
+192222,904415,tRNAGly,Cjp17,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904416,Cj0089,Cj0089,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20170906,-
+192222,904417,valS,Cj0775c,-,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904418,Cj0090,Cj0090,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904419,Cj0091,Cj0091,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904420,Cj0092,Cj0092,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904421,Cj0093,Cj0093,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,904422,rplU,Cj0094,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,-,20160807,-
+192222,904423,rpmA,Cj0095,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,-,20160418,-
+192222,904424,mobB,Cj0841c,-,-,-,-,molybdopterin-guanine dinucleotide biosynthesis protein,protein-coding,-,-,-,-,20160730,-
+192222,904425,purB,Cj0023,-,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,-,20170906,-
+192222,904426,proB,Cj0097,-,-,-,-,glutamate 5-kinase,protein-coding,-,-,-,-,20170906,-
+192222,904427,fmt,Cj0098,-,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,904428,birA,Cj0099,-,-,-,-,biotin--[acetyl-CoA-carboxylase] synthetase,protein-coding,-,-,-,-,20201003,-
+192222,904430,Cj0100,Cj0100,-,-,-,-,ParA family protein,protein-coding,-,-,-,-,20210212,-
+192222,904431,atpF',Cj0102,-,-,-,-,ATP synthase subunit B',protein-coding,-,-,-,-,20170906,-
+192222,904432,atpF,Cj0103,-,-,-,-,ATP synthase subunit B,protein-coding,-,-,-,-,20170906,-
+192222,904433,Cj0941c,Cj0941c,-,-,-,-,permease,protein-coding,-,-,-,-,20170906,-
+192222,904434,atpH,Cj0104,-,-,-,-,ATP synthase subunit delta,protein-coding,-,-,-,-,20180130,-
+192222,904435,atpA,Cj0105,-,-,-,-,ATP synthase subunit alpha,protein-coding,-,-,-,-,20170906,-
+192222,904436,atpG,Cj0106,-,-,-,-,ATP synthase subunit gamma,protein-coding,-,-,-,-,20180130,-
+192222,904437,atpD,Cj0107,-,-,-,-,ATP synthase subunit beta,protein-coding,-,-,-,-,20170906,-
+192222,904438,atpC,Cj0108,-,-,-,-,ATP synthase subunit epsilon,protein-coding,-,-,-,-,20170906,-
+192222,904439,exbB3,Cj0109,-,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,-,20150626,-
+192222,904440,exbD3,Cj0110,-,-,-,-,ExbD/TolR family transport protein,protein-coding,-,-,-,-,20150801,-
+192222,904441,Cj0864,Cj0864,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,904442,Cj0111,Cj0111,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,904443,tolB,Cj0112,-,-,-,-,translocation protein TolB,protein-coding,-,-,-,-,20201003,-
+192222,904444,pal,Cj0113,-,-,-,-,peptidoglycan associated lipoprotein,protein-coding,-,-,-,-,20170906,-
+192222,904445,Cj0114,Cj0114,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20201003,-
+192222,904446,slyD,Cj0115,-,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,-,20170906,-
+192222,904447,fabD,Cj0116,-,-,-,-,malonyl CoA-acyl carrier protein transacylase,protein-coding,-,-,-,-,20150626,-
+192222,904448,pfs,Cj0117,-,-,-,-,aminodeoxyfutalosine nucleosidase,protein-coding,-,-,-,-,20201010,-
+192222,904449,Cj0118,Cj0118,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190608,-
+192222,904450,recJ,Cj0028,-,-,-,-,single-stranded-DNA-specific exonuclease,protein-coding,-,-,-,-,20170906,-
+192222,904451,Cj0119,Cj0119,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20160813,-
+192222,904452,Cj0120,Cj0120,-,-,-,-,recombination protein RecO,protein-coding,-,-,-,-,20201003,-
+192222,904453,Cj0121,Cj0121,-,-,-,-,metalloprotease,protein-coding,-,-,-,-,20160807,-
+192222,904454,Cj0122,Cj0122,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904455,Cj0123c,Cj0123c,-,-,-,-,tRNA-dihydrouridine synthase,protein-coding,-,-,-,-,20170906,-
+192222,904456,ogt,Cj0836,-,-,-,-,methylated-DNA--protein-cysteine methyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904457,Cj0124c,Cj0124c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904458,tRNAIle,Cjp02,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904459,Cj0125c,Cj0125c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,904460,Cj0126c,Cj0126c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160807,-
+192222,904461,accD,Cj0127c,-,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit beta,protein-coding,-,-,-,-,20201010,-
+192222,904462,Cj0128c,Cj0128c,-,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,-,20150626,-
+192222,904463,Cj0129c,Cj0129c,-,-,-,-,outer membrane protein assembly factor,protein-coding,-,-,-,-,20170906,-
+192222,904464,flhF,Cj0064c,-,-,-,-,flagellar biosynthesis regulator FlhF,protein-coding,-,-,-,-,20201003,-
+192222,904465,tyrA,Cj0130,-,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904466,Cj0131,Cj0131,-,-,-,-,peptidase M23 family protein,protein-coding,-,-,-,-,20170906,-
+192222,904467,lpxC,Cj0132,-,-,-,-,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,protein-coding,-,-,-,-,20201010,-
+192222,904468,rbfA,Cj0137,-,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,-,20201010,-
+192222,904469,Cj0133,Cj0133,-,-,-,-,glycoprotease family protein,protein-coding,-,-,-,-,20150627,-
+192222,904470,Cj0135,Cj0135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,904471,infB,Cj0136,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,-,20170906,-
+192222,904472,Cj0140,Cj0140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,904473,Cj0141c,Cj0141c,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904474,Cj0158c,Cj0158c,-,-,-,-,heme-binding lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,904475,Cj0142c,Cj0142c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904476,Cj0143c,Cj0143c,-,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904477,trmD,Cj0713,-,-,-,-,tRNA (guanine-N(1)-)-methyltransferase,protein-coding,-,-,-,-,20160807,-
+192222,904478,Cj0144,Cj0144,-,-,-,-,methyl-accepting chemotaxis signal transduction protein,protein-coding,-,-,-,-,20201003,-
+192222,904479,trxA,Cj0147c,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20201003,-
+192222,904480,Cj0145,Cj0145,-,-,-,-,TAT pathway signal sequence domain-containing protein,protein-coding,-,-,-,-,20160730,-
+192222,904481,trxB,Cj0146c,-,-,-,-,thioredoxin reductase,protein-coding,-,-,-,-,20190608,-
+192222,904482,hom,Cj0149c,-,-,-,-,homoserine dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904483,Cj0150c,Cj0150c,-,-,-,-,aminotransferase,protein-coding,-,-,-,-,20201010,-
+192222,904484,Cj0151c,Cj0151c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904485,Cj0152c,Cj0152c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904486,Cj0153c,Cj0153c,-,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,-,20170906,-
+192222,904487,Cj0154c,Cj0154c,-,-,-,-,rRNA small subunit methyltransferase I,protein-coding,-,-,-,-,20160917,-
+192222,904488,rpmE,Cj0155c,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,-,20160807,-
+192222,904489,Cj0148c,Cj0148c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+192222,904490,thrB,Cj0134,-,-,-,-,homoserine kinase,protein-coding,-,-,-,-,20180130,-
+192222,904491,nuoK,Cj1569c,-,-,-,-,NADH-quinone oxidoreductase I subunit K,protein-coding,-,-,-,-,20150626,-
+192222,904492,pepA,Cj0929,-,-,-,-,cytosol aminopeptidase,protein-coding,-,-,-,-,20170906,-
+192222,904493,Cj0156c,Cj0156c,-,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,-,20160418,-
+192222,904494,Cj0157c,Cj0157c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904495,Cj1548c,Cj1548c,-,-,-,-,NADP-dependent alcohol dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904496,Cj0160c,Cj0160c,-,-,-,-,7-carboxy-7-deazaguanine synthase,protein-coding,-,-,-,-,20180130,-
+192222,904497,Cj0711,Cj0711,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210612,-
+192222,904498,Cj1545c,Cj1545c,-,-,-,-,MdaB protein,protein-coding,-,-,-,-,20150626,-
+192222,904499,moaA,Cj0161c,-,-,-,-,cyclic pyranopterin monophosphate synthase,protein-coding,-,-,-,-,20201003,-
+192222,904500,Cj0162c,Cj0162c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904501,Cj0159c,Cj0159c,-,-,-,-,6-pyruvoyl-tetrahydropterin synthase,protein-coding,-,-,-,-,20210212,-
+192222,904502,Cj0163c,Cj0163c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904503,ubiA,Cj0164c,-,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,904504,Cj0167c,Cj0167c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160820,-
+192222,904505,hisA,Cj1601,-,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase,protein-coding,-,-,-,-,20160820,-
+192222,904506,tRNAGlu,Cjp03,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904507,Cj0168c,Cj0168c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904508,Cj0170,Cj0170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201026,-
+192222,904510,Cj0172c,Cj0172c,-,-,-,-,saccharopine dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904511,cfbpC,Cj0173c,-,-,-,-,iron-uptake ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904512,cfbpB,Cj0174c,-,-,-,-,iron-uptake ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904513,cfbpA,Cj0175c,-,-,-,-,iron-uptake ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904514,napG,Cj0781,-,-,-,-,quinol dehydrogenase periplasmic subunit,protein-coding,-,-,-,-,20170906,-
+192222,904515,Cj0176c,Cj0176c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904516,Cj0177,Cj0177,-,-,-,-,iron transport protein,protein-coding,-,-,-,-,20150627,-
+192222,904517,Cj0035c,Cj0035c,-,-,-,-,efflux protein,protein-coding,-,-,-,-,20201010,-
+192222,904518,Cj0178,Cj0178,-,-,-,-,TonB-denpendent outer membrane receptor,protein-coding,-,-,-,-,20170906,-
+192222,904519,rimM,Cj0712,-,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,-,20170906,-
+192222,904520,exbB1,Cj0179,-,-,-,-,biopolymer transport protein,protein-coding,-,-,-,-,20150626,-
+192222,904521,miaA,Cj0166,-,-,-,-,tRNA dimethylallyltransferase,protein-coding,-,-,-,-,20160807,-
+192222,904522,Cj0610c,Cj0610c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150711,-
+192222,904523,exbD1,Cj0180,-,-,-,-,biopolymer transport protein,protein-coding,-,-,-,-,20150718,-
+192222,904524,tonB1,Cj0181,-,-,-,-,TonB transport protein,protein-coding,-,-,-,-,20170906,-
+192222,904525,Cj0182,Cj0182,-,-,-,-,transmembrane transport protein,protein-coding,-,-,-,-,20150626,-
+192222,904526,Cj0183,Cj0183,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,904527,Cj0184c,Cj0184c,-,-,-,-,serine/threonine protein phosphatase,protein-coding,-,-,-,-,20160806,-
+192222,904529,Cj0186c,Cj0186c,-,-,-,-,TerC family integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904530,purN,Cj0187c,-,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,-,20160813,-
+192222,904531,Cj0188c,Cj0188c,-,-,-,-,kinase,protein-coding,-,-,-,-,20160813,-
+192222,904532,Cj0189c,Cj0189c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190608,-
+192222,904533,Cj0190c,Cj0190c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,904534,def,Cj0191c,-,-,-,-,peptide deformylase,protein-coding,-,-,-,-,20180130,-
+192222,904535,tig,Cj0193c,-,-,-,-,trigger factor,protein-coding,-,-,-,-,20170906,-
+192222,904536,folE,Cj0194,-,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,-,20180130,-
+192222,904537,fliI,Cj0195,-,-,-,-,flagellum-specific ATP synthase,protein-coding,-,-,-,-,20201003,-
+192222,904538,purF,Cj0196c,-,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904539,dapB,Cj0197c,-,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,-,20180130,-
+192222,904540,Cj0198c,Cj0198c,-,-,-,-,recombination factor protein RarA,protein-coding,-,-,-,-,20170906,-
+192222,904541,Cj1547,Cj1547,-,-,-,-,lipocalin family protein,protein-coding,-,-,-,-,20160325,-
+192222,904542,Cj0199c,Cj0199c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904543,Cj0200c,Cj0200c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904544,Cj0201c,Cj0201c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904545,Cj0203,Cj0203,-,-,-,-,citrate transporter,protein-coding,-,-,-,-,20170906,-
+192222,904546,Cj0138,Cj0138,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,904547,Cj0037c,Cj0037c,-,-,-,-,cytochrome C,protein-coding,-,-,-,-,20170906,-
+192222,904548,Cj0204,Cj0204,-,-,-,-,oligopeptide transporter,protein-coding,-,-,-,-,20150626,-
+192222,904549,uppP,Cj0205,-,-,-,-,undecaprenyl-diphosphatase,protein-coding,-,-,-,-,20201003,-
+192222,904550,infC,Cj0207,-,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,-,20180130,-
+192222,904551,Cj0208,Cj0208,-,-,-,-,DNA modification methylase,protein-coding,-,-,-,-,20150627,-
+192222,904552,Cj0223,Cj0223,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904553,Cj0225,Cj0225,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904554,argB,Cj0226,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,-,20160730,-
+192222,904555,argD,Cj0227,-,-,-,-,acetylornithine aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,904556,Cj0229,Cj0229,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904557,Cj0230c,Cj0230c,-,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904558,nrdF,Cj0231c,-,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,-,20160903,-
+192222,904559,Cj0232c,Cj0232c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160910,-
+192222,904560,pyrE,Cj0233c,-,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,-,20160820,-
+192222,904561,frr,Cj0234c,-,-,-,-,ribosome recycling factor,protein-coding,-,-,-,-,20160806,-
+192222,904562,secG,Cj0235c,-,-,-,-,protein translocase subunit SecG,protein-coding,-,-,-,-,20150626,-
+192222,904563,Cj0236c,Cj0236c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20180130,-
+192222,904564,cynT,Cj0237,-,-,-,-,carbonic anhydrase,protein-coding,-,-,-,-,20160203,-
+192222,904565,Cj0238,Cj0238,-,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,-,20210212,-
+192222,904566,Cj0239c,Cj0239c,-,-,-,-,nitrogen fixation protein NifU,protein-coding,-,-,-,-,20190608,-
+192222,904567,iscS,Cj0240c,-,-,-,-,cysteine desulfurase,protein-coding,-,-,-,-,20210212,-
+192222,904568,Cj0241c,Cj0241c,-,-,-,-,bacteriohemerythrin,protein-coding,-,-,-,-,20180130,-
+192222,904569,Cj0243c,Cj0243c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904570,rpmI,Cj0244,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,-,20160415,-
+192222,904571,rplT,Cj0245,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20180130,-
+192222,904574,Cj0248,Cj0248,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,904575,Cj0249,Cj0249,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,904576,Cj0250c,Cj0250c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20210212,-
+192222,904577,Cj0251c,Cj0251c,-,-,-,-,highly acidic protein,protein-coding,-,-,-,-,20210129,-
+192222,904578,moaC,Cj0252,-,-,-,-,cyclic pyranopterin monophosphate synthase accessory protein,protein-coding,-,-,-,-,20201010,-
+192222,904579,Cj0253,Cj0253,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904580,Cj0254,Cj0254,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904581,exoA,Cj0255c,-,-,-,-,exodeoxyribonuclease,protein-coding,-,-,-,-,20210212,-
+192222,904582,Cj0256,Cj0256,-,-,-,-,sulfatase family protein,protein-coding,-,-,-,-,20170906,-
+192222,904583,dgkA,Cj0257,-,-,-,-,diacylglycerol kinase,protein-coding,-,-,-,-,20160806,-
+192222,904584,Cj0258,Cj0258,-,-,-,-,ArsR family transcriptional regulator,protein-coding,-,-,-,-,20150626,-
+192222,904585,pyrC,Cj0259,-,-,-,-,dihydroorotase,protein-coding,-,-,-,-,20160730,-
+192222,904586,Cj0260c,Cj0260c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210129,-
+192222,904587,Cj0261c,Cj0261c,-,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904588,Cj0263,Cj0263,-,-,-,-,zinc transporter ZupT,protein-coding,-,-,-,-,20160418,-
+192222,904589,Cj0264c,Cj0264c,-,-,-,-,molybdopterin containing oxidoreductase,protein-coding,-,-,-,-,20201003,-
+192222,904590,Cj0265c,Cj0265c,-,-,-,-,cytochrome C-type heme-binding protein,protein-coding,-,-,-,-,20150801,-
+192222,904591,Cj0266c,Cj0266c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904592,Cj0267c,Cj0267c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904593,Cj0268c,Cj0268c,-,-,-,-,transmembrane protein,protein-coding,-,-,-,-,20201003,-
+192222,904594,ilvE,Cj0269c,-,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,-,20201003,-
+192222,904595,Cj0270,Cj0270,-,-,-,-,tautomerase family protein,protein-coding,-,-,-,-,20160807,-
+192222,904596,Cj0271,Cj0271,-,-,-,-,bacterioferritin comigratory protein,protein-coding,-,-,-,-,20170906,-
+192222,904597,Cj0272,Cj0272,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+192222,904598,fabZ,Cj0273,-,-,-,-,3-hydroxyacyl-ACP dehydratase,protein-coding,-,-,-,-,20201010,-
+192222,904599,lpxA,Cj0274,-,-,-,-,acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,-,20201010,-
+192222,904600,clpX,Cj0275,-,-,-,-,ATP-dependent protease ATP-binding subunit ClpX,protein-coding,-,-,-,-,20180130,-
+192222,904601,mreB,Cj0276,-,-,-,-,rod shape-determining protein MreB,protein-coding,-,-,-,-,20170906,-
+192222,904602,mreC,Cj0277,-,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,-,20150626,-
+192222,904603,carB,Cj0279,-,-,-,-,carbamoyl phosphate synthase large subunit,protein-coding,-,-,-,-,20180130,-
+192222,904604,Cj0280,Cj0280,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904605,tal,Cj0281c,-,-,-,-,transaldolase,protein-coding,-,-,-,-,20180130,-
+192222,904606,serB,Cj0282c,-,-,-,-,phosphoserine phosphatase,protein-coding,-,-,-,-,20170906,-
+192222,904607,cheW,Cj0283c,-,-,-,-,chemotaxis protein,protein-coding,-,-,-,-,20150626,-
+192222,904608,cheA,Cj0284c,-,-,-,-,chemotaxis histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,904609,cheV,Cj0285c,-,-,-,-,chemotaxis protein,protein-coding,-,-,-,-,20210212,-
+192222,904610,Cj0286c,Cj0286c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904611,greA,Cj0287c,-,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,-,20170906,-
+192222,904612,lpxB,Cj0288c,-,-,-,-,ipid-A-disaccharide synthase,protein-coding,-,-,-,-,20201003,-
+192222,904613,peb3,Cj0289c,-,-,-,-,major antigenic peptide PEB3,protein-coding,-,-,-,-,20170906,-
+192222,904616,glpT,Cj0292c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904617,surE,Cj0293,-,-,-,-,5'-nucleotidase SurE,protein-coding,-,-,-,-,20160807,-
+192222,904618,Cj0294,Cj0294,-,-,-,-,MoeB/ThiF family protein,protein-coding,-,-,-,-,20190608,-
+192222,904619,Cj0295,Cj0295,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,904620,panD,Cj0296c,-,-,-,-,aspartate 1-decarboxylase,protein-coding,-,-,-,-,20160827,-
+192222,904621,panC,Cj0297c,-,-,-,-,pantothenate synthetase,protein-coding,-,-,-,-,20210212,-
+192222,904622,panB,Cj0298c,-,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,904623,Cj0299,Cj0299,-,-,-,-,beta-lactamase,protein-coding,-,-,-,-,20210515,-
+192222,904624,modC,Cj0300c,-,-,-,-,molybdenum ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904625,modB,Cj0301c,-,-,-,-,molybdenum ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904626,Cj0302c,Cj0302c,-,-,-,-,molybdenum-pterin-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,904627,modA,Cj0303c,-,-,-,-,molybdenum ABC transporter substrate-binding lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,904628,bioC,Cj0304c,-,-,-,-,biotin synthesis protein,protein-coding,-,-,-,-,20170906,-
+192222,904629,Cj0305c,Cj0305c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904630,bioF,Cj0306c,-,-,-,-,8-amino-7-oxononanoate synthase,protein-coding,-,-,-,-,20170906,-
+192222,904631,bioA,Cj0307,-,-,-,-,adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA,protein-coding,-,-,-,-,20170906,-
+192222,904632,bioD,Cj0308c,-,-,-,-,dethiobiotin synthetase,protein-coding,-,-,-,-,20180130,-
+192222,904633,Cj0309c,Cj0309c,-,-,-,-,efflux protein,protein-coding,-,-,-,-,20180130,-
+192222,904634,Cj0310c,Cj0310c,-,-,-,-,efflux protein,protein-coding,-,-,-,-,20150626,-
+192222,904635,Cj0311,Cj0311,-,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,-,20170906,-
+192222,904636,pth,Cj0312,-,-,-,-,peptidyl-tRNA hydrolase,protein-coding,-,-,-,-,20160827,-
+192222,904637,Cj0313,Cj0313,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,904638,lysA,Cj0314,-,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,-,20180130,-
+192222,904639,Cj0315,Cj0315,-,-,-,-,HAD-superfamily hydrolase,protein-coding,-,-,-,-,20201003,-
+192222,904640,pheA,Cj0316,-,-,-,-,bifunctional chorismate mutase/prephenate dehydratase,protein-coding,-,-,-,-,20180130,-
+192222,904641,hisC,Cj0317,-,-,-,-,histidinol-phosphate aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,904642,fliF,Cj0318,-,-,-,-,flagellar MS-ring protein,protein-coding,-,-,-,-,20201010,-
+192222,904643,fliG,Cj0319,-,-,-,-,flagellar motor switch protein,protein-coding,-,-,-,-,20170906,-
+192222,904644,fliH,Cj0320,-,-,-,-,flagellar assembly protein FliH,protein-coding,-,-,-,-,20170906,-
+192222,904645,dxs,Cj0321,-,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,-,20170906,-
+192222,904646,perR,Cj0322,-,-,-,-,peroxide stress regulator,protein-coding,-,-,-,-,20190629,-
+192222,904647,Cj0323,Cj0323,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904648,ubiE,Cj0324,-,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,904649,xseA,Cj0325,-,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,-,20170906,-
+192222,904650,serC,Cj0326,-,-,-,-,3-phosphoserine/phosphohydroxythreonine aminotransferase,protein-coding,-,-,-,-,20201010,-
+192222,904651,Cj0327,Cj0327,-,-,-,-,endoribonuclease L-PSP family protein,protein-coding,-,-,-,-,20150626,-
+192222,904652,fabH,Cj0328c,-,-,-,-,3-oxoacyl-ACP synthase III,protein-coding,-,-,-,-,20201003,-
+192222,904653,plsX,Cj0329c,-,-,-,-,phosphate acyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,904654,rpmF,Cj0330c,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,-,20160418,-
+192222,904655,Cj0331c,Cj0331c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904656,ndk,Cj0332c,-,-,-,-,nucleoside diphosphate kinase,protein-coding,-,-,-,-,20170906,-
+192222,904657,fdxA,Cj0333c,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20210212,-
+192222,904658,ahpC,Cj0334,-,-,-,-,alkyl hydroperoxide reductase,protein-coding,-,-,-,-,20170906,-
+192222,904659,flhB,Cj0335,-,-,-,-,flagellar biosynthesis protein FlhB,protein-coding,-,-,-,-,20150627,-
+192222,904660,motB,Cj0336c,-,-,-,-,flagellar motor protein MotB,protein-coding,-,-,-,-,20170906,-
+192222,904661,motA,Cj0337c,-,-,-,-,flagellar motor protein MotA,protein-coding,-,-,-,-,20150626,-
+192222,904662,polA,Cj0338c,-,-,-,-,DNA polymerase I,protein-coding,-,-,-,-,20170906,-
+192222,904663,Cj0339,Cj0339,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20210212,-
+192222,904664,Cj0340,Cj0340,-,-,-,-,nucleoside hydrolase,protein-coding,-,-,-,-,20201003,-
+192222,904665,Cj0341c,Cj0341c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,904666,uvrA,Cj0342c,-,-,-,-,excinuclease ABC subunit A,protein-coding,-,-,-,-,20210212,-
+192222,904667,Cj0343c,Cj0343c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904668,Cj0344,Cj0344,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904669,trpE,Cj0345,-,-,-,-,anthranilate synthase subunit I,protein-coding,-,-,-,-,20170906,-
+192222,904670,trpD,Cj0346,-,-,-,-,anthranilate synthase subunit II,protein-coding,-,-,-,-,20201010,-
+192222,904671,trpF,Cj0347,-,-,-,-,N-(5'-phosphoribosyl)anthranilate isomerase,protein-coding,-,-,-,-,20180130,-
+192222,904672,trpB,Cj0348,-,-,-,-,tryptophan synthase subunit beta,protein-coding,-,-,-,-,20180130,-
+192222,904673,trpA,Cj0349,-,-,-,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,-,20160813,-
+192222,904674,Cj0350,Cj0350,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904675,fliN,Cj0351,-,-,-,-,flagellar motor switch protein,protein-coding,-,-,-,-,20201003,-
+192222,904676,Cj0352,Cj0352,-,-,-,-,transmembrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904677,Cj0353c,Cj0353c,-,-,-,-,phosphatase,protein-coding,-,-,-,-,20170906,-
+192222,904678,fdxB,Cj0354c,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20210212,-
+192222,904679,Cj0355c,Cj0355c,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,904680,folB,Cj0356c,-,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,-,20150626,-
+192222,904681,Cj0357c,Cj0357c,-,-,-,-,glycerol-3-phosphate acyltransferase PlsY,protein-coding,-,-,-,-,20201003,-
+192222,904682,Cj0358,Cj0358,-,-,-,-,cytochrome C551 peroxidase,protein-coding,-,-,-,-,20170906,-
+192222,904683,glmM,Cj0360,-,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,-,20180130,-
+192222,904684,lspA,Cj0361,-,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,-,20201010,-
+192222,904685,Cj0362,Cj0362,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160820,-
+192222,904686,Cj0363c,Cj0363c,-,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,-,20160917,-
+192222,904687,Cj0364,Cj0364,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904688,cmeC,Cj0365c,-,-,-,-,multidrug efflux pump protein CmeC,protein-coding,-,-,-,-,20170906,-
+192222,904689,cmeB,Cj0366c,-,-,-,-,multidrug efflux pump protein CmeB,protein-coding,-,-,-,-,20180130,-
+192222,904690,cmeA,Cj0367c,-,-,-,-,multidrug efflux pump protein CmeA,protein-coding,-,-,-,-,20180130,-
+192222,904691,cmeR,Cj0368c,-,-,-,-,transcriptional regulator CmeR,protein-coding,-,-,-,-,20170906,-
+192222,904692,Cj0369c,Cj0369c,-,-,-,-,ferredoxin domain-containing integral membrane protein,protein-coding,-,-,-,-,20190814,-
+192222,904693,rpsU,Cj0370,-,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,-,20180130,-
+192222,904694,Cj0371,Cj0371,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160807,-
+192222,904695,Cj0372,Cj0372,-,-,-,-,glutathionylspermidine synthase,protein-coding,-,-,-,-,20170906,-
+192222,904696,Cj0373,Cj0373,-,-,-,-,2-hydroxyacid dehydrogenase,protein-coding,-,-,-,-,20201003,-
+192222,904697,Cj0374,Cj0374,-,-,-,-,nucleotide-binding protein,protein-coding,-,-,-,-,20180130,-
+192222,904698,Cj0375,Cj0375,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904699,Cj0376,Cj0376,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904700,Cj0377,Cj0377,-,-,-,-,AAA ATPase,protein-coding,-,-,-,-,20170906,-
+192222,904701,Cj0378c,Cj0378c,-,-,-,-,ferric reductase-like transmembrane protein,protein-coding,-,-,-,-,20150627,-
+192222,904702,Cj0379c,Cj0379c,-,-,-,-,sulfoxide reductase catalytic subunit,protein-coding,-,-,-,-,20201003,-
+192222,904703,Cj0380c,Cj0380c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904704,pyrF,Cj0381c,-,-,-,-,orotidine 5'-phosphate decarboxylase,protein-coding,-,-,-,-,20210212,-
+192222,904705,nusB,Cj0382c,-,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,-,20201003,-
+192222,904706,ribH,Cj0383c,-,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,-,20180130,-
+192222,904707,kdsA,Cj0384c,-,-,-,-,2-dehydro-3-deoxyphosphooctonate aldolase,protein-coding,-,-,-,-,20160807,-
+192222,904708,Cj0385c,Cj0385c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,904709,engA,Cj0386,-,-,-,-,GTPase Der,protein-coding,-,-,-,-,20170906,-
+192222,904710,aroK,Cj0387,-,-,-,-,shikimate kinase,protein-coding,-,-,-,-,20170906,-
+192222,904711,trpS,Cj0388,-,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,904712,serS,Cj0389,-,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904713,Cj0390,Cj0390,-,-,-,-,transmembrane protein,protein-coding,-,-,-,-,20201003,-
+192222,904714,Cj0391c,Cj0391c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904715,pyk,Cj0392c,-,-,-,-,pyruvate kinase,protein-coding,-,-,-,-,20170906,-
+192222,904716,mqo,Cj0393c,-,-,-,-,malate:quinone oxidoreductase,protein-coding,-,-,-,-,20210212,-
+192222,904717,Cj0394c,Cj0394c,-,-,-,-,pantothenate kinase,protein-coding,-,-,-,-,20201010,-
+192222,904718,Cj0395c,Cj0395c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904719,Cj0396c,Cj0396c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904720,Cj0397c,Cj0397c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190608,-
+192222,904721,gatC,Cj0398,-,-,-,-,glutamyl-tRNA(Gln) amidotransferase subunit C,protein-coding,-,-,-,-,20201003,-
+192222,904722,Cj0399,Cj0399,-,-,-,-,colicin V production protein,protein-coding,-,-,-,-,20150808,-
+192222,904723,Cj0431,Cj0431,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20150626,-
+192222,904724,fur,Cj0400,-,-,-,-,ferric uptake regulator,protein-coding,-,-,-,-,20180130,-
+192222,904725,lysS,Cj0401,-,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904726,glyA,Cj0402,-,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,904727,Cj0403,Cj0403,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904728,Cj0404,Cj0404,-,-,-,-,transmembrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904729,aroE,Cj0405,-,-,-,-,shikimate 5-dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904730,Cj0406c,Cj0406c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,904731,lgt,Cj0407,-,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,-,20180130,-
+192222,904732,frdC,Cj0408,-,-,-,-,fumarate reductase cytochrome B subunit,protein-coding,-,-,-,-,20201003,-
+192222,904733,frdA,Cj0409,-,-,-,-,fumarate reductase flavoprotein subunit,protein-coding,-,-,-,-,20170906,-
+192222,904734,frdB,Cj0410,-,-,-,-,fumarate reductase iron-sulfur subunit,protein-coding,-,-,-,-,20180130,-
+192222,904735,Cj0411,Cj0411,-,-,-,-,ATP/GTP binding protein,protein-coding,-,-,-,-,20210212,-
+192222,904736,Cj0412,Cj0412,-,-,-,-,ATP/GTP binding protein,protein-coding,-,-,-,-,20150626,-
+192222,904737,Cj0413,Cj0413,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,904738,Cj0414,Cj0414,-,-,-,-,oxidoreductase subunit,protein-coding,-,-,-,-,20210212,-
+192222,904739,Cj0415,Cj0415,-,-,-,-,GMC oxidoreductase subunit,protein-coding,-,-,-,-,20170906,-
+192222,904740,Cj0416,Cj0416,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904741,Cj0417,Cj0417,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904742,Cj0418c,Cj0418c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+192222,904743,Cj0419,Cj0419,-,-,-,-,histidine triad (HIT) family protein,protein-coding,-,-,-,-,20150626,-
+192222,904744,Cj0420,Cj0420,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160325,-
+192222,904745,Cj0421c,Cj0421c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904746,Cj0422c,Cj0422c,-,-,-,-,H-T-H containing protein,protein-coding,-,-,-,-,20150626,-
+192222,904747,Cj0423,Cj0423,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904748,Cj0424,Cj0424,-,-,-,-,acidic periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904749,Cj0425,Cj0425,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904750,Cj0426,Cj0426,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904751,Cj0427,Cj0427,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904752,Cj0428,Cj0428,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904753,Cj0429c,Cj0429c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,904754,Cj0430,Cj0430,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904755,tRNAAla,Cjp04,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904756,tRNAIle,Cjp05,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904757,murD,Cj0432c,-,-,-,-,UDP-N-acetylmuramoylalanine--D-glutamate ligase,protein-coding,-,-,-,-,20170906,-
+192222,904758,mraY,Cj0433c,-,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,-,20160807,-
+192222,904759,pgm,Cj0434,-,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,-,20201003,-
+192222,904760,fabG,Cj0435,-,-,-,-,3-oxoacyl-ACP reductase,protein-coding,-,-,-,-,20170906,-
+192222,904761,Cj0436,Cj0436,-,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,-,20150626,-
+192222,904762,sdhA,Cj0437,-,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,-,20210212,-
+192222,904763,sdhB,Cj0438,-,-,-,-,succinate dehydrogenase iron-sulfur protein,protein-coding,-,-,-,-,20180130,-
+192222,904764,sdhC,Cj0439,-,-,-,-,succinate dehydrogenase subunit C,protein-coding,-,-,-,-,20170906,-
+192222,904765,Cj0440c,Cj0440c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20150627,-
+192222,904766,acpP,Cj0441,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20160807,-
+192222,904767,fabF,Cj0442,-,-,-,-,3-oxoacyl-ACP synthase,protein-coding,-,-,-,-,20180130,-
+192222,904768,accA,Cj0443,-,-,-,-,acetyl-CoA carboxylase carboxyl transferase subunit alpha,protein-coding,-,-,-,-,20180130,-
+192222,904769,Cj0444,Cj0444,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904770,Cj0447,Cj0447,-,-,-,-,NUDIX hydrolase family protein,protein-coding,-,-,-,-,20190608,-
+192222,904771,Cj0448c,Cj0448c,-,-,-,-,MCP-type signal transduction protein,protein-coding,-,-,-,-,20210212,-
+192222,904772,Cj0449c,Cj0449c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,904773,rpmB,Cj0450c,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,-,20180130,-
+192222,904774,rep,Cj0451,-,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,-,20160806,-
+192222,904775,dnaQ,Cj0452,-,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,-,20201010,-
+192222,904776,thiC,Cj0453,-,-,-,-,phosphomethylpyrimidine synthase,protein-coding,-,-,-,-,20210212,-
+192222,904777,Cj0454c,Cj0454c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904778,Cj0455c,Cj0455c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904779,Cj0456c,Cj0456c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904780,Cj0457c,Cj0457c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20160716,-
+192222,904781,miaB,Cj0458c,-,-,-,-,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase,protein-coding,-,-,-,-,20170906,-
+192222,904782,Cj0459c,Cj0459c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904783,nusA,Cj0460,-,-,-,-,transcription elongation factor NusA,protein-coding,-,-,-,-,20201003,-
+192222,904784,Cj0461c,Cj0461c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20201010,-
+192222,904785,Cj0462,Cj0462,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,904786,Cj0463,Cj0463,-,-,-,-,zinc protease-like protein,protein-coding,-,-,-,-,20170906,-
+192222,904787,recG,Cj0464,-,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,-,20170906,-
+192222,904788,ctb,Cj0465c,-,-,-,-,group 3 truncated hemoglobin,protein-coding,-,-,-,-,20180130,-
+192222,904789,nssR,Cj0466,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,904790,Cj0467,Cj0467,-,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904791,Cj0468,Cj0468,-,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904792,Cj0469,Cj0469,-,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904793,tRNAThr,Cjp06,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904794,tRNATyr,Cjp07,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904795,tRNAGly,Cjp08,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904796,tuf,Cj0470,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20180130,-
+192222,904797,rpmG,Cj0471,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,-,20160807,-
+192222,904798,tRNATrp,Cjp09,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904799,secE,Cj0472,-,-,-,-,protein translocase subunit SecE,protein-coding,-,-,-,-,20160203,-
+192222,904800,psd,Cj0847,-,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,-,20160807,-
+192222,904801,nusG,Cj0473,-,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,-,20180130,-
+192222,904802,rplK,Cj0474,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20180130,-
+192222,904803,rplA,Cj0475,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20180130,-
+192222,904804,rplJ,Cj0476,-,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,-,20160716,-
+192222,904805,rplL,Cj0477,-,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,-,20180130,-
+192222,904806,rpoB,Cj0478,-,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,-,20201010,-
+192222,904807,rpoC,Cj0479,-,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,-,20201003,-
+192222,904808,Cj0480c,Cj0480c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,904809,dapA,Cj0481,-,-,-,-,dihydrodipicolinate synthase,protein-coding,-,-,-,-,20160730,-
+192222,904810,uxaA',Cj0483,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904811,Cj0484,Cj0484,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904812,Cj0485,Cj0485,-,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,-,20201003,-
+192222,904813,Cj0036,Cj0036,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,904814,Cj0486,Cj0486,-,-,-,-,sugar transporter,protein-coding,-,-,-,-,20170906,-
+192222,904815,Cj0487,Cj0487,-,-,-,-,amidohydrolase,protein-coding,-,-,-,-,20150627,-
+192222,904816,Cj0488,Cj0488,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150725,-
+192222,904818,rpsL,Cj0491,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160917,-
+192222,904819,rpsG,Cj0492,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+192222,904820,aspS,Cj0640c,-,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904821,Cj0879c,Cj0879c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904822,fusA,Cj0493,-,-,-,-,elongation factor G,protein-coding,-,-,-,-,20170906,-
+192222,904823,tRNAArg,Cjp10,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904824,Cj0494,Cj0494,-,-,-,-,exporting protein,protein-coding,-,-,-,-,20150626,-
+192222,904825,Cj0495,Cj0495,-,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,-,20170906,-
+192222,904826,Cj0496,Cj0496,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904827,Cj0497,Cj0497,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20201003,-
+192222,904828,trpC,Cj0498,-,-,-,-,Indole-3-glycerol phosphate synthase,protein-coding,-,-,-,-,20201003,-
+192222,904829,Cj0499,Cj0499,-,-,-,-,histidine triad (HIT) family protein,protein-coding,-,-,-,-,20150626,-
+192222,904830,Cj0500,Cj0500,-,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,-,20170906,-
+192222,904831,Cj0501,Cj0501,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904832,hemH,Cj0503c,-,-,-,-,ferrochelatase,protein-coding,-,-,-,-,20170906,-
+192222,904833,Cj0504c,Cj0504c,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20170906,-
+192222,904834,Cj0505c,Cj0505c,-,-,-,-,DegT family aminotransferase,protein-coding,-,-,-,-,20180130,-
+192222,904835,alaS,Cj0506,-,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904836,maf,Cj0507,-,-,-,-,Maf-like protein,protein-coding,-,-,-,-,20201003,-
+192222,904837,pbpA,Cj0508,-,-,-,-,penicillin-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904838,clpB,Cj0509c,-,-,-,-,chaperone protein ClpB,protein-coding,-,-,-,-,20201003,-
+192222,904839,Cj0510c,Cj0510c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904840,Cj0511,Cj0511,-,-,-,-,protease,protein-coding,-,-,-,-,20170906,-
+192222,904841,purC,Cj0512,-,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,-,20160924,-
+192222,904842,purS,Cj0513,-,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,-,20210212,-
+192222,904843,purQ,Cj0514,-,-,-,-,phosphoribosylformylglycinamidine synthase I,protein-coding,-,-,-,-,20210212,-
+192222,904844,Cj0515,Cj0515,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,904845,plsC,Cj0516,-,-,-,-,1-acyl-SN-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904846,crcB,Cj0517,-,-,-,-,fluoride ion transporter CrcB,protein-coding,-,-,-,-,20180130,-
+192222,904847,htpG,Cj0518,-,-,-,-,chaperone protein HtpG,protein-coding,-,-,-,-,20180130,-
+192222,904848,Cj0519,Cj0519,-,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,-,20150626,-
+192222,904849,Cj0520,Cj0520,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904850,Cj0522,Cj0522,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904853,pbpB,Cj0525c,-,-,-,-,penicillin-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904854,fliE,Cj0526c,-,-,-,-,flagellar hook-basal body protein FliE,protein-coding,-,-,-,-,20201010,-
+192222,904855,flgC,Cj0527c,-,-,-,-,flagellar basal body rod protein FlgC,protein-coding,-,-,-,-,20170906,-
+192222,904856,flgB,Cj0528c,-,-,-,-,flagellar basal body rod protein FlgB,protein-coding,-,-,-,-,20170906,-
+192222,904857,Cj0529c,Cj0529c,-,-,-,-,aminodeoxychorismate lyase family protein,protein-coding,-,-,-,-,20150808,-
+192222,904858,Cj0530,Cj0530,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,904859,icd,Cj0531,-,-,-,-,isocitrate dehydrogenase,protein-coding,-,-,-,-,20210129,-
+192222,904860,mdh,Cj0532,-,-,-,-,malate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,904861,sucC,Cj0533,-,-,-,-,succinyl-CoA ligase subunit beta,protein-coding,-,-,-,-,20201003,-
+192222,904862,sucD,Cj0534,-,-,-,-,succinyl-CoA synthetase subunit alpha,protein-coding,-,-,-,-,20170906,-
+192222,904863,oorD,Cj0535,-,-,-,-,2-oxoglutarate-acceptor oxidoreductase subunit OorD,protein-coding,-,-,-,-,20170906,-
+192222,904864,oorA,Cj0536,-,-,-,-,2-oxoglutarate-acceptor oxidoreductase subunit OorA,protein-coding,-,-,-,-,20201003,-
+192222,904865,Cj0539,Cj0539,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904866,Cj0540,Cj0540,-,-,-,-,exporting protein,protein-coding,-,-,-,-,20150626,-
+192222,904867,Cj0541,Cj0541,-,-,-,-,polyprenyl synthetase,protein-coding,-,-,-,-,20160903,-
+192222,904868,hemA,Cj0542,-,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,-,20170906,-
+192222,904869,proS,Cj0543,-,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,904870,Cj0544,Cj0544,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904871,hemC,Cj0545,-,-,-,-,porphobilinogen deaminase,protein-coding,-,-,-,-,20170906,-
+192222,904872,ansA,Cj0029,-,-,-,-,L-asparaginase,protein-coding,-,-,-,-,20180707,-
+192222,904873,ubiD,Cj0546,-,-,-,-,3-octaprenyl-4-hydroxybenzoate carboxy-lyase,protein-coding,-,-,-,-,20160325,-
+192222,904874,flaG,Cj0547,-,-,-,-,flagellar protein FlaG,protein-coding,-,-,-,-,20190406,-
+192222,904875,fliD,Cj0548,-,-,-,-,flagellar hook-associated protein 2,protein-coding,-,-,-,-,20201003,-
+192222,904876,fliS,Cj0549,-,-,-,-,flagellar protein FliS,protein-coding,-,-,-,-,20210612,-
+192222,904877,Cj0550,Cj0550,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904878,rnpB,Cjp11,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20120821,-
+192222,904879,efp,Cj0551,-,-,-,-,elongation factor P,protein-coding,-,-,-,-,20180130,-
+192222,904880,Cj0552,Cj0552,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150725,-
+192222,904881,Cj0553,Cj0553,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,904882,Cj0555,Cj0555,-,-,-,-,dicarboxylate carrier protein MatC,protein-coding,-,-,-,-,20170906,-
+192222,904883,Cj0556,Cj0556,-,-,-,-,amidohydrolase family protein,protein-coding,-,-,-,-,20150711,-
+192222,904884,Cj0557c,Cj0557c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,904885,proA,Cj0558c,-,-,-,-,gamma-glutamyl phosphate reductase,protein-coding,-,-,-,-,20210212,-
+192222,904886,dnaB,Cj0562,-,-,-,-,replicative DNA helicase,protein-coding,-,-,-,-,20170906,-
+192222,904887,Cj0565,Cj0565,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904888,Cj0630c,Cj0630c,-,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,-,20160827,-
+192222,904889,Cj0566,Cj0566,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904890,Cj0567,Cj0567,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,904891,Cj0568,Cj0568,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904893,Cj0570,Cj0570,-,-,-,-,ATP/GTP binding protein,protein-coding,-,-,-,-,20160325,-
+192222,904894,Cj0571,Cj0571,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,904895,tRNAMet,Cjp12,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904896,tRNAGln,Cjp13,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,904897,ribA,Cj0572,-,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,-,20201010,-
+192222,904898,Cj0573,Cj0573,-,-,-,-,GatB/Yqey family protein,protein-coding,-,-,-,-,20150801,-
+192222,904899,ilvI,Cj0574,-,-,-,-,acetolactate synthase 3 catalytic subunit,protein-coding,-,-,-,-,20201003,-
+192222,904900,ilvH,Cj0575,-,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,-,20170906,-
+192222,904901,lpxD,Cj0576,-,-,-,-,UDP-3-O-acylglucosamine N-acyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,904902,queA,Cj0577c,-,-,-,-,S-adenosylmethionine--tRNA ribosyltransferase-isomerase,protein-coding,-,-,-,-,20160807,-
+192222,904903,tatC,Cj0578c,-,-,-,-,Sec-independent protein translocase TatC,protein-coding,-,-,-,-,20180130,-
+192222,904904,tatB,Cj0579c,-,-,-,-,Sec-independent translocase TatB,protein-coding,-,-,-,-,20201003,-
+192222,904905,lysC,Cj0582,-,-,-,-,aspartatokinase,protein-coding,-,-,-,-,20170906,-
+192222,904906,Cj0583,Cj0583,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,904907,Cj0584,Cj0584,-,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,-,20150627,-
+192222,904908,folP,Cj0585,-,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,-,20170906,-
+192222,904909,ligA,Cj0586,-,-,-,-,DNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904910,Cj0659c,Cj0659c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160325,-
+192222,904911,Cj0587,Cj0587,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904912,tlyA,Cj0588,-,-,-,-,hemolysin,protein-coding,-,-,-,-,20210605,-
+192222,904913,ribF,Cj0589,-,-,-,-,bifunctional riboflavin kinase/FMN adenylyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,904914,Cj0590,Cj0590,-,-,-,-,tRNA (cmo5U34)-methyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,904915,Cj0832c,Cj0832c,-,-,-,-,Na+/H+ antiporter family protein,protein-coding,-,-,-,-,20170906,-
+192222,904916,Cj0591c,Cj0591c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,904917,Cj0592c,Cj0592c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,904918,Cj0593c,Cj0593c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20180130,-
+192222,904919,Cj0594c,Cj0594c,-,-,-,-,DNA/RNA non-specific endonuclease,protein-coding,-,-,-,-,20170906,-
+192222,904920,nth,Cj0595c,-,-,-,-,endonuclease III,protein-coding,-,-,-,-,20170906,-
+192222,904921,peb4cbf2,Cj0596,-,-,-,-,peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,-,20190608,-
+192222,904922,fba,Cj0597,-,-,-,-,fructose-bisphosphate aldolase,protein-coding,-,-,-,-,20180130,-
+192222,904923,Cj0598,Cj0598,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904924,Cj0599,Cj0599,-,-,-,-,OmpA family membrane protein,protein-coding,-,-,-,-,20201003,-
+192222,904925,Cj0600,Cj0600,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+192222,904926,cheB',Cj0924c,-,-,-,-,MCP protein-glutamate methylesterase,protein-coding,-,-,-,-,20170906,-
+192222,904927,Cj0601c,Cj0601c,-,-,-,-,sodium-dependent transmembrane transport protein,protein-coding,-,-,-,-,20150626,-
+192222,904928,Cj0602c,Cj0602c,-,-,-,-,MOSC-domain-containing protein,protein-coding,-,-,-,-,20170906,-
+192222,904929,Cj0139,Cj0139,-,-,-,-,endonuclease,protein-coding,-,-,-,-,20180130,-
+192222,904930,Cj0830,Cj0830,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160325,-
+192222,904931,dsbD,Cj0603c,-,-,-,-,thiol:disulfide interchange protein,protein-coding,-,-,-,-,20170906,-
+192222,904932,Cj0604,Cj0604,-,-,-,-,polyphosphate kinase,protein-coding,-,-,-,-,20161008,-
+192222,904933,Cj0605,Cj0605,-,-,-,-,amidohydrolase,protein-coding,-,-,-,-,20190604,-
+192222,904934,Cj0606,Cj0606,-,-,-,-,secretion protein HlyD,protein-coding,-,-,-,-,20190608,-
+192222,904935,Cj0607,Cj0607,-,-,-,-,macrolide export ATP-binding protein/permease,protein-coding,-,-,-,-,20201003,-
+192222,904936,Cj0608,Cj0608,-,-,-,-,outer membrane efflux protein,protein-coding,-,-,-,-,20170906,-
+192222,904937,Cj0609c,Cj0609c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904938,Cj0611c,Cj0611c,-,-,-,-,acyltransferase family protein,protein-coding,-,-,-,-,20150627,-
+192222,904939,cft,Cj0612c,-,-,-,-,ferritin,protein-coding,-,-,-,-,20180130,-
+192222,904940,pstS,Cj0613,-,-,-,-,phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20210417,-
+192222,904941,pstC,Cj0614,-,-,-,-,phosphate ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904942,pstA,Cj0615,-,-,-,-,phosphate ABC transporter permease,protein-coding,-,-,-,-,20210129,-
+192222,904943,pstB,Cj0616,-,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904944,Cj0617,Cj0617,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,904946,Cj0619,Cj0619,-,-,-,-,MATE family transport protein,protein-coding,-,-,-,-,20170906,-
+192222,904947,Cj0620,Cj0620,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904948,Cj0621,Cj0621,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,904949,hypF,Cj0622,-,-,-,-,carbamoyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,904950,hypB,Cj0623,-,-,-,-,hydrogenase isoenzymes formation protein,protein-coding,-,-,-,-,20190608,-
+192222,904951,napB,Cj0783,-,-,-,-,nitrate reductase small subunit,protein-coding,-,-,-,-,20170906,-
+192222,904952,thrS,Cj0206,-,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,904953,hypC,Cj0624,-,-,-,-,hydrogenase isoenzymes formation protein,protein-coding,-,-,-,-,20160325,-
+192222,904954,hypD,Cj0625,-,-,-,-,hydrogenase isoenzymes formation protein,protein-coding,-,-,-,-,20150626,-
+192222,904955,hypE,Cj0626,-,-,-,-,hydrogenase isoenzymes formation protein,protein-coding,-,-,-,-,20170906,-
+192222,904956,hypA,Cj0627,-,-,-,-,hydrogenase nickel incorporation protein HypA,protein-coding,-,-,-,-,20180130,-
+192222,904957,purL,Cj0955c,-,-,-,-,phosphoribosylformylglycinamidine synthase II,protein-coding,-,-,-,-,20210129,-
+192222,904958,Cj0628,Cj0628,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,904960,Cj0631c,Cj0631c,-,-,-,-,ribonuclease,protein-coding,-,-,-,-,20170906,-
+192222,904961,ilvC,Cj0632,-,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,-,20170906,-
+192222,904962,Cj0633,Cj0633,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160903,-
+192222,904963,oorB,Cj0537,-,-,-,-,2-oxoglutarate-acceptor oxidoreductase subunit OorB,protein-coding,-,-,-,-,20201003,-
+192222,904964,dprA,Cj0634,-,-,-,-,DNA processing protein A,protein-coding,-,-,-,-,20170906,-
+192222,904965,Cj0635,Cj0635,-,-,-,-,Holliday junction resolvase-like protein,protein-coding,-,-,-,-,20201003,-
+192222,904966,Cj0636,Cj0636,-,-,-,-,NOL1/NOP2/sun family protein,protein-coding,-,-,-,-,20170906,-
+192222,904967,mrsA,Cj0637c,-,-,-,-,methionine sulfoxide reductase A,protein-coding,-,-,-,-,20201010,-
+192222,904968,ppa,Cj0638c,-,-,-,-,inorganic pyrophosphatase,protein-coding,-,-,-,-,20210212,-
+192222,904969,adk,Cj0639c,-,-,-,-,adenylate kinase,protein-coding,-,-,-,-,20170906,-
+192222,904970,cbrR,Cj0643,-,-,-,-,two-component response regulator,protein-coding,-,-,-,-,20170906,-
+192222,904971,Cj0644,Cj0644,-,-,-,-,TatD-related deoxyribonuclease,protein-coding,-,-,-,-,20170906,-
+192222,904972,Cj0645,Cj0645,-,-,-,-,transglycosylase,protein-coding,-,-,-,-,20201003,-
+192222,904973,Cj0646,Cj0646,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20170906,-
+192222,904974,Cj0647,Cj0647,-,-,-,-,HAD-superfamily hydrolase,protein-coding,-,-,-,-,20160730,-
+192222,904975,Cj0648,Cj0648,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904976,Cj0649,Cj0649,-,-,-,-,OstA family protein,protein-coding,-,-,-,-,20160827,-
+192222,904977,engB,Cj0650,-,-,-,-,GTP-binding protein EngB,protein-coding,-,-,-,-,20180130,-
+192222,904978,Cj0651,Cj0651,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,904979,pbpC,Cj0652,-,-,-,-,penicillin-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,904980,Cj0653c,Cj0653c,-,-,-,-,aminopeptidase,protein-coding,-,-,-,-,20170906,-
+192222,904981,Cj0654c,Cj0654c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904982,Cj0660c,Cj0660c,-,-,-,-,transmembrane protein,protein-coding,-,-,-,-,20210212,-
+192222,904983,era,Cj0661c,-,-,-,-,GTPase Era,protein-coding,-,-,-,-,20170906,-
+192222,904984,hslU,Cj0662c,-,-,-,-,ATP-dependent protease ATP-binding subunit HslU,protein-coding,-,-,-,-,20201003,-
+192222,904985,Cj0919c,Cj0919c,-,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,904986,hslV,Cj0663c,-,-,-,-,ATP-dependent protease peptidase subunit,protein-coding,-,-,-,-,20201003,-
+192222,904987,rplI,Cj0664c,-,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,-,20170906,-
+192222,904988,argG,Cj0665c,-,-,-,-,argininosuccinate synthase,protein-coding,-,-,-,-,20160807,-
+192222,904989,Cj0667,Cj0667,-,-,-,-,S4 domain-containing protein,protein-coding,-,-,-,-,20160827,-
+192222,904990,Cj0668,Cj0668,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20150626,-
+192222,904991,rpoN,Cj0670,-,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,-,20170906,-
+192222,904992,dcuB,Cj0671,-,-,-,-,anaerobic C4-dicarboxylate transporter,protein-coding,-,-,-,-,20150626,-
+192222,904993,Cj0672,Cj0672,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,904994,kdpA,Cj0676,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904995,kdpB,Cj0677,-,-,-,-,potassium-transporting ATPase subunit B,protein-coding,-,-,-,-,20210212,-
+192222,904996,kdpC,Cj0678,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904997,kdpD,Cj0679,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,904998,uvrB,Cj0680c,-,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,-,20201010,-
+192222,904999,Cj0681,Cj0681,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905000,Cj0682,Cj0682,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905001,Cj0683,Cj0683,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905002,priA,Cj0684,-,-,-,-,primosome assembly protein PriA,protein-coding,-,-,-,-,20170906,-
+192222,905003,cipA,Cj0685c,-,-,-,-,invasion protein CipA,protein-coding,-,-,-,-,20160730,-
+192222,905004,ispG,Cj0686,-,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin),protein-coding,-,-,-,-,20210129,-
+192222,905005,Cj0837c,Cj0837c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905006,flgH,Cj0687c,-,-,-,-,flagellar basal body L-ring protein,protein-coding,-,-,-,-,20201010,-
+192222,905007,pta,Cj0688,-,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905008,ackA,Cj0689,-,-,-,-,acetate kinase,protein-coding,-,-,-,-,20180130,-
+192222,905009,Cj0690c,Cj0690c,-,-,-,-,restriction/modification enzyme,protein-coding,-,-,-,-,20170906,-
+192222,905010,Cj0691,Cj0691,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905011,Cj0692c,Cj0692c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905012,Cj0693c,Cj0693c,-,-,-,-,rRNA small subunit methyltransferase H,protein-coding,-,-,-,-,20180130,-
+192222,905013,Cj0694,Cj0694,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905014,ftsA,Cj0695,-,-,-,-,cell division protein FtsA,protein-coding,-,-,-,-,20170906,-
+192222,905015,ftsZ,Cj0696,-,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,-,20170906,-
+192222,905016,flgG2,Cj0697,-,-,-,-,flagellar basal-body rod protein,protein-coding,-,-,-,-,20170906,-
+192222,905017,flgG,Cj0698,-,-,-,-,flagellar basal body rod protein,protein-coding,-,-,-,-,20170906,-
+192222,905018,glnA,Cj0699c,-,-,-,-,glutamine synthetase,protein-coding,-,-,-,-,20170906,-
+192222,905019,Cj0700,Cj0700,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905020,Cj0701,Cj0701,-,-,-,-,protease,protein-coding,-,-,-,-,20150627,-
+192222,905021,purE,Cj0702,-,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,-,20180130,-
+192222,905022,Cj0703,Cj0703,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+192222,905023,glyQ,Cj0704,-,-,-,-,glycine--tRNA ligase alpha subunit,protein-coding,-,-,-,-,20160807,-
+192222,905024,Cj0705,Cj0705,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160203,-
+192222,905025,Cj0706,Cj0706,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905026,kdtA,Cj0707,-,-,-,-,3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,-,20170906,-
+192222,905027,Cj0708,Cj0708,-,-,-,-,pseudouridine synthase,protein-coding,-,-,-,-,20170906,-
+192222,905028,ffh,Cj0709,-,-,-,-,signal recognition particle protein,protein-coding,-,-,-,-,20170906,-
+192222,905029,tRNAVal,Cjp19,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905030,rpsP,Cj0710,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,-,20160415,-
+192222,905031,rplS,Cj0714,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,-,20180130,-
+192222,905032,Cj0715,Cj0715,-,-,-,-,5-hydroxyisourate hydrolase,protein-coding,-,-,-,-,20160730,-
+192222,905033,Cj0716,Cj0716,-,-,-,-,phospho-2-dehydro-3-deoxyheptonate aldolase,protein-coding,-,-,-,-,20210212,-
+192222,905034,rpmH,Cj0961c,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20180130,-
+192222,905035,Cj0717,Cj0717,-,-,-,-,ArsC family protein,protein-coding,-,-,-,-,20150626,-
+192222,905036,dnaE,Cj0718,-,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,-,20180130,-
+192222,905037,Cj0719c,Cj0719c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160917,-
+192222,905038,flaC,Cj0720c,-,-,-,-,flagellin C,protein-coding,-,-,-,-,20170906,-
+192222,905039,Cj0721c,Cj0721c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905040,Cj0722c,Cj0722c,-,-,-,-,DNA methylase,protein-coding,-,-,-,-,20170906,-
+192222,905041,Cj0723c,Cj0723c,-,-,-,-,integral membrane zinc-metalloprotease,protein-coding,-,-,-,-,20170906,-
+192222,905042,Cj0724,Cj0724,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905043,mogA,Cj0725c,-,-,-,-,molybdenum cofactor biosynthesis protein MogA,protein-coding,-,-,-,-,20160813,-
+192222,905044,corA,Cj0726c,-,-,-,-,magnesium and cobalt transport protein,protein-coding,-,-,-,-,20210212,-
+192222,905045,Cj0727,Cj0727,-,-,-,-,substrate-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,905046,Cj0728,Cj0728,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,905047,Cj0729,Cj0729,-,-,-,-,type I phosphodiesterase/nucleotide pyrophosphatase,protein-coding,-,-,-,-,20170906,-
+192222,905048,Cj0730,Cj0730,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20210129,-
+192222,905049,Cj0731,Cj0731,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905050,Cj0732,Cj0732,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905051,Cj0733,Cj0733,-,-,-,-,HAD-superfamily hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905052,hisJ,Cj0734c,-,-,-,-,histidine-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905053,Cj0735,Cj0735,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905054,Cj0736,Cj0736,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905058,Cj0740,Cj0740,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905060,tRNAAla,Cjp14,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905061,tRNAIle,Cjp15,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905062,Cj0747,Cj0747,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905063,Cj0748,Cj0748,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905064,Cj0752,Cj0752,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905065,tonB3,Cj0753c,-,-,-,-,TonB transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905066,cfrA,Cj0755,-,-,-,-,ferric enterobactin uptake receptor,protein-coding,-,-,-,-,20170906,-
+192222,905067,hrcA,Cj0757,-,-,-,-,heat-inducible transcription repressor,protein-coding,-,-,-,-,20160807,-
+192222,905068,grpE,Cj0758,-,-,-,-,heat shock protein GrpE,protein-coding,-,-,-,-,20210129,-
+192222,905069,dnaK,Cj0759,-,-,-,-,chaperone DnaK,protein-coding,-,-,-,-,20170906,-
+192222,905070,Cj0760,Cj0760,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20180130,-
+192222,905071,Cj0761,Cj0761,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905072,aspB,Cj0762c,-,-,-,-,aspartate aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905073,cysE,Cj0763c,-,-,-,-,serine acetyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905074,speA,Cj0764c,-,-,-,-,arginine decarboxylase,protein-coding,-,-,-,-,20170906,-
+192222,905075,hisS,Cj0765c,-,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905076,tmk,Cj0766c,-,-,-,-,thymidylate kinase,protein-coding,-,-,-,-,20180130,-
+192222,905077,coaD,Cj0767c,-,-,-,-,phosphopantetheine adenylyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905078,Cj0768c,Cj0768c,-,-,-,-,3-polyprenyl-4-hydroxybenzoate decarboxylase,protein-coding,-,-,-,-,20201010,-
+192222,905079,flgA,Cj0769c,-,-,-,-,flagellar basal body P-ring biosynthesis protein FlgA,protein-coding,-,-,-,-,20201003,-
+192222,905080,Cj0770c,Cj0770c,-,-,-,-,NLPA family lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905081,Cj0771c,Cj0771c,-,-,-,-,NLPA family lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905082,Cj0772c,Cj0772c,-,-,-,-,NLPA family lipoprotein,protein-coding,-,-,-,-,20160730,-
+192222,905083,Cj0773c,Cj0773c,-,-,-,-,binding-protein dependent transport system permease,protein-coding,-,-,-,-,20160716,-
+192222,905084,Cj0774c,Cj0774c,-,-,-,-,methionine ABC transporter ATP-binding protei,protein-coding,-,-,-,-,20180130,-
+192222,905085,Cj0776c,Cj0776c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905086,Cj0777,Cj0777,-,-,-,-,ATP-dependent DNA helicase,protein-coding,-,-,-,-,20170906,-
+192222,905087,peb2,Cj0778,-,-,-,-,major antigenic peptide PEB2,protein-coding,-,-,-,-,20210129,-
+192222,905088,tpx,Cj0779,-,-,-,-,2-Cys peroxiredoxin,protein-coding,-,-,-,-,20180130,-
+192222,905089,napA,Cj0780,-,-,-,-,nitrate reductase catalytic subunit,protein-coding,-,-,-,-,20201003,-
+192222,905090,napL,Cj0784,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160730,-
+192222,905091,napD,Cj0785,-,-,-,-,nitrate reductase assembly protein NapD,protein-coding,-,-,-,-,20210212,-
+192222,905092,Cj0786,Cj0786,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905093,Cj0788,Cj0788,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905094,cca,Cj0789,-,-,-,-,poly(A) polymerase family protein,protein-coding,-,-,-,-,20170906,-
+192222,905095,purU,Cj0790,-,-,-,-,formyltetrahydrofolate deformylase,protein-coding,-,-,-,-,20170906,-
+192222,905096,oorC,Cj0538,-,-,-,-,2-oxoglutarate-acceptor oxidoreductase subunit OorC,protein-coding,-,-,-,-,20160325,-
+192222,905097,Cj0791c,Cj0791c,-,-,-,-,aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905098,Cj0792,Cj0792,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905099,flgS,Cj0793,-,-,-,-,signal transduction histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,905100,Cj0794,Cj0794,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905101,murF,Cj0795c,-,-,-,-,UDP-N-acetylmuramoyl-tripeptide D-alanyl-D-alanine ligase,protein-coding,-,-,-,-,20170906,-
+192222,905102,ruvA,Cj0799c,-,-,-,-,Holliday junction DNA helicase RuvA,protein-coding,-,-,-,-,20201003,-
+192222,905103,Cj0800c,Cj0800c,-,-,-,-,ATPase,protein-coding,-,-,-,-,20150626,-
+192222,905104,Cj0801,Cj0801,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905105,cysS,Cj0802,-,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905106,msbA,Cj0803,-,-,-,-,lipid ABC transporter ATP-binding protein/permease,protein-coding,-,-,-,-,20170906,-
+192222,905107,pyrD,Cj0804,-,-,-,-,dihydroorotate dehydrogenase 2,protein-coding,-,-,-,-,20201010,-
+192222,905108,Cj0805,Cj0805,-,-,-,-,zinc protease,protein-coding,-,-,-,-,20170906,-
+192222,905109,dapA,Cj0806,-,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,-,20160730,-
+192222,905110,Cj0807,Cj0807,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20150626,-
+192222,905111,argH,Cj0931c,-,-,-,-,argininosuccinate lyase,protein-coding,-,-,-,-,20180130,-
+192222,905112,Cj0808c,Cj0808c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905113,Cj0809c,Cj0809c,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905114,lpxK,Cj0811,-,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,-,20160418,-
+192222,905115,thrC,Cj0812,-,-,-,-,threonine synthase,protein-coding,-,-,-,-,20170906,-
+192222,905116,kdsB,Cj0813,-,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,-,20160813,-
+192222,905117,Cj0814,Cj0814,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905120,glnH,Cj0817,-,-,-,-,glutamine-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905121,Cj0818,Cj0818,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905122,recN,Cj0642,-,-,-,-,DNA repair protein,protein-coding,-,-,-,-,20180130,-
+192222,905123,Cj0819,Cj0819,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905124,fliP,Cj0820c,-,-,-,-,flagellar biosynthesis protein FliP,protein-coding,-,-,-,-,20150626,-
+192222,905125,glmU,Cj0821,-,-,-,-,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,905126,Cj0823,Cj0823,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905127,uppS,Cj0824,-,-,-,-,UDP diphosphate synthase,protein-coding,-,-,-,-,20201003,-
+192222,905128,ddl,Cj0798c,-,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,-,20201003,-
+192222,905129,Cj0560,Cj0560,-,-,-,-,MATE family transport protein,protein-coding,-,-,-,-,20210417,-
+192222,905130,Cj0825,Cj0825,-,-,-,-,processing peptidase,protein-coding,-,-,-,-,20210212,-
+192222,905131,Cj0829c,Cj0829c,-,-,-,-,CoA-binding domain-containing protein,protein-coding,-,-,-,-,20150626,-
+192222,905132,Cj0833c,Cj0833c,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20210212,-
+192222,905133,Cj0834c,Cj0834c,-,-,-,-,ankyrin repeat-containing protein,protein-coding,-,-,-,-,20201010,-
+192222,905134,trmA,Cj0831c,-,-,-,-,tRNA/tmRNA (uracil-C(5))-methyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905135,pnk,Cj0641,-,-,-,-,NAD kinase,protein-coding,-,-,-,-,20201003,-
+192222,905136,Cj0563,Cj0563,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905137,acnB,Cj0835c,-,-,-,-,aconitate hydratase B,protein-coding,-,-,-,-,20170906,-
+192222,905138,Cj0839c,Cj0839c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905139,Cj0842,Cj0842,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905140,Cj0843c,Cj0843c,-,-,-,-,transglycosylase,protein-coding,-,-,-,-,20201010,-
+192222,905141,Cj0844c,Cj0844c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20201003,-
+192222,905142,Cj0963,Cj0963,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905143,Cj0878,Cj0878,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905144,gltX,Cj0845c,-,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,905145,Cj0846,Cj0846,-,-,-,-,metallophosphoesterase,protein-coding,-,-,-,-,20210129,-
+192222,905146,Cj0849c,Cj0849c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905147,Cj0873c,Cj0873c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905148,fbp,Cj0840c,-,-,-,-,"fructose-1,6-bisphosphatase",protein-coding,-,-,-,-,20180130,-
+192222,905149,Cj0848c,Cj0848c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905150,Cj0850c,Cj0850c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20201010,-
+192222,905151,Cj0851c,Cj0851c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905152,ftsK,Cj0886c,-,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,-,20180130,-
+192222,905153,Cj0852c,Cj0852c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905154,Cj0854c,Cj0854c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20190608,-
+192222,905155,folD,Cj0855,-,-,-,-,"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase",protein-coding,-,-,-,-,20170906,-
+192222,905156,lepP,Cj0856,-,-,-,-,signal peptidase I,protein-coding,-,-,-,-,20201010,-
+192222,905157,murA,Cj0858c,-,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905158,Cj0859c,Cj0859c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190604,-
+192222,905159,hisI,Cj1604,-,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase,protein-coding,-,-,-,-,20201010,-
+192222,905160,Cj0559,Cj0559,-,-,-,-,pyridine nucleotide-disulfide oxidoreductase,protein-coding,-,-,-,-,20210212,-
+192222,905161,Cj0860,Cj0860,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905162,Cj1544c,Cj1544c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905163,pabA,Cj0861c,-,-,-,-,para-aminobenzoate synthase glutamine amidotransferase subunit II,protein-coding,-,-,-,-,20170906,-
+192222,905164,pabB,Cj0862c,-,-,-,-,para-aminobenzoate synthase subunit I,protein-coding,-,-,-,-,20170906,-
+192222,905165,xerD,Cj0863c,-,-,-,-,DNA recombinase,protein-coding,-,-,-,-,20210212,-
+192222,905166,dsbB,Cj0865,-,-,-,-,protein-disulfide oxidoreductase,protein-coding,-,-,-,-,20210212,-
+192222,905167,dsbA,Cj0872,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905170,Cj0880c,Cj0880c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905171,Cj0877c,Cj0877c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905172,secA,Cj0942c,-,-,-,-,protein translocase subunit SecA,protein-coding,-,-,-,-,20170906,-
+192222,905173,Cj0881c,Cj0881c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+192222,905174,flhA,Cj0882c,-,-,-,-,flagellar biosynthesis protein FlhA,protein-coding,-,-,-,-,20201003,-
+192222,905175,Cj0883c,Cj0883c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,905176,rpsO,Cj0884,-,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,-,20160917,-
+192222,905177,nuoG,Cj1573c,-,-,-,-,NADH-quinone oxidoreductase subunit G,protein-coding,-,-,-,-,20170906,-
+192222,905178,Cj0887c,Cj0887c,-,-,-,-,flagellin,protein-coding,-,-,-,-,20201010,-
+192222,905179,tRNALeu,Cjp16,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905180,Cj0916c,Cj0916c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905181,Cj0889c,Cj0889c,-,-,-,-,sensory trasnduction histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,905182,serA,Cj0891c,-,-,-,-,D-3-phosphoglycerate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905183,Cj0892c,Cj0892c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905184,rpsA,Cj0893c,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20170906,-
+192222,905185,hemL,Cj0853c,-,-,-,-,glutamate-1-semialdehyde aminotransferase,protein-coding,-,-,-,-,20201010,-
+192222,905186,metG,Cj0838c,-,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,905187,Cj0890c,Cj0890c,-,-,-,-,sensory transduction transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,905188,Cj0866,Cj0866,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905189,ispH,Cj0894c,-,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,-,20180130,-
+192222,905190,Cj0910,Cj0910,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905191,pheT,Cj0896c,-,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,-,20180130,-
+192222,905192,Cj0069,Cj0069,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905193,pheS,Cj0897c,-,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,-,20180130,-
+192222,905194,Cj0898,Cj0898,-,-,-,-,histidine triad (HIT) family protein,protein-coding,-,-,-,-,20150626,-
+192222,905195,Cj0900c,Cj0900c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905196,Cj0669,Cj0669,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905197,thiJ,Cj0899c,-,-,-,-,4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein,protein-coding,-,-,-,-,20170906,-
+192222,905198,glnQ,Cj0902,-,-,-,-,glutamine transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905199,Cj0796c,Cj0796c,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905200,Cj0901,Cj0901,-,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905201,Cj0903c,Cj0903c,-,-,-,-,amino acid transport protein,protein-coding,-,-,-,-,20150626,-
+192222,905202,Cj1725,Cj1725,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160716,-
+192222,905203,Cj0904c,Cj0904c,-,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,-,20150808,-
+192222,905204,Cj0906c,Cj0906c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160806,-
+192222,905205,apt,Cj0927,-,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,-,20160716,-
+192222,905206,Cj0561c,Cj0561c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905207,Cj0945c,Cj0945c,-,-,-,-,ATP-dependent DNA helicase,protein-coding,-,-,-,-,20210212,-
+192222,905208,Cj0908,Cj0908,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905209,alr,Cj0905c,-,-,-,-,alanine racemase,protein-coding,-,-,-,-,20170906,-
+192222,905210,Cj0909,Cj0909,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150718,-
+192222,905211,Cj0911,Cj0911,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,905212,hupB,Cj0913c,-,-,-,-,DNA-binding protein HU,protein-coding,-,-,-,-,20160418,-
+192222,905213,dfp,Cj0822,-,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase,protein-coding,-,-,-,-,20170906,-
+192222,905214,ciaB,Cj0914c,-,-,-,-,invasion antigen CiaB,protein-coding,-,-,-,-,20210212,-
+192222,905215,Cj0580c,Cj0580c,-,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,-,20201003,-
+192222,905216,cstA,Cj0917c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20201003,-
+192222,905217,prsA,Cj0918c,-,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,-,20201003,-
+192222,905218,Cj0920c,Cj0920c,-,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905219,Cj0826,Cj0826,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905220,pebC,Cj0922c,-,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20180130,-
+192222,905221,moeA,Cj0857c,-,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,-,20170906,-
+192222,905222,cheR,Cj0923c,-,-,-,-,MCP protein methyltransferase,protein-coding,-,-,-,-,20190814,-
+192222,905223,rpiB,Cj0925,-,-,-,-,ribose 5-phosphate isomerase,protein-coding,-,-,-,-,20210212,-
+192222,905224,Cj0787,Cj0787,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905225,Cj0926,Cj0926,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905226,Cj0928,Cj0928,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905227,pckA,Cj0932c,-,-,-,-,phosphoenolpyruvate carboxykinase,protein-coding,-,-,-,-,20180130,-
+192222,905228,Cj0959c,Cj0959c,-,-,-,-,membrane protein insertion efficiency factor,protein-coding,-,-,-,-,20210212,-
+192222,905229,pycB,Cj0933c,-,-,-,-,pyruvate carboxylase B subunit,protein-coding,-,-,-,-,20170906,-
+192222,905230,Cj0797c,Cj0797c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905231,Cj0937,Cj0937,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,905232,aas,Cj0938c,-,-,-,-,2-acylglycerophosphoethanolamine acyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905233,Cj0939c,Cj0939c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905235,tRNALys,Cjp20,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905236,glnP,Cj0940c,-,-,-,-,glutamine transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905237,Cj0934c,Cj0934c,-,-,-,-,sodium:amino-acid symporter family protein,protein-coding,-,-,-,-,20150626,-
+192222,905238,lolA,Cj0943,-,-,-,-,outer-membrane lipoprotein carrier protein,protein-coding,-,-,-,-,20201010,-
+192222,905239,Cj0946,Cj0946,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,905240,Cj0947c,Cj0947c,-,-,-,-,carbon-nitrogen hydrolase,protein-coding,-,-,-,-,20150626,-
+192222,905241,Cj0949c,Cj0949c,-,-,-,-,peptidyl-arginine deiminase family protein,protein-coding,-,-,-,-,20150801,-
+192222,905242,Cj0950c,Cj0950c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20160325,-
+192222,905243,atpE,Cj0936,-,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,-,20180130,-
+192222,905244,Cj0951c,Cj0951c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905246,Cj1532,Cj1532,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,905247,purH,Cj0953c,-,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,-,20180130,-
+192222,905248,Cj0954c,Cj0954c,-,-,-,-,DnaJ-like protein,protein-coding,-,-,-,-,20170906,-
+192222,905249,trmE,Cj0956c,-,-,-,-,tRNA modification GTPase,protein-coding,-,-,-,-,20170906,-
+192222,905250,nuoL,Cj1568c,-,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,-,20180130,-
+192222,905251,pspA,Cj0068,-,-,-,-,protease,protein-coding,-,-,-,-,20170906,-
+192222,905252,rnpA,Cj0960c,-,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,-,20210212,-
+192222,905253,Cj0962,Cj0962,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905254,Cj0915,Cj0915,-,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,-,20160716,-
+192222,905255,Cj0581,Cj0581,-,-,-,-,RNA pyrophosphohydrolase,protein-coding,-,-,-,-,20180130,-
+192222,905256,Cj0964,Cj0964,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905257,Cj0965c,Cj0965c,-,-,-,-,acyl-CoA thioester hydrolase,protein-coding,-,-,-,-,20160806,-
+192222,905258,Cj0967,Cj0967,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905260,Cj0969,Cj0969,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905261,Cj0970,Cj0970,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905262,Cj0971,Cj0971,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905263,Cj0972,Cj0972,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905264,Cj0973,Cj0973,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905265,Cj0974,Cj0974,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905266,Cj0975,Cj0975,-,-,-,-,outer-membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905267,Cj0976,Cj0976,-,-,-,-,tRNA (mo5U34)-methyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,905268,Cj0977,Cj0977,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+192222,905269,Cj0978c,Cj0978c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905270,Cj0979c,Cj0979c,-,-,-,-,nuclease,protein-coding,-,-,-,-,20170906,-
+192222,905271,Cj0980,Cj0980,-,-,-,-,peptidase,protein-coding,-,-,-,-,20210212,-
+192222,905272,cjaB,Cj0981c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20210212,-
+192222,905273,cjaA,Cj0982c,-,-,-,-,amino acid transporter substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905274,Cj0983,Cj0983,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20160730,-
+192222,905275,Cj0984,Cj0984,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160415,-
+192222,905276,hipO,Cj0985c,-,-,-,-,hippurate hydrolase,protein-coding,-,-,-,-,20210212,-
+192222,905277,Cj0986c,Cj0986c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905279,Cj0988c,Cj0988c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905280,Cj0989,Cj0989,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905281,Cj0990c,Cj0990c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905282,Cj0991c,Cj0991c,-,-,-,-,oxidoreductase ferredoxin-type electron transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905283,hemN,Cj0992c,-,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,-,20210212,-
+192222,905284,Cj0993c,Cj0993c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905285,argF,Cj0994c,-,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905286,hemB,Cj0995c,-,-,-,-,delta-aminolevulinic acid dehydratase,protein-coding,-,-,-,-,20201003,-
+192222,905287,ribA,Cj0996,-,-,-,-,GTP cyclohydrolase II,protein-coding,-,-,-,-,20201010,-
+192222,905288,Cj0997,Cj0997,-,-,-,-,rRNA small subunit methyltransferase G,protein-coding,-,-,-,-,20160807,-
+192222,905289,Cj0998c,Cj0998c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905290,Cj0999c,Cj0999c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905291,Cj1000,Cj1000,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20210212,-
+192222,905292,rpoD,Cj1001,-,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,-,20170906,-
+192222,905293,Cj1002c,Cj1002c,-,-,-,-,phosphoglycerate/bisphosphoglycerate mutase,protein-coding,-,-,-,-,20160716,-
+192222,905294,Cj1003c,Cj1003c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,905295,Cj1004,Cj1004,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905296,Cj1005c,Cj1005c,-,-,-,-,membrane bound ATPase,protein-coding,-,-,-,-,20170906,-
+192222,905297,Cj1006c,Cj1006c,-,-,-,-,MiaB-like tRNA modifying enzyme,protein-coding,-,-,-,-,20170906,-
+192222,905298,Cj1007c,Cj1007c,-,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,-,20210212,-
+192222,905299,aroB,Cj1008c,-,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,-,20160807,-
+192222,905300,Cj1009c,Cj1009c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905301,tgt,Cj1010,-,-,-,-,queuine tRNA-ribosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905302,Cj1011,Cj1011,-,-,-,-,CorA-like Mg2+ transporter protein,protein-coding,-,-,-,-,20150627,-
+192222,905303,tRNAArg,Cjp21,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905304,Cj1012c,Cj1012c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905305,Cj1013c,Cj1013c,-,-,-,-,cytochrome C biogenesis protein,protein-coding,-,-,-,-,20210129,-
+192222,905306,livF,Cj1014c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905307,livG,Cj1015c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905308,livM,Cj1016c,-,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,-,20150626,-
+192222,905309,livH,Cj1017c,-,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,-,20160917,-
+192222,905310,livK,Cj1018c,-,-,-,-,branched-chain amino acid ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20201010,-
+192222,905311,livJ,Cj1019c,-,-,-,-,branched-chain amino acid ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,905312,Cj1020c,Cj1020c,-,-,-,-,cytochrome C,protein-coding,-,-,-,-,20210130,-
+192222,905313,Cj1021c,Cj1021c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210129,-
+192222,905314,Cj1022c,Cj1022c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150711,-
+192222,905315,asd,Cj1023c,-,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905316,flgR,Cj1024c,-,-,-,-,sigma-54 associated transcriptional activator,protein-coding,-,-,-,-,20170906,-
+192222,905317,Cj1025c,Cj1025c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905318,Cj1026c,Cj1026c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150627,-
+192222,905319,gyrA,Cj1027c,-,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,-,20180922,-
+192222,905320,Cj1028c,Cj1028c,-,-,-,-,purine/pyrimidine phosphoribosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905321,mapA,Cj1029c,-,-,-,-,outer membrane lipoprotein MapA,protein-coding,-,-,-,-,20210212,-
+192222,905322,lepA,Cj1030c,-,-,-,-,elongation factor EF-4,protein-coding,-,-,-,-,20170906,-
+192222,905323,cmeD,Cj1031,-,-,-,-,multidrug efflux system outer membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905324,cmeE,Cj1032,-,-,-,-,mutlidrug efflux system membrane fusion protein,protein-coding,-,-,-,-,20201010,-
+192222,905325,cmeF,Cj1033,-,-,-,-,multidrug efflux system membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905326,Cj1034c,Cj1034c,-,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,-,20160903,-
+192222,905327,Cj1035c,Cj1035c,-,-,-,-,arginyl-tRNA--protein transferase,protein-coding,-,-,-,-,20170906,-
+192222,905328,Cj1036c,Cj1036c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905329,pycA,Cj1037c,-,-,-,-,acetyl-CoA carboxylase subunit A,protein-coding,-,-,-,-,20170906,-
+192222,905330,Cj1038,Cj1038,-,-,-,-,cell division/peptidoglycan biosynthesis protein,protein-coding,-,-,-,-,20150627,-
+192222,905331,murG,Cj1039,-,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,protein-coding,-,-,-,-,20170906,-
+192222,905332,Cj1040c,Cj1040c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905333,Cj1041c,Cj1041c,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20160827,-
+192222,905334,Cj1042c,Cj1042c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,905335,Cj1043c,Cj1043c,-,-,-,-,thiamine-phosphate pyrophosphorylase,protein-coding,-,-,-,-,20160820,-
+192222,905336,thiH,Cj1044c,-,-,-,-,thiamine biosynthesis protein ThiH,protein-coding,-,-,-,-,20170906,-
+192222,905337,thiG,Cj1045c,-,-,-,-,thiazole synthase,protein-coding,-,-,-,-,20160807,-
+192222,905338,moeB,Cj1046c,-,-,-,-,thiamine biosynthesis protein ThiF,protein-coding,-,-,-,-,20210212,-
+192222,905339,thiS,Cj1047c,-,-,-,-,thiamine biosynthesis protein,protein-coding,-,-,-,-,20160903,-
+192222,905340,dapE,Cj1048c,-,-,-,-,succinyl-diaminopimelate desuccinylase,protein-coding,-,-,-,-,20210212,-
+192222,905341,Cj1049c,Cj1049c,-,-,-,-,LysE family transporter protein,protein-coding,-,-,-,-,20160730,-
+192222,905342,npdA,Cj1050c,-,-,-,-,NAD-dependent protein deacetylase,protein-coding,-,-,-,-,20180130,-
+192222,905343,cjeI,Cj1051c,-,-,-,-,restriction modification enzyme,protein-coding,-,-,-,-,20201003,-
+192222,905344,mutS,Cj1052c,-,-,-,-,endonuclease MutS2,protein-coding,-,-,-,-,20170906,-
+192222,905345,Cj1053c,Cj1053c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160325,-
+192222,905346,murC,Cj1054c,-,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,-,20170906,-
+192222,905347,Cj1055c,Cj1055c,-,-,-,-,sulfatase family protein,protein-coding,-,-,-,-,20170906,-
+192222,905348,Cj1056c,Cj1056c,-,-,-,-,carbon-nitrogen hydrolase family protein,protein-coding,-,-,-,-,20150626,-
+192222,905349,Cj1057c,Cj1057c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905350,guaB,Cj1058c,-,-,-,-,inosine 5'-monophosphate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905351,gatA,Cj1059c,-,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit A,protein-coding,-,-,-,-,20201003,-
+192222,905352,Cj1060c,Cj1060c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905353,ileS,Cj1061c,-,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905354,Cj1062,Cj1062,-,-,-,-,CinA-like protein,protein-coding,-,-,-,-,20150718,-
+192222,905355,Cj1063,Cj1063,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905356,Cj1064,Cj1064,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905357,rdxA,Cj1066,-,-,-,-,nitroreductase,protein-coding,-,-,-,-,20201010,-
+192222,905358,pgsA,Cj1067,-,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,-,20210417,-
+192222,905359,Cj1068,Cj1068,-,-,-,-,zinc metalloprotease,protein-coding,-,-,-,-,20201010,-
+192222,905360,Cj1069,Cj1069,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905361,rpsF,Cj1070,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,-,20180130,-
+192222,905362,ssb,Cj1071,-,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905363,rpsR,Cj1072,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,-,20180130,-
+192222,905364,lon,Cj1073c,-,-,-,-,ATP-dependent protease La,protein-coding,-,-,-,-,20170906,-
+192222,905365,Cj1074c,Cj1074c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20190608,-
+192222,905366,Cj1075,Cj1075,-,-,-,-,flagellar assembly protein FliW,protein-coding,-,-,-,-,20190921,-
+192222,905367,proC,Cj1076,-,-,-,-,pyrroline-5-carboxylate reductase,protein-coding,-,-,-,-,20170906,-
+192222,905368,ctsT,Cj1077,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20160325,-
+192222,905369,Cj1078,Cj1078,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905370,Cj1079,Cj1079,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905371,hemD,Cj1080c,-,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,-,20160813,-
+192222,905372,thiE,Cj1081c,-,-,-,-,thiamin-phosphate pyrophosphorylase,protein-coding,-,-,-,-,20160806,-
+192222,905373,thiD,Cj1082c,-,-,-,-,phosphomethylpyrimidine kinase,protein-coding,-,-,-,-,20160820,-
+192222,905374,Cj1083c,Cj1083c,-,-,-,-,endonuclease III,protein-coding,-,-,-,-,20170906,-
+192222,905375,Cj1084c,Cj1084c,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905376,mfd,Cj1085c,-,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,-,20210212,-
+192222,905377,Cj1086c,Cj1086c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,905378,Cj1087c,Cj1087c,-,-,-,-,peptidase,protein-coding,-,-,-,-,20170906,-
+192222,905379,folC,Cj1088c,-,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,protein-coding,-,-,-,-,20170906,-
+192222,905380,Cj1089c,Cj1089c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905381,Cj1090c,Cj1090c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905382,leuS,Cj1091c,-,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905383,secF,Cj1092c,-,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,-,20201010,-
+192222,905384,secD,Cj1093c,-,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,-,20170906,-
+192222,905385,yajC,Cj1094c,-,-,-,-,protein translocase subunit YajC,protein-coding,-,-,-,-,20150626,-
+192222,905386,Cj1095,Cj1095,-,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905387,metK,Cj1096c,-,-,-,-,S-adenosylmethionine synthetase,protein-coding,-,-,-,-,20170906,-
+192222,905388,Cj1097,Cj1097,-,-,-,-,serine/threonine transporter SstT,protein-coding,-,-,-,-,20180130,-
+192222,905389,pyrB,Cj1098,-,-,-,-,aspartate carbamoyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,905390,Cj1099,Cj1099,-,-,-,-,peptidase,protein-coding,-,-,-,-,20170906,-
+192222,905391,Cj1100,Cj1100,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905392,Cj1101,Cj1101,-,-,-,-,ATP-dependent DNA helicase,protein-coding,-,-,-,-,20201003,-
+192222,905393,truB,Cj1102,-,-,-,-,tRNA pseudouridine synthase B,protein-coding,-,-,-,-,20180130,-
+192222,905394,csrA,Cj1103,-,-,-,-,carbon storage regulator,protein-coding,-,-,-,-,20190921,-
+192222,905395,Cj1104,Cj1104,-,-,-,-,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,protein-coding,-,-,-,-,20170906,-
+192222,905396,smpB,Cj1105,-,-,-,-,SsrA-binding protein,protein-coding,-,-,-,-,20201003,-
+192222,905397,Cj1106,Cj1106,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20150626,-
+192222,905398,clpS,Cj1107,-,-,-,-,ATP-dependent Clp protease adaptor protein,protein-coding,-,-,-,-,20180130,-
+192222,905399,clpA,Cj1108,-,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,-,20201003,-
+192222,905400,aat,Cj1109,-,-,-,-,leucyl/phenylalanyl-tRNA--protein transferase,protein-coding,-,-,-,-,20160418,-
+192222,905401,Cj1110c,Cj1110c,-,-,-,-,MCP-type signal transduction protein,protein-coding,-,-,-,-,20170906,-
+192222,905402,Cj1111c,Cj1111c,-,-,-,-,MarC family integral membrane protein,protein-coding,-,-,-,-,20150627,-
+192222,905403,Cj1112c,Cj1112c,-,-,-,-,methionine sulfoxide reductase B,protein-coding,-,-,-,-,20201003,-
+192222,905404,Cj1113,Cj1113,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160813,-
+192222,905405,pssA,Cj1114c,-,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905406,Cj1115c,Cj1115c,-,-,-,-,phosphatidylserine decarboxylase-like protein,protein-coding,-,-,-,-,20150626,-
+192222,905407,ftsH,Cj1116c,-,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,-,20201010,-
+192222,905408,prmA,Cj1117c,-,-,-,-,50S ribosomal protein L11 methyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905409,cheY,Cj1118c,-,-,-,-,chemotaxis protein CheY,protein-coding,-,-,-,-,20201003,-
+192222,905410,pglG,Cj1119c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20190608,-
+192222,905411,pglF,Cj1120c,-,-,-,-,UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase,protein-coding,-,-,-,-,20180130,-
+192222,905412,pglE,Cj1121c,-,-,-,-,UDP-N-acetylbacillosamine transaminase,protein-coding,-,-,-,-,20210212,-
+192222,905413,Cj1122c,Cj1122c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905414,pglD,Cj1123c,-,-,-,-,UDP-N-acetylbacillosamine N-acetyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905415,pglC,Cj1124c,-,-,-,-,"undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase",protein-coding,-,-,-,-,20210212,-
+192222,905416,pglA,Cj1125c,-,-,-,-,"N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase",protein-coding,-,-,-,-,20201003,-
+192222,905417,pglB,Cj1126c,-,-,-,-,undecaprenyl-diphosphooligosaccharide--protein glycotransferase,protein-coding,-,-,-,-,20210212,-
+192222,905418,pglJ,Cj1127c,-,-,-,-,"N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase",protein-coding,-,-,-,-,20201003,-
+192222,905419,pglI,Cj1128c,-,-,-,-,"GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase",protein-coding,-,-,-,-,20210212,-
+192222,905420,pglH,Cj1129c,-,-,-,-,"GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase",protein-coding,-,-,-,-,20210212,-
+192222,905421,pglK,Cj1130c,-,-,-,-,protein glycosylation K,protein-coding,-,-,-,-,20210212,-
+192222,905422,gne,Cj1131c,-,-,-,-,UDP-GlcNAc/Glc 4-epimerase,protein-coding,-,-,-,-,20170906,-
+192222,905423,Cj1132c,Cj1132c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905424,waaC,Cj1133,-,-,-,-,heptosyltransferase I,protein-coding,-,-,-,-,20170906,-
+192222,905425,htrB,Cj1134,-,-,-,-,lipid A biosynthesis lauroyl acyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905426,Cj1135,Cj1135,-,-,-,-,glucosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905427,Cj1136,Cj1136,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905428,Cj1137c,Cj1137c,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,905429,Cj1138,Cj1138,-,-,-,-,glycosyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905430,wlaN,Cj1139c,-,-,-,-,"beta-1,3 galactosyltransferase",protein-coding,-,-,-,-,20210212,-
+192222,905431,cstIII,Cj1140,-,-,-,-,"alpha-2,3 sialyltransferase",protein-coding,-,-,-,-,20170906,-
+192222,905432,neuB1,Cj1141,-,-,-,-,sialic acid synthase,protein-coding,-,-,-,-,20170906,-
+192222,905433,neuC1,Cj1142,-,-,-,-,UDP-N-acetylglucosamine 2-epimerase,protein-coding,-,-,-,-,20170906,-
+192222,905434,neuA1,Cj1143,cgtA,-,-,-,"bifunctional beta-1,4-N-acetylgalactosaminyltransferase/CMP-Neu5Ac synthase",protein-coding,-,-,-,-,20160716,-
+192222,905436,Cj1145c,Cj1145c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+192222,905437,waaV,Cj1146c,-,-,-,-,glucosyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905438,waaF,Cj1148,-,-,-,-,heptosyltransferase II,protein-coding,-,-,-,-,20201003,-
+192222,905439,gmhA,Cj1149c,-,-,-,-,phosphoheptose isomerase,protein-coding,-,-,-,-,20180130,-
+192222,905440,hldE,Cj1150c,-,-,-,-,bifunctional D-beta-D-heptose 7-phosphate kinase/D-beta-D-heptose 1-phosphate adenylyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905441,hldD,Cj1151c,-,-,-,-,ADP-glyceromanno-heptose 6-epimerase,protein-coding,-,-,-,-,20210212,-
+192222,905442,gmhB,Cj1152c,-,-,-,-,"D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase",protein-coding,-,-,-,-,20170906,-
+192222,905443,Cj1153,Cj1153,-,-,-,-,cytochrome C,protein-coding,-,-,-,-,20150725,-
+192222,905444,Cj1154c,Cj1154c,-,-,-,-,cbb3-type cytochrome oxidase maturation protein,protein-coding,-,-,-,-,20150626,-
+192222,905445,Cj1155c,Cj1155c,-,-,-,-,cation-transporting ATPase,protein-coding,-,-,-,-,20201003,-
+192222,905446,rho,Cj1156,-,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,-,20170906,-
+192222,905447,dnaX,Cj1157,-,-,-,-,DNA polymerase III subunits gamma and tau,protein-coding,-,-,-,-,20170906,-
+192222,905448,Cj1158c,Cj1158c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210612,-
+192222,905449,Cj1159c,Cj1159c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905450,Cj1160c,Cj1160c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210612,-
+192222,905451,Cj1161c,Cj1161c,-,-,-,-,cation-transporting ATPase,protein-coding,-,-,-,-,20170906,-
+192222,905452,Cj1162c,Cj1162c,-,-,-,-,heavy-metal-associated domain-containing protein,protein-coding,-,-,-,-,20210212,-
+192222,905453,Cj1163c,Cj1163c,-,-,-,-,cation transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905454,Cj1164c,Cj1164c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,905455,Cj1165c,Cj1165c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905456,Cj1166c,Cj1166c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905457,ldh,Cj1167,-,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905458,Cj1168c,Cj1168c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905459,Cj1169c,Cj1169c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20161217,-
+192222,905460,omp50,Cj1170c,-,-,-,-,outer membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905461,ppi,Cj1171c,-,-,-,-,peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,-,20160910,-
+192222,905462,Cj1172c,Cj1172c,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20201003,-
+192222,905463,Cj1173,Cj1173,-,-,-,-,multidrug resistance protein,protein-coding,-,-,-,-,20180130,-
+192222,905464,Cj1174,Cj1174,-,-,-,-,multidrug resistance protein,protein-coding,-,-,-,-,20150626,-
+192222,905465,argS,Cj1175c,-,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,905466,tatA,Cj1176c,-,-,-,-,Sec-independent protein translocase,protein-coding,-,-,-,-,20180130,-
+192222,905467,gmk,Cj1177c,-,-,-,-,guanylate kinase,protein-coding,-,-,-,-,20170906,-
+192222,905468,Cj1178c,Cj1178c,-,-,-,-,highly acidic protein,protein-coding,-,-,-,-,20190815,-
+192222,905469,fliR,Cj1179c,-,-,-,-,flagellar biosynthesis protein FliR,protein-coding,-,-,-,-,20201003,-
+192222,905470,Cj1180c,Cj1180c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905471,tsf,Cj1181c,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,-,20170906,-
+192222,905472,rpsB,Cj1182c,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20160807,-
+192222,905473,cfa,Cj1183c,-,-,-,-,cyclopropane-fatty-acyl-phospholipid synthase,protein-coding,-,-,-,-,20170906,-
+192222,905474,petC,Cj1184c,-,-,-,-,ubiquinol-cytochrome C reductase cytochrome C subunit,protein-coding,-,-,-,-,20210212,-
+192222,905475,petB,Cj1185c,-,-,-,-,ubiquinol-cytochrome C reductase cytochrome B subunit,protein-coding,-,-,-,-,20170906,-
+192222,905476,petA,Cj1186c,-,-,-,-,ubiquinol-cytochrome C reductase iron-sulfur subunit,protein-coding,-,-,-,-,20170906,-
+192222,905477,arsB,Cj1187c,-,-,-,-,arsenical pump membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905478,gidA,Cj1188c,-,-,-,-,tRNA uridine 5-carboxymethylaminomethyl modification protein GidA,protein-coding,-,-,-,-,20201010,-
+192222,905479,cetB,Cj1189c,-,-,-,-,bipartate energy taxis response protein CetB,protein-coding,-,-,-,-,20201010,-
+192222,905480,cetA,Cj1190c,-,-,-,-,bipartate energy taxis response protein CetA,protein-coding,-,-,-,-,20201003,-
+192222,905481,Cj1191c,Cj1191c,-,-,-,-,PAS domain-containing signal-transduction sensor protein,protein-coding,-,-,-,-,20201010,-
+192222,905482,dctA,Cj1192,-,-,-,-,C4-dicarboxylate transport protein,protein-coding,-,-,-,-,20210212,-
+192222,905483,Cj1193c,Cj1193c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905484,Cj1194,Cj1194,-,-,-,-,phosphate permease,protein-coding,-,-,-,-,20210212,-
+192222,905485,pyrC2,Cj1195c,-,-,-,-,dihydroorotase,protein-coding,-,-,-,-,20160903,-
+192222,905486,gpsA,Cj1196c,-,-,-,-,glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,-,20201003,-
+192222,905487,gatB,Cj1197c,-,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit B,protein-coding,-,-,-,-,20201003,-
+192222,905488,Cj1198,Cj1198,-,-,-,-,S-ribosylhomocysteine lyase,protein-coding,-,-,-,-,20201003,-
+192222,905489,Cj1199,Cj1199,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20170906,-
+192222,905490,Cj1200,Cj1200,-,-,-,-,NLPA family lipoprotein,protein-coding,-,-,-,-,20160813,-
+192222,905491,metE,Cj1201,-,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905492,metF,Cj1202,-,-,-,-,methylenetetrahydrofolate reductase,protein-coding,-,-,-,-,20160813,-
+192222,905493,Cj1203c,Cj1203c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905494,atpB,Cj1204c,-,-,-,-,ATP synthase subunit A,protein-coding,-,-,-,-,20160418,-
+192222,905495,radA,Cj1205c,-,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,-,20180130,-
+192222,905496,ftsY,Cj1206c,-,-,-,-,signal recognition particle protein,protein-coding,-,-,-,-,20170906,-
+192222,905497,Cj1207c,Cj1207c,-,-,-,-,lipoprotein thiredoxin,protein-coding,-,-,-,-,20170906,-
+192222,905498,Cj1208,Cj1208,-,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,-,20210129,-
+192222,905499,Cj1209,Cj1209,-,-,-,-,ribonuclease Y,protein-coding,-,-,-,-,20180130,-
+192222,905500,Cj1210,Cj1210,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905501,Cj1211,Cj1211,-,-,-,-,competence family protein,protein-coding,-,-,-,-,20210212,-
+192222,905502,rbn,Cj1212c,-,-,-,-,ribonuclease BN,protein-coding,-,-,-,-,20150808,-
+192222,905503,glcD,Cj1213c,-,-,-,-,glycolate oxidase subunit D,protein-coding,-,-,-,-,20210212,-
+192222,905504,Cj1214c,Cj1214c,-,-,-,-,exporting protein,protein-coding,-,-,-,-,20210212,-
+192222,905505,Cj1215,Cj1215,-,-,-,-,peptidase M23 family protein,protein-coding,-,-,-,-,20210212,-
+192222,905506,Cj1216c,Cj1216c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905507,Cj1217c,Cj1217c,-,-,-,-,laccase domain-containing protein,protein-coding,-,-,-,-,20160807,-
+192222,905508,ribA,Cj1218c,-,-,-,-,riboflavin synthase subunit alpha,protein-coding,-,-,-,-,20201003,-
+192222,905509,Cj1219c,Cj1219c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905510,groES,Cj1220,-,-,-,-,co-chaperonin GroES,protein-coding,-,-,-,-,20180130,-
+192222,905511,groEL,Cj1221,-,-,-,-,chaperone GroEL,protein-coding,-,-,-,-,20170906,-
+192222,905512,dccS,Cj1222c,-,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,905513,dccR,Cj1223c,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,905514,Cj1224,Cj1224,-,-,-,-,iron-binding protein,protein-coding,-,-,-,-,20160917,-
+192222,905515,Cj1225,Cj1225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905516,tRNAAsn,Cjp22,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905517,Cj1226c,Cj1226c,-,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,905518,Cj1227c,Cj1227c,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,905519,htrA,Cj1228c,-,-,-,-,serine protease,protein-coding,-,-,-,-,20200620,-
+192222,905520,cbpA,Cj1229,-,-,-,-,curved-DNA binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905521,hspR,Cj1230,-,-,-,-,heat shock transcriptional regulator,protein-coding,-,-,-,-,20170906,-
+192222,905522,kefB,Cj1231,-,-,-,-,glutathione-regulated potassium-efflux system protein,protein-coding,-,-,-,-,20190604,-
+192222,905523,Cj1232,Cj1232,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905524,Cj1233,Cj1233,-,-,-,-,HAD-superfamily hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905525,glyS,Cj1234,-,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,-,20170906,-
+192222,905526,Cj1235,Cj1235,-,-,-,-,peptidase M23 family protein,protein-coding,-,-,-,-,20210212,-
+192222,905527,Cj1236,Cj1236,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905528,Cj1237c,Cj1237c,-,-,-,-,phosphatase,protein-coding,-,-,-,-,20170906,-
+192222,905529,pdxJ,Cj1238,-,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,-,20180130,-
+192222,905530,pdxA,Cj1239,-,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase,protein-coding,-,-,-,-,20160415,-
+192222,905531,Cj1240c,Cj1240c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905532,Cj1241,Cj1241,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20180130,-
+192222,905533,Cj1242,Cj1242,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905534,hemE,Cj1243,-,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,-,20160924,-
+192222,905535,Cj1244,Cj1244,-,-,-,-,radical SAM domain-containing protein,protein-coding,-,-,-,-,20170906,-
+192222,905536,Cj1245c,Cj1245c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905537,uvrC,Cj1246c,-,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,-,20170906,-
+192222,905538,Cj1247c,Cj1247c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905539,guaA,Cj1248,-,-,-,-,GMP synthase,protein-coding,-,-,-,-,20170906,-
+192222,905540,Cj1249,Cj1249,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905541,purD,Cj1250,-,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,-,20170906,-
+192222,905542,Cj1251,Cj1251,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,905543,Cj1252,Cj1252,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905544,pnp,Cj1253,-,-,-,-,polynucleotide phosphorylase,protein-coding,-,-,-,-,20180130,-
+192222,905545,Cj1254,Cj1254,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+192222,905546,Cj1255,Cj1255,-,-,-,-,isomerase,protein-coding,-,-,-,-,20160827,-
+192222,905547,Cj1256c,Cj1256c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905548,Cj1257c,Cj1257c,-,-,-,-,efflux pump protein,protein-coding,-,-,-,-,20170906,-
+192222,905549,Cj1258,Cj1258,-,-,-,-,phosphotyrosine protein phosphatase,protein-coding,-,-,-,-,20170906,-
+192222,905550,porA,Cj1259,-,-,-,-,major outer membrane protein,protein-coding,-,-,-,-,20180127,-
+192222,905551,dnaJ,Cj1260c,-,-,-,-,chaperone protein DnaJ,protein-coding,-,-,-,-,20170906,-
+192222,905552,racR,Cj1261,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,905553,racS,Cj1262,-,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,-,20170906,-
+192222,905554,recR,Cj1263,-,-,-,-,recombination protein RecR,protein-coding,-,-,-,-,20170906,-
+192222,905555,hydD,Cj1264c,-,-,-,-,hydrogenase maturation protease,protein-coding,-,-,-,-,20150626,-
+192222,905556,hydC,Cj1265c,-,-,-,-,Ni/Fe-hydrogenase B-type cytochrome subunit,protein-coding,-,-,-,-,20150626,-
+192222,905557,hydB,Cj1266c,-,-,-,-,Ni/Fe-hydrogenase large subunit,protein-coding,-,-,-,-,20210212,-
+192222,905558,hydA,Cj1267c,-,-,-,-,Ni/Fe-hydrogenase small subunit,protein-coding,-,-,-,-,20170906,-
+192222,905559,mnmC,Cj1268c,-,-,-,-,bifunctional tRNA (mnm(5)s(2)U34)-methyltransferase/FAD-dependent cmnm(5)s(2)U34 oxidoreductase,protein-coding,-,-,-,-,20201003,-
+192222,905560,amiA,Cj1269c,-,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,-,20210212,-
+192222,905561,Cj1270c,Cj1270c,-,-,-,-,2-nitropropane dioxygenase,protein-coding,-,-,-,-,20170906,-
+192222,905562,tyrS,Cj1271c,-,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905563,spoT,Cj1272c,-,-,-,-,"guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,-,20170906,-
+192222,905564,rpoZ,Cj1273c,-,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,-,20180130,-
+192222,905565,pyrH,Cj1274c,-,-,-,-,uridylate kinase,protein-coding,-,-,-,-,20160827,-
+192222,905566,Cj1275c,Cj1275c,-,-,-,-,peptidase M23 family protein,protein-coding,-,-,-,-,20190608,-
+192222,905567,Cj1276c,Cj1276c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20201010,-
+192222,905568,Cj1277c,Cj1277c,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905569,trmB,Cj1278c,-,-,-,-,tRNA (guanine-N(7)-)-methyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905570,Cj1279c,Cj1279c,-,-,-,-,fibronectin domain-containing lipoprotein,protein-coding,-,-,-,-,20170906,-
+192222,905571,Cj1280c,Cj1280c,-,-,-,-,pseudouridine synthase,protein-coding,-,-,-,-,20170906,-
+192222,905572,mrdB,Cj1282,-,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,-,20150718,-
+192222,905573,tRNAMet,Cjp23,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905574,tRNAPhe,Cjp24,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905575,ktrB,Cj1283,-,-,-,-,K+ uptake protein,protein-coding,-,-,-,-,20170906,-
+192222,905576,ktrA,Cj1284,-,-,-,-,K+ uptake protein,protein-coding,-,-,-,-,20170906,-
+192222,905577,Cj1285c,Cj1285c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+192222,905578,upp,Cj1286c,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,-,20160807,-
+192222,905579,Cj1287c,Cj1287c,-,-,-,-,malate oxidoreductase,protein-coding,-,-,-,-,20190604,-
+192222,905580,gltX,Cj1288c,-,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,-,20180130,-
+192222,905581,Cj1289,Cj1289,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905582,accC,Cj1290c,-,-,-,-,biotin carboxylase,protein-coding,-,-,-,-,20201003,-
+192222,905583,accB,Cj1291c,-,-,-,-,"acetyl-CoA carboxylase, biotin carboxyl carrier protein",protein-coding,-,-,-,-,20201003,-
+192222,905584,dcd,Cj1292,-,-,-,-,deoxycytidine triphosphate deaminase,protein-coding,-,-,-,-,20160827,-
+192222,905585,pseB,Cj1293,-,-,-,-,"UDP-N-acetylglucosamine 4,6-dehydratase",protein-coding,-,-,-,-,20170906,-
+192222,905586,pseC,Cj1294,-,-,-,-,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase",protein-coding,-,-,-,-,20180130,-
+192222,905587,Cj1295,Cj1295,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+192222,905588,Cj1296,Cj1296,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905590,Cj1298,Cj1298,-,-,-,-,N-acetyltransferase,protein-coding,-,-,-,-,20150626,-
+192222,905591,acpP2,Cj1299,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150704,-
+192222,905592,Cj1300,Cj1300,-,-,-,-,SAM domain-containing methyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905593,Cj1301,Cj1301,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210129,-
+192222,905594,Cj1302,Cj1302,-,-,-,-,HAD-superfamily hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905595,fabH2,Cj1303,-,-,-,-,3-oxoacyl-ACP synthase,protein-coding,-,-,-,-,20201003,-
+192222,905596,acpP3,Cj1304,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20150626,-
+192222,905597,Cj1305c,Cj1305c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905598,Cj1306c,Cj1306c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905599,Cj1307,Cj1307,-,-,-,-,amino acid activating protein,protein-coding,-,-,-,-,20210212,-
+192222,905600,Cj1308,Cj1308,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20160325,-
+192222,905601,Cj1309c,Cj1309c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905602,Cj1310c,Cj1310c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905603,pseF,Cj1311,-,-,-,-,pseudaminic acid cytidylyltransferase,protein-coding,-,-,-,-,20160807,-
+192222,905604,pseG,Cj1312,-,-,-,-,"UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase",protein-coding,-,-,-,-,20180130,-
+192222,905605,pseH,Cj1313,-,-,-,-,N-acetyltransferase,protein-coding,-,-,-,-,20201010,-
+192222,905606,hisF,Cj1314c,-,-,-,-,imidazole glycerol phosphate synthase subunit HisF,protein-coding,-,-,-,-,20180130,-
+192222,905607,hisH,Cj1315c,-,-,-,-,imidazole glycerol phosphate synthase subunit HisH,protein-coding,-,-,-,-,20170906,-
+192222,905608,pseA,Cj1316c,-,-,-,-,pseudaminic acid biosynthesis protein PseA,protein-coding,-,-,-,-,20170906,-
+192222,905609,pseI,Cj1317,-,-,-,-,pseudaminic acid synthase,protein-coding,-,-,-,-,20180130,-
+192222,905610,Cj1318,Cj1318,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160418,-
+192222,905611,Cj1319,Cj1319,-,-,-,-,"NAD-dependent 4,6-dehydratase",protein-coding,-,-,-,-,20210417,-
+192222,905612,Cj1320,Cj1320,-,-,-,-,PLP-dependent aminotransferase,protein-coding,-,-,-,-,20180130,-
+192222,905613,Cj1321,Cj1321,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905614,Cj1322,Cj1322,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905616,Cj1324,Cj1324,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905617,Cj1325,Cj1325,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20201026,-
+192222,905619,neuB2,Cj1327,-,-,-,-,"N,N'-diacetyllegionaminic acid synthase",protein-coding,-,-,-,-,20170906,-
+192222,905620,neuC2,Cj1328,-,-,-,-,"GDP/UDP-N,N'-diacetylbacillosamine 2-epimerase",protein-coding,-,-,-,-,20170906,-
+192222,905621,Cj1329,Cj1329,-,-,-,-,sugar-phosphate nucleotide transferase,protein-coding,-,-,-,-,20210612,-
+192222,905622,Cj1330,Cj1330,-,-,-,-,isomerase,protein-coding,-,-,-,-,20170906,-
+192222,905623,ptmB,Cj1331,-,-,-,-,"CMP-N,N'-diacetyllegionaminic acid synthase",protein-coding,-,-,-,-,20160806,-
+192222,905624,ptmA,Cj1332,-,-,-,-,flagellin modification protein A,protein-coding,-,-,-,-,20170906,-
+192222,905625,pseD,Cj1333,-,-,-,-,protein PseD,protein-coding,-,-,-,-,20150801,-
+192222,905626,Cj1334,Cj1334,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905627,Cj1335,Cj1335,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160418,-
+192222,905629,pseE,Cj1337,-,-,-,-,protein PseE,protein-coding,-,-,-,-,20150626,-
+192222,905630,flaB,Cj1338c,-,-,-,-,flagellin B,protein-coding,-,-,-,-,20170906,-
+192222,905631,flaA,Cj1339c,-,-,-,-,flagellin A,protein-coding,-,-,-,-,20180929,-
+192222,905632,Cj1340c,Cj1340c,-,-,-,-,motility protein,protein-coding,-,-,-,-,20150626,-
+192222,905633,Cj1341c,Cj1341c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905634,Cj1342c,Cj1342c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905635,Cj1343c,Cj1343c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905636,Cj1344c,Cj1344c,-,-,-,-,tRNA N6-adenosine threonylcarbamoyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,905637,Cj1345c,Cj1345c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905638,dxr,Cj1346c,-,-,-,-,1-deoxy-D-xylulose 5-phosphate reductoisomerase,protein-coding,-,-,-,-,20180130,-
+192222,905639,cdsA,Cj1347c,-,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,-,20210129,-
+192222,905640,Cj1348c,Cj1348c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905641,Cj1349c,Cj1349c,-,-,-,-,fibronectin/fibrinogen-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905642,mobA,Cj1350,-,-,-,-,molybdopterin-guanine dinucleotide biosynthesis protein,protein-coding,-,-,-,-,20160203,-
+192222,905643,pldA,Cj1351,-,-,-,-,phospholipase A,protein-coding,-,-,-,-,20160903,-
+192222,905644,ceuB,Cj1352,-,-,-,-,enterochelin uptake permease,protein-coding,-,-,-,-,20160924,-
+192222,905645,ceuC,Cj1353,-,-,-,-,enterochelin uptake permease,protein-coding,-,-,-,-,20150725,-
+192222,905646,ceuD,Cj1354,-,-,-,-,enterochelin uptake ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905647,ceuE,Cj1355,-,-,-,-,enterochelin uptake substrate-binding protein,protein-coding,-,-,-,-,20181222,-
+192222,905648,tRNASer,Cjp25,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905649,Cj1356c,Cj1356c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905650,nrfA,Cj1357c,-,-,-,-,cytochrome c nitrite reductase cytochrome c552 subunit,protein-coding,-,-,-,-,20170906,-
+192222,905651,nrfH,Cj1358c,-,-,-,-,cytochrome c nitrite reductase small subunit,protein-coding,-,-,-,-,20210515,-
+192222,905652,ppk,Cj1359,-,-,-,-,polyphosphate kinase,protein-coding,-,-,-,-,20180130,-
+192222,905654,Cj1361c,Cj1361c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905655,ruvB,Cj1362,-,-,-,-,Holliday junction DNA helicase RuvB,protein-coding,-,-,-,-,20201003,-
+192222,905656,amaA,Cj1363,-,-,-,-,acid membrane antigen A,protein-coding,-,-,-,-,20160716,-
+192222,905657,fumC,Cj1364c,-,-,-,-,fumarate hydratase,protein-coding,-,-,-,-,20180130,-
+192222,905658,Cj1365c,Cj1365c,-,-,-,-,serine protease,protein-coding,-,-,-,-,20210129,-
+192222,905659,glmS,Cj1366c,-,-,-,-,glucosamine--fructose-6-phosphate aminotransferase,protein-coding,-,-,-,-,20201003,-
+192222,905660,Cj1367c,Cj1367c,-,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905661,Cj1368,Cj1368,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,905662,Cj1369,Cj1369,-,-,-,-,permease,protein-coding,-,-,-,-,20170906,-
+192222,905663,Cj1370,Cj1370,-,-,-,-,nucleotide phosphoribosyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905664,Cj1371,Cj1371,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150704,-
+192222,905665,Cj1372,Cj1372,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905666,Cj1373,Cj1373,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905667,Cj1374c,Cj1374c,-,-,-,-,Non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,-,20160807,-
+192222,905668,Cj1375,Cj1375,-,-,-,-,multidrug efflux transporter,protein-coding,-,-,-,-,20190815,-
+192222,905669,Cj1376,Cj1376,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150725,-
+192222,905670,Cj1377c,Cj1377c,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20210212,-
+192222,905671,selA,Cj1378,-,-,-,-,L-seryl-tRNA(Sec) selenium transferase,protein-coding,-,-,-,-,20180130,-
+192222,905672,selB,Cj1379,-,-,-,-,selenocysteine-specific elongation factor,protein-coding,-,-,-,-,20210212,-
+192222,905673,Cj1380,Cj1380,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,905674,Cj1381,Cj1381,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905675,fldA,Cj1382c,-,-,-,-,flavodoxin FldA,protein-coding,-,-,-,-,20150626,-
+192222,905676,Cj1383c,Cj1383c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905677,Cj1384c,Cj1384c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150718,-
+192222,905678,katA,Cj1385,-,-,-,-,catalase,protein-coding,-,-,-,-,20180130,-
+192222,905679,Cj1386,Cj1386,-,-,-,-,ankyrin repeat-containing protein,protein-coding,-,-,-,-,20190815,-
+192222,905680,Cj1387c,Cj1387c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905681,Cj1388,Cj1388,-,-,-,-,endoribonuclease L-PSP,protein-coding,-,-,-,-,20160806,-
+192222,905682,Cj1389,Cj1389,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905684,Cj1394,Cj1394,-,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,-,20170906,-
+192222,905685,Cj1395,Cj1395,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905686,Cj1397,Cj1397,-,-,-,-,ferrous iron transport protein,protein-coding,-,-,-,-,20150626,-
+192222,905687,feoB,Cj1398,-,-,-,-,ferrous iron transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905688,hydA2,Cj1399c,-,-,-,-,Ni/Fe-hydrogenase small subunit,protein-coding,-,-,-,-,20170906,-
+192222,905689,fabI,Cj1400c,-,-,-,-,NADH,protein-coding,-,-,-,NADH|enoyl-ACP reductase,20201003,-
+192222,905690,tpiA,Cj1401c,-,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,-,20160917,-
+192222,905691,pgk,Cj1402c,-,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,-,20180130,-
+192222,905692,gapA,Cj1403c,-,-,-,-,glyceraldehyde 3-phosphate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905693,nadD,Cj1404,-,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,-,20180130,-
+192222,905694,Cj1405,Cj1405,-,-,-,-,fibosomal silencing factor RsfS,protein-coding,-,-,-,-,20150626,-
+192222,905695,Cj1406c,Cj1406c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905696,Cj1407c,Cj1407c,-,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,-,20170906,-
+192222,905697,fliL,Cj1408,-,-,-,-,flagellar basal body-associated protein FliL,protein-coding,-,-,-,-,20150626,-
+192222,905698,acpS,Cj1409,-,-,-,-,holo-ACP synthase,protein-coding,-,-,-,-,20160418,-
+192222,905699,Cj1410c,Cj1410c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905700,Cj1411c,Cj1411c,-,-,-,-,cytochrome P450,protein-coding,-,-,-,-,20210212,-
+192222,905701,Cj1412c,Cj1412c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905702,kpsS,Cj1413c,-,-,-,-,capsule polysaccharide modification protein,protein-coding,-,-,-,-,20150626,-
+192222,905703,kpsC,Cj1414c,-,-,-,-,capsule polysaccharide modification protein,protein-coding,-,-,-,-,20170906,-
+192222,905704,cysC,Cj1415c,-,-,-,-,adenylyl-sulfate kinase,protein-coding,-,-,-,-,20160813,-
+192222,905705,Cj1416c,Cj1416c,-,-,-,-,sugar nucleotidyltransferase,protein-coding,-,-,-,-,20160730,-
+192222,905706,Cj1417c,Cj1417c,-,-,-,-,amidotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905707,Cj1418c,Cj1418c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905708,Cj1419c,Cj1419c,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905709,Cj1420c,Cj1420c,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905710,Cj1421c,Cj1421c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20160813,-
+192222,905711,Cj1422c,Cj1422c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20160806,-
+192222,905712,hddC,Cj1423c,-,-,-,-,D-glycero-D-manno-heptose 1-phosphate guanosyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905713,gmhA2,Cj1424c,-,-,-,-,phosphoheptose isomerase,protein-coding,-,-,-,-,20160807,-
+192222,905714,hddA,Cj1425c,-,-,-,-,D-glycero-D-manno-heptose 7-phosphate kinase,protein-coding,-,-,-,-,20170906,-
+192222,905715,Cj1426c,Cj1426c,-,-,-,-,methyltransferase family protein,protein-coding,-,-,-,-,20210212,-
+192222,905716,Cj1427c,Cj1427c,-,-,-,-,sugar-nucleotide epimerase/dehydratease,protein-coding,-,-,-,-,20210129,-
+192222,905717,fcl,Cj1428c,-,-,-,-,GDP-L-fucose synthetase,protein-coding,-,-,-,-,20170906,-
+192222,905718,Cj1429c,Cj1429c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905719,rfbC,Cj1430c,-,-,-,-,"dTDP-4-dehydrorhamnose 3,5-epimerase",protein-coding,-,-,-,-,20150711,-
+192222,905720,hddC,Cj1431c,-,-,-,-,capsular polysaccharide heptosyltransferase,protein-coding,-,-,-,-,20150626,-
+192222,905721,Cj1432c,Cj1432c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20190604,-
+192222,905722,Cj1433c,Cj1433c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190814,-
+192222,905723,Cj1434c,Cj1434c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20210129,-
+192222,905724,Cj1435c,Cj1435c,-,-,-,-,phosphatase,protein-coding,-,-,-,-,20150626,-
+192222,905725,Cj1436c,Cj1436c,-,-,-,-,aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905726,Cj1437c,Cj1437c,-,-,-,-,aminotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905727,Cj1438c,Cj1438c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20210212,-
+192222,905728,glf,Cj1439c,-,-,-,-,UDP-galactopyranose mutase,protein-coding,-,-,-,-,20180130,-
+192222,905729,Cj1440c,Cj1440c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20150627,-
+192222,905730,kfiD,Cj1441c,-,-,-,-,UDP-glucose 6-dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905731,Cj1442c,Cj1442c,-,-,-,-,sugar transferase,protein-coding,-,-,-,-,20170906,-
+192222,905732,kpsF,Cj1443c,-,-,-,-,D-arabinose 5-phosphate isomerase,protein-coding,-,-,-,-,20201003,-
+192222,905733,kpsD,Cj1444c,-,-,-,-,capsule polysaccharide ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,905734,kpsE,Cj1445c,-,-,-,-,capsule polysaccharide ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905735,kpsT,Cj1447c,-,-,-,-,capsule polysaccharide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905736,kpsM,Cj1448c,-,-,-,-,capsule polysaccharide ABC transporter permease,protein-coding,-,-,-,-,20210212,-
+192222,905737,Cj1449c,Cj1449c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905738,Cj1450,Cj1450,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20150626,-
+192222,905739,dut,Cj1451,-,-,-,-,dUTPase,protein-coding,-,-,-,-,20210212,-
+192222,905740,Cj1452,Cj1452,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905741,tilS,Cj1453c,-,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,-,20210212,-
+192222,905742,Cj1454c,Cj1454c,-,-,-,-,ribosomal protein S12 methylthiotransferase,protein-coding,-,-,-,-,20170906,-
+192222,905743,prfB,Cj1455,-,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,-,20180130,-
+192222,905744,Cj1456c,Cj1456c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905745,truD,Cj1457c,-,-,-,-,tRNA pseudouridine synthase D,protein-coding,-,-,-,-,20180130,-
+192222,905746,thiL,Cj1458c,-,-,-,-,thiamine monophosphate kinase,protein-coding,-,-,-,-,20170906,-
+192222,905747,Cj1459,Cj1459,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905748,Cj1460,Cj1460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905749,Cj1461,Cj1461,-,-,-,-,DNA methylase,protein-coding,-,-,-,-,20150626,-
+192222,905750,flgI,Cj1462,-,-,-,-,flagellar basal body P-ring protein,protein-coding,-,-,-,-,20210129,-
+192222,905751,flgJ,Cj1463,-,-,-,-,flagellar biosynthesis protein FlgJ,protein-coding,-,-,-,-,20160415,-
+192222,905752,flgM,Cj1464,-,-,-,-,flagellar biosynthesis protein FlgM,protein-coding,-,-,-,-,20150626,-
+192222,905753,Cj1465,Cj1465,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905754,flgK,Cj1466,-,-,-,-,flagellar hook-associated protein FlgK,protein-coding,-,-,-,-,20170906,-
+192222,905755,Cj1467,Cj1467,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905756,Cj1468,Cj1468,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905757,Cj1470c,Cj1470c,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905758,ctsE,Cj1471c,-,-,-,-,type II protein secretion system protein E,protein-coding,-,-,-,-,20170906,-
+192222,905759,Cj1472c,Cj1472c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905760,ctsP,Cj1473c,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20210612,-
+192222,905761,ctsD,Cj1474c,-,-,-,-,type II protein secretion system protein D,protein-coding,-,-,-,-,20170906,-
+192222,905762,Cj1475c,Cj1475c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905763,Cj1476c,Cj1476c,-,-,-,-,pyruvate-flavodoxin oxidoreductase,protein-coding,-,-,-,-,20190604,-
+192222,905764,Cj1477c,Cj1477c,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20170906,-
+192222,905765,cadF,Cj1478c,-,-,-,-,outer membrane fibronectin-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905766,rpsI,Cj1479c,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,-,20160807,-
+192222,905767,rplM,Cj1480c,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20160730,-
+192222,905768,Cj1481c,Cj1481c,-,-,-,-,helicase,protein-coding,-,-,-,-,20201003,-
+192222,905769,Cj1482c,Cj1482c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,905770,Cj1483c,Cj1483c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905771,Cj1484c,Cj1484c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905772,Cj1485c,Cj1485c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905773,Cj1486c,Cj1486c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905774,ccoP,Cj1487c,-,-,-,-,cbb3-type cytochrome C oxidase subunit III,protein-coding,-,-,-,-,20190608,-
+192222,905775,ccoQ,Cj1488c,-,-,-,-,cbb3-type cytochrome C oxidase subunit IV,protein-coding,-,-,-,-,20150711,-
+192222,905776,ccoO,Cj1489c,-,-,-,-,cbb3-type cytochrome c oxidase subunit II,protein-coding,-,-,-,-,20210212,-
+192222,905777,ccoN,Cj1490c,-,-,-,-,cbb3-type cytochrome c oxidase subunit I,protein-coding,-,-,-,-,20170906,-
+192222,905778,Cj1491c,Cj1491c,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,905779,Cj1492c,Cj1492c,-,-,-,-,two-component sensor,protein-coding,-,-,-,-,20210212,-
+192222,905780,Cj0948c,Cj0948c,-,-,-,-,cation efflux family protein,protein-coding,-,-,-,-,20170906,-
+192222,905781,Cj1497c,Cj1497c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905782,tRNASeC,Cjp26,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905783,Cj1493c,Cj1493c,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20160325,-
+192222,905784,Cj1495c,Cj1495c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+192222,905785,carA,Cj1494c,-,-,-,-,carbamoyl phosphate synthase small subunit,protein-coding,-,-,-,-,20201003,-
+192222,905786,purA,Cj1498c,-,-,-,-,adenylosuccinate synthetase,protein-coding,-,-,-,-,20160807,-
+192222,905787,Cj1500,Cj1500,-,-,-,-,inner membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905788,Cj1513c,Cj1513c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190604,-
+192222,905789,putP,Cj1502c,-,-,-,-,sodium/proline symporter,protein-coding,-,-,-,-,20170906,-
+192222,905790,fdhB,Cj1510c,-,-,-,-,formate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,-,20180130,-
+192222,905791,Cj1501,Cj1501,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+192222,905792,putA,Cj1503c,-,-,-,-,proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase,protein-coding,-,-,-,-,20170906,-
+192222,905793,Cj1505c,Cj1505c,-,-,-,-,two-component response regulator,protein-coding,-,-,-,-,20170906,-
+192222,905794,fdhC,Cj1509c,-,-,-,-,formate dehydrogenase cytochrome B subunit,protein-coding,-,-,-,-,20210212,-
+192222,905795,fdhA,Cj1511c,-,-,-,-,formate dehydrogenase large subunit,protein-coding,-,-,-,-,20210212,-
+192222,905796,Cj1506c,Cj1506c,-,-,-,-,MCP-type signal transduction protein,protein-coding,-,-,-,-,20210212,-
+192222,905797,selD,Cj1504c,-,-,-,-,"selenide,water dikinase",protein-coding,-,-,-,-,20170906,-
+192222,905798,Cj1515c,Cj1515c,-,-,-,-,carboxynorspermidine/carboxyspermidine decarboxylase,protein-coding,-,-,-,-,20170906,-
+192222,905799,fdhD,Cj1508c,-,-,-,-,formate dehydrogenase accessory protein,protein-coding,-,-,-,-,20201010,-
+192222,905800,Cj1507c,Cj1507c,-,-,-,-,regulatory protein,protein-coding,-,-,-,-,20150704,-
+192222,905801,moaD,Cj1517,-,-,-,-,molybdopterin converting factor subunit 1,protein-coding,-,-,-,-,20150627,-
+192222,905802,Cj1514c,Cj1514c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905803,Cj1516,Cj1516,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20170906,-
+192222,905804,moeA2,Cj1519,-,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,-,20170906,-
+192222,905805,moaE,Cj1518,-,-,-,-,molybdopterin converting factor subunit 2,protein-coding,-,-,-,-,20160917,-
+192222,905806,purM,Cj1529c,-,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,-,20170906,-
+192222,905808,Cj1522c,Cj1522c,-,-,-,-,CRISPR-associated endonuclease Cas1,protein-coding,-,-,-,-,20150626,-
+192222,905809,Cj1523c,Cj1523c,-,-,-,-,CRISPR-associated protein,protein-coding,-,-,-,-,20190831,-
+192222,905810,Cj1521c,Cj1521c,-,-,-,-,CRISPR-associated endoribonuclease Cas2,protein-coding,-,-,-,-,20180130,-
+192222,905811,Cj1528,Cj1528,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905812,dapF,Cj1531,-,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,-,20170906,-
+192222,905813,coaE,Cj1530,-,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,-,20170906,-
+192222,905814,Cj0742,Cj0742,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905815,Cj1533c,Cj1533c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905816,Cj1534c,Cj1534c,-,-,-,-,bacterioferritin,protein-coding,-,-,-,-,20170906,-
+192222,905817,pgi,Cj1535c,-,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,-,20180130,-
+192222,905818,galU,Cj1536c,-,-,-,-,UTP-glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,-,20160730,-
+192222,905819,acs,Cj1537c,-,-,-,-,acetyl-CoA synthetase,protein-coding,-,-,-,-,20170906,-
+192222,905820,Cj1538c,Cj1538c,-,-,-,-,anion uptake ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20180130,-
+192222,905821,Cj1539c,Cj1539c,-,-,-,-,anion-uptake ABC transporter permease,protein-coding,-,-,-,-,20160827,-
+192222,905822,Cj1540,Cj1540,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20201010,-
+192222,905823,Cj1541,Cj1541,-,-,-,-,LamB/YcsF family protein,protein-coding,-,-,-,-,20180130,-
+192222,905824,Cj1543,Cj1543,-,-,-,-,allophanate hydrolase subunit 2,protein-coding,-,-,-,-,20150801,-
+192222,905825,rpsM,Cj1592,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20170906,-
+192222,905826,Cj1542,Cj1542,-,-,-,-,allophanate hydrolase subunit 1,protein-coding,-,-,-,-,20150626,-
+192222,905827,Cj1546,Cj1546,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20150711,-
+192222,905828,hsdR,Cj1549c,-,-,-,-,type I restriction enzyme R protein,protein-coding,-,-,-,-,20170906,-
+192222,905829,rloH,Cj1550c,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,905830,hsdS,Cj1551c,-,-,-,-,type I restriction enzyme S protein,protein-coding,-,-,-,-,20190814,-
+192222,905831,mloB,Cj1552c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905832,hsdM,Cj1553c,-,-,-,-,type I restriction enzyme M protein,protein-coding,-,-,-,-,20170906,-
+192222,905833,Cj1555c,Cj1555c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905834,Cj1556,Cj1556,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20160806,-
+192222,905836,Cj1560,Cj1560,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,905837,Cj1561,Cj1561,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,905839,nuoN,Cj1566c,-,-,-,-,NADH-quinone oxidoreductase I subunit N,protein-coding,-,-,-,-,20170906,-
+192222,905840,nuoM,Cj1567c,-,-,-,-,NADH-quinone oxidoreductase I subunit M,protein-coding,-,-,-,-,20170906,-
+192222,905841,nuoJ,Cj1570c,-,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,-,20201003,-
+192222,905842,nuoI,Cj1571c,-,-,-,-,NADH-quinone oxidoreductase subunit I,protein-coding,-,-,-,-,20201003,-
+192222,905843,nuoH,Cj1572c,-,-,-,-,NADH-quinone oxidoreductase subunit H,protein-coding,-,-,-,-,20201003,-
+192222,905844,Cj1574c,Cj1574c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905845,Cj1575c,Cj1575c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+192222,905846,nuoD,Cj1576c,-,-,-,-,NADH-quinone oxidoreductase subunit D,protein-coding,-,-,-,-,20180130,-
+192222,905847,nuoC,Cj1577c,-,-,-,-,NADH-quinone oxidoreductase subunit C,protein-coding,-,-,-,-,20201003,-
+192222,905848,nuoB,Cj1578c,-,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,-,20201010,-
+192222,905849,nuoA,Cj1579c,-,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,-,20201003,-
+192222,905850,Cj1580c,Cj1580c,-,-,-,-,peptide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20210129,-
+192222,905851,Cj1581c,Cj1581c,-,-,-,-,peptide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905852,Cj1582c,Cj1582c,-,-,-,-,peptide ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905853,Cj1583c,Cj1583c,-,-,-,-,peptide ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905854,Cj1584c,Cj1584c,-,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905855,Cj1585c,Cj1585c,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20170906,-
+192222,905856,cgb,Cj1586,-,-,-,-,single domain hemoglobin,protein-coding,-,-,-,-,20210212,-
+192222,905857,Cj1587c,Cj1587c,-,-,-,-,multidrug ABC transporter permease/ATP-binding protein,protein-coding,-,-,-,-,20180130,-
+192222,905858,Cj1588c,Cj1588c,-,-,-,-,MFS transport protein,protein-coding,-,-,-,-,20210212,-
+192222,905859,Cj1589,Cj1589,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905860,infA,Cj1590,-,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,-,20160917,-
+192222,905861,rpmJ,Cj1591,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,-,20180130,-
+192222,905862,rpsK,Cj1593,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20180130,-
+192222,905863,rpsD,Cj1594,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+192222,905864,pflA,Cj1565c,-,-,-,-,paralysed flagellum protein,protein-coding,-,-,-,-,20201010,-
+192222,905865,rpoA,Cj1595,-,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,-,20170906,-
+192222,905866,rplQ,Cj1596,-,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,-,20160807,-
+192222,905867,hisG,Cj1597,-,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,-,20180908,-
+192222,905868,hisD,Cj1598,-,-,-,-,histidinol dehydrogenase,protein-coding,-,-,-,-,20180130,-
+192222,905869,hisB,Cj1599,-,-,-,-,bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase,protein-coding,-,-,-,-,20201003,-
+192222,905870,Cj1602,Cj1602,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+192222,905871,hisF,Cj1603,-,-,-,-,imidazole glycerol phosphate synthase subunit HisF,protein-coding,-,-,-,-,20160903,-
+192222,905872,dapD,Cj1605c,-,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,-,20191025,-
+192222,905873,mrp,Cj1606c,-,-,-,-,ATP/GTP-binding protein,protein-coding,-,-,-,-,20210212,-
+192222,905874,ispDF,Cj1607,-,-,-,-,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,-,20170906,-
+192222,905875,Cj1608,Cj1608,-,-,-,-,two-component regulator,protein-coding,-,-,-,-,20170906,-
+192222,905876,Cj1609,Cj1609,-,-,-,-,sulfate adenylyltransferase,protein-coding,-,-,-,-,20170906,-
+192222,905877,pgpA,Cj1610,-,-,-,-,phosphatidylglycerophosphatase,protein-coding,-,-,-,-,20210212,-
+192222,905878,rpsT,Cj1611,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,-,20150626,-
+192222,905879,prfA,Cj1612,-,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,-,20180130,-
+192222,905880,Cj1613c,Cj1613c,-,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,-,20170906,-
+192222,905881,chuA,Cj1614,-,-,-,-,hemin uptake system outer membrane receptor,protein-coding,-,-,-,-,20170906,-
+192222,905882,chuB,Cj1615,-,-,-,-,hemin uptake ABC transporter permease,protein-coding,-,-,-,-,20210212,-
+192222,905883,chuC,Cj1616,-,-,-,-,hemin uptake ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905884,chuD,Cj1617,-,-,-,-,hemin uptake system substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905885,Cj1618c,Cj1618c,-,-,-,-,radical SAM domain-containing protein,protein-coding,-,-,-,-,20210212,-
+192222,905886,kgtP,Cj1619,-,-,-,-,alpha-ketoglutarate permease,protein-coding,-,-,-,-,20190815,-
+192222,905887,mutY,Cj1620c,-,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,-,20210212,-
+192222,905888,Cj1621,Cj1621,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905889,tRNAGly,Cjp27,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905890,tRNALeu,Cjp28,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905891,obgE,Cj0096,-,-,-,-,GTPase ObgE,protein-coding,-,-,-,-,20180130,-
+192222,905892,tRNACys,Cjp29,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905893,tRNASer,Cjp30,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905894,ribD,Cj1622,-,-,-,-,riboflavin-specific deaminase/reductase,protein-coding,-,-,-,-,20170906,-
+192222,905895,Cj1623,Cj1623,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20150626,-
+192222,905896,sdaA,Cj1624c,-,-,-,-,L-serine dehydratase,protein-coding,-,-,-,-,20210212,-
+192222,905897,sdaC,Cj1625c,-,-,-,-,amino acid transporter,protein-coding,-,-,-,-,20201010,-
+192222,905898,Cj1626c,Cj1626c,-,-,-,-,membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905899,Cj1627c,Cj1627c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905900,Cj1724c,Cj1724c,-,-,-,-,7-cyano-7-deazaguanine reductase,protein-coding,-,-,-,-,20160807,-
+192222,905901,exbB2,Cj1628,-,-,-,-,ExbB/TolQ family transport protein,protein-coding,-,-,-,-,20150627,-
+192222,905902,exbD2,Cj1629,-,-,-,-,ExbD/TolR family transport protein,protein-coding,-,-,-,-,20150718,-
+192222,905903,tonB2,Cj1630,-,-,-,-,TonB transport protein,protein-coding,-,-,-,-,20170906,-
+192222,905904,Cj1631c,Cj1631c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905905,Cj1632c,Cj1632c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905906,Cj1633,Cj1633,-,-,-,-,ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905907,aroC,Cj1634c,-,-,-,-,chorismate synthase,protein-coding,-,-,-,-,20160806,-
+192222,905908,rnc,Cj1635c,-,-,-,-,ribonuclease III,protein-coding,-,-,-,-,20170906,-
+192222,905909,rnhA,Cj1636c,-,-,-,-,ribonuclease H,protein-coding,-,-,-,-,20160807,-
+192222,905910,Cj1637c,Cj1637c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905911,dnaG,Cj1638,-,-,-,-,DNA primase,protein-coding,-,-,-,-,20170906,-
+192222,905912,Cj1639,Cj1639,-,-,-,-,NifU protein,protein-coding,-,-,-,-,20160325,-
+192222,905913,Cj1640,Cj1640,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905914,murE,Cj1641,-,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,-,20170906,-
+192222,905915,Cj1642,Cj1642,-,-,-,-,nucleoid-associated protein,protein-coding,-,-,-,-,20201003,-
+192222,905916,Cj1643,Cj1643,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20210212,-
+192222,905917,ispA,Cj1644,-,-,-,-,geranyltranstransferase,protein-coding,-,-,-,-,20160806,-
+192222,905918,tkt,Cj1645,-,-,-,-,transketolase,protein-coding,-,-,-,-,20170906,-
+192222,905919,iamB,Cj1646,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20210212,-
+192222,905920,iamA,Cj1647,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905921,Cj1648,Cj1648,-,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905922,Cj1649,Cj1649,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20150626,-
+192222,905923,Cj1650,Cj1650,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905924,map,Cj1651c,-,-,-,-,methionine aminopeptidase,protein-coding,-,-,-,-,20160903,-
+192222,905925,murI,Cj1652c,-,-,-,-,glutamate racemase,protein-coding,-,-,-,-,20160203,-
+192222,905926,Cj1653c,Cj1653c,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20210212,-
+192222,905927,nhaA,Cj1654c,-,-,-,-,Na(+)/H(+) antiporter NhaA,protein-coding,-,-,-,-,20201010,-
+192222,905928,nhaA1,Cj1655c,-,-,-,-,Na(+)/H(+) antiporter,protein-coding,-,-,-,-,20180130,-
+192222,905929,Cj1656c,Cj1656c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905930,Cj1658,Cj1658,-,-,-,-,iron permease,protein-coding,-,-,-,-,20170906,-
+192222,905931,p19,Cj1659,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150718,-
+192222,905932,Cj1660,Cj1660,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20170906,-
+192222,905933,Cj1661,Cj1661,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+192222,905934,Cj1662,Cj1662,-,-,-,-,integral membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,905935,Cj1663,Cj1663,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+192222,905936,Cj1664,Cj1664,-,-,-,-,thiredoxin,protein-coding,-,-,-,-,20170906,-
+192222,905937,Cj1665,Cj1665,-,-,-,-,lipoprotein thiredoxin,protein-coding,-,-,-,-,20210212,-
+192222,905938,Cj1666c,Cj1666c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150718,-
+192222,905940,Cj1668c,Cj1668c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905942,tRNAHis,Cjp32,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905943,tRNAPro,Cjp33,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905944,Cj1669c,Cj1669c,-,-,-,-,ATP-dependent DNA ligase,protein-coding,-,-,-,-,20170906,-
+192222,905945,cgpA,Cj1670c,-,-,-,-,glycoprotein CpgA,protein-coding,-,-,-,-,20210212,-
+192222,905946,Cj1671c,Cj1671c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905947,eno,Cj1672c,-,-,-,-,enolase,protein-coding,-,-,-,-,20170906,-
+192222,905948,recA,Cj1673c,-,-,-,-,recombinase A,protein-coding,-,-,-,-,20180130,-
+192222,905949,Cj1674,Cj1674,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160806,-
+192222,905950,fliQ,Cj1675,-,-,-,-,flagellar biosynthesis protein FliQ,protein-coding,-,-,-,-,20201010,-
+192222,905951,murB,Cj1676,-,-,-,-,UDP-N-acetylenolpyruvoylglucosamine reductase,protein-coding,-,-,-,-,20201010,-
+192222,905952,Cj1677,Cj1677,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20160325,-
+192222,905954,Cj1679,Cj1679,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,905955,Cj1680c,Cj1680c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20150626,-
+192222,905956,cysQ,Cj1681c,-,-,-,-,"3'(2'),5'-bisphosphate nucleotidase CysQ",protein-coding,-,-,-,-,20160910,-
+192222,905957,gltA,Cj1682c,-,-,-,-,citrate synthase,protein-coding,-,-,-,-,20170906,-
+192222,905958,Cj1684c,Cj1684c,-,-,-,-,transmembrane transport protein,protein-coding,-,-,-,-,20160917,-
+192222,905959,bioB,Cj1685c,-,-,-,-,biotin synthase,protein-coding,-,-,-,-,20170906,-
+192222,905960,topA,Cj1686c,-,-,-,-,DNA topoisomerase I,protein-coding,-,-,-,-,20201003,-
+192222,905961,Cj1687,Cj1687,-,-,-,-,efflux protein,protein-coding,-,-,-,-,20201003,-
+192222,905962,secY,Cj1688c,-,-,-,-,protein translocase subunit SecY,protein-coding,-,-,-,-,20170906,-
+192222,905963,rplO,Cj1689c,-,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,-,20150626,-
+192222,905964,rpsE,Cj1690c,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20180130,-
+192222,905965,rplR,Cj1691c,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20180130,-
+192222,905966,rplF,Cj1692c,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20170906,-
+192222,905967,rpsH,Cj1693c,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20160203,-
+192222,905968,rpsN,Cj1694c,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20201003,-
+192222,905969,rplE,Cj1695c,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,-,20180130,-
+192222,905970,rplX,Cj1696c,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20160806,-
+192222,905971,rplN,Cj1697c,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20180130,-
+192222,905972,rpsQ,Cj1698c,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20160807,-
+192222,905973,rpmC,Cj1699c,-,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,-,20180130,-
+192222,905974,rplP,Cj1700c,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20180130,-
+192222,905975,rpsC,Cj1701c,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+192222,905976,rplV,Cj1702c,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,-,20160807,-
+192222,905977,rpsS,Cj1703c,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20180130,-
+192222,905978,rplB,Cj1704c,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20180130,-
+192222,905979,rplW,Cj1705c,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20180130,-
+192222,905980,rplD,Cj1706c,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20160418,-
+192222,905981,rplC,Cj1707c,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,-,20180130,-
+192222,905982,rpsJ,Cj1708c,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20160807,-
+192222,905983,Cj1709c,Cj1709c,-,-,-,-,pseudouridine synthase,protein-coding,-,-,-,-,20170906,-
+192222,905984,Cj1710c,Cj1710c,-,-,-,-,metallo-beta-lactamase family protein,protein-coding,-,-,-,-,20170906,-
+192222,905985,ksgA,Cj1711c,-,-,-,-,rRNA small subunit methyltransferase A,protein-coding,-,-,-,-,20160827,-
+192222,905986,Cj1712,Cj1712,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210129,-
+192222,905987,Cj1713,Cj1713,-,-,-,-,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,protein-coding,-,-,-,-,20201003,-
+192222,905988,Cj1714,Cj1714,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905989,tRNAMet,Cjp34,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905990,tRNAAla,Cjp35,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905991,tRNAVal,Cjp36,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,905992,Cj1715,Cj1715,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,905993,leuD,Cj1716c,-,-,-,-,3-isopropylmalate dehydratase small subunit,protein-coding,-,-,-,-,20201010,-
+192222,905994,leuC,Cj1717c,-,-,-,-,3-isopropylmalate dehydratase large subunit,protein-coding,-,-,-,-,20201010,-
+192222,905995,leuB,Cj1718c,-,-,-,-,3-isopropylmalate dehydrogenase,protein-coding,-,-,-,-,20160807,-
+192222,905996,leuA,Cj1719c,-,-,-,-,2-isopropylmalate synthase,protein-coding,-,-,-,-,20180130,-
+192222,905997,Cj1720,Cj1720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+192222,905998,Cj1721c,Cj1721c,-,-,-,-,outer membrane protein,protein-coding,-,-,-,-,20210212,-
+192222,906000,Cj1723c,Cj1723c,-,-,-,-,pseudo,pseudo,-,-,-,-,20130905,-
+192222,906001,metA,Cj1726c,-,-,-,-,homoserine O-succinyltransferase,protein-coding,-,-,-,-,20210212,-
+192222,906002,metB,Cj1727c,-,-,-,-,O-acetylhomoserine (thiol)-lyase,protein-coding,-,-,-,-,20170906,-
+192222,906004,flgE,Cj1729c,-,-,-,-,flagellar hook protein FlgE,protein-coding,-,-,-,-,20170906,-
+192222,906005,ruvC,Cj1731c,-,-,-,-,Holliday junction resolvase,protein-coding,-,-,-,-,20180130,-
+192222,906006,Cj0935c,Cj0935c,-,-,-,-,sodium:amino-acid symporter family protein,protein-coding,-,-,-,-,20150626,-
+192222,906007,Cj1496c,Cj1496c,-,-,-,-,periplasmic protein,protein-coding,-,-,-,-,20170906,-
+192222,906008,peb1A,Cj0921c,-,-,-,-,bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein,protein-coding,-,-,-,-,20180130,-
+192222,906009,cysM,Cj0912c,-,-,-,-,cysteine synthase,protein-coding,-,-,-,-,20170906,-
+192222,906010,pcm,Cj0228c,-,-,-,-,protein-L-isoaspartate O-methyltransferase,protein-coding,-,-,-,-,20201003,-
+192222,906011,nadE,Cj0810,-,-,-,-,NH(3)-dependent NAD(+) synthetase,protein-coding,-,-,-,-,20180130,-
+192222,906012,argC,Cj0224,-,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,protein-coding,-,-,-,-,20180130,-
+192222,906014,clpP,Cj0192c,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20180130,-
+192222,906015,Cj0957c,Cj0957c,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210212,-
+192222,906016,flgE,Cj0043,-,-,-,-,flagellar hook protein,protein-coding,-,-,-,-,20170906,-
+192222,2830591,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Campylobacter jejuni subsp. jejuni ATCC 700819; Campylobacter jejuni subsp. jejuni ATCC 700819 = NCTC 11168; Campylobacter jejuni subsp. jejuni NCTC 11168).,other,-,-,-,-,20201121,-
+192222,3245038,Cjr08,Cjr08,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245039,tRNAThr,Cjt1,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245040,tRNAAsp,Cjt02,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245041,Cjr07,Cjr07,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245042,Cjr09,Cjr09,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245043,tRNALeu,Cjt01,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245044,tRNAVal,Cjt03,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245045,Cjr03,Cjr03,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245046,Cjs01,Cjs01,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20160203,-
+192222,3245047,tRNAArg,Cjt3,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245048,tRNALys,Cjt04,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245049,tRNASer,Cjt06,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245050,Cjr02,Cjr02,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245051,Cjr04,Cjr04,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245052,tRNALeu,Cjt05,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245053,Cjr05,Cjr05,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245054,Cjr01,Cjr01,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245055,tRNAAsp,Cjt2,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,3245056,Cjr06,Cjr06,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20120821,-
+192222,3245057,tRNAArg,Cjt4,-,-,-,-,tRNA,tRNA,-,-,-,-,20120821,-
+192222,5066042,Cj0489,Cj0489,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,5066043,metC,Cj1392,-,-,-,-,pseudo,pseudo,-,-,-,-,20140712,-
+192222,7133894,Cjs02,Cjs02,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20120821,-
+192222,7133895,Cjs03,Cjs03,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20120821,-

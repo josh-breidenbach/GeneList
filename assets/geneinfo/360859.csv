@@ -1,0 +1,139 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+360859,33370701,psbA,CGV64_pgp093,Lo_pet1Pt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20170908,-
+360859,33370702,rbcL,CGV64_pgp092,Lo_pet1Pt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+360859,33370703,atpB,CGV64_pgp091,Lo_pet1Pt0048,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+360859,33370704,atpE,CGV64_pgp090,Lo_pet1Pt0063,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20170908,-
+360859,33370705,trnM (CAU),CGV64_pgt002,Lo_pet1Pt0069,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370706,trnV (UAC),CGV64_pgt003,Lo_pet1Pt0072,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370707,trnK (UUU),CGV64_pgt004,Lo_pet1Pt0082,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370708,matK,CGV64_pgp089,Lo_pet1Pt0085,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+360859,33370709,rps16,CGV64_pgp088,Lo_pet1Pt0113,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+360859,33370710,ORF191,CGV64_pgp087,Lo_pet1Pt0118,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+360859,33370711,trnQ (UUG),CGV64_pgt005,Lo_pet1Pt0125,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370712,psbK,CGV64_pgp086,Lo_pet1Pt0131,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20170908,-
+360859,33370713,psbI,CGV64_pgp085,Lo_pet1Pt0137,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20170908,-
+360859,33370714,trnS (GCU),CGV64_pgt006,Lo_pet1Pt0140,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370715,trnG (UCC),CGV64_pgt007,Lo_pet1Pt0148,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370716,trnR (UCU),CGV64_pgt008,Lo_pet1Pt0157,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370717,atpA,CGV64_pgp084,Lo_pet1Pt0158,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+360859,33370718,atpF,CGV64_pgp083,Lo_pet1Pt0174,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+360859,33370719,atpH,CGV64_pgp082,Lo_pet1Pt0191,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20170908,-
+360859,33370720,atpI,CGV64_pgp081,Lo_pet1Pt0202,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20170908,-
+360859,33370721,rps2,CGV64_pgp080,Lo_pet1Pt0211,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+360859,33370722,rpoC2,CGV64_pgp079,Lo_pet1Pt0221,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170908,-
+360859,33370723,rpoC1,CGV64_pgp078,Lo_pet1Pt0264,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+360859,33370724,rpoB,CGV64_pgp077,Lo_pet1Pt0293,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+360859,33370725,ORF301,CGV64_pgp076,Lo_pet1Pt0300,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+360859,33370726,trnC (GCA),CGV64_pgt009,Lo_pet1Pt0344,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370727,petN,CGV64_pgp075,Lo_pet1Pt0347,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+360859,33370728,psbM,CGV64_pgp074,Lo_pet1Pt0353,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+360859,33370729,trnD (GUC),CGV64_pgt010,Lo_pet1Pt0364,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370730,trnY (GUA),CGV64_pgt011,Lo_pet1Pt0366,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370731,trnE (UUC),CGV64_pgt012,Lo_pet1Pt0367,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370732,trnT (GGU),CGV64_pgt013,Lo_pet1Pt0376,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370733,psbD,CGV64_pgp073,Lo_pet1Pt0389,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20170908,-
+360859,33370734,psbC,CGV64_pgp072,Lo_pet1Pt0399,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20170908,-
+360859,33370735,trnS (UGA),CGV64_pgt014,Lo_pet1Pt0416,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370736,psbZ,CGV64_pgp071,Lo_pet1Pt0419,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20170908,-
+360859,33370737,trnG (GCC),CGV64_pgt015,Lo_pet1Pt0424,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370738,trnfM (CAU),CGV64_pgt016,Lo_pet1Pt0426,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370739,rps14,CGV64_pgp070,Lo_pet1Pt0429,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+360859,33370740,psaB,CGV64_pgp069,Lo_pet1Pt0433,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20170908,-
+360859,33370741,psaA,CGV64_pgp068,Lo_pet1Pt0455,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20170908,-
+360859,33370742,pafI,CGV64_pgp067,Lo_pet1Pt0485,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+360859,33370743,trnS (GGA),CGV64_pgt017,Lo_pet1Pt0513,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370744,rps4,CGV64_pgp066,Lo_pet1Pt0517,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+360859,33370745,trnT (UGU),CGV64_pgt018,Lo_pet1Pt0527,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370746,trnL (UAA),CGV64_pgt019,Lo_pet1Pt0535,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370747,trnF (GAA),CGV64_pgt020,Lo_pet1Pt0544,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370748,ndhJ,CGV64_pgp065,Lo_pet1Pt0551,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20170908,-
+360859,33370749,ndhK,CGV64_pgp064,Lo_pet1Pt0557,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20170908,-
+360859,33370750,ndhC,CGV64_pgp063,Lo_pet1Pt0564,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20170908,-
+360859,33370751,ORF227,CGV64_pgp062,Lo_pet1Pt0572,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+360859,33370752,psaI,CGV64_pgp061,Lo_pet1Pt0580,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20170908,-
+360859,33370753,pafII,CGV64_pgp060,Lo_pet1Pt0584,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20170908,-
+360859,33370754,cemA,CGV64_pgp059,Lo_pet1Pt0596,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+360859,33370755,petA,CGV64_pgp058,Lo_pet1Pt0605,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+360859,33370756,psbJ,CGV64_pgp057,Lo_pet1Pt0625,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20170908,-
+360859,33370757,psbL,CGV64_pgp056,Lo_pet1Pt0628,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20170908,-
+360859,33370758,psbF,CGV64_pgp055,Lo_pet1Pt0629,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20170908,-
+360859,33370759,psbE,CGV64_pgp054,Lo_pet1Pt0630,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+360859,33370760,petL,CGV64_pgp053,Lo_pet1Pt0642,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170908,-
+360859,33370761,petG,CGV64_pgp052,Lo_pet1Pt0645,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+360859,33370762,trnW (CCA),CGV64_pgt021,Lo_pet1Pt0647,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370763,trnP (UGG),CGV64_pgt022,Lo_pet1Pt0650,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370764,psaJ,CGV64_pgp051,Lo_pet1Pt0654,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20170908,-
+360859,33370765,rpl33,CGV64_pgp050,Lo_pet1Pt0660,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+360859,33370766,rps18,CGV64_pgp049,Lo_pet1Pt0664,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+360859,33370767,rpl20,CGV64_pgp048,Lo_pet1Pt0670,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+360859,33370768,rps12,CGV64_pgp047,Lo_pet1Pt1513,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+360859,33370769,psbB,CGV64_pgp044,Lo_pet1Pt0709,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20170908,-
+360859,33370770,psbT,CGV64_pgp043,Lo_pet1Pt0726,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20170908,-
+360859,33370771,psbN,CGV64_pgp042,Lo_pet1Pt0728,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20170908,-
+360859,33370772,psbH,CGV64_pgp041,Lo_pet1Pt0730,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20170908,-
+360859,33370773,petB,CGV64_pgp040,Lo_pet1Pt0733,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+360859,33370774,petD,CGV64_pgp039,Lo_pet1Pt0749,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+360859,33370775,rpoA,CGV64_pgp038,Lo_pet1Pt0763,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+360859,33370776,rps11,CGV64_pgp037,Lo_pet1Pt0774,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+360859,33370777,rpl36,CGV64_pgp036,Lo_pet1Pt0779,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+360859,33370778,infA,CGV64_pgp035,Lo_pet1Pt0781,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360859,33370779,rps8,CGV64_pgp034,Lo_pet1Pt0785,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+360859,33370780,rpl14,CGV64_pgp033,Lo_pet1Pt0791,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+360859,33370781,rpl16,CGV64_pgp032,Lo_pet1Pt0797,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+360859,33370782,rps3,CGV64_pgp031,Lo_pet1Pt0813,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+360859,33370783,rpl22,CGV64_pgp030,Lo_pet1Pt0820,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+360859,33370784,rps19,CGV64_pgp029,Lo_pet1Pt0825,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+360859,33370785,rpl2,CGV64_pgp028,Lo_pet1Pt0829,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+360859,33370786,rpl23,CGV64_pgp027,Lo_pet1Pt0844,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360859,33370787,trnI (CAU),CGV64_pgt023,Lo_pet1Pt0850,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370788,ycf2,CGV64_pgp026,Lo_pet1Pt0852,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+360859,33370789,trnL (CAA),CGV64_pgt024,Lo_pet1Pt0921,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370790,ndhB,CGV64_pgp025,Lo_pet1Pt0927,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+360859,33370791,rps7,CGV64_pgp024,Lo_pet1Pt0953,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+360859,33370792,trnV (GAC),CGV64_pgt025,Lo_pet1Pt0984,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370793,trnH (GUG),CGV64_pgt001,Lo_pet1Pt0001,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370794,rrn16,CGV64_pgr008,Lo_pet1Pt0987,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370795,trnI (GAU),CGV64_pgt026,Lo_pet1Pt1005,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370796,trnA (UGC),CGV64_pgt027,Lo_pet1Pt1015,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370797,rrn23,CGV64_pgr007,Lo_pet1Pt1026,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370798,rrn4.5,CGV64_pgr006,Lo_pet1Pt1055,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370799,rrn5,CGV64_pgr005,Lo_pet1Pt1058,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370800,trnR (ACG),CGV64_pgt028,Lo_pet1Pt1062,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370801,trnN (GUU),CGV64_pgt029,Lo_pet1Pt1065,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370802,ycf1,CGV64_pgp023,Lo_pet1Pt1071,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+360859,33370803,rps15,CGV64_pgp022,Lo_pet1Pt1143,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+360859,33370804,ndhH,CGV64_pgp021,Lo_pet1Pt1147,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+360859,33370805,ndhA,CGV64_pgp020,Lo_pet1Pt1159,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+360859,33370806,ndhI,CGV64_pgp019,Lo_pet1Pt1181,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+360859,33370807,ndhG,CGV64_pgp018,Lo_pet1Pt1190,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+360859,33370808,ndhE,CGV64_pgp017,Lo_pet1Pt1198,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20170908,-
+360859,33370809,psaC,CGV64_pgp016,Lo_pet1Pt1203,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+360859,33370810,ndhD,CGV64_pgp015,Lo_pet1Pt1206,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20170908,-
+360859,33370811,ccsA,CGV64_pgp014,Lo_pet1Pt1224,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+360859,33370812,trnL (UAG),CGV64_pgt030,Lo_pet1Pt1234,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370813,rpl32,CGV64_pgp013,Lo_pet1Pt1242,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+360859,33370814,ndhF,CGV64_pgp012,Lo_pet1Pt1255,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20170908,-
+360859,33370815,ndhG,CGV64_pgp011,Lo_pet1Pt1283,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+360859,33370816,ndhI,CGV64_pgp010,Lo_pet1Pt1292,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+360859,33370817,ndhA,CGV64_pgp009,Lo_pet1Pt1298,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+360859,33370818,ndhH,CGV64_pgp008,Lo_pet1Pt1319,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+360859,33370819,rps15,CGV64_pgp007,Lo_pet1Pt1332,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+360859,33370820,ycf1,CGV64_pgp006,Lo_pet1Pt1339,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+360859,33370821,trnN (GUU),CGV64_pgt031,Lo_pet1Pt1413,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370822,trnR (ACG),CGV64_pgt032,Lo_pet1Pt1416,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370823,rrn5,CGV64_pgr004,Lo_pet1Pt1419,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370824,rrn4.5,CGV64_pgr003,Lo_pet1Pt1423,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370825,rrn23,CGV64_pgr002,Lo_pet1Pt1425,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370826,trnA (UGC),CGV64_pgt033,Lo_pet1Pt1454,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370827,trnI (GAU),CGV64_pgt034,Lo_pet1Pt1464,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370828,rrn16,CGV64_pgr001,Lo_pet1Pt1477,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360859,33370829,rps12,CGV64_pgp046,Lo_pet1Pt0958,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+360859,33370830,trnV (GAC),CGV64_pgt035,Lo_pet1Pt1494,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370831,rps7,CGV64_pgp005,Lo_pet1Pt1521,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+360859,33370832,clpP,CGV64_pgp045,Lo_pet1Pt0684,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+360859,33370833,ndhB,CGV64_pgp004,Lo_pet1Pt1529,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+360859,33370834,trnL (CAA),CGV64_pgt036,Lo_pet1Pt1557,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370835,ycf2,CGV64_pgp003,Lo_pet1Pt1563,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+360859,33370836,trnI (CAU),CGV64_pgt037,Lo_pet1Pt1628,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360859,33370837,rpl23,CGV64_pgp002,Lo_pet1Pt1632,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360859,33370838,rpl2,CGV64_pgp001,Lo_pet1Pt1635,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-

@@ -1,0 +1,908 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+203267,2830719,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Tropheryma whipplei Twist; Tropheryma whipplei strain Twist).,other,-,-,-,-,20210127,-
+203267,29577771,TWT_RS04160,TWT_RS04160,TWT742|TWT_742,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210417,-
+203267,29577772,TWT_RS04325,TWT_RS04325,TWT774|TWT_774,-,-,-,FHA domain-containing protein,protein-coding,-,-,-,FHA domain-containing protein,20210131,-
+203267,29577773,TWT_RS04330,TWT_RS04330,TWT775|TWT_775,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20210131,-
+203267,29577774,TWT_RS01065,TWT_RS01065,TWT185|TWT_185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577775,TWT_RS01500,TWT_RS01500,TWT246|TWT_246,-,-,-,heme-copper oxidase subunit III,protein-coding,-,-,-,heme-copper oxidase subunit III,20210131,-
+203267,29577776,TWT_RS03735,TWT_RS03735,TWT658|TWT_658,-,-,-,vitamin K epoxide reductase family protein,protein-coding,-,-,-,vitamin K epoxide reductase family protein,20210131,-
+203267,29577777,TWT_RS01040,TWT_RS01040,TWT180|TWT_180,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210131,-
+203267,29577778,TWT_RS04185,TWT_RS04185,TWT747|TWT_747,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210131,-
+203267,29577779,TWT_RS04180,TWT_RS04180,TWT746|TWT_746,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210131,-
+203267,29577780,dnaX,TWT_RS03985,TWT710|TWT_710,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210131,-
+203267,29577781,rpmI,TWT_RS00950,TWT165|TWT_165,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210131,-
+203267,29577782,TWT_RS04335,TWT_RS04335,TWT776|TWT_776,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210131,-
+203267,29577783,TWT_RS02015,TWT_RS02015,TWT345|TWT_345,-,-,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20210131,-
+203267,29577784,TWT_RS04340,TWT_RS04340,TWT777|TWT_777,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20210131,-
+203267,29577785,TWT_RS01410,TWT_RS01410,TWT228|TWT_228,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,protein-coding,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,20210131,-
+203267,29577786,secY,TWT_RS03035,TWT535|TWT_535,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210131,-
+203267,29577787,TWT_RS04205,TWT_RS04205,TWT751|TWT_751,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20210131,-
+203267,29577788,TWT_RS01060,TWT_RS01060,TWT184|TWT_184,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577789,TWT_RS00310,TWT_RS00310,TWT058|TWT_058,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29577790,rpsN,TWT_RS00670,TWT115|TWT_115,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20210131,-
+203267,29577791,dnaK,TWT_RS04200,TWT750|TWT_750,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210131,-
+203267,29577792,TWT_RS04405,TWT_RS04405,TWT789|TWT_789,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20210131,-
+203267,29577793,TWT_RS04345,TWT_RS04345,TWT778|TWT_778,-,-,-,PASTA domain-containing protein,protein-coding,-,-,-,PASTA domain-containing protein,20210131,-
+203267,29577794,TWT_RS01110,TWT_RS01110,TWT190|TWT_190,-,-,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20210131,-
+203267,29577795,TWT_RS04350,TWT_RS04350,TWT779|TWT_779,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577796,TWT_RS01735,TWT_RS01735,TWT291|TWT_291,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210131,-
+203267,29577797,ftsW,TWT_RS01405,TWT227|TWT_227,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20210131,-
+203267,29577798,murC,TWT_RS01415,TWT229|TWT_229,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20210131,-
+203267,29577799,TWT_RS03675,TWT_RS03675,TWT645|TWT_645,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210313,-
+203267,29577800,TWT_RS03895,TWT_RS03895,TWT692|TWT_692,-,-,-,nicotinamidase,protein-coding,-,-,-,nicotinamidase,20210131,-
+203267,29577801,TWT_RS03230,TWT_RS03230,TWT574|TWT_574,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577802,TWT_RS00015,TWT_RS00015,TWT003|TWT_003,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20210131,-
+203267,29577803,TWT_RS00090,TWT_RS00090,TWT016|TWT_016,-,-,-,aldo/keto reductase,protein-coding,-,-,-,aldo/keto reductase,20210131,-
+203267,29577804,TWT_RS02880,TWT_RS02880,TWT505|TWT_505,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210131,-
+203267,29577805,TWT_RS02295,TWT_RS02295,TWT396|TWT_396,-,-,-,DNA glycosylase,protein-coding,-,-,-,DNA glycosylase,20210131,-
+203267,29577806,TWT_RS04050,TWT_RS04050,TWT724|TWT_724,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20210131,-
+203267,29577807,TWT_RS03780,TWT_RS03780,TWT666|TWT_666,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577808,valS,TWT_RS02730,TWT478|TWT_478,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210131,-
+203267,29577809,TWT_RS00450,TWT_RS00450,TWT082|TWT_082,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577810,rnc,TWT_RS03170,TWT562|TWT_562,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210131,-
+203267,29577811,TWT_RS04525,TWT_RS04525,TWT350|TWT_350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577813,TWT_RS02265,TWT_RS02265,TWT390|TWT_390,-,-,-,sulfurtransferase,protein-coding,-,-,-,sulfurtransferase,20210131,-
+203267,29577814,TWT_RS00325,TWT_RS00325,TWTRNA03|TWT_RNA03,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577815,xseB,TWT_RS03670,TWT644|TWT_644,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20210131,-
+203267,29577816,TWT_RS02770,TWT_RS02770,TWT484|TWT_484,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20210131,-
+203267,29577817,TWT_RS02255,TWT_RS02255,TWTRNA28|TWT_RNA28,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577818,TWT_RS02260,TWT_RS02260,TWTRNA29|TWT_RNA29,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577819,dnaN,TWT_RS00010,TWT002|TWT_002,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210131,-
+203267,29577820,TWT_RS02885,TWT_RS02885,TWT506|TWT_506,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20210131,-
+203267,29577821,ligA,TWT_RS02400,TWT414|TWT_414,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210131,-
+203267,29577822,coaD,TWT_RS03185,TWT565|TWT_565,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210131,-
+203267,29577823,TWT_RS02215,TWT_RS02215,TWT384|TWT_384,-,-,-,ComEA family DNA-binding protein,protein-coding,-,-,-,ComEA family DNA-binding protein,20210131,-
+203267,29577824,TWT_RS01225,TWT_RS01225,TWT203|TWT_203,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase,20210131,-
+203267,29577825,TWT_RS00825,TWT_RS00825,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577826,TWT_RS00480,TWT_RS00480,TWT088|TWT_088,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20210131,-
+203267,29577827,TWT_RS00285,TWT_RS00285,TWT053|TWT_053,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,protein-coding,-,-,-,ubiquinone/menaquinone biosynthesis methyltransferase,20210131,-
+203267,29577828,TWT_RS01740,TWT_RS01740,TWT292|TWT_292,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210131,-
+203267,29577830,TWT_RS00445,TWT_RS00445,TWT081|TWT_081,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577831,TWT_RS03800,TWT_RS03800,TWT672|TWT_672,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577832,TWT_RS01165,TWT_RS01165,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29577833,TWT_RS00265,TWT_RS00265,TWT049|TWT_049,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210131,-
+203267,29577834,recA,TWT_RS03470,TWT611|TWT_611,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210131,-
+203267,29577835,TWT_RS03380,TWT_RS03380,TWTRNA36|TWT_RNA36,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577836,TWT_RS00725,TWT_RS00725,TWT127|TWT_127,-,-,-,phosphomannomutase/phosphoglucomutase,protein-coding,-,-,-,phosphomannomutase/phosphoglucomutase,20210131,-
+203267,29577837,TWT_RS03370,TWT_RS03370,TWT602|TWT_602,-,-,-,WND domain-containing WiSP protein,protein-coding,-,-,-,WND domain-containing WiSP protein,20210131,-
+203267,29577841,TWT_RS01855,TWT_RS01855,TWT315|TWT_315,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20210131,-
+203267,29577842,guaA,TWT_RS00435,TWT079|TWT_079,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210131,-
+203267,29577843,miaA,TWT_RS03460,TWT609|TWT_609,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210131,-
+203267,29577844,TWT_RS01450,TWT_RS01450,TWT236|TWT_236,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20210131,-
+203267,29577845,TWT_RS00905,TWT_RS00905,TWT155|TWT_155,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210131,-
+203267,29577846,TWT_RS01785,TWT_RS01785,TWT301|TWT_301,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210131,-
+203267,29577847,TWT_RS02660,TWT_RS02660,TWT466|TWT_466,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20210131,-
+203267,29577848,secG,TWT_RS01795,TWT303|TWT_303,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210131,-
+203267,29577849,TWT_RS00210,TWT_RS00210,TWT039|TWT_039,-,-,-,DUF2142 domain-containing protein,protein-coding,-,-,-,DUF2142 domain-containing protein,20210131,-
+203267,29577850,TWT_RS00215,TWT_RS00215,TWT040|TWT_040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577851,TWT_RS00355,TWT_RS00355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577852,TWT_RS03695,TWT_RS03695,TWT649|TWT_649,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,protein-coding,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,20210131,-
+203267,29577853,TWT_RS03710,TWT_RS03710,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577854,TWT_RS00040,TWT_RS00040,TWTRNA01|TWT_RNA01,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577855,TWT_RS03395,TWT_RS03395,TWT603|TWT_603,-,-,-,VIT1/CCC1 transporter family protein,protein-coding,-,-,-,VIT1/CCC1 transporter family protein,20210131,-
+203267,29577856,TWT_RS02425,TWT_RS02425,TWT419|TWT_419,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210212,-
+203267,29577857,TWT_RS04295,TWT_RS04295,TWT769|TWT_769,-,-,-,M13 family metallopeptidase,protein-coding,-,-,-,M13 family metallopeptidase,20210131,-
+203267,29577858,TWT_RS02655,TWT_RS02655,TWT465|TWT_465,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20210131,-
+203267,29577859,hpt,TWT_RS03300,TWT589|TWT_589,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20210131,-
+203267,29577860,TWT_RS03610,TWT_RS03610,TWT632|TWT_632,-,-,-,histidine kinase N-terminal domain-containing protein,protein-coding,-,-,-,histidine kinase N-terminal domain-containing protein,20210131,-
+203267,29577861,TWT_RS00945,TWT_RS00945,TWT164|TWT_164,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210131,-
+203267,29577862,rplT,TWT_RS00955,TWT166|TWT_166,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210131,-
+203267,29577863,TWT_RS00080,TWT_RS00080,TWT014|TWT_014,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577864,TWT_RS04395,TWT_RS04395,TWTRNA54|TWT_RNA54,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577865,TWT_RS04390,TWT_RS04390,TWT787|TWT_787,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20210131,-
+203267,29577866,TWT_RS04120,TWT_RS04120,TWT734|TWT_734,-,-,-,chlorite dismutase family protein,protein-coding,-,-,-,chlorite dismutase family protein,20210131,-
+203267,29577867,TWT_RS01975,TWT_RS01975,TWT338|TWT_338,-,-,-,heme A synthase,protein-coding,-,-,-,heme A synthase,20210131,-
+203267,29577868,TWT_RS04290,TWT_RS04290,TWT768|TWT_768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577869,TWT_RS01965,TWT_RS01965,TWT336|TWT_336,-,-,-,SufD family Fe-S cluster assembly protein,protein-coding,-,-,-,SufD family Fe-S cluster assembly protein,20210131,-
+203267,29577870,sufB,TWT_RS01970,TWT337|TWT_337,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20210131,-
+203267,29577871,TWT_RS02740,TWT_RS02740,TWT480|TWT_480,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210131,-
+203267,29577872,TWT_RS02105,TWT_RS02105,TWT362|TWT_362,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210131,-
+203267,29577873,TWT_RS01380,TWT_RS01380,TWT222|TWT_222,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210131,-
+203267,29577874,gmk,TWT_RS04530,-,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210131,-
+203267,29577875,TWT_RS00895,TWT_RS00895,TWT153|TWT_153,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577876,TWT_RS01750,TWT_RS01750,TWT294|TWT_294,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210131,-
+203267,29577877,TWT_RS04090,TWT_RS04090,TWTRNA50|TWT_RNA50,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577879,rpmF,TWT_RS03175,TWT563|TWT_563,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210131,-
+203267,29577880,TWT_RS00585,TWT_RS00585,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577881,TWT_RS01790,TWT_RS01790,TWT302|TWT_302,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,triosephosphate isomerase,20210131,-
+203267,29577882,TWT_RS01010,TWT_RS01010,TWT173|TWT_173,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20210131,-
+203267,29577883,TWT_RS00685,TWT_RS00685,TWT118|TWT_118,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20210131,-
+203267,29577884,tgt,TWT_RS00890,TWT152|TWT_152,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20210131,-
+203267,29577885,TWT_RS00885,TWT_RS00885,TWT151|TWT_151,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577886,TWT_RS00870,TWT_RS00870,TWTRNA10|TWT_RNA10,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577887,TWT_RS01300,TWT_RS01300,TWT209|TWT_209,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210131,-
+203267,29577888,TWT_RS02010,TWT_RS02010,TWTRNA24|TWT_RNA24,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577889,ruvX,TWT_RS02170,TWT375|TWT_375,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210131,-
+203267,29577890,TWT_RS01590,TWT_RS01590,TWT263|TWT_263,-,-,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20210131,-
+203267,29577891,TWT_RS03805,TWT_RS03805,TWT674|TWT_674,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577892,TWT_RS02985,TWT_RS02985,TWT524|TWT_524,-,-,-,DUF1003 domain-containing protein,protein-coding,-,-,-,DUF1003 domain-containing protein,20210212,-
+203267,29577893,TWT_RS02765,TWT_RS02765,-,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577894,ilvC,TWT_RS01290,TWT207|TWT_207,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,ketol-acid reductoisomerase,20210131,-
+203267,29577895,TWT_RS02415,TWT_RS02415,TWT417|TWT_417,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577896,TWT_RS04215,TWT_RS04215,TWT753|TWT_753,-,-,-,glutaredoxin family protein,protein-coding,-,-,-,glutaredoxin family protein,20210131,-
+203267,29577897,TWT_RS03495,TWT_RS03495,TWT616|TWT_616,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20210131,-
+203267,29577898,TWT_RS03215,TWT_RS03215,TWT571|TWT_571,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210131,-
+203267,29577899,def,TWT_RS01825,TWT310|TWT_310,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210131,-
+203267,29577900,purB,TWT_RS04415,TWT791|TWT_791,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20210131,-
+203267,29577902,TWT_RS01400,TWT_RS01400,TWT226|TWT_226,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210131,-
+203267,29577903,murE,TWT_RS01395,TWT225|TWT_225,-,-,-,UDP-N-acetylmuramyl-tripeptide synthetase,protein-coding,-,-,-,UDP-N-acetylmuramyl-tripeptide synthetase,20210131,-
+203267,29577904,coxB,TWT_RS01485,TWT243|TWT_243,-,-,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20210131,-
+203267,29577905,rpsJ,TWT_RS03135,TWT555|TWT_555,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210131,-
+203267,29577908,TWT_RS04400,TWT_RS04400,TWT788|TWT_788,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20210131,-
+203267,29577909,truA,TWT_RS02995,TWT526|TWT_526,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210131,-
+203267,29577910,murF,TWT_RS01385,TWT223|TWT_223,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210131,-
+203267,29577911,dnaE,TWT_RS02910,TWT510|TWT_510,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210131,-
+203267,29577912,TWT_RS01390,TWT_RS01390,TWT224|TWT_224,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20210131,-
+203267,29577913,TWT_RS00235,TWT_RS00235,TWT044|TWT_044,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577914,ilvD,TWT_RS01275,TWT204|TWT_204,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,dihydroxy-acid dehydratase,20210131,-
+203267,29577915,TWT_RS03570,TWT_RS03570,TWT625|TWT_625,-,-,-,trypsin-like peptidase domain-containing protein,protein-coding,-,-,-,trypsin-like peptidase domain-containing protein,20210131,-
+203267,29577916,dnaA,TWT_RS00005,TWT001|TWT_001,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210131,-
+203267,29577917,TWT_RS03580,TWT_RS03580,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,29577918,TWT_RS00770,TWT_RS00770,TWT137|TWT_137,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210131,-
+203267,29577920,TWT_RS01345,TWT_RS01345,TWT216|TWT_216,-,-,-,serine/threonine-protein kinase,protein-coding,-,-,-,serine/threonine-protein kinase,20210131,-
+203267,29577921,TWT_RS01315,TWT_RS01315,TWT211|TWT_211,-,-,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20210131,-
+203267,29577922,TWT_RS02360,TWT_RS02360,TWTRNA31|TWT_RNA31,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577923,TWT_RS03275,TWT_RS03275,TWT584|TWT_584,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210131,-
+203267,29577924,yidD,TWT_RS04490,TWT806|TWT_806,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210131,-
+203267,29577925,pdhA,TWT_RS04410,TWT790|TWT_790,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210131,-
+203267,29577927,TWT_RS03280,TWT_RS03280,TWT585|TWT_585,-,-,-,DUF3180 domain-containing protein,protein-coding,-,-,-,DUF3180 domain-containing protein,20210131,-
+203267,29577928,TWT_RS01180,TWT_RS01180,TWT197|TWT_197,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210131,-
+203267,29577929,prfB,TWT_RS01185,TWT198|TWT_198,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210131,-
+203267,29577930,TWT_RS01325,TWT_RS01325,TWT213|TWT_213,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20210131,-
+203267,29577931,TWT_RS01330,TWT_RS01330,TWT214|TWT_214,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210131,-
+203267,29577932,TWT_RS02420,TWT_RS02420,TWT418|TWT_418,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210212,-
+203267,29577933,TWT_RS02485,TWT_RS02485,TWT431|TWT_431,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577934,frr,TWT_RS02560,TWT446|TWT_446,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210131,-
+203267,29577935,fabG,TWT_RS01840,TWT313|TWT_313,-,-,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20210131,-
+203267,29577936,TWT_RS03520,TWT_RS03520,TWT620|TWT_620,-,-,-,VTT domain-containing protein,protein-coding,-,-,-,VTT domain-containing protein,20210131,-
+203267,29577937,TWT_RS02975,TWT_RS02975,TWT522|TWT_522,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210131,-
+203267,29577939,TWT_RS03510,TWT_RS03510,TWTRNA40|TWT_RNA40,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577941,TWT_RS01075,TWT_RS01075,TWT187|TWT_187,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20210131,-
+203267,29577942,TWT_RS02825,TWT_RS02825,TWT494|TWT_494,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20210131,-
+203267,29577943,TWT_RS03620,TWT_RS03620,TWT634|TWT_634,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,20210131,-
+203267,29577944,TWT_RS03625,TWT_RS03625,TWT635|TWT_635,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210131,-
+203267,29577945,TWT_RS00635,TWT_RS00635,TWT109|TWT_109,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20210131,-
+203267,29577946,TWT_RS04265,TWT_RS04265,TWT763|TWT_763,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210131,-
+203267,29577947,TWT_RS00455,TWT_RS00455,TWT083|TWT_083,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20210131,-
+203267,29577948,manA,TWT_RS00700,TWT122|TWT_122,-,-,-,"mannose-6-phosphate isomerase, class I",protein-coding,-,-,-,"mannose-6-phosphate isomerase, class I",20210131,-
+203267,29577949,TWT_RS03205,TWT_RS03205,TWT569|TWT_569,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210131,-
+203267,29577950,TWT_RS01715,TWT_RS01715,TWT289|TWT_289,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20210131,-
+203267,29577951,TWT_RS00035,TWT_RS00035,TWT007|TWT_007,-,-,-,DUF3566 domain-containing protein,protein-coding,-,-,-,DUF3566 domain-containing protein,20210131,-
+203267,29577954,TWT_RS01125,TWT_RS01125,TWT193|TWT_193,-,-,-,pilus assembly protein,protein-coding,-,-,-,pilus assembly protein,20210131,-
+203267,29577955,pyrF,TWT_RS02115,TWT364|TWT_364,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20210131,-
+203267,29577956,TWT_RS00125,TWT_RS00125,TWT022|TWT_022,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577957,TWT_RS01720,TWT_RS01720,TWTRNA20|TWT_RNA20,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577959,nrdR,TWT_RS01455,TWT237|TWT_237,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20210131,-
+203267,29577960,TWT_RS00255,TWT_RS00255,TWT048|TWT_048,-,-,-,cold shock domain-containing protein,protein-coding,-,-,-,cold shock domain-containing protein,20210131,-
+203267,29577961,TWT_RS04480,TWT_RS04480,TWT804|TWT_804,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577962,TWT_RS00200,TWT_RS00200,TWT037|TWT_037,-,-,-,DUF2304 domain-containing protein,protein-coding,-,-,-,DUF2304 domain-containing protein,20210212,-
+203267,29577963,TWT_RS00880,TWT_RS00880,TWT149|TWT_149,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20210131,-
+203267,29577964,mfd,TWT_RS01050,TWT182|TWT_182,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210131,-
+203267,29577965,rpmG,TWT_RS00665,TWT114|TWT_114,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210131,-
+203267,29577966,TWT_RS03700,TWT_RS03700,TWT650|TWT_650,-,-,-,phosphotriesterase-related protein,protein-coding,-,-,-,phosphotriesterase-related protein,20210131,-
+203267,29577967,recO,TWT_RS01690,TWT285|TWT_285,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210131,-
+203267,29577968,TWT_RS02520,TWT_RS02520,TWT438|TWT_438,-,-,-,threonine synthase,protein-coding,-,-,-,threonine synthase,20210131,-
+203267,29577969,TWT_RS01670,TWT_RS01670,TWT281|TWT_281,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210131,-
+203267,29577970,TWT_RS01980,TWT_RS01980,TWT340|TWT_340,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210131,-
+203267,29577972,TWT_RS00765,TWT_RS00765,TWT136|TWT_136,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210131,-
+203267,29577973,trmD,TWT_RS02620,TWT458|TWT_458,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210131,-
+203267,29577974,purE,TWT_RS00150,TWT027|TWT_027,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20210131,-
+203267,29577975,TWT_RS00130,TWT_RS00130,TWT023|TWT_023,-,-,-,acyl-CoA carboxylase subunit beta,protein-coding,-,-,-,acyl-CoA carboxylase subunit beta,20210131,-
+203267,29577977,prfA,TWT_RS02505,TWT435|TWT_435,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210131,-
+203267,29577978,TWT_RS03245,TWT_RS03245,TWT577|TWT_577,-,-,-,prepilin peptidase,protein-coding,-,-,-,prepilin peptidase,20210131,-
+203267,29577979,TWT_RS04285,TWT_RS04285,TWT767|TWT_767,-,-,-,phage holin family protein,protein-coding,-,-,-,phage holin family protein,20210131,-
+203267,29577980,TWT_RS00740,TWT_RS00740,TWT131|TWT_131,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29577981,TWT_RS02250,TWT_RS02250,TWTRNA27|TWT_RNA27,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577982,ftsY,TWT_RS03140,TWT556|TWT_556,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210131,-
+203267,29577984,TWT_RS02235,TWT_RS02235,TWT388|TWT_388,-,-,-,FUSC family protein,protein-coding,-,-,-,FUSC family protein,20210131,-
+203267,29577985,TWT_RS03760,TWT_RS03760,TWT662|TWT_662,-,-,-,metal ABC transporter substrate-binding protein,protein-coding,-,-,-,metal ABC transporter substrate-binding protein,20210131,-
+203267,29577986,TWT_RS01820,TWT_RS01820,TWT309|TWT_309,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210131,-
+203267,29577987,TWT_RS01850,TWT_RS01850,TWTRNA22|TWT_RNA22,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577988,TWT_RS03750,TWT_RS03750,TWTRNA44|TWT_RNA44,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29577990,TWT_RS03755,TWT_RS03755,TWT661|TWT_661,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20210131,-
+203267,29577991,rpsG,TWT_RS03815,TWT676|TWT_676,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210131,-
+203267,29577992,TWT_RS03820,TWT_RS03820,TWT677|TWT_677,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210131,-
+203267,29577993,TWT_RS01660,TWT_RS01660,TWT279|TWT_279,-,-,-,DUF1990 family protein,protein-coding,-,-,-,DUF1990 family protein,20210131,-
+203267,29577994,ribD,TWT_RS03870,TWT687|TWT_687,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20210131,-
+203267,29577995,menA,TWT_RS00390,TWT070|TWT_070,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",20210131,-
+203267,29577996,uvrB,TWT_RS01755,TWT295|TWT_295,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210131,-
+203267,29577998,TWT_RS01080,TWT_RS01080,TWT188|TWT_188,-,-,-,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,protein-coding,-,-,-,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,20210131,-
+203267,29577999,TWT_RS00120,TWT_RS00120,TWT021|TWT_021,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578000,gatB,TWT_RS02385,TWT411|TWT_411,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210131,-
+203267,29578001,TWT_RS03790,TWT_RS03790,TWT669|TWT_669,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210131,-
+203267,29578002,TWT_RS03860,TWT_RS03860,TWT685|TWT_685,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210131,-
+203267,29578003,TWT_RS01220,TWT_RS01220,TWT202|TWT_202,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210320,-
+203267,29578004,TWT_RS01665,TWT_RS01665,TWT280|TWT_280,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210131,-
+203267,29578005,glmS,TWT_RS03435,TWT606|TWT_606,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20210131,-
+203267,29578006,TWT_RS02335,TWT_RS02335,TWT404|TWT_404,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578007,TWT_RS01175,TWT_RS01175,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578008,TWT_RS02830,TWT_RS02830,TWT495|TWT_495,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20210131,-
+203267,29578010,TWT_RS01115,TWT_RS01115,TWT191|TWT_191,-,-,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20210131,-
+203267,29578011,TWT_RS00865,TWT_RS00865,TWTRNA09|TWT_RNA09,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578012,TWT_RS01055,TWT_RS01055,TWT183|TWT_183,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210131,-
+203267,29578013,TWT_RS00505,TWT_RS00505,TWT093|TWT_093,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578014,TWT_RS02955,TWT_RS02955,TWT519|TWT_519,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210131,-
+203267,29578015,TWT_RS01320,TWT_RS01320,TWT212|TWT_212,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210320,-
+203267,29578016,TWT_RS00750,TWT_RS00750,TWT133|TWT_133,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210131,-
+203267,29578017,TWT_RS02945,TWT_RS02945,TWT517|TWT_517,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210131,-
+203267,29578018,TWT_RS02950,TWT_RS02950,TWT518|TWT_518,-,-,-,macrolide 2'-phosphotransferase,protein-coding,-,-,-,macrolide 2'-phosphotransferase,20210131,-
+203267,29578019,rplF,TWT_RS03060,TWT540|TWT_540,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210131,-
+203267,29578020,rpsH,TWT_RS03065,TWT541|TWT_541,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210131,-
+203267,29578021,TWT_RS02915,TWT_RS02915,TWT511|TWT_511,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210605,-
+203267,29578022,TWT_RS03830,TWT_RS03830,TWT679|TWT_679,-,-,-,DUF4307 domain-containing protein,protein-coding,-,-,-,DUF4307 domain-containing protein,20210131,-
+203267,29578024,TWT_RS03270,TWT_RS03270,TWT583|TWT_583,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578025,tmk,TWT_RS03915,TWT695|TWT_695,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210131,-
+203267,29578026,TWT_RS00615,TWT_RS00615,TWT106|TWT_106,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210131,-
+203267,29578027,TWT_RS00045,TWT_RS00045,TWTRNA02|TWT_RNA02,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578028,TWT_RS01505,TWT_RS01505,TWT247|TWT_247,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20210131,-
+203267,29578029,TWT_RS02380,TWT_RS02380,TWT410|TWT_410,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20210131,-
+203267,29578030,TWT_RS03150,TWT_RS03150,TWT558|TWT_558,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578031,TWT_RS02210,TWT_RS02210,TWT383|TWT_383,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210131,-
+203267,29578032,TWT_RS02600,TWT_RS02600,TWT454|TWT_454,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20210131,-
+203267,29578033,crgA,TWT_RS00060,TWT010|TWT_010,-,-,-,cell division protein CrgA,protein-coding,-,-,-,cell division protein CrgA,20210131,-
+203267,29578034,TWT_RS00050,TWT_RS00050,TWT008|TWT_008,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20210131,-
+203267,29578035,TWT_RS03200,TWT_RS03200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578036,TWT_RS03490,TWT_RS03490,TWT615|TWT_615,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20210131,-
+203267,29578037,TWT_RS03730,TWT_RS03730,TWT656|TWT_656,-,-,-,folate-binding protein YgfZ,protein-coding,-,-,-,folate-binding protein YgfZ,20210131,-
+203267,29578038,TWT_RS04310,TWT_RS04310,TWT771|TWT_771,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210131,-
+203267,29578039,TWT_RS02570,TWT_RS02570,TWT448|TWT_448,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210131,-
+203267,29578040,purH,TWT_RS00460,TWT084|TWT_084,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20210131,-
+203267,29578041,TWT_RS03955,TWT_RS03955,TWT705|TWT_705,-,-,-,transglycosylase domain-containing protein,protein-coding,-,-,-,transglycosylase domain-containing protein,20210131,-
+203267,29578042,TWT_RS02195,TWT_RS02195,TWT380|TWT_380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578043,TWT_RS03945,TWT_RS03945,TWT701|TWT_701,-,-,-,TadA family conjugal transfer-associated ATPase,protein-coding,-,-,-,TadA family conjugal transfer-associated ATPase,20210131,-
+203267,29578044,TWT_RS02025,TWT_RS02025,TWT347|TWT_347,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210131,-
+203267,29578045,TWT_RS00230,TWT_RS00230,TWT043|TWT_043,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578047,folP,TWT_RS03285,TWT586|TWT_586,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20210131,-
+203267,29578048,TWT_RS00780,TWT_RS00780,TWT139|TWT_139,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578050,TWT_RS00730,TWT_RS00730,TWT129|TWT_129,-,-,-,ComF family protein,protein-coding,-,-,-,ComF family protein,20210131,-
+203267,29578051,rpsB,TWT_RS02575,TWT449|TWT_449,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210131,-
+203267,29578052,xth,TWT_RS04170,TWT744|TWT_744,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210131,-
+203267,29578053,rpsT,TWT_RS01650,TWT276|TWT_276,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210131,-
+203267,29578054,TWT_RS04420,TWT_RS04420,TWT792|TWT_792,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20210131,-
+203267,29578055,TWT_RS03165,TWT_RS03165,TWT561|TWT_561,-,-,-,branched-chain amino acid ABC transporter substrate-binding protein,protein-coding,-,-,-,branched-chain amino acid ABC transporter substrate-binding protein,20210131,-
+203267,29578056,TWT_RS00785,TWT_RS00785,TWT140|TWT_140,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578057,TWT_RS03740,TWT_RS03740,TWT659|TWT_659,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210320,-
+203267,29578058,rpsS,TWT_RS03110,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210131,-
+203267,29578059,TWT_RS00145,TWT_RS00145,TWT026|TWT_026,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,20210131,-
+203267,29578060,rplB,TWT_RS03115,TWT551|TWT_551,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210131,-
+203267,29578061,TWT_RS00745,TWT_RS00745,TWT132|TWT_132,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578062,TWT_RS03680,TWT_RS03680,TWT646|TWT_646,-,-,-,sugar kinase,protein-coding,-,-,-,sugar kinase,20210131,-
+203267,29578063,nadE,TWT_RS02340,TWT405|TWT_405,-,-,-,ammonia-dependent NAD(+) synthetase,protein-coding,-,-,-,ammonia-dependent NAD(+) synthetase,20210131,-
+203267,29578064,TWT_RS00840,TWT_RS00840,TWT146|TWT_146,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20210131,-
+203267,29578065,TWT_RS00245,TWT_RS00245,TWT046|TWT_046,-,-,-,HAMP domain-containing histidine kinase,protein-coding,-,-,-,HAMP domain-containing histidine kinase,20210131,-
+203267,29578066,TWT_RS01435,TWT_RS01435,TWT233|TWT_233,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578067,TWT_RS01700,TWT_RS01700,TWT287|TWT_287,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,protein-coding,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,20210131,-
+203267,29578068,TWT_RS01440,TWT_RS01440,TWT234|TWT_234,-,-,-,FHA domain-containing protein,protein-coding,-,-,-,FHA domain-containing protein,20210131,-
+203267,29578069,TWT_RS00250,TWT_RS00250,TWT047|TWT_047,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210131,-
+203267,29578070,rlmB,TWT_RS02020,TWT346|TWT_346,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20210131,-
+203267,29578071,TWT_RS00135,TWT_RS00135,TWT024|TWT_024,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20210131,-
+203267,29578072,TWT_RS03585,TWT_RS03585,TWT628|TWT_628,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+203267,29578073,tuf,TWT_RS00690,TWT120|TWT_120,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210131,-
+203267,29578074,TWT_RS01520,TWT_RS01520,TWT250|TWT_250,-,-,-,DUF3145 family protein,protein-coding,-,-,-,DUF3145 family protein,20210131,-
+203267,29578075,TWT_RS01695,TWT_RS01695,TWT286|TWT_286,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20210131,-
+203267,29578076,lepB,TWT_RS02610,TWT456|TWT_456,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210131,-
+203267,29578077,groL,TWT_RS02535,TWT441|TWT_441,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210131,-
+203267,29578078,TWT_RS02525,TWT_RS02525,TWT439|TWT_439,-,-,-,homoserine dehydrogenase,protein-coding,-,-,-,homoserine dehydrogenase,20210131,-
+203267,29578079,TWT_RS02530,TWT_RS02530,TWT440|TWT_440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578080,TWT_RS04425,TWT_RS04425,TWT793|TWT_793,-,-,-,chorismate mutase,protein-coding,-,-,-,chorismate mutase,20210131,-
+203267,29578081,ffh,TWT_RS02640,TWT462|TWT_462,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210131,-
+203267,29578082,TWT_RS01120,TWT_RS01120,TWT192|TWT_192,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578083,ndk,TWT_RS02710,TWT475|TWT_475,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210131,-
+203267,29578084,TWT_RS03850,TWT_RS03850,TWT683|TWT_683,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20210131,-
+203267,29578085,TWT_RS01920,TWT_RS01920,TWT329|TWT_329,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20210131,-
+203267,29578086,rpsP,TWT_RS02635,TWT461|TWT_461,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210131,-
+203267,29578087,TWT_RS00440,TWT_RS00440,TWT080|TWT_080,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210131,-
+203267,29578088,TWT_RS03345,TWT_RS03345,TWT598|TWT_598,-,-,-,DUF4191 family protein,protein-coding,-,-,-,DUF4191 family protein,20210131,-
+203267,29578089,TWT_RS02815,TWT_RS02815,TWTRNA34|TWT_RNA34,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578090,ruvB,TWT_RS01620,TWT269|TWT_269,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210417,-
+203267,29578091,carA,TWT_RS02125,TWT366|TWT_366,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20210131,-
+203267,29578093,rplK,TWT_RS04005,TWT714|TWT_714,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210131,-
+203267,29578094,TWT_RS03385,TWT_RS03385,TWTRNA37|TWT_RNA37,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578095,rplA,TWT_RS04000,TWT713|TWT_713,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210131,-
+203267,29578096,TWT_RS03840,TWT_RS03840,TWT681|TWT_681,-,-,-,threonine ammonia-lyase,protein-coding,-,-,-,threonine ammonia-lyase,20210131,-
+203267,29578097,TWT_RS00240,TWT_RS00240,TWT045|TWT_045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578100,TWT_RS01880,TWT_RS01880,-,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20210131,-
+203267,29578101,TWT_RS01280,TWT_RS01280,TWT205|TWT_205,-,-,-,acetolactate synthase large subunit,protein-coding,-,-,-,acetolactate synthase large subunit,20210131,-
+203267,29578102,nusA,TWT_RS00910,TWT156|TWT_156,-,-,-,transcription termination factor NusA,protein-coding,-,-,-,transcription termination factor NusA,20210131,-
+203267,29578104,rpsQ,TWT_RS03085,TWT545|TWT_545,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210131,-
+203267,29578105,TWT_RS03845,TWT_RS03845,TWT682|TWT_682,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20210131,-
+203267,29578106,secA,TWT_RS00735,TWT130|TWT_130,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210131,-
+203267,29578107,TWT_RS04470,TWT_RS04470,TWT802|TWT_802,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210131,-
+203267,29578108,clpX,TWT_RS02735,TWT479|TWT_479,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20210131,-
+203267,29578109,TWT_RS00510,TWT_RS00510,TWT094|TWT_094,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578110,TWT_RS04315,TWT_RS04315,TWTRNA52|TWT_RNA52,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578112,TWT_RS03795,TWT_RS03795,TWT671|TWT_671,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210131,-
+203267,29578113,TWT_RS04465,TWT_RS04465,TWT801|TWT_801,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210131,-
+203267,29578114,TWT_RS01085,TWT_RS01085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578115,TWT_RS02455,TWT_RS02455,TWT425|TWT_425,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20210131,-
+203267,29578116,TWT_RS04385,TWT_RS04385,TWT786|TWT_786,-,-,-,Na+/H+ antiporter NhaA,protein-coding,-,-,-,Na+/H+ antiporter NhaA,20210131,-
+203267,29578117,TWT_RS00305,TWT_RS00305,TWT057|TWT_057,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210131,-
+203267,29578118,TWT_RS04020,TWT_RS04020,TWTRNA47|TWT_RNA47,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578119,TWT_RS00970,TWT_RS00970,TWT169|TWT_169,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210131,-
+203267,29578120,nusG,TWT_RS04010,TWT715|TWT_715,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20210131,-
+203267,29578121,secE,TWT_RS04015,TWT716|TWT_716,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210131,-
+203267,29578122,aspS,TWT_RS04220,TWT754|TWT_754,-,-,-,aspartate--tRNA(Asn) ligase,protein-coding,-,-,-,aspartate--tRNA(Asn) ligase,20210131,-
+203267,29578123,TWT_RS03160,TWT_RS03160,TWT560|TWT_560,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,branched-chain amino acid ABC transporter permease,20210131,-
+203267,29578125,TWT_RS02565,TWT_RS02565,TWT447|TWT_447,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210131,-
+203267,29578126,TWT_RS03145,TWT_RS03145,TWT557|TWT_557,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210417,-
+203267,29578127,TWT_RS04225,TWT_RS04225,TWT755|TWT_755,-,-,-,histidine phosphatase family protein,protein-coding,-,-,-,histidine phosphatase family protein,20210131,-
+203267,29578128,pdxS,TWT_RS01595,TWT264|TWT_264,-,-,-,pyridoxal 5'-phosphate synthase lyase subunit PdxS,protein-coding,-,-,-,pyridoxal 5'-phosphate synthase lyase subunit PdxS,20210131,-
+203267,29578129,erpA,TWT_RS01480,TWT242|TWT_242,-,-,-,iron-sulfur cluster insertion protein ErpA,protein-coding,-,-,-,iron-sulfur cluster insertion protein ErpA,20210131,-
+203267,29578130,TWT_RS02790,TWT_RS02790,TWT488|TWT_488,-,-,-,DUF3093 domain-containing protein,protein-coding,-,-,-,DUF3093 domain-containing protein,20210131,-
+203267,29578131,TWT_RS02795,TWT_RS02795,TWT489|TWT_489,-,-,-,DUF4193 domain-containing protein,protein-coding,-,-,-,DUF4193 domain-containing protein,20210131,-
+203267,29578132,rnpA,TWT_RS04495,TWT807|TWT_807,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210131,-
+203267,29578133,TWT_RS02875,TWT_RS02875,TWT504|TWT_504,-,-,-,DUF3515 family protein,protein-coding,-,-,-,DUF3515 family protein,20210131,-
+203267,29578134,TWT_RS02705,TWT_RS02705,TWT474|TWT_474,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20210131,-
+203267,29578135,TWT_RS02035,TWT_RS02035,TWT349|TWT_349,-,-,-,CarD family transcriptional regulator,protein-coding,-,-,-,CarD family transcriptional regulator,20210131,-
+203267,29578136,TWT_RS02820,TWT_RS02820,TWT493|TWT_493,-,-,-,S9 family peptidase,protein-coding,-,-,-,S9 family peptidase,20210131,-
+203267,29578137,aroB,TWT_RS02145,TWT370|TWT_370,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20210131,-
+203267,29578138,TWT_RS01170,TWT_RS01170,TWT196|TWT_196,-,-,-,aspartate carbamoyltransferase,protein-coding,-,-,-,aspartate carbamoyltransferase,20210131,-
+203267,29578139,mltG,TWT_RS02165,TWT374|TWT_374,-,-,-,endolytic transglycosylase MltG,protein-coding,-,-,-,endolytic transglycosylase MltG,20210131,-
+203267,29578140,TWT_RS00405,TWT_RS00405,TWT073|TWT_073,-,-,-,lysophospholipase,protein-coding,-,-,-,lysophospholipase,20210131,-
+203267,29578141,TWT_RS04175,TWT_RS04175,TWT745|TWT_745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578142,TWT_RS03615,TWT_RS03615,TWT633|TWT_633,-,-,-,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme,20210131,-
+203267,29578143,rpmA,TWT_RS02695,TWT472|TWT_472,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210131,-
+203267,29578144,rplU,TWT_RS02700,TWT473|TWT_473,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210131,-
+203267,29578145,TWT_RS02835,TWT_RS02835,TWT496|TWT_496,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20210131,-
+203267,29578146,TWT_RS02630,TWT_RS02630,TWT460|TWT_460,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20210131,-
+203267,29578147,TWT_RS00775,TWT_RS00775,TWT138|TWT_138,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578148,TWT_RS01890,TWT_RS01890,TWT321|TWT_321,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20210131,-
+203267,29578149,rfbA,TWT_RS00175,TWT032|TWT_032,-,-,-,glucose-1-phosphate thymidylyltransferase RfbA,protein-coding,-,-,-,glucose-1-phosphate thymidylyltransferase RfbA,20210131,-
+203267,29578150,TWT_RS02050,TWT_RS02050,TWTRNA25|TWT_RNA25,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578151,TWT_RS03605,TWT_RS03605,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578152,TWT_RS02230,TWT_RS02230,TWT387|TWT_387,-,-,-,DUF2183 domain-containing protein,protein-coding,-,-,-,DUF2183 domain-containing protein,20210131,-
+203267,29578153,TWT_RS01425,TWT_RS01425,TWT231|TWT_231,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578154,TWT_RS02675,TWT_RS02675,TWT468|TWT_468,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578155,TWT_RS02495,TWT_RS02495,TWT433|TWT_433,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210131,-
+203267,29578157,pstS,TWT_RS02070,TWT355|TWT_355,-,-,-,phosphate ABC transporter substrate-binding protein PstS,protein-coding,-,-,-,phosphate ABC transporter substrate-binding protein PstS,20210131,-
+203267,29578158,TWT_RS02075,TWT_RS02075,TWT356|TWT_356,-,-,-,mannose-1-phosphate guanylyltransferase,protein-coding,-,-,-,mannose-1-phosphate guanylyltransferase,20210131,-
+203267,29578159,TWT_RS02240,TWT_RS02240,TWT389|TWT_389,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578160,TWT_RS00185,TWT_RS00185,TWT034|TWT_034,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578161,TWT_RS00180,TWT_RS00180,TWT033|TWT_033,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210131,-
+203267,29578162,typA,TWT_RS03325,TWT595|TWT_595,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20210131,-
+203267,29578163,TWT_RS00335,TWT_RS00335,TWT061|TWT_061,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20210131,-
+203267,29578164,TWT_RS00845,TWT_RS00845,TWT147|TWT_147,-,-,-,type I pantothenate kinase,protein-coding,-,-,-,type I pantothenate kinase,20210131,-
+203267,29578165,rpoC,TWT_RS00400,TWT072|TWT_072,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210131,-
+203267,29578166,TWT_RS04360,TWT_RS04360,TWT781|TWT_781,-,-,-,DUF501 domain-containing protein,protein-coding,-,-,-,DUF501 domain-containing protein,20210131,-
+203267,29578167,TWT_RS00055,TWT_RS00055,TWT009|TWT_009,-,-,-,rhomboid family intramembrane serine protease,protein-coding,-,-,-,rhomboid family intramembrane serine protease,20210131,-
+203267,29578168,TWT_RS04355,TWT_RS04355,TWTRNA53|TWT_RNA53,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578169,rfbD,TWT_RS00160,TWT029|TWT_029,-,-,-,dTDP-4-dehydrorhamnose reductase,protein-coding,-,-,-,dTDP-4-dehydrorhamnose reductase,20210131,-
+203267,29578170,TWT_RS02715,TWT_RS02715,-,-,-,-,DUF4233 domain-containing protein,protein-coding,-,-,-,DUF4233 domain-containing protein,20210131,-
+203267,29578171,atpE,TWT_RS02475,TWT429|TWT_429,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20210131,-
+203267,29578172,TWT_RS00365,TWT_RS00365,TWT065|TWT_065,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210131,-
+203267,29578173,recR,TWT_RS03980,TWT709|TWT_709,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210131,-
+203267,29578174,secF,TWT_RS01635,TWT272|TWT_272,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20210131,-
+203267,29578175,TWT_RS02760,TWT_RS02760,TWTRNA33|TWT_RNA33,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578177,ftsH,TWT_RS03295,TWT588|TWT_588,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210131,-
+203267,29578178,lipB,TWT_RS02645,TWT463|TWT_463,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20210417,-
+203267,29578179,rbfA,TWT_RS04515,TWT159|TWT_159,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210131,-
+203267,29578180,uvrC,TWT_RS01765,TWT297|TWT_297,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20210131,-
+203267,29578181,TWT_RS03390,TWT_RS03390,TWTRNA38|TWT_RNA38,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578182,TWT_RS03950,TWT_RS03950,TWT702|TWT_702,-,-,-,RidA family protein,protein-coding,-,-,-,RidA family protein,20210131,-
+203267,29578183,TWT_RS00110,TWT_RS00110,TWT020|TWT_020,-,-,-,biotin/lipoyl-binding protein,protein-coding,-,-,-,biotin/lipoyl-binding protein,20210131,-
+203267,29578184,TWT_RS04070,TWT_RS04070,TWT727|TWT_727,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210131,-
+203267,29578185,uvrA,TWT_RS01760,TWT296|TWT_296,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210131,-
+203267,29578186,secD,TWT_RS01630,TWT271|TWT_271,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210131,-
+203267,29578187,gcvP,TWT_RS00760,TWT135|TWT_135,-,-,-,aminomethyl-transferring glycine dehydrogenase,protein-coding,-,-,-,aminomethyl-transferring glycine dehydrogenase,20210131,-
+203267,29578188,purQ,TWT_RS04435,TWT795|TWT_795,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,20210131,-
+203267,29578189,TWT_RS01540,TWT_RS01540,TWT254|TWT_254,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20210131,-
+203267,29578190,TWT_RS01255,TWT_RS01255,TWTRNA15|TWT_RNA15,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578192,rimM,TWT_RS02625,TWT459|TWT_459,-,-,-,16S rRNA processing protein RimM,protein-coding,-,-,-,16S rRNA processing protein RimM,20210131,-
+203267,29578193,TWT_RS02980,TWT_RS02980,TWT523|TWT_523,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210131,-
+203267,29578194,TWT_RS02805,TWT_RS02805,TWT491|TWT_491,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210131,-
+203267,29578196,TWT_RS00600,TWT_RS00600,TWT103|TWT_103,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20210131,-
+203267,29578197,TWT_RS01445,TWT_RS01445,TWT235|TWT_235,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20210131,-
+203267,29578198,TWT_RS02670,TWT_RS02670,TWTRNA32|TWT_RNA32,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578199,tal,TWT_RS01985,TWT341|TWT_341,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20210131,-
+203267,29578200,TWT_RS03240,TWT_RS03240,TWT576|TWT_576,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578201,TWT_RS01895,TWT_RS01895,TWT322|TWT_322,-,-,-,DUF3039 domain-containing protein,protein-coding,-,-,-,DUF3039 domain-containing protein,20210131,-
+203267,29578202,TWT_RS00170,TWT_RS00170,TWT031|TWT_031,-,-,-,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",protein-coding,-,-,-,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",20210131,-
+203267,29578203,rfbB,TWT_RS00165,TWT030|TWT_030,-,-,-,"dTDP-glucose 4,6-dehydratase",protein-coding,-,-,-,"dTDP-glucose 4,6-dehydratase",20210131,-
+203267,29578204,ribA,TWT_RS03885,TWT690|TWT_690,-,-,-,GTP cyclohydrolase II,protein-coding,-,-,-,GTP cyclohydrolase II,20210131,-
+203267,29578207,TWT_RS03355,TWT_RS03355,TWT600|TWT_600,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210131,-
+203267,29578208,TWT_RS00515,TWT_RS00515,TWT095|TWT_095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578209,TWT_RS01550,TWT_RS01550,TWT256|TWT_256,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210131,-
+203267,29578210,tatC,TWT_RS01885,TWT320|TWT_320,-,-,-,Sec-independent protein translocase TatC,protein-coding,-,-,-,Sec-independent protein translocase TatC,20210131,-
+203267,29578212,TWT_RS03900,TWT_RS03900,TWTRNA45|TWT_RNA45,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578213,TWT_RS01495,TWT_RS01495,TWT245|TWT_245,-,-,-,cytochrome c oxidase subunit 4,protein-coding,-,-,-,cytochrome c oxidase subunit 4,20210131,-
+203267,29578214,TWT_RS00640,TWT_RS00640,TWT110|TWT_110,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",20210131,-
+203267,29578215,TWT_RS00395,TWT_RS00395,TWT071|TWT_071,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210131,-
+203267,29578216,TWT_RS00645,TWT_RS00645,TWT111|TWT_111,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210131,-
+203267,29578218,ctaD,TWT_RS01490,TWT244|TWT_244,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20210131,-
+203267,29578219,efp,TWT_RS02135,TWT368|TWT_368,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210131,-
+203267,29578220,TWT_RS01310,TWT_RS01310,TWTRNA16|TWT_RNA16,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578221,dprA,TWT_RS02595,TWT453|TWT_453,-,-,-,DNA-protecting protein DprA,protein-coding,-,-,-,DNA-protecting protein DprA,20210131,-
+203267,29578222,cls,TWT_RS00360,TWT064|TWT_064,-,-,-,cardiolipin synthase,protein-coding,-,-,-,cardiolipin synthase,20210131,-
+203267,29578223,mraZ,TWT_RS01365,TWT219|TWT_219,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20210131,-
+203267,29578224,rplR,TWT_RS03055,TWT539|TWT_539,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210131,-
+203267,29578225,TWT_RS02205,TWT_RS02205,TWT382|TWT_382,-,-,-,competence protein ComE,protein-coding,-,-,-,competence protein ComE,20210131,-
+203267,29578226,rpsE,TWT_RS03050,TWT538|TWT_538,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210131,-
+203267,29578227,TWT_RS00220,TWT_RS00220,TWT041|TWT_041,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578228,TWT_RS01360,TWT_RS01360,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578229,rplE,TWT_RS03070,TWT542|TWT_542,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210131,-
+203267,29578230,TWT_RS01875,TWT_RS01875,TWT319|TWT_319,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20210131,-
+203267,29578231,rplN,TWT_RS03080,TWT544|TWT_544,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210131,-
+203267,29578232,TWT_RS03725,TWT_RS03725,TWT655|TWT_655,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20210131,-
+203267,29578233,TWT_RS03090,TWT_RS03090,TWT546|TWT_546,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210529,-
+203267,29578234,rplQ,TWT_RS03000,TWT527|TWT_527,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210131,-
+203267,29578235,TWT_RS02845,TWT_RS02845,TWT498|TWT_498,-,-,-,UDP-N-acetylmuramyl peptide synthase,protein-coding,-,-,-,UDP-N-acetylmuramyl peptide synthase,20210131,-
+203267,29578236,rsmH,TWT_RS01370,TWT220|TWT_220,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210131,-
+203267,29578237,TWT_RS03025,TWT_RS03025,TWT533|TWT_533,-,-,-,aminodeoxychorismate lyase,protein-coding,-,-,-,aminodeoxychorismate lyase,20210131,-
+203267,29578239,TWT_RS00065,TWT_RS00065,TWT011|TWT_011,-,-,-,aminodeoxychorismate/anthranilate synthase component II,protein-coding,-,-,-,aminodeoxychorismate/anthranilate synthase component II,20210131,-
+203267,29578240,rpsO,TWT_RS02440,TWT422,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210131,-
+203267,29578241,TWT_RS02130,TWT_RS02130,TWT367|TWT_367,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20210131,-
+203267,29578242,orn,TWT_RS02350,TWT406|TWT_406,-,-,-,oligoribonuclease,protein-coding,-,-,-,oligoribonuclease,20210131,-
+203267,29578243,fusA,TWT_RS03810,TWT675|TWT_675,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210131,-
+203267,29578244,TWT_RS00860,TWT_RS00860,TWTRNA08|TWT_RNA08,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578246,TWT_RS01935,TWT_RS01935,TWTRNA23|TWT_RNA23,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578247,carB,TWT_RS02120,TWT365|TWT_365,-,-,-,carbamoyl-phosphate synthase large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase large subunit,20210131,-
+203267,29578248,TWT_RS00095,TWT_RS00095,TWT017|TWT_017,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210131,-
+203267,29578249,TWT_RS02435,TWT_RS02435,TWT421|TWT_421,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210131,-
+203267,29578250,TWT_RS02580,TWT_RS02580,TWT450|TWT_450,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210131,-
+203267,29578251,TWT_RS00850,TWT_RS00850,-,-,-,-,WND domain-containing WiSP protein,protein-coding,-,-,-,WND domain-containing WiSP protein,20210131,-
+203267,29578252,TWT_RS03415,TWT_RS03415,TWT605|TWT_605,-,-,-,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,20210131,-
+203267,29578253,TWT_RS01130,TWT_RS01130,TWT194|TWT_194,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578254,TWT_RS02270,TWT_RS02270,TWT391|TWT_391,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20210131,-
+203267,29578255,TWT_RS03005,TWT_RS03005,TWT528|TWT_528,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210131,-
+203267,29578256,TWT_RS02850,TWT_RS02850,TWT499|TWT_499,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20210131,-
+203267,29578257,TWT_RS02540,TWT_RS02540,TWT442|TWT_442,-,-,-,transglycosylase SLT domain-containing protein,protein-coding,-,-,-,transglycosylase SLT domain-containing protein,20210131,-
+203267,29578258,TWT_RS02590,TWT_RS02590,TWT452|TWT_452,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20210131,-
+203267,29578259,TWT_RS02030,TWT_RS02030,TWT348|TWT_348,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20210131,-
+203267,29578260,TWT_RS02410,TWT_RS02410,TWT416|TWT_416,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210131,-
+203267,29578261,TWT_RS02275,TWT_RS02275,TWT392|TWT_392,-,-,-,dihydrofolate reductase family protein,protein-coding,-,-,-,dihydrofolate reductase family protein,20210131,-
+203267,29578262,ftsZ,TWT_RS02935,TWT515|TWT_515,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210131,-
+203267,29578263,TWT_RS01215,TWT_RS01215,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578264,TWT_RS03905,TWT_RS03905,TWT693|TWT_693,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210131,-
+203267,29578265,TWT_RS00290,TWT_RS00290,TWT054|TWT_054,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210131,-
+203267,29578266,TWT_RS02990,TWT_RS02990,TWT525|TWT_525,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20210131,-
+203267,29578267,gndA,TWT_RS02810,TWT492|TWT_492,-,-,-,NADP-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,NADP-dependent phosphogluconate dehydrogenase,20210131,-
+203267,29578268,TWT_RS00695,TWT_RS00695,TWT121|TWT_121,-,-,-,phospholipid carrier-dependent glycosyltransferase,protein-coding,-,-,-,phospholipid carrier-dependent glycosyltransferase,20210320,-
+203267,29578269,metE,TWT_RS00940,TWT162|TWT_162,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,protein-coding,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,20210131,-
+203267,29578270,TWT_RS01930,TWT_RS01930,TWT331|TWT_331,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20210131,-
+203267,29578271,TWT_RS01925,TWT_RS01925,TWT330|TWT_330,-,-,-,sugar ABC transporter ATP-binding protein,protein-coding,-,-,-,sugar ABC transporter ATP-binding protein,20210131,-
+203267,29578273,TWT_RS02745,TWT_RS02745,TWT481|TWT_481,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210131,-
+203267,29578274,TWT_RS02750,TWT_RS02750,TWT482|TWT_482,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578275,TWT_RS02585,TWT_RS02585,TWT451|TWT_451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578276,sucB,TWT_RS02870,TWT503|TWT_503,-,-,-,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",protein-coding,-,-,-,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",20210131,-
+203267,29578277,lpdA,TWT_RS02865,TWT502|TWT_502,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210131,-
+203267,29578279,tig,TWT_RS02755,TWT483|TWT_483,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210131,-
+203267,29578280,TWT_RS01900,TWT_RS01900,TWT325|TWT_325,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210131,-
+203267,29578281,TWT_RS00270,TWT_RS00270,TWT050|TWT_050,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,prephenate dehydrogenase,20210131,-
+203267,29578282,ispG,TWT_RS01070,TWT186|TWT_186|gcpE,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20210417,-
+203267,29578283,TWT_RS02550,TWT_RS02550,TWT444|TWT_444,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210131,-
+203267,29578284,atpD,TWT_RS02450,TWT424|TWT_424,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210131,-
+203267,29578285,TWT_RS01905,TWT_RS01905,TWT326|TWT_326,-,-,-,zinc-dependent alcohol dehydrogenase family protein,protein-coding,-,-,-,zinc-dependent alcohol dehydrogenase family protein,20210131,-
+203267,29578288,TWT_RS00975,TWT_RS00975,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578289,TWT_RS03410,TWT_RS03410,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578290,TWT_RS00625,TWT_RS00625,TWT108|TWT_108,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210131,-
+203267,29578291,TWT_RS04380,TWT_RS04380,TWT785|TWT_785,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210131,-
+203267,29578292,TWT_RS02840,TWT_RS02840,TWT497|TWT_497,-,-,-,cobyric acid synthase,protein-coding,-,-,-,cobyric acid synthase,20210131,-
+203267,29578293,TWT_RS02150,TWT_RS02150,TWT371|TWT_371,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20210131,-
+203267,29578295,TWT_RS03660,TWT_RS03660,TWT642|TWT_642,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20210131,-
+203267,29578296,TWT_RS02180,TWT_RS02180,TWT377|TWT_377,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578297,TWT_RS03485,TWT_RS03485,TWT614|TWT_614,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210131,-
+203267,29578298,tsaB,TWT_RS03315,TWT592|TWT_592,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210131,-
+203267,29578299,TWT_RS03685,TWT_RS03685,TWT647|TWT_647,-,-,-,L-ribulose-5-phosphate 4-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 4-epimerase,20210605,-
+203267,29578300,aceE,TWT_RS01545,TWT255|TWT_255,-,-,-,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",protein-coding,-,-,-,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",20210131,-
+203267,29578301,tilS,TWT_RS03305,TWT590|TWT_590,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210131,-
+203267,29578302,alaS,TWT_RS02175,TWT376|TWT_376,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210131,-
+203267,29578303,TWT_RS00295,TWT_RS00295,TWT055|TWT_055,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210131,-
+203267,29578304,TWT_RS02890,TWT_RS02890,TWT507|TWT_507,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210131,-
+203267,29578305,TWT_RS01805,TWT_RS01805,TWT306|TWT_306,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578306,TWT_RS02045,TWT_RS02045,TWT351|TWT_351,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210131,-
+203267,29578307,TWT_RS02970,TWT_RS02970,TWT521|TWT_521,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578308,TWT_RS02375,TWT_RS02375,TWT409|TWT_409,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20210131,-
+203267,29578309,TWT_RS02725,TWT_RS02725,TWT477|TWT_477,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210131,-
+203267,29578310,TWT_RS00705,TWT_RS00705,TWT123|TWT_123,-,-,-,WhiB family transcriptional regulator,protein-coding,-,-,-,WhiB family transcriptional regulator,20210131,-
+203267,29578311,TWT_RS03875,TWT_RS03875,TWT688|TWT_688,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20210131,-
+203267,29578312,TWT_RS03420,TWT_RS03420,TWTRNA39|TWT_RNA39,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578313,TWT_RS03910,TWT_RS03910,TWT694|TWT_694,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20210131,-
+203267,29578314,TWT_RS01305,TWT_RS01305,TWT210|TWT_210,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20210131,-
+203267,29578315,TWT_RS01525,TWT_RS01525,TWT251|TWT_251,-,-,-,beta-ketoacyl-[acyl-carrier-protein] synthase family protein,protein-coding,-,-,-,beta-ketoacyl-[acyl-carrier-protein] synthase family protein,20210131,-
+203267,29578316,TWT_RS02345,TWT_RS02345,TWTRNA30|TWT_RNA30,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578317,TWT_RS03310,TWT_RS03310,TWT591|TWT_591,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210131,-
+203267,29578318,whiA,TWT_RS01770,TWT298|TWT_298,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20210131,-
+203267,29578319,TWT_RS02460,TWT_RS02460,TWT426|TWT_426,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20210131,-
+203267,29578320,miaB,TWT_RS03465,TWT610|TWT_610,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20210131,-
+203267,29578322,TWT_RS02680,TWT_RS02680,TWT469|TWT_469,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20210131,-
+203267,29578323,TWT_RS01015,TWT_RS01015,TWT174|TWT_174,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578324,glnA,TWT_RS01580,TWT261|TWT_261,-,-,-,type I glutamate--ammonia ligase,protein-coding,-,-,-,type I glutamate--ammonia ligase,20210131,-
+203267,29578325,TWT_RS01475,TWT_RS01475,TWT241|TWT_241,-,-,-,dipeptidase,protein-coding,-,-,-,dipeptidase,20210131,-
+203267,29578327,rplP,TWT_RS03095,TWT547|TWT_547,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210131,-
+203267,29578328,TWT_RS03655,TWT_RS03655,TWT641|TWT_641,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578329,TWT_RS01195,TWT_RS01195,TWT200|TWT_200,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578330,smpB,TWT_RS01200,TWT201|TWT_201,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210131,-
+203267,29578331,TWT_RS01350,TWT_RS01350,TWT217|TWT_217,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210131,-
+203267,29578332,TWT_RS01355,TWT_RS01355,TWT218|TWT_218,-,-,-,DUF3040 domain-containing protein,protein-coding,-,-,-,DUF3040 domain-containing protein,20210131,-
+203267,29578334,rrf,TWT_RS00990,TWTRNA13|TWT_RNA13,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210131,-
+203267,29578335,TWT_RS01025,TWT_RS01025,TWT176|TWT_176,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578336,TWT_RS03220,TWT_RS03220,TWT572|TWT_572,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578337,rpsI,TWT_RS00835,TWT145|TWT_145,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210131,-
+203267,29578338,rpsA,TWT_RS01745,TWT293|TWT_293,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210417,-
+203267,29578339,TWT_RS00225,TWT_RS00225,TWT042|TWT_042,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578340,TWT_RS02515,TWT_RS02515,TWT437|TWT_437,-,-,-,homoserine kinase,protein-coding,-,-,-,homoserine kinase,20210131,-
+203267,29578341,gatA,TWT_RS02390,TWT412|TWT_412,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210131,-
+203267,29578342,TWT_RS03665,TWT_RS03665,TWT643|TWT_643,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210131,-
+203267,29578343,TWT_RS00105,TWT_RS00105,TWT019|TWT_019,-,-,-,NAD(P)H-quinone dehydrogenase,protein-coding,-,-,-,NAD(P)H-quinone dehydrogenase,20210131,-
+203267,29578344,TWT_RS02365,TWT_RS02365,TWT407|TWT_407,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210131,-
+203267,29578345,TWT_RS03190,TWT_RS03190,TWT566|TWT_566,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210131,-
+203267,29578346,TWT_RS01470,TWT_RS01470,TWT240|TWT_240,-,-,-,DUF3043 domain-containing protein,protein-coding,-,-,-,DUF3043 domain-containing protein,20210131,-
+203267,29578347,TWT_RS01510,TWT_RS01510,TWT248|TWT_248,-,-,-,Rieske 2Fe-2S domain-containing protein,protein-coding,-,-,-,Rieske 2Fe-2S domain-containing protein,20210131,-
+203267,29578348,TWT_RS00140,TWT_RS00140,TWT025|TWT_025,-,-,-,GtrA family protein,protein-coding,-,-,-,GtrA family protein,20210313,-
+203267,29578349,rplM,TWT_RS00830,TWT144|TWT_144,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210131,-
+203267,29578350,TWT_RS04255,TWT_RS04255,TWT761|TWT_761,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210131,-
+203267,29578351,TWT_RS01460,TWT_RS01460,TWT238|TWT_238,-,-,-,quinone-dependent dihydroorotate dehydrogenase,protein-coding,-,-,-,quinone-dependent dihydroorotate dehydrogenase,20210131,-
+203267,29578352,TWT_RS01465,TWT_RS01465,TWT239|TWT_239,-,-,-,ribonuclease H,protein-coding,-,-,-,ribonuclease H,20210131,-
+203267,29578353,TWT_RS01565,TWT_RS01565,TWT258|TWT_258,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578354,rnpB,TWT_RS04545,TWTRNA18|TWT_RNA18,-,-,-,ncRNA,ncRNA,-,-,-,-,20210131,-
+203267,29578355,TWT_RS00485,TWT_RS00485,TWT089|TWT_089,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20210131,-
+203267,29578356,mnmA,TWT_RS02405,TWT415|TWT_415,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210131,-
+203267,29578357,TWT_RS03925,TWT_RS03925,TWT697|TWT_697,-,-,-,flp pilus-assembly TadE/G-like family protein,protein-coding,-,-,-,flp pilus-assembly TadE/G-like family protein,20210131,-
+203267,29578358,TWT_RS03340,TWT_RS03340,TWT597|TWT_597,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20210131,-
+203267,29578359,TWT_RS02430,TWT_RS02430,TWT420|TWT_420,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20210131,-
+203267,29578360,TWT_RS01800,TWT_RS01800,TWT304|TWT_304,-,-,-,RNA polymerase-binding protein RbpA,protein-coding,-,-,-,RNA polymerase-binding protein RbpA,20210131,-
+203267,29578362,groES,TWT_RS00410,TWT074|TWT_074,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210131,-
+203267,29578363,gyrB,TWT_RS00025,TWT005|TWT_005,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210131,-
+203267,29578364,TWT_RS00470,TWT_RS00470,TWT086|TWT_086,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210131,-
+203267,29578365,TWT_RS00465,TWT_RS00465,TWT085|TWT_085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578366,aroA,TWT_RS03195,TWT567|TWT_567,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20210131,-
+203267,29578367,infA,TWT_RS03020,TWT532|TWT_532,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210131,-
+203267,29578368,rpsM,TWT_RS03015,TWT530|TWT_530,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210131,-
+203267,29578369,TWT_RS04080,TWT_RS04080,TWT728|TWT_728,-,-,-,LCP family protein,protein-coding,-,-,-,LCP family protein,20210131,-
+203267,29578371,TWT_RS00330,TWT_RS00330,TWTRNA04|TWT_RNA04,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578372,TWT_RS00320,TWT_RS00320,TWT060|TWT_060,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20210131,-
+203267,29578373,hemB,TWT_RS04100,TWT730|TWT_730,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20210131,-
+203267,29578375,rplX,TWT_RS03075,TWT543|TWT_543,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210131,-
+203267,29578376,TWT_RS03970,TWT_RS03970,TWT707|TWT_707,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20210131,-
+203267,29578377,TWT_RS04035,TWT_RS04035,TWT720|TWT_720,-,-,-,MaoC family dehydratase,protein-coding,-,-,-,MaoC family dehydratase,20210131,-
+203267,29578378,TWT_RS04040,TWT_RS04040,TWT721|TWT_721,-,-,-,MaoC family dehydratase N-terminal domain-containing protein,protein-coding,-,-,-,MaoC family dehydratase N-terminal domain-containing protein,20210131,-
+203267,29578379,TWT_RS04230,TWT_RS04230,TWT756|TWT_756,-,-,-,TlpA family protein disulfide reductase,protein-coding,-,-,-,TlpA family protein disulfide reductase,20210131,-
+203267,29578380,TWT_RS04235,TWT_RS04235,TWT757|TWT_757,-,-,-,cytochrome c biogenesis protein CcdA,protein-coding,-,-,-,cytochrome c biogenesis protein CcdA,20210131,-
+203267,29578381,TWT_RS04190,TWT_RS04190,TWT748|TWT_748,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210131,-
+203267,29578382,purF,TWT_RS04045,TWT723|TWT_723,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20210131,-
+203267,29578383,TWT_RS04195,TWT_RS04195,TWT749|TWT_749,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210131,-
+203267,29578384,TWT_RS03965,TWT_RS03965,TWTRNA46|TWT_RNA46,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578385,TWT_RS01910,TWT_RS01910,TWT327|TWT_327,-,-,-,peptidase S11,protein-coding,-,-,-,peptidase S11,20210131,-
+203267,29578386,TWT_RS03960,TWT_RS03960,TWT706|TWT_706,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210131,-
+203267,29578387,TWT_RS03250,TWT_RS03250,TWT579|TWT_579,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578388,TWT_RS02555,TWT_RS02555,TWT445|TWT_445,-,-,-,CDP-archaeol synthase,protein-coding,-,-,-,CDP-archaeol synthase,20210131,-
+203267,29578389,TWT_RS01645,TWT_RS01645,TWT275|TWT_275,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20210131,-
+203267,29578390,purD,TWT_RS04060,TWT725|TWT_725,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20210131,-
+203267,29578391,TWT_RS00930,TWT_RS00930,TWT160|TWT_160,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20210131,-
+203267,29578392,serS,TWT_RS04065,TWT726|TWT_726,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210131,-
+203267,29578393,TWT_RS04240,TWT_RS04240,TWT758|TWT_758,-,-,-,cytochrome c biogenesis protein ResB,protein-coding,-,-,-,cytochrome c biogenesis protein ResB,20210131,-
+203267,29578394,ccsB,TWT_RS04245,TWT759|TWT_759,-,-,-,c-type cytochrome biogenesis protein CcsB,protein-coding,-,-,-,c-type cytochrome biogenesis protein CcsB,20210131,-
+203267,29578397,menD,TWT_RS00380,TWT068|TWT_068,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,protein-coding,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,20210131,-
+203267,29578398,TWT_RS00370,TWT_RS00370,TWT066|TWT_066,-,-,-,PLDc N-terminal domain-containing protein,protein-coding,-,-,-,PLDc N-terminal domain-containing protein,20210320,-
+203267,29578399,TWT_RS00375,TWT_RS00375,TWT067|TWT_067,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578400,TWT_RS00100,TWT_RS00100,TWT018|TWT_018,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20210417,-
+203267,29578401,TWT_RS00490,TWT_RS00490,TWT090|TWT_090,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210131,-
+203267,29578402,TWT_RS00495,TWT_RS00495,TWT091|TWT_091,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210131,-
+203267,29578403,TWT_RS03320,TWT_RS03320,TWT593|TWT_593,-,-,-,bifunctional holo-ACP synthase/tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,bifunctional holo-ACP synthase/tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210131,-
+203267,29578404,TWT_RS00920,TWT_RS00920,TWT158|TWT_158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578405,TWT_RS02855,TWT_RS02855,TWT500|TWT_500,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210605,-
+203267,29578406,TWT_RS02160,TWT_RS02160,TWT373|TWT_373,-,-,-,shikimate dehydrogenase,protein-coding,-,-,-,shikimate dehydrogenase,20210131,-
+203267,29578407,TWT_RS01020,TWT_RS01020,TWT175|TWT_175,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210131,-
+203267,29578408,aroC,TWT_RS02155,TWT372|TWT_372,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20210131,-
+203267,29578409,infB,TWT_RS00915,TWT157|TWT_157,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210131,-
+203267,29578410,TWT_RS02200,TWT_RS02200,TWT381|TWT_381,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20210131,-
+203267,29578411,rpsC,TWT_RS03100,TWT548|TWT_548,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210131,-
+203267,29578412,TWT_RS00385,TWT_RS00385,TWT069|TWT_069,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578413,TWT_RS00280,TWT_RS00280,TWT052|TWT_052,-,-,-,chorismate-binding protein,protein-coding,-,-,-,chorismate-binding protein,20210131,-
+203267,29578414,TWT_RS04270,TWT_RS04270,TWT764|TWT_764,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578415,TWT_RS00610,TWT_RS00610,TWT105|TWT_105,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210131,-
+203267,29578416,pheS,TWT_RS00960,TWT167|TWT_167,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210131,-
+203267,29578417,TWT_RS00710,TWT_RS00710,TWT124|TWT_124,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578418,TWT_RS02605,TWT_RS02605,TWT455|TWT_455,-,-,-,YraN family protein,protein-coding,-,-,-,YraN family protein,20210131,-
+203267,29578419,TWT_RS00605,TWT_RS00605,TWT104|TWT_104,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578420,TWT_RS04085,TWT_RS04085,TWTRNA49|TWT_RNA49,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578421,prmC,TWT_RS02500,TWT434|TWT_434,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210131,-
+203267,29578423,TWT_RS01535,TWT_RS01535,TWT253|TWT_253,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20210131,-
+203267,29578424,gyrA,TWT_RS00030,TWT006|TWT_006,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20210131,-
+203267,29578425,yidC,TWT_RS04485,TWT805|TWT_805,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210131,-
+203267,29578426,rplV,TWT_RS03105,TWT549|TWT_549,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210131,-
+203267,29578427,TWT_RS03235,TWT_RS03235,TWT575|TWT_575,-,-,-,ferredoxin family protein,protein-coding,-,-,-,ferredoxin family protein,20210131,-
+203267,29578428,TWT_RS01335,TWT_RS01335,TWT215|TWT_215,-,-,-,3-deoxy-7-phosphoheptulonate synthase class II,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase class II,20210131,-
+203267,29578429,TWT_RS02665,TWT_RS02665,TWT467|TWT_467,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578430,hemE,TWT_RS04125,TWT735|TWT_735,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20210131,-
+203267,29578431,TWT_RS00935,TWT_RS00935,TWT161|TWT_161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578432,TWT_RS03180,TWT_RS03180,TWT564|TWT_564,-,-,-,class E sortase,protein-coding,-,-,-,class E sortase,20210131,-
+203267,29578433,TWT_RS03705,TWT_RS03705,TWT651|TWT_651,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210131,-
+203267,29578434,der,TWT_RS00275,TWT051|TWT_051,-,-,-,bifunctional cytidylate kinase/GTPase Der,protein-coding,-,-,-,bifunctional cytidylate kinase/GTPase Der,20210131,-
+203267,29578435,ribB,TWT_RS03880,TWT689|TWT_689,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20210131,-
+203267,29578437,TWT_RS01625,TWT_RS01625,TWT270|TWT_270,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20210131,-
+203267,29578438,TWT_RS01530,TWT_RS01530,TWT252|TWT_252,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210131,-
+203267,29578440,rpmB,TWT_RS00660,TWT113|TWT_113,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210131,-
+203267,29578441,TWT_RS01775,TWT_RS01775,TWT299|TWT_299,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20210131,-
+203267,29578442,TWT_RS01710,TWT_RS01710,TWTRNA19|TWT_RNA19,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578443,TWT_RS02860,TWT_RS02860,TWT501|TWT_501,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20210131,-
+203267,29578444,TWT_RS01250,TWT_RS01250,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578445,TWT_RS01145,TWT_RS01145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578446,TWT_RS00715,TWT_RS00715,TWT125|TWT_125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578447,lipA,TWT_RS02650,TWT464|TWT_464,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20210417,-
+203267,29578448,TWT_RS02290,TWT_RS02290,TWT395|TWT_395,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20210131,-
+203267,29578449,TWT_RS03940,TWT_RS03940,TWT700|TWT_700,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210131,-
+203267,29578450,TWT_RS01285,TWT_RS01285,TWT206|TWT_206,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,acetolactate synthase small subunit,20210131,-
+203267,29578451,TWT_RS04460,TWT_RS04460,TWT800|TWT_800,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210131,-
+203267,29578452,TWT_RS00675,TWT_RS00675,TWT116|TWT_116,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210131,-
+203267,29578453,TWT_RS02395,TWT_RS02395,TWT413|TWT_413,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,20210131,-
+203267,29578454,TWT_RS04145,TWT_RS04145,TWT739|TWT_739,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578455,TWT_RS04540,TWT_RS04540,TWT740|TWT_740,-,-,-,copper resistance protein CopC,protein-coding,-,-,-,copper resistance protein CopC,20210131,-
+203267,29578456,TWT_RS03935,TWT_RS03935,TWT699|TWT_699,-,-,-,DUF4244 domain-containing protein,protein-coding,-,-,-,DUF4244 domain-containing protein,20210131,-
+203267,29578457,rpsK,TWT_RS03010,TWT529|TWT_529,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210131,-
+203267,29578459,TWT_RS00190,TWT_RS00190,TWT035|TWT_035,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578460,TWT_RS00260,TWT_RS00260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578461,TWT_RS02490,TWT_RS02490,TWT432|TWT_432,-,-,-,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase,protein-coding,-,-,-,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase,20210131,-
+203267,29578462,TWT_RS03855,TWT_RS03855,TWT684|TWT_684,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210131,-
+203267,29578463,TWT_RS03210,TWT_RS03210,TWT570|TWT_570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578465,TWT_RS01105,TWT_RS01105,TWT189|TWT_189,-,-,-,CpaF family protein,protein-coding,-,-,-,CpaF family protein,20210131,-
+203267,29578466,TWT_RS01030,TWT_RS01030,TWT177|TWT_177,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210212,-
+203267,29578467,TWT_RS00680,TWT_RS00680,TWT117|TWT_117,-,-,-,cytochrome c oxidase assembly protein,protein-coding,-,-,-,cytochrome c oxidase assembly protein,20210131,-
+203267,29578468,pgsA,TWT_RS03475,TWT612|TWT_612,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210131,-
+203267,29578469,TWT_RS03785,TWT_RS03785,TWT667|TWT_667,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20210131,-
+203267,29578470,TWT_RS01295,TWT_RS01295,TWT208|TWT_208,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,branched-chain amino acid aminotransferase,20210131,-
+203267,29578471,TWT_RS01810,TWT_RS01810,TWT307|TWT_307,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210131,-
+203267,29578472,topA,TWT_RS03920,TWT696|TWT_696,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210131,-
+203267,29578473,TWT_RS02355,TWT_RS02355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578474,era,TWT_RS01685,TWT284|TWT_284,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210131,-
+203267,29578475,TWT_RS01375,TWT_RS01375,TWT221|TWT_221,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578476,TWT_RS02930,TWT_RS02930,TWT514|TWT_514,-,-,-,cell division protein SepF,protein-coding,-,-,-,cell division protein SepF,20210131,-
+203267,29578477,TWT_RS02920,TWT_RS02920,TWT512|TWT_512,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210131,-
+203267,29578478,TWT_RS02925,TWT_RS02925,TWT513|TWT_513,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210131,-
+203267,29578479,TWT_RS03975,TWT_RS03975,TWT708|TWT_708,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210131,-
+203267,29578480,map,TWT_RS01570,TWT259|TWT_259,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210131,-
+203267,29578481,TWT_RS03155,TWT_RS03155,TWT559|TWT_559,-,-,-,branched-chain amino acid ABC transporter permease,protein-coding,-,-,-,branched-chain amino acid ABC transporter permease,20210131,-
+203267,29578482,TWT_RS04450,TWT_RS04450,TWT798|TWT_798,-,-,-,PIG-L family deacetylase,protein-coding,-,-,-,PIG-L family deacetylase,20210131,-
+203267,29578483,TWT_RS02510,TWT_RS02510,TWT436|TWT_436,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210131,-
+203267,29578484,TWT_RS04115,TWT_RS04115,TWT733|TWT_733,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20210131,-
+203267,29578485,TWT_RS04105,TWT_RS04105,TWT731|TWT_731,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20210131,-
+203267,29578486,hemC,TWT_RS04110,TWT732|TWT_732,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20210131,-
+203267,29578487,TWT_RS04275,TWT_RS04275,TWT765|TWT_765,-,-,-,polyprenol monophosphomannose synthase,protein-coding,-,-,-,polyprenol monophosphomannose synthase,20210131,-
+203267,29578488,TWT_RS04280,TWT_RS04280,TWT766|TWT_766,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578489,TWT_RS00540,TWT_RS00540,TWT097|TWT_097,-,-,-,tyrosine recombinase,protein-coding,-,-,-,tyrosine recombinase,20210131,-
+203267,29578490,TWT_RS00545,TWT_RS00545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578491,TWT_RS00650,TWT_RS00650,TWTRNA07|TWT_RNA07,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578492,ribH,TWT_RS03890,TWT691|TWT_691,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20210131,-
+203267,29578493,TWT_RS00655,TWT_RS00655,TWT112|TWT_112,-,-,-,metal-dependent transcriptional regulator,protein-coding,-,-,-,metal-dependent transcriptional regulator,20210131,-
+203267,29578494,TWT_RS01675,TWT_RS01675,TWT282|TWT_282,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20210131,-
+203267,29578495,TWT_RS00300,TWT_RS00300,TWT056|TWT_056,-,-,-,iron-siderophore ABC transporter substrate-binding protein,protein-coding,-,-,-,iron-siderophore ABC transporter substrate-binding protein,20210131,-
+203267,29578496,TWT_RS00900,TWT_RS00900,TWT154|TWT_154,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210131,-
+203267,29578497,TWT_RS00205,TWT_RS00205,TWT038|TWT_038,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210131,-
+203267,29578498,rplS,TWT_RS02615,TWT457|TWT_457,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210131,-
+203267,29578499,TWT_RS02545,TWT_RS02545,TWT443|TWT_443,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210131,-
+203267,29578500,TWT_RS01915,TWT_RS01915,TWT328|TWT_328,-,-,-,sugar-binding protein,protein-coding,-,-,-,sugar-binding protein,20210131,-
+203267,29578501,TWT_RS01035,TWT_RS01035,TWT178|TWT_178,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578503,guaB,TWT_RS00415,TWT075|TWT_075,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20210131,-
+203267,29578504,TWT_RS01845,TWT_RS01845,TWT314|TWT_314,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210131,-
+203267,29578505,TWT_RS01705,TWT_RS01705,TWT288|TWT_288,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210131,-
+203267,29578506,TWT_RS03590,TWT_RS03590,TWT629|TWT_629,-,-,-,mycothione reductase,protein-coding,-,-,-,mycothione reductase,20210131,-
+203267,29578507,TWT_RS01950,TWT_RS01950,TWT333|TWT_333,-,-,-,metal-sulfur cluster assembly factor,protein-coding,-,-,-,metal-sulfur cluster assembly factor,20210131,-
+203267,29578508,TWT_RS01835,TWT_RS01835,TWT312|TWT_312,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20210131,-
+203267,29578510,TWT_RS01945,TWT_RS01945,TWT332|TWT_332,-,-,-,SURF1 family protein,protein-coding,-,-,-,SURF1 family protein,20210131,-
+203267,29578511,TWT_RS00070,TWT_RS00070,TWT012|TWT_012,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20210131,-
+203267,29578512,TWT_RS02085,TWT_RS02085,TWT358|TWT_358,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210131,-
+203267,29578513,zwf,TWT_RS01995,TWT343|TWT_343,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20210131,-
+203267,29578514,TWT_RS00620,TWT_RS00620,TWT107|TWT_107,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210131,-
+203267,29578515,TWT_RS00525,TWT_RS00525,TWTRNA06|TWT_RNA06,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578516,TWT_RS01990,TWT_RS01990,TWT342|TWT_342,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210131,-
+203267,29578517,TWT_RS00075,TWT_RS00075,TWT013|TWT_013,-,-,-,M48 family metalloprotease,protein-coding,-,-,-,M48 family metalloprotease,20210131,-
+203267,29578518,gap,TWT_RS01780,TWT300|TWT_300,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210131,-
+203267,29578519,TWT_RS03500,TWT_RS03500,TWT617|TWT_617,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578520,TWT_RS03505,TWT_RS03505,TWT618|TWT_618,-,-,-,WhiB family transcriptional regulator,protein-coding,-,-,-,WhiB family transcriptional regulator,20210131,-
+203267,29578521,TWT_RS03595,TWT_RS03595,TWT630|TWT_630,-,-,-,pyruvate carboxylase,protein-coding,-,-,-,pyruvate carboxylase,20210131,-
+203267,29578522,TWT_RS03600,TWT_RS03600,TWT631|TWT_631,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210131,-
+203267,29578523,TWT_RS01420,TWT_RS01420,TWT230|TWT_230,-,-,-,FtsQ-type POTRA domain-containing protein,protein-coding,-,-,-,FtsQ-type POTRA domain-containing protein,20210131,-
+203267,29578524,TWT_RS03290,TWT_RS03290,TWT587|TWT_587,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,GTP cyclohydrolase I,20210131,-
+203267,29578525,TWT_RS01830,TWT_RS01830,TWT311|TWT_311,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578526,TWT_RS01585,TWT_RS01585,TWT262|TWT_262,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210131,-
+203267,29578527,dnaB,TWT_RS04140,TWT738|TWT_738,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210131,-
+203267,29578528,murJ,TWT_RS04455,TWT799|TWT_799,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210131,-
+203267,29578529,TWT_RS03745,TWT_RS03745,TWT660|TWT_660,-,-,-,NUDIX hydrolase,protein-coding,-,-,-,NUDIX hydrolase,20210131,-
+203267,29578530,TWT_RS02720,TWT_RS02720,TWT476|TWT_476,-,-,-,folylpolyglutamate synthase,protein-coding,-,-,-,folylpolyglutamate synthase,20210131,-
+203267,29578531,TWT_RS04130,TWT_RS04130,TWT736|TWT_736,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20210131,-
+203267,29578532,atpB,TWT_RS02480,TWT430|TWT_430,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20210131,-
+203267,29578533,TWT_RS04135,TWT_RS04135,TWT737|TWT_737,-,-,-,o-succinylbenzoate synthase,protein-coding,-,-,-,o-succinylbenzoate synthase,20210212,-
+203267,29578534,TWT_RS04300,TWT_RS04300,TWT770|TWT_770,-,-,-,HAD hydrolase-like protein,protein-coding,-,-,-,HAD hydrolase-like protein,20210131,-
+203267,29578535,TWT_RS02140,TWT_RS02140,TWT369|TWT_369,-,-,-,3-dehydroquinate dehydratase,protein-coding,-,-,-,3-dehydroquinate dehydratase,20210131,-
+203267,29578536,TWT_RS04305,TWT_RS04305,TWTRNA51|TWT_RNA51,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578537,TWT_RS02370,TWT_RS02370,TWT408|TWT_408,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210131,-
+203267,29578538,TWT_RS04165,TWT_RS04165,TWT743|TWT_743,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20210131,-
+203267,29578541,TWT_RS00020,TWT_RS00020,TWT004|TWT_004,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210131,-
+203267,29578542,TWT_RS02330,TWT_RS02330,TWT403|TWT_403,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210131,-
+203267,29578543,TWT_RS03835,TWT_RS03835,TWT680|TWT_680,-,-,-,GreA/GreB family elongation factor,protein-coding,-,-,-,GreA/GreB family elongation factor,20210131,-
+203267,29578544,TWT_RS00420,TWT_RS00420,TWT076|TWT_076,-,-,-,GuaB3 family IMP dehydrogenase-related protein,protein-coding,-,-,-,GuaB3 family IMP dehydrogenase-related protein,20210131,-
+203267,29578545,TWT_RS02300,TWT_RS02300,TWT397|TWT_397,-,-,-,ribose-5-phosphate isomerase,protein-coding,-,-,-,ribose-5-phosphate isomerase,20210131,-
+203267,29578546,pepN,TWT_RS02310,TWT399|TWT_399,-,-,-,aminopeptidase N,protein-coding,-,-,-,aminopeptidase N,20210131,-
+203267,29578547,TWT_RS04075,TWT_RS04075,TWTRNA48|TWT_RNA48,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578548,TWT_RS02280,TWT_RS02280,TWT393|TWT_393,-,-,-,DUF3000 domain-containing protein,protein-coding,-,-,-,DUF3000 domain-containing protein,20210131,-
+203267,29578549,TWT_RS02305,TWT_RS02305,TWT398|TWT_398,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578550,TWT_RS01515,TWT_RS01515,TWT249|TWT_249,-,-,-,ubiquinol-cytochrome c reductase cytochrome b subunit,protein-coding,-,-,-,ubiquinol-cytochrome c reductase cytochrome b subunit,20210131,-
+203267,29578551,ruvA,TWT_RS01615,TWT268|TWT_268,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210212,-
+203267,29578552,TWT_RS03335,TWT_RS03335,TWT596|TWT_596,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578553,ybeY,TWT_RS01680,TWT283|TWT_283,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210131,-
+203267,29578554,TWT_RS03425,TWT_RS03425,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578555,TWT_RS02445,TWT_RS02445,TWT423|TWT_423,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578556,TWT_RS03545,TWT_RS03545,TWTRNA41|TWT_RNA41,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578559,TWT_RS03650,TWT_RS03650,TWT640|TWT_640,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210131,-
+203267,29578560,TWT_RS02245,TWT_RS02245,TWTRNA26|TWT_RNA26,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578561,TWT_RS04260,TWT_RS04260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+203267,29578562,rplC,TWT_RS03130,TWT554|TWT_554,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210131,-
+203267,29578563,rplW,TWT_RS03120,TWT552|TWT_552,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210131,-
+203267,29578564,rplD,TWT_RS03125,TWT553|TWT_553,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210131,-
+203267,29578565,TWT_RS00755,TWT_RS00755,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578566,TWT_RS02080,TWT_RS02080,TWT357|TWT_357,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210131,-
+203267,29578567,TWT_RS02285,TWT_RS02285,TWT394|TWT_394,-,-,-,HRDC domain-containing protein,protein-coding,-,-,-,HRDC domain-containing protein,20210131,-
+203267,29578569,TWT_RS00350,TWT_RS00350,TWT063|TWT_063,-,-,-,4-phosphopantoate--beta-alanine ligase,protein-coding,-,-,-,4-phosphopantoate--beta-alanine ligase,20210131,-
+203267,29578570,TWT_RS00340,TWT_RS00340,TWTRNA05|TWT_RNA05,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578571,TWT_RS00345,TWT_RS00345,TWT062|TWT_062,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210131,-
+203267,29578572,TWT_RS00425,TWT_RS00425,TWT077|TWT_077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578573,TWT_RS00430,TWT_RS00430,TWT078|TWT_078,-,-,-,DUF3817 domain-containing protein,protein-coding,-,-,-,DUF3817 domain-containing protein,20210131,-
+203267,29578574,rplJ,TWT_RS03995,TWT712|TWT_712,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210131,-
+203267,29578575,TWT_RS04210,TWT_RS04210,TWT752|TWT_752,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20210131,-
+203267,29578576,TWT_RS01960,TWT_RS01960,TWT335|TWT_335,-,-,-,non-heme iron oxygenase ferredoxin subunit,protein-coding,-,-,-,non-heme iron oxygenase ferredoxin subunit,20210131,-
+203267,29578577,rplL,TWT_RS03990,TWT711|TWT_711,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210605,-
+203267,29578578,TWT_RS03930,TWT_RS03930,TWT698|TWT_698,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578579,gcvH,TWT_RS03635,TWT637|TWT_637,-,-,-,glycine cleavage system protein GcvH,protein-coding,-,-,-,glycine cleavage system protein GcvH,20210131,-
+203267,29578580,TWT_RS00195,TWT_RS00195,TWT036|TWT_036,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210131,-
+203267,29578581,gcvT,TWT_RS03640,TWT638|TWT_638,-,-,-,glycine cleavage system aminomethyltransferase GcvT,protein-coding,-,-,-,glycine cleavage system aminomethyltransferase GcvT,20210131,-
+203267,29578582,TWT_RS03765,TWT_RS03765,TWT663|TWT_663,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578583,TWT_RS03770,TWT_RS03770,TWT664|TWT_664,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210131,-
+203267,29578585,ychF,TWT_RS03645,TWT639|TWT_639,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210131,-
+203267,29578586,TWT_RS00155,TWT_RS00155,TWT028|TWT_028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578587,obgE,TWT_RS02690,TWT471|TWT_471,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210131,-
+203267,29578588,TWT_RS03690,TWT_RS03690,TWT648|TWT_648,-,-,-,L-ribulose-5-phosphate 3-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 3-epimerase,20210131,-
+203267,29578589,rpmD,TWT_RS03045,TWT537|TWT_537,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20210131,-
+203267,29578590,rplO,TWT_RS03040,TWT536|TWT_536,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210131,-
+203267,29578591,panB,TWT_RS01575,TWT260|TWT_260,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,protein-coding,-,-,-,3-methyl-2-oxobutanoate hydroxymethyltransferase,20210131,-
+203267,29578592,TWT_RS03255,TWT_RS03255,TWT580|TWT_580,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210131,-
+203267,29578593,ribF,TWT_RS03260,TWT581|TWT_581,-,-,-,riboflavin biosynthesis protein RibF,protein-coding,-,-,-,riboflavin biosynthesis protein RibF,20210131,-
+203267,29578594,murA,TWT_RS02895,TWT508|TWT_508,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210131,-
+203267,29578595,TWT_RS02900,TWT_RS02900,TWT509|TWT_509,-,-,-,TerC/Alx family metal homeostasis membrane protein,protein-coding,-,-,-,TerC/Alx family metal homeostasis membrane protein,20210131,-
+203267,29578597,TWT_RS04520,TWT_RS04520,TWT168|TWT_168,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210131,-
+203267,29578598,TWT_RS03265,TWT_RS03265,TWT582|TWT_582,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210131,-
+203267,29578599,TWT_RS03360,TWT_RS03360,TWT601|TWT_601,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578600,pgl,TWT_RS01815,TWT308|TWT_308,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210131,-
+203267,29578601,TWT_RS02325,TWT_RS02325,TWT402|TWT_402,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578602,TWT_RS02315,TWT_RS02315,TWT400|TWT_400,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,acyl-CoA thioesterase,20210131,-
+203267,29578603,ettA,TWT_RS02320,TWT401|TWT_401,-,-,-,energy-dependent translational throttle protein EttA,protein-coding,-,-,-,energy-dependent translational throttle protein EttA,20210131,-
+203267,29578604,TWT_RS02465,TWT_RS02465,TWT427|TWT_427,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20210131,-
+203267,29578605,TWT_RS02470,TWT_RS02470,TWT428|TWT_428,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20210131,-
+203267,29578606,TWT_RS03575,TWT_RS03575,TWTRNA43|TWT_RNA43,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578607,TWT_RS00795,TWT_RS00795,TWT142|TWT_142,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210131,-
+203267,29578608,TWT_RS00790,TWT_RS00790,TWT141|TWT_141,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210131,-
+203267,29578609,TWT_RS03030,TWT_RS03030,TWT534|TWT_534,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20210131,-
+203267,29578610,rph,TWT_RS03530,TWT622|TWT_622,-,-,-,ribonuclease PH,protein-coding,-,-,-,ribonuclease PH,20210131,-
+203267,29578611,rdgB,TWT_RS03525,TWT621|TWT_621,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20210131,-
+203267,29578612,rsmD,TWT_RS03630,TWT636|TWT_636,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210131,-
+203267,29578614,TWT_RS01135,TWT_RS01135,TWT195|TWT_195,-,-,-,Tad domain-containing protein,protein-coding,-,-,-,Tad domain-containing protein,20210212,-
+203267,29578615,TWT_RS03720,TWT_RS03720,TWT654|TWT_654,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210131,-
+203267,29578616,TWT_RS03715,TWT_RS03715,TWT653|TWT_653,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578617,TWT_RS03330,TWT_RS03330,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578618,dut,TWT_RS02785,TWT487|TWT_487,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210131,-
+203267,29578619,TWT_RS04445,TWT_RS04445,TWT797|TWT_797,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20210131,-
+203267,29578620,TWT_RS04475,TWT_RS04475,TWT803|TWT_803,-,-,-,heavy metal translocating P-type ATPase,protein-coding,-,-,-,heavy metal translocating P-type ATPase,20210131,-
+203267,29578621,TWT_RS03550,TWT_RS03550,TWTRNA42|TWT_RNA42,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578622,coaBC,TWT_RS02100,TWT361|TWT_361,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20210131,-
+203267,29578623,TWT_RS02090,TWT_RS02090,TWT359|TWT_359,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210131,-
+203267,29578624,TWT_RS02095,TWT_RS02095,TWT360|TWT_360,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210131,-
+203267,29578625,TWT_RS02220,TWT_RS02220,TWT385|TWT_385,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210131,-
+203267,29578626,TWT_RS00085,TWT_RS00085,TWT015|TWT_015,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578627,TWT_RS02225,TWT_RS02225,TWT386|TWT_386,-,-,-,anthranilate synthase component I family protein,protein-coding,-,-,-,anthranilate synthase component I family protein,20210131,-
+203267,29578628,TWT_RS02905,TWT_RS02905,TWTRNA35|TWT_RNA35,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578629,sufC,TWT_RS01955,TWT334|TWT_334,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20210131,-
+203267,29578630,TWT_RS02780,TWT_RS02780,TWT486|TWT_486,-,-,-,DUF3710 domain-containing protein,protein-coding,-,-,-,DUF3710 domain-containing protein,20210131,-
+203267,29578631,TWT_RS02775,TWT_RS02775,TWT485|TWT_485,-,-,-,DUF3159 domain-containing protein,protein-coding,-,-,-,DUF3159 domain-containing protein,20210131,-
+203267,29578632,TWT_RS00315,TWT_RS00315,TWT059|TWT_059,-,-,-,iron chelate uptake ABC transporter family permease subunit,protein-coding,-,-,-,iron chelate uptake ABC transporter family permease subunit,20210313,-
+203267,29578633,TWT_RS02940,TWT_RS02940,TWT516|TWT_516,-,-,-,zinc-dependent metalloprotease,protein-coding,-,-,-,zinc-dependent metalloprotease,20210131,-
+203267,29578634,TWT_RS01640,TWT_RS01640,TWT274|TWT_274,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578635,TWT_RS03440,TWT_RS03440,TWT607|TWT_607,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,29578636,pstC,TWT_RS02065,TWT354|TWT_354,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20210131,-
+203267,29578637,TWT_RS02055,TWT_RS02055,TWT352|TWT_352,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210131,-
+203267,29578638,pstA,TWT_RS02060,TWT353|TWT_353,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210131,-
+203267,29578639,rpsD,TWT_RS02185,TWT378|TWT_378,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210131,-
+203267,29578640,TWT_RS02190,TWT_RS02190,TWT379|TWT_379,-,-,-,DUF349 domain-containing protein,protein-coding,-,-,-,DUF349 domain-containing protein,20210131,-
+203267,29578641,TWT_RS02800,TWT_RS02800,TWT490|TWT_490,-,-,-,DUF3071 domain-containing protein,protein-coding,-,-,-,DUF3071 domain-containing protein,20210131,-
+203267,29578642,TWT_RS01555,TWT_RS01555,TWTRNA17|TWT_RNA17,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578643,TWT_RS01560,TWT_RS01560,TWT257|TWT_257,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210131,-
+203267,29578644,TWT_RS00595,TWT_RS00595,TWT102|TWT_102,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210131,-
+203267,29578645,TWT_RS01610,TWT_RS01610,TWT267|TWT_267,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20210131,-
+203267,29578646,TWT_RS02960,TWT_RS02960,TWT520|TWT_520,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210131,-
+203267,29578647,pdxT,TWT_RS01600,TWT265|TWT_265,-,-,-,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,protein-coding,-,-,-,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,20210131,-
+203267,29578648,TWT_RS01605,TWT_RS01605,TWT266|TWT_266,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210131,-
+203267,29578649,pyk,TWT_RS01725,TWT290|TWT_290,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210131,-
+203267,29578650,TWT_RS01730,TWT_RS01730,TWTRNA21|TWT_RNA21,-,-,-,tRNA,tRNA,-,-,-,-,20210131,-
+203267,29578651,lepA,TWT_RS01655,TWT278|TWT_278,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20210131,-
+203267,29578652,trpS,TWT_RS03865,TWT686|TWT_686,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210131,-
+203267,29578653,TWT_RS01860,TWT_RS01860,TWT316|TWT_316,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210131,-
+203267,29578654,TWT_RS01865,TWT_RS01865,TWT317|TWT_317,-,-,-,PAC2 family protein,protein-coding,-,-,-,PAC2 family protein,20210131,-
+203267,29578656,TWT_RS02005,TWT_RS02005,TWT344|TWT_344,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578657,TWT_RS01870,TWT_RS01870,TWT318|TWT_318,-,-,-,protein-L-isoaspartate O-methyltransferase,protein-coding,-,-,-,protein-L-isoaspartate O-methyltransferase,20210131,-
+203267,29578658,eno,TWT_RS04370,TWT783|TWT_783,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210131,-
+203267,29578660,TWT_RS04365,TWT_RS04365,TWT782|TWT_782,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210212,-
+203267,29578661,TWT_RS04030,TWT_RS04030,TWT718|TWT_718,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210131,-
+203267,29578662,TWT_RS04025,TWT_RS04025,TWT717|TWT_717,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20210131,-
+203267,29578663,TWT_RS00810,TWT_RS00810,TWT143|TWT_143,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,29578664,purL,TWT_RS04430,TWT794|TWT_794,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurL,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurL,20210131,-
+203267,29578665,TWT_RS00985,TWT_RS00985,TWTRNA12|TWT_RNA12,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210131,-
+203267,29578666,TWT_RS00980,TWT_RS00980,TWTRNA11|TWT_RNA11,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210131,-
+203267,29578667,TWT_RS00560,TWT_RS00560,TWT098|TWT_098,-,-,-,NUDIX hydrolase,protein-coding,-,-,-,NUDIX hydrolase,20210131,-
+203267,29578668,TWT_RS00565,TWT_RS00565,TWT100|TWT_100,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20210131,-
+203267,31473730,truB,TWT_RS04550,TWT087|TWT_087,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210131,-
+203267,31473731,TWT_RS04555,TWT_RS04555,TWT092|TWT_092,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,31473732,TWT_RS04560,TWT_RS04560,TWT126|TWT_126,-,-,-,DUF3499 family protein,protein-coding,-,-,-,DUF3499 family protein,20210131,-
+203267,31473735,TWT_RS04575,TWT_RS04575,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473736,TWT_RS04580,TWT_RS04580,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473738,TWT_RS04590,TWT_RS04590,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473739,TWT_RS04595,TWT_RS04595,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473740,TWT_RS04600,TWT_RS04600,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,31473741,ssrA,TWT_RS04605,TWTRNA14|TWT_RNA14,-,-,-,miscRNA,miscRNA,-,-,-,-,20210131,-
+203267,31473742,TWT_RS04610,TWT_RS04610,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473746,TWT_RS04630,TWT_RS04630,TWT339|TWT_339,-,-,-,protoheme IX farnesyltransferase,protein-coding,-,-,-,protoheme IX farnesyltransferase,20210131,-
+203267,31473748,rpmJ,TWT_RS04640,TWT531|TWT_531,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210131,-
+203267,31473749,TWT_RS04645,TWT_RS04645,TWT594|TWT_594,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473750,TWT_RS04650,TWT_RS04650,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473751,TWT_RS04655,TWT_RS04655,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210320,-
+203267,31473753,TWT_RS04665,TWT_RS04665,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,31473754,TWT_RS04670,TWT_RS04670,TWT608|TWT_608,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,31473756,TWT_RS04680,TWT_RS04680,TWT623|TWT_623,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210131,-
+203267,31473757,TWT_RS04685,TWT_RS04685,TWT624|TWT_624,-,-,-,WND domain-containing WiSP protein,protein-coding,-,-,-,WND domain-containing WiSP protein,20210131,-
+203267,31473758,TWT_RS04690,TWT_RS04690,-,-,-,-,WND domain-containing WiSP protein,protein-coding,-,-,-,WND domain-containing WiSP protein,20210320,-
+203267,31473759,ccsA,TWT_RS04695,-,-,-,-,cytochrome c biogenesis protein CcsA,protein-coding,-,-,-,cytochrome c biogenesis protein CcsA,20210131,-
+203267,31473760,ffs,TWT_RS04700,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210131,-
+203267,31473761,TWT_RS04705,TWT_RS04705,TWT722|TWT_722,-,-,-,DUF3073 family protein,protein-coding,-,-,-,DUF3073 family protein,20210131,-
+203267,31473762,TWT_RS04710,TWT_RS04710,TWT729|TWT_729,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",protein-coding,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",20210131,-
+203267,31473763,TWT_RS04715,TWT_RS04715,-,-,-,-,AURKAIP1/COX24 domain-containing protein,protein-coding,-,-,-,AURKAIP1/COX24 domain-containing protein,20210131,-
+203267,31473764,TWT_RS04720,TWT_RS04720,-,-,-,-,WND domain-containing WiSP protein,protein-coding,-,-,-,WND domain-containing WiSP protein,20210320,-
+203267,31473765,TWT_RS04725,TWT_RS04725,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,31473766,TWT_RS04730,TWT_RS04730,TWT772|TWT_772,-,-,-,DUF3662 and FHA domain-containing protein,protein-coding,-,-,-,DUF3662 and FHA domain-containing protein,20210131,-
+203267,31473767,TWT_RS04735,TWT_RS04735,TWT780|TWT_780,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210131,-
+203267,31473769,rpmH,TWT_RS04745,TWT808|TWT_808,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210131,-
+203267,42529651,TWT_RS04750,TWT_RS04750,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529652,TWT_RS04755,TWT_RS04755,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529659,TWT_RS04790,TWT_RS04790,TWT119|TWT_119,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529660,TWT_RS04795,TWT_RS04795,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529661,TWT_RS04800,TWT_RS04800,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529662,TWT_RS04805,TWT_RS04805,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529663,TWT_RS04810,TWT_RS04810,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529664,TWT_RS04815,TWT_RS04815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529665,TWT_RS04820,TWT_RS04820,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529666,TWT_RS04825,TWT_RS04825,TWT163|TWT_163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529667,TWT_RS04830,TWT_RS04830,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529668,TWT_RS04835,TWT_RS04835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529669,TWT_RS04840,TWT_RS04840,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529670,TWT_RS04845,TWT_RS04845,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529671,TWT_RS04850,TWT_RS04850,-,-,-,-,putative Ig domain-containing protein,protein-coding,-,-,-,putative Ig domain-containing protein,20210131,-
+203267,42529672,TWT_RS04855,TWT_RS04855,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529674,TWT_RS04865,TWT_RS04865,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529675,TWT_RS04870,TWT_RS04870,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529676,TWT_RS04875,TWT_RS04875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529677,ftsE,TWT_RS04880,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529678,TWT_RS04885,TWT_RS04885,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529679,TWT_RS04890,TWT_RS04890,-,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529680,TWT_RS04895,TWT_RS04895,TWT305|TWT_305,-,-,-,pseudo,pseudo,-,-,-,-,20210131,-
+203267,42529681,TWT_RS04900,TWT_RS04900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529682,TWT_RS04905,TWT_RS04905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529683,TWT_RS04910,TWT_RS04910,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529684,TWT_RS04915,TWT_RS04915,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529685,TWT_RS04920,TWT_RS04920,TWT673|TWT_673,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,42529687,purS,TWT_RS04930,-,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurS,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurS,20210131,-
+203267,44848142,TWT_RS04935,TWT_RS04935,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848143,TWT_RS04940,TWT_RS04940,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848144,TWT_RS04945,TWT_RS04945,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848145,TWT_RS04950,TWT_RS04950,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848146,TWT_RS04955,TWT_RS04955,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848147,TWT_RS04960,TWT_RS04960,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848148,TWT_RS04965,TWT_RS04965,TWT172|TWT_172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848149,TWT_RS04970,TWT_RS04970,TWT181|TWT_181,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848150,TWT_RS04975,TWT_RS04975,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848151,TWT_RS04980,TWT_RS04980,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848153,TWT_RS04990,TWT_RS04990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848154,TWT_RS04995,TWT_RS04995,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848155,TWT_RS05000,TWT_RS05000,-,-,-,-,DUF3107 domain-containing protein,protein-coding,-,-,-,DUF3107 domain-containing protein,20210131,-
+203267,44848156,TWT_RS05005,TWT_RS05005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848157,TWT_RS05010,TWT_RS05010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+203267,44848158,TWT_RS05015,TWT_RS05015,TWT703|TWT_703,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+203267,44848159,TWT_RS05020,TWT_RS05020,TWT704|TWT_704,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848160,TWT_RS05025,TWT_RS05025,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,44848161,TWT_RS05030,TWT_RS05030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-
+203267,61419716,TWT_RS05035,TWT_RS05035,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210131,-

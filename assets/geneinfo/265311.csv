@@ -1,0 +1,725 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+265311,2897584,MFL_RS03175,MFL_RS03175,Mfl593,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200308,-
+265311,2897585,MFL_RS01910,MFL_RS01910,Mfl366,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210320,-
+265311,2897586,MFL_RS01885,MFL_RS01885,Mfl362,-,-,-,short chain dehydrogenase,protein-coding,-,-,-,short chain dehydrogenase,20200308,-
+265311,2897587,MFL_RS02260,MFL_RS02260,Mfl426,-,-,-,PTS transporter subunit EIIB,protein-coding,-,-,-,PTS transporter subunit EIIB,20200308,-
+265311,2897588,MFL_RS02295,MFL_RS02295,Mfl433,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897589,rpoC,MFL_RS03195,Mfl597,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210315,-
+265311,2897590,MFL_RS03200,MFL_RS03200,Mfl598,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210315,-
+265311,2897591,MFL_RS02210,MFL_RS02210,Mfl416,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210315,-
+265311,2897592,MFL_RS02890,MFL_RS02890,Mfl537,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200308,-
+265311,2897593,rplU,MFL_RS02335,Mfl441,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200310,-
+265311,2897594,MFL_RS02280,MFL_RS02280,Mfl430,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2897595,MFL_RS01465,MFL_RS01465,Mfl279,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20200308,-
+265311,2897596,upp,MFL_RS00545,Mfl107,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20210315,-
+265311,2897597,ybeY,MFL_RS01395,Mfl265,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200308,-
+265311,2897598,MFL_RS02355,MFL_RS02355,Mfl444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,2897599,MFL_RS03190,MFL_RS03190,Mfl596,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20210315,-
+265311,2897600,MFL_RS02975,MFL_RS02975,Mfl554,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210315,-
+265311,2897601,msrA,MFL_RS00250,Mfl050,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,protein-coding,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,20200308,-
+265311,2897602,MFL_RS02285,MFL_RS02285,Mfl431,-,-,-,PTS transporter subunit EIIB,protein-coding,-,-,-,PTS transporter subunit EIIB,20200308,-
+265311,2897603,MFL_RS02235,MFL_RS02235,Mfl421,-,-,-,Holliday junction DNA helicase RuvA,protein-coding,-,-,-,Holliday junction DNA helicase RuvA,20200308,-
+265311,2897604,MFL_RS00265,MFL_RS00265,Mfl053,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20200308,-
+265311,2897605,ruvB,MFL_RS02230,Mfl420,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200308,-
+265311,2897606,MFL_RS03405,MFL_RS03405,Mfl641,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200308,-
+265311,2897607,rpmG,MFL_RS00450,Mfl089,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200308,-
+265311,2897608,MFL_RS02225,MFL_RS02225,Mfl419,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20210315,-
+265311,2897609,MFL_RS00860,MFL_RS00860,Mflt04,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897610,MFL_RS02185,MFL_RS02185,Mfl411,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200308,-
+265311,2897611,MFL_RS03205,MFL_RS03205,Mfl599,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897612,MFL_RS02245,MFL_RS02245,Mfl423,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2897613,MFL_RS02435,MFL_RS02435,Mfl459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2897614,MFL_RS02785,MFL_RS02785,Mfl517,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20200308,-
+265311,2897615,MFL_RS02080,MFL_RS02080,Mfl393,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897616,rplV,MFL_RS00650,Mfl128,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210315,-
+265311,2897617,MFL_RS01955,MFL_RS01955,Mfl374,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210317,-
+265311,2897618,MFL_RS03485,MFL_RS03485,Mfl657,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897619,dcm,MFL_RS01595,Mfl304,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210317,-
+265311,2897620,MFL_RS00065,MFL_RS00065,Mfl013,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200308,-
+265311,2897621,MFL_RS00975,MFL_RS00975,Mfl184,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897622,MFL_RS03240,MFL_RS03240,Mfl607,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210315,-
+265311,2897623,MFL_RS01425,MFL_RS01425,Mfl271,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200308,-
+265311,2897624,rpsP,MFL_RS02915,Mfl542,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210315,-
+265311,2897625,MFL_RS03490,MFL_RS03490,Mfl658,-,-,-,xanthine/uracil permease,protein-coding,-,-,-,xanthine/uracil permease,20200308,-
+265311,2897626,MFL_RS03065,MFL_RS03065,Mfl573,-,-,-,PhnD/SsuA/transferrin family substrate-binding protein,protein-coding,-,-,-,PhnD/SsuA/transferrin family substrate-binding protein,20201010,-
+265311,2897627,MFL_RS00980,MFL_RS00980,Mfl185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897628,MFL_RS01950,MFL_RS01950,Mfl373,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20200308,-
+265311,2897629,MFL_RS03030,MFL_RS03030,Mfl566,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201010,-
+265311,2897630,MFL_RS00015,MFL_RS00015,Mfl003,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20210315,-
+265311,2897631,MFL_RS00090,MFL_RS00090,Mfl018,-,-,-,Hsp33 family molecular chaperone HslO,protein-coding,-,-,-,Hsp33 family molecular chaperone HslO,20200308,-
+265311,2897632,MFL_RS03220,MFL_RS03220,Mfl602,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210315,-
+265311,2897633,MFL_RS00165,MFL_RS00165,Mfl033,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210315,-
+265311,2897634,MFL_RS03115,MFL_RS03115,Mfl583,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200308,-
+265311,2897635,MFL_RS01510,MFL_RS01510,Mfl287,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20210315,-
+265311,2897636,MFL_RS03015,MFL_RS03015,Mfl563,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210320,-
+265311,2897637,MFL_RS03035,MFL_RS03035,Mfl567,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200308,-
+265311,2897638,MFL_RS01990,MFL_RS01990,Mfl381,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2897639,MFL_RS03070,MFL_RS03070,Mfl574,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897640,MFL_RS02955,MFL_RS02955,Mfl550,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200308,-
+265311,2897641,MFL_RS01760,MFL_RS01760,Mfl337,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,glycerol-3-phosphate acyltransferase,20210315,-
+265311,2897642,MFL_RS01765,MFL_RS01765,Mfl338,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897643,MFL_RS01795,MFL_RS01795,Mfl344,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897644,MFL_RS02965,MFL_RS02965,Mfl552,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897645,MFL_RS02050,MFL_RS02050,Mfl387,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200308,-
+265311,2897646,MFL_RS01600,MFL_RS01600,Mfl305,-,-,-,DUF262 domain-containing protein,protein-coding,-,-,-,DUF262 domain-containing protein,20200308,-
+265311,2897647,MFL_RS02960,MFL_RS02960,Mfl551,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897648,mtnN,MFL_RS01945,Mfl372,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20200308,-
+265311,2897649,MFL_RS01545,MFL_RS01545,Mfl294,-,-,-,ribosomal L7Ae/L30e/S12e/Gadd45 family protein,protein-coding,-,-,-,ribosomal L7Ae/L30e/S12e/Gadd45 family protein,20210315,-
+265311,2897650,yqeH,MFL_RS01825,Mfl351,-,-,-,ribosome biogenesis GTPase YqeH,protein-coding,-,-,-,ribosome biogenesis GTPase YqeH,20200308,-
+265311,2897651,MFL_RS02930,MFL_RS02930,Mfl545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897653,asnS,MFL_RS02550,Mfl480,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20210315,-
+265311,2897654,MFL_RS03050,MFL_RS03050,Mfl570,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200308,-
+265311,2897655,MFL_RS01800,MFL_RS01800,Mfl346,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897656,MFL_RS03160,MFL_RS03160,Mflt028,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897657,MFL_RS01745,MFL_RS01745,Mfl334,-,-,-,riboflavin kinase,protein-coding,-,-,-,riboflavin kinase,20200308,-
+265311,2897658,MFL_RS03025,MFL_RS03025,Mfl565,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200308,-
+265311,2897659,MFL_RS02045,MFL_RS02045,Mfl386,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897660,scpB,MFL_RS02950,Mfl549,-,-,-,SMC-Scp complex subunit ScpB,protein-coding,-,-,-,SMC-Scp complex subunit ScpB,20200308,-
+265311,2897661,pheS,MFL_RS02110,Mfl399,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200310,-
+265311,2897662,dnaA,MFL_RS00005,Mfl001,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200310,-
+265311,2897663,MFL_RS01835,MFL_RS01835,Mfl353,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897664,MFL_RS01575,MFL_RS01575,Mfl300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897665,nusB,MFL_RS01735,Mfl332,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20200308,-
+265311,2897666,MFL_RS02860,MFL_RS02860,Mfl531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897667,MFL_RS02590,MFL_RS02590,Mfl488,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200308,-
+265311,2897668,MFL_RS01720,MFL_RS01720,Mfl329,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,protein-coding,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,20200308,-
+265311,2897669,MFL_RS01580,MFL_RS01580,Mfl301,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897670,MFL_RS01680,MFL_RS01680,Mfl321,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897671,xseB,MFL_RS01725,Mfl330,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20200308,-
+265311,2897672,rpsK,MFL_RS00755,Mfl149,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210315,-
+265311,2897673,MFL_RS01200,MFL_RS01200,Mfl226,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897674,trxA,MFL_RS00945,Mfl178,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200308,-
+265311,2897675,atpF,MFL_RS00565,Mfl111,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200310,-
+265311,2897677,MFL_RS00350,MFL_RS00350,Mfl070,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210315,-
+265311,2897678,MFL_RS00680,MFL_RS00680,Mfl134,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210315,-
+265311,2897679,MFL_RS01120,MFL_RS01120,Mfl212,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897680,uvrA,MFL_RS00295,Mfl059,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210320,-
+265311,2897681,MFL_RS00100,MFL_RS00100,Mfl020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897682,rplC,MFL_RS00625,Mfl123,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210315,-
+265311,2897683,MFL_RS00910,MFL_RS00910,Mfl171,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20200308,-
+265311,2897684,MFL_RS01140,MFL_RS01140,Mfl216,-,-,-,serine hydrolase,protein-coding,-,-,-,serine hydrolase,20200308,-
+265311,2897685,MFL_RS01165,MFL_RS01165,Mfl220,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20200308,-
+265311,2897686,MFL_RS01100,MFL_RS01100,Mfl208,-,-,-,Gfo/Idh/MocA family oxidoreductase,protein-coding,-,-,-,Gfo/Idh/MocA family oxidoreductase,20200308,-
+265311,2897687,MFL_RS00590,MFL_RS00590,Mfl116,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897688,MFL_RS01115,MFL_RS01115,Mfl211,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897689,MFL_RS00240,MFL_RS00240,Mfl048,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201010,-
+265311,2897690,MFL_RS00120,MFL_RS00120,Mfl024,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2897691,rpsH,MFL_RS00695,Mfl137,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200308,-
+265311,2897692,rpmI,MFL_RS01000,Mfl189,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200310,-
+265311,2897693,MFL_RS01130,MFL_RS01130,Mfl214,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210317,-
+265311,2897694,MFL_RS00900,MFL_RS00900,Mfl169,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20200308,-
+265311,2897695,MFL_RS01070,MFL_RS01070,Mfl203,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20200308,-
+265311,2897696,MFL_RS01040,MFL_RS01040,Mfl197,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897697,MFL_RS01020,MFL_RS01020,Mfl193,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20210315,-
+265311,2897698,rsmD,MFL_RS01025,Mfl194,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20200308,-
+265311,2897699,lysS,MFL_RS00150,Mfl030,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210315,-
+265311,2897700,MFL_RS00440,MFL_RS00440,Mfl087,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210315,-
+265311,2897701,MFL_RS00230,MFL_RS00230,Mfl046,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20200308,-
+265311,2897702,truA,MFL_RS00785,Mfl155,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200310,-
+265311,2897703,mgtE,MFL_RS01150,Mfl217,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200308,-
+265311,2897704,MFL_RS00140,MFL_RS00140,Mfl028,-,-,-,DUF1904 family protein,protein-coding,-,-,-,DUF1904 family protein,20200308,-
+265311,2897705,rsmI,MFL_RS00520,Mfl103,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200308,-
+265311,2897706,MFL_RS00920,MFL_RS00920,Mfl173,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200308,-
+265311,2897707,MFL_RS00370,MFL_RS00370,Mfl074,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20210315,-
+265311,2897708,tig,MFL_RS02155,Mfl405,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210315,-
+265311,2897709,MFL_RS02500,MFL_RS02500,Mfl471,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20200308,-
+265311,2897710,MFL_RS03440,MFL_RS03440,Mfl648,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200308,-
+265311,2897711,MFL_RS02770,MFL_RS02770,Mfl514,-,-,-,carbohydrate kinase,protein-coding,-,-,-,carbohydrate kinase,20200308,-
+265311,2897712,MFL_RS03235,MFL_RS03235,Mfl606,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210320,-
+265311,2897713,MFL_RS02815,MFL_RS02815,Mfl523,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897714,MFL_RS02595,MFL_RS02595,Mfl489,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897715,MFL_RS02755,MFL_RS02755,Mfl510,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897716,MFL_RS02655,MFL_RS02655,Mfl500,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200308,-
+265311,2897717,MFL_RS03230,MFL_RS03230,Mfl605,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200308,-
+265311,2897718,MFL_RS02370,MFL_RS02370,Mfl447,-,-,-,histone-like/ribosomal-like protein,protein-coding,-,-,-,histone-like/ribosomal-like protein,20200309,-
+265311,2897719,prfA,MFL_RS03370,Mfl634,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210315,-
+265311,2897720,MFL_RS02780,MFL_RS02780,Mfl516,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200308,-
+265311,2897721,MFL_RS03385,MFL_RS03385,Mfl637,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2897722,MFL_RS03465,MFL_RS03465,Mfl653,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201010,-
+265311,2897723,MFL_RS02520,MFL_RS02520,Mfl475,-,-,-,viroplasmin family protein,protein-coding,-,-,-,viroplasmin family protein,20210315,-
+265311,2897724,MFL_RS03380,MFL_RS03380,Mfl636,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200308,-
+265311,2897725,MFL_RS02670,MFL_RS02670,Mfl503,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200308,-
+265311,2897726,MFL_RS03415,MFL_RS03415,Mfl643,-,-,-,PTS ascorbate transporter subunit IIC,protein-coding,-,-,-,PTS ascorbate transporter subunit IIC,20200308,-
+265311,2897727,MFL_RS03225,MFL_RS03225,Mfl604,-,-,-,ABC transporter,protein-coding,-,-,-,ABC transporter,20200308,-
+265311,2897728,prmC,MFL_RS03365,Mfl633,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210320,-
+265311,2897729,MFL_RS02775,MFL_RS02775,Mfl515,-,-,-,glycoside hydrolase family 32 protein,protein-coding,-,-,-,glycoside hydrolase family 32 protein,20200308,-
+265311,2897730,MFL_RS01515,MFL_RS01515,Mfl288,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20200308,-
+265311,2897731,MFL_RS00235,MFL_RS00235,Mfl047,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201010,-
+265311,2897732,rpsB,MFL_RS03005,Mfl561,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200309,-
+265311,2897733,MFL_RS02750,MFL_RS02750,Mfl509,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200308,-
+265311,2897734,deoC,MFL_RS03395,Mfl639,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20210320,-
+265311,2897735,MFL_RS03355,MFL_RS03355,Mfl630,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20210315,-
+265311,2897736,MFL_RS03280,MFL_RS03280,Mfl615,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2897737,rpsL,MFL_RS03325,Mfl624,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210315,-
+265311,2897738,MFL_RS01210,MFL_RS01210,Mfl228,-,-,-,Asp23/Gls24 family envelope stress response protein,protein-coding,-,-,-,Asp23/Gls24 family envelope stress response protein,20200309,-
+265311,2897739,MFL_RS02555,MFL_RS02555,Mfl481,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200308,-
+265311,2897740,MFL_RS03350,MFL_RS03350,Mfl629,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897741,MFL_RS01610,MFL_RS01610,Mfl307,-,-,-,"type II restriction enzyme Sau3AI, GATC site",protein-coding,-,-,-,"type II restriction enzyme Sau3AI, GATC site",20200308,-
+265311,2897742,MFL_RS02540,MFL_RS02540,Mfl478,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20210315,-
+265311,2897743,MFL_RS03305,MFL_RS03305,Mfl620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2897744,MFL_RS02830,MFL_RS02830,Mfl525,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20210315,-
+265311,2897745,nrdF,MFL_RS02855,Mfl530,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20200308,-
+265311,2897746,coaE,MFL_RS01475,Mfl281,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200308,-
+265311,2897747,MFL_RS02840,MFL_RS02840,Mfl527,-,-,-,PTS transporter subunit EIIB,protein-coding,-,-,-,PTS transporter subunit EIIB,20200308,-
+265311,2897748,MFL_RS02560,MFL_RS02560,Mfl482,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210315,-
+265311,2897749,MFL_RS02660,MFL_RS02660,Mfl501,-,-,-,LacI family DNA-binding transcriptional regulator,protein-coding,-,-,-,LacI family DNA-binding transcriptional regulator,20210315,-
+265311,2897750,MFL_RS02430,MFL_RS02430,Mfl458,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897751,fusA,MFL_RS03315,Mfl622,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200310,-
+265311,2897752,dnaJ,MFL_RS02200,Mfl414,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210315,-
+265311,2897753,rpsG,MFL_RS03320,Mfl623,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200308,-
+265311,2897754,MFL_RS02070,MFL_RS02070,Mfl391,-,-,-,cell division protein SepF,protein-coding,-,-,-,cell division protein SepF,20210320,-
+265311,2897755,ffh,MFL_RS02545,Mfl479,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200308,-
+265311,2897756,MFL_RS03300,MFL_RS03300,Mfl619,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210315,-
+265311,2897757,MFL_RS02790,MFL_RS02790,Mfl518,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897758,MFL_RS03530,MFL_RS03530,Mfl666,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897759,rplW,MFL_RS00635,Mfl125,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200308,-
+265311,2897760,MFL_RS03605,MFL_RS03605,Mfl680,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200308,-
+265311,2897761,secG,MFL_RS00340,Mfl068,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200309,-
+265311,2897762,MFL_RS03535,MFL_RS03535,Mfl667,-,-,-,ribose ABC transporter permease,protein-coding,-,-,-,ribose ABC transporter permease,20200308,-
+265311,2897763,MFL_RS02710,MFL_RS02710,Mflt021,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897764,deoC,MFL_RS00615,Mfl121,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20210315,-
+265311,2897765,MFL_RS03520,MFL_RS03520,Mfl664,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20210320,-
+265311,2897766,MFL_RS02720,MFL_RS02720,Mflt023,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897767,rpmH,MFL_RS03620,Mfl682.1,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210315,-
+265311,2897768,MFL_RS03165,MFL_RS03165,Mflt029,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897769,MFL_RS00245,MFL_RS00245,Mfl049,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897770,deoD,MFL_RS03525,Mfl665,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200308,-
+265311,2897771,MFL_RS00430,MFL_RS00430,Mfl085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897772,MFL_RS03570,MFL_RS03570,Mfl674,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20200308,-
+265311,2897773,MFL_RS01380,MFL_RS01380,Mfl262,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897774,MFL_RS02825,MFL_RS02825,Mflt027,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897775,rnpA,MFL_RS03615,Mfl682,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200310,-
+265311,2897776,MFL_RS01275,MFL_RS01275,Mfl241,-,-,-,M13 family metallopeptidase,protein-coding,-,-,-,M13 family metallopeptidase,20200308,-
+265311,2897777,MFL_RS00525,MFL_RS00525,Mflt01,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897778,MFL_RS01305,MFL_RS01305,Mfl247,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2897779,MFL_RS01270,MFL_RS01270,Mfl240,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210315,-
+265311,2897780,pgsA,MFL_RS03515,Mfl663,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200308,-
+265311,2897781,MFL_RS01290,MFL_RS01290,Mfl244,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20200308,-
+265311,2897782,MFL_RS01325,MFL_RS01325,Mfl251,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20200308,-
+265311,2897783,MFL_RS01355,MFL_RS01355,Mfl257,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210315,-
+265311,2897784,MFL_RS01075,MFL_RS01075,Mfl204,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210315,-
+265311,2897785,MFL_RS01360,MFL_RS01360,Mfl258,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200308,-
+265311,2897786,MFL_RS00495,MFL_RS00495,Mfl098,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2897787,MFL_RS00475,MFL_RS00475,Mfl094,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897788,MFL_RS01295,MFL_RS01295,Mfl245,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200308,-
+265311,2897789,MFL_RS01340,MFL_RS01340,Mfl254,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200310,-
+265311,2897790,MFL_RS01350,MFL_RS01350,Mfl256,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200309,-
+265311,2897791,MFL_RS01335,MFL_RS01335,Mfl253,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897792,mutM,MFL_RS03105,Mfl581,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20200308,-
+265311,2897793,MFL_RS01855,MFL_RS01855,Mfl357,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20210315,-
+265311,2897794,MFL_RS03080,MFL_RS03080,Mfl576,-,-,-,permease,protein-coding,-,-,-,permease,20210315,-
+265311,2897795,polA,MFL_RS03110,Mfl582,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20200308,-
+265311,2897796,MFL_RS01935,MFL_RS01935,Mfl370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897797,MFL_RS00300,MFL_RS00300,Mfl060,-,-,-,dihydrofolate synthase,protein-coding,-,-,-,dihydrofolate synthase,20200308,-
+265311,2897798,rplL,MFL_RS03215,Mfl601,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210605,-
+265311,2897799,MFL_RS03210,MFL_RS03210,Mfl600,-,-,-,serine hydrolase,protein-coding,-,-,-,serine hydrolase,20200308,-
+265311,2897800,uvrC,MFL_RS00510,Mfl101,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20200310,-
+265311,2897801,MFL_RS03085,MFL_RS03085,Mfl577,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200308,-
+265311,2897802,rpmG,MFL_RS01985,Mfl380,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200310,-
+265311,2897803,rpsC,MFL_RS00655,Mfl129,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210315,-
+265311,2897804,MFL_RS02040,MFL_RS02040,Mfl385,-,-,-,dCMP deaminase family protein,protein-coding,-,-,-,dCMP deaminase family protein,20210317,-
+265311,2897805,MFL_RS02055,MFL_RS02055,Mfl388,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210315,-
+265311,2897806,alaS,MFL_RS03270,Mfl613,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210315,-
+265311,2897807,MFL_RS02120,MFL_RS02120,Mfl401,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897808,MFL_RS00490,MFL_RS00490,Mfl097,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2897809,MFL_RS03095,MFL_RS03095,Mfl579,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200308,-
+265311,2897810,MFL_RS02115,MFL_RS02115,Mfl400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897811,MFL_RS03260,MFL_RS03260,Mfl611,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897812,secY,MFL_RS00720,Mfl142,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200308,-
+265311,2897813,MFL_RS00380,MFL_RS00380,Mfl076,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20200308,-
+265311,2897814,dnaB,MFL_RS00425,Mfl084,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200308,-
+265311,2897815,MFL_RS00260,MFL_RS00260,Mfl052,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210315,-
+265311,2897816,MFL_RS02565,MFL_RS02565,Mfl483,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200308,-
+265311,2897817,tsaE,MFL_RS02630,Mfl495,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210320,-
+265311,2897818,MFL_RS02575,MFL_RS02575,Mfl485,-,-,-,PH domain-containing protein,protein-coding,-,-,-,PH domain-containing protein,20210315,-
+265311,2897819,MFL_RS02305,MFL_RS02305,Mfl435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897820,MFL_RS02585,MFL_RS02585,Mfl487,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2897821,MFL_RS01890,MFL_RS01890,Mfl362.1,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200308,-
+265311,2897822,recO,MFL_RS01405,Mfl267,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210315,-
+265311,2897823,ftsZ,MFL_RS02075,Mfl392,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200308,-
+265311,2897824,MFL_RS00470,MFL_RS00470,Mfl093,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897825,MFL_RS02995,MFL_RS02995,Mfl559,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897826,MFL_RS01215,MFL_RS01215,Mfl229,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200308,-
+265311,2897827,MFL_RS01370,MFL_RS01370,Mfl260,-,-,-,MOLPALP family lipoprotein,protein-coding,-,-,-,MOLPALP family lipoprotein,20200308,-
+265311,2897828,ftsY,MFL_RS01255,Mfl237,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210315,-
+265311,2897829,rplQ,MFL_RS00765,Mfl151,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200310,-
+265311,2897830,MFL_RS01265,MFL_RS01265,Mfl239,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200308,-
+265311,2897831,MFL_RS03265,MFL_RS03265,Mfl612,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897832,MFL_RS03140,MFL_RS03140,Mfl588,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200308,-
+265311,2897833,pstB,MFL_RS01245,Mfl235,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20210320,-
+265311,2897834,cls,MFL_RS03335,Mfl626,-,-,-,cardiolipin synthase,protein-coding,-,-,-,cardiolipin synthase,20210320,-
+265311,2897835,phoU,MFL_RS01250,Mfl236,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20200308,-
+265311,2897836,trmFO,MFL_RS01280,Mfl242,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,protein-coding,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,20210315,-
+265311,2897837,MFL_RS03340,MFL_RS03340,Mfl627,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897838,MFL_RS03330,MFL_RS03330,Mfl625,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897839,MFL_RS00730,MFL_RS00730,Mfl144,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200308,-
+265311,2897840,MFL_RS01260,MFL_RS01260,Mfl238,-,-,-,YlxM family DNA-binding protein,protein-coding,-,-,-,YlxM family DNA-binding protein,20200308,-
+265311,2897841,MFL_RS03450,MFL_RS03450,Mfl650,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20210317,-
+265311,2897842,MFL_RS03480,MFL_RS03480,Mfl656,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200308,-
+265311,2897843,MFL_RS01705,MFL_RS01705,Mfl326,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897844,MFL_RS01435,MFL_RS01435,Mfl273,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200308,-
+265311,2897845,MFL_RS01655,MFL_RS01655,Mfl316,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20210320,-
+265311,2897846,MFL_RS01710,MFL_RS01710,Mfl327,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897847,MFL_RS01690,MFL_RS01690,Mfl323,-,-,-,substrate ABC transporter ATP-binding protein,protein-coding,-,-,-,substrate ABC transporter ATP-binding protein,20200308,-
+265311,2897848,rplS,MFL_RS02900,Mfl539,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200310,-
+265311,2897850,MFL_RS00010,MFL_RS00010,Mfl002,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200308,-
+265311,2897851,MFL_RS00185,MFL_RS00185,Mfl037,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201010,-
+265311,2897852,MFL_RS02270,MFL_RS02270,Mfl428,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200308,-
+265311,2897853,gatB,MFL_RS00825,Mfl163,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210315,-
+265311,2897854,typA,MFL_RS02490,Mfl469,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20200310,-
+265311,2897855,rnr,MFL_RS01105,Mfl209,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200308,-
+265311,2897856,MFL_RS02425,MFL_RS02425,Mfl457,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897858,MFL_RS03125,MFL_RS03125,Mfl585,-,-,-,chromosome segregation ATPase,protein-coding,-,-,-,chromosome segregation ATPase,20200309,-
+265311,2897859,trpS,MFL_RS01015,Mfl192,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210320,-
+265311,2897860,MFL_RS02505,MFL_RS02505,Mfl472,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897861,MFL_RS00255,MFL_RS00255,Mfl051,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200308,-
+265311,2897862,MFL_RS01085,MFL_RS01085,Mfl205,-,-,-,nicotinamide-nucleotide amidohydrolase family protein,protein-coding,-,-,-,nicotinamide-nucleotide amidohydrolase family protein,20210320,-
+265311,2897863,MFL_RS02480,MFL_RS02480,Mfl467,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897864,MFL_RS02240,MFL_RS02240,Mfl422,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210320,-
+265311,2897865,rplD,MFL_RS00630,Mfl124,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210315,-
+265311,2897866,MFL_RS02455,MFL_RS02455,Mfl462,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2897867,MFL_RS02275,MFL_RS02275,Mfl429,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897868,greA,MFL_RS00515,Mfl102,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20210315,-
+265311,2897869,eno,MFL_RS02485,Mfl468,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210315,-
+265311,2897870,MFL_RS00815,MFL_RS00815,Mfl161,-,-,-,Glu-tRNA amidotransferase subunit C,protein-coding,-,-,-,Glu-tRNA amidotransferase subunit C,20200308,-
+265311,2897871,MFL_RS02265,MFL_RS02265,Mfl427,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20200308,-
+265311,2897872,uvrB,MFL_RS00290,Mfl058,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210320,-
+265311,2897873,MFL_RS02385,MFL_RS02385,Mfl449,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897874,MFL_RS02375,MFL_RS02375,Mfl448,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897875,MFL_RS00360,MFL_RS00360,Mfl072,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210315,-
+265311,2897876,MFL_RS02290,MFL_RS02290,Mfl432,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20200308,-
+265311,2897877,MFL_RS03430,MFL_RS03430,Mfl646,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2897878,trmFO,MFL_RS02865,Mfl532,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,protein-coding,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,20210315,-
+265311,2897879,MFL_RS02610,MFL_RS02610,Mfl491,-,-,-,TIGR04141 family sporadically distributed protein,protein-coding,-,-,-,TIGR04141 family sporadically distributed protein,20200308,-
+265311,2897880,MFL_RS03400,MFL_RS03400,Mfl640,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200308,-
+265311,2897881,rplM,MFL_RS02620,Mfl493,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200310,-
+265311,2897882,MFL_RS00465,MFL_RS00465,Mfl092,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200308,-
+265311,2897883,MFL_RS02365,MFL_RS02365,Mfl446,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20200308,-
+265311,2897884,rpsI,MFL_RS02615,Mfl492,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200308,-
+265311,2897885,MFL_RS02405,MFL_RS02405,Mfl453,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897886,MFL_RS02410,MFL_RS02410,Mfl454,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897887,MFL_RS03375,MFL_RS03375,Mfl635,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20210315,-
+265311,2897888,MFL_RS00305,MFL_RS00305,Mfl061,-,-,-,folate family ECF transporter S component,protein-coding,-,-,-,folate family ECF transporter S component,20200308,-
+265311,2897889,MFL_RS02390,MFL_RS02390,Mfl450,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2897890,MFL_RS00870,MFL_RS00870,Mflt06,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897891,MFL_RS02420,MFL_RS02420,Mfl456,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200308,-
+265311,2897892,MFL_RS01590,MFL_RS01590,Mfl303,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20200308,-
+265311,2897893,MFL_RS02415,MFL_RS02415,Mfl455,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200308,-
+265311,2897894,rpiB,MFL_RS00535,Mfl105,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20200308,-
+265311,2897895,MFL_RS02450,MFL_RS02450,Mfl461,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897896,MFL_RS00530,MFL_RS00530,Mfl104,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20200308,-
+265311,2897897,rpmE,MFL_RS03390,Mfl638,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20210315,-
+265311,2897898,MFL_RS00345,MFL_RS00345,Mfl069,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2897899,frr,MFL_RS02980,Mfl555,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200310,-
+265311,2897900,MFL_RS03475,MFL_RS03475,Mfl655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897901,MFL_RS02675,MFL_RS02675,Mfl504,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210320,-
+265311,2897902,rpsQ,MFL_RS00670,Mfl132,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210605,-
+265311,2897903,MFL_RS02760,MFL_RS02760,Mfl511,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200310,-
+265311,2897904,parE,MFL_RS01620,Mfl309,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200308,-
+265311,2897905,MFL_RS03285,MFL_RS03285,Mfl616,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200308,-
+265311,2897906,MFL_RS01525,MFL_RS01525,Mfl290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897907,MFL_RS03100,MFL_RS03100,Mfl580,-,-,-,DnaD domain protein,protein-coding,-,-,-,DnaD domain protein,20210315,-
+265311,2897908,atpD,MFL_RS00585,Mfl115,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210315,-
+265311,2897909,MFL_RS02870,MFL_RS02870,Mfl533,-,-,-,ABC transporter ATP-binding protein/permease,protein-coding,-,-,-,ABC transporter ATP-binding protein/permease,20200308,-
+265311,2897910,MFL_RS01460,MFL_RS01460,Mfl278,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200308,-
+265311,2897911,MFL_RS01505,MFL_RS01505,Mfl286,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210315,-
+265311,2897912,dcm,MFL_RS01615,Mfl308,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20200308,-
+265311,2897913,MFL_RS00935,MFL_RS00935,Mfl176,-,-,-,nuclear transport factor 2 family protein,protein-coding,-,-,-,nuclear transport factor 2 family protein,20200308,-
+265311,2897914,pyrH,MFL_RS02985,Mfl556,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200310,-
+265311,2897915,dusB,MFL_RS00145,Mfl029,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20210315,-
+265311,2897917,MFL_RS03460,MFL_RS03460,Mfl652,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200308,-
+265311,2897918,MFL_RS03075,MFL_RS03075,Mfl575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897919,pta,MFL_RS00215,Mfl043,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20200308,-
+265311,2897920,MFL_RS02180,MFL_RS02180,Mfl410,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20200308,-
+265311,2897921,MFL_RS02920,MFL_RS02920,Mfl543,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200309,-
+265311,2897922,MFL_RS02100,MFL_RS02100,Mfl397,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897923,MFL_RS02650,MFL_RS02650,Mfl499,-,-,-,"alpha,alpha-phosphotrehalase",protein-coding,-,-,-,"alpha,alpha-phosphotrehalase",20200310,-
+265311,2897924,MFL_RS01995,MFL_RS01995,Mflt010,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897925,MFL_RS02820,MFL_RS02820,Mfl524,-,-,-,DUF3196 family protein,protein-coding,-,-,-,DUF3196 family protein,20200308,-
+265311,2897926,MFL_RS00325,MFL_RS00325,Mfl065,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210315,-
+265311,2897927,MFL_RS02835,MFL_RS02835,Mfl526,-,-,-,glycoside hydrolase family 32 protein,protein-coding,-,-,-,glycoside hydrolase family 32 protein,20200308,-
+265311,2897928,MFL_RS00410,MFL_RS00410,Mfl081,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200308,-
+265311,2897929,rpmA,MFL_RS02325,Mfl439,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200308,-
+265311,2897930,MFL_RS00550,MFL_RS00550,Mfl108,-,-,-,MG406 family protein,protein-coding,-,-,-,MG406 family protein,20200308,-
+265311,2897931,MFL_RS00835,MFL_RS00835,Mfl165,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200308,-
+265311,2897932,MFL_RS02880,MFL_RS02880,Mfl535,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210315,-
+265311,2897933,infA,MFL_RS00740,Mfl146,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210315,-
+265311,2897934,MFL_RS01970,MFL_RS01970,Mfl377,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20200308,-
+265311,2897935,MFL_RS02730,MFL_RS02730,Mflt025,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2897936,map,MFL_RS00735,Mfl145,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200308,-
+265311,2897937,recR,MFL_RS03585,Mfl677,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200308,-
+265311,2897938,gatA,MFL_RS00820,Mfl162,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210317,-
+265311,2897939,MFL_RS01665,MFL_RS01665,Mfl318,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210315,-
+265311,2897940,MFL_RS01675,MFL_RS01675,Mfl320,-,-,-,TIR domain-containing protein,protein-coding,-,-,-,TIR domain-containing protein,20201010,-
+265311,2897941,MFL_RS01300,MFL_RS01300,Mfl246,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2897942,MFL_RS01780,MFL_RS01780,Mfl341,-,-,-,S1 RNA-binding domain-containing protein,protein-coding,-,-,-,S1 RNA-binding domain-containing protein,20200308,-
+265311,2897943,MFL_RS01755,MFL_RS01755,Mfl336,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2897944,MFL_RS01320,MFL_RS01320,Mfl250,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200308,-
+265311,2897945,MFL_RS01715,MFL_RS01715,Mfl328,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20200308,-
+265311,2897946,parC,MFL_RS01625,Mfl310,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20200308,-
+265311,2897947,rpmJ,MFL_RS00745,Mfl147,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210315,-
+265311,2897948,MFL_RS01630,MFL_RS01630,Mfl311,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200308,-
+265311,2897949,MFL_RS01285,MFL_RS01285,Mfl243,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210317,-
+265311,2897950,MFL_RS01685,MFL_RS01685,Mfl322,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201010,-
+265311,2897951,MFL_RS01770,MFL_RS01770,Mfl339,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897952,cdd,MFL_RS00725,Mfl143,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20200308,-
+265311,2897953,MFL_RS01775,MFL_RS01775,Mfl340,-,-,-,isochorismatase family protein,protein-coding,-,-,-,isochorismatase family protein,20210317,-
+265311,2897954,MFL_RS01650,MFL_RS01650,Mfl315,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200308,-
+265311,2897955,rpsE,MFL_RS00710,Mfl140,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200310,-
+265311,2897956,MFL_RS01645,MFL_RS01645,Mfl314,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20200308,-
+265311,2897957,MFL_RS01315,MFL_RS01315,Mfl249,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200308,-
+265311,2897958,MFL_RS01345,MFL_RS01345,Mfl255,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210320,-
+265311,2897959,MFL_RS01330,MFL_RS01330,Mfl252,-,-,-,aldo/keto reductase,protein-coding,-,-,-,aldo/keto reductase,20200308,-
+265311,2897960,MFL_RS01660,MFL_RS01660,Mfl317,-,-,-,alpha-xylosidase,protein-coding,-,-,-,alpha-xylosidase,20200308,-
+265311,2897961,MFL_RS03000,MFL_RS03000,Mfl560,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210315,-
+265311,2897962,MFL_RS01430,MFL_RS01430,Mfl272,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200308,-
+265311,2897963,MFL_RS01450,MFL_RS01450,Mfl276,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200310,-
+265311,2897964,MFL_RS01485,MFL_RS01485,Mfl283,-,-,-,FAD synthetase,protein-coding,-,-,-,FAD synthetase,20210320,-
+265311,2897965,truB,MFL_RS01480,Mfl282,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210315,-
+265311,2897966,MFL_RS01470,MFL_RS01470,Mfl280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897967,MFL_RS01455,MFL_RS01455,Mfl277,-,-,-,DNA-3-methyladenine glycosylase I,protein-coding,-,-,-,DNA-3-methyladenine glycosylase I,20200308,-
+265311,2897968,MFL_RS01440,MFL_RS01440,Mfl274,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200308,-
+265311,2897969,MFL_RS00280,MFL_RS00280,Mfl056,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210320,-
+265311,2897970,MFL_RS01185,MFL_RS01185,Mfl224,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20200308,-
+265311,2897971,MFL_RS00270,MFL_RS00270,Mfl054,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897972,MFL_RS00800,MFL_RS00800,Mfl158,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2897973,MFL_RS01205,MFL_RS01205,Mfl227,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210315,-
+265311,2897974,rpsM,MFL_RS00750,Mfl148,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200308,-
+265311,2897975,MFL_RS00795,MFL_RS00795,Mfl157,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897976,plsX,MFL_RS01220,Mfl230,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210315,-
+265311,2897977,rsgA,MFL_RS01175,Mfl222,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20200308,-
+265311,2897978,MFL_RS00580,MFL_RS00580,Mfl114,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200308,-
+265311,2897979,MFL_RS00570,MFL_RS00570,Mfl112,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200308,-
+265311,2897980,rnc,MFL_RS01225,Mfl231,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200310,-
+265311,2897981,MFL_RS00775,MFL_RS00775,Mfl153,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20210315,-
+265311,2897982,MFL_RS01230,MFL_RS01230,Mfl232,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201010,-
+265311,2897983,MFL_RS00560,MFL_RS00560,Mfl110,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20210315,-
+265311,2897984,ptsS,MFL_RS01235,Mfl233,-,-,-,phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,phosphate ABC transporter substrate-binding protein,20200308,-
+265311,2897985,holA,MFL_RS01920,Mfl368,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200308,-
+265311,2897986,MFL_RS01805,MFL_RS01805,Mfl347,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210320,-
+265311,2897987,tkt,MFL_RS01815,Mfl349,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200310,-
+265311,2897988,MFL_RS01750,MFL_RS01750,Mfl335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897989,obgE,MFL_RS02810,Mfl522,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200310,-
+265311,2897990,rimP,MFL_RS01530,Mfl291,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20210315,-
+265311,2897991,MFL_RS01585,MFL_RS01585,Mfl302,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897992,guaA,MFL_RS01785,Mfl342,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210315,-
+265311,2897993,rpsO,MFL_RS01490,Mfl284,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210605,-
+265311,2897994,nusA,MFL_RS01535,Mfl292,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210315,-
+265311,2897995,MFL_RS01810,MFL_RS01810,Mfl348,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20210315,-
+265311,2897996,MFL_RS02250,MFL_RS02250,Mfl424,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200308,-
+265311,2897997,MFL_RS01830,MFL_RS01830,Mfl352,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2897998,MFL_RS01820,MFL_RS01820,Mfl350,-,-,-,DUF896 domain-containing protein,protein-coding,-,-,-,DUF896 domain-containing protein,20210605,-
+265311,2897999,MFL_RS01555,MFL_RS01555,Mfl296,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201010,-
+265311,2898000,ileS,MFL_RS02060,Mfl389,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210315,-
+265311,2898001,udk,MFL_RS01605,Mfl306,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20210315,-
+265311,2898002,xseA,MFL_RS01730,Mfl331,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210315,-
+265311,2898003,MFL_RS01790,MFL_RS01790,Mfl343,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20210320,-
+265311,2898004,MFL_RS02740,MFL_RS02740,Mfl507,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898005,MFL_RS01975,MFL_RS01975,Mfl378,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20210315,-
+265311,2898006,MFL_RS01850,MFL_RS01850,Mfl356,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20200308,-
+265311,2898007,MFL_RS01565,MFL_RS01565,Mfl298,-,-,-,DUF2075 domain-containing protein,protein-coding,-,-,-,DUF2075 domain-containing protein,20200308,-
+265311,2898008,MFL_RS01845,MFL_RS01845,Mfl355,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210315,-
+265311,2898009,MFL_RS02935,MFL_RS02935,Mfl546,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20200310,-
+265311,2898010,MFL_RS02030,MFL_RS02030,Mfl383,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200308,-
+265311,2898011,MFL_RS02940,MFL_RS02940,Mfl547,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200308,-
+265311,2898012,MFL_RS01740,MFL_RS01740,Mfl333,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20210315,-
+265311,2898013,MFL_RS02945,MFL_RS02945,Mfl548,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200308,-
+265311,2898014,trmD,MFL_RS02905,Mfl540,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200308,-
+265311,2898015,MFL_RS01635,MFL_RS01635,Mfl312,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210315,-
+265311,2898016,phnC,MFL_RS03060,Mfl572,-,-,-,phosphonate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphonate ABC transporter ATP-binding protein,20210315,-
+265311,2898017,MFL_RS01860,MFL_RS01860,Mfl358,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898018,MFL_RS03040,MFL_RS03040,Mfl568,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200308,-
+265311,2898019,def,MFL_RS03045,Mfl569,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210605,-
+265311,2898020,MFL_RS01930,MFL_RS01930,Mfl369,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210320,-
+265311,2898021,MFL_RS01640,MFL_RS01640,Mfl313,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2898022,MFL_RS03055,MFL_RS03055,Mfl571,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200308,-
+265311,2898023,MFL_RS02065,MFL_RS02065,Mfl390,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20210317,-
+265311,2898024,MFL_RS02990,MFL_RS02990,Mfl558,-,-,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20200308,-
+265311,2898025,rsmH,MFL_RS02085,Mfl394,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210315,-
+265311,2898026,MFL_RS02970,MFL_RS02970,Mfl553,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898027,MFL_RS02020,MFL_RS02020,Mfl382,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210317,-
+265311,2898028,rpsD,MFL_RS03130,Mfl586,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200310,-
+265311,2898029,rbfA,MFL_RS01940,Mfl371,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200308,-
+265311,2898030,mraZ,MFL_RS02090,Mfl395,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20200308,-
+265311,2898031,MFL_RS03020,MFL_RS03020,Mfl564,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20200308,-
+265311,2898032,MFL_RS00355,MFL_RS00355,Mfl071,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210315,-
+265311,2898033,MFL_RS00855,MFL_RS00855,Mflt03,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898034,MFL_RS00225,MFL_RS00225,Mfl045,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20200308,-
+265311,2898035,MFL_RS00850,MFL_RS00850,Mflt02,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898036,MFL_RS00110,MFL_RS00110,Mfl022,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2898037,MFL_RS00875,MFL_RS00875,Mflt07,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898038,MFL_RS02000,MFL_RS02000,Mflt011,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898039,tilS,MFL_RS03565,Mfl673,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210315,-
+265311,2898040,MFL_RS00780,MFL_RS00780,Mfl154,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20200308,-
+265311,2898041,MFL_RS02010,MFL_RS02010,Mflt013,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898042,rsmB,MFL_RS01035,Mfl196,-,-,-,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB,protein-coding,-,-,-,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB,20210315,-
+265311,2898043,mnmG,MFL_RS03555,Mfl671,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200310,-
+265311,2898044,MFL_RS01420,MFL_RS01420,Mfl270,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20210605,-
+265311,2898045,MFL_RS02005,MFL_RS02005,Mflt012,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898046,MFL_RS03575,MFL_RS03575,Mfl675,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20200308,-
+265311,2898047,rplO,MFL_RS00715,Mfl141,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210315,-
+265311,2898048,yidC,MFL_RS03610,Mfl681,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210605,-
+265311,2898049,MFL_RS01495,MFL_RS01495,Mflt09,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898050,MFL_RS02015,MFL_RS02015,Mflt014,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898051,MFL_RS02535,MFL_RS02535,Mflt015,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898052,rlmB,MFL_RS00445,Mfl088,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200308,-
+265311,2898053,dnaX,MFL_RS03590,Mfl678,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200308,-
+265311,2898054,MFL_RS03545,MFL_RS03545,Mfl669,-,-,-,xylose ABC transporter substrate-binding protein,protein-coding,-,-,-,xylose ABC transporter substrate-binding protein,20200308,-
+265311,2898055,MFL_RS00385,MFL_RS00385,Mfl077,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210315,-
+265311,2898056,MFL_RS02605,MFL_RS02605,Mflt016,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898057,MFL_RS00435,MFL_RS00435,Mfl086,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20210316,-
+265311,2898058,MFL_RS03540,MFL_RS03540,Mfl668,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2898059,MFL_RS00830,MFL_RS00830,Mfl164,-,-,-,transporter,protein-coding,-,-,-,transporter,20200308,-
+265311,2898060,MFL_RS02695,MFL_RS02695,Mflt018,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898061,MFL_RS02715,MFL_RS02715,Mflt022,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898062,MFL_RS02690,MFL_RS02690,Mflt017,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898063,MFL_RS00365,MFL_RS00365,Mfl073,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898064,MFL_RS02700,MFL_RS02700,Mflt019,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898065,smpB,MFL_RS01110,Mfl210,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200308,-
+265311,2898066,MFL_RS03505,MFL_RS03505,Mfl661,-,-,-,DUF951 domain-containing protein,protein-coding,-,-,-,DUF951 domain-containing protein,20210317,-
+265311,2898067,MFL_RS01065,MFL_RS01065,Mfl202,-,-,-,DnaD family protein,protein-coding,-,-,-,DnaD family protein,20200308,-
+265311,2898068,MFL_RS02725,MFL_RS02725,Mflt024,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898069,MFL_RS00600,MFL_RS00600,Mfl118,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2898070,MFL_RS02705,MFL_RS02705,Mflt020,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898071,MFL_RS00990,MFL_RS00990,Mfl187,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20200308,-
+265311,2898072,MFL_RS00610,MFL_RS00610,Mfl120,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20200310,-
+265311,2898073,MFL_RS02175,MFL_RS02175,Mfl409,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210317,-
+265311,2898074,MFL_RS03445,MFL_RS03445,Mfl649,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20210320,-
+265311,2898075,tsaB,MFL_RS02625,Mfl494,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210315,-
+265311,2898076,MFL_RS01700,MFL_RS01700,Mfl325,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20200308,-
+265311,2898077,MFL_RS02160,MFL_RS02160,Mfl406,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200308,-
+265311,2898078,MFL_RS01670,MFL_RS01670,Mfl319,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898079,MFL_RS01540,MFL_RS01540,Mfl293,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20210320,-
+265311,2898080,nrdE,MFL_RS02845,Mfl528,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20200308,-
+265311,2898081,MFL_RS02680,MFL_RS02680,Mfl505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898082,MFL_RS03010,MFL_RS03010,Mfl562,-,-,-,transporter,protein-coding,-,-,-,transporter,20200308,-
+265311,2898083,MFL_RS01500,MFL_RS01500,Mfl285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898084,MFL_RS02665,MFL_RS02665,Mfl502,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210315,-
+265311,2898085,serS,MFL_RS00085,Mfl017,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200308,-
+265311,2898086,MFL_RS02515,MFL_RS02515,Mfl474,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200308,-
+265311,2898087,MFL_RS02875,MFL_RS02875,Mfl534,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2898088,MFL_RS02035,MFL_RS02035,Mfl384,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20200308,-
+265311,2898089,MFL_RS00865,MFL_RS00865,Mflt05,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898090,MFL_RS01520,MFL_RS01520,Mfl289,-,-,-,NAD(P)H-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)H-dependent oxidoreductase,20200308,-
+265311,2898091,nadE,MFL_RS02805,Mfl521,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210315,-
+265311,2898092,MFL_RS02580,MFL_RS02580,Mfl486,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898093,MFL_RS01445,MFL_RS01445,Mfl275,-,-,-,protein translocase,protein-coding,-,-,-,protein translocase,20210315,-
+265311,2898094,MFL_RS01980,MFL_RS01980,Mfl379,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200308,-
+265311,2898095,tsaD,MFL_RS02570,Mfl484,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210315,-
+265311,2898096,MFL_RS00335,MFL_RS00335,Mfl067,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200308,-
+265311,2898097,MFL_RS00180,MFL_RS00180,Mfl036,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200308,-
+265311,2898098,nrdI,MFL_RS02850,Mfl529,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20210605,-
+265311,2898099,mgtA,MFL_RS02635,Mfl496,-,-,-,magnesium-translocating P-type ATPase,protein-coding,-,-,-,magnesium-translocating P-type ATPase,20200308,-
+265311,2898100,MFL_RS02640,MFL_RS02640,Mfl497,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200308,-
+265311,2898101,MFL_RS02925,MFL_RS02925,Mfl544,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200308,-
+265311,2898102,MFL_RS02105,MFL_RS02105,Mfl398,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210315,-
+265311,2898103,rpmF,MFL_RS02095,Mfl396,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200308,-
+265311,2898104,MFL_RS00190,MFL_RS00190,Mfl038,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20200308,-
+265311,2898105,MFL_RS02300,MFL_RS02300,Mfl434,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898106,MFL_RS01695,MFL_RS01695,Mfl324,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2898107,MFL_RS03345,MFL_RS03345,Mfl628,-,-,-,hsp90 protein,protein-coding,-,-,-,hsp90 protein,20200308,-
+265311,2898108,MFL_RS02315,MFL_RS02315,Mfl437,-,-,-,M20 family metallopeptidase,protein-coding,-,-,-,M20 family metallopeptidase,20200308,-
+265311,2898109,MFL_RS01375,MFL_RS01375,Mfl261,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2898110,MFL_RS01865,MFL_RS01865,Mfl359,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,2898111,rplF,MFL_RS00700,Mfl138,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200310,-
+265311,2898112,MFL_RS03135,MFL_RS03135,Mfl587,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210315,-
+265311,2898113,MFL_RS02645,MFL_RS02645,Mfl498,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898114,MFL_RS02765,MFL_RS02765,Mfl513,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200308,-
+265311,2898115,MFL_RS02530,MFL_RS02530,Mfl477,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898116,MFL_RS02910,MFL_RS02910,Mfl541,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,ribosome maturation factor RimM,20200310,-
+265311,2898117,MFL_RS02395,MFL_RS02395,Mfl451,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200309,-
+265311,2898118,thiI,MFL_RS03120,Mfl584,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20210315,-
+265311,2898119,ptsP,MFL_RS02795,Mfl519,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200308,-
+265311,2898120,MFL_RS02600,MFL_RS02600,Mfl490,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210315,-
+265311,2898121,MFL_RS01160,MFL_RS01160,Mfl219,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898122,MFL_RS00205,MFL_RS00205,Mfl041,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200308,-
+265311,2898123,MFL_RS02340,MFL_RS02340,Mfl442,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2898124,rpe,MFL_RS01180,Mfl223,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200308,-
+265311,2898125,MFL_RS01060,MFL_RS01060,Mfl201,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200308,-
+265311,2898126,recA,MFL_RS01090,Mfl206,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210315,-
+265311,2898127,MFL_RS00160,MFL_RS00160,Mfl032,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20200308,-
+265311,2898128,MFL_RS02350,MFL_RS02350,Mfl443,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898130,MFL_RS00905,MFL_RS00905,Mfl170,-,-,-,GMP reductase,protein-coding,-,-,-,GMP reductase,20210315,-
+265311,2898131,MFL_RS03495,MFL_RS03495,Mfl659,-,-,-,M48 family metallopeptidase,protein-coding,-,-,-,M48 family metallopeptidase,20210123,-
+265311,2898132,MFL_RS00970,MFL_RS00970,Mfl183,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210315,-
+265311,2898133,ychF,MFL_RS03500,Mfl660,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200308,-
+265311,2898134,MFL_RS01125,MFL_RS01125,Mfl213,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210315,-
+265311,2898135,MFL_RS00060,MFL_RS00060,Mfl012,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2898136,MFL_RS00135,MFL_RS00135,Mfl027,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200308,-
+265311,2898137,rnmV,MFL_RS00020,Mfl004,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20210315,-
+265311,2898138,gyrA,MFL_RS00035,Mfl007,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200308,-
+265311,2898139,MFL_RS01390,MFL_RS01390,Mfl264,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+265311,2898140,MFL_RS00965,MFL_RS00965,Mfl182,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2898141,MFL_RS00075,MFL_RS00075,Mfl015,-,-,-,YfcC family protein,protein-coding,-,-,-,YfcC family protein,20210317,-
+265311,2898142,pfkA,MFL_RS00925,Mfl174,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20200308,-
+265311,2898143,MFL_RS00050,MFL_RS00050,Mfl010,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20200308,-
+265311,2898144,MFL_RS02735,MFL_RS02735,Mflt026,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898145,rsmG,MFL_RS03510,Mfl662,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210317,-
+265311,2898146,pyk,MFL_RS00930,Mfl175,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200310,-
+265311,2898147,MFL_RS00080,MFL_RS00080,Mfl016,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200308,-
+265311,2898148,MFL_RS00040,MFL_RS00040,Mfl008,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210315,-
+265311,2898149,MFL_RS00200,MFL_RS00200,Mfl040,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200308,-
+265311,2898150,gyrB,MFL_RS00030,Mfl006,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200308,-
+265311,2898151,MFL_RS00915,MFL_RS00915,Mfl172,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200308,-
+265311,2898152,MFL_RS00960,MFL_RS00960,Mfl181,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210315,-
+265311,2898153,rplR,MFL_RS00705,Mfl139,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210315,-
+265311,2898154,era,MFL_RS01400,Mfl266,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210315,-
+265311,2898155,pfkB,MFL_RS00955,Mfl180,-,-,-,1-phosphofructokinase,protein-coding,-,-,-,1-phosphofructokinase,20200308,-
+265311,2898156,MFL_RS00155,MFL_RS00155,Mfl031,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20200308,-
+265311,2898157,MFL_RS00130,MFL_RS00130,Mfl026,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200308,-
+265311,2898158,MFL_RS00115,MFL_RS00115,Mfl023,-,-,-,sn-glycerol-3-phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,sn-glycerol-3-phosphate ABC transporter substrate-binding protein,20200308,-
+265311,2898159,ftsH,MFL_RS03560,Mfl672,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210315,-
+265311,2898160,MFL_RS00375,MFL_RS00375,Mfl075,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20200308,-
+265311,2898161,MFL_RS01410,MFL_RS01410,Mfl268,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200310,-
+265311,2898162,MFL_RS00175,MFL_RS00175,Mfl035,-,-,-,energy-coupled thiamine transporter ThiT,protein-coding,-,-,-,energy-coupled thiamine transporter ThiT,20201010,-
+265311,2898163,MFL_RS00950,MFL_RS00950,Mfl179,-,-,-,DeoR/GlpR transcriptional regulator,protein-coding,-,-,-,DeoR/GlpR transcriptional regulator,20200308,-
+265311,2898164,MFL_RS01195,MFL_RS01195,Mflt08,-,-,-,tRNA,tRNA,-,-,-,-,20210315,-
+265311,2898165,MFL_RS03595,MFL_RS03595,Mfl679,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20200308,-
+265311,2898166,MFL_RS00540,MFL_RS00540,Mfl106,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200310,-
+265311,2898167,MFL_RS00275,MFL_RS00275,Mfl055,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200308,-
+265311,2898168,lpdA,MFL_RS00210,Mfl042,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210605,-
+265311,2898169,MFL_RS00395,MFL_RS00395,Mfl079,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898170,trxB,MFL_RS00320,Mfl064,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200308,-
+265311,2898171,MFL_RS03580,MFL_RS03580,Mfl676,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200308,-
+265311,2898172,MFL_RS00405,MFL_RS00405,Mfl080,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200308,-
+265311,2898173,gmk,MFL_RS01030,Mfl195,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210315,-
+265311,2898174,secE,MFL_RS00455,Mfl090,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210317,-
+265311,2898175,MFL_RS03550,MFL_RS03550,Mfl670,-,-,-,DNA-binding protein,protein-coding,-,-,-,DNA-binding protein,20200308,-
+265311,2898176,MFL_RS00105,MFL_RS00105,Mfl021,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2898177,MFL_RS02195,MFL_RS02195,Mfl413,-,-,-,NCS2 family permease,protein-coding,-,-,-,NCS2 family permease,20200308,-
+265311,2898178,MFL_RS00790,MFL_RS00790,Mfl156,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2898179,MFL_RS00840,MFL_RS00840,Mfl166,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210320,-
+265311,2898180,MFL_RS02470,MFL_RS02470,Mfl465,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20200308,-
+265311,2898181,MFL_RS03455,MFL_RS03455,Mfl651,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200310,-
+265311,2898182,secA,MFL_RS00285,Mfl057,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200310,-
+265311,2898183,hpt,MFL_RS02460,Mfl463,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200308,-
+265311,2898184,MFL_RS01965,MFL_RS01965,Mfl376,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20201010,-
+265311,2898185,lon,MFL_RS02150,Mfl404,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200308,-
+265311,2898186,MFL_RS00505,MFL_RS00505,Mfl100,-,-,-,DNA translocase (stage III sporulation protein E),protein-coding,-,-,-,DNA translocase (stage III sporulation protein E),20200308,-
+265311,2898187,MFL_RS02310,MFL_RS02310,Mfl436,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898188,MFL_RS02745,MFL_RS02745,Mfl508,-,-,-,Pr6Pr family membrane protein,protein-coding,-,-,-,Pr6Pr family membrane protein,20210315,-
+265311,2898189,ligA,MFL_RS00810,Mfl160,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210315,-
+265311,2898190,MFL_RS00595,MFL_RS00595,Mfl117,-,-,-,organic hydroperoxide resistance protein,protein-coding,-,-,-,organic hydroperoxide resistance protein,20200308,-
+265311,2898191,MFL_RS00760,MFL_RS00760,Mfl150,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200308,-
+265311,2898192,gap,MFL_RS03090,Mfl578,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200308,-
+265311,2898193,MFL_RS03180,MFL_RS03180,Mfl594,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898195,dnaG,MFL_RS01415,Mfl269,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210320,-
+265311,2898196,MFL_RS03185,MFL_RS03185,Mfl595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898197,MFL_RS02255,MFL_RS02255,Mfl425,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2898198,rplT,MFL_RS01005,Mfl190,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210315,-
+265311,2898199,MFL_RS03170,MFL_RS03170,Mfl592,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20210315,-
+265311,2898200,ylqF,MFL_RS02895,Mfl538,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200308,-
+265311,2898201,MFL_RS02330,MFL_RS02330,Mfl440,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20200308,-
+265311,2898202,infC,MFL_RS00995,Mfl188,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210315,-
+265311,2898203,MFL_RS02140,MFL_RS02140,Mfl402,-,-,-,type 1 glutamine amidotransferase domain-containing protein,protein-coding,-,-,-,type 1 glutamine amidotransferase domain-containing protein,20200308,-
+265311,2898204,MFL_RS00605,MFL_RS00605,Mfl119,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20200308,-
+265311,2898205,hrcA,MFL_RS02215,Mfl417,-,-,-,heat-inducible transcription repressor HrcA,protein-coding,-,-,-,heat-inducible transcription repressor HrcA,20210315,-
+265311,2898206,mnmE,MFL_RS00070,Mfl014,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210315,-
+265311,2898207,MFL_RS02220,MFL_RS02220,Mfl418,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210315,-
+265311,2898208,MFL_RS00575,MFL_RS00575,Mfl113,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200308,-
+265311,2898209,rplE,MFL_RS00685,Mfl135,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200310,-
+265311,2898210,ruvX,MFL_RS02465,Mfl464,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210315,-
+265311,2898211,MFL_RS02495,MFL_RS02495,Mfl470,-,-,-,ASCH domain-containing protein,protein-coding,-,-,-,ASCH domain-containing protein,20200308,-
+265311,2898212,fba,MFL_RS03420,Mfl644,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200308,-
+265311,2898213,MFL_RS03145,MFL_RS03145,Mfl589,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898214,lepA,MFL_RS02510,Mfl473,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200310,-
+265311,2898215,tuf,MFL_RS03310,Mfl621,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200310,-
+265311,2898216,MFL_RS02400,MFL_RS02400,Mfl452,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898217,topA,MFL_RS03470,Mfl654,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200308,-
+265311,2898218,MFL_RS03435,MFL_RS03435,Mfl647,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200308,-
+265311,2898219,MFL_RS02475,MFL_RS02475,Mfl466,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20200308,-
+265311,2898220,MFL_RS03155,MFL_RS03155,Mfl591,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20210315,-
+265311,2898221,MFL_RS03150,MFL_RS03150,Mfl590,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200308,-
+265311,2898222,dnaK,MFL_RS02205,Mfl415,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210315,-
+265311,2898223,MFL_RS03425,MFL_RS03425,Mfl645,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201010,-
+265311,2898224,rbsK,MFL_RS03410,Mfl642,-,-,-,ribokinase,protein-coding,-,-,-,ribokinase,20210315,-
+265311,2898225,mnmA,MFL_RS02190,Mfl412,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210315,-
+265311,2898226,rplK,MFL_RS03250,Mfl609,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200308,-
+265311,2898227,MFL_RS01385,MFL_RS01385,Mfl263,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200308,-
+265311,2898228,MFL_RS01365,MFL_RS01365,Mfl259,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,20200308,-
+265311,2898229,MFL_RS00485,MFL_RS00485,Mfl096,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200308,-
+265311,2898230,MFL_RS00460,MFL_RS00460,Mfl091,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200308,-
+265311,2898231,MFL_RS00480,MFL_RS00480,Mfl095,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2898232,MFL_RS00500,MFL_RS00500,Mfl099,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200308,-
+265311,2898233,add,MFL_RS01135,Mfl215,-,-,-,adenosine deaminase,protein-coding,-,-,-,adenosine deaminase,20200308,-
+265311,2898234,MFL_RS00770,MFL_RS00770,Mfl152,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20210315,-
+265311,2898235,whiA,MFL_RS00330,Mfl066,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200308,-
+265311,2898236,MFL_RS00420,MFL_RS00420,Mfl083,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210315,-
+265311,2898237,rplB,MFL_RS00640,Mfl126,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200310,-
+265311,2898238,MFL_RS00310,MFL_RS00310,Mfl062,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20210315,-
+265311,2898239,MFL_RS00390,MFL_RS00390,Mfl078,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210320,-
+265311,2898240,MFL_RS00985,MFL_RS00985,Mfl186,-,-,-,formate/nitrite transporter family protein,protein-coding,-,-,-,formate/nitrite transporter family protein,20200308,-
+265311,2898241,MFL_RS00805,MFL_RS00805,Mfl159,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200308,-
+265311,2898242,MFL_RS00315,MFL_RS00315,Mfl063,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210315,-
+265311,2898243,MFL_RS01010,MFL_RS01010,Mfl191,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898244,MFL_RS00895,MFL_RS00895,Mfl168,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200308,-
+265311,2898245,MFL_RS00690,MFL_RS00690,Mfl136,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20200310,-
+265311,2898246,MFL_RS01170,MFL_RS01170,Mfl221,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200308,-
+265311,2898247,rpsJ,MFL_RS00620,Mfl122,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210315,-
+265311,2898248,MFL_RS00845,MFL_RS00845,Mfl167,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20210315,-
+265311,2898249,MFL_RS01190,MFL_RS01190,Mfl225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,2898250,pstA,MFL_RS01240,Mfl234,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20200308,-
+265311,2898251,MFL_RS00555,MFL_RS00555,Mfl109,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20210424,-
+265311,2898252,MFL_RS00415,MFL_RS00415,Mfl082,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210315,-
+265311,2898253,pdhA,MFL_RS00195,Mfl039,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200308,-
+265311,2898254,thrS,MFL_RS00940,Mfl177,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200308,-
+265311,2898255,der,MFL_RS01050,Mfl199,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210315,-
+265311,2898256,MFL_RS00220,MFL_RS00220,Mfl044,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20210315,-
+265311,2898257,efp,MFL_RS02165,Mfl407,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210315,-
+265311,2898258,MFL_RS00055,MFL_RS00055,Mfl011,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2898259,MFL_RS03360,MFL_RS03360,Mfl632,-,-,-,polypeptide chain release factor methylase,protein-coding,-,-,-,polypeptide chain release factor methylase,20200308,-
+265311,2898260,MFL_RS01560,MFL_RS01560,Mfl297,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898261,MFL_RS03255,MFL_RS03255,Mfl610,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200308,-
+265311,2898262,MFL_RS03245,MFL_RS03245,Mfl608,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210315,-
+265311,2898263,MFL_RS00170,MFL_RS00170,Mfl034,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20200308,-
+265311,2898264,MFL_RS01960,MFL_RS01960,Mfl375,-,-,-,non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,non-canonical purine NTP pyrophosphatase,20200308,-
+265311,2898265,MFL_RS03290,MFL_RS03290,Mfl617,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20200308,-
+265311,2898266,MFL_RS01840,MFL_RS01840,Mfl354,-,-,-,chromosome segregation ATPase,protein-coding,-,-,-,chromosome segregation ATPase,20200308,-
+265311,2898267,MFL_RS02145,MFL_RS02145,Mfl403,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20200308,-
+265311,2898268,MFL_RS02685,MFL_RS02685,Mfl506,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898269,trmB,MFL_RS01155,Mfl218,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200308,-
+265311,2898270,rsmA,MFL_RS00025,Mfl005,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210315,-
+265311,2898271,MFL_RS02800,MFL_RS02800,Mfl520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898272,MFL_RS00045,MFL_RS00045,Mfl009,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20210315,-
+265311,2898273,MFL_RS01550,MFL_RS01550,Mfl295,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200308,-
+265311,2898274,MFL_RS00125,MFL_RS00125,Mfl025,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200308,-
+265311,2898275,aspS,MFL_RS01905,Mfl365,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200308,-
+265311,2898276,MFL_RS03275,MFL_RS03275,Mfl614,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200308,-
+265311,2898277,MFL_RS01900,MFL_RS01900,Mfl364,-,-,-,TIGR04561 family membrane protein,protein-coding,-,-,-,TIGR04561 family membrane protein,20200308,-
+265311,2898278,MFL_RS03295,MFL_RS03295,Mfl618,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20200308,-
+265311,2898279,MFL_RS01310,MFL_RS01310,Mfl248,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20200308,-
+265311,2898280,MFL_RS01880,MFL_RS01880,Mfl361,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898281,MFL_RS02885,MFL_RS02885,Mfl536,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200308,-
+265311,2898283,cmk,MFL_RS01045,Mfl198,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210315,-
+265311,2898284,rplP,MFL_RS00660,Mfl130,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210315,-
+265311,2898285,MFL_RS01055,MFL_RS01055,Mfl200,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20200308,-
+265311,2898286,rpsS,MFL_RS00645,Mfl127,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210315,-
+265311,2898287,rny,MFL_RS01095,Mfl207,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20210315,-
+265311,2898288,MFL_RS00665,MFL_RS00665,Mfl131,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200308,-
+265311,2898289,MFL_RS02170,MFL_RS02170,Mfl408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+265311,2898290,MFL_RS01895,MFL_RS01895,Mfl363,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200308,-
+265311,2898291,rplN,MFL_RS00675,Mfl133,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210315,-
+265311,2898293,MFL_RS02525,MFL_RS02525,Mfl476,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200308,-
+265311,2898294,MFL_RS01925,MFL_RS01925,Mfl368.1,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210315,-
+265311,2898295,MFL_RS01915,MFL_RS01915,Mfl367,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200309,-
+265311,3125631,MFL_RS00880,MFL_RS00880,Mflr01,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3125632,rrf,MFL_RS00890,Mflr03,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3125633,rrf,MFL_RS02125,Mflr06,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3125634,MFL_RS02130,MFL_RS02130,Mflr05,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3125635,MFL_RS02135,MFL_RS02135,Mflr04,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3125636,MFL_RS00885,MFL_RS00885,Mflr02,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210315,-
+265311,3293617,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Mesoplasma florum str. L1; Mesoplasma florum strain L1).,other,-,-,-,-,20080805,-
+265311,44139950,MFL_RS00095,MFL_RS00095,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210320,-
+265311,44139951,MFL_RS00400,MFL_RS00400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139952,rnpB,MFL_RS01080,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210315,-
+265311,44139953,ssrA,MFL_RS01145,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20210315,-
+265311,44139955,MFL_RS01870,MFL_RS01870,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139956,MFL_RS01875,MFL_RS01875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139959,MFL_RS02345,MFL_RS02345,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139960,MFL_RS02360,MFL_RS02360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139961,MFL_RS02380,MFL_RS02380,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200306,-
+265311,44139964,ffs,MFL_RS03600,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210315,-
+265311,63182072,MFL_RS03625,MFL_RS03625,-,-,-,-,pseudo,pseudo,-,-,-,-,20210315,-
+265311,63182073,MFL_RS03630,MFL_RS03630,Mfl299,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20210317,-
+265311,63182074,MFL_RS03635,MFL_RS03635,Mfl438,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20210315,-
+265311,63182075,MFL_RS03640,MFL_RS03640,Mfl460,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210317,-

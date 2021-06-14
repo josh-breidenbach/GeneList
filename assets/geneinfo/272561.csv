@@ -1,0 +1,937 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+272561,884027,CT_001,CT_001,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884028,rnhB_1,CT_008,-,-,-,-,ribonuclease HII,protein-coding,-,-,-,-,20171122,-
+272561,884029,CT_006,CT_006,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884030,groEL_1,CT_110,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20171122,-
+272561,884031,clpB,CT_113,-,-,-,-,chaperone protein ClpB,protein-coding,-,-,-,-,20201010,-
+272561,884032,pepF,CT_112,-,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,-,20171122,-
+272561,884033,pepA,CT_045,-,-,-,-,cytosol aminopeptidase,protein-coding,-,-,-,-,20171122,-
+272561,884034,fer,CT_059,-,-,-,-,ferredoxin,protein-coding,-,-,-,-,20160917,-
+272561,884035,cydB,CT_014,-,-,-,-,cytochrome D ubiquinol oxidase subunit II,protein-coding,-,-,-,-,20181215,-
+272561,884036,ssb,CT_044,-,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,-,20170906,-
+272561,884037,yraL,CT_048,-,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,-,20160716,-
+272561,884038,cydA,CT_013,-,-,-,-,cytochrome D ubiquinol oxidase subunit I,protein-coding,-,-,-,-,20160806,-
+272561,884039,CT_163,CT_163,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884040,CT_051,CT_051,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884041,tRNATyr,CT_t04,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884042,ybbP,CT_012,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884043,CT_043,CT_043,-,-,-,-,type III secretion system chaperone,protein-coding,-,-,-,-,20171122,-
+272561,884044,hemN_1,CT_052,-,-,-,-,coproporphyrinogen-III oxidase,protein-coding,-,-,-,-,20171122,-
+272561,884045,gcpE,CT_057,-,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin),protein-coding,-,-,-,-,20160813,-
+272561,884046,CT_049,CT_049,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160917,-
+272561,884047,sucB_1,CT_055,-,-,-,-,2-oxoglutarate dehydrogenase complex subunit dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,-,20201010,-
+272561,884048,CT_011,CT_011,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884049,CT_050,CT_050,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884050,htrB,CT_010,-,-,-,-,acyltransferase,protein-coding,-,-,-,-,20160820,-
+272561,884051,CT_142,CT_142,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884052,CT_053,CT_053,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884053,yfgA,CT_009,-,-,-,-,DNA-binding protein,protein-coding,-,-,-,-,20170906,-
+272561,884054,CT_058,CT_058,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160806,-
+272561,884055,CT_114,CT_114,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884056,glgX,CT_042,-,-,-,-,glycogen hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884057,CT_041,CT_041,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20181215,-
+272561,884058,tyrS,CT_062,-,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,-,20170906,-
+272561,884059,ruvB,CT_040,-,-,-,-,Holliday junction DNA helicase RuvB,protein-coding,-,-,-,-,20170906,-
+272561,884060,CT_115,CT_115,-,-,-,-,inclusion membrane protein D,protein-coding,-,-,-,-,20160420,-
+272561,884061,gnd,CT_063,-,-,-,-,6-phosphogluconate dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884062,groES,CT_111,-,-,-,-,co-chaperonin GroES,protein-coding,-,-,-,-,20160806,-
+272561,884063,accC,CT_124,-,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,-,20171122,-
+272561,884064,tRNAPro_1,CT_t02,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884065,ytgA,CT_067,-,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20201003,-
+272561,884066,CT_039.1,CT_039.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884067,gatC,CT_002,-,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit C,protein-coding,-,-,-,-,20160420,-
+272561,884068,CT_061,CT_061,-,-,-,-,RNA polymerase sigma factor sigma-28,protein-coding,-,-,-,-,20171122,-
+272561,884069,CT_159,CT_159,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160730,-
+272561,884070,dcd,CT_039,-,-,-,-,deoxycytidine triphosphate deaminase,protein-coding,-,-,-,-,20160813,-
+272561,884071,hctB,CT_046,-,-,-,-,histone-like protein,protein-coding,-,-,-,-,20160806,-
+272561,884072,CT_038,CT_038,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160730,-
+272561,884073,trmD,CT_027,-,-,-,-,tRNA (guanine N-1) methyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884074,CT_047,CT_047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884075,CT_060,CT_060,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150626,-
+272561,884076,CT_066,CT_066,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884077,lepA,CT_064,-,-,-,-,elongation factor 4,protein-coding,-,-,-,-,20171122,-
+272561,884078,CT_065,CT_065,-,-,-,-,"ADP, ATP carrier protein",protein-coding,-,-,-,-,20160808,-
+272561,884079,tRNAAsn,CT_t01,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884080,CT_117,CT_117,-,-,-,-,inclusion membrane protein F,protein-coding,-,-,-,-,20160808,-
+272561,884081,CT_037,CT_037,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884082,CT_035,CT_035,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160917,-
+272561,884083,recD_1,CT_033,-,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884084,gatB,CT_004,-,-,-,-,Pet112,protein-coding,-,-,-,Pet112|aspartyl/glutamyl-tRNA amidotransferase subunit B,20171122,-
+272561,884085,CT_005,CT_005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160416,-
+272561,884086,ywlC,CT_137,-,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,-,20150718,-
+272561,884087,gatA,CT_003,-,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit A,protein-coding,-,-,-,-,20171122,-
+272561,884088,CT_007,CT_007,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884089,secA_1,CT_141,-,-,-,-,preprotein translocase SecA,protein-coding,-,-,-,-,20201003,-
+272561,884090,CT_016,CT_016,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884091,CT_017,CT_017,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884092,tmRNA,CT_s01,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20140107,-
+272561,884093,CT_105,CT_105,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884094,glnQ,CT_130,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884095,phoH,CT_015,-,-,-,-,ATPase,protein-coding,-,-,-,-,20171122,-
+272561,884096,CT_018,CT_018,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884097,ileS,CT_019,-,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884098,CT_155,CT_155,-,-,-,-,phosphatidylcholine-hydrolyzing phospholipase D,protein-coding,-,-,-,-,20171122,-
+272561,884099,CT_156,CT_156,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884100,CT_133,CT_133,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884101,CT_127,CT_127,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884102,ytgD,CT_070,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884103,ytgC,CT_069,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884104,CT_157,CT_157,-,-,-,-,phospholipase,protein-coding,-,-,-,-,20171122,-
+272561,884105,CT_158,CT_158,-,-,-,-,phospholipase,protein-coding,-,-,-,-,20181215,-
+272561,884106,rl13,CT_125,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,-,20160716,-
+272561,884107,ytgB_1,CT_068,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884108,CT_073,CT_073,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884109,CT_108,CT_108,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884110,yaeL,CT_072,-,-,-,-,zinc metalloprotease,protein-coding,-,-,-,-,20171122,-
+272561,884111,mutY,CT_107,-,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,-,20171122,-
+272561,884112,yaeM,CT_071,-,-,-,-,1-deoxy-D-xylulose 5-phosphate reductoisomerase,protein-coding,-,-,-,-,20171122,-
+272561,884113,adk,CT_128,-,-,-,-,adenylate kinase,protein-coding,-,-,-,-,20171122,-
+272561,884114,CT_131,CT_131,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884115,smpB,CT_076,-,-,-,-,SsrA-binding protein,protein-coding,-,-,-,-,20160806,-
+272561,884116,yceC,CT_106,-,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,-,20171122,-
+272561,884117,dnaN,CT_075,-,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,-,20201003,-
+272561,884118,fabI,CT_104,-,-,-,-,enoyl-(acyl carrier protein) reductase,protein-coding,-,-,-,-,20171122,-
+272561,884119,CT_154,CT_154,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884120,CT_132,CT_132,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884121,rs9,CT_126,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,-,20160808,-
+272561,884122,recF,CT_074,-,-,-,-,recombination protein F,protein-coding,-,-,-,-,20170906,-
+272561,884123,CT_153,CT_153,-,-,-,-,MAC/perforin family protein,protein-coding,-,-,-,-,20171122,-
+272561,884124,CT_079,CT_079,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884125,CT_135,CT_135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884126,CT_138,CT_138,-,-,-,-,microsomal dipeptidase,protein-coding,-,-,-,-,20150801,-
+272561,884127,CT_136,CT_136,-,-,-,-,phospholipase-carboxylesterase family protein,protein-coding,-,-,-,-,20160917,-
+272561,884128,folD,CT_078,-,-,-,-,"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase",protein-coding,-,-,-,-,20201010,-
+272561,884129,oppA_1,CT_139,-,-,-,-,oligopeptide ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884130,glnP,CT_129,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,-,20170906,-
+272561,884131,CT_077,CT_077,-,-,-,-,thiamine biosynthesis lipoprotein,protein-coding,-,-,-,-,20160808,-
+272561,884132,ytfF,CT_034,-,-,-,-,membrane transport/efflux protein,protein-coding,-,-,-,-,20160924,-
+272561,884133,CT_082,CT_082,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884134,CT_134,CT_134,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884135,CT_081,CT_081,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884136,CT_140,CT_140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884137,ltuB,CT_080,-,-,-,-,late transcription unit protein B,protein-coding,-,-,-,-,20210417,-
+272561,884138,CT_085,CT_085,-,-,-,-,decarboxylase,protein-coding,-,-,-,-,20171122,-
+272561,884139,CT_151,CT_151,-,-,-,-,lipoprotein releasing system ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884140,CT_161,CT_161,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884141,CT_084,CT_084,-,-,-,-,phospholipase,protein-coding,-,-,-,-,20170906,-
+272561,884142,CT_083,CT_083,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884143,sycE,CT_088,-,-,-,-,type III secretion chaperone,protein-coding,-,-,-,-,20171122,-
+272561,884144,tRNAThr_1,CT_t03,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884145,CT_875,CT_875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160420,-
+272561,884146,CT_116,CT_116,-,-,-,-,inclusion membrane protein E,protein-coding,-,-,-,-,20171122,-
+272561,884147,incA,CT_119,-,-,-,-,inclusion membrane protein A,protein-coding,-,-,-,-,20171122,-
+272561,884148,metG,CT_032,-,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884149,CT_031,CT_031,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884150,malQ,CT_087,-,-,-,-,4-alpha glucanotransferase,protein-coding,-,-,-,-,20160806,-
+272561,884151,gmk,CT_030,-,-,-,-,guanylate kinase,protein-coding,-,-,-,-,20170906,-
+272561,884152,rnhB_2,CT_029,-,-,-,-,ribonuclease HII,protein-coding,-,-,-,-,20160808,-
+272561,884153,rl28,CT_086,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,-,20160416,-
+272561,884154,rl19,CT_028,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,-,20160808,-
+272561,884155,CT_091,CT_091,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150626,-
+272561,884156,rl31,CT_022,-,-,-,-,50S ribosomal protein L31 type B,protein-coding,-,-,-,-,20160808,-
+272561,884157,CT_109,CT_109,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884158,CT_021,CT_021,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884159,lcrD,CT_090,-,-,-,-,low calcium response protein D,protein-coding,-,-,-,-,20150718,-
+272561,884160,lcrE,CT_089,-,-,-,-,low calcium response protein E,protein-coding,-,-,-,-,20171122,-
+272561,884161,truB,CT_094,-,-,-,-,tRNA pseudouridine synthase B,protein-coding,-,-,-,-,20171122,-
+272561,884162,lepB,CT_020,-,-,-,-,signal peptidase I,protein-coding,-,-,-,-,20160716,-
+272561,884163,ribF,CT_093,-,-,-,-,bifunctional riboflavin kinase/FMN adenylyltransferase,protein-coding,-,-,-,-,20181215,-
+272561,884164,ychF,CT_092,-,-,-,-,GTPase,protein-coding,-,-,-,-,20160716,-
+272561,884165,infB,CT_096,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,-,20171122,-
+272561,884166,rbfA,CT_095,-,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,-,20201003,-
+272561,884167,nusA,CT_097,-,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,-,20171122,-
+272561,884168,CT_120,CT_120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884169,araD,CT_121,-,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,-,20160917,-
+272561,884170,CT_118,CT_118,-,-,-,-,inclusion membrane protein G,protein-coding,-,-,-,-,20160808,-
+272561,884171,efp_1,CT_122,-,-,-,-,elongation factor P,protein-coding,-,-,-,-,20171122,-
+272561,884172,accB,CT_123,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein subunit,protein-coding,-,-,-,-,20201003,-
+272561,884173,CT_024,CT_024,-,-,-,-,release factor glutamine methyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884174,CT_056,CT_056,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150718,-
+272561,884175,prfA,CT_023,-,-,-,-,peptide chain release factor,protein-coding,-,-,-,-,20171122,-
+272561,884176,ffh,CT_025,-,-,-,-,signal recognition particle GTPase,protein-coding,-,-,-,-,20160716,-
+272561,884177,rs16,CT_026,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,-,20160808,-
+272561,884178,sucA,CT_054,-,-,-,-,2-oxoglutarate dehydrogenase subunit E1,protein-coding,-,-,-,-,20160917,-
+272561,884179,rs1,CT_098,-,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,-,20171122,-
+272561,884180,acpS,CT_100,-,-,-,-,holo-[acyl-carrier-protein] synthase,protein-coding,-,-,-,-,20160420,-
+272561,884181,trxB,CT_099,-,-,-,-,thioredoxin reductase,protein-coding,-,-,-,-,20160813,-
+272561,884182,CT_102,CT_102,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150711,-
+272561,884183,CT_101,CT_101,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884184,ycfV,CT_152,-,-,-,-,lipoprotein releasing system ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+272561,884185,CT_103,CT_103,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884186,mhpA,CT_148,-,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,-,20171122,-
+272561,884187,rl33,CT_150,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,-,20160808,-
+272561,884188,CT_149,CT_149,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884189,dnlJ,CT_146,-,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,-,20171122,-
+272561,884190,CT_144,CT_144,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884191,CT_147,CT_147,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884192,CT_143,CT_143,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884193,CT_145,CT_145,-,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,-,20171122,-
+272561,884194,CT_160,CT_160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884195,CT_768,CT_768,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20181215,-
+272561,884196,argS,CT_454,-,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884197,CT_165,CT_165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884198,CT_162,CT_162,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884199,CT_164,CT_164,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884200,CT_036,CT_036,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884201,tRNAArg_3,CT_t18,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884202,yfhC,CT_844,-,-,-,-,nucleoside deaminase,protein-coding,-,-,-,-,20160903,-
+272561,884203,CT_473,CT_473,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201010,-
+272561,884204,CT_483,CT_483,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884205,CT_799,CT_799,-,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,-,20171122,-
+272561,884206,yhhF,CT_487,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20210417,-
+272561,884207,glyA,CT_432,-,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,-,20201010,-
+272561,884208,CT_433,CT_433,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160730,-
+272561,884209,ygbB,CT_434,-,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,-,20160813,-
+272561,884210,rs10,CT_436,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,-,20160808,-
+272561,884211,rs7,CT_438,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160808,-
+272561,884212,cysJ,CT_435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884213,CT_440,CT_440,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884214,tsp,CT_441,-,-,-,-,carboxy-terminal processing protease,protein-coding,-,-,-,-,20171122,-
+272561,884215,crpA,CT_442,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160420,-
+272561,884216,omcA,CT_444,-,-,-,-,lipoprotein OmcA,protein-coding,-,-,-,-,20171122,-
+272561,884217,clpP_1,CT_431,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160820,-
+272561,884218,gltX,CT_445,-,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884219,CT_446,CT_446,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884220,CT_444.1,CT_444.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884221,recJ,CT_447,-,-,-,-,single-stranded-DNA-specific exonuclease,protein-coding,-,-,-,-,20171122,-
+272561,884222,secD/secF,CT_448,-,-,-,-,preprotein translocase subunit SecD/SecF,protein-coding,-,-,-,-,20171122,-
+272561,884223,omcB,CT_443,-,-,-,-,outer membrane protein OmcB,protein-coding,-,-,-,-,20160716,-
+272561,884224,CT_450,CT_450,-,-,-,-,isoprenyl transferase,protein-coding,-,-,-,-,20160827,-
+272561,884225,cdsA,CT_451,-,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,-,20160806,-
+272561,884226,cmk,CT_452,-,-,-,-,cytidylate kinase,protein-coding,-,-,-,-,20171122,-
+272561,884227,plsC,CT_453,-,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,-,20170906,-
+272561,884228,murA,CT_455,-,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884229,CT_449,CT_449,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884230,fusA,CT_437,-,-,-,-,elongation factor G,protein-coding,-,-,-,-,20171122,-
+272561,884231,CT_456,CT_456,-,-,-,-,translocated actin-recruiting phosphoprotein,protein-coding,-,-,-,-,20160903,-
+272561,884232,YhhY,CT_458,-,-,-,-,acetyltransferase,protein-coding,-,-,-,-,20210417,-
+272561,884233,CT_460,CT_460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884234,CT_461,CT_461,-,-,-,-,"UDP-2,3-diacylglucosamine pyrophosphohydrolase",protein-coding,-,-,-,-,20171122,-
+272561,884235,prfB,CT_459,-,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,-,20160813,-
+272561,884236,CT_457,CT_457,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20160416,-
+272561,884237,CT_465,CT_465,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884238,CT_462,CT_462,-,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,-,20160924,-
+272561,884239,truA,CT_463,-,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,-,20171122,-
+272561,884240,tRNALeu_1,CT_t17,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884241,CT_466,CT_466,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884242,atoS,CT_467,-,-,-,-,two component system sensor histidine kinase,protein-coding,-,-,-,-,20171122,-
+272561,884243,atoC,CT_468,-,-,-,-,two component system response regulator,protein-coding,-,-,-,-,20170906,-
+272561,884244,CT_469,CT_469,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884245,CT_470,CT_470,-,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,-,20171122,-
+272561,884246,CT_471,CT_471,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884247,tRNALeu_2,CT_t19,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884248,CT_464,CT_464,-,-,-,-,HAD superfamily hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884249,CT_472,CT_472,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884250,CT_474,CT_474,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884251,pheT,CT_475,-,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884252,CT_476,CT_476,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884253,ada,CT_477,-,-,-,-,DNA methyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884254,oppC_2,CT_478,-,-,-,-,oligopeptide ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884255,oppB_2,CT_479,-,-,-,-,oligopeptide ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884256,CT_480.1,CT_480.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884257,CT_482,CT_482,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884258,CT_484,CT_484,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884259,hemZ,CT_485,-,-,-,-,ferrochelatase,protein-coding,-,-,-,-,20171122,-
+272561,884260,oppA_4,CT_480,-,-,-,-,oligopeptide ABC transporter substrate-binding lipoprotein,protein-coding,-,-,-,-,20160716,-
+272561,884261,CT_488,CT_488,-,-,-,-,phosphohydrolase,protein-coding,-,-,-,-,20170906,-
+272561,884262,fliY,CT_486,-,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884263,CT_490,CT_490,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884264,glgC,CT_489,-,-,-,-,glucose-1-phosphate adenyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884265,CT_481,CT_481,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884266,yacE,CT_492,-,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,-,20171122,-
+272561,884267,polA,CT_493,-,-,-,-,DNA polymerase I,protein-coding,-,-,-,-,20171122,-
+272561,884268,sohB,CT_494,-,-,-,-,protease,protein-coding,-,-,-,-,20171122,-
+272561,884269,CT_495,CT_495,-,-,-,-,"ADP, ATP carrier protein",protein-coding,-,-,-,-,20201003,-
+272561,884270,CT_496,CT_496,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884271,CT_498,CT_498,-,-,-,-,tRNA uridine 5-carboxymethylaminomethyl modification protein GidA,protein-coding,-,-,-,-,20171122,-
+272561,884272,rho,CT_491,-,-,-,-,transcription termination factor,protein-coding,-,-,-,-,20171122,-
+272561,884273,lplA_2,CT_499,-,-,-,-,lipoate-protein ligase A,protein-coding,-,-,-,-,20170906,-
+272561,884274,CT_496.1,CT_496.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884275,ndk,CT_500,-,-,-,-,nucleoside diphosphate kinase,protein-coding,-,-,-,-,20171122,-
+272561,884276,ruvA,CT_501,-,-,-,-,Holliday junction DNA helicase RuvA,protein-coding,-,-,-,-,20171122,-
+272561,884277,tRNASer_2,CT_t20,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884278,CT_503,CT_503,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884279,ruvC,CT_502,-,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,-,20160806,-
+272561,884280,gapA,CT_505,-,-,-,-,glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884281,tRNALeu_3,CT_t21,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884282,rl17,CT_506,-,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,-,20160420,-
+272561,884283,rpoA,CT_507,-,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884284,rs11,CT_508,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20160808,-
+272561,884285,rs13,CT_509,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,-,20171122,-
+272561,884286,secY,CT_510,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,-,20171122,-
+272561,884287,rl15,CT_511,-,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,-,20160416,-
+272561,884288,rl18,CT_513,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,-,20171122,-
+272561,884289,dnaB,CT_497,-,-,-,-,replicative DNA helicase,protein-coding,-,-,-,-,20171122,-
+272561,884290,CT_504,CT_504,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160331,-
+272561,884291,rs8,CT_515,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20160808,-
+272561,884292,rl5,CT_516,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,-,20171122,-
+272561,884293,rl6,CT_514,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,-,20171122,-
+272561,884294,rl24,CT_517,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,-,20160820,-
+272561,884295,rl14,CT_518,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20160808,-
+272561,884296,rl29,CT_520,-,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,-,20160924,-
+272561,884297,rs5,CT_512,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,-,20170906,-
+272561,884298,rl16,CT_521,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20160806,-
+272561,884299,rs3,CT_522,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20171122,-
+272561,884300,rl22,CT_523,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,-,20160808,-
+272561,884301,rs19,CT_524,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+272561,884302,rl23,CT_526,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20160420,-
+272561,884303,rl3,CT_528,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,-,20160416,-
+272561,884304,CT_529,CT_529,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884305,rl2,CT_525,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+272561,884306,rs17,CT_519,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,-,20160808,-
+272561,884307,lpxA,CT_531,-,-,-,-,acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884308,fabZ,CT_532,-,-,-,-,3-hydroxyacyl-ACP dehydratase,protein-coding,-,-,-,-,20201010,-
+272561,884309,lpxC,CT_533,-,-,-,-,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,protein-coding,-,-,-,-,20160910,-
+272561,884310,cutE,CT_534,-,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884311,yciA,CT_535,-,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,-,20160808,-
+272561,884312,dnaQ_2,CT_536,-,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,-,20171122,-
+272561,884313,yjeE,CT_537,-,-,-,-,ATPase/kinase,protein-coding,-,-,-,-,20160730,-
+272561,884314,fmt,CT_530,-,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884315,rl4,CT_527,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,-,20160420,-
+272561,884316,CT_538,CT_538,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884317,trxA,CT_539,-,-,-,-,thioredoxin,protein-coding,-,-,-,-,20201003,-
+272561,884318,tRNALeu_5,CT_t22,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884319,aspS,CT_542,-,-,-,-,aspartate--tRNA(Asp/Asn) ligase,protein-coding,-,-,-,-,20171122,-
+272561,884320,hisS,CT_543,-,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884321,uhpC,CT_544,-,-,-,-,hexose phosphate transport protein,protein-coding,-,-,-,-,20171122,-
+272561,884322,dnaE,CT_545,-,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884323,CT_546,CT_546,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884324,CT_547,CT_547,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884325,CT_550,CT_550,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884326,yibK,CT_540,-,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,-,20150627,-
+272561,884327,mip,CT_541,-,-,-,-,peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,-,20171122,-
+272561,884328,CT_552,CT_552,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884329,rsbW,CT_549,-,-,-,-,serine/threonine protein kinase RsbW,protein-coding,-,-,-,-,20150626,-
+272561,884330,fmu,CT_553,-,-,-,-,methyltransferase,protein-coding,-,-,-,-,20160903,-
+272561,884331,brnQ,CT_554,-,-,-,-,branched-chain amino acid transport system carrier protein,protein-coding,-,-,-,-,20150626,-
+272561,884332,CT_555,CT_555,-,-,-,-,helicase,protein-coding,-,-,-,-,20160910,-
+272561,884333,CT_556,CT_556,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884334,lipA,CT_558,-,-,-,-,lipoyl synthase,protein-coding,-,-,-,-,20160730,-
+272561,884335,CT_548,CT_548,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884336,yscJ,CT_559,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150626,-
+272561,884337,CT_560,CT_560,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884338,yscR,CT_562,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150626,-
+272561,884340,CT_565,CT_565,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884341,lpdA,CT_557,-,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyl dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884342,yscL,CT_561,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20171122,-
+272561,884343,CT_566,CT_566,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884344,CT_567,CT_567,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160806,-
+272561,884345,CT_568,CT_568,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884346,gspF,CT_570,-,-,-,-,type II secretion system protein F,protein-coding,-,-,-,-,20160806,-
+272561,884347,yscT,CT_564,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150627,-
+272561,884348,gspE,CT_571,-,-,-,-,type II secretion system protein E,protein-coding,-,-,-,-,20160716,-
+272561,884349,CT_573,CT_573,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884350,yscS,CT_563,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20150725,-
+272561,884351,pepP,CT_574,-,-,-,-,aminopeptidase,protein-coding,-,-,-,-,20171122,-
+272561,884352,mutL,CT_575,-,-,-,-,DNA mismatch repair protein,protein-coding,-,-,-,-,20171122,-
+272561,884353,lcrH_1,CT_576,-,-,-,-,type III secretion low calcium response chaperone,protein-coding,-,-,-,-,20171122,-
+272561,884354,CT_577,CT_577,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884355,CT_578,CT_578,-,-,-,-,type III secretion system translocator CopB,protein-coding,-,-,-,-,20150626,-
+272561,884356,CT_579,CT_579,-,-,-,-,type III secretion system translocator CopD,protein-coding,-,-,-,-,20201003,-
+272561,884357,CT_569,CT_569,-,-,-,-,type II secretion system protein G,protein-coding,-,-,-,-,20150626,-
+272561,884358,CT_580,CT_580,-,-,-,-,S-adenosylmethionine/S-adenosylhomocysteine transporter,protein-coding,-,-,-,-,20160806,-
+272561,884359,thrS,CT_581,-,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884360,minD,CT_582,-,-,-,-,ParA family chromosome partitioning ATPase,protein-coding,-,-,-,-,20170906,-
+272561,884361,gp6D,CT_583,-,-,-,-,virulence protein GP6-D,protein-coding,-,-,-,-,20160730,-
+272561,884362,trpS,CT_585,-,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884363,gspD,CT_572,-,-,-,-,type II secretion system protein D,protein-coding,-,-,-,-,20160806,-
+272561,884364,eno,CT_587,-,-,-,-,enolase,protein-coding,-,-,-,-,20171122,-
+272561,884365,rbsU,CT_588,-,-,-,-,serine phosphatase RsbU,protein-coding,-,-,-,-,20201024,-
+272561,884366,CT_589,CT_589,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884367,CT_584,CT_584,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884368,sdhB,CT_591,-,-,-,-,succinate dehydrogenase iron sulfur subunit,protein-coding,-,-,-,-,20160716,-
+272561,884369,CT_593,CT_593,-,-,-,-,pseudo,pseudo,-,-,-,-,20140729,-
+272561,884370,uvrB,CT_586,-,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,-,20171122,-
+272561,884372,ycfH,CT_594,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884373,dsbD,CT_595,-,-,-,-,thiol:disulfide Interchange protein,protein-coding,-,-,-,-,20150704,-
+272561,884374,exbD,CT_597,-,-,-,-,biopolymer transport protein,protein-coding,-,-,-,-,20150627,-
+272561,884376,CT_590,CT_590,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884377,tolB,CT_599,-,-,-,-,translocation protein TolB,protein-coding,-,-,-,-,20201003,-
+272561,884378,pal,CT_600,-,-,-,-,peptidoglycan-associated lipoprotein,protein-coding,-,-,-,-,20170906,-
+272561,884379,papQ,CT_601,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884380,ahpC,CT_603,-,-,-,-,thioredoxin peroxidase,protein-coding,-,-,-,-,20171122,-
+272561,884381,CT_598,CT_598,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884382,tRNAArg_1,CT_t23,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884383,CT_602,CT_602,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884384,groEL_2,CT_604,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20171122,-
+272561,884385,exbB,CT_596,-,-,-,-,biopolymer transport protein,protein-coding,-,-,-,-,20150626,-
+272561,884386,CT_606,CT_606,-,-,-,-,non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,-,20160808,-
+272561,884387,CT_606.1,CT_606.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884388,ung,CT_607,-,-,-,-,uracil DNA glycosylase,protein-coding,-,-,-,-,20160806,-
+272561,884389,uvrD,CT_608,-,-,-,-,ATP-dependent DNA helicase,protein-coding,-,-,-,-,20171122,-
+272561,884390,CT_610,CT_610,-,-,-,-,virulence protein CADD,protein-coding,-,-,-,-,20160808,-
+272561,884391,CT_605,CT_605,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150704,-
+272561,884392,CT_611,CT_611,-,-,-,-,gamma-glutamyl ligase,protein-coding,-,-,-,-,20171122,-
+272561,884393,folP,CT_613,-,-,-,-,bifunctional 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase/dihydropteroate synthase,protein-coding,-,-,-,-,20171122,-
+272561,884394,folA,CT_612,-,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,-,20160813,-
+272561,884395,sigA,CT_615,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,-,20201010,-
+272561,884396,CT_616,CT_616,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160827,-
+272561,884397,folX,CT_614,-,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,-,20160808,-
+272561,884398,rpoN,CT_609,-,-,-,-,RNA polymerase sigma-54 factor,protein-coding,-,-,-,-,20181215,-
+272561,884399,CT_619,CT_619,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160917,-
+272561,884400,CT_620,CT_620,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884401,CT_621,CT_621,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160813,-
+272561,884402,CT_622,CT_622,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201219,-
+272561,884403,CT_624,CT_624,-,-,-,-,lipid II flippase MurJ,protein-coding,-,-,-,-,20171122,-
+272561,884404,nfo,CT_625,-,-,-,-,endonuclease IV,protein-coding,-,-,-,-,20171122,-
+272561,884405,CT_623,CT_623,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884406,rs4,CT_626,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20171122,-
+272561,884407,yceA,CT_627,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884408,ispA,CT_628,-,-,-,-,farnesyl diphosphate synthase,protein-coding,-,-,-,-,20150626,-
+272561,884410,CT_618,CT_618,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884411,CT_631,CT_631,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884412,rs20,CT_617,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,-,20160808,-
+272561,884413,tRNAPro_2,CT_t24,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884414,hemB,CT_633,-,-,-,-,delta-aminolevulinic acid dehydratase,protein-coding,-,-,-,-,20160808,-
+272561,884415,CT_634,CT_634,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,protein-coding,-,-,-,-,20171122,-
+272561,884416,greA,CT_636,-,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,-,20171122,-
+272561,884417,cpxR,CT_630,-,-,-,-,transcriptional regulator,protein-coding,-,-,-,-,20160917,-
+272561,884418,tRNAAla_2,CT_t25,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884419,tyrB,CT_637,-,-,-,-,aromatic amino acid aminotransferase,protein-coding,-,-,-,-,20171122,-
+272561,884421,CT_632,CT_632,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20181215,-
+272561,884422,recB,CT_639,-,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884423,recC,CT_640,-,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,-,20201010,-
+272561,884424,ygeD,CT_641,-,-,-,-,membrane efflux protein,protein-coding,-,-,-,-,20171122,-
+272561,884425,CT_642,CT_642,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884426,topA,CT_643,-,-,-,-,DNA topoisomerase I,protein-coding,-,-,-,-,20171122,-
+272561,884427,CT_645,CT_645,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884429,CT_646,CT_646,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884430,CT_647,CT_647,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884431,CT_648,CT_648,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150808,-
+272561,884432,ygfA,CT_649,-,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,-,20160813,-
+272561,884433,recA,CT_650,-,-,-,-,recombinase RecA,protein-coding,-,-,-,-,20171122,-
+272561,884434,CT_651,CT_651,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+272561,884435,recD_2,CT_652,-,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884436,CT_652.1,CT_652.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884437,yhbG,CT_653,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+272561,884438,CT_654,CT_654,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884439,kdsA,CT_655,-,-,-,-,2-dehydro-3-deoxyphosphooctonate aldolase,protein-coding,-,-,-,-,20160416,-
+272561,884440,tRNAArg_2,CT_t26,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884441,CT_635,CT_635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160730,-
+272561,884442,yohI,CT_644,-,-,-,-,tRNA-dihydrouridine synthase,protein-coding,-,-,-,-,20171122,-
+272561,884443,CT_657,CT_657,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884444,sfhB,CT_658,-,-,-,-,RNA pseudouridine synthase,protein-coding,-,-,-,-,20171122,-
+272561,884445,CT_660,CT_660,-,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,-,20150801,-
+272561,884446,CT_659,CT_659,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884447,hemA,CT_662,-,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,-,20160917,-
+272561,884448,CT_663,CT_663,-,-,-,-,type III secretion system chaperone,protein-coding,-,-,-,-,20210213,-
+272561,884449,CT_661,CT_661,-,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,-,20171122,-
+272561,884450,CT_665,CT_665,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160420,-
+272561,884451,CT_666,CT_666,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+272561,884452,CT_667,CT_667,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+272561,884453,yscN,CT_669,-,-,-,-,ATP synthase,protein-coding,-,-,-,-,20171122,-
+272561,884454,CT_656,CT_656,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884455,CT_670,CT_670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+272561,884456,CT_671,CT_671,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884457,CT_672,CT_672,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20171122,-
+272561,884458,tRNAThr_3,CT_t27,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884459,pkn5,CT_673,-,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,-,20181215,-
+272561,884460,CT_668,CT_668,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884461,karG,CT_675,-,-,-,-,protein-arginine kinase,protein-coding,-,-,-,-,20171122,-
+272561,884462,CT_664,CT_664,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160820,-
+272561,884463,CT_676,CT_676,-,-,-,-,protein-arginine kinase activator protein,protein-coding,-,-,-,-,20170906,-
+272561,884464,tRNALys,CT_t28,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884465,yscC,CT_674,-,-,-,-,type II secretion system protein,protein-coding,-,-,-,-,20181215,-
+272561,884466,rrf,CT_677,-,-,-,-,ribosome recycling factor,protein-coding,-,-,-,-,20160716,-
+272561,884467,pyrH,CT_678,-,-,-,-,uridylate kinase,protein-coding,-,-,-,-,20160903,-
+272561,884468,tRNAGlu,CT_t29,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884469,rs2,CT_680,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20171122,-
+272561,884470,tRNAGly_2,CT_t30,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884471,CT_683,CT_683,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884472,pbpB,CT_682,-,-,-,-,penicillin-binding protein,protein-coding,-,-,-,-,20160716,-
+272561,884473,ompA,CT_681,-,-,-,-,major outer membrane porin,protein-coding,-,-,-,-,20160730,-
+272561,884474,CT_685,CT_685,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884475,tsf,CT_679,-,-,-,-,elongation factor TS,protein-coding,-,-,-,-,20160917,-
+272561,884476,CT_686,CT_686,-,-,-,-,FeS assembly protein SufD,protein-coding,-,-,-,-,20171122,-
+272561,884477,parB,CT_688,-,-,-,-,chromosome partitioning protein ParB,protein-coding,-,-,-,-,20210417,-
+272561,884478,dppD,CT_690,-,-,-,-,oligopeptide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884479,CT_684,CT_684,-,-,-,-,cysteine desulfurase activator complex subunit SufB,protein-coding,-,-,-,-,20171122,-
+272561,884480,CT_691,CT_691,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+272561,884481,CT_692,CT_692,-,-,-,-,phosphate permease,protein-coding,-,-,-,-,20171122,-
+272561,884482,CT_694,CT_694,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884483,CT_687,CT_687,-,-,-,-,cysteine desulfurase,protein-coding,-,-,-,-,20171122,-
+272561,884484,CT_695,CT_695,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884485,CT_696,CT_696,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160331,-
+272561,884486,nth,CT_697,-,-,-,-,endonuclease III,protein-coding,-,-,-,-,20170906,-
+272561,884487,CT_698,CT_698,-,-,-,-,tRNA modification GTPase,protein-coding,-,-,-,-,20170906,-
+272561,884488,psdD,CT_699,-,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,-,20160416,-
+272561,884489,secA_2,CT_701,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,-,20160813,-
+272561,884490,dppF,CT_689,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20170906,-
+272561,884491,pgk,CT_693,-,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,-,20160416,-
+272561,884492,CT_700,CT_700,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884493,pcnB_2,CT_704,-,-,-,-,poly A polymerase,protein-coding,-,-,-,-,20160813,-
+272561,884494,CT_702,CT_702,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884495,clpP_2,CT_706,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160808,-
+272561,884496,tig,CT_707,-,-,-,-,trigger factor,protein-coding,-,-,-,-,20171122,-
+272561,884497,tRNAGly_1,CT_t31,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884498,CT_708,CT_708,-,-,-,-,helicase,protein-coding,-,-,-,-,20171122,-
+272561,884499,mreB,CT_709,-,-,-,-,rod shape-determining protein MreB,protein-coding,-,-,-,-,20170906,-
+272561,884500,clpX,CT_705,-,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,-,20171122,-
+272561,884501,CT_711,CT_711,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884502,CT_712,CT_712,-,-,-,-,type III secretion system effector protein,protein-coding,-,-,-,-,20171122,-
+272561,884503,porB,CT_713,-,-,-,-,outer membrane protein B,protein-coding,-,-,-,-,20160730,-
+272561,884504,gpdA,CT_714,-,-,-,-,glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884505,pckA,CT_710,-,-,-,-,phosphoenolpyruvate carboxykinase,protein-coding,-,-,-,-,20160813,-
+272561,884506,CT_716,CT_716,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884507,CT_703,CT_703,-,-,-,-,GTPase Der,protein-coding,-,-,-,-,20171122,-
+272561,884508,CT_717,CT_717,-,-,-,-,type III secretion system ATP synthase,protein-coding,-,-,-,-,20171122,-
+272561,884509,CT_719,CT_719,-,-,-,-,type III secretion system protein,protein-coding,-,-,-,-,20160716,-
+272561,884510,CT_715,CT_715,-,-,-,-,UDP-N-acetylglucosamine pyrophosphorylase,protein-coding,-,-,-,-,20150626,-
+272561,884511,CT_720,CT_720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884512,yfhO_2,CT_721,-,-,-,-,aminotransferase,protein-coding,-,-,-,-,20210417,-
+272561,884513,pgm,CT_722,-,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,-,20160808,-
+272561,884514,yjbC,CT_723,-,-,-,-,RNA pseudouridine synthase,protein-coding,-,-,-,-,20171122,-
+272561,884515,CT_724,CT_724,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884516,CT_726,CT_726,-,-,-,-,cell division protein,protein-coding,-,-,-,-,20150627,-
+272561,884517,birA,CT_725,-,-,-,-,biotin--protein ligase,protein-coding,-,-,-,-,20171122,-
+272561,884518,zntA,CT_727,-,-,-,-,metal transporting ATPase,protein-coding,-,-,-,-,20171122,-
+272561,884519,serS,CT_729,-,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884520,ribD,CT_730,-,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase,protein-coding,-,-,-,-,20171122,-
+272561,884521,ribA/ribB,CT_731,-,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II",protein-coding,-,-,-,-,20171122,-
+272561,884522,CT_728,CT_728,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884523,CT_733,CT_733,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884524,CT_734,CT_734,-,-,-,-,lipoprotein,protein-coding,-,-,-,-,20160420,-
+272561,884525,dagA_2,CT_735,-,-,-,-,Na+/alanine symporter,protein-coding,-,-,-,-,20150626,-
+272561,884526,yycJ,CT_738,-,-,-,-,Zn-dependent hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884527,ribE,CT_732,-,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,-,20160813,-
+272561,884528,CT_718,CT_718,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884529,ftsK,CT_739,-,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,-,20171122,-
+272561,884530,tRNAHis,CT_t32,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884531,16SrRNA_1,CT_r01,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884532,23SrRNA_1,CT_r02,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884533,CT_737,CT_737,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884534,5SrRNA_1,CT_r03,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884535,CT_741,CT_741,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160420,-
+272561,884536,ybcL,CT_736,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+272561,884537,ygcA,CT_742,-,-,-,-,rRNA methyltransferse,protein-coding,-,-,-,-,20171122,-
+272561,884538,hctA,CT_743,-,-,-,-,histone H1-like protein,protein-coding,-,-,-,-,20171122,-
+272561,884539,CT_744,CT_744,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884540,hemG,CT_745,-,-,-,-,protoporphyrinogen oxidase,protein-coding,-,-,-,-,20160730,-
+272561,884541,hemN_2,CT_746,-,-,-,-,coproporphyrinogen-III oxidase,protein-coding,-,-,-,-,20171122,-
+272561,884542,hemE,CT_747,-,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,-,20150626,-
+272561,884543,alaS,CT_749,-,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,-,20181215,-
+272561,884544,16SrRNA_2,CT_r04,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884545,dmpP,CT_740,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit F,protein-coding,-,-,-,-,20171122,-
+272561,884546,23SrRNA_2,CT_r05,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884547,5SrRNA_2,CT_r06,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140107,-
+272561,884548,tktB,CT_750,-,-,-,-,transketolase,protein-coding,-,-,-,-,20171122,-
+272561,884549,amn,CT_751,-,-,-,-,AMP nucleosidase,protein-coding,-,-,-,-,20150626,-
+272561,884550,efp_2,CT_752,-,-,-,-,elongation factor P,protein-coding,-,-,-,-,20171122,-
+272561,884551,CT_753,CT_753,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884552,icc,CT_754,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170906,-
+272561,884553,groEL_3,CT_755,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,-,20171122,-
+272561,884554,mraY,CT_757,-,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,-,20160806,-
+272561,884555,murF,CT_756,-,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,-,20171122,-
+272561,884556,mfd,CT_748,-,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,-,20171122,-
+272561,884557,murG,CT_761,-,-,-,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,protein-coding,-,-,-,-,20171122,-
+272561,884558,CT_763,CT_763,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+272561,884559,nlpD,CT_759,-,-,-,-,muramidase,protein-coding,-,-,-,-,20171122,-
+272561,884560,ftsW,CT_760,-,-,-,-,lipid II flippase FtsW,protein-coding,-,-,-,-,20150704,-
+272561,884561,rsbV_2,CT_765,-,-,-,-,anti-sigma F factor antagonist,protein-coding,-,-,-,-,20160813,-
+272561,884562,murC/ddlA,CT_762,-,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,protein-coding,-,-,-,-,20171122,-
+272561,884563,tRNACys,CT_t33,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884564,CT_767,CT_767,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+272561,884565,ybeB,CT_769,-,-,-,-,ribosome silencing factor,protein-coding,-,-,-,-,20150627,-
+272561,884566,fabF,CT_770,-,-,-,-,3-oxoacyl-ACP synthase,protein-coding,-,-,-,-,20171122,-
+272561,884567,miaA,CT_766,-,-,-,-,tRNA dimethylallyltransferase,protein-coding,-,-,-,-,20150626,-
+272561,884568,CT_771,CT_771,-,-,-,-,hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884569,murD,CT_758,-,-,-,-,UDP-N-acetylmuramoylalanine--D-glutamate ligase,protein-coding,-,-,-,-,20171122,-
+272561,884570,ldh,CT_773,-,-,-,-,leucine dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884571,cysQ,CT_774,-,-,-,-,"3'(2'),5'-bisphosphate nucleotidase",protein-coding,-,-,-,-,20150718,-
+272561,884572,CT_775,CT_775,-,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,-,20160813,-
+272561,884573,aas,CT_776,-,-,-,-,long chain fatty acid--[acyl-carrier-protein] ligase,protein-coding,-,-,-,-,20171122,-
+272561,884574,priA,CT_778,-,-,-,-,primosomal protein N',protein-coding,-,-,-,-,20171122,-
+272561,884575,CT_779,CT_779,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884576,CT_764,CT_764,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884577,CT_780,CT_780,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884578,ppa,CT_772,-,-,-,-,inorganic pyrophosphatase,protein-coding,-,-,-,-,20160806,-
+272561,884579,lysS,CT_781,-,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884580,bioF,CT_777,-,-,-,-,8-amino-7-oxononanoate synthase,protein-coding,-,-,-,-,20171122,-
+272561,884581,rnpA,CT_784,-,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,-,20160331,-
+272561,884582,rl34,CT_785,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,-,20160808,-
+272561,884583,CT_783,CT_783,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160917,-
+272561,884584,rs14,CT_787,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20160808,-
+272561,884585,CT_789,CT_789,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884586,CT_790,CT_790,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884587,cysS,CT_782,-,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,-,20160820,-
+272561,884588,mutS,CT_792,-,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,-,20171122,-
+272561,884589,rl36,CT_786,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,-,20170906,-
+272561,884590,CT_788,CT_788,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884591,CT_793,CT_793,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884592,dnaG,CT_794,-,-,-,-,DNA primase,protein-coding,-,-,-,-,20171122,-
+272561,884593,CT_795,CT_795,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884594,uvrC,CT_791,-,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,-,20171122,-
+272561,884595,glyQ,CT_796,-,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,-,20160903,-
+272561,884596,pgsA_2,CT_797,-,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,-,20150718,-
+272561,884597,glgA,CT_798,-,-,-,-,glycogen synthase,protein-coding,-,-,-,-,20171122,-
+272561,884598,CT_794.1,CT_794.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884599,pth,CT_800,-,-,-,-,peptidyl-tRNA hydrolase,protein-coding,-,-,-,-,20160716,-
+272561,884600,tRNAGln,CT_t34,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884601,rs6,CT_801,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,-,20160827,-
+272561,884602,rs18,CT_802,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,-,20160420,-
+272561,884603,rl9,CT_803,-,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,-,20170906,-
+272561,884604,CT_805,CT_805,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884605,plsB,CT_807,-,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884606,ychB,CT_804,-,-,-,-,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,protein-coding,-,-,-,-,20171122,-
+272561,884607,cafE,CT_808,-,-,-,-,ribonuclease E,protein-coding,-,-,-,-,20171122,-
+272561,884608,CT_809,CT_809,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884609,ptr,CT_806,-,-,-,-,insulinase/protease,protein-coding,-,-,-,-,20181215,-
+272561,884610,plsX,CT_811,-,-,-,-,phosphate acyltransferase,protein-coding,-,-,-,-,20201003,-
+272561,884611,pmpD,CT_812,-,-,-,-,outer membrane protein PmpD,protein-coding,-,-,-,-,20171122,-
+272561,884612,rl32,CT_810,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,-,20160808,-
+272561,884613,mrsA_2,CT_815,-,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,-,20160420,-
+272561,884614,CT_813,CT_813,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20160917,-
+272561,884615,CT_814.1,CT_814.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884616,CT_814,CT_814,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160813,-
+272561,884617,tyrP_2,CT_818,-,-,-,-,tyrosine-specific transport protein,protein-coding,-,-,-,-,20160903,-
+272561,884618,tyrP_1,CT_817,-,-,-,-,tyrosine-specific transport protein,protein-coding,-,-,-,-,20171122,-
+272561,884619,yccA,CT_819,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884620,ftsY,CT_820,-,-,-,-,signal recognition particle receptor FtsY,protein-coding,-,-,-,-,20171122,-
+272561,884621,sucC,CT_821,-,-,-,-,succinyl-CoA ligase subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884622,sucD,CT_822,-,-,-,-,succinyl-CoA ligase subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884623,htrA,CT_823,-,-,-,-,serine protease,protein-coding,-,-,-,-,20171122,-
+272561,884624,pssA,CT_826,-,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884625,glmS,CT_816,-,-,-,-,glutamine--fructose-6-phosphate aminotransferase,protein-coding,-,-,-,-,20171122,-
+272561,884626,CT_824,CT_824,-,-,-,-,Zn-dependent peptidase,protein-coding,-,-,-,-,20171122,-
+272561,884627,nrdB,CT_828,-,-,-,-,ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,-,20160903,-
+272561,884628,yggH,CT_829,-,-,-,-,tRNA (guanine-N(7)-)-methyltransferase,protein-coding,-,-,-,-,20160730,-
+272561,884629,nrdA,CT_827,-,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884630,tRNAVal_2,CT_t35,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884631,murB,CT_831,-,-,-,-,UDP-N-acetylenolpyruvoylglucosamine reductase,protein-coding,-,-,-,-,20201010,-
+272561,884632,nusB,CT_832,-,-,-,-,transcription termination factor NusB,protein-coding,-,-,-,-,20160416,-
+272561,884633,ytgB_2,CT_830,-,-,-,-,rRNA methylase,protein-coding,-,-,-,-,20171122,-
+272561,884634,rl20,CT_835,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20160808,-
+272561,884635,pheS,CT_836,-,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884636,infC,CT_833,-,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,-,20171122,-
+272561,884637,tRNASer_4,CT_t36,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884638,CT_837,CT_837,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884639,CT_838,CT_838,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884640,CT_839,CT_839,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150725,-
+272561,884641,rl35,CT_834,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,-,20160331,-
+272561,884642,mesJ,CT_840,-,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,-,20171122,-
+272561,884643,pnp,CT_842,-,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884644,CT_846,CT_846,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884645,rs15,CT_843,-,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+272561,884646,ftsH,CT_841,-,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,-,20171122,-
+272561,884647,CT_845,CT_845,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884648,CT_847,CT_847,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884649,CT_849.1,CT_849.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884650,CT_850,CT_850,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884651,CT_852,CT_852,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884652,CT_853,CT_853,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150704,-
+272561,884653,map,CT_851,-,-,-,-,methionine aminopeptidase,protein-coding,-,-,-,-,20201003,-
+272561,884654,CT_849,CT_849,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884655,CT_854,CT_854,-,-,-,-,ABC transporter permease/substrate-binding protein,protein-coding,-,-,-,-,20160716,-
+272561,884656,fumC,CT_855,-,-,-,-,fumarate hydratase,protein-coding,-,-,-,-,20171122,-
+272561,884657,ychM,CT_856,-,-,-,-,sulfate transporter,protein-coding,-,-,-,-,20160716,-
+272561,884658,CT_857,CT_857,-,-,-,-,Na(+)/H(+) antiporter,protein-coding,-,-,-,-,20171122,-
+272561,884659,CT_858,CT_858,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884660,CT_825,CT_825,-,-,-,-,DNA recombination protein,protein-coding,-,-,-,-,20171122,-
+272561,884661,CT_860,CT_860,-,-,-,-,type III secretion system translocator CopD2,protein-coding,-,-,-,-,20160325,-
+272561,884662,CT_861,CT_861,-,-,-,-,type III secretion system translocator CopB2,protein-coding,-,-,-,-,20150626,-
+272561,884663,lytB,CT_859,-,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,-,20160924,-
+272561,884664,CT_863,CT_863,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884665,lcrH_2,CT_862,-,-,-,-,type III secretion low calcium response chaperone,protein-coding,-,-,-,-,20160924,-
+272561,884666,xerD,CT_864,-,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,-,20171122,-
+272561,884667,glgB,CT_866,-,-,-,-,"1,4-alpha-glucan branching protein",protein-coding,-,-,-,-,20160716,-
+272561,884668,CT_865,CT_865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884669,CT_868,CT_868,-,-,-,-,deubiquitinase,protein-coding,-,-,-,-,20171122,-
+272561,884670,tRNALeu_4,CT_t37,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884671,pmpE,CT_869,-,-,-,-,outer membrane protein PmpE,protein-coding,-,-,-,-,20171122,-
+272561,884672,pmpF,CT_870,-,-,-,-,outer membrane protein PmpF,protein-coding,-,-,-,-,20170906,-
+272561,884673,pmpH,CT_872,-,-,-,-,outer membrane protein PmpH,protein-coding,-,-,-,-,20171122,-
+272561,884674,CT_873,CT_873,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884675,pmpI,CT_874,-,-,-,-,outer membrane protein PmpI,protein-coding,-,-,-,-,20171122,-
+272561,884676,CT_867,CT_867,-,-,-,-,deubiquitinase,protein-coding,-,-,-,-,20171122,-
+272561,884677,pmpG,CT_871,-,-,-,-,outer membrane protein PmpG,protein-coding,-,-,-,-,20160820,-
+272561,884679,CT_848,CT_848,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884680,rs12,CT_439,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+272561,884681,dapF,CT_430,-,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,-,20170906,-
+272561,884682,ubiE,CT_428,-,-,-,-,demethylmenaquinone methyltransferase,protein-coding,-,-,-,-,20160917,-
+272561,884683,CT_429,CT_429,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884684,CT_427,CT_427,-,-,-,-,ubiquinone/menaquinone biosynthesis protein,protein-coding,-,-,-,-,20160820,-
+272561,884685,CT_425,CT_425,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884686,rsbV_1,CT_424,-,-,-,-,anti-sigma F factor antagonist,protein-coding,-,-,-,-,20160820,-
+272561,884687,CT_426,CT_426,-,-,-,-,menaquinone biosynthesis protein,protein-coding,-,-,-,-,20171122,-
+272561,884688,CT_423,CT_423,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884689,CT_421.1,CT_421.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884690,CT_422,CT_422,-,-,-,-,endoribonuclease,protein-coding,-,-,-,-,20160808,-
+272561,884691,CT_421.2,CT_421.2,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884692,CT_421,CT_421,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150725,-
+272561,884693,rl21,CT_420,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,-,20160808,-
+272561,884694,tRNAPhe,CT_t16,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884695,tRNASer_3,CT_t15,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884696,rl27,CT_419,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,-,20160808,-
+272561,884697,CT_417,CT_417,-,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884698,CT_418,CT_418,-,-,-,-,GTPase Obg,protein-coding,-,-,-,-,20171122,-
+272561,884699,yebL,CT_415,-,-,-,-,metal ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20201010,-
+272561,884700,CT_416,CT_416,-,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884701,pcnB_1,CT_410,-,-,-,-,poly A polymerase,protein-coding,-,-,-,-,20160730,-
+272561,884702,pmpC,CT_414,-,-,-,-,outer membrane protein PmpC,protein-coding,-,-,-,-,20160827,-
+272561,884703,pmpB,CT_413,-,-,-,-,outer membrane protein PmpB,protein-coding,-,-,-,-,20171122,-
+272561,884704,pmpA,CT_412,-,-,-,-,outer membrane protein PmpA,protein-coding,-,-,-,-,20171122,-
+272561,884705,lpxB,CT_411,-,-,-,-,lipid A disaccharide synthase,protein-coding,-,-,-,-,20171122,-
+272561,884706,lspA,CT_408,-,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,-,20160808,-
+272561,884707,CT_409,CT_409,-,-,-,-,sodium/alanine symporter,protein-coding,-,-,-,-,20160325,-
+272561,884708,dksA,CT_407,-,-,-,-,RNA polymerase-binding transcription factor,protein-coding,-,-,-,-,20150626,-
+272561,884709,ribC,CT_405,-,-,-,-,riboflavin synthase,protein-coding,-,-,-,-,20171122,-
+272561,884710,nrdR,CT_406,-,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,-,20170906,-
+272561,884711,CT_404,CT_404,-,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,-,20160924,-
+272561,884712,gltT,CT_401,-,-,-,-,sodium:dicarboxylate symport protein,protein-coding,-,-,-,-,20150704,-
+272561,884713,yjfH,CT_403,-,-,-,-,SpoU family rRNA methylase,protein-coding,-,-,-,-,20171122,-
+272561,884714,vacB,CT_397,-,-,-,-,ribonuclease R,protein-coding,-,-,-,-,20171122,-
+272561,884715,lpxK,CT_402,-,-,-,-,tetraacyldisaccharide 4' kinase,protein-coding,-,-,-,-,20150626,-
+272561,884716,sucB_2,CT_400,-,-,-,-,branched-chain alpha-keto acid dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884717,yrbH,CT_399,-,-,-,-,carbohydrate isomerase,protein-coding,-,-,-,-,20171122,-
+272561,884718,dnaK,CT_396,-,-,-,-,chaperone protein DnaK,protein-coding,-,-,-,-,20171122,-
+272561,884719,CT_398,CT_398,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884720,grpE,CT_395,-,-,-,-,stress response protein GrpE,protein-coding,-,-,-,-,20210612,-
+272561,884721,yprS,CT_392,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884722,proS,CT_393,-,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884723,hrcA,CT_394,-,-,-,-,heat-inducible transcription repressor,protein-coding,-,-,-,-,20160730,-
+272561,884724,CT_391,CT_391,-,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20160325,-
+272561,884725,CT_384,CT_384,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884726,CT_387,CT_387,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884727,aspC,CT_390,-,-,-,-,"L,L-diaminopimelate aminotransferase",protein-coding,-,-,-,-,20171122,-
+272561,884728,CT_389,CT_389,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884729,CT_388,CT_388,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160420,-
+272561,884730,CT_386,CT_386,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884731,ycfF,CT_385,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884732,CT_382.1,CT_382.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884733,CT_383,CT_383,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884734,artJ,CT_381,-,-,-,-,arginine ABC transporter substrate-binding protein ArtJ,protein-coding,-,-,-,-,20171122,-
+272561,884735,aroG,CT_382,-,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,-,20171122,-
+272561,884736,phnP,CT_380,-,-,-,-,metal-dependent hydrolase,protein-coding,-,-,-,-,20171122,-
+272561,884737,ltuA,CT_377,-,-,-,-,late transcription unit protein A,protein-coding,-,-,-,-,20210417,-
+272561,884738,hflX,CT_379,-,-,-,-,GTPase HflX,protein-coding,-,-,-,-,20171122,-
+272561,884739,CT_375,CT_375,-,-,-,-,oxidoreductase,protein-coding,-,-,-,-,20210417,-
+272561,884740,pgi,CT_378,-,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,-,20171122,-
+272561,884741,mdhC,CT_376,-,-,-,-,malate dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884742,CT_373,CT_373,-,-,-,-,pyruvoyl-dependent arginine decarboxylase,protein-coding,-,-,-,-,20160808,-
+272561,884743,CT_372,CT_372,-,-,-,-,porin,protein-coding,-,-,-,-,20160827,-
+272561,884744,arcD,CT_374,-,-,-,-,arginine/agmatine antiporter,protein-coding,-,-,-,-,20160416,-
+272561,884745,aroC,CT_368,-,-,-,-,chorismate synthase,protein-coding,-,-,-,-,20160813,-
+272561,884746,CT_371,CT_371,-,-,-,-,outer membrane protein,protein-coding,-,-,-,-,20171122,-
+272561,884747,aroA,CT_366,-,-,-,-,phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884748,aroE,CT_370,-,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,protein-coding,-,-,-,-,20171122,-
+272561,884749,aroL,CT_367,-,-,-,-,shikimate kinase,protein-coding,-,-,-,-,20171122,-
+272561,884750,aroB,CT_369,-,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,-,20160813,-
+272561,884751,asd,CT_363,-,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,-,20160813,-
+272561,884752,CT_365,CT_365,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884753,dapB,CT_364,-,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,-,20171122,-
+272561,884754,lysC,CT_362,-,-,-,-,aspartokinase,protein-coding,-,-,-,-,20171122,-
+272561,884755,dapA,CT_361,-,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,-,20171122,-
+272561,884756,CT_359,CT_359,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884757,tRNASer_1,CT_t14,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884758,CT_358,CT_358,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884759,CT_360,CT_360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884760,CT_357,CT_357,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884761,yyaL,CT_356,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884762,CT_357R,CT_357R,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884763,def,CT_353,-,-,-,-,peptide deformylase,protein-coding,-,-,-,-,20160924,-
+272561,884764,CT_355,CT_355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884765,kgsA,CT_354,-,-,-,-,ribosomal RNA small subunit methyltransferase A,protein-coding,-,-,-,-,20201010,-
+272561,884766,CT_351,CT_351,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884767,CT_352,CT_352,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884768,lon,CT_344,-,-,-,-,Lon protease,protein-coding,-,-,-,-,20171122,-
+272561,884769,maf,CT_349,-,-,-,-,septum formation protein Maf,protein-coding,-,-,-,-,20160806,-
+272561,884770,CT_350,CT_350,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884771,yjjK,CT_348,-,-,-,-,ABC-F family ATPase,protein-coding,-,-,-,-,20171122,-
+272561,884772,xerC,CT_347,-,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,-,20170906,-
+272561,884773,CT_345,CT_345,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884774,elaC,CT_346,-,-,-,-,ribonuclease Z,protein-coding,-,-,-,-,20171122,-
+272561,884775,dnaJ,CT_341,-,-,-,-,chaperone protein DnaJ,protein-coding,-,-,-,-,20170906,-
+272561,884776,CT_343,CT_343,-,-,-,-,O-sialoglycoprotein endopeptidase,protein-coding,-,-,-,-,20171122,-
+272561,884777,ptsH,CT_337,-,-,-,-,phosphocarrier protein Hpr,protein-coding,-,-,-,-,20160808,-
+272561,884778,rs21,CT_342,-,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,-,20160808,-
+272561,884779,CT_339,CT_339,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884780,pdhA/B,CT_340,-,-,-,-,2-oxoisovalerate dehydrogenase subunit alpha/beta,protein-coding,-,-,-,-,20171122,-
+272561,884781,dnaX_2,CT_334,-,-,-,-,DNA polymerase III subunit gamma and tau,protein-coding,-,-,-,-,20171122,-
+272561,884782,CT_338,CT_338,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884783,ptsI,CT_336,-,-,-,-,phosphoenolpyruvate-protein phosphotransferase,protein-coding,-,-,-,-,20171122,-
+272561,884784,CT_335,CT_335,-,-,-,-,nucleoid-associated protein,protein-coding,-,-,-,-,20160420,-
+272561,884785,uvrA,CT_333,-,-,-,-,excinuclease ABC subunit A,protein-coding,-,-,-,-,20201003,-
+272561,884786,tpiS,CT_328,-,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,-,20171122,-
+272561,884787,pykF,CT_332,-,-,-,-,pyruvate kinase,protein-coding,-,-,-,-,20171122,-
+272561,884788,dxs,CT_331,-,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,-,20171122,-
+272561,884789,CT_330,CT_330,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884790,xseA,CT_329,-,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,-,20171122,-
+272561,884791,trpC,CT_327,-,-,-,-,N-(5'-phosphoribosyl)anthranilate isomerase,protein-coding,-,-,-,-,20160813,-
+272561,884792,CT_326.1,CT_326.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884793,CT_326.2,CT_326.2,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884794,tRNAMet_2,CT_t13,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884795,infA,CT_323,-,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,-,20160808,-
+272561,884796,CT_326,CT_326,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884797,CT_325,CT_325,-,-,-,-,Fe-S metabolism protein SufE,protein-coding,-,-,-,-,20150718,-
+272561,884798,CT_324,CT_324,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884799,nusG,CT_320,-,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,-,20210212,-
+272561,884800,tRNAThr_2,CT_t12,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884801,tufA,CT_322,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20171122,-
+272561,884802,tRNATrp,CT_t11,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884803,secE,CT_321,-,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,-,20150718,-
+272561,884804,rl11,CT_319,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,-,20171122,-
+272561,884805,rl1,CT_318,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,-,20160917,-
+272561,884806,rl10,CT_317,-,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,-,20160730,-
+272561,884807,rl7,CT_316,-,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,-,20170906,-
+272561,884808,rpoC,CT_314,-,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,-,20171122,-
+272561,884809,rpoB,CT_315,-,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884810,atpA,CT_308,-,-,-,-,V-type ATP synthase subunit alpha,protein-coding,-,-,-,-,20171122,-
+272561,884811,tal,CT_313,-,-,-,-,transaldolase,protein-coding,-,-,-,-,20171122,-
+272561,884812,CT_312,CT_312,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884813,CT_311,CT_311,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884814,CT_309,CT_309,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884815,atpE,CT_310,-,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,-,20171122,-
+272561,884816,radA,CT_298,-,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,-,20171122,-
+272561,884817,atpB,CT_307,-,-,-,-,V-type ATP synthase subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884818,atpD,CT_306,-,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,-,20160808,-
+272561,884819,atpI,CT_305,-,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,-,20171122,-
+272561,884820,atpK,CT_304,-,-,-,-,V-type ATP synthase subunit K,protein-coding,-,-,-,-,20201003,-
+272561,884821,CT_303,CT_303,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884822,valS,CT_302,-,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,-,20171122,-
+272561,884823,hemC,CT_299,-,-,-,-,porphobilinogen deaminase,protein-coding,-,-,-,-,20170906,-
+272561,884824,CT_300,CT_300,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884825,pknD,CT_301,-,-,-,-,serine/threonine-protein kinase,protein-coding,-,-,-,-,20171122,-
+272561,884826,CT_296,CT_296,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884827,rnc,CT_297,-,-,-,-,ribonuclease III,protein-coding,-,-,-,-,20171122,-
+272561,884828,mrsA_1,CT_295,-,-,-,-,phosphoglucomutase,protein-coding,-,-,-,-,20171122,-
+272561,884829,sodM,CT_294,-,-,-,-,superoxide dismutase,protein-coding,-,-,-,-,20171122,-
+272561,884830,accD,CT_293,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,-,20160416,-
+272561,884831,CT_289,CT_289,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884832,CT_288,CT_288,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20190817,-
+272561,884833,dut,CT_292,-,-,-,-,deoxyuridine 5'-triphosphate nucleotidohydrolase,protein-coding,-,-,-,-,20201010,-
+272561,884834,ptsN_2,CT_291,-,-,-,-,PTS fructose transporter subunit IIA,protein-coding,-,-,-,-,20160806,-
+272561,884835,ptsN_1,CT_290,-,-,-,-,PTS fructose transporter subunit IIA,protein-coding,-,-,-,-,20171122,-
+272561,884836,CT_287,CT_287,-,-,-,-,tRNA-specific 2-thiouridylase MnmA,protein-coding,-,-,-,-,20171122,-
+272561,884837,gcsH,CT_282,-,-,-,-,glycine cleavage system protein H,protein-coding,-,-,-,-,20160917,-
+272561,884838,CT_284,CT_284,-,-,-,-,phospholipase D,protein-coding,-,-,-,-,20170906,-
+272561,884839,clpC,CT_286,-,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpC,protein-coding,-,-,-,-,20171122,-
+272561,884840,lplA_1,CT_285,-,-,-,-,lipoate protein ligase,protein-coding,-,-,-,-,20171122,-
+272561,884841,CT_283,CT_283,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884842,nqr2,CT_278,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit B,protein-coding,-,-,-,-,20160420,-
+272561,884843,nqr4,CT_280,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit D,protein-coding,-,-,-,-,20171122,-
+272561,884844,nqr5,CT_281,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit E,protein-coding,-,-,-,-,20160808,-
+272561,884845,CT_277,CT_277,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884846,nqr3,CT_279,-,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,protein-coding,-,-,-,-,20201003,-
+272561,884847,dnaA_2,CT_275,-,-,-,-,chromosomal replication initiation protein,protein-coding,-,-,-,-,20201010,-
+272561,884848,CT_273,CT_273,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160808,-
+272561,884849,CT_276,CT_276,-,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,-,20150626,-
+272561,884850,CT_271,CT_271,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884851,CT_274,CT_274,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884852,CT_272,CT_272,-,-,-,-,ribosomal RNA small subunit methyltransferase H,protein-coding,-,-,-,-,20171122,-
+272561,884853,pbp3,CT_270,-,-,-,-,penicillin-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884854,murE,CT_269,-,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,-,20171122,-
+272561,884855,CT_266,CT_266,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884856,amiA,CT_268,-,-,-,-,N-acetylmuramoyl alanine amidase,protein-coding,-,-,-,-,20170906,-
+272561,884857,ihfA,CT_267,-,-,-,-,DNA-binding protein HU,protein-coding,-,-,-,-,20160716,-
+272561,884858,accA,CT_265,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,-,20160808,-
+272561,884859,CT_260,CT_260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884860,CT_263,CT_263,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884861,msbA,CT_264,-,-,-,-,ABC transporter ATP-binding protein/permease,protein-coding,-,-,-,-,20160716,-
+272561,884862,CT_259,CT_259,-,-,-,-,protein phosphatase,protein-coding,-,-,-,-,20160917,-
+272561,884863,CT_262,CT_262,-,-,-,-,menaquinone biosynthesis protein,protein-coding,-,-,-,-,20160910,-
+272561,884864,dnaQ_1,CT_261,-,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,-,20170906,-
+272561,884865,yhfO,CT_258,-,-,-,-,cysteine desulfurase,protein-coding,-,-,-,-,20171122,-
+272561,884866,CT_257,CT_257,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884867,CT_251,CT_251,-,-,-,-,membrane protein insertase,protein-coding,-,-,-,-,20160808,-
+272561,884868,CT_256,CT_256,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884869,CT_254,CT_254,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884870,CT_255,CT_255,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884871,CT_253,CT_253,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884872,lgt,CT_252,-,-,-,-,prolipoprotein diacylglycerol transferase,protein-coding,-,-,-,-,20160808,-
+272561,884873,glgP,CT_248,-,-,-,-,glycogen phosphorylase,protein-coding,-,-,-,-,20171122,-
+272561,884874,dnaA_1,CT_250,-,-,-,-,chromosomal replication initiation protein DnaA,protein-coding,-,-,-,-,20201003,-
+272561,884875,CT_249,CT_249,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884876,pdhB,CT_246,-,-,-,-,pyruvate dehydrogenase E1 component subunit beta,protein-coding,-,-,-,-,20171122,-
+272561,884877,pdhA,CT_245,-,-,-,-,pyruvate dehydrogenase E1 component subunit alpha,protein-coding,-,-,-,-,20160806,-
+272561,884878,pdhC,CT_247,-,-,-,-,pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase component,protein-coding,-,-,-,-,20171122,-
+272561,884879,CT_244,CT_244,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884880,lpxD,CT_243,-,-,-,-,UDP-3-O-acylglucosamine N-acyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884881,fabH,CT_239,-,-,-,-,3-oxoacyl-ACP synthase III,protein-coding,-,-,-,-,20171122,-
+272561,884882,yaeT,CT_241,-,-,-,-,outer membrane protein,protein-coding,-,-,-,-,20171122,-
+272561,884883,CT_242,CT_242,-,-,-,-,outer membrane protein,protein-coding,-,-,-,-,20160808,-
+272561,884884,acpP,CT_236,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,-,20160331,-
+272561,884885,recR,CT_240,-,-,-,-,recombination protein RecR,protein-coding,-,-,-,-,20171122,-
+272561,884886,fabD,CT_238,-,-,-,-,malonyl-CoA-[acyl-carrier-protein] transacylase,protein-coding,-,-,-,-,20150626,-
+272561,884887,fabG,CT_237,-,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,-,20171122,-
+272561,884888,CT_234,CT_234,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884889,CT_235,CT_235,-,-,-,-,Crp family transcriptional regulator,protein-coding,-,-,-,-,20171122,-
+272561,884890,CT_231,CT_231,-,-,-,-,sodium-dependent amino acid transporter,protein-coding,-,-,-,-,20160716,-
+272561,884891,incC,CT_233,-,-,-,-,inclusion membrane protein C,protein-coding,-,-,-,-,20150626,-
+272561,884892,incB,CT_232,-,-,-,-,inclusion membrane protein B,protein-coding,-,-,-,-,20150626,-
+272561,884893,CT_230,CT_230,-,-,-,-,sodium:dicarboxylate symport protein,protein-coding,-,-,-,-,20160325,-
+272561,884894,CT_228,CT_228,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20201003,-
+272561,884895,CT_229,CT_229,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20171122,-
+272561,884896,CT_227,CT_227,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884898,CT_225,CT_225,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884899,CT_226,CT_226,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884900,CT_224,CT_224,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884901,CT_223,CT_223,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20201003,-
+272561,884902,tRNAVal_1,CT_t10,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884903,CT_221.1,CT_221.1,-,-,-,-,pseudo,pseudo,-,-,-,-,20140729,-
+272561,884904,ubiX,CT_220,-,-,-,-,aromatic acid decarboxylase,protein-coding,-,-,-,-,20160420,-
+272561,884905,tRNAAsp,CT_t09,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884906,yqfU,CT_221,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884907,ubiA,CT_219,-,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,-,20160820,-
+272561,884908,xasA,CT_216,-,-,-,-,glutamate/gamma-aminobutyrate antiporter,protein-coding,-,-,-,-,20171122,-
+272561,884909,surE,CT_218,-,-,-,-,5'-nucleotidase SurE,protein-coding,-,-,-,-,20160808,-
+272561,884910,CT_214,CT_214,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20160325,-
+272561,884911,ydaO,CT_217,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884912,rpiA,CT_213,-,-,-,-,ribose-5-phosphate isomerase A,protein-coding,-,-,-,-,20160820,-
+272561,884913,dhnA,CT_215,-,-,-,-,"1,6-fructose bisphosphate aldolase",protein-coding,-,-,-,-,20160806,-
+272561,884914,CT_211,CT_211,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160331,-
+272561,884915,CT_212,CT_212,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150627,-
+272561,884916,hemL,CT_210,-,-,-,-,"glutamate-1-semialdehyde-2,1-aminomutase",protein-coding,-,-,-,-,20171122,-
+272561,884917,leuS,CT_209,-,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,-,20160808,-
+272561,884918,gseA,CT_208,-,-,-,-,3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,-,20171122,-
+272561,884919,tRNAMet_1,CT_t08,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884920,pfkA_1,CT_205,-,-,-,-,pyrophosphate--fructose 6-phosphate 1-phosphotransferase,protein-coding,-,-,-,-,20150626,-
+272561,884921,tRNAMet_3,CT_t07,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884922,pfkA_2,CT_207,-,-,-,-,pyrophosphate--fructose 6-phosphate 1-phosphotransferase,protein-coding,-,-,-,-,20150626,-
+272561,884923,ybhI,CT_204,-,-,-,-,sodium:sulfate symporter,protein-coding,-,-,-,-,20171122,-
+272561,884924,CT_206,CT_206,-,-,-,-,acyltransferase,protein-coding,-,-,-,-,20160806,-
+272561,884925,oppF,CT_202,-,-,-,-,oligopeptide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884926,CT_203,CT_203,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+272561,884927,oppC_1,CT_200,-,-,-,-,oligopeptide ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884928,oppD,CT_201,-,-,-,-,oligopeptide ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884929,CT_191,CT_191,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20210417,-
+272561,884930,CT_197,CT_197,-,-,-,-,tRNA N6-adenosine threonylcarbamoyltransferase,protein-coding,-,-,-,-,20171122,-
+272561,884931,oppB_1,CT_199,-,-,-,-,oligopeptide ABC transporter permease,protein-coding,-,-,-,-,20171122,-
+272561,884932,oppA_3,CT_198,-,-,-,-,oligopeptide ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884933,mgtE,CT_194,-,-,-,-,magnesium transport protein,protein-coding,-,-,-,-,20171122,-
+272561,884934,CT_196,CT_196,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884935,CT_195,CT_195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884936,tgt,CT_193,-,-,-,-,queuine tRNA ribosyltransferase,protein-coding,-,-,-,-,20170906,-
+272561,884937,gyrB_1,CT_190,-,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,-,20171122,-
+272561,884938,CT_192,CT_192,-,-,-,-,inclusion membrane protein,protein-coding,-,-,-,-,20150626,-
+272561,884939,dnaX_1,CT_187,-,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,-,20160730,-
+272561,884940,pyrG,CT_183,-,-,-,-,CTP synthetase,protein-coding,-,-,-,-,20171122,-
+272561,884941,gyrA_1,CT_189,-,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,-,20171122,-
+272561,884942,tdk,CT_188,-,-,-,-,thymidylate kinase,protein-coding,-,-,-,-,20181215,-
+272561,884943,devB,CT_186,-,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,-,20160820,-
+272561,884944,zwf,CT_185,-,-,-,-,glucose-6-phosphate 1-dehydrogenase,protein-coding,-,-,-,-,20201010,-
+272561,884945,CT_184,CT_184,-,-,-,-,Holliday junction resolvase,protein-coding,-,-,-,-,20160420,-
+272561,884946,kdsB,CT_182,-,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,-,20160808,-
+272561,884947,tauB,CT_180,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884948,CT_181,CT_181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884949,tRNAAla_1,CT_t06,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884950,tRNAIle,CT_t05,-,-,-,-,tRNA,tRNA,-,-,-,-,20140107,-
+272561,884951,CT_179,CT_179,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884952,CT_178,CT_178,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884953,dsbG,CT_177,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20171122,-
+272561,884954,oppA_2,CT_175,-,-,-,-,oligopeptide ABC transporter substrate-binding protein,protein-coding,-,-,-,-,20171122,-
+272561,884955,dsbB,CT_176,-,-,-,-,disulfide oxidoreductase,protein-coding,-,-,-,-,20160420,-
+272561,884956,CT_174,CT_174,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+272561,884957,CT_173,CT_173,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884958,CT_172.1,CT_172.1,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884959,CT_172,CT_172,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884960,CT_168,CT_168,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+272561,884961,trpB,CT_170,-,-,-,-,tryptophan synthase subunit beta,protein-coding,-,-,-,-,20170906,-
+272561,884962,trpA,CT_171,-,-,-,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,-,20160917,-
+272561,884963,CT_166,CT_166,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20181215,-
+272561,884964,trpR,CT_169,-,-,-,-,Trp operon repressor,protein-coding,-,-,-,-,20150626,-
+272561,884965,CT_167,CT_167,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20201003,-
+272561,2831229,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Chlamydia trachomatis str. D/UW-3/CX; Chlamydia trachomatis strain D/UW-3/CX).,other,-,-,-,-,20111113,-
+272561,18155426,CT_398.1,CT_398.1,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20140729,-
+272561,18155427,dacC,CT_551,-,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,-,20160806,-
+272561,18155428,sdhA,CT_592,-,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,-,20160924,-
+272561,18155429,CT_638,CT_638,-,-,-,-,pseudo,pseudo,-,-,-,-,20140729,-

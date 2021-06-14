@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+359840,56048397,psbA,HX725_pgp085,-,-,-,-,PSII 32 KDa protein,protein-coding,-,-,-,PSII 32 KDa protein,20210129,-
+359840,56048398,trnK-AAA,HX725_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048399,matK,HX725_pgp084,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210522,-
+359840,56048400,rps16,HX725_pgp083,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+359840,56048401,trnQ-CAA,HX725_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048402,psbK,HX725_pgp082,-,-,-,-,PSII K protein,protein-coding,-,-,-,PSII K protein,20201010,-
+359840,56048403,psbI,HX725_pgp081,-,-,-,-,PSII I protein,protein-coding,-,-,-,PSII I protein,20210424,-
+359840,56048404,trnS-AGC,HX725_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048405,trnG-GGA,HX725_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048406,trnR-AGA,HX725_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048407,atpA,HX725_pgp080,-,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20210522,-
+359840,56048408,atpF,HX725_pgp079,-,-,-,-,ATPase I subunit,protein-coding,-,-,-,ATPase I subunit,20210522,-
+359840,56048409,atpH,HX725_pgp078,-,-,-,-,ATPase III subunit,protein-coding,-,-,-,ATPase III subunit,20200801,-
+359840,56048410,atpI,HX725_pgp077,-,-,-,-,ATPase a subunit,protein-coding,-,-,-,ATPase a subunit,20210522,-
+359840,56048411,rps2,HX725_pgp076,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210522,-
+359840,56048412,rpoC2,HX725_pgp075,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210522,-
+359840,56048413,rpoC1,HX725_pgp074,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210522,-
+359840,56048414,rpoB,HX725_pgp073,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20210522,-
+359840,56048415,trnC-UGC,HX725_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048416,petN,HX725_pgp072,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200801,-
+359840,56048417,psbM,HX725_pgp071,-,-,-,-,PSII low MW protein,protein-coding,-,-,-,PSII low MW protein,20200912,-
+359840,56048418,trnD-GAC,HX725_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048419,trnY-UAC,HX725_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048420,trnE-GAA,HX725_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048421,trnT-ACC,HX725_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048422,psbD,HX725_pgp070,-,-,-,-,PSII D2 protein,protein-coding,-,-,-,PSII D2 protein,20201003,-
+359840,56048423,psbC,HX725_pgp069,-,-,-,-,PSII 43 KDa protein,protein-coding,-,-,-,PSII 43 KDa protein,20210522,-
+359840,56048424,trnS-UCA,HX725_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048425,psbZ,HX725_pgp068,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20201010,-
+359840,56048426,trnG-GGC,HX725_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048427,trnfM-AUG,HX725_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048428,rps14,HX725_pgp067,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210522,-
+359840,56048429,psaB,HX725_pgp066,-,-,-,-,PSI P700 apoprotein A2,protein-coding,-,-,-,PSI P700 apoprotein A2,20210522,-
+359840,56048430,psaA,HX725_pgp065,-,-,-,-,PSI P700 apoprotein A1,protein-coding,-,-,-,PSI P700 apoprotein A1,20210522,-
+359840,56048431,ycf3,HX725_pgp064,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20210522,-
+359840,56048432,trnS-UCC,HX725_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048433,rps4,HX725_pgp063,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210522,-
+359840,56048434,trnT-ACA,HX725_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048435,trnL-UUA,HX725_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048436,trnF-UUC,HX725_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048437,ndhJ,HX725_pgp062,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,NADH dehydrogenase subunit J,20210522,-
+359840,56048438,ndhC,HX725_pgp061,-,-,-,-,NADH dehydrogenase subunit C,protein-coding,-,-,-,NADH dehydrogenase subunit C,20210522,-
+359840,56048439,trnV-GUA,HX725_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048440,trnM-AUG,HX725_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048441,atpE,HX725_pgp060,-,-,-,-,ATPase epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20210522,-
+359840,56048442,atpB,HX725_pgp059,-,-,-,-,ATPase beta subunit,protein-coding,-,-,-,ATPase beta subunit,20210522,-
+359840,56048443,rbcL,HX725_pgp058,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210129,-
+359840,56048444,accD,HX725_pgp057,-,-,-,-,carboxytransferase beta subunit,protein-coding,-,-,-,carboxytransferase beta subunit,20210522,-
+359840,56048445,psaI,HX725_pgp056,-,-,-,-,PSI I protein,protein-coding,-,-,-,PSI I protein,20200926,-
+359840,56048446,ycf4,HX725_pgp055,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20210522,-
+359840,56048447,cemA,HX725_pgp054,-,-,-,-,putative heme-binding protein,protein-coding,-,-,-,putative heme-binding protein,20210522,-
+359840,56048448,petA,HX725_pgp053,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20210522,-
+359840,56048449,psbJ,HX725_pgp052,-,-,-,-,PSII component,protein-coding,-,-,-,PSII component,20200926,-
+359840,56048450,psbL,HX725_pgp051,-,-,-,-,PSII L protein,protein-coding,-,-,-,PSII L protein,20200801,-
+359840,56048451,psbF,HX725_pgp050,-,-,-,-,PSII cytochrome b559,protein-coding,-,-,-,PSII cytochrome b559,20200801,-
+359840,56048452,psbE,HX725_pgp049,-,-,-,-,PSII cytochrome b559,protein-coding,-,-,-,PSII cytochrome b559,20200801,-
+359840,56048453,petL,HX725_pgp048,-,-,-,-,cytochrome b/f complex 3.5 kDa subunit,protein-coding,-,-,-,cytochrome b/f complex 3.5 kDa subunit,20210424,-
+359840,56048454,petG,HX725_pgp047,-,-,-,-,"cytochrome b6-f complex, subunit V",protein-coding,-,-,-,"cytochrome b6-f complex, subunit V",20210212,-
+359840,56048455,trnW-UGG,HX725_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048456,trnP-CCA,HX725_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048457,psaJ,HX725_pgp046,-,-,-,-,PSI J protein,protein-coding,-,-,-,PSI J protein,20210522,-
+359840,56048458,rpl33,HX725_pgp045,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210522,-
+359840,56048459,rps18,HX725_pgp044,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210522,-
+359840,56048460,rpl20,HX725_pgp043,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210522,-
+359840,56048461,rps12,HX725_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210424,-
+359840,56048462,trnH-CAC,HX725_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048463,clpP,HX725_pgp040,-,-,-,-,ATP-dependent protease subunit,protein-coding,-,-,-,ATP-dependent protease subunit,20210522,-
+359840,56048464,psbB,HX725_pgp039,-,-,-,-,PSII 47KDa protein,protein-coding,-,-,-,PSII 47KDa protein,20210522,-
+359840,56048465,psbT,HX725_pgp038,-,-,-,-,PSII T protein,protein-coding,-,-,-,PSII T protein,20201003,-
+359840,56048466,psbN,HX725_pgp037,-,-,-,-,PSII low MW protein,protein-coding,-,-,-,PSII low MW protein,20200801,-
+359840,56048467,psbH,HX725_pgp036,-,-,-,-,PSII 10KDa phosphoprotein,protein-coding,-,-,-,PSII 10KDa phosphoprotein,20201003,-
+359840,56048468,petB,HX725_pgp035,-,-,-,-,cytochrome B6,protein-coding,-,-,-,cytochrome B6,20201003,-
+359840,56048469,petD,HX725_pgp034,-,-,-,-,cytochrome b/f,protein-coding,-,-,-,cytochrome b/f,20200905,-
+359840,56048470,rpoA,HX725_pgp033,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20210522,-
+359840,56048471,rps11,HX725_pgp032,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210522,-
+359840,56048472,rpl36,HX725_pgp031,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20210522,-
+359840,56048473,rps8,HX725_pgp030,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210522,-
+359840,56048474,rpl14,HX725_pgp029,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210522,-
+359840,56048475,rpl16,HX725_pgp028,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210522,-
+359840,56048476,rps3,HX725_pgp027,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210522,-
+359840,56048477,rpl22,HX725_pgp026,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210522,-
+359840,56048478,rps19,HX725_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210522,-
+359840,56048479,rpl2,HX725_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210522,-
+359840,56048480,rpl23,HX725_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210522,-
+359840,56048481,trnI-CAU,HX725_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048482,ycf2,HX725_pgp022,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210522,-
+359840,56048483,orf77,HX725_pgp021,-,-,-,-,orf77,protein-coding,-,-,-,orf77,20210522,-
+359840,56048484,trnL-UUG,HX725_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048485,ndhB,HX725_pgp020,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210522,-
+359840,56048486,rps7,HX725_pgp019,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210522,-
+359840,56048487,trnV-GUC,HX725_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048488,rrn16S,HX725_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048489,trnI-AUC,HX725_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048490,trnA-GCA,HX725_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048491,rrn23S,HX725_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048492,rrn4.5S,HX725_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048493,rrn5S,HX725_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048494,trnR-CGU,HX725_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048495,trnN-AAC,HX725_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048496,ycf1,HX725_pgp018,-,-,-,-,Ycf1.1,protein-coding,-,-,-,Ycf1.1,20210522,-
+359840,56048497,ndhF,HX725_pgp017,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210522,-
+359840,56048498,rpl32,HX725_pgp016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210522,-
+359840,56048499,trnL-CUA,HX725_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048500,ccsA,HX725_pgp015,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20210522,-
+359840,56048501,ndhD,HX725_pgp014,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210522,-
+359840,56048502,psaC,HX725_pgp013,-,-,-,-,PSI 9KDa protein,protein-coding,-,-,-,PSI 9KDa protein,20200801,-
+359840,56048503,ndhE,HX725_pgp012,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210424,-
+359840,56048504,ndhG,HX725_pgp011,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210522,-
+359840,56048505,ndhI,HX725_pgp010,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,NADH dehydrogenase subunit I,20210522,-
+359840,56048506,ndhA,HX725_pgp009,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210522,-
+359840,56048507,ndhH,HX725_pgp008,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+359840,56048508,rps15,HX725_pgp007,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210522,-
+359840,56048509,ycf1,HX725_pgp006,-,-,-,-,Ycf1.2,protein-coding,-,-,-,Ycf1.2,20210522,-
+359840,56048510,trnN-AAC,HX725_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048511,trnR-CGU,HX725_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048512,rrn5S,HX725_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048513,rrn4.5S,HX725_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048514,rrn23S,HX725_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048515,trnA-GCA,HX725_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048516,trnI-AUC,HX725_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048517,rrn16S,HX725_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+359840,56048518,trnV-GUC,HX725_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048519,rps7,HX725_pgp005,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210522,-
+359840,56048520,ndhB,HX725_pgp004,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210522,-
+359840,56048521,trnL-UUG,HX725_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048522,orf77,HX725_pgp003,-,-,-,-,orf77,protein-coding,-,-,-,orf77,20210522,-
+359840,56048523,ycf2,HX725_pgp002,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210522,-
+359840,56048524,trnI-CAU,HX725_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+359840,56048525,rpl23,HX725_pgp001,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210522,-
+359840,56048526,rps12,HX725_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210424,-

@@ -1,0 +1,274 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+231755,38463538,psbD,EI126_pgp195,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20190129,-
+231755,38463539,psbC,EI126_pgp194,-,-,-,-,photosystem II CP43 protein,protein-coding,-,-,-,photosystem II CP43 protein,20190129,-
+231755,38463540,ycf17,EI126_pgp193,-,-,-,-,CAB/ELIP/HLIP superfamily protein,protein-coding,-,-,-,CAB/ELIP/HLIP superfamily protein,20190128,-
+231755,38463541,upp,EI126_pgp192,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20190129,-
+231755,38463542,ycf19,EI126_pgp191,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463543,rps16,EI126_pgp190,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20190129,-
+231755,38463544,ycf65,EI126_pgp189,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,putative ribosomal protein 3,20190129,-
+231755,38463545,orf117,EI126_pgp188,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463546,groEL,EI126_pgp187,-,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20190129,-
+231755,38463547,trnR(acg),EI126_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463548,trnQ(ttg),EI126_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463549,syfB,EI126_pgp184,-,-,-,-,phenylalanyl-tRNA synthetase beta chain,protein-coding,-,-,-,phenylalanyl-tRNA synthetase beta chain,20190129,-
+231755,38463550,rps1,EI126_pgp183,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20190129,-
+231755,38463551,thiS,EI126_pgp182,-,-,-,-,thiamine biosynthesis protein S,protein-coding,-,-,-,thiamine biosynthesis protein S,20190129,-
+231755,38463552,trnH(gtg),EI126_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463553,ntcA,EI126_pgp180,-,-,-,-,global nitrogen transcriptional regulator,protein-coding,-,-,-,global nitrogen transcriptional regulator,20190129,-
+231755,38463554,petB,EI126_pgp179,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20190129,-
+231755,38463555,petD,EI126_pgp178,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20190129,-
+231755,38463556,rpl12,EI126_pgp177,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20190129,-
+231755,38463557,rpl1,EI126_pgp176,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,ribosomal protein L1,20190129,-
+231755,38463558,rpl11,EI126_pgp175,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,ribosomal protein L11,20190129,-
+231755,38463559,trnW(cca),EI126_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463560,trnS(gga),EI126_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463561,dnaB,EI126_pgp172,-,-,-,-,replication helicase subunit,protein-coding,-,-,-,replication helicase subunit,20190129,-
+231755,38463562,trnF(gaa),EI126_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463563,rpl19,EI126_pgp170,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,ribosomal protein L19,20190129,-
+231755,38463564,trnY(gta),EI126_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463565,ycf33,EI126_pgp168,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463566,argB,EI126_pgp167,-,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20190129,-
+231755,38463567,trnM(cat),EI126_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463568,psaE,EI126_pgp165,-,-,-,-,photosystem I subunit IV,protein-coding,-,-,-,photosystem I subunit IV,20190129,-
+231755,38463569,psbH,EI126_pgp164,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,photosystem II protein H,20190129,-
+231755,38463570,psbN,EI126_pgp163,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20190129,-
+231755,38463571,psbT,EI126_pgp162,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20190129,-
+231755,38463572,psbB,EI126_pgp161,-,-,-,-,photosystem II CP47 protein,protein-coding,-,-,-,photosystem II CP47 protein,20190129,-
+231755,38463573,ycf38,EI126_pgp160,-,-,-,-,ABC-2 type transporter,protein-coding,-,-,-,ABC-2 type transporter,20190129,-
+231755,38463574,petF,EI126_pgp159,-,-,-,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20190129,-
+231755,38463575,rps10,EI126_pgp158,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20190129,-
+231755,38463576,tufA,EI126_pgp157,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20190129,-
+231755,38463577,rps7,EI126_pgp156,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20190129,-
+231755,38463578,rps12,EI126_pgp155,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20190129,-
+231755,38463579,rpl31,EI126_pgp154,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20190129,-
+231755,38463580,rps9,EI126_pgp153,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20190129,-
+231755,38463581,rpl13,EI126_pgp152,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,ribosomal protein L13,20190129,-
+231755,38463582,rpoA,EI126_pgp151,-,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,DNA-directed RNA polymerase alpha subunit,20190129,-
+231755,38463583,rps11,EI126_pgp150,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20190129,-
+231755,38463584,rps13,EI126_pgp149,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20190129,-
+231755,38463585,rpl36,EI126_pgp148,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20190129,-
+231755,38463586,secY,EI126_pgp147,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20190129,-
+231755,38463587,rps5,EI126_pgp146,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,ribosomal protein S5,20190129,-
+231755,38463588,rpl18,EI126_pgp145,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,ribosomal protein L18,20190129,-
+231755,38463589,rpl6,EI126_pgp144,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20190129,-
+231755,38463590,rps8,EI126_pgp143,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20190129,-
+231755,38463591,rpl5,EI126_pgp142,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20190129,-
+231755,38463592,rpl24,EI126_pgp141,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,ribosomal protein L24,20190129,-
+231755,38463593,rpl14,EI126_pgp140,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20190129,-
+231755,38463594,rps17,EI126_pgp139,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,ribosomal protein S17,20190129,-
+231755,38463595,rpl29,EI126_pgp138,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,ribosomal protein L29,20190129,-
+231755,38463596,rpl16,EI126_pgp137,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20190129,-
+231755,38463597,rps3,EI126_pgp136,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20190129,-
+231755,38463598,rpl22,EI126_pgp135,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20190129,-
+231755,38463599,rps19,EI126_pgp134,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20190129,-
+231755,38463600,rpl2,EI126_pgp133,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20190129,-
+231755,38463601,rpl23,EI126_pgp132,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20190129,-
+231755,38463602,rpl4,EI126_pgp131,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,ribosomal protein L4,20190129,-
+231755,38463603,rpl3,EI126_pgp130,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,ribosomal protein L3,20190129,-
+231755,38463604,dnaK,EI126_pgp129,-,-,-,-,heat shock protein 70 chaperone,protein-coding,-,-,-,heat shock protein 70 chaperone,20190129,-
+231755,38463605,trnG(gcc),EI126_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463606,psbK,EI126_pgp127,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20190129,-
+231755,38463607,petG,EI126_pgp126,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20190129,-
+231755,38463608,rps14,EI126_pgp125,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20190129,-
+231755,38463609,psaB,EI126_pgp124,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,20190129,-
+231755,38463610,psaA,EI126_pgp123,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,20190129,-
+231755,38463611,accB,EI126_pgp122,-,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20190129,-
+231755,38463612,ycf45,EI126_pgp121,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463613,acpP,EI126_pgp120,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20190129,-
+231755,38463614,trnS(tga),EI126_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463615,chlB,EI126_pgp118,-,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,photochlorophyllide reductase,20190129,-
+231755,38463616,orf456,EI126_pgp117,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463617,acsF,EI126_pgp116,-,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,protein-coding,-,-,-,Magnesium-protoporphyrin IX monomethyl ester oxidative cyclase,20190129,-
+231755,38463618,petN,EI126_pgp115,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20190129,-
+231755,38463619,secG,EI126_pgp114,-,-,-,-,preprotein translocase subunit G,protein-coding,-,-,-,preprotein translocase subunit G,20190129,-
+231755,38463620,ycf36,EI126_pgp113,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463621,trnM(cat),EI126_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463622,rpl35,EI126_pgp111,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,ribosomal protein L35,20190129,-
+231755,38463623,rpl20,EI126_pgp110,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20190129,-
+231755,38463624,preA,EI126_pgp109,-,-,-,-,prenyl transferase,protein-coding,-,-,-,prenyl transferase,20190129,-
+231755,38463625,pdhA,EI126_pgp108,-,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component alpha subunit,20190129,-
+231755,38463626,pdhB,EI126_pgp107,-,-,-,-,pyruvate dehydrogenase E1 component beta subunit,protein-coding,-,-,-,pyruvate dehydrogenase E1 component beta subunit,20190129,-
+231755,38463627,petA,EI126_pgp106,-,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20190129,-
+231755,38463628,tatC,EI126_pgp105,-,-,-,-,Sec-independent translocase component C,protein-coding,-,-,-,Sec-independent translocase component C,20190129,-
+231755,38463629,apcE,EI126_pgp104,-,-,-,-,phycobilisome core-membrane linker protein,protein-coding,-,-,-,phycobilisome core-membrane linker protein,20190129,-
+231755,38463630,apcA,EI126_pgp103,-,-,-,-,allophycocyanin alpha subunit,protein-coding,-,-,-,allophycocyanin alpha subunit,20190129,-
+231755,38463631,apcB,EI126_pgp102,-,-,-,-,allophycocyanin beta subunit,protein-coding,-,-,-,allophycocyanin beta subunit,20190129,-
+231755,38463632,atpE,EI126_pgp101,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20190129,-
+231755,38463633,atpB,EI126_pgp100,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20190129,-
+231755,38463634,ycf3,EI126_pgp099,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,photosystem I assembly protein Ycf3,20190129,-
+231755,38463635,infB,EI126_pgp098,-,-,-,-,translation initiation factor 2,protein-coding,-,-,-,translation initiation factor 2,20190129,-
+231755,38463636,rps18,EI126_pgp097,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20190129,-
+231755,38463637,rpl33,EI126_pgp096,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20190129,-
+231755,38463638,rps20,EI126_pgp095,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,ribosomal protein S20,20190129,-
+231755,38463639,rpoB,EI126_pgp094,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20190129,-
+231755,38463640,rpoC1,EI126_pgp093,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20190129,-
+231755,38463641,rpoC2,EI126_pgp092,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20190129,-
+231755,38463642,rps2,EI126_pgp091,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20190129,-
+231755,38463643,tsf,EI126_pgp090,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20190129,-
+231755,38463644,atpI,EI126_pgp089,-,-,-,-,ATP synthase CFO A chain subunit IV,protein-coding,-,-,-,ATP synthase CFO A chain subunit IV,20190129,-
+231755,38463645,atpH,EI126_pgp088,-,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",protein-coding,-,-,-,"ATP synthase CFO C chain, lipid-binding subunit III",20190129,-
+231755,38463646,atpG,EI126_pgp087,-,-,-,-,ATP synthase CFO B' chain subunit II,protein-coding,-,-,-,ATP synthase CFO B' chain subunit II,20190129,-
+231755,38463647,atpF,EI126_pgp086,-,-,-,-,ATP synthase CFO B chain subunit I,protein-coding,-,-,-,ATP synthase CFO B chain subunit I,20190129,-
+231755,38463648,atpD,EI126_pgp085,-,-,-,-,ATP synthase CF1 delta subunit,protein-coding,-,-,-,ATP synthase CF1 delta subunit,20190129,-
+231755,38463649,atpA,EI126_pgp084,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20190129,-
+231755,38463650,sufC,EI126_pgp083,-,-,-,-,iron-sulfur cluster formation ABC transporter ATP-binding subunit,protein-coding,-,-,-,iron-sulfur cluster formation ABC transporter ATP-binding subunit,20190129,-
+231755,38463651,sufB,EI126_pgp082,-,-,-,-,cysteine desulfurase activator complex subunit SufB,protein-coding,-,-,-,cysteine desulfurase activator complex subunit SufB,20190129,-
+231755,38463652,ycf92,EI126_pgp081,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463653,trnL(caa),EI126_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463654,ycf41,EI126_pgp079,-,-,-,-,putative single-stranded DNA binding protein,protein-coding,-,-,-,putative single-stranded DNA binding protein,20190128,-
+231755,38463655,psbI,EI126_pgp078,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20190129,-
+231755,38463656,ycf58,EI126_pgp077,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463657,orf700,EI126_pgp076,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463658,cemA,EI126_pgp075,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20190129,-
+231755,38463659,trnM(cat),EI126_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463660,trnG(tcc),EI126_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463661,petL,EI126_pgp072,-,-,-,-,cytochrome b6-f complex subunit VI,protein-coding,-,-,-,cytochrome b6-f complex subunit VI,20190128,-
+231755,38463662,psaL,EI126_pgp071,-,-,-,-,photosystem I subunit XI,protein-coding,-,-,-,photosystem I subunit XI,20190129,-
+231755,38463663,trnT(tgt),EI126_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463664,rpl28,EI126_pgp069,-,-,-,-,ribosomal protein L28,protein-coding,-,-,-,ribosomal protein L28,20190129,-
+231755,38463665,trxA,EI126_pgp068,-,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20190129,-
+231755,38463666,rbcL,EI126_pgp067,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20190129,-
+231755,38463667,rbcS,EI126_pgp066,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20190129,-
+231755,38463668,cbbX,EI126_pgp065,-,-,-,-,putative rubisco expression protein,protein-coding,-,-,-,putative rubisco expression protein,20190129,-
+231755,38463669,trnC(gca),EI126_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463670,infC,EI126_pgp063,-,-,-,-,translation initiation factor 3,protein-coding,-,-,-,translation initiation factor 3,20190129,-
+231755,38463671,rps4,EI126_pgp062,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20190129,-
+231755,38463672,ycf80,EI126_pgp061,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463673,trnR(ccg),EI126_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463674,ycf20,EI126_pgp059,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463675,cpcG,EI126_pgp058,-,-,-,-,phycobilisome rod-core linker protein,protein-coding,-,-,-,phycobilisome rod-core linker protein,20190129,-
+231755,38463676,nblA,EI126_pgp057,-,-,-,-,phycobilisome degradation protein,protein-coding,-,-,-,phycobilisome degradation protein,20190129,-
+231755,38463677,cpeB,EI126_pgp056,-,-,-,-,R-phycoerythrin class I beta subunit,protein-coding,-,-,-,R-phycoerythrin class I beta subunit,20190129,-
+231755,38463678,cpeA,EI126_pgp055,-,-,-,-,R-phycoerythrin class I alpha subunit,protein-coding,-,-,-,R-phycoerythrin class I alpha subunit,20190129,-
+231755,38463679,ccsA,EI126_pgp054,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,cytochrome c biogenesis protein,20190129,-
+231755,38463680,psaK,EI126_pgp053,-,-,-,-,photosystem I subunit X,protein-coding,-,-,-,photosystem I subunit X,20190129,-
+231755,38463681,accA,EI126_pgp052,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase alpha subunit,20190129,-
+231755,38463682,ycf22,EI126_pgp051,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463683,psaC,EI126_pgp050,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20190129,-
+231755,38463684,gltB,EI126_pgp049,-,-,-,-,ferredoxin-dependent glutamate synthase,protein-coding,-,-,-,ferredoxin-dependent glutamate synthase,20190129,-
+231755,38463685,rpoZ,EI126_pgp048,-,-,-,-,DNA-directed RNA polymerase omega chain,protein-coding,-,-,-,DNA-directed RNA polymerase omega chain,20190129,-
+231755,38463686,cpcB,EI126_pgp047,-,-,-,-,phycocyanin beta subunit,protein-coding,-,-,-,phycocyanin beta subunit,20190129,-
+231755,38463687,cpcA,EI126_pgp046,-,-,-,-,phycocyanin alpha subunit,protein-coding,-,-,-,phycocyanin alpha subunit,20190129,-
+231755,38463688,pgmA,EI126_pgp045,-,-,-,-,phosphoglycerate mutase,protein-coding,-,-,-,phosphoglycerate mutase,20190129,-
+231755,38463689,ycf21,EI126_pgp044,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463690,secA,EI126_pgp043,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20190129,-
+231755,38463691,trnE(ttc),EI126_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463692,trnK(ttt),EI126_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463693,psb30,EI126_pgp040,-,-,-,-,photosystem II protein psb30,protein-coding,-,-,-,photosystem II protein psb30,20190129,-
+231755,38463694,ftrB,EI126_pgp039,-,-,-,-,ferredoxin-thioredoxin reductase beta subunit,protein-coding,-,-,-,ferredoxin-thioredoxin reductase beta subunit,20190129,-
+231755,38463695,psaI,EI126_pgp038,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20190129,-
+231755,38463696,psbJ,EI126_pgp037,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20190129,-
+231755,38463697,psbL,EI126_pgp036,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20190129,-
+231755,38463698,psbF,EI126_pgp035,-,-,-,-,cytochrome b559 subunit beta,protein-coding,-,-,-,cytochrome b559 subunit beta,20190129,-
+231755,38463699,psbE,EI126_pgp034,-,-,-,-,cytochrome b559 subunit alpha,protein-coding,-,-,-,cytochrome b559 subunit alpha,20190129,-
+231755,38463700,dfr,EI126_pgp033,-,-,-,-,two component sensor kinase,protein-coding,-,-,-,two component sensor kinase,20190129,-
+231755,38463701,ycf63,EI126_pgp032,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463702,trnV(tac),EI126_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463703,psaM,EI126_pgp030,-,-,-,-,photosystem I subunit XII,protein-coding,-,-,-,photosystem I subunit XII,20190129,-
+231755,38463704,rps6,EI126_pgp029,-,-,-,-,ribosomal protein S6,protein-coding,-,-,-,ribosomal protein S6,20190129,-
+231755,38463705,ycf60,EI126_pgp028,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463706,thiG,EI126_pgp027,-,-,-,-,thiamin biosynthesis protein G,protein-coding,-,-,-,thiamin biosynthesis protein G,20190129,-
+231755,38463707,trpG,EI126_pgp026,-,-,-,-,anthranilate synthase component 2,protein-coding,-,-,-,anthranilate synthase component 2,20190129,-
+231755,38463708,ccs1,EI126_pgp025,-,-,-,-,c-type cytochrome biogenensis protein,protein-coding,-,-,-,c-type cytochrome biogenensis protein,20190129,-
+231755,38463709,trnN(gtt),EI126_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463710,rne,EI126_pgp023,-,-,-,-,ribonuclease E,protein-coding,-,-,-,ribonuclease E,20190129,-
+231755,38463711,rpl27,EI126_pgp022,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,ribosomal protein L27,20190129,-
+231755,38463712,rpl21,EI126_pgp021,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20190129,-
+231755,38463713,ycf56,EI126_pgp020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463714,rpl32,EI126_pgp019,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20190129,-
+231755,38463715,psbY,EI126_pgp018,-,-,-,-,photosystem II protein Y,protein-coding,-,-,-,photosystem II protein Y,20190129,-
+231755,38463716,rbcR,EI126_pgp017,-,-,-,-,LysR transcriptional regulator,protein-coding,-,-,-,LysR transcriptional regulator,20190129,-
+231755,38463717,ycf54,EI126_pgp016,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463718,ycf55,EI126_pgp015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463719,ycf53,EI126_pgp014,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463720,carA,EI126_pgp013,-,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase arginine-specific small subunit,20190129,-
+231755,38463721,petJ,EI126_pgp012,-,-,-,-,cytochrome c553,protein-coding,-,-,-,cytochrome c553,20190129,-
+231755,38463722,psbV,EI126_pgp011,-,-,-,-,photosystem II cytochrome c550,protein-coding,-,-,-,photosystem II cytochrome c550,20190129,-
+231755,38463723,accD,EI126_pgp010,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20190129,-
+231755,38463724,psbX,EI126_pgp009,-,-,-,-,photosystem II protein X,protein-coding,-,-,-,photosystem II protein X,20190129,-
+231755,38463725,fabH,EI126_pgp008,-,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,protein-coding,-,-,-,3-oxoacyl-acyl-carrier-protein synthase 3,20190129,-
+231755,38463726,apcD,EI126_pgp007,-,-,-,-,allophycocyanin gamma subunit,protein-coding,-,-,-,allophycocyanin gamma subunit,20190129,-
+231755,38463727,psaJ,EI126_pgp006,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20190129,-
+231755,38463728,psaF,EI126_pgp005,-,-,-,-,photosystem I subunit III,protein-coding,-,-,-,photosystem I subunit III,20190129,-
+231755,38463729,ycf52,EI126_pgp004,-,-,-,-,GCN5-like N-acetyltransferase,protein-coding,-,-,-,GCN5-like N-acetyltransferase,20190129,-
+231755,38463730,trnP(tgg),EI126_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463731,EI126_pgr001,EI126_pgr001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+231755,38463732,chlN,EI126_pgp002,-,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,photochlorophyllide reductase,20190129,-
+231755,38463733,chlL,EI126_pgp001,-,-,-,-,photochlorophyllide reductase,protein-coding,-,-,-,photochlorophyllide reductase,20190129,-
+231755,38463734,trnI(gat),EI126_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463735,EI126_pgr003,EI126_pgr003,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+231755,38463736,hisS,EI126_pgp186,-,-,-,-,histidine tRNA synthetase,protein-coding,-,-,-,histidine tRNA synthetase,20190129,-
+231755,38463737,psb28,EI126_pgp185,-,-,-,-,photosystem II 13kD protein,protein-coding,-,-,-,photosystem II 13kD protein,20190129,-
+231755,38463738,ycf29,EI126_pgp181,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463739,moeB,EI126_pgp174,-,-,-,-,molybdopterin biosynthesis protein,protein-coding,-,-,-,molybdopterin biosynthesis protein,20190129,-
+231755,38463740,rpl9,EI126_pgp173,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,ribosomal protein L9,20190129,-
+231755,38463741,clpC,EI126_pgp171,-,-,-,-,Clp protease ATP binding subunit,protein-coding,-,-,-,Clp protease ATP binding subunit,20190129,-
+231755,38463742,trnT(ggt),EI126_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463743,ilvB,EI126_pgp169,-,-,-,-,acetohydroxyacid synthase large subunit,protein-coding,-,-,-,acetohydroxyacid synthase large subunit,20190129,-
+231755,38463744,trnS(gct),EI126_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463745,trnD(gtc),EI126_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463746,ftsH,EI126_pgp166,-,-,-,-,cell division protein,protein-coding,-,-,-,cell division protein,20190129,-
+231755,38463747,psbZ,EI126_pgp128,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20190129,-
+231755,38463748,psaD,EI126_pgp119,-,-,-,-,photosystem I subunit II,protein-coding,-,-,-,photosystem I subunit II,20190129,-
+231755,38463749,bas1,EI126_pgp112,-,-,-,-,thiol-specific antioxidant protein,protein-coding,-,-,-,thiol-specific antioxidant protein,20190129,-
+231755,38463750,ycf39,EI126_pgp080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463751,orf360,EI126_pgp074,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463752,ycf4,EI126_pgp073,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,photosystem I assembly protein Ycf4,20190129,-
+231755,38463753,orf65,EI126_pgp070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190128,-
+231755,38463754,trnL(taa),EI126_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463755,ilvH,EI126_pgp064,-,-,-,-,acetohydroxyacid synthase small subunit,protein-coding,-,-,-,acetohydroxyacid synthase small subunit,20190129,-
+231755,38463756,apcF,EI126_pgp060,-,-,-,-,Allophycocyanin beta 18 subunit,protein-coding,-,-,-,Allophycocyanin beta 18 subunit,20190129,-
+231755,38463757,trpA,EI126_pgp042,-,-,-,-,tryptophan synthase alpha subunit,protein-coding,-,-,-,tryptophan synthase alpha subunit,20190129,-
+231755,38463758,tilS,EI126_pgp041,-,-,-,-,tRNA(Ile)-lysidine synthase,protein-coding,-,-,-,tRNA(Ile)-lysidine synthase,20190129,-
+231755,38463759,trnR(tct),EI126_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463760,chlI,EI126_pgp031,-,-,-,-,Mg-protoporyphyrin IX chelatase,protein-coding,-,-,-,Mg-protoporyphyrin IX chelatase,20190129,-
+231755,38463761,trnL(tag),EI126_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463762,psbA,EI126_pgp024,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20190129,-
+231755,38463763,ycf37,EI126_pgp003,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190129,-
+231755,38463764,EI126_pgr002,EI126_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+231755,38463765,trnA(tgc),EI126_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463766,ycf27,EI126_pgp196,-,-,-,-,regulatory component of sensory transduction system,protein-coding,-,-,-,regulatory component of sensory transduction system,20190129,-
+231755,38463821,trnQ(ttg),EI126_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463822,COX2,EI126_mgp19,-,-,MT,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20190129,-
+231755,38463823,COX1,EI126_mgp18,-,-,MT,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20190129,-
+231755,38463824,rpl16,EI126_mgp17,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20190129,-
+231755,38463825,rps3,EI126_mgp16,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20190129,-
+231755,38463826,EI126_mgr02,EI126_mgr02,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+231755,38463827,ND4L,EI126_mgp15,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20190129,-
+231755,38463828,trnE(ttc),EI126_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463829,trnK(ttt),EI126_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463830,trnR(acg),EI126_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463831,trnI(gat),EI126_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463832,ND4,EI126_mgp10,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20190129,-
+231755,38463833,ND1,EI126_mgp08,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20190129,-
+231755,38463834,ND3,EI126_mgp07,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20190129,-
+231755,38463835,rps11,EI126_mgp06,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20190128,-
+231755,38463836,trnM(cat),EI126_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463837,trnC(gca),EI126_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463838,trnS(tga),EI126_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463839,trnG(gcc),EI126_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463840,ND6,EI126_mgp02,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20190129,-
+231755,38463841,CYTB,EI126_mgp01,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20190129,-
+231755,38463842,trnG(tcc),EI126_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463843,ymf39,EI126_mgp21,-,-,MT,-,ATP synthase B chain precursor,protein-coding,-,-,-,ATP synthase B chain precursor,20190129,-
+231755,38463844,COX3,EI126_mgp20,-,-,MT,-,cytochrome c oxidase subunit III,protein-coding,-,-,-,cytochrome c oxidase subunit III,20190129,-
+231755,38463845,secY,EI126_mgp13,-,-,MT,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20190128,-
+231755,38463846,trnV(tac),EI126_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463847,trnN(gtt),EI126_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463848,trnS(gct),EI126_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463849,trnY(gta),EI126_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463850,trnR(tct),EI126_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463851,trnA(tgc),EI126_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463852,trnW,EI126_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463853,ATP6,EI126_mgp12,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20190129,-
+231755,38463854,ND5,EI126_mgp11,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20190129,-
+231755,38463855,ND2,EI126_mgp09,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20190129,-
+231755,38463856,ATP9,EI126_mgp05,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20190604,-
+231755,38463857,trnP(tgg),EI126_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463858,trnF(gaa),EI126_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463859,sdh3,EI126_mgp04,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 3,protein-coding,-,-,-,succinate:cytochrome c oxidoreductase subunit 3,20190129,-
+231755,38463860,sdh2,EI126_mgp03,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 2,protein-coding,-,-,-,succinate:cytochrome c oxidoreductase subunit 2,20190129,-
+231755,38463861,trnL(tag),EI126_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+231755,38463862,EI126_mgr01,EI126_mgr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+231755,38463863,rps12,EI126_mgp14,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20190129,-
+231755,38463864,trnL(taa),EI126_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-

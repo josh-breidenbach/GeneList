@@ -1,0 +1,38 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+370603,41826966,trnW(tca),F6E67_mgt01,FM02_02,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826967,trnC(gca),F6E67_mgt02,FM02_03,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826968,trnY(gta),F6E67_mgt03,FM02_04,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826969,COX1,F6E67_mgp13,FM02_05,-,MT,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20200926,-
+370603,41826970,trnL(taa),F6E67_mgt04,FM02_06,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826971,COX2,F6E67_mgp12,FM02_07,-,MT,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20200926,-
+370603,41826972,trnK(ctt),F6E67_mgt05,FM02_08,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826973,trnD(gtc),F6E67_mgt06,FM02_09,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826974,ATP8,F6E67_mgp11,FM02_10,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20191012,-
+370603,41826975,ATP6,F6E67_mgp10,FM02_11,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20200926,-
+370603,41826976,COX3,F6E67_mgp09,FM02_12,-,MT,-,cytochrome c oxidase subunit III,protein-coding,-,-,-,cytochrome c oxidase subunit III,20200926,-
+370603,41826977,trnG(tcc),F6E67_mgt07,FM02_13,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826978,ND3,F6E67_mgp08,FM02_14,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20200926,-
+370603,41826979,trnA(tgc),F6E67_mgt08,FM02_15,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826980,trnR(tcg),F6E67_mgt09,FM02_16,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826981,trnN(gtt),F6E67_mgt10,FM02_17,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826982,trnS(tct),F6E67_mgt11,FM02_18,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826983,trnE(ttc),F6E67_mgt12,FM02_19,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826984,trnF,F6E67_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826985,trnH,F6E67_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826986,ND4L,F6E67_mgp05,FM02_22,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200926,-
+370603,41826987,trnT(tgt),F6E67_mgt15,FM02_23,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826988,trnP(tgg),F6E67_mgt16,FM02_24,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826989,ND6,F6E67_mgp04,FM02_25,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20200926,-
+370603,41826990,CYTB,F6E67_mgp03,FM02_26,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20200926,-
+370603,41826991,trnS(tga),F6E67_mgt17,FM02_27,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826992,ND1,F6E67_mgp02,FM02_28,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20200926,-
+370603,41826993,trnL(tag),F6E67_mgt18,FM02_29,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826994,F6E67_mgr02,F6E67_mgr02,FM02_30,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+370603,41826995,trnV(tac),F6E67_mgt19,FM02_31,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826996,F6E67_mgr01,F6E67_mgr01,FM02_32,-,MT,-,12S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+370603,41826997,trnI(gat),F6E67_mgt20,FM02_33,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826998,trnQ(ttg),F6E67_mgt21,FM02_34,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41826999,trnM(cat),F6E67_mgt22,FM02_35,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+370603,41827000,ND4,F6E67_mgp06,FM02_21,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200926,-
+370603,41827001,ND5,F6E67_mgp07,FM02_20,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200926,-
+370603,41827002,ND2,F6E67_mgp01,FM02_01,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200926,-

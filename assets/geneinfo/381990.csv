@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+381990,32953034,psbA,CDC88_pgp087,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20170908,-
+381990,32953035,trnK-UUU,CDC88_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953036,matK,CDC88_pgp086,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+381990,32953037,rps16,CDC88_pgp085,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+381990,32953038,trnQ-UUG,CDC88_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953039,psbK,CDC88_pgp084,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20170908,-
+381990,32953040,psbI,CDC88_pgp083,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+381990,32953041,trnS-GCU,CDC88_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953042,trnC-GCA,CDC88_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953043,petN,CDC88_pgp082,-,-,-,-,cytochrome b6f complex subunit VIII,protein-coding,-,-,-,-,20170908,-
+381990,32953044,psbM,CDC88_pgp081,-,-,-,-,PsbM,protein-coding,-,-,-,-,20190601,-
+381990,32953045,trnD-GUC,CDC88_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953046,trnY-GUA,CDC88_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953047,rpoB,CDC88_pgp080,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953048,rpoC1,CDC88_pgp079,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953049,rpoC2,CDC88_pgp078,-,-,-,-,RNA polymerase beta subunit-2,protein-coding,-,-,-,-,20170908,-
+381990,32953050,rps2,CDC88_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+381990,32953051,atpI,CDC88_pgp076,-,-,-,-,ATP synthase CF0 A chain,protein-coding,-,-,-,-,20170908,-
+381990,32953052,atpH,CDC88_pgp075,-,-,-,-,ATP synthase CF0 C chain,protein-coding,-,-,-,-,20170908,-
+381990,32953053,atpF,CDC88_pgp074,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953054,atpA,CDC88_pgp073,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953055,trnR-UCU,CDC88_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953056,trnG-UCC,CDC88_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953057,trnT-GGU,CDC88_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953058,psbD,CDC88_pgp072,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20170908,-
+381990,32953059,psbC,CDC88_pgp071,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20170908,-
+381990,32953060,trnS-UGA,CDC88_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953061,psbZ,CDC88_pgp070,-,-,-,-,photosystem II protein z,protein-coding,-,-,-,-,20170908,-
+381990,32953062,trnG-UCC,CDC88_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953063,trnfM-CAU,CDC88_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953064,rps14,CDC88_pgp069,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+381990,32953065,psaB,CDC88_pgp068,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20170908,-
+381990,32953066,psaA,CDC88_pgp067,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20170908,-
+381990,32953067,ycf3,CDC88_pgp066,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170908,-
+381990,32953068,trnS-GCU,CDC88_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953069,rps4,CDC88_pgp065,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+381990,32953070,trnT-UGU,CDC88_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953071,trnL-UAA,CDC88_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953072,trnF-GAA,CDC88_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953073,ndhJ,CDC88_pgp064,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20170908,-
+381990,32953074,ndhK,CDC88_pgp063,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20170908,-
+381990,32953075,ndhC,CDC88_pgp062,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170908,-
+381990,32953076,trnV-UAC,CDC88_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953077,trnM-CAU,CDC88_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953078,atpE,CDC88_pgp061,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953079,atpB,CDC88_pgp060,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953080,rbcL,CDC88_pgp059,-,-,-,-,"ribulose-1,5-bisphosphate carboxylaseoxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+381990,32953081,accD,CDC88_pgp058,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953082,psaI,CDC88_pgp057,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20170908,-
+381990,32953083,ycf4,CDC88_pgp056,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20170908,-
+381990,32953084,cemA,CDC88_pgp055,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+381990,32953085,petA,CDC88_pgp054,-,-,-,-,component of cytochrome b6f complex,protein-coding,-,-,-,-,20170908,-
+381990,32953086,psbJ,CDC88_pgp053,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20170908,-
+381990,32953087,psbL,CDC88_pgp052,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170908,-
+381990,32953088,psbF,CDC88_pgp051,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20170908,-
+381990,32953089,psbE,CDC88_pgp050,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170908,-
+381990,32953090,petL,CDC88_pgp049,-,-,-,-,cytochrome bf complex 3.5 kDa subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953091,petG,CDC88_pgp048,-,-,-,-,cytochrome b6f complex subunit V,protein-coding,-,-,-,-,20210212,-
+381990,32953092,trnW-CCA,CDC88_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953093,trnP-UGG,CDC88_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953094,psaJ,CDC88_pgp047,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20170908,-
+381990,32953095,rpl33,CDC88_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+381990,32953096,rps18,CDC88_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+381990,32953097,rpl20,CDC88_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+381990,32953098,rps12,CDC88_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+381990,32953099,clpP,CDC88_pgp041,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953100,trnH-GUG,CDC88_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953101,psbB,CDC88_pgp040,-,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,-,20170908,-
+381990,32953102,psbT,CDC88_pgp039,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+381990,32953103,psbN,CDC88_pgp038,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20170908,-
+381990,32953104,psbH,CDC88_pgp037,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20170908,-
+381990,32953105,petB,CDC88_pgp036,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+381990,32953106,petD,CDC88_pgp035,-,-,-,-,cytochrome b6f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+381990,32953107,rpoA,CDC88_pgp034,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+381990,32953108,rps11,CDC88_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+381990,32953109,rpl36,CDC88_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+381990,32953110,infA,CDC88_pgp031,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20170908,-
+381990,32953111,rps8,CDC88_pgp030,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+381990,32953112,rpl14,CDC88_pgp029,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+381990,32953113,rpl16,CDC88_pgp028,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+381990,32953114,rps3,CDC88_pgp027,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+381990,32953115,rpl22,CDC88_pgp026,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+381990,32953116,rps19,CDC88_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+381990,32953117,rpl2,CDC88_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+381990,32953118,rpl23,CDC88_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+381990,32953119,trnI-CAU,CDC88_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953120,ycf2,CDC88_pgp022,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20170908,-
+381990,32953121,trnL-CAA,CDC88_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953122,ndhB,CDC88_pgp021,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+381990,32953123,rps7,CDC88_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+381990,32953124,trnV-GAC,CDC88_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953125,rrn16,CDC88_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953126,trnI-GAU,CDC88_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953127,trnA-UGC,CDC88_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953128,rrn23,CDC88_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953129,rrn4.5,CDC88_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953130,rrn5,CDC88_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953131,trnR-ACG,CDC88_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953132,trnN-GUU,CDC88_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953133,ycf1,CDC88_pgp019,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20170908,-
+381990,32953134,rps15,CDC88_pgp018,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+381990,32953135,ndhH,CDC88_pgp017,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170908,-
+381990,32953136,ndhA,CDC88_pgp016,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170908,-
+381990,32953137,ndhI,CDC88_pgp015,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20170908,-
+381990,32953138,ndhG,CDC88_pgp014,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170908,-
+381990,32953139,ndhE,CDC88_pgp013,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170908,-
+381990,32953140,psaC,CDC88_pgp012,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+381990,32953141,ndhD,CDC88_pgp011,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170908,-
+381990,32953142,ccsA,CDC88_pgp010,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+381990,32953143,trnL-UAG,CDC88_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953144,rpl32,CDC88_pgp009,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+381990,32953145,ndhF,CDC88_pgp008,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170908,-
+381990,32953146,ycf1,CDC88_pgp007,-,-,-,-,pseudo,pseudo,-,-,-,-,20170603,-
+381990,32953147,trnN-GUU,CDC88_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953148,trnR-ACG,CDC88_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953149,rrn5,CDC88_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953150,rrn4.5,CDC88_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953151,rrn23,CDC88_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953152,trnA-UGC,CDC88_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953153,trnI-GAU,CDC88_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953154,rrn16,CDC88_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+381990,32953155,trnV-GAC,CDC88_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953156,rps7,CDC88_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+381990,32953157,ndhB,CDC88_pgp005,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+381990,32953158,trnL-CAA,CDC88_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953159,ycf2,CDC88_pgp004,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20170908,-
+381990,32953160,trnI-CAU,CDC88_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+381990,32953161,rps12,CDC88_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+381990,32953162,rpl23,CDC88_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+381990,32953163,rpl2,CDC88_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+381990,32953164,rps19,CDC88_pgp001,-,-,-,-,pseudo,pseudo,-,-,-,-,20170603,-

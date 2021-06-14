@@ -1,0 +1,136 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+360866,33348868,psbA,CGV62_pgp090,Tr_kau1Pt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20170908,-
+360866,33348869,rbcL,CGV62_pgp089,Tr_kau1Pt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+360866,33348870,atpB,CGV62_pgp088,Tr_kau1Pt0048,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+360866,33348871,atpE,CGV62_pgp087,Tr_kau1Pt0063,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20170908,-
+360866,33348872,trnM (CAU),CGV62_pgt002,Tr_kau1Pt0069,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348873,trnV (UAC),CGV62_pgt003,Tr_kau1Pt0072,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348874,trnK (UUU),CGV62_pgt004,Tr_kau1Pt0082,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348875,matK,CGV62_pgp086,Tr_kau1Pt0085,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+360866,33348876,rps16,CGV62_pgp085,Tr_kau1Pt0114,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+360866,33348877,ORF188,CGV62_pgp084,Tr_kau1Pt0118,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+360866,33348878,trnQ (UUG),CGV62_pgt005,Tr_kau1Pt0125,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348879,psbK,CGV62_pgp083,Tr_kau1Pt0130,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20170908,-
+360866,33348880,psbI,CGV62_pgp082,Tr_kau1Pt0136,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20170908,-
+360866,33348881,trnS (GCU),CGV62_pgt006,Tr_kau1Pt0138,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348882,trnG (UCC),CGV62_pgt007,Tr_kau1Pt0146,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348883,trnR (UCU),CGV62_pgt008,Tr_kau1Pt0156,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348884,atpA,CGV62_pgp081,Tr_kau1Pt0157,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+360866,33348885,atpF,CGV62_pgp080,Tr_kau1Pt0173,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+360866,33348886,atpH,CGV62_pgp079,Tr_kau1Pt0190,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20170908,-
+360866,33348887,atpI,CGV62_pgp078,Tr_kau1Pt0200,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20170908,-
+360866,33348888,rps2,CGV62_pgp077,Tr_kau1Pt0210,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+360866,33348889,rpoC2,CGV62_pgp076,Tr_kau1Pt0220,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170908,-
+360866,33348890,rpoC1,CGV62_pgp075,Tr_kau1Pt0263,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+360866,33348891,rpoB,CGV62_pgp074,Tr_kau1Pt0292,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+360866,33348892,ORF304,CGV62_pgp073,Tr_kau1Pt0333,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360866,33348893,trnC (GCA),CGV62_pgt009,Tr_kau1Pt0342,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348894,petN,CGV62_pgp072,Tr_kau1Pt0346,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+360866,33348895,psbM,CGV62_pgp071,Tr_kau1Pt0352,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+360866,33348896,trnD (GUC),CGV62_pgt010,Tr_kau1Pt0363,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348897,trnY (GUA),CGV62_pgt011,Tr_kau1Pt0365,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348898,trnE (UUC),CGV62_pgt012,Tr_kau1Pt0366,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348899,trnT (GGU),CGV62_pgt013,Tr_kau1Pt0375,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348900,psbD,CGV62_pgp070,Tr_kau1Pt0397,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20170908,-
+360866,33348901,psbC,CGV62_pgp069,Tr_kau1Pt0398,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20170908,-
+360866,33348902,trnS (UGA),CGV62_pgt014,Tr_kau1Pt0414,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348903,psbZ,CGV62_pgp068,Tr_kau1Pt0417,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20170908,-
+360866,33348904,trnG (GCC),CGV62_pgt015,Tr_kau1Pt0422,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348905,trnfM (CAU),CGV62_pgt016,Tr_kau1Pt0425,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348906,rps14,CGV62_pgp067,Tr_kau1Pt0427,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+360866,33348907,psaB,CGV62_pgp066,Tr_kau1Pt0432,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20170908,-
+360866,33348908,psaA,CGV62_pgp065,Tr_kau1Pt0454,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20170908,-
+360866,33348909,pafI,CGV62_pgp064,Tr_kau1Pt0483,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+360866,33348910,trnS (GGA),CGV62_pgt017,Tr_kau1Pt0512,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348911,rps4,CGV62_pgp063,Tr_kau1Pt0516,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+360866,33348912,trnT (UGU),CGV62_pgt018,Tr_kau1Pt0525,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348913,trnL (UAA),CGV62_pgt019,Tr_kau1Pt0533,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348914,trnF (GAA),CGV62_pgt020,Tr_kau1Pt0542,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348915,ndhJ,CGV62_pgp062,Tr_kau1Pt0549,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20170908,-
+360866,33348916,ndhK,CGV62_pgp061,Tr_kau1Pt0555,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20170908,-
+360866,33348917,ndhC,CGV62_pgp060,Tr_kau1Pt0562,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20170908,-
+360866,33348918,ORF226,CGV62_pgp059,Tr_kau1Pt0573,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+360866,33348919,psaI,CGV62_pgp058,Tr_kau1Pt0581,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20170908,-
+360866,33348920,pafII,CGV62_pgp057,Tr_kau1Pt0586,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20170908,-
+360866,33348921,cemA,CGV62_pgp056,Tr_kau1Pt0597,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+360866,33348922,petA,CGV62_pgp055,Tr_kau1Pt0607,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+360866,33348923,psbJ,CGV62_pgp054,Tr_kau1Pt0626,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20170908,-
+360866,33348924,psbL,CGV62_pgp053,Tr_kau1Pt0629,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20170908,-
+360866,33348925,psbF,CGV62_pgp052,Tr_kau1Pt0630,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20170908,-
+360866,33348926,psbE,CGV62_pgp051,Tr_kau1Pt0631,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+360866,33348927,petL,CGV62_pgp050,Tr_kau1Pt0643,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170908,-
+360866,33348928,petG,CGV62_pgp049,Tr_kau1Pt0646,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+360866,33348929,trnW (CCA),CGV62_pgt021,Tr_kau1Pt0648,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348930,trnP (UGG),CGV62_pgt022,Tr_kau1Pt0651,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348931,psaJ,CGV62_pgp048,Tr_kau1Pt0656,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20170908,-
+360866,33348932,rpl33,CGV62_pgp047,Tr_kau1Pt0661,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+360866,33348933,rps18,CGV62_pgp046,Tr_kau1Pt0665,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+360866,33348934,rpl20,CGV62_pgp045,Tr_kau1Pt0672,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+360866,33348935,rps12,CGV62_pgp044,Tr_kau1Pt1491,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+360866,33348936,psbB,CGV62_pgp041,Tr_kau1Pt0710,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20170908,-
+360866,33348937,psbT,CGV62_pgp040,Tr_kau1Pt0727,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20170908,-
+360866,33348938,psbN,CGV62_pgp039,Tr_kau1Pt0729,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20170908,-
+360866,33348939,psbH,CGV62_pgp038,Tr_kau1Pt0731,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20170908,-
+360866,33348940,petB,CGV62_pgp037,Tr_kau1Pt0735,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+360866,33348941,petD,CGV62_pgp036,Tr_kau1Pt0751,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+360866,33348942,rpoA,CGV62_pgp035,Tr_kau1Pt0765,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+360866,33348943,rps11,CGV62_pgp034,Tr_kau1Pt0776,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+360866,33348944,rpl36,CGV62_pgp033,Tr_kau1Pt0781,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+360866,33348945,infA,CGV62_pgp032,Tr_kau1Pt0783,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360866,33348946,rps8,CGV62_pgp031,Tr_kau1Pt0787,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+360866,33348947,rpl14,CGV62_pgp030,Tr_kau1Pt0793,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+360866,33348948,rpl16,CGV62_pgp029,Tr_kau1Pt0798,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+360866,33348949,rps3,CGV62_pgp028,Tr_kau1Pt0815,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+360866,33348950,rpl22,CGV62_pgp027,Tr_kau1Pt0821,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+360866,33348951,rps19,CGV62_pgp026,Tr_kau1Pt0827,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+360866,33348952,rpl2,CGV62_pgp025,Tr_kau1Pt0830,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+360866,33348953,rpl23,CGV62_pgp024,Tr_kau1Pt0845,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360866,33348954,trnI (CAU),CGV62_pgt023,Tr_kau1Pt0852,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348955,ycf2,CGV62_pgp023,Tr_kau1Pt0854,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+360866,33348956,trnL (CAA),CGV62_pgt024,Tr_kau1Pt0923,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348957,ndhB,CGV62_pgp022,Tr_kau1Pt0929,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+360866,33348958,rps7,CGV62_pgp021,Tr_kau1Pt0954,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+360866,33348959,trnV (GAC),CGV62_pgt025,Tr_kau1Pt0986,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348960,trnH (GUG),CGV62_pgt001,Tr_kau1Pt0001,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348961,rrn16,CGV62_pgr008,Tr_kau1Pt0989,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348962,trnI (GAU),CGV62_pgt026,Tr_kau1Pt1006,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348963,trnA (UGC),CGV62_pgt027,Tr_kau1Pt1017,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348964,rrn23,CGV62_pgr007,Tr_kau1Pt1028,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348965,rrn4.5,CGV62_pgr006,Tr_kau1Pt1057,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348966,rrn5,CGV62_pgr005,Tr_kau1Pt1060,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348967,trnR (ACG),CGV62_pgt028,Tr_kau1Pt1064,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348968,trnN (GUU),CGV62_pgt029,Tr_kau1Pt1067,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348969,ycf1,CGV62_pgp020,Tr_kau1Pt1074,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+360866,33348970,rps15,CGV62_pgp019,Tr_kau1Pt1147,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+360866,33348971,ndhH,CGV62_pgp018,Tr_kau1Pt1151,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+360866,33348972,ndhA,CGV62_pgp017,Tr_kau1Pt1163,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+360866,33348973,ndhI,CGV62_pgp016,Tr_kau1Pt1185,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+360866,33348974,ndhG,CGV62_pgp015,Tr_kau1Pt1194,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+360866,33348975,ndhE,CGV62_pgp014,Tr_kau1Pt1202,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20170908,-
+360866,33348976,psaC,CGV62_pgp013,Tr_kau1Pt1207,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+360866,33348977,ndhD,CGV62_pgp012,Tr_kau1Pt1214,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20170908,-
+360866,33348978,ccsA,CGV62_pgp011,Tr_kau1Pt1228,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+360866,33348979,trnL (UAG),CGV62_pgt030,Tr_kau1Pt1238,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348980,rpl32,CGV62_pgp010,Tr_kau1Pt1246,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+360866,33348981,ndhF,CGV62_pgp009,Tr_kau1Pt1257,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20170908,-
+360866,33348982,ndhH,CGV62_pgp008,Tr_kau1Pt1096,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+360866,33348983,rps15,CGV62_pgp007,Tr_kau1Pt1308,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+360866,33348984,ycf1,CGV62_pgp006,Tr_kau1Pt1315,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+360866,33348985,trnN (GUU),CGV62_pgt031,Tr_kau1Pt1391,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348986,trnR (ACG),CGV62_pgt032,Tr_kau1Pt1394,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348987,rrn5,CGV62_pgr004,Tr_kau1Pt1397,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348988,rrn4.5,CGV62_pgr003,Tr_kau1Pt1401,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348989,rrn23,CGV62_pgr002,Tr_kau1Pt1403,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348990,trnA (UGC),CGV62_pgt033,Tr_kau1Pt1432,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348991,trnI (GAU),CGV62_pgt034,Tr_kau1Pt1442,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348992,rrn16,CGV62_pgr001,Tr_kau1Pt1455,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+360866,33348993,rps12,CGV62_pgp043,Tr_kau1Pt0960,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+360866,33348994,trnV (GAC),CGV62_pgt035,Tr_kau1Pt1472,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348995,rps7,CGV62_pgp005,Tr_kau1Pt1499,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+360866,33348996,clpP,CGV62_pgp042,Tr_kau1Pt0686,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+360866,33348997,ndhB,CGV62_pgp004,Tr_kau1Pt1507,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+360866,33348998,trnL (CAA),CGV62_pgt036,Tr_kau1Pt1535,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33348999,ycf2,CGV62_pgp003,Tr_kau1Pt1541,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+360866,33349000,trnI (CAU),CGV62_pgt037,Tr_kau1Pt1606,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+360866,33349001,rpl23,CGV62_pgp002,Tr_kau1Pt1610,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+360866,33349002,rpl2,CGV62_pgp001,Tr_kau1Pt1613,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-

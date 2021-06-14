@@ -1,0 +1,562 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+224915,2830975,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Buchnera aphidicola (subsp. Baizongia pistaciae)).,other,-,-,-,-,20200803,-
+224915,56470545,mnmG,BBP_RS00005,bbp001|bbp_001,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200829,-
+224915,56470546,atpB,BBP_RS00010,bbp002|bbp_002,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201110,-
+224915,56470547,atpE,BBP_RS00015,bbp003|bbp_003,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20201110,-
+224915,56470548,BBP_RS00020,BBP_RS00020,bbp004|bbp_004,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200829,-
+224915,56470549,BBP_RS00025,BBP_RS00025,bbp005|bbp_005,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200829,-
+224915,56470550,BBP_RS00030,BBP_RS00030,bbp006|bbp_006,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20201110,-
+224915,56470551,atpG,BBP_RS00035,bbp007|bbp_007,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20201110,-
+224915,56470552,atpD,BBP_RS00040,bbp008|bbp_008,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201110,-
+224915,56470553,atpC,BBP_RS00045,bbp009|bbp_009,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20201110,-
+224915,56470554,gyrB,BBP_RS00050,bbp010|bbp_010,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20201010,-
+224915,56470555,dnaN,BBP_RS00055,bbp011|bbp_011,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200829,-
+224915,56470556,dnaA,BBP_RS00060,bbp012|bbp_012,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200829,-
+224915,56470557,rpmH,BBP_RS00065,bbp013|bbp_013,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20201110,-
+224915,56470558,rnpA,BBP_RS00070,bbp014|bbp_014,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200829,-
+224915,56470559,yidD,BBP_RS00075,bbp015|bbp_015,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20201110,-
+224915,56470560,yidC,BBP_RS00080,bbp016|bbp_016,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20201110,-
+224915,56470561,mnmE,BBP_RS00085,bbp017|bbp_017,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201110,-
+224915,56470562,mutH,BBP_RS00090,bbp018|bbp_018,-,-,-,DNA mismatch repair endonuclease MutH,protein-coding,-,-,-,DNA mismatch repair endonuclease MutH,20210529,-
+224915,56470563,BBP_RS00095,BBP_RS00095,bbp019|bbp_019,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470564,BBP_RS00100,BBP_RS00100,bbp020|bbp_020,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20201110,-
+224915,56470565,groL,BBP_RS00105,bbp021|bbp_021,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200829,-
+224915,56470566,epmB,BBP_RS00110,bbp022|bbp_022,-,-,-,EF-P beta-lysylation protein EpmB,protein-coding,-,-,-,EF-P beta-lysylation protein EpmB,20200829,-
+224915,56470567,efp,BBP_RS00115,bbp023|bbp_023,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201110,-
+224915,56470568,dnaC,BBP_RS00120,bbp024|bbp_024,-,-,-,DNA replication protein DnaC,protein-coding,-,-,-,DNA replication protein DnaC,20200829,-
+224915,56470569,rsmD,BBP_RS00125,bbp025|bbp_025,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20201110,-
+224915,56470570,ftsY,BBP_RS00130,bbp026|bbp_026,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200829,-
+224915,56470571,rpoH,BBP_RS00135,bbp027|bbp_027,-,-,-,RNA polymerase sigma factor RpoH,protein-coding,-,-,-,RNA polymerase sigma factor RpoH,20201110,-
+224915,56470572,glmS,BBP_RS00140,bbp028|bbp_028,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20201110,-
+224915,56470573,glmU,BBP_RS00145,bbp029|bbp_029,-,-,-,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,protein-coding,-,-,-,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,20200829,-
+224915,56470574,BBP_RS00150,BBP_RS00150,bbp030|bbp_030,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201110,-
+224915,56470575,metE,BBP_RS00155,bbp031|bbp_031,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,protein-coding,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,20210424,-
+224915,56470576,purH,BBP_RS00160,bbp032|bbp_032,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20210417,-
+224915,56470577,BBP_RS00165,BBP_RS00165,bbp033|bbp_033,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201110,-
+224915,56470578,rpoC,BBP_RS00175,bbp034|bbp_034,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200829,-
+224915,56470579,rpoB,BBP_RS00180,bbp035|bbp_035,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20201110,-
+224915,56470580,rplL,BBP_RS00185,bbp036|bbp_036,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200829,-
+224915,56470581,BBP_RS00190,BBP_RS00190,bbp037|bbp_037,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201110,-
+224915,56470582,rplA,BBP_RS00195,bbp038|bbp_038,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200829,-
+224915,56470583,rplK,BBP_RS00200,bbp039|bbp_039,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20201110,-
+224915,56470584,nusG,BBP_RS00205,bbp040|bbp_040,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200829,-
+224915,56470585,secE,BBP_RS00210,bbp041|bbp_041,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200829,-
+224915,56470586,BBP_RS00215,BBP_RS00215,bbp042|bbp_042,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470587,BBP_RS00220,BBP_RS00220,bbp043|bbp_043,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470588,BBP_RS00225,BBP_RS00225,bbp044|bbp_044,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470589,BBP_RS00230,BBP_RS00230,bbp045|bbp_045,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470590,murB,BBP_RS00235,bbp046|bbp_046,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20201003,-
+224915,56470591,metF,BBP_RS00240,bbp047|bbp_047,-,-,-,methylenetetrahydrofolate reductase,protein-coding,-,-,-,methylenetetrahydrofolate reductase,20201110,-
+224915,56470592,BBP_RS00245,BBP_RS00245,bbp048|bbp_048,-,-,-,argininosuccinate synthase,protein-coding,-,-,-,argininosuccinate synthase,20200829,-
+224915,56470593,argH,BBP_RS00250,bbp049|bbp_049,-,-,-,argininosuccinate lyase,protein-coding,-,-,-,argininosuccinate lyase,20201110,-
+224915,56470594,BBP_RS00255,BBP_RS00255,bbp050|bbp_050,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20200829,-
+224915,56470595,BBP_RS00260,BBP_RS00260,bbp051|bbp_051,-,-,-,serine acetyltransferase,protein-coding,-,-,-,serine acetyltransferase,20210424,-
+224915,56470596,rpoD,BBP_RS00265,bbp052|bbp_052,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20201110,-
+224915,56470597,BBP_RS00270,BBP_RS00270,bbp053|bbp_053,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20201110,-
+224915,56470598,rpsU,BBP_RS00275,bbp054|bbp_054,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200829,-
+224915,56470599,tsaD,BBP_RS00280,bbp055|bbp_055,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20201110,-
+224915,56470600,ribB,BBP_RS00285,bbp056|bbp_056,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20201110,-
+224915,56470601,BBP_RS00290,BBP_RS00290,bbp057|bbp_057,-,-,-,tRNA CCA-pyrophosphorylase,protein-coding,-,-,-,tRNA CCA-pyrophosphorylase,20201110,-
+224915,56470602,BBP_RS00295,BBP_RS00295,bbp058|bbp_058,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20210529,-
+224915,56470603,crr,BBP_RS00300,bbp059|bbp_059,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20200829,-
+224915,56470604,ptsI,BBP_RS00305,bbp060|bbp_060,-,-,-,phosphoenolpyruvate-protein phosphotransferase PtsI,protein-coding,-,-,-,phosphoenolpyruvate-protein phosphotransferase PtsI,20201110,-
+224915,56470605,BBP_RS00310,BBP_RS00310,bbp061|bbp_061,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200829,-
+224915,56470606,ligA,BBP_RS00315,bbp062|bbp_062,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201110,-
+224915,56470607,BBP_RS00320,BBP_RS00320,bbp063|bbp_063,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470608,BBP_RS00325,BBP_RS00325,bbp064|bbp_064,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470609,gltX,BBP_RS00330,bbp065|bbp_065,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200829,-
+224915,56470610,BBP_RS00335,BBP_RS00335,bbp066|bbp_066,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470611,fliE,BBP_RS00340,bbp067|bbp_067,-,-,-,flagellar hook-basal body complex protein FliE,protein-coding,-,-,-,flagellar hook-basal body complex protein FliE,20201110,-
+224915,56470612,fliF,BBP_RS00345,bbp068|bbp_068,-,-,-,flagellar M-ring protein FliF,protein-coding,-,-,-,flagellar M-ring protein FliF,20210417,-
+224915,56470613,BBP_RS00350,BBP_RS00350,bbp069|bbp_069,-,-,-,flagellar motor switch protein FliG,protein-coding,-,-,-,flagellar motor switch protein FliG,20200829,-
+224915,56470614,BBP_RS00355,BBP_RS00355,bbp070|bbp_070,-,-,-,flagellar assembly protein FliH,protein-coding,-,-,-,flagellar assembly protein FliH,20201110,-
+224915,56470615,BBP_RS00360,BBP_RS00360,bbp071|bbp_071,-,-,-,FliI/YscN family ATPase,protein-coding,-,-,-,FliI/YscN family ATPase,20201110,-
+224915,56470616,BBP_RS00365,BBP_RS00365,bbp072|bbp_072,-,-,-,flagellar FliJ protein,protein-coding,-,-,-,flagellar FliJ protein,20201110,-
+224915,56470617,BBP_RS00370,BBP_RS00370,bbp073|bbp_073,-,-,-,flagellar hook-length control protein FliK,protein-coding,-,-,-,flagellar hook-length control protein FliK,20210417,-
+224915,56470618,BBP_RS00375,BBP_RS00375,bbp074|bbp_074,-,-,-,FliM/FliN family flagellar motor switch protein,protein-coding,-,-,-,FliM/FliN family flagellar motor switch protein,20201110,-
+224915,56470619,fliN,BBP_RS00380,bbp075|bbp_075,-,-,-,flagellar motor switch protein FliN,protein-coding,-,-,-,flagellar motor switch protein FliN,20210424,-
+224915,56470620,fliP,BBP_RS00385,bbp076|bbp_076,-,-,-,flagellar type III secretion system pore protein FliP,protein-coding,-,-,-,flagellar type III secretion system pore protein FliP,20200829,-
+224915,56470621,fliQ,BBP_RS00390,bbp077|bbp_077,-,-,-,flagellar biosynthesis protein FliQ,protein-coding,-,-,-,flagellar biosynthesis protein FliQ,20201110,-
+224915,56470622,fliR,BBP_RS00395,bbp078|bbp_078,-,-,-,flagellar biosynthetic protein FliR,protein-coding,-,-,-,flagellar biosynthetic protein FliR,20200829,-
+224915,56470623,rpmG,BBP_RS00400,bbp079|bbp_079,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200829,-
+224915,56470624,rpmB,BBP_RS00405,bbp080|bbp_080,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200829,-
+224915,56470625,BBP_RS00410,BBP_RS00410,bbp081|bbp_081,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56470626,BBP_RS00415,BBP_RS00415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56470627,ppa,BBP_RS00425,bbp082|bbp_082,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200829,-
+224915,56470628,pmbA,BBP_RS00430,bbp083|bbp_083,-,-,-,metalloprotease PmbA,protein-coding,-,-,-,metalloprotease PmbA,20200829,-
+224915,56470629,rsmI,BBP_RS00435,bbp085|bbp_085,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200829,-
+224915,56470630,BBP_RS00440,BBP_RS00440,bbp086|bbp_086,-,-,-,3-oxoacyl-ACP synthase I,protein-coding,-,-,-,3-oxoacyl-ACP synthase I,20201110,-
+224915,56470631,tal,BBP_RS00445,bbp087|bbp_087,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20200829,-
+224915,56470632,tkt,BBP_RS00450,bbp088|bbp_088,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200829,-
+224915,56470633,dapE,BBP_RS00455,bbp089|bbp_089,-,-,-,succinyl-diaminopimelate desuccinylase,protein-coding,-,-,-,succinyl-diaminopimelate desuccinylase,20200829,-
+224915,56470634,dapA,BBP_RS00460,bbp090|bbp_090,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20200829,-
+224915,56470635,aroC,BBP_RS00465,bbp091|bbp_091,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20200829,-
+224915,56470636,smrB,BBP_RS00470,bbp092|bbp_092,-,-,-,endonuclease SmrB,protein-coding,-,-,-,endonuclease SmrB,20200829,-
+224915,56470637,hisG,BBP_RS00475,bbp093|bbp_093,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,ATP phosphoribosyltransferase,20201110,-
+224915,56470638,hisD,BBP_RS00480,bbp094|bbp_094,-,-,-,histidinol dehydrogenase,protein-coding,-,-,-,histidinol dehydrogenase,20200829,-
+224915,56470639,hisC,BBP_RS00485,bbp095|bbp_095,-,-,-,histidinol-phosphate transaminase,protein-coding,-,-,-,histidinol-phosphate transaminase,20201110,-
+224915,56470640,hisB,BBP_RS00490,bbp096|bbp_096,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,protein-coding,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,20200829,-
+224915,56470641,hisH,BBP_RS00495,bbp097|bbp_097,-,-,-,imidazole glycerol phosphate synthase subunit HisH,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisH,20201110,-
+224915,56470642,hisA,BBP_RS00500,bbp098|bbp_098,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,protein-coding,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,20200829,-
+224915,56470643,hisF,BBP_RS00505,bbp099|bbp_099,-,-,-,imidazole glycerol phosphate synthase subunit HisF,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisF,20200829,-
+224915,56470644,BBP_RS00510,BBP_RS00510,bbp100|bbp_100,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,protein-coding,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,20200829,-
+224915,56470645,gndA,BBP_RS00515,bbp101|bbp_101,-,-,-,NADP-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,NADP-dependent phosphogluconate dehydrogenase,20200829,-
+224915,56470646,dcd,BBP_RS00520,bbp102|bbp_102,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20201110,-
+224915,56470647,BBP_RS00525,BBP_RS00525,bbp103|bbp_103,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200829,-
+224915,56470648,tilS,BBP_RS00530,bbp104|bbp_104,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200829,-
+224915,56470649,BBP_RS00535,BBP_RS00535,bbp105|bbp_105,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470650,BBP_RS00540,BBP_RS00540,bbp106|bbp_106,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200829,-
+224915,56470651,BBP_RS00545,BBP_RS00545,bbp107|bbp_107,-,-,-,riboflavin synthase subunit alpha,protein-coding,-,-,-,riboflavin synthase subunit alpha,20200829,-
+224915,56470652,rsxA,BBP_RS00550,bbp108|bbp_108,-,-,-,electron transport complex subunit RsxA,protein-coding,-,-,-,electron transport complex subunit RsxA,20200829,-
+224915,56470653,BBP_RS00555,BBP_RS00555,bbp109|bbp_109,-,-,-,RnfABCDGE type electron transport complex subunit B,protein-coding,-,-,-,RnfABCDGE type electron transport complex subunit B,20200829,-
+224915,56470654,rsxC,BBP_RS00560,bbp110|bbp_110,-,-,-,electron transport complex subunit RsxC,protein-coding,-,-,-,electron transport complex subunit RsxC,20210529,-
+224915,56470655,BBP_RS00565,BBP_RS00565,bbp111|bbp_111,-,-,-,RnfABCDGE type electron transport complex subunit D,protein-coding,-,-,-,RnfABCDGE type electron transport complex subunit D,20201110,-
+224915,56470656,rsxG,BBP_RS00570,bbp112|bbp_112,-,-,-,electron transport complex subunit RsxG,protein-coding,-,-,-,electron transport complex subunit RsxG,20210417,-
+224915,56470657,BBP_RS00575,BBP_RS00575,bbp113|bbp_113,-,-,-,electron transport complex subunit E,protein-coding,-,-,-,electron transport complex subunit E,20201110,-
+224915,56470658,nth,BBP_RS00580,bbp114|bbp_114,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210424,-
+224915,56470659,tyrS,BBP_RS00585,bbp115|bbp_115,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201110,-
+224915,56470660,BBP_RS00590,BBP_RS00590,bbp116|bbp_116,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20200829,-
+224915,56470661,ydiK,BBP_RS00595,bbp117|bbp_117,-,-,-,AI-2E family transporter YdiK,protein-coding,-,-,-,AI-2E family transporter YdiK,20200829,-
+224915,56470662,BBP_RS00605,BBP_RS00605,bbp118|bbp_118,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20201110,-
+224915,56470663,thrS,BBP_RS00610,bbp119|bbp_119,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201110,-
+224915,56470664,infC,BBP_RS00615,bbp120|bbp_120,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201110,-
+224915,56470665,rpmI,BBP_RS00620,bbp121|bbp_121,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200829,-
+224915,56470666,rplT,BBP_RS00625,bbp122|bbp_122,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201110,-
+224915,56470667,pheS,BBP_RS00630,bbp123|bbp_123,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20201110,-
+224915,56470668,pheT,BBP_RS00635,bbp124|bbp_124,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200829,-
+224915,56470669,yajC,BBP_RS00640,bbp125|bbp_125,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20201110,-
+224915,56470670,BBP_RS00645,BBP_RS00645,bbp126|bbp_126,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,glycine--tRNA ligase subunit beta,20200829,-
+224915,56470671,BBP_RS00650,BBP_RS00650,bbp127|bbp_127,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20201110,-
+224915,56470672,nfo,BBP_RS00655,bbp128|bbp_128,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200829,-
+224915,56470673,rplY,BBP_RS00660,bbp129|bbp_129,-,-,-,50S ribosomal protein L25,protein-coding,-,-,-,50S ribosomal protein L25,20200829,-
+224915,56470674,BBP_RS00665,BBP_RS00665,bbp130|bbp_130,-,-,-,DedA family protein,protein-coding,-,-,-,DedA family protein,20201110,-
+224915,56470675,rsmA,BBP_RS00670,bbp131|bbp_131,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20201110,-
+224915,56470676,BBP_RS00675,BBP_RS00675,bbp132|bbp_132,-,-,-,symmetrical bis(5'-nucleosyl)-tetraphosphatase,protein-coding,-,-,-,symmetrical bis(5'-nucleosyl)-tetraphosphatase,20200829,-
+224915,56470677,folA,BBP_RS00680,bbp133|bbp_133,-,-,-,type 3 dihydrofolate reductase,protein-coding,-,-,-,type 3 dihydrofolate reductase,20200829,-
+224915,56470678,carB,BBP_RS00685,bbp134|bbp_134,-,-,-,carbamoyl-phosphate synthase large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase large subunit,20200829,-
+224915,56470679,carA,BBP_RS00690,bbp135|bbp_135,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20210424,-
+224915,56470680,BBP_RS00695,BBP_RS00695,bbp136|bbp_136,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20200829,-
+224915,56470681,BBP_RS00700,BBP_RS00700,bbp137|bbp_137,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20201110,-
+224915,56470682,lspA,BBP_RS00705,bbp138|bbp_138,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20201110,-
+224915,56470683,ileS,BBP_RS00710,bbp139|bbp_139,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20201110,-
+224915,56470684,rpsT,BBP_RS00715,bbp140|bbp_140,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201110,-
+224915,56470685,dnaJ,BBP_RS00720,bbp141|bbp_141,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20200829,-
+224915,56470686,dnaK,BBP_RS00725,bbp142|bbp_142,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200829,-
+224915,56470687,ndhC,BBP_RS00730,bbp143|bbp_143,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit A,20201110,-
+224915,56470688,BBP_RS00735,BBP_RS00735,bbp144|bbp_144,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit B,20201110,-
+224915,56470689,nuoC,BBP_RS00740,bbp145|bbp_145,-,-,-,NADH-quinone oxidoreductase subunit C/D,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit C/D,20201110,-
+224915,56470690,nuoE,BBP_RS00745,bbp146|bbp_146,-,-,-,NADH-quinone oxidoreductase subunit NuoE,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoE,20200829,-
+224915,56470691,nuoF,BBP_RS00750,bbp147|bbp_147,-,-,-,NADH-quinone oxidoreductase subunit NuoF,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoF,20200829,-
+224915,56470692,nuoG,BBP_RS00755,bbp148|bbp_148,-,-,-,NADH-quinone oxidoreductase subunit NuoG,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoG,20201110,-
+224915,56470693,nuoH,BBP_RS00760,bbp149|bbp_149,-,-,-,NADH-quinone oxidoreductase subunit NuoH,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoH,20200829,-
+224915,56470694,nuoI,BBP_RS00765,bbp150|bbp_150,-,-,-,NADH-quinone oxidoreductase subunit NuoI,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoI,20200829,-
+224915,56470695,BBP_RS00770,BBP_RS00770,bbp151|bbp_151,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit J,20200829,-
+224915,56470696,nuoK,BBP_RS00775,bbp152|bbp_152,-,-,-,NADH-quinone oxidoreductase subunit NuoK,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoK,20201110,-
+224915,56470697,nuoL,BBP_RS00780,bbp153|bbp_153,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit L,20200829,-
+224915,56470698,BBP_RS00785,BBP_RS00785,bbp154|bbp_154,-,-,-,NADH-quinone oxidoreductase subunit M,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit M,20200829,-
+224915,56470699,BBP_RS00790,BBP_RS00790,bbp155|bbp_155,-,-,-,NADH-quinone oxidoreductase subunit N,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit N,20200829,-
+224915,56470700,BBP_RS00795,BBP_RS00795,bbp156|bbp_156,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201110,-
+224915,56470701,folC,BBP_RS00800,bbp157|bbp_157,-,-,-,bifunctional tetrahydrofolate synthase/dihydrofolate synthase,protein-coding,-,-,-,bifunctional tetrahydrofolate synthase/dihydrofolate synthase,20200829,-
+224915,56470702,BBP_RS00805,BBP_RS00805,bbp158|bbp_158,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20201110,-
+224915,56470703,BBP_RS00810,BBP_RS00810,bbp159|bbp_159,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20201110,-
+224915,56470704,prfA,BBP_RS00815,bbp161|bbp_161,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200829,-
+224915,56470705,prmC,BBP_RS00820,bbp162|bbp_162,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200829,-
+224915,56470706,BBP_RS00825,BBP_RS00825,bbp163|bbp_163,-,-,-,tetratricopeptide repeat-containing protein,protein-coding,-,-,-,tetratricopeptide repeat-containing protein,20201110,-
+224915,56470707,BBP_RS00830,BBP_RS00830,bbp164|bbp_164,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20201110,-
+224915,56470708,pta,BBP_RS00835,bbp165|bbp_165,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20200829,-
+224915,56470709,BBP_RS00840,BBP_RS00840,bbp166|bbp_166,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,protein-coding,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,20200829,-
+224915,56470710,nrdB,BBP_RS00845,bbp167|bbp_167,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20201110,-
+224915,56470711,nrdA,BBP_RS00850,bbp168|bbp_168,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20200829,-
+224915,56470712,gyrA,BBP_RS00855,bbp169|bbp_169,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20201110,-
+224915,56470713,BBP_RS00860,BBP_RS00860,bbp170|bbp_170,-,-,-,DUF2076 domain-containing protein,protein-coding,-,-,-,DUF2076 domain-containing protein,20200829,-
+224915,56470714,BBP_RS00865,BBP_RS00865,bbp171|bbp_171,-,-,-,redoxin domain-containing protein,protein-coding,-,-,-,redoxin domain-containing protein,20201110,-
+224915,56470715,ung,BBP_RS00870,bbp172|bbp_172,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200829,-
+224915,56470716,BBP_RS00875,BBP_RS00875,bbp173|bbp_173,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20201110,-
+224915,56470717,nadK,BBP_RS00880,bbp174|bbp_174,-,-,-,NAD(+) kinase,protein-coding,-,-,-,NAD(+) kinase,20201110,-
+224915,56470718,grxD,BBP_RS00885,bbp176|bbp_176,-,-,-,Grx4 family monothiol glutaredoxin,protein-coding,-,-,-,Grx4 family monothiol glutaredoxin,20200829,-
+224915,56470719,rnt,BBP_RS00890,bbp177|bbp_177,-,-,-,ribonuclease T,protein-coding,-,-,-,ribonuclease T,20200829,-
+224915,56470720,BBP_RS00895,BBP_RS00895,bbp178|bbp_178,-,-,-,superoxide dismutase [Mn],protein-coding,-,-,-,superoxide dismutase [Mn],20201110,-
+224915,56470721,pth,BBP_RS00900,bbp179|bbp_179,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200829,-
+224915,56470722,ychF,BBP_RS00905,bbp180|bbp_180,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20201110,-
+224915,56470723,thrC,BBP_RS00910,bbp181|bbp_181,-,-,-,threonine synthase,protein-coding,-,-,-,threonine synthase,20201110,-
+224915,56470724,thrB,BBP_RS00915,bbp182|bbp_182,-,-,-,homoserine kinase,protein-coding,-,-,-,homoserine kinase,20201110,-
+224915,56470725,thrA,BBP_RS00920,bbp183|bbp_183,-,-,-,bifunctional aspartate kinase/homoserine dehydrogenase I,protein-coding,-,-,-,bifunctional aspartate kinase/homoserine dehydrogenase I,20200829,-
+224915,56470726,dksA,BBP_RS00925,bbp184|bbp_184,-,-,-,RNA polymerase-binding protein DksA,protein-coding,-,-,-,RNA polymerase-binding protein DksA,20201110,-
+224915,56470727,truA,BBP_RS00930,bbp185|bbp_185,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20201110,-
+224915,56470728,mrcB,BBP_RS00935,bbp186|bbp_186,-,-,-,penicillin-binding protein 1B,protein-coding,-,-,-,penicillin-binding protein 1B,20200829,-
+224915,56470729,secA,BBP_RS00940,bbp187|bbp_187,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200829,-
+224915,56470730,BBP_RS00945,BBP_RS00945,bbp188|bbp_188,-,-,-,GMP reductase,protein-coding,-,-,-,GMP reductase,20200829,-
+224915,56470731,aceE,BBP_RS00950,bbp189|bbp_189,-,-,-,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",protein-coding,-,-,-,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",20200829,-
+224915,56470732,BBP_RS00955,BBP_RS00955,bbp190|bbp_190,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200829,-
+224915,56470733,lpdA,BBP_RS00960,bbp191|bbp_191,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210424,-
+224915,56470734,BBP_RS00965,BBP_RS00965,bbp192|bbp_192,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20201110,-
+224915,56470735,erpA,BBP_RS00970,bbp193|bbp_193,-,-,-,iron-sulfur cluster insertion protein ErpA,protein-coding,-,-,-,iron-sulfur cluster insertion protein ErpA,20201110,-
+224915,56470736,ftsZ,BBP_RS00975,bbp194|bbp_194,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20201110,-
+224915,56470737,ftsA,BBP_RS00980,bbp195|bbp_195,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20200829,-
+224915,56470738,BBP_RS00985,BBP_RS00985,bbp196|bbp_196,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210424,-
+224915,56470739,BBP_RS00990,BBP_RS00990,bbp197|bbp_197,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20201110,-
+224915,56470740,murG,BBP_RS00995,bbp198|bbp_198,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20201110,-
+224915,56470741,ftsW,BBP_RS01000,bbp199|bbp_199,-,-,-,cell division protein FtsW,protein-coding,-,-,-,cell division protein FtsW,20201110,-
+224915,56470742,murD,BBP_RS01005,bbp200|bbp_200,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20200829,-
+224915,56470743,BBP_RS01010,BBP_RS01010,bbp201|bbp_201,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20201110,-
+224915,56470744,murF,BBP_RS01015,bbp202|bbp_202,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20200829,-
+224915,56470745,BBP_RS01020,BBP_RS01020,bbp203|bbp_203,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20201110,-
+224915,56470746,BBP_RS01025,BBP_RS01025,bbp204|bbp_204,-,-,-,peptidoglycan synthase FtsI,protein-coding,-,-,-,peptidoglycan synthase FtsI,20200829,-
+224915,56470747,BBP_RS01030,BBP_RS01030,bbp205|bbp_205,-,-,-,cell division protein FtsL,protein-coding,-,-,-,cell division protein FtsL,20200829,-
+224915,56470748,rsmH,BBP_RS01035,bbp206|bbp_206,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200829,-
+224915,56470749,ilvN,BBP_RS01040,bbp207|bbp_207,-,-,-,acetolactate synthase small subunit,protein-coding,-,-,-,acetolactate synthase small subunit,20200829,-
+224915,56470750,ilvB,BBP_RS01045,bbp208|bbp_208,-,-,-,biosynthetic-type acetolactate synthase large subunit,protein-coding,-,-,-,biosynthetic-type acetolactate synthase large subunit,20200829,-
+224915,56470751,BBP_RS01050,BBP_RS01050,bbp209|bbp_209,-,-,-,FAD:protein FMN transferase,protein-coding,-,-,-,FAD:protein FMN transferase,20200829,-
+224915,56470752,BBP_RS01055,BBP_RS01055,bbp210|bbp_210,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20200829,-
+224915,56470753,dapD,BBP_RS01060,bbp211|bbp_211,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20201110,-
+224915,56470754,map,BBP_RS01065,bbp212|bbp_212,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200829,-
+224915,56470755,rpsB,BBP_RS01070,bbp213|bbp_213,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200829,-
+224915,56470756,tsf,BBP_RS01075,bbp214|bbp_214,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201110,-
+224915,56470757,pyrH,BBP_RS01080,bbp215|bbp_215,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200829,-
+224915,56470758,frr,BBP_RS01085,bbp216|bbp_216,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200829,-
+224915,56470759,BBP_RS01090,BBP_RS01090,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56470760,uppS,BBP_RS01095,bbp218|bbp_218,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20210424,-
+224915,56470761,fabZ,BBP_RS01100,bbp219|bbp_219,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20201110,-
+224915,56470762,dnaE,BBP_RS01105,bbp220|bbp_220,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200829,-
+224915,56470763,BBP_RS01110,BBP_RS01110,bbp221|bbp_221,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20201110,-
+224915,56470764,BBP_RS01115,BBP_RS01115,bbp222|bbp_222,-,-,-,EscU/YscU/HrcU family type III secretion system export apparatus switch protein,protein-coding,-,-,-,EscU/YscU/HrcU family type III secretion system export apparatus switch protein,20201110,-
+224915,56470765,flhA,BBP_RS01120,bbp223|bbp_223,-,-,-,flagellar biosynthesis protein FlhA,protein-coding,-,-,-,flagellar biosynthesis protein FlhA,20200829,-
+224915,56470766,argS,BBP_RS01125,bbp224|bbp_224,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200829,-
+224915,56470767,BBP_RS01130,BBP_RS01130,bbp225|bbp_225,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201110,-
+224915,56470768,BBP_RS01135,BBP_RS01135,bbp226|bbp_226,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470769,BBP_RS01140,BBP_RS01140,bbp227|bbp_227,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470770,gloB,BBP_RS01145,bbp228|bbp_228,-,-,-,hydroxyacylglutathione hydrolase,protein-coding,-,-,-,hydroxyacylglutathione hydrolase,20201110,-
+224915,56470771,rnhA,BBP_RS01150,bbp229|bbp_229,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20201110,-
+224915,56470772,dnaQ,BBP_RS01155,bbp230|bbp_230,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,DNA polymerase III subunit epsilon,20201110,-
+224915,56470773,BBP_RS01160,BBP_RS01160,bbp231|bbp_231,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470774,gpt,BBP_RS01165,bbp232|bbp_232,-,-,-,xanthine phosphoribosyltransferase,protein-coding,-,-,-,xanthine phosphoribosyltransferase,20200829,-
+224915,56470775,BBP_RS01170,BBP_RS01170,bbp233|bbp_233,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200829,-
+224915,56470776,BBP_RS01175,BBP_RS01175,bbp234|bbp_234,-,-,-,RnfH family protein,protein-coding,-,-,-,RnfH family protein,20200829,-
+224915,56470777,smpB,BBP_RS01180,bbp235|bbp_235,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200829,-
+224915,56470778,tadA,BBP_RS01185,bbp236|bbp_236,-,-,-,tRNA adenosine(34) deaminase TadA,protein-coding,-,-,-,tRNA adenosine(34) deaminase TadA,20201110,-
+224915,56470779,BBP_RS01190,BBP_RS01190,bbp237|bbp_237,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200829,-
+224915,56470780,era,BBP_RS01195,bbp238|bbp_238,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210417,-
+224915,56470781,rnc,BBP_RS01200,bbp239|bbp_239,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200829,-
+224915,56470782,lepB,BBP_RS01205,bbp240|bbp_240,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20200829,-
+224915,56470783,lepA,BBP_RS01210,bbp241|bbp_241,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200829,-
+224915,56470784,mnmA,BBP_RS01215,bbp242|bbp_242,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200829,-
+224915,56470785,hflD,BBP_RS01220,bbp243|bbp_243,-,-,-,high frequency lysogenization protein HflD,protein-coding,-,-,-,high frequency lysogenization protein HflD,20200829,-
+224915,56470786,purB,BBP_RS01225,bbp244|bbp_244,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20201110,-
+224915,56470787,BBP_RS01230,BBP_RS01230,bbp245|bbp_245,-,-,-,transglycosylase SLT domain-containing protein,protein-coding,-,-,-,transglycosylase SLT domain-containing protein,20200829,-
+224915,56470788,BBP_RS01235,BBP_RS01235,bbp246|bbp_246,-,-,-,enoyl-ACP reductase,protein-coding,-,-,-,enoyl-ACP reductase,20200829,-
+224915,56470789,BBP_RS01240,BBP_RS01240,bbp247|bbp_247,-,-,-,exoribonuclease II,protein-coding,-,-,-,exoribonuclease II,20201110,-
+224915,56470790,BBP_RS01245,BBP_RS01245,bbp248|bbp_248,-,-,-,YchE family NAAT transporter,protein-coding,-,-,-,YchE family NAAT transporter,20201110,-
+224915,56470791,lipB,BBP_RS01250,bbp249|bbp_249,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20201110,-
+224915,56470792,lipA,BBP_RS01255,bbp250|bbp_250,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20200829,-
+224915,56470793,pyrF,BBP_RS01260,bbp251|bbp_251,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20200829,-
+224915,56470794,ribA,BBP_RS01265,bbp252|bbp_252,-,-,-,GTP cyclohydrolase II,protein-coding,-,-,-,GTP cyclohydrolase II,20201110,-
+224915,56470795,cls,BBP_RS01270,bbp253|bbp_253,-,-,-,cardiolipin synthase,protein-coding,-,-,-,cardiolipin synthase,20210529,-
+224915,56470796,yciA,BBP_RS01275,bbp254|bbp_254,-,-,-,acyl-CoA thioester hydrolase YciA,protein-coding,-,-,-,acyl-CoA thioester hydrolase YciA,20200829,-
+224915,56470797,BBP_RS01280,BBP_RS01280,bbp255|bbp_255,-,-,-,septation protein IspZ,protein-coding,-,-,-,septation protein IspZ,20200829,-
+224915,56470798,BBP_RS01285,BBP_RS01285,bbp256|bbp_256,-,-,-,UPF0259 family protein,protein-coding,-,-,-,UPF0259 family protein,20200829,-
+224915,56470799,trpA,BBP_RS01290,bbp257|bbp_257,-,-,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,tryptophan synthase subunit alpha,20200829,-
+224915,56470800,trpB,BBP_RS01295,bbp258|bbp_258,-,-,-,tryptophan synthase subunit beta,protein-coding,-,-,-,tryptophan synthase subunit beta,20200829,-
+224915,56470801,trpCF,BBP_RS01300,bbp259|bbp_259,-,-,-,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF,protein-coding,-,-,-,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF,20210417,-
+224915,56470802,trpD,BBP_RS01305,bbp260|bbp_260,-,-,-,anthranilate phosphoribosyltransferase,protein-coding,-,-,-,anthranilate phosphoribosyltransferase,20201110,-
+224915,56470803,BBP_RS01310,BBP_RS01310,bbp261|bbp_261,-,-,-,pseudo,pseudo,-,-,-,-,20201110,-
+224915,56470804,BBP_RS01315,BBP_RS01315,bbp262|bbp_262,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20200829,-
+224915,56470805,sohB,BBP_RS01320,bbp263|bbp_263,-,-,-,protease SohB,protein-coding,-,-,-,protease SohB,20200829,-
+224915,56470806,BBP_RS01325,BBP_RS01325,bbp264|bbp_264,-,-,-,inositol monophosphatase,protein-coding,-,-,-,inositol monophosphatase,20200829,-
+224915,56470807,BBP_RS01330,BBP_RS01330,bbp265|bbp_265,-,-,-,bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN,protein-coding,-,-,-,bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN,20200829,-
+224915,56470808,hisS,BBP_RS01340,bbp267|bbp_267,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200829,-
+224915,56470809,BBP_RS01345,BBP_RS01345,bbp268|bbp_268,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20201110,-
+224915,56470810,bioD,BBP_RS01350,bbp269|bbp_269,-,-,-,dethiobiotin synthase,protein-coding,-,-,-,dethiobiotin synthase,20200829,-
+224915,56470811,bioC,BBP_RS01355,bbp270|bbp_270,-,-,-,malonyl-ACP O-methyltransferase BioC,protein-coding,-,-,-,malonyl-ACP O-methyltransferase BioC,20201010,-
+224915,56470812,BBP_RS01360,BBP_RS01360,bbp271|bbp_271,-,-,-,8-amino-7-oxononanoate synthase,protein-coding,-,-,-,8-amino-7-oxononanoate synthase,20200829,-
+224915,56470813,bioB,BBP_RS01365,bbp272|bbp_272,-,-,-,biotin synthase BioB,protein-coding,-,-,-,biotin synthase BioB,20201003,-
+224915,56470814,bioA,BBP_RS01370,bbp273|bbp_273,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,protein-coding,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,20201110,-
+224915,56470815,pgl,BBP_RS01375,bbp274|bbp_274,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20201110,-
+224915,56470816,mfd,BBP_RS01380,bbp275|bbp_275,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20201110,-
+224915,56470817,gap,BBP_RS01385,bbp276|bbp_276,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201110,-
+224915,56470818,fldA,BBP_RS01390,bbp277|bbp_277,-,-,-,flavodoxin FldA,protein-coding,-,-,-,flavodoxin FldA,20201110,-
+224915,56470819,phrB,BBP_RS01395,bbp278|bbp_278,-,-,-,deoxyribodipyrimidine photo-lyase,protein-coding,-,-,-,deoxyribodipyrimidine photo-lyase,20200829,-
+224915,56470820,BBP_RS01400,BBP_RS01400,bbp279|bbp_279,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200829,-
+224915,56470821,BBP_RS01405,BBP_RS01405,bbp280|bbp_280,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20201110,-
+224915,56470822,sucB,BBP_RS01410,bbp281|bbp_281,-,-,-,dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,dihydrolipoyllysine-residue succinyltransferase,20200829,-
+224915,56470823,BBP_RS01415,BBP_RS01415,bbp282|bbp_282,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20201110,-
+224915,56470824,gpmA,BBP_RS01420,bbp283|bbp_283,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",20200829,-
+224915,56470825,pfkA,BBP_RS01425,bbp284|bbp_284,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20201110,-
+224915,56470826,BBP_RS01430,BBP_RS01430,bbp285|bbp_285,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200829,-
+224915,56470827,rpsA,BBP_RS01435,bbp286|bbp_286,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200829,-
+224915,56470828,cmk,BBP_RS01440,bbp287|bbp_287,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201110,-
+224915,56470829,aroA,BBP_RS01445,bbp288|bbp_288,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20201110,-
+224915,56470830,serC,BBP_RS01450,bbp289|bbp_289,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,protein-coding,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,20201110,-
+224915,56470831,serS,BBP_RS01455,bbp290|bbp_290,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201110,-
+224915,56470832,trxB,BBP_RS01460,bbp291|bbp_291,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200829,-
+224915,56470833,infA,BBP_RS01465,bbp292|bbp_292,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201110,-
+224915,56470834,aspS,BBP_RS01470,bbp293|bbp_293,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200829,-
+224915,56470835,BBP_RS01475,BBP_RS01475,bbp294|bbp_294,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20201110,-
+224915,56470836,znuC,BBP_RS01480,bbp295|bbp_295,-,-,-,zinc ABC transporter ATP-binding protein ZnuC,protein-coding,-,-,-,zinc ABC transporter ATP-binding protein ZnuC,20200829,-
+224915,56470837,pyk,BBP_RS01490,bbp297|bbp_297,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20201110,-
+224915,56470838,zwf,BBP_RS01495,bbp298|bbp_298,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20201110,-
+224915,56470839,htpX,BBP_RS01500,bbp299|bbp_299,-,-,-,protease HtpX,protein-coding,-,-,-,protease HtpX,20201110,-
+224915,56470840,BBP_RS01505,BBP_RS01505,bbp300|bbp_300,-,-,-,TerC family protein,protein-coding,-,-,-,TerC family protein,20201110,-
+224915,56470841,tsaB,BBP_RS01510,bbp301|bbp_301,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20201110,-
+224915,56470842,minE,BBP_RS01515,bbp302|bbp_302,-,-,-,cell division topological specificity factor MinE,protein-coding,-,-,-,cell division topological specificity factor MinE,20201110,-
+224915,56470843,minD,BBP_RS01520,bbp303|bbp_303,-,-,-,septum site-determining protein MinD,protein-coding,-,-,-,septum site-determining protein MinD,20201110,-
+224915,56470844,minC,BBP_RS01525,bbp304|bbp_304,-,-,-,septum site-determining protein MinC,protein-coding,-,-,-,septum site-determining protein MinC,20200829,-
+224915,56470845,BBP_RS01530,BBP_RS01530,bbp305|bbp_305,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20201110,-
+224915,56470846,BBP_RS01535,BBP_RS01535,bbp306|bbp_306,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470847,BBP_RS01540,BBP_RS01540,bbp308|bbp_308,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470848,murJ,BBP_RS01545,bbp309|bbp_309,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20201110,-
+224915,56470849,flgB,BBP_RS01550,bbp310|bbp_310,-,-,-,flagellar basal body rod protein FlgB,protein-coding,-,-,-,flagellar basal body rod protein FlgB,20201110,-
+224915,56470850,flgC,BBP_RS01555,bbp311|bbp_311,-,-,-,flagellar basal body rod protein FlgC,protein-coding,-,-,-,flagellar basal body rod protein FlgC,20201110,-
+224915,56470851,flgF,BBP_RS01560,bbp312|bbp_312,-,-,-,flagellar basal-body rod protein FlgF,protein-coding,-,-,-,flagellar basal-body rod protein FlgF,20210417,-
+224915,56470852,flgG,BBP_RS01565,bbp313|bbp_313,-,-,-,flagellar basal-body rod protein FlgG,protein-coding,-,-,-,flagellar basal-body rod protein FlgG,20201003,-
+224915,56470853,BBP_RS01570,BBP_RS01570,bbp314|bbp_314,-,-,-,flagellar basal body L-ring protein FlgH,protein-coding,-,-,-,flagellar basal body L-ring protein FlgH,20201110,-
+224915,56470854,BBP_RS01575,BBP_RS01575,bbp315|bbp_315,-,-,-,flagellar basal body P-ring protein FlgI,protein-coding,-,-,-,flagellar basal body P-ring protein FlgI,20200829,-
+224915,56470855,BBP_RS01580,BBP_RS01580,bbp316|bbp_316,-,-,-,rod-binding protein,protein-coding,-,-,-,rod-binding protein,20200829,-
+224915,56470856,BBP_RS01585,BBP_RS01585,bbp317|bbp_317,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20201110,-
+224915,56470857,BBP_RS01590,BBP_RS01590,bbp318|bbp_318,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200829,-
+224915,56470858,rpmF,BBP_RS01595,bbp319|bbp_319,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200829,-
+224915,56470859,BBP_RS01600,BBP_RS01600,bbp320|bbp_320,-,-,-,acyltransferase domain-containing protein,protein-coding,-,-,-,acyltransferase domain-containing protein,20201110,-
+224915,56470860,BBP_RS01605,BBP_RS01605,bbp321|bbp_321,-,-,-,beta-ketoacyl-ACP reductase,protein-coding,-,-,-,beta-ketoacyl-ACP reductase,20201110,-
+224915,56470861,acpP,BBP_RS01610,bbp322|bbp_322,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200829,-
+224915,56470862,BBP_RS01615,BBP_RS01615,bbp323|bbp_323,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20201010,-
+224915,56470863,BBP_RS01620,BBP_RS01620,bbp324|bbp_324,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20201110,-
+224915,56470864,BBP_RS01625,BBP_RS01625,bbp325|bbp_325,-,-,-,YchF/TatD family DNA exonuclease,protein-coding,-,-,-,YchF/TatD family DNA exonuclease,20200829,-
+224915,56470865,ptsG,BBP_RS01630,bbp326|bbp_326,-,-,-,PTS glucose transporter subunit IIBC,protein-coding,-,-,-,PTS glucose transporter subunit IIBC,20201110,-
+224915,56470866,BBP_RS01635,BBP_RS01635,bbp327|bbp_327,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20200829,-
+224915,56470867,BBP_RS01640,BBP_RS01640,bbp328,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56470868,asnS,BBP_RS01645,bbp329|bbp_329,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20201110,-
+224915,56470869,BBP_RS01650,BBP_RS01650,bbp330|bbp_330,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20201110,-
+224915,56470870,BBP_RS01655,BBP_RS01655,bbp331|bbp_331,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201110,-
+224915,56470871,BBP_RS01660,BBP_RS01660,bbp332|bbp_332,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200829,-
+224915,56470872,argF,BBP_RS01665,bbp333|bbp_333,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20200829,-
+224915,56470873,BBP_RS01670,BBP_RS01670,bbp334|bbp_334,-,-,-,RutC family protein,protein-coding,-,-,-,RutC family protein,20200829,-
+224915,56470874,BBP_RS01675,BBP_RS01675,bbp335|bbp_335,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200829,-
+224915,56470875,pnp,BBP_RS01680,bbp336|bbp_336,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20201110,-
+224915,56470876,rpsO,BBP_RS01685,bbp337|bbp_337,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200829,-
+224915,56470877,truB,BBP_RS01690,bbp338|bbp_338,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200829,-
+224915,56470878,rbfA,BBP_RS01695,bbp339|bbp_339,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210417,-
+224915,56470879,infB,BBP_RS01700,bbp340|bbp_340,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200829,-
+224915,56470880,nusA,BBP_RS01705,bbp341|bbp_341,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201110,-
+224915,56470881,BBP_RS01710,BBP_RS01710,bbp342|bbp_342,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470882,BBP_RS01715,BBP_RS01715,bbp343|bbp_343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56470883,glmM,BBP_RS01720,bbp344|bbp_344,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20201110,-
+224915,56470884,ftsH,BBP_RS01725,bbp345|bbp_345,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201110,-
+224915,56470885,BBP_RS01730,BBP_RS01730,bbp346|bbp_346,-,-,-,rRNA methyltransferase,protein-coding,-,-,-,rRNA methyltransferase,20210529,-
+224915,56470886,greA,BBP_RS01735,bbp347|bbp_347,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201110,-
+224915,56470887,BBP_RS01740,BBP_RS01740,bbp348|bbp_348,-,-,-,BolA/IbaG family iron-sulfur metabolism protein,protein-coding,-,-,-,BolA/IbaG family iron-sulfur metabolism protein,20200829,-
+224915,56470888,murA,BBP_RS01745,bbp349|bbp_349,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20200829,-
+224915,56470889,rplU,BBP_RS01750,bbp350|bbp_350,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201110,-
+224915,56470890,rpmA,BBP_RS01755,bbp351|bbp_351,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200829,-
+224915,56470891,cgtA,BBP_RS01760,bbp352|bbp_352,-,-,-,Obg family GTPase CgtA,protein-coding,-,-,-,Obg family GTPase CgtA,20201010,-
+224915,56470892,rpsI,BBP_RS01765,bbp353|bbp_353,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201110,-
+224915,56470893,rplM,BBP_RS01770,bbp354|bbp_354,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201110,-
+224915,56470894,BBP_RS01775,BBP_RS01775,bbp355|bbp_355,-,-,-,chorismate mutase,protein-coding,-,-,-,chorismate mutase,20201110,-
+224915,56470895,ffh,BBP_RS01780,bbp356|bbp_356,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200829,-
+224915,56470896,rpsP,BBP_RS01785,bbp357|bbp_357,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200829,-
+224915,56470897,rimM,BBP_RS01790,bbp358|bbp_358,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,ribosome maturation factor RimM,20201110,-
+224915,56470898,trmD,BBP_RS01795,bbp359|bbp_359,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201110,-
+224915,56470899,rplS,BBP_RS01800,bbp360|bbp_360,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200829,-
+224915,56470900,tldD,BBP_RS01805,bbp361|bbp_361,-,-,-,metalloprotease TldD,protein-coding,-,-,-,metalloprotease TldD,20201110,-
+224915,56470901,aroQ,BBP_RS01810,bbp362|bbp_362,-,-,-,type II 3-dehydroquinate dehydratase,protein-coding,-,-,-,type II 3-dehydroquinate dehydratase,20201110,-
+224915,56470902,rluD,BBP_RS01815,bbp363|bbp_363,-,-,-,23S rRNA pseudouridine(1911/1915/1917) synthase RluD,protein-coding,-,-,-,23S rRNA pseudouridine(1911/1915/1917) synthase RluD,20201110,-
+224915,56470903,alaS,BBP_RS01820,bbp364|bbp_364,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200829,-
+224915,56470904,csrA,BBP_RS01825,bbp365|bbp_365,-,-,-,carbon storage regulator CsrA,protein-coding,-,-,-,carbon storage regulator CsrA,20201110,-
+224915,56470905,BBP_RS01830,BBP_RS01830,bbp366|bbp_366,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470906,BBP_RS01835,BBP_RS01835,bbp367|bbp_367,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470907,BBP_RS01840,BBP_RS01840,bbp368|bbp_368,-,-,-,glutamate--cysteine ligase,protein-coding,-,-,-,glutamate--cysteine ligase,20201110,-
+224915,56470908,BBP_RS01845,BBP_RS01845,bbp369|bbp_369,-,-,-,endonuclease-1,protein-coding,-,-,-,endonuclease-1,20200829,-
+224915,56470909,BBP_RS01850,BBP_RS01850,bbp370|bbp_370,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200829,-
+224915,56470910,rpiA,BBP_RS01855,bbp371|bbp_371,-,-,-,ribose-5-phosphate isomerase RpiA,protein-coding,-,-,-,ribose-5-phosphate isomerase RpiA,20200829,-
+224915,56470911,BBP_RS01860,BBP_RS01860,bbp372|bbp_372,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470912,BBP_RS01865,BBP_RS01865,bbp373|bbp_373,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470913,BBP_RS01870,BBP_RS01870,bbp374|bbp_374,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470914,glnS,BBP_RS01875,bbp375|bbp_375,-,-,-,glutamine--tRNA ligase,protein-coding,-,-,-,glutamine--tRNA ligase,20201110,-
+224915,56470915,BBP_RS01880,BBP_RS01880,bbp376|bbp_376,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200829,-
+224915,56470916,eno,BBP_RS01885,bbp377|bbp_377,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201110,-
+224915,56470917,mutS,BBP_RS01895,bbp380|bbp_380,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20201110,-
+224915,56470918,BBP_RS01900,BBP_RS01900,bbp381|bbp_381,-,-,-,thiol:disulfide interchange protein DsbA,protein-coding,-,-,-,thiol:disulfide interchange protein DsbA,20201110,-
+224915,56470919,BBP_RS01905,BBP_RS01905,bbp382|bbp_382,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200829,-
+224915,56470920,BBP_RS01910,BBP_RS01910,bbp383|bbp_383,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200926,-
+224915,56470921,typA,BBP_RS01915,bbp384|bbp_384,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20200829,-
+224915,56470922,gmk,BBP_RS01920,bbp385|bbp_385,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201110,-
+224915,56470923,thyA,BBP_RS01925,bbp386|bbp_386,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20201110,-
+224915,56470924,lgt,BBP_RS01930,bbp387|bbp_387,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200829,-
+224915,56470925,lysA,BBP_RS01935,bbp388|bbp_388,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,diaminopimelate decarboxylase,20200829,-
+224915,56470926,lysS,BBP_RS01940,bbp389|bbp_389,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201110,-
+224915,56470927,prfB,BBP_RS01945,bbp390|bbp_390,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20200829,-
+224915,56470928,ygfZ,BBP_RS01950,bbp391|bbp_391,-,-,-,tRNA-modifying protein YgfZ,protein-coding,-,-,-,tRNA-modifying protein YgfZ,20200829,-
+224915,56470929,miaB,BBP_RS01955,bbp392|bbp_392,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20200829,-
+224915,56470930,ybeY,BBP_RS01960,bbp393|bbp_393,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200829,-
+224915,56470931,corC,BBP_RS01965,bbp394|bbp_394,-,-,-,CNNM family magnesium/cobalt transport protein CorC,protein-coding,-,-,-,CNNM family magnesium/cobalt transport protein CorC,20201110,-
+224915,56470932,leuS,BBP_RS01975,bbp395|bbp_395,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20201110,-
+224915,56470933,holA,BBP_RS01980,bbp396|bbp_396,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200829,-
+224915,56470934,tusA,BBP_RS01985,bbp397|bbp_397,-,-,-,sulfurtransferase TusA,protein-coding,-,-,-,sulfurtransferase TusA,20200829,-
+224915,56470935,asd,BBP_RS01990,bbp398|bbp_398,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20201110,-
+224915,56470936,BBP_RS01995,BBP_RS01995,bbp399|bbp_399,-,-,-,YhgN family NAAT transporter,protein-coding,-,-,-,YhgN family NAAT transporter,20201110,-
+224915,56470937,BBP_RS02000,BBP_RS02000,bbp400|bbp_400,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201110,-
+224915,56470938,fbaA,BBP_RS02005,bbp401|bbp_401,-,-,-,class II fructose-bisphosphate aldolase,protein-coding,-,-,-,class II fructose-bisphosphate aldolase,20200829,-
+224915,56470939,mscS,BBP_RS02010,bbp402|bbp_402,-,-,-,small-conductance mechanosensitive channel MscS,protein-coding,-,-,-,small-conductance mechanosensitive channel MscS,20200829,-
+224915,56470940,BBP_RS02020,BBP_RS02020,bbp403|bbp_403,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20201110,-
+224915,56470941,recB,BBP_RS02025,bbp404|bbp_404,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20201110,-
+224915,56470942,recD,BBP_RS02030,bbp405|bbp_405,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20200829,-
+224915,56470943,BBP_RS02035,BBP_RS02035,bbp406|bbp_406,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470944,ribE,BBP_RS02040,bbp407|bbp_407,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20201110,-
+224915,56470945,ribD,BBP_RS02045,bbp408|bbp_408,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20200829,-
+224915,56470946,nusB,BBP_RS02050,bbp409|bbp_409,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20201110,-
+224915,56470947,BBP_RS02065,BBP_RS02065,bbp411|bbp_411,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210417,-
+224915,56470948,BBP_RS02070,BBP_RS02070,bbp412|bbp_412,-,-,-,TusE/DsrC/DsvC family sulfur relay protein,protein-coding,-,-,-,TusE/DsrC/DsvC family sulfur relay protein,20200829,-
+224915,56470949,cyoE,BBP_RS02075,bbp413|bbp_413,-,-,-,protoheme IX farnesyltransferase,protein-coding,-,-,-,protoheme IX farnesyltransferase,20210529,-
+224915,56470950,cyoC,BBP_RS02085,bbp415|bbp_415,-,-,-,cytochrome o ubiquinol oxidase subunit III,protein-coding,-,-,-,cytochrome o ubiquinol oxidase subunit III,20200829,-
+224915,56470951,cyoB,BBP_RS02090,bbp416|bbp_416,-,-,-,cytochrome o ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome o ubiquinol oxidase subunit I,20200829,-
+224915,56470952,cyoA,BBP_RS02095,bbp417|bbp_417,-,-,-,ubiquinol oxidase subunit II,protein-coding,-,-,-,ubiquinol oxidase subunit II,20200829,-
+224915,56470953,BBP_RS02100,BBP_RS02100,bbp418|bbp_418,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20201110,-
+224915,56470954,clpP,BBP_RS02105,bbp419|bbp_419,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20201110,-
+224915,56470955,clpX,BBP_RS02110,bbp420|bbp_420,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20201110,-
+224915,56470956,lon,BBP_RS02115,bbp421|bbp_421,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201010,-
+224915,56470957,BBP_RS02120,BBP_RS02120,bbp422|bbp_422,-,-,-,SurA N-terminal domain-containing protein,protein-coding,-,-,-,SurA N-terminal domain-containing protein,20201110,-
+224915,56470958,BBP_RS02125,BBP_RS02125,bbp423|bbp_423,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201110,-
+224915,56470959,BBP_RS02130,BBP_RS02130,bbp424|bbp_424,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200829,-
+224915,56470960,dnaX,BBP_RS02135,bbp425|bbp_425,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20201110,-
+224915,56470961,BBP_RS02140,BBP_RS02140,bbp426|bbp_426,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200829,-
+224915,56470962,htpG,BBP_RS02145,bbp427|bbp_427,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20201110,-
+224915,56470963,BBP_RS02150,BBP_RS02150,bbp428|bbp_428,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20201110,-
+224915,56470964,BBP_RS02155,BBP_RS02155,bbp429|bbp_429,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470965,folD,BBP_RS02160,bbp430|bbp_430,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20201110,-
+224915,56470966,BBP_RS02165,BBP_RS02165,bbp431|bbp_431,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200829,-
+224915,56470967,BBP_RS02170,BBP_RS02170,bbp432|bbp_432,-,-,-,YbeD family protein,protein-coding,-,-,-,YbeD family protein,20201110,-
+224915,56470968,cspE,BBP_RS02175,bbp433|bbp_433|gicA|msmC,-,-,-,transcription antiterminator/RNA stability regulator CspE,protein-coding,-,-,-,transcription antiterminator/RNA stability regulator CspE,20201110,-
+224915,56470969,rrf,BBP_RS02180,bbp434|bbp_434,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201110,-
+224915,56470970,BBP_RS02185,BBP_RS02185,bbp435|bbp_435,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201110,-
+224915,56470971,BBP_RS02190,BBP_RS02190,bbp436|bbp_436,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56470972,aroE,BBP_RS02195,bbp437|bbp_437,-,-,-,shikimate dehydrogenase,protein-coding,-,-,-,shikimate dehydrogenase,20201110,-
+224915,56470973,BBP_RS02200,BBP_RS02200,bbp438|bbp_438,-,-,-,L-threonylcarbamoyladenylate synthase type 1 TsaC,protein-coding,-,-,-,L-threonylcarbamoyladenylate synthase type 1 TsaC,20200829,-
+224915,56470974,def,BBP_RS02205,bbp439|bbp_439,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201110,-
+224915,56470975,BBP_RS02210,BBP_RS02210,bbp440|bbp_440,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20201110,-
+224915,56470976,rplQ,BBP_RS02215,bbp441|bbp_441,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201110,-
+224915,56470977,rpoA,BBP_RS02220,bbp442|bbp_442,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20201110,-
+224915,56470978,rpsD,BBP_RS02225,bbp443|bbp_443,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201110,-
+224915,56470979,rpsK,BBP_RS02230,bbp444|bbp_444,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200829,-
+224915,56470980,rpsM,BBP_RS02235,bbp445|bbp_445,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201110,-
+224915,56470981,rpmJ,BBP_RS02240,bbp446|bbp_446,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200829,-
+224915,56470982,secY,BBP_RS02245,bbp447|bbp_447,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200829,-
+224915,56470983,rplO,BBP_RS02250,bbp448|bbp_448,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200829,-
+224915,56470984,rpmD,BBP_RS02255,bbp449|bbp_449,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20200829,-
+224915,56470985,rpsE,BBP_RS02260,bbp450|bbp_450,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200829,-
+224915,56470986,rplR,BBP_RS02265,bbp451|bbp_451,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210424,-
+224915,56470987,rplF,BBP_RS02270,bbp452|bbp_452,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200829,-
+224915,56470988,rpsH,BBP_RS02275,bbp453|bbp_453,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201110,-
+224915,56470989,rpsN,BBP_RS02280,bbp454|bbp_454,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200829,-
+224915,56470990,rplE,BBP_RS02285,bbp455|bbp_455,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200829,-
+224915,56470991,rplX,BBP_RS02290,bbp456|bbp_456,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20201110,-
+224915,56470992,rplN,BBP_RS02295,bbp457|bbp_457,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200829,-
+224915,56470993,rpsQ,BBP_RS02300,bbp458|bbp_458,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200829,-
+224915,56470994,rpmC,BBP_RS02305,bbp459|bbp_459,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201110,-
+224915,56470995,rplP,BBP_RS02310,bbp460|bbp_460,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201110,-
+224915,56470996,rpsC,BBP_RS02315,bbp461|bbp_461,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200829,-
+224915,56470997,rplV,BBP_RS02320,bbp462|bbp_462,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200829,-
+224915,56470998,rpsS,BBP_RS02325,bbp463|bbp_463,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201110,-
+224915,56470999,rplB,BBP_RS02330,bbp464|bbp_464,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200829,-
+224915,56471000,rplW,BBP_RS02335,bbp465|bbp_465,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201110,-
+224915,56471001,rplD,BBP_RS02340,bbp466|bbp_466,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200829,-
+224915,56471002,rplC,BBP_RS02345,bbp467|bbp_467,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200829,-
+224915,56471003,rpsJ,BBP_RS02350,bbp468|bbp_468,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201110,-
+224915,56471004,tuf,BBP_RS02355,bbp469|bbp_469,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201110,-
+224915,56471005,fusA,BBP_RS02360,bbp470|bbp_470,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20201110,-
+224915,56471006,rpsG,BBP_RS02365,bbp471|bbp_471,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201110,-
+224915,56471007,rpsL,BBP_RS02370,bbp472|bbp_472,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201110,-
+224915,56471008,tusB,BBP_RS02375,bbp473|bbp_473,-,-,-,sulfurtransferase complex subunit TusB,protein-coding,-,-,-,sulfurtransferase complex subunit TusB,20201110,-
+224915,56471009,tusC,BBP_RS02380,bbp474|bbp_474,-,-,-,sulfurtransferase complex subunit TusC,protein-coding,-,-,-,sulfurtransferase complex subunit TusC,20201110,-
+224915,56471010,tusD,BBP_RS02385,bbp475|bbp_475,-,-,-,sulfurtransferase complex subunit TusD,protein-coding,-,-,-,sulfurtransferase complex subunit TusD,20200829,-
+224915,56471011,fkpA,BBP_RS02390,bbp476|bbp_476,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20201110,-
+224915,56471012,tsgA,BBP_RS02395,bbp477|bbp_477,-,-,-,MFS transporter TsgA,protein-coding,-,-,-,MFS transporter TsgA,20210529,-
+224915,56471013,trpS,BBP_RS02400,bbp478|bbp_478,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20201110,-
+224915,56471014,rpe,BBP_RS02405,bbp479|bbp_479,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201110,-
+224915,56471015,aroB,BBP_RS02410,bbp480|bbp_480,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20200829,-
+224915,56471016,aroK,BBP_RS02415,bbp481|bbp_481,-,-,-,shikimate kinase AroK,protein-coding,-,-,-,shikimate kinase AroK,20200829,-
+224915,56471017,BBP_RS02420,BBP_RS02420,bbp482|bbp_482,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471018,deoD,BBP_RS02425,bbp483|bbp_483,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20201110,-
+224915,56471019,BBP_RS02430,BBP_RS02430,bbp484|bbp_484,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20200829,-
+224915,56471020,BBP_RS02435,BBP_RS02435,bbp485|bbp_485,-,-,-,peptide chain release factor 3,protein-coding,-,-,-,peptide chain release factor 3,20201110,-
+224915,56471021,BBP_RS02440,BBP_RS02440,bbp486|bbp_486,-,-,-,NfuA family Fe-S biogenesis protein,protein-coding,-,-,-,NfuA family Fe-S biogenesis protein,20200829,-
+224915,56471022,bioH,BBP_RS02445,bbp487|bbp_487,-,-,-,pimeloyl-ACP methyl ester esterase BioH,protein-coding,-,-,-,pimeloyl-ACP methyl ester esterase BioH,20200829,-
+224915,56471023,ssb,BBP_RS02450,bbp488|bbp_488,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201110,-
+224915,56471024,dnaB,BBP_RS02460,bbp489|bbp_489,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200829,-
+224915,56471025,gshB,BBP_RS02465,bbp490|bbp_490,-,-,-,glutathione synthase,protein-coding,-,-,-,glutathione synthase,20200829,-
+224915,56471026,BBP_RS02470,BBP_RS02470,bbp491|bbp_491,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20210424,-
+224915,56471027,ruvX,BBP_RS02475,bbp492|bbp_492,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200829,-
+224915,56471028,leuA,BBP_RS02480,bbp493|bbp_493,-,-,-,2-isopropylmalate synthase,protein-coding,-,-,-,2-isopropylmalate synthase,20201110,-
+224915,56471029,leuD,BBP_RS02485,bbp494|bbp_494,-,-,-,3-isopropylmalate dehydratase small subunit,protein-coding,-,-,-,3-isopropylmalate dehydratase small subunit,20201110,-
+224915,56471030,leuC,BBP_RS02490,bbp495|bbp_495,-,-,-,3-isopropylmalate dehydratase large subunit,protein-coding,-,-,-,3-isopropylmalate dehydratase large subunit,20200829,-
+224915,56471031,leuB,BBP_RS02495,bbp496|bbp_496,-,-,-,3-isopropylmalate dehydrogenase,protein-coding,-,-,-,3-isopropylmalate dehydrogenase,20200829,-
+224915,56471032,BBP_RS02500,BBP_RS02500,bbp497|bbp_497,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,20201110,-
+224915,56471033,hemW,BBP_RS02505,bbp498|bbp_498,-,-,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20201110,-
+224915,56471034,trmB,BBP_RS02510,bbp499|bbp_499,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20201110,-
+224915,56471035,mutY,BBP_RS02515,bbp500|bbp_500,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20201110,-
+224915,56471036,BBP_RS02520,BBP_RS02520,bbp501|bbp_501,-,-,-,oxidative damage protection protein,protein-coding,-,-,-,oxidative damage protection protein,20210424,-
+224915,56471037,murI,BBP_RS02525,bbp502|bbp_502,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20200829,-
+224915,56471038,sbcB,BBP_RS02530,bbp503|bbp_503,-,-,-,exodeoxyribonuclease I,protein-coding,-,-,-,exodeoxyribonuclease I,20200829,-
+224915,56471039,BBP_RS02535,BBP_RS02535,bbp504|bbp_504,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471040,BBP_RS02540,BBP_RS02540,bbp505|bbp_505,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471041,pyrE,BBP_RS02545,bbp506|bbp_506,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20201110,-
+224915,56471042,dut,BBP_RS02550,bbp507|bbp_507,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20201110,-
+224915,56471043,rplI,BBP_RS02555,bbp508|bbp_508,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201110,-
+224915,56471044,rpsR,BBP_RS02560,bbp509|bbp_509,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200829,-
+224915,56471045,rpsF,BBP_RS02565,bbp510|bbp_510,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200829,-
+224915,56471046,BBP_RS02570,BBP_RS02570,bbp511|bbp_511,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20200829,-
+224915,56471047,hflC,BBP_RS02575,bbp512|bbp_512,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20200829,-
+224915,56471048,hflK,BBP_RS02580,bbp513|bbp_513,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20200829,-
+224915,56471049,miaA,BBP_RS02585,bbp514|bbp_514,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20200829,-
+224915,56471050,BBP_RS02595,BBP_RS02595,bbp516|bbp_516,-,-,-,mannitol-1-phosphate 5-dehydrogenase,protein-coding,-,-,-,mannitol-1-phosphate 5-dehydrogenase,20200829,-
+224915,56471051,BBP_RS02600,BBP_RS02600,bbp517|bbp_517,-,-,-,PTS mannitol transporter subunit IICBA,protein-coding,-,-,-,PTS mannitol transporter subunit IICBA,20200829,-
+224915,56471052,pgi,BBP_RS02605,bbp518|bbp_518,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201110,-
+224915,56471053,orn,BBP_RS02610,bbp519|bbp_519,-,-,-,pseudo,pseudo,-,-,-,-,20201110,-
+224915,56471054,BBP_RS02615,BBP_RS02615,bbp520|bbp_520,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471055,BBP_RS02620,BBP_RS02620,bbp521|bbp_521,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20200829,-
+224915,56471056,rpmE,BBP_RS02625,bbp522|bbp_522,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200829,-
+224915,56471057,hslV,BBP_RS02630,bbp523|bbp_523,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20200829,-
+224915,56471058,hslU,BBP_RS02635,bbp524|bbp_524,-,-,-,HslU--HslV peptidase ATPase subunit,protein-coding,-,-,-,HslU--HslV peptidase ATPase subunit,20200829,-
+224915,56471059,BBP_RS02640,BBP_RS02640,bbp525|bbp_525,-,-,-,glutamine amidotransferase,protein-coding,-,-,-,glutamine amidotransferase,20200829,-
+224915,56471060,BBP_RS02645,BBP_RS02645,bbp526|bbp_526,-,-,-,anthranilate synthase component 1,protein-coding,-,-,-,anthranilate synthase component 1,20201110,-
+224915,56471061,BBP_RS02650,BBP_RS02650,bbp527|bbp_527,-,-,-,ferredoxin--NADP reductase,protein-coding,-,-,-,ferredoxin--NADP reductase,20200829,-
+224915,56471062,epmA,BBP_RS02655,bbp528|bbp_528,-,-,-,elongation factor P--(R)-beta-lysine ligase,protein-coding,-,-,-,elongation factor P--(R)-beta-lysine ligase,20201110,-
+224915,56471063,BBP_RS02660,BBP_RS02660,bbp529|bbp_529,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201110,-
+224915,56471064,BBP_RS02665,BBP_RS02665,bbp530|bbp_530,-,-,-,universal stress protein,protein-coding,-,-,-,universal stress protein,20200829,-
+224915,56471065,BBP_RS02670,BBP_RS02670,bbp531|bbp_531,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20201110,-
+224915,56471066,BBP_RS02675,BBP_RS02675,bbp532|bbp_532,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200829,-
+224915,56471067,dapF,BBP_RS02680,bbp533|bbp_533,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20210529,-
+224915,56471068,cyaY,BBP_RS02685,bbp534|bbp_534,-,-,-,iron donor protein CyaY,protein-coding,-,-,-,iron donor protein CyaY,20201110,-
+224915,56471069,BBP_RS02690,BBP_RS02690,bbp535|bbp_535,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471070,BBP_RS02695,BBP_RS02695,bbp536|bbp_536,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471071,BBP_RS02700,BBP_RS02700,bbp537|bbp_537,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471072,rho,BBP_RS02705,bbp538|bbp_538,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20200829,-
+224915,56471073,trxA,BBP_RS02710,bbp539|bbp_539,-,-,-,thioredoxin TrxA,protein-coding,-,-,-,thioredoxin TrxA,20201110,-
+224915,56471074,BBP_RS02715,BBP_RS02715,bbp540|bbp_540,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200829,-
+224915,56471075,ilvC,BBP_RS02720,bbp541|bbp_541,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,ketol-acid reductoisomerase,20201110,-
+224915,56471076,ilvD,BBP_RS02725,bbp542|bbp_542,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,dihydroxy-acid dehydratase,20200829,-
+224915,56471077,BBP_RS02730,BBP_RS02730,bbp543|bbp_543,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471078,iscS,BBP_RS02735,bbp544|bbp_544,-,-,-,IscS subfamily cysteine desulfurase,protein-coding,-,-,-,IscS subfamily cysteine desulfurase,20200829,-
+224915,56471079,iscU,BBP_RS02740,bbp545|bbp_545,-,-,-,Fe-S cluster assembly scaffold IscU,protein-coding,-,-,-,Fe-S cluster assembly scaffold IscU,20200829,-
+224915,56471080,hscB,BBP_RS02745,bbp546|bbp_546,-,-,-,Fe-S protein assembly co-chaperone HscB,protein-coding,-,-,-,Fe-S protein assembly co-chaperone HscB,20200829,-
+224915,56471081,hscA,BBP_RS02750,bbp547|bbp_547,-,-,-,Fe-S protein assembly chaperone HscA,protein-coding,-,-,-,Fe-S protein assembly chaperone HscA,20200829,-
+224915,56471082,fdx,BBP_RS02755,bbp548|bbp_548,-,-,-,ISC system 2Fe-2S type ferredoxin,protein-coding,-,-,-,ISC system 2Fe-2S type ferredoxin,20201110,-
+224915,56471083,der,BBP_RS02760,bbp549|bbp_549,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200829,-
+224915,56471084,BBP_RS02765,BBP_RS02765,bbp550|bbp_550,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20201110,-
+224915,56471085,BBP_RS02780,BBP_RS02780,bbp_pp1,-,-,-,TIGR00645 family protein,protein-coding,-,-,-,TIGR00645 family protein,20201110,-
+224915,56471086,BBP_RS02785,BBP_RS02785,bbp_pp2,-,-,-,replication-associated protein repA2,protein-coding,-,-,-,replication-associated protein repA2,20201110,-
+224915,56471087,BBP_RS02790,BBP_RS02790,bbp_pp3,-,-,-,replication-associated protein repA1,protein-coding,-,-,-,replication-associated protein repA1,20201110,-
+224915,56471088,BBP_RS02800,BBP_RS02800,bbp296|bbp_296,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20201026,-
+224915,56471089,BBP_RS02810,BBP_RS02810,bbp414|bbp_414,-,-,-,cytochrome o ubiquinol oxidase,protein-coding,-,-,-,cytochrome o ubiquinol oxidase,20200829,-
+224915,56471090,mutL,BBP_RS02815,bbp515|bbp_515,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200829,-
+224915,56471091,rnpB,BBP_RS02825,bbp084|bbp_084,-,-,-,ncRNA,ncRNA,-,-,-,-,20201110,-
+224915,56471092,ssrA,BBP_RS02830,bbp175|bbp_175,-,-,-,miscRNA,miscRNA,-,-,-,-,20201110,-
+224915,56471093,BBP_RS02835,BBP_RS02835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56471094,BBP_RS02845,BBP_RS02845,-,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200829,-
+224915,56471095,ffs,BBP_RS02855,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201110,-
+224915,56471096,BBP_RS02860,BBP_RS02860,-,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20200829,-
+224915,56471097,BBP_RS02865,BBP_RS02865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56471098,BBP_RS02870,BBP_RS02870,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56471099,BBP_RS02875,BBP_RS02875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,56471101,BBP_RS02885,BBP_RS02885,bbp307|bbp_307,-,-,-,tRNA,tRNA,-,-,-,-,20201110,-
+224915,56471102,BBP_RS02890,BBP_RS02890,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,58786814,BBP_RS02895,BBP_RS02895,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+224915,58786815,BBP_RS02900,BBP_RS02900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210529,-
+224915,58786816,BBP_RS02905,BBP_RS02905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210529,-

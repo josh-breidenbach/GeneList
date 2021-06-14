@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+321570,54612076,ndhA,HJE90_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20210327,-
+321570,54612077,ndhH,HJE90_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20210327,-
+321570,54612078,rps15,HJE90_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20210327,-
+321570,54612079,ycf1,HJE90_pgp007,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210327,-
+321570,54612080,trnN-GUU,HJE90_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612081,trnR-ACG,HJE90_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612082,rrn5,HJE90_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612083,rrn4.5,HJE90_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612084,rrn23,HJE90_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612085,trnA-UGC,HJE90_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612086,trnI-GAU,HJE90_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612087,rrn16,HJE90_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612088,trnV-GAC,HJE90_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612089,rps7,HJE90_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+321570,54612090,ndhB,HJE90_pgp005,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210327,-
+321570,54612091,trnL-CAA,HJE90_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612092,ycf2,HJE90_pgp004,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+321570,54612093,trnI-CAU,HJE90_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612094,rpl23,HJE90_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200801,-
+321570,54612095,rpl2,HJE90_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+321570,54612096,rps19,HJE90_pgp001,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+321570,54612097,rps12,HJE90_pgp041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+321570,54612099,trnH-GUG,HJE90_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612100,psbA,HJE90_pgp085,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200801,-
+321570,54612101,trnK-UUU,HJE90_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612102,matK,HJE90_pgp084,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20210327,-
+321570,54612103,rps16,HJE90_pgp083,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200905,-
+321570,54612104,trnQ-UUG,HJE90_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612105,psbK,HJE90_pgp082,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20210327,-
+321570,54612106,psbI,HJE90_pgp081,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200801,-
+321570,54612107,trnS-GCU,HJE90_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612108,trnG-UCC,HJE90_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612109,trnR-UCU,HJE90_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612110,atpA,HJE90_pgp080,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20210327,-
+321570,54612111,atpF,HJE90_pgp079,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,ATP synthase CF0 B subunit,20210327,-
+321570,54612112,atpH,HJE90_pgp078,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,ATP synthase CF0 C subunit,20200801,-
+321570,54612113,atpI,HJE90_pgp077,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,ATP synthase CF0 A subunit,20200926,-
+321570,54612114,rps2,HJE90_pgp076,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210123,-
+321570,54612115,rpoC2,HJE90_pgp075,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210327,-
+321570,54612116,rpoC1,HJE90_pgp074,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210327,-
+321570,54612117,rpoB,HJE90_pgp073,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20210327,-
+321570,54612118,trnC-GCA,HJE90_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612119,petN,HJE90_pgp072,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200801,-
+321570,54612120,psbM,HJE90_pgp071,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200926,-
+321570,54612121,trnD-GUC,HJE90_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612122,trnY-GUA,HJE90_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612123,trnE-UUC,HJE90_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612124,trnT-GGU,HJE90_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612125,psbD,HJE90_pgp070,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200801,-
+321570,54612126,psbC,HJE90_pgp069,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200926,-
+321570,54612127,trnS-UGA,HJE90_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612128,psbZ,HJE90_pgp068,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200919,-
+321570,54612129,trnG-GCC,HJE90_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612130,trnfM-CAU,HJE90_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612131,rps14,HJE90_pgp067,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210123,-
+321570,54612132,psaB,HJE90_pgp066,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20210327,-
+321570,54612133,psaA,HJE90_pgp065,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20210327,-
+321570,54612134,ycf3,HJE90_pgp064,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200801,-
+321570,54612135,trnS-GGA,HJE90_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612136,rps4,HJE90_pgp063,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200926,-
+321570,54612137,trnT-UGU,HJE90_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612138,trnL-UAA,HJE90_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612139,trnF-GAA,HJE90_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612140,ndhJ,HJE90_pgp062,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20210327,-
+321570,54612141,ndhK,HJE90_pgp061,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20210327,-
+321570,54612142,ndhC,HJE90_pgp060,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20210327,-
+321570,54612143,trnV-UAC,HJE90_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612144,trnM-CAU,HJE90_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612145,atpE,HJE90_pgp059,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200801,-
+321570,54612146,atpB,HJE90_pgp058,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20210327,-
+321570,54612147,rbcL,HJE90_pgp057,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210327,-
+321570,54612148,accD,HJE90_pgp056,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20210327,-
+321570,54612149,psaI,HJE90_pgp055,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20201217,-
+321570,54612150,ycf4,HJE90_pgp054,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20210327,-
+321570,54612151,cemA,HJE90_pgp053,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20210327,-
+321570,54612152,petA,HJE90_pgp052,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20210327,-
+321570,54612153,psbJ,HJE90_pgp051,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200801,-
+321570,54612154,psbL,HJE90_pgp050,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200801,-
+321570,54612155,psbF,HJE90_pgp049,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200801,-
+321570,54612156,psbE,HJE90_pgp048,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200801,-
+321570,54612157,petL,HJE90_pgp047,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200926,-
+321570,54612158,petG,HJE90_pgp046,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+321570,54612159,trnW-CCA,HJE90_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612160,trnP-UGG,HJE90_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612161,psaJ,HJE90_pgp045,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200926,-
+321570,54612162,rpl33,HJE90_pgp044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200926,-
+321570,54612163,rps18,HJE90_pgp043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210327,-
+321570,54612164,rpl20,HJE90_pgp042,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210327,-
+321570,54612165,rps12,HJE90_pgp040,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+321570,54612166,clpP,HJE90_pgp039,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20210327,-
+321570,54612167,psbB,HJE90_pgp038,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200926,-
+321570,54612168,psbT,HJE90_pgp037,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20201003,-
+321570,54612169,psbN,HJE90_pgp036,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200801,-
+321570,54612170,psbH,HJE90_pgp035,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200926,-
+321570,54612171,petB,HJE90_pgp034,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200801,-
+321570,54612172,petD,HJE90_pgp033,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20200801,-
+321570,54612173,rpoA,HJE90_pgp032,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20210327,-
+321570,54612174,rps11,HJE90_pgp031,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200926,-
+321570,54612175,rpl36,HJE90_pgp030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200801,-
+321570,54612176,rps8,HJE90_pgp029,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200926,-
+321570,54612177,rpl14,HJE90_pgp028,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210327,-
+321570,54612178,rpl16,HJE90_pgp027,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210327,-
+321570,54612179,rps3,HJE90_pgp026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210327,-
+321570,54612180,rps19,HJE90_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200926,-
+321570,54612181,rpl2,HJE90_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200926,-
+321570,54612182,rpl23,HJE90_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200801,-
+321570,54612183,trnI-CAU,HJE90_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612184,ycf2,HJE90_pgp022,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+321570,54612185,trnL-CAA,HJE90_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612186,ndhB,HJE90_pgp021,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20210327,-
+321570,54612187,rps7,HJE90_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200909,-
+321570,54612188,trnV-GAC,HJE90_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612189,rrn16,HJE90_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612190,trnI-GAU,HJE90_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612191,trnA-UGC,HJE90_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612192,rrn23,HJE90_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612193,rrn4.5,HJE90_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612194,rrn5,HJE90_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+321570,54612195,trnR-ACG,HJE90_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612196,trnN-GUU,HJE90_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612197,ycf1,HJE90_pgp019,-,-,-,-,pseudo,pseudo,-,-,-,-,20200909,-
+321570,54612198,ndhF,HJE90_pgp018,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20210327,-
+321570,54612199,rpl32,HJE90_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210123,-
+321570,54612200,trnL-UAG,HJE90_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+321570,54612201,ccsA,HJE90_pgp016,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20210327,-
+321570,54612202,ndhD,HJE90_pgp015,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20210327,-
+321570,54612203,psaC,HJE90_pgp014,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200801,-
+321570,54612204,ndhE,HJE90_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200801,-
+321570,54612205,ndhG,HJE90_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200926,-
+321570,54612206,ndhI,HJE90_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20200905,-

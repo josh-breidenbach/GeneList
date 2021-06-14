@@ -1,0 +1,1033 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+331636,10610389,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Chlamydophila psittaci 6BC; Chlamydophila psittaci ATCC VR-125; Chlamydophila psittaci str. 6BC; Chlamydophila psittaci strain 6BC; Psittacosis strain 6 BC).,other,-,-,-,-,20150211,-
+331636,12242268,G5O_RS10235,G5O_RS10235,G5O_p0001,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20201105,-
+331636,12242269,G5O_RS10240,G5O_RS10240,G5O_p0002,-,-,-,CT583 family protein,protein-coding,-,-,-,CT583 family protein,20201105,-
+331636,12242270,G5O_RS10245,G5O_RS10245,G5O_p0003,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20201105,-
+331636,12242271,pgp3,G5O_RS10255,G5O_p0004,-,-,-,virulence factor Pgp3,protein-coding,-,-,-,virulence factor Pgp3,20210207,-
+331636,12242272,G5O_RS10260,G5O_RS10260,G5O_p0005,-,-,-,Virulence plasmid protein pGP2-D,protein-coding,-,-,-,Virulence plasmid protein pGP2-D,20210207,-
+331636,12242273,G5O_RS10265,G5O_RS10265,G5O_p0006,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210207,-
+331636,12242274,G5O_RS10270,G5O_RS10270,G5O_p0007,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20201105,-
+331636,12242276,G5O_RS05185,G5O_RS05185,G5O_0017,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210207,-
+331636,12242277,G5O_RS05190,G5O_RS05190,G5O_0018,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20201105,-
+331636,12242278,rpsD,G5O_RS05195,G5O_0019,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210207,-
+331636,12242279,G5O_RS05200,G5O_RS05200,G5O_0020,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200506,-
+331636,12242280,G5O_RS05205,G5O_RS05205,G5O_0021,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20200506,-
+331636,12242281,G5O_RS05210,G5O_RS05210,G5O_0022,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242283,G5O_RS05215,G5O_RS05215,G5O_0024,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242284,G5O_RS05220,G5O_RS05220,G5O_0025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242285,G5O_RS05230,G5O_RS05230,G5O_0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201106,-
+331636,12242286,G5O_RS05235,G5O_RS05235,G5O_0027,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242287,lptB,G5O_RS05240,G5O_0028,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20210207,-
+331636,12242288,G5O_RS05245,G5O_RS05245,G5O_0029,-,-,-,DUF1137 domain-containing protein,protein-coding,-,-,-,DUF1137 domain-containing protein,20210207,-
+331636,12242289,kdsA,G5O_RS05250,G5O_0030,-,-,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20210207,-
+331636,12242290,G5O_RS05255,G5O_RS05255,G5O_0031,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242291,G5O_RS05260,G5O_RS05260,G5O_0032,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20201105,-
+331636,12242292,G5O_RS05265,G5O_RS05265,G5O_0033,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210207,-
+331636,12242293,G5O_RS05270,G5O_RS05270,G5O_0034,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242294,G5O_RS05275,G5O_RS05275,G5O_0035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242295,G5O_RS05280,G5O_RS05280,G5O_0036,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20201105,-
+331636,12242296,G5O_RS05285,G5O_RS05285,G5O_0037,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20201105,-
+331636,12242297,G5O_RS05290,G5O_RS05290,G5O_0038,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20200506,-
+331636,12242298,G5O_RS05295,G5O_RS05295,G5O_0039,-,-,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20201105,-
+331636,12242299,sctD,G5O_RS05300,G5O_0040,-,-,-,type III secretion system inner membrane ring subunit SctD,protein-coding,-,-,-,type III secretion system inner membrane ring subunit SctD,20201105,-
+331636,12242300,G5O_RS05305,G5O_RS05305,G5O_0041,-,-,-,DUF5398 family protein,protein-coding,-,-,-,DUF5398 family protein,20210207,-
+331636,12242301,cdsF,G5O_RS05310,G5O_0042,-,-,-,type III secretion system protein CdsF,protein-coding,-,-,-,type III secretion system protein CdsF,20210207,-
+331636,12242302,G5O_RS05315,G5O_RS05315,G5O_0043,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242303,G5O_RS05320,G5O_RS05320,G5O_0044,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242304,sctN,G5O_RS05325,G5O_0045,-,-,-,type III secretion system ATPase SctN,protein-coding,-,-,-,type III secretion system ATPase SctN,20200506,-
+331636,12242305,G5O_RS05330,G5O_RS05330,G5O_0046,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201010,-
+331636,12242306,G5O_RS05335,G5O_RS05335,G5O_0047,-,-,-,DUF5421 family protein,protein-coding,-,-,-,DUF5421 family protein,20210207,-
+331636,12242307,sctQ,G5O_RS05340,G5O_0048,-,-,-,type III secretion system cytoplasmic ring protein SctQ,protein-coding,-,-,-,type III secretion system cytoplasmic ring protein SctQ,20210207,-
+331636,12242308,G5O_RS05345,G5O_RS05345,G5O_0049,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200506,-
+331636,12242309,G5O_RS05350,G5O_RS05350,G5O_0050,-,-,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20200506,-
+331636,12242310,G5O_RS05355,G5O_RS05355,G5O_0051,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242312,G5O_RS05360,G5O_RS05360,G5O_0053,-,-,-,protein arginine kinase,protein-coding,-,-,-,protein arginine kinase,20210207,-
+331636,12242313,G5O_RS05365,G5O_RS05365,G5O_0054,-,-,-,UvrB/UvrC motif-containing protein,protein-coding,-,-,-,UvrB/UvrC motif-containing protein,20210207,-
+331636,12242314,G5O_RS05370,G5O_RS05370,G5O_0055,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242315,G5O_RS05375,G5O_RS05375,G5O_0056,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242316,frr,G5O_RS05380,G5O_0057,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200506,-
+331636,12242317,G5O_RS05385,G5O_RS05385,G5O_0058,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210207,-
+331636,12242318,G5O_RS05390,G5O_RS05390,G5O_0059,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210207,-
+331636,12242319,rpsB,G5O_RS05395,G5O_0060,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200506,-
+331636,12242320,G5O_RS05400,G5O_RS05400,G5O_0061,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242321,G5O_RS05405,G5O_RS05405,G5O_0062,-,-,-,porin,protein-coding,-,-,-,porin,20210207,-
+331636,12242322,G5O_RS05410,G5O_RS05410,G5O_0063,-,-,-,peptidase,protein-coding,-,-,-,peptidase,20201105,-
+331636,12242323,G5O_RS05415,G5O_RS05415,G5O_0064,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210207,-
+331636,12242324,sufB,G5O_RS05420,G5O_0065,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20200506,-
+331636,12242325,sufC,G5O_RS05425,G5O_0066,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20210207,-
+331636,12242326,G5O_RS05430,G5O_RS05430,G5O_0067,-,-,-,SufD family Fe-S cluster assembly protein,protein-coding,-,-,-,SufD family Fe-S cluster assembly protein,20201105,-
+331636,12242327,G5O_RS05435,G5O_RS05435,G5O_0068,-,-,-,SufS family cysteine desulfurase,protein-coding,-,-,-,SufS family cysteine desulfurase,20210207,-
+331636,12242328,G5O_RS05440,G5O_RS05440,G5O_0069,-,-,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20200506,-
+331636,12242330,G5O_RS05445,G5O_RS05445,G5O_0071,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242331,G5O_RS05450,G5O_RS05450,G5O_0072,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210207,-
+331636,12242332,G5O_RS05455,G5O_RS05455,G5O_0073,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210123,-
+331636,12242333,G5O_RS05460,G5O_RS05460,G5O_0074,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210207,-
+331636,12242334,G5O_RS05465,G5O_RS05465,G5O_0075,-,-,-,TIGR00153 family protein,protein-coding,-,-,-,TIGR00153 family protein,20201105,-
+331636,12242335,G5O_RS05470,G5O_RS05470,G5O_0076,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20210207,-
+331636,12242336,G5O_RS05475,G5O_RS05475,G5O_0077,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210207,-
+331636,12242337,G5O_RS05480,G5O_RS05480,G5O_0078,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242338,G5O_RS05485,G5O_RS05485,G5O_0079,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242339,G5O_RS05490,G5O_RS05490,G5O_0080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242340,G5O_RS05495,G5O_RS05495,G5O_0081,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,20200506,-
+331636,12242342,G5O_RS05505,G5O_RS05505,G5O_0083,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210417,-
+331636,12242343,G5O_RS05510,G5O_RS05510,G5O_0084,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242344,G5O_RS05515,G5O_RS05515,G5O_0085,-,-,-,anti-sigma regulatory factor,protein-coding,-,-,-,anti-sigma regulatory factor,20200506,-
+331636,12242345,G5O_RS05520,G5O_RS05520,G5O_0086,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+331636,12242346,G5O_RS05525,G5O_RS05525,G5O_0087,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210207,-
+331636,12242347,G5O_RS05530,G5O_RS05530,G5O_0088,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242348,dnaE,G5O_RS05535,G5O_0089,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20201105,-
+331636,12242349,G5O_RS05540,G5O_RS05540,G5O_0090,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200506,-
+331636,12242351,G5O_RS05550,G5O_RS05550,G5O_0092,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200506,-
+331636,12242352,aspS,G5O_RS05555,G5O_0093,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20201105,-
+331636,12242353,G5O_RS05560,G5O_RS05560,G5O_0094,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20210207,-
+331636,12242354,G5O_RS05565,G5O_RS05565,G5O_0095,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210207,-
+331636,12242355,trxA,G5O_RS05570,G5O_0096,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210207,-
+331636,12242356,G5O_RS05575,G5O_RS05575,G5O_0097,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242359,G5O_RS05580,G5O_RS05580,G5O_0100,-,-,-,DUF2709 domain-containing protein,protein-coding,-,-,-,DUF2709 domain-containing protein,20210207,-
+331636,12242360,tsaE,G5O_RS05585,G5O_0101,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210207,-
+331636,12242361,G5O_RS05590,G5O_RS05590,G5O_0102,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20201105,-
+331636,12242362,G5O_RS05595,G5O_RS05595,G5O_0103,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,acyl-CoA thioesterase,20210207,-
+331636,12242363,lnt,G5O_RS05600,G5O_0104,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20200506,-
+331636,12242364,G5O_RS05605,G5O_RS05605,G5O_0105,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20200926,-
+331636,12242365,fabZ,G5O_RS05610,G5O_0106,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20201105,-
+331636,12242366,lpxA,G5O_RS05615,G5O_0107,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20201105,-
+331636,12242367,G5O_RS05620,G5O_RS05620,G5O_0108,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210207,-
+331636,12242368,G5O_RS05625,G5O_RS05625,G5O_0109,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242369,G5O_RS05630,G5O_RS05630,G5O_0110,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200506,-
+331636,12242370,rplD,G5O_RS05635,G5O_0111,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210207,-
+331636,12242371,G5O_RS05640,G5O_RS05640,G5O_0112,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201105,-
+331636,12242372,rplB,G5O_RS05645,G5O_0113,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210207,-
+331636,12242373,rpsS,G5O_RS05650,G5O_0114,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200506,-
+331636,12242374,rplV,G5O_RS05655,G5O_0115,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210207,-
+331636,12242375,rpsC,G5O_RS05660,G5O_0116,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210207,-
+331636,12242376,rplP,G5O_RS05665,G5O_0117,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210207,-
+331636,12242377,G5O_RS05670,G5O_RS05670,G5O_0118,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210123,-
+331636,12242378,rpsQ,G5O_RS05675,G5O_0119,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201105,-
+331636,12242379,rplN,G5O_RS05680,G5O_0120,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201105,-
+331636,12242380,G5O_RS05685,G5O_RS05685,G5O_0121,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210207,-
+331636,12242381,rplE,G5O_RS05690,G5O_0122,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200506,-
+331636,12242382,rpsH,G5O_RS05695,G5O_0123,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200506,-
+331636,12242383,rplF,G5O_RS05700,G5O_0124,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210207,-
+331636,12242384,G5O_RS05705,G5O_RS05705,G5O_0125,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210207,-
+331636,12242385,rpsE,G5O_RS05710,G5O_0126,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210207,-
+331636,12242386,G5O_RS05715,G5O_RS05715,G5O_0127,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20201105,-
+331636,12242387,secY,G5O_RS05720,G5O_0128,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210207,-
+331636,12242388,rpsM,G5O_RS05725,G5O_0129,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200506,-
+331636,12242389,rpsK,G5O_RS05730,G5O_0130,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201105,-
+331636,12242390,G5O_RS05735,G5O_RS05735,G5O_0131,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210207,-
+331636,12242391,rplQ,G5O_RS05740,G5O_0132,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210207,-
+331636,12242392,gap,G5O_RS05745,G5O_0133,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210207,-
+331636,12242393,G5O_RS05750,G5O_RS05750,G5O_0134,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242394,G5O_RS05755,G5O_RS05755,G5O_0135,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242396,G5O_RS05760,G5O_RS05760,G5O_0137,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,12242397,ruvC,G5O_RS05765,G5O_0138,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20200506,-
+331636,12242398,ruvA,G5O_RS05770,G5O_0139,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210207,-
+331636,12242399,ndk,G5O_RS05775,G5O_0140,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20201105,-
+331636,12242400,G5O_RS05780,G5O_RS05780,G5O_0141,-,-,-,lipoate--protein ligase family protein,protein-coding,-,-,-,lipoate--protein ligase family protein,20200506,-
+331636,12242401,mnmG,G5O_RS05785,G5O_0142,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210207,-
+331636,12242402,dnaB,G5O_RS05790,G5O_0143,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200506,-
+331636,12242403,G5O_RS05795,G5O_RS05795,G5O_0144,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242404,G5O_RS05800,G5O_RS05800,G5O_0145,-,-,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20200506,-
+331636,12242405,npt2,G5O_RS05805,G5O_0146,-,-,-,NTP/H+ exchange transporter Npt2,protein-coding,-,-,-,NTP/H+ exchange transporter Npt2,20210123,-
+331636,12242406,G5O_RS05810,G5O_RS05810,G5O_0147,-,-,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20200506,-
+331636,12242407,polA,G5O_RS05815,G5O_0148,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210207,-
+331636,12242408,G5O_RS05820,G5O_RS05820,G5O_0149,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200506,-
+331636,12242409,rho,G5O_RS05825,G5O_0150,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20200506,-
+331636,12242411,G5O_RS05830,G5O_RS05830,G5O_0152,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242412,G5O_RS05835,G5O_RS05835,G5O_0153,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20201105,-
+331636,12242413,glgC,G5O_RS05840,G5O_0154,-,-,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,glucose-1-phosphate adenylyltransferase,20210207,-
+331636,12242414,G5O_RS05845,G5O_RS05845,G5O_0155,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210207,-
+331636,12242415,rsmD,G5O_RS05850,G5O_0156,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210207,-
+331636,12242416,G5O_RS05855,G5O_RS05855,G5O_0157,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20201105,-
+331636,12242417,G5O_RS05860,G5O_RS05860,G5O_0158,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20210207,-
+331636,12242418,G5O_RS05865,G5O_RS05865,G5O_0159,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+331636,12242419,G5O_RS05870,G5O_RS05870,G5O_0160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242422,G5O_RS05880,G5O_RS05880,G5O_0163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242424,G5O_RS05890,G5O_RS05890,G5O_0165,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20200506,-
+331636,12242425,G5O_RS05895,G5O_RS05895,G5O_0166,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+331636,12242426,G5O_RS05900,G5O_RS05900,G5O_0167,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201105,-
+331636,12242427,G5O_RS05905,G5O_RS05905,G5O_0168,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20210207,-
+331636,12242428,G5O_RS05910,G5O_RS05910,G5O_0169,-,-,-,toxin-antitoxin system YwqK family antitoxin,protein-coding,-,-,-,toxin-antitoxin system YwqK family antitoxin,20201105,-
+331636,12242429,G5O_RS05915,G5O_RS05915,G5O_0170,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200506,-
+331636,12242430,G5O_RS05920,G5O_RS05920,G5O_0171,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210207,-
+331636,12242432,G5O_RS05925,G5O_RS05925,G5O_0173,-,-,-,RMD1 family protein,protein-coding,-,-,-,RMD1 family protein,20201105,-
+331636,12242433,G5O_RS05930,G5O_RS05930,G5O_0174,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242434,G5O_RS05935,G5O_RS05935,G5O_0175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242435,recO,G5O_RS05940,G5O_0176,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210207,-
+331636,12242436,G5O_RS05945,G5O_RS05945,G5O_0177,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20210417,-
+331636,12242437,G5O_RS05950,G5O_RS05950,G5O_0178,-,-,-,sigma 54 modulation/S30EA ribosomal C-terminal domain-containing protein,protein-coding,-,-,-,sigma 54 modulation/S30EA ribosomal C-terminal domain-containing protein,20210207,-
+331636,12242438,G5O_RS05955,G5O_RS05955,G5O_0179,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242439,G5O_RS05960,G5O_RS05960,G5O_0180,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210207,-
+331636,12242440,G5O_RS05965,G5O_RS05965,G5O_0181,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242441,G5O_RS05970,G5O_RS05970,G5O_0182,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20210207,-
+331636,12242442,G5O_RS05975,G5O_RS05975,G5O_0183,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200510,-
+331636,12242443,G5O_RS05980,G5O_RS05980,G5O_0184,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242444,G5O_RS05985,G5O_RS05985,G5O_0185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242445,G5O_RS05990,G5O_RS05990,G5O_0186,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200506,-
+331636,12242446,truA,G5O_RS05995,G5O_0187,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200926,-
+331636,12242447,G5O_RS06000,G5O_RS06000,G5O_0188,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20201105,-
+331636,12242448,lpxG,G5O_RS06005,G5O_0189,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",protein-coding,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",20210123,-
+331636,12242449,G5O_RS06010,G5O_RS06010,G5O_0190,-,-,-,SWIB/MDM2 domain protein,protein-coding,-,-,-,SWIB/MDM2 domain protein,20210207,-
+331636,12242450,prfB,G5O_RS06015,G5O_0191,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210207,-
+331636,12242451,G5O_RS06020,G5O_RS06020,G5O_0192,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210207,-
+331636,12242452,G5O_RS06025,G5O_RS06025,G5O_0193,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242453,G5O_RS06030,G5O_RS06030,G5O_0194,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210207,-
+331636,12242454,tarP,G5O_RS06035,G5O_0195,-,-,-,type III secretion system actin-recruiting effector Tarp,protein-coding,-,-,-,type III secretion system actin-recruiting effector Tarp,20210207,-
+331636,12242455,murA,G5O_RS06040,G5O_0196,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210207,-
+331636,12242456,argS,G5O_RS06045,G5O_0197,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210207,-
+331636,12242457,G5O_RS06050,G5O_RS06050,G5O_0198,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200506,-
+331636,12242458,G5O_RS06055,G5O_RS06055,G5O_0199,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200926,-
+331636,12242459,G5O_RS06060,G5O_RS06060,G5O_0200,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210207,-
+331636,12242460,G5O_RS06065,G5O_RS06065,G5O_0201,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20210207,-
+331636,12242462,G5O_RS06070,G5O_RS06070,G5O_0203,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242463,G5O_RS06075,G5O_RS06075,G5O_0204,-,-,-,protein translocase subunit SecDF,protein-coding,-,-,-,protein translocase subunit SecDF,20210207,-
+331636,12242464,recJ,G5O_RS06080,G5O_0205,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210207,-
+331636,12242465,G5O_RS06085,G5O_RS06085,G5O_0206,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,12242466,G5O_RS06090,G5O_RS06090,G5O_0207,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210207,-
+331636,12242467,G5O_RS06095,G5O_RS06095,G5O_0208,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210207,-
+331636,12242468,G5O_RS06105,G5O_RS06105,G5O_0209,-,-,-,small cysteine-rich outer membrane protein,protein-coding,-,-,-,small cysteine-rich outer membrane protein,20210207,-
+331636,12242469,omcB,G5O_RS06110,G5O_0210,-,-,-,outer membrane complex protein OmcB,protein-coding,-,-,-,outer membrane complex protein OmcB,20210207,-
+331636,12242470,G5O_RS06115,G5O_RS06115,G5O_0211,-,-,-,cysteine-rich outer membrane protein,protein-coding,-,-,-,cysteine-rich outer membrane protein,20200506,-
+331636,12242473,G5O_RS06125,G5O_RS06125,G5O_0214,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242474,G5O_RS06130,G5O_RS06130,G5O_0215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+331636,12242476,G5O_RS06135,G5O_RS06135,G5O_0217,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200506,-
+331636,12242477,rpsG,G5O_RS06140,G5O_0218,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200506,-
+331636,12242478,fusA,G5O_RS06145,G5O_0219,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200506,-
+331636,12242479,rpsJ,G5O_RS06150,G5O_0220,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201105,-
+331636,12242480,G5O_RS06155,G5O_RS06155,G5O_0221,-,-,-,sulfite reductase flavoprotein subunit alpha,protein-coding,-,-,-,sulfite reductase flavoprotein subunit alpha,20210207,-
+331636,12242481,G5O_RS06160,G5O_RS06160,G5O_0222,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200506,-
+331636,12242482,G5O_RS06165,G5O_RS06165,G5O_0223,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242483,G5O_RS06170,G5O_RS06170,G5O_0224,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242484,rplU,G5O_RS06175,G5O_0225,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201105,-
+331636,12242485,rpmA,G5O_RS06180,G5O_0226,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200506,-
+331636,12242487,obgE,G5O_RS06185,G5O_0228,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210207,-
+331636,12242489,G5O_RS06190,G5O_RS06190,G5O_0230,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20201105,-
+331636,12242490,G5O_RS06195,G5O_RS06195,G5O_0231,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20210207,-
+331636,12242491,G5O_RS06200,G5O_RS06200,G5O_0232,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242492,thiE,G5O_RS06205,G5O_0233,-,-,-,thiamine phosphate synthase,protein-coding,-,-,-,thiamine phosphate synthase,20200506,-
+331636,12242493,thiM,G5O_RS06210,G5O_0234,-,-,-,hydroxyethylthiazole kinase,protein-coding,-,-,-,hydroxyethylthiazole kinase,20210207,-
+331636,12242494,G5O_RS06215,G5O_RS06215,G5O_0235,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201105,-
+331636,12242495,G5O_RS06220,G5O_RS06220,G5O_0236,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201105,-
+331636,12242496,G5O_RS06225,G5O_RS06225,G5O_0237,-,-,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20210123,-
+331636,12242497,G5O_RS06230,G5O_RS06230,G5O_0238,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242498,G5O_RS06235,G5O_RS06235,G5O_0239,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20201105,-
+331636,12242499,G5O_RS06240,G5O_RS06240,G5O_0240,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20210207,-
+331636,12242500,ftsW,G5O_RS09445,G5O_0903,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20210207,-
+331636,12242501,G5O_RS09450,G5O_RS09450,G5O_0904,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20201105,-
+331636,12242502,G5O_RS09455,G5O_RS09455,G5O_0905,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210207,-
+331636,12242503,G5O_RS09460,G5O_RS09460,G5O_0906,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20200506,-
+331636,12242504,G5O_RS09465,G5O_RS09465,G5O_0907,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20200506,-
+331636,12242505,G5O_RS09470,G5O_RS09470,G5O_0908,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242506,G5O_RS09475,G5O_RS09475,G5O_0909,-,-,-,TCP-1/cpn60 chaperonin family,protein-coding,-,-,-,TCP-1/cpn60 chaperonin family,20210207,-
+331636,12242507,G5O_RS09480,G5O_RS09480,G5O_0910,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20210207,-
+331636,12242508,G5O_RS09485,G5O_RS09485,G5O_0911,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242509,efp,G5O_RS09490,G5O_0912,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210207,-
+331636,12242510,G5O_RS09495,G5O_RS09495,G5O_0913,-,-,-,AMP nucleosidase,protein-coding,-,-,-,AMP nucleosidase,20201105,-
+331636,12242511,G5O_RS09500,G5O_RS09500,G5O_0914,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200506,-
+331636,12242512,alaS,G5O_RS09505,G5O_0915,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200506,-
+331636,12242513,mfd,G5O_RS09510,G5O_0916,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20200506,-
+331636,12242514,G5O_RS05145,G5O_RS05145,G5O_0009,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,20210207,-
+331636,12242515,G5O_RS09515,G5O_RS09515,G5O_0917,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20200506,-
+331636,12242516,hemN,G5O_RS09520,G5O_0918,-,-,-,oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,oxygen-independent coproporphyrinogen III oxidase,20210207,-
+331636,12242517,G5O_RS09525,G5O_RS09525,G5O_0919,-,-,-,protoporphyrinogen oxidase,protein-coding,-,-,-,protoporphyrinogen oxidase,20210207,-
+331636,12242518,G5O_RS09530,G5O_RS09530,G5O_0920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242519,G5O_RS09535,G5O_RS09535,G5O_0921,-,-,-,histone,protein-coding,-,-,-,histone,20210207,-
+331636,12242520,rlmD,G5O_RS09540,G5O_0922,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,protein-coding,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,20210207,-
+331636,12242521,yajC,G5O_RS09545,G5O_0923,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200506,-
+331636,12242522,nqrF,G5O_RS09550,G5O_0924,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,20201105,-
+331636,12242523,G5O_RS09555,G5O_RS09555,G5O_0925,-,-,-,DUF687 domain-containing protein,protein-coding,-,-,-,DUF687 domain-containing protein,20210207,-
+331636,12242524,rrf,G5O_RS09560,G5O_0926,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201105,-
+331636,12242525,G5O_RS09565,G5O_RS09565,G5O_0927,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201105,-
+331636,12242526,G5O_RS09570,G5O_RS09570,G5O_0929,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201105,-
+331636,12242528,G5O_RS09575,G5O_RS09575,G5O_0931,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242529,G5O_RS09580,G5O_RS09580,G5O_0932,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20200506,-
+331636,12242530,G5O_RS09585,G5O_RS09585,G5O_0933,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210207,-
+331636,12242531,G5O_RS09590,G5O_RS09590,G5O_0934,-,-,-,SET domain-containing protein-lysine N-methyltransferase,protein-coding,-,-,-,SET domain-containing protein-lysine N-methyltransferase,20210207,-
+331636,12242532,G5O_RS09595,G5O_RS09595,G5O_0935,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20210207,-
+331636,12242533,G5O_RS05150,G5O_RS05150,G5O_0010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242534,G5O_RS09600,G5O_RS09600,G5O_0936,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20201105,-
+331636,12242535,G5O_RS05155,G5O_RS05155,G5O_0011,-,-,-,GreA/GreB family elongation factor,protein-coding,-,-,-,GreA/GreB family elongation factor,20201105,-
+331636,12242536,G5O_RS09605,G5O_RS09605,G5O_0937,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242537,G5O_RS05160,G5O_RS05160,G5O_0012,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242539,G5O_RS09610,G5O_RS09610,G5O_0939,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242540,G5O_RS05165,G5O_RS05165,G5O_0013,-,-,-,aspartate/tyrosine/aromatic aminotransferase,protein-coding,-,-,-,aspartate/tyrosine/aromatic aminotransferase,20200926,-
+331636,12242541,G5O_RS09615,G5O_RS09615,G5O_0940,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20210207,-
+331636,12242542,G5O_RS09620,G5O_RS09620,G5O_0941,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",protein-coding,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",20210417,-
+331636,12242543,ribD,G5O_RS09625,G5O_0942,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20200506,-
+331636,12242544,serS,G5O_RS09630,G5O_0943,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210207,-
+331636,12242545,G5O_RS09635,G5O_RS09635,G5O_0944,-,-,-,VIT1/CCC1 transporter family protein,protein-coding,-,-,-,VIT1/CCC1 transporter family protein,20201105,-
+331636,12242546,G5O_RS09640,G5O_RS09640,G5O_0945,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20200506,-
+331636,12242547,G5O_RS09645,G5O_RS09645,G5O_0946,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20200506,-
+331636,12242548,G5O_RS09650,G5O_RS09650,G5O_0947,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20210207,-
+331636,12242549,G5O_RS09655,G5O_RS09655,G5O_0948,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242550,G5O_RS09660,G5O_RS09660,G5O_0949,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200506,-
+331636,12242551,G5O_RS09665,G5O_RS09665,G5O_0950,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20210207,-
+331636,12242552,G5O_RS09670,G5O_RS09670,G5O_0951,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210123,-
+331636,12242553,G5O_RS09675,G5O_RS09675,G5O_0952,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20210207,-
+331636,12242555,G5O_RS09680,G5O_RS09680,G5O_0954,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20210207,-
+331636,12242556,G5O_RS09685,G5O_RS09685,G5O_0955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,12242557,G5O_RS09690,G5O_RS09690,G5O_0956,-,-,-,FliI/YscN family ATPase,protein-coding,-,-,-,FliI/YscN family ATPase,20201105,-
+331636,12242558,G5O_RS09695,G5O_RS09695,G5O_0957,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242559,G5O_RS09700,G5O_RS09700,G5O_0958,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210207,-
+331636,12242560,G5O_RS09705,G5O_RS09705,G5O_0959,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20201105,-
+331636,12242561,G5O_RS09710,G5O_RS09710,G5O_0960,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+331636,12242562,G5O_RS09715,G5O_RS09715,G5O_0961,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242563,G5O_RS09720,G5O_RS09720,G5O_0962,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242564,G5O_RS09725,G5O_RS09725,G5O_0963,-,-,-,phosphoenolpyruvate carboxykinase (GTP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (GTP),20210207,-
+331636,12242565,G5O_RS09730,G5O_RS09730,G5O_0964,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20201105,-
+331636,12242566,G5O_RS09735,G5O_RS09735,G5O_0965,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200506,-
+331636,12242567,G5O_RS09740,G5O_RS09740,G5O_0966,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242568,G5O_RS09745,G5O_RS09745,G5O_0967,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200506,-
+331636,12242569,G5O_RS09750,G5O_RS09750,G5O_0968,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200506,-
+331636,12242570,clpX,G5O_RS09755,G5O_0969,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20210207,-
+331636,12242571,G5O_RS09760,G5O_RS09760,G5O_0970,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210207,-
+331636,12242572,der,G5O_RS09765,G5O_0971,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200506,-
+331636,12242573,G5O_RS09770,G5O_RS09770,G5O_0972,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242574,secA,G5O_RS09775,G5O_0973,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210207,-
+331636,12242575,G5O_RS09780,G5O_RS09780,G5O_0974,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20201105,-
+331636,12242576,G5O_RS05170,G5O_RS05170,G5O_0014,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20200506,-
+331636,12242577,G5O_RS09785,G5O_RS09785,G5O_0975,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20200506,-
+331636,12242578,mnmE,G5O_RS09790,G5O_0976,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201105,-
+331636,12242579,G5O_RS09795,G5O_RS09795,G5O_0977,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210207,-
+331636,12242580,brnQ,G5O_RS09800,G5O_0978,-,-,-,branched-chain amino acid transport system II carrier protein,protein-coding,-,-,-,branched-chain amino acid transport system II carrier protein,20210207,-
+331636,12242581,G5O_RS09805,G5O_RS09805,G5O_0979,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20201105,-
+331636,12242582,G5O_RS09810,G5O_RS09810,G5O_0980,-,-,-,phage holin family protein,protein-coding,-,-,-,phage holin family protein,20200506,-
+331636,12242584,lpdA,G5O_RS09815,G5O_0982,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201105,-
+331636,12242585,lipA,G5O_RS09820,G5O_0983,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20210207,-
+331636,12242586,sctJ,G5O_RS09825,G5O_0984,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,protein-coding,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,20200506,-
+331636,12242587,G5O_RS09830,G5O_RS09830,G5O_0985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242588,G5O_RS09835,G5O_RS09835,G5O_0986,-,-,-,HrpE/YscL family type III secretion apparatus protein,protein-coding,-,-,-,HrpE/YscL family type III secretion apparatus protein,20210207,-
+331636,12242590,sctS,G5O_RS09845,G5O_0988,-,-,-,type III secretion system export apparatus subunit SctS,protein-coding,-,-,-,type III secretion system export apparatus subunit SctS,20201105,-
+331636,12242591,G5O_RS09850,G5O_RS09850,G5O_0989,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,protein-coding,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,20210207,-
+331636,12242592,G5O_RS09855,G5O_RS09855,G5O_0990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242593,G5O_RS09860,G5O_RS09860,G5O_0991,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242594,G5O_RS09865,G5O_RS09865,G5O_0992,-,-,-,DUF1494 domain-containing protein,protein-coding,-,-,-,DUF1494 domain-containing protein,20200506,-
+331636,12242595,G5O_RS09870,G5O_RS09870,G5O_0993,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201109,-
+331636,12242596,G5O_RS09875,G5O_RS09875,G5O_0994,-,-,-,type II secretion system protein,protein-coding,-,-,-,type II secretion system protein,20210207,-
+331636,12242597,G5O_RS09880,G5O_RS09880,G5O_0995,-,-,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20201105,-
+331636,12242598,G5O_RS09885,G5O_RS09885,G5O_0996,-,-,-,type II/IV secretion system protein,protein-coding,-,-,-,type II/IV secretion system protein,20210207,-
+331636,12242599,G5O_RS09890,G5O_RS09890,G5O_0997,-,-,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20210207,-
+331636,12242600,G5O_RS09895,G5O_RS09895,G5O_0998,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242601,G5O_RS09905,G5O_RS09905,G5O_0999,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200506,-
+331636,12242602,mutL,G5O_RS09910,G5O_1000,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200926,-
+331636,12242603,G5O_RS09915,G5O_RS09915,G5O_1001,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20201105,-
+331636,12242604,G5O_RS09920,G5O_RS09920,G5O_1002,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242605,G5O_RS09925,G5O_RS09925,G5O_1003,-,-,-,type III secretion system membrane protein,protein-coding,-,-,-,type III secretion system membrane protein,20210123,-
+331636,12242606,G5O_RS09930,G5O_RS09930,G5O_1004,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20210207,-
+331636,12242607,G5O_RS09935,G5O_RS09935,G5O_1005,-,-,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20200506,-
+331636,12242608,thrS,G5O_RS09940,G5O_1006,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210207,-
+331636,12242609,G5O_RS09945,G5O_RS09945,G5O_1007,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200506,-
+331636,12242610,G5O_RS09950,G5O_RS09950,G5O_1008,-,-,-,pGP6-D family virulence protein,protein-coding,-,-,-,pGP6-D family virulence protein,20210207,-
+331636,12242611,G5O_RS09955,G5O_RS09955,G5O_1009,-,-,-,DUF5414 family protein,protein-coding,-,-,-,DUF5414 family protein,20210207,-
+331636,12242612,trpS,G5O_RS09960,G5O_1010,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210207,-
+331636,12242613,uvrB,G5O_RS09965,G5O_1011,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20200506,-
+331636,12242614,eno,G5O_RS09970,G5O_1012,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200506,-
+331636,12242616,G5O_RS09975,G5O_RS09975,G5O_1014,-,-,-,PP2C family protein-serine/threonine phosphatase,protein-coding,-,-,-,PP2C family protein-serine/threonine phosphatase,20201010,-
+331636,12242617,G5O_RS09980,G5O_RS09980,G5O_1015,-,-,-,SpoIIE family protein phosphatase,protein-coding,-,-,-,SpoIIE family protein phosphatase,20201026,-
+331636,12242619,G5O_RS09990,G5O_RS09990,G5O_1017,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242620,sdhB,G5O_RS09995,G5O_1018,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20200506,-
+331636,12242621,sdhA,G5O_RS10000,G5O_1019,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20210207,-
+331636,12242622,G5O_RS10005,G5O_RS10005,G5O_1020,-,-,-,succinate dehydrogenase cytochrome b558 subunit,protein-coding,-,-,-,succinate dehydrogenase cytochrome b558 subunit,20201105,-
+331636,12242623,G5O_RS10010,G5O_RS10010,G5O_1021,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200506,-
+331636,12242624,G5O_RS10015,G5O_RS10015,G5O_1022,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210123,-
+331636,12242625,G5O_RS10020,G5O_RS10020,G5O_1023,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20210207,-
+331636,12242626,G5O_RS10025,G5O_RS10025,G5O_1024,-,-,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20210207,-
+331636,12242627,G5O_RS10030,G5O_RS10030,G5O_1025,-,-,-,inclusion-associated protein,protein-coding,-,-,-,inclusion-associated protein,20210207,-
+331636,12242628,tolB,G5O_RS10035,G5O_1026,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20210207,-
+331636,12242629,G5O_RS10040,G5O_RS10040,G5O_1027,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20210207,-
+331636,12242630,G5O_RS10045,G5O_RS10045,G5O_1028,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210417,-
+331636,12242631,G5O_RS10050,G5O_RS10050,G5O_1029,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242632,G5O_RS10055,G5O_RS10055,G5O_1030,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210207,-
+331636,12242633,G5O_RS10060,G5O_RS10060,G5O_1031,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242634,G5O_RS10065,G5O_RS10065,G5O_1032,-,-,-,molecular chaperone GroEL,protein-coding,-,-,-,molecular chaperone GroEL,20200506,-
+331636,12242635,G5O_RS10070,G5O_RS10070,G5O_1033,-,-,-,DUF1343 domain-containing protein,protein-coding,-,-,-,DUF1343 domain-containing protein,20200506,-
+331636,12242636,rdgB,G5O_RS10075,G5O_1034,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20210207,-
+331636,12242637,G5O_RS10080,G5O_RS10080,G5O_1035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242638,ung,G5O_RS10085,G5O_1036,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210207,-
+331636,12242639,G5O_RS10090,G5O_RS10090,G5O_1037,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210207,-
+331636,12242640,G5O_RS10095,G5O_RS10095,G5O_1038,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20210207,-
+331636,12242641,G5O_RS10100,G5O_RS10100,G5O_1039,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242642,recB,G5O_RS05175,G5O_0015,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20210207,-
+331636,12242643,topA,G5O_RS10105,G5O_1040,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200506,-
+331636,12242644,dusB,G5O_RS10110,G5O_1041,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20200506,-
+331636,12242645,G5O_RS10115,G5O_RS10115,G5O_1042,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20200926,-
+331636,12242646,G5O_RS10120,G5O_RS10120,G5O_1043,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242647,G5O_RS10125,G5O_RS10125,G5O_1044,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242648,G5O_RS10130,G5O_RS10130,G5O_1045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242649,G5O_RS10135,G5O_RS10135,G5O_1046,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20201105,-
+331636,12242650,recA,G5O_RS10140,G5O_1047,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210207,-
+331636,12242651,G5O_RS10145,G5O_RS10145,G5O_1048,-,-,-,CADD family putative folate metabolism protein,protein-coding,-,-,-,CADD family putative folate metabolism protein,20210123,-
+331636,12242652,G5O_RS10150,G5O_RS10150,G5O_1049,-,-,-,putative folate metabolism gamma-glutamate ligase,protein-coding,-,-,-,putative folate metabolism gamma-glutamate ligase,20200506,-
+331636,12242653,G5O_RS10155,G5O_RS10155,G5O_1050,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200506,-
+331636,12242654,folP,G5O_RS10160,G5O_1051,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20201105,-
+331636,12242655,folB,G5O_RS10165,G5O_1052,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20210327,-
+331636,12242656,G5O_RS10170,G5O_RS10170,G5O_1053,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200926,-
+331636,12242657,G5O_RS10175,G5O_RS10175,G5O_1054,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+331636,12242658,G5O_RS10180,G5O_RS10180,G5O_1055,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210207,-
+331636,12242659,G5O_RS10185,G5O_RS10185,G5O_1056,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242660,recD,G5O_RS10190,G5O_1057,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20200506,-
+331636,12242661,G5O_RS10195,G5O_RS10195,G5O_1058,-,-,-,DUF1347 family protein,protein-coding,-,-,-,DUF1347 family protein,20210207,-
+331636,12242662,G5O_RS10200,G5O_RS10200,G5O_1059,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20210207,-
+331636,12242663,G5O_RS10205,G5O_RS10205,G5O_1060,-,-,-,transferase,protein-coding,-,-,-,transferase,20210207,-
+331636,12242664,G5O_RS10210,G5O_RS10210,G5O_1061,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20201105,-
+331636,12242665,G5O_RS10215,G5O_RS10215,G5O_1062,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242666,G5O_RS10220,G5O_RS10220,G5O_1063,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242667,G5O_RS10225,G5O_RS10225,G5O_1064,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20210123,-
+331636,12242668,G5O_RS06245,G5O_RS06245,G5O_0241,-,-,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20200506,-
+331636,12242669,nrdR,G5O_RS06250,G5O_0242,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20200506,-
+331636,12242670,G5O_RS06255,G5O_RS06255,G5O_0243,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20210207,-
+331636,12242671,G5O_RS06260,G5O_RS06260,G5O_0244,-,-,-,class I SAM-dependent rRNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent rRNA methyltransferase,20200506,-
+331636,12242672,G5O_RS06265,G5O_RS06265,G5O_0245,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20201105,-
+331636,12242673,G5O_RS06270,G5O_RS06270,G5O_0246,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20201105,-
+331636,12242674,G5O_RS06275,G5O_RS06275,G5O_0247,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20201105,-
+331636,12242675,G5O_RS06280,G5O_RS06280,G5O_0248,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20201105,-
+331636,12242676,G5O_RS06285,G5O_RS06285,G5O_0249,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20200506,-
+331636,12242677,G5O_RS06290,G5O_RS06290,G5O_0250,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20210207,-
+331636,12242678,G5O_RS06295,G5O_RS06295,G5O_0251,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242681,G5O_RS06305,G5O_RS06305,G5O_0254,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20201105,-
+331636,12242682,G5O_RS06310,G5O_RS06310,G5O_0255,-,-,-,glycine hydroxymethyltransferase,protein-coding,-,-,-,glycine hydroxymethyltransferase,20200506,-
+331636,12242683,G5O_RS06315,G5O_RS06315,G5O_0256,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210207,-
+331636,12242684,dapF,G5O_RS06320,G5O_0257,-,-,-,bifunctional diaminopimelate epimerase/glutamate racemase,protein-coding,-,-,-,bifunctional diaminopimelate epimerase/glutamate racemase,20210207,-
+331636,12242685,G5O_RS06325,G5O_RS06325,G5O_0258,-,-,-,UPF0158 family protein,protein-coding,-,-,-,UPF0158 family protein,20201105,-
+331636,12242686,ubiE,G5O_RS06330,G5O_0259,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20200926,-
+331636,12242687,G5O_RS06335,G5O_RS06335,G5O_0260,-,-,-,menaquinone biosynthesis protein,protein-coding,-,-,-,menaquinone biosynthesis protein,20210207,-
+331636,12242688,G5O_RS06340,G5O_RS06340,G5O_0261,-,-,-,CofH family radical SAM protein,protein-coding,-,-,-,CofH family radical SAM protein,20201105,-
+331636,12242689,G5O_RS06345,G5O_RS06345,G5O_0262,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242690,G5O_RS06350,G5O_RS06350,G5O_0263,-,-,-,DUF3604 domain-containing protein,protein-coding,-,-,-,DUF3604 domain-containing protein,20210123,-
+331636,12242691,G5O_RS06355,G5O_RS06355,G5O_0264,-,-,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20201105,-
+331636,12242692,G5O_RS06360,G5O_RS06360,G5O_0265,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200506,-
+331636,12242693,ybeY,G5O_RS06365,G5O_0266,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210207,-
+331636,12242696,G5O_RS06370,G5O_RS06370,G5O_0269,-,-,-,DUF502 domain-containing protein,protein-coding,-,-,-,DUF502 domain-containing protein,20200506,-
+331636,12242697,G5O_RS06375,G5O_RS06375,G5O_0270,-,-,-,DNA-3-methyladenine glycosylase,protein-coding,-,-,-,DNA-3-methyladenine glycosylase,20210207,-
+331636,12242698,G5O_RS06380,G5O_RS06380,G5O_0271,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,protein-coding,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,20210417,-
+331636,12242700,dnaK,G5O_RS06385,G5O_0273,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210207,-
+331636,12242701,G5O_RS06390,G5O_RS06390,G5O_0274,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210207,-
+331636,12242702,hrcA,G5O_RS06395,G5O_0275,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200506,-
+331636,12242703,G5O_RS06400,G5O_RS06400,G5O_0276,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210207,-
+331636,12242704,G5O_RS06405,G5O_RS06405,G5O_0277,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242705,G5O_RS06410,G5O_RS06410,G5O_0278,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242706,G5O_RS06415,G5O_RS06415,G5O_0279,-,-,-,DUF167 domain-containing protein,protein-coding,-,-,-,DUF167 domain-containing protein,20210207,-
+331636,12242707,G5O_RS06420,G5O_RS06420,G5O_0280,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210207,-
+331636,12242708,G5O_RS06425,G5O_RS06425,G5O_0281,-,-,-,LL-diaminopimelate aminotransferase,protein-coding,-,-,-,LL-diaminopimelate aminotransferase,20201105,-
+331636,12242709,G5O_RS06430,G5O_RS06430,G5O_0282,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242710,G5O_RS06435,G5O_RS06435,G5O_0283,-,-,-,DUF1207 domain-containing protein,protein-coding,-,-,-,DUF1207 domain-containing protein,20210417,-
+331636,12242711,G5O_RS06440,G5O_RS06440,G5O_0284,-,-,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20210207,-
+331636,12242712,G5O_RS06445,G5O_RS06445,G5O_0285,-,-,-,MYG1 family protein,protein-coding,-,-,-,MYG1 family protein,20201105,-
+331636,12242713,G5O_RS06450,G5O_RS06450,G5O_0286,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20210207,-
+331636,12242714,G5O_RS06455,G5O_RS06455,G5O_0287,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20200506,-
+331636,12242715,G5O_RS06460,G5O_RS06460,G5O_0288,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242716,G5O_RS06465,G5O_RS06465,G5O_0289,-,-,-,sodium:solute symporter family protein,protein-coding,-,-,-,sodium:solute symporter family protein,20200506,-
+331636,12242717,G5O_RS06470,G5O_RS06470,G5O_0290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242718,aroF,G5O_RS06475,G5O_0291,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20200506,-
+331636,12242719,G5O_RS06480,G5O_RS06480,G5O_0292,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201105,-
+331636,12242720,G5O_RS06485,G5O_RS06485,G5O_0293,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20210123,-
+331636,12242721,G5O_RS06490,G5O_RS06490,G5O_0294,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201105,-
+331636,12242722,G5O_RS06495,G5O_RS06495,G5O_0295,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200506,-
+331636,12242723,hflX,G5O_RS06500,G5O_0296,-,-,-,GTPase HflX,protein-coding,-,-,-,GTPase HflX,20210207,-
+331636,12242724,mtaB,G5O_RS06505,G5O_0297,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20201105,-
+331636,12242725,G5O_RS06510,G5O_RS06510,G5O_0298,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242726,glgB,G5O_RS06515,G5O_0299,-,-,-,"1,4-alpha-glucan branching protein GlgB",protein-coding,-,-,-,"1,4-alpha-glucan branching protein GlgB",20200926,-
+331636,12242727,G5O_RS06520,G5O_RS06520,G5O_0300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242728,G5O_RS06525,G5O_RS06525,G5O_0301,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242729,G5O_RS06530,G5O_RS06530,G5O_0302,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+331636,12242730,G5O_RS06535,G5O_RS06535,G5O_0303,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12242731,G5O_RS06540,G5O_RS06540,G5O_0304,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20210207,-
+331636,12242732,G5O_RS06545,G5O_RS06545,G5O_0305,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12242734,G5O_RS06550,G5O_RS06550,G5O_0307,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+331636,12242736,G5O_RS06555,G5O_RS06555,G5O_0309,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12242738,G5O_RS06570,G5O_RS06570,G5O_0312,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+331636,12242739,G5O_RS06575,G5O_RS06575,G5O_0313,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210417,-
+331636,12242740,G5O_RS06580,G5O_RS06580,G5O_0314,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201105,-
+331636,12242741,G5O_RS06585,G5O_RS06585,G5O_0315,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210207,-
+331636,12242742,G5O_RS06590,G5O_RS06590,G5O_0316,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201105,-
+331636,12242744,G5O_RS06605,G5O_RS06605,G5O_0320,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12242746,G5O_RS06615,G5O_RS06615,G5O_0323,-,-,-,DUF378 domain-containing protein,protein-coding,-,-,-,DUF378 domain-containing protein,20200506,-
+331636,12242747,gatC,G5O_RS06620,G5O_0324,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20201105,-
+331636,12242748,gatA,G5O_RS06625,G5O_0325,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210207,-
+331636,12242749,gatB,G5O_RS06630,G5O_0326,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210207,-
+331636,12242750,G5O_RS06635,G5O_RS06635,G5O_0327,-,-,-,IncV family inclusion membrane protein,protein-coding,-,-,-,IncV family inclusion membrane protein,20201105,-
+331636,12242751,G5O_RS06640,G5O_RS06640,G5O_0328,-,-,-,DUF5422 family protein,protein-coding,-,-,-,DUF5422 family protein,20201105,-
+331636,12242752,G5O_RS06645,G5O_RS06645,G5O_0329,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242753,G5O_RS06650,G5O_RS06650,G5O_0330,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20201105,-
+331636,12242754,G5O_RS06655,G5O_RS06655,G5O_0331,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210207,-
+331636,12242755,G5O_RS06660,G5O_RS06660,G5O_0332,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242756,G5O_RS06665,G5O_RS06665,G5O_0333,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242757,G5O_RS06675,G5O_RS06675,G5O_0334,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20210207,-
+331636,12242760,G5O_RS06690,G5O_RS06690,G5O_0337,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242761,G5O_RS06695,G5O_RS06695,G5O_0338,-,-,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20200506,-
+331636,12242762,G5O_RS06700,G5O_RS06700,G5O_0339,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242763,rsmA,G5O_RS06705,G5O_0340,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210207,-
+331636,12242764,G5O_RS06710,G5O_RS06710,G5O_0341,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20210207,-
+331636,12242765,G5O_RS06715,G5O_RS06715,G5O_0342,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242766,G5O_RS06720,G5O_RS06720,G5O_0343,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20201105,-
+331636,12242767,G5O_RS06725,G5O_RS06725,G5O_0344,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20201105,-
+331636,12242768,G5O_RS06730,G5O_RS06730,G5O_0345,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20201105,-
+331636,12242769,secG,G5O_RS06735,G5O_0346,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20201105,-
+331636,12242770,G5O_RS06740,G5O_RS06740,G5O_0347,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210207,-
+331636,12242771,G5O_RS06745,G5O_RS06745,G5O_0348,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242772,G5O_RS06750,G5O_RS06750,G5O_0349,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20201105,-
+331636,12242773,maf,G5O_RS06755,G5O_0350,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20201105,-
+331636,12242774,G5O_RS06760,G5O_RS06760,G5O_0351,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20200506,-
+331636,12242775,G5O_RS06765,G5O_RS06765,G5O_0352,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20200506,-
+331636,12242776,G5O_RS06770,G5O_RS06770,G5O_0353,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20201105,-
+331636,12242777,G5O_RS06775,G5O_RS06775,G5O_0354,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201105,-
+331636,12242778,lon,G5O_RS06780,G5O_0355,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201105,-
+331636,12242779,G5O_RS06785,G5O_RS06785,G5O_0356,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,protein-coding,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,20200506,-
+331636,12242780,G5O_RS06790,G5O_RS06790,G5O_0357,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20201105,-
+331636,12242781,dnaJ,G5O_RS06795,G5O_0358,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20200506,-
+331636,12242782,G5O_RS06800,G5O_RS06800,G5O_0359,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200506,-
+331636,12242783,G5O_RS06805,G5O_RS06805,G5O_0360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242784,G5O_RS06810,G5O_RS06810,G5O_0361,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210123,-
+331636,12242785,G5O_RS06815,G5O_RS06815,G5O_0362,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242786,G5O_RS06820,G5O_RS06820,G5O_0363,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210207,-
+331636,12242787,ptsP,G5O_RS06825,G5O_0364,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200506,-
+331636,12242788,G5O_RS06830,G5O_RS06830,G5O_0365,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210207,-
+331636,12242789,dnaX,G5O_RS06835,G5O_0366,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210207,-
+331636,12242790,G5O_RS06840,G5O_RS06840,G5O_0367,-,-,-,HDIG domain-containing protein,protein-coding,-,-,-,HDIG domain-containing protein,20200506,-
+331636,12242791,G5O_RS06845,G5O_RS06845,G5O_0368,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242792,G5O_RS06850,G5O_RS06850,G5O_0369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242794,G5O_RS06860,G5O_RS06860,G5O_0371,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20201105,-
+331636,12242795,radA,G5O_RS06865,G5O_0372,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20200506,-
+331636,12242796,G5O_RS06870,G5O_RS06870,G5O_0373,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20201105,-
+331636,12242797,G5O_RS06875,G5O_RS06875,G5O_0374,-,-,-,DUF5070 domain-containing protein,protein-coding,-,-,-,DUF5070 domain-containing protein,20201105,-
+331636,12242798,G5O_RS06880,G5O_RS06880,G5O_0375,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210207,-
+331636,12242799,G5O_RS06885,G5O_RS06885,G5O_0376,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20200506,-
+331636,12242800,G5O_RS06890,G5O_RS06890,G5O_0377,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20210207,-
+331636,12242801,dut,G5O_RS06895,G5O_0378,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20200926,-
+331636,12242802,G5O_RS06900,G5O_RS06900,G5O_0379,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200506,-
+331636,12242803,G5O_RS06905,G5O_RS06905,G5O_0380,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210123,-
+331636,12242804,G5O_RS06910,G5O_RS06910,G5O_0381,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242805,G5O_RS06915,G5O_RS06915,G5O_0382,-,-,-,stage II sporulation protein M,protein-coding,-,-,-,stage II sporulation protein M,20201105,-
+331636,12242806,G5O_RS06920,G5O_RS06920,G5O_0383,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242807,G5O_RS06925,G5O_RS06925,G5O_0384,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242808,mnmA,G5O_RS06930,G5O_0385,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210207,-
+331636,12242809,G5O_RS06935,G5O_RS06935,G5O_0386,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210207,-
+331636,12242810,G5O_RS06940,G5O_RS06940,G5O_0387,-,-,-,lipoate protein ligase-like protein,protein-coding,-,-,-,lipoate protein ligase-like protein,20210417,-
+331636,12242811,G5O_RS06945,G5O_RS06945,G5O_0388,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20201106,-
+331636,12242812,G5O_RS06950,G5O_RS06950,G5O_0389,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200510,-
+331636,12242813,G5O_RS06955,G5O_RS06955,G5O_0390,-,-,-,glycine cleavage protein H-like protein,protein-coding,-,-,-,glycine cleavage protein H-like protein,20210207,-
+331636,12242814,nqrE,G5O_RS06970,G5O_0391,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,20200506,-
+331636,12242815,nqrD,G5O_RS06975,G5O_0392,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,20201105,-
+331636,12242816,G5O_RS06980,G5O_RS06980,G5O_0393,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,20200506,-
+331636,12242817,G5O_RS06985,G5O_RS06985,G5O_0394,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,protein-coding,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,20210207,-
+331636,12242818,G5O_RS06990,G5O_RS06990,G5O_0395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242819,G5O_RS06995,G5O_RS06995,G5O_0396,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210207,-
+331636,12242820,dnaA,G5O_RS07000,G5O_0397,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20201105,-
+331636,12242821,G5O_RS07005,G5O_RS07005,G5O_0398,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242822,G5O_RS07010,G5O_RS07010,G5O_0399,-,-,-,DUF5399 family protein,protein-coding,-,-,-,DUF5399 family protein,20200926,-
+331636,12242823,rsmH,G5O_RS07015,G5O_0400,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200506,-
+331636,12242824,G5O_RS07020,G5O_RS07020,G5O_0401,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242825,G5O_RS07025,G5O_RS07025,G5O_0402,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210417,-
+331636,12242826,G5O_RS07035,G5O_RS07035,G5O_0403,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20201105,-
+331636,12242827,G5O_RS07040,G5O_RS07040,G5O_0404,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210207,-
+331636,12242828,G5O_RS07045,G5O_RS07045,G5O_0405,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242829,G5O_RS07050,G5O_RS07050,G5O_0406,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210207,-
+331636,12242830,G5O_RS07055,G5O_RS07055,G5O_0407,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242831,G5O_RS07060,G5O_RS07060,G5O_0408,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20200506,-
+331636,12242832,G5O_RS07065,G5O_RS07065,G5O_0409,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200506,-
+331636,12242833,G5O_RS07070,G5O_RS07070,G5O_0410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242834,G5O_RS07075,G5O_RS07075,G5O_0411,-,-,-,"1,4-dihydroxy-6-naphthoate synthase",protein-coding,-,-,-,"1,4-dihydroxy-6-naphthoate synthase",20200506,-
+331636,12242835,G5O_RS07080,G5O_RS07080,G5O_0412,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20210207,-
+331636,12242836,G5O_RS07085,G5O_RS07085,G5O_0413,-,-,-,YbjN domain-containing protein,protein-coding,-,-,-,YbjN domain-containing protein,20210207,-
+331636,12242837,G5O_RS07090,G5O_RS07090,G5O_0414,-,-,-,FliO/MopB family protein,protein-coding,-,-,-,FliO/MopB family protein,20210207,-
+331636,12242838,G5O_RS07095,G5O_RS07095,G5O_0415,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200506,-
+331636,12242839,G5O_RS07100,G5O_RS07100,G5O_0416,-,-,-,enoyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,enoyl-[acyl-carrier-protein] reductase,20200506,-
+331636,12242840,G5O_RS07105,G5O_RS07105,G5O_0417,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242841,G5O_RS07110,G5O_RS07110,G5O_0418,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242842,G5O_RS07115,G5O_RS07115,G5O_0419,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200506,-
+331636,12242843,mutY,G5O_RS07120,G5O_0420,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20200506,-
+331636,12242844,G5O_RS07125,G5O_RS07125,G5O_0421,-,-,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20210207,-
+331636,12242845,G5O_RS07130,G5O_RS07130,G5O_0422,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20210207,-
+331636,12242846,G5O_RS07135,G5O_RS07135,G5O_0423,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242850,G5O_RS07145,G5O_RS07145,G5O_0427,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242851,G5O_RS07150,G5O_RS07150,G5O_0428,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242852,G5O_RS07155,G5O_RS07155,G5O_0429,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210123,-
+331636,12242853,G5O_RS07160,G5O_RS07160,G5O_0430,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20201105,-
+331636,12242854,G5O_RS07165,G5O_RS07165,G5O_0431,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210207,-
+331636,12242855,G5O_RS07170,G5O_RS07170,G5O_0432,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200506,-
+331636,12242856,G5O_RS07175,G5O_RS07175,G5O_0433,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242857,G5O_RS07180,G5O_RS07180,G5O_0434,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20210207,-
+331636,12242858,ruvB,G5O_RS07185,G5O_0435,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20201105,-
+331636,12242859,G5O_RS07190,G5O_RS07190,G5O_0436,-,-,-,SpoIID/LytB domain-containing protein,protein-coding,-,-,-,SpoIID/LytB domain-containing protein,20200506,-
+331636,12242860,G5O_RS07195,G5O_RS07195,G5O_0437,-,-,-,glycogen-debranching protein,protein-coding,-,-,-,glycogen-debranching protein,20200506,-
+331636,12242861,G5O_RS07200,G5O_RS07200,G5O_0438,-,-,-,type III secretion chaperone Slc1,protein-coding,-,-,-,type III secretion chaperone Slc1,20210207,-
+331636,12242862,G5O_RS07210,G5O_RS07210,G5O_0439,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201106,-
+331636,12242863,G5O_RS07215,G5O_RS07215,G5O_0440,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20201105,-
+331636,12242864,hctB,G5O_RS07220,G5O_0441,-,-,-,histone H1-like DNA-binding protein Hc2,protein-coding,-,-,-,histone H1-like DNA-binding protein Hc2,20210207,-
+331636,12242865,G5O_RS07225,G5O_RS07225,G5O_0442,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242866,G5O_RS07230,G5O_RS07230,G5O_0443,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200506,-
+331636,12242869,G5O_RS07240,G5O_RS07240,G5O_0446,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242870,G5O_RS07245,G5O_RS07245,G5O_0447,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242871,hemW,G5O_RS07250,G5O_0448,-,-,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20200506,-
+331636,12242872,G5O_RS07255,G5O_RS07255,G5O_0449,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242873,G5O_RS07260,G5O_RS07260,G5O_0450,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20210207,-
+331636,12242874,sucB,G5O_RS07265,G5O_0451,-,-,-,dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,dihydrolipoyllysine-residue succinyltransferase,20210207,-
+331636,12242875,pgeF,G5O_RS07270,G5O_0452,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20200506,-
+331636,12242876,G5O_RS07275,G5O_RS07275,G5O_0453,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,20210207,-
+331636,12242877,G5O_RS07280,G5O_RS07280,G5O_0454,-,-,-,DoxX family protein,protein-coding,-,-,-,DoxX family protein,20200506,-
+331636,12242878,G5O_RS07285,G5O_RS07285,G5O_0455,-,-,-,macro domain-containing protein,protein-coding,-,-,-,macro domain-containing protein,20200506,-
+331636,12242880,G5O_RS07290,G5O_RS07290,G5O_0457,-,-,-,macro domain-containing protein,protein-coding,-,-,-,macro domain-containing protein,20210207,-
+331636,12242881,G5O_RS07295,G5O_RS07295,G5O_0459,-,-,-,(2Fe-2S)-binding protein,protein-coding,-,-,-,(2Fe-2S)-binding protein,20210207,-
+331636,12242882,G5O_RS07300,G5O_RS07300,G5O_0460,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242885,G5O_RS07305,G5O_RS07305,G5O_0463,-,-,-,FHIPEP family type III secretion protein,protein-coding,-,-,-,FHIPEP family type III secretion protein,20210417,-
+331636,12242886,G5O_RS07310,G5O_RS07310,G5O_0464,-,-,-,FliA/WhiG family RNA polymerase sigma factor,protein-coding,-,-,-,FliA/WhiG family RNA polymerase sigma factor,20201105,-
+331636,12242887,G5O_RS07315,G5O_RS07315,G5O_0465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242888,G5O_RS07320,G5O_RS07320,G5O_0466,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200506,-
+331636,12242889,gnd,G5O_RS07325,G5O_0467,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20210417,-
+331636,12242890,lepA,G5O_RS07330,G5O_0468,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20210207,-
+331636,12242891,G5O_RS07335,G5O_RS07335,G5O_0469,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20200506,-
+331636,12242892,npt1,G5O_RS07340,G5O_0470,-,-,-,NTP/NDP exchange transporter Npt1,protein-coding,-,-,-,NTP/NDP exchange transporter Npt1,20210207,-
+331636,12242893,G5O_RS07345,G5O_RS07345,G5O_0471,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242895,G5O_RS07350,G5O_RS07350,G5O_0473,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20210123,-
+331636,12242896,G5O_RS07355,G5O_RS07355,G5O_0474,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20201105,-
+331636,12242897,G5O_RS07360,G5O_RS07360,G5O_0475,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20210123,-
+331636,12242898,G5O_RS07365,G5O_RS07365,G5O_0476,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200506,-
+331636,12242899,G5O_RS07370,G5O_RS07370,G5O_0477,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20200506,-
+331636,12242900,G5O_RS07375,G5O_RS07375,G5O_0478,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20200926,-
+331636,12242901,G5O_RS07380,G5O_RS07380,G5O_0479,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210123,-
+331636,12242902,recF,G5O_RS07385,G5O_0480,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20210207,-
+331636,12242903,G5O_RS07390,G5O_RS07390,G5O_0481,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200506,-
+331636,12242904,smpB,G5O_RS07395,G5O_0482,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200926,-
+331636,12242905,G5O_RS07400,G5O_RS07400,G5O_0483,-,-,-,FAD:protein FMN transferase,protein-coding,-,-,-,FAD:protein FMN transferase,20210406,-
+331636,12242906,folD,G5O_RS07405,G5O_0484,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20201105,-
+331636,12242908,ltuB,G5O_RS07410,G5O_0486,-,-,-,late transcription unit protein LtuB,protein-coding,-,-,-,late transcription unit protein LtuB,20210123,-
+331636,12242909,G5O_RS07415,G5O_RS07415,G5O_0487,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242910,G5O_RS07420,G5O_RS07420,G5O_0488,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242911,G5O_RS07425,G5O_RS07425,G5O_0489,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20201105,-
+331636,12242912,G5O_RS07430,G5O_RS07430,G5O_0490,-,-,-,menaquinone biosynthesis decarboxylase,protein-coding,-,-,-,menaquinone biosynthesis decarboxylase,20200506,-
+331636,12242913,G5O_RS07435,G5O_RS07435,G5O_0491,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210207,-
+331636,12242914,G5O_RS07440,G5O_RS07440,G5O_0492,-,-,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20210207,-
+331636,12242915,G5O_RS07445,G5O_RS07445,G5O_0493,-,-,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20210123,-
+331636,12242916,sctW,G5O_RS07450,G5O_0494,-,-,-,type III secretion system gatekeeper subunit SctW,protein-coding,-,-,-,type III secretion system gatekeeper subunit SctW,20210207,-
+331636,12242917,sctV,G5O_RS07455,G5O_0495,-,-,-,type III secretion system export apparatus subunit SctV,protein-coding,-,-,-,type III secretion system export apparatus subunit SctV,20200506,-
+331636,12242918,sctU,G5O_RS07460,G5O_0496,-,-,-,type III secretion system export apparatus subunit SctU,protein-coding,-,-,-,type III secretion system export apparatus subunit SctU,20210207,-
+331636,12242919,ychF,G5O_RS07465,G5O_0497,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210207,-
+331636,12242920,G5O_RS07470,G5O_RS07470,G5O_0498,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20210207,-
+331636,12242921,truB,G5O_RS07475,G5O_0499,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20201105,-
+331636,12242922,rbfA,G5O_RS07480,G5O_0500,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20201105,-
+331636,12242923,infB,G5O_RS07485,G5O_0501,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200506,-
+331636,12242924,nusA,G5O_RS07490,G5O_0502,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210207,-
+331636,12242925,rpsA,G5O_RS07495,G5O_0503,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200506,-
+331636,12242927,G5O_RS07505,G5O_RS07505,G5O_0505,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20210207,-
+331636,12242928,G5O_RS07510,G5O_RS07510,G5O_0506,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242929,G5O_RS07515,G5O_RS07515,G5O_0507,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200506,-
+331636,12242930,yidC,G5O_RS07520,G5O_0508,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200506,-
+331636,12242931,dnaA,G5O_RS07525,G5O_0509,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210207,-
+331636,12242933,G5O_RS07535,G5O_RS07535,G5O_0511,-,-,-,glycogen/starch/alpha-glucan phosphorylase,protein-coding,-,-,-,glycogen/starch/alpha-glucan phosphorylase,20210123,-
+331636,12242934,G5O_RS07540,G5O_RS07540,G5O_0512,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20200926,-
+331636,12242935,G5O_RS07545,G5O_RS07545,G5O_0513,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200506,-
+331636,12242936,pdhA,G5O_RS07550,G5O_0514,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20210207,-
+331636,12242937,G5O_RS07555,G5O_RS07555,G5O_0515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242938,lpxD,G5O_RS07560,G5O_0516,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20210207,-
+331636,12242939,G5O_RS07565,G5O_RS07565,G5O_0517,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20210207,-
+331636,12242940,bamA,G5O_RS07570,G5O_0518,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20210207,-
+331636,12242941,recR,G5O_RS07575,G5O_0519,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20201105,-
+331636,12242942,G5O_RS07580,G5O_RS07580,G5O_0520,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20200506,-
+331636,12242943,fabD,G5O_RS07585,G5O_0521,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20201105,-
+331636,12242944,fabG,G5O_RS07590,G5O_0522,-,-,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20210207,-
+331636,12242945,acpP,G5O_RS07595,G5O_0523,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210207,-
+331636,12242946,G5O_RS07600,G5O_RS07600,G5O_0524,-,-,-,cyclic nucleotide-binding domain-containing protein,protein-coding,-,-,-,cyclic nucleotide-binding domain-containing protein,20201105,-
+331636,12242947,G5O_RS07605,G5O_RS07605,G5O_0525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242948,G5O_RS07610,G5O_RS07610,G5O_0526,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242949,incB,G5O_RS07615,G5O_0527,-,-,-,inclusion membrane protein IncB,protein-coding,-,-,-,inclusion membrane protein IncB,20210123,-
+331636,12242950,G5O_RS07620,G5O_RS07620,G5O_0528,-,-,-,sodium-dependent transporter,protein-coding,-,-,-,sodium-dependent transporter,20200506,-
+331636,12242951,G5O_RS07625,G5O_RS07625,G5O_0529,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210207,-
+331636,12242952,G5O_RS07630,G5O_RS07630,G5O_0530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242953,G5O_RS07635,G5O_RS07635,G5O_0531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242954,mgtE,G5O_RS07640,G5O_0532,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200506,-
+331636,12242955,G5O_RS07645,G5O_RS07645,G5O_0533,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242956,G5O_RS07650,G5O_RS07650,G5O_0534,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20201105,-
+331636,12242957,G5O_RS07655,G5O_RS07655,G5O_0535,-,-,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20200506,-
+331636,12242958,G5O_RS07660,G5O_RS07660,G5O_0536,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242959,G5O_RS07665,G5O_RS07665,G5O_0537,-,-,-,methionine ABC transporter ATP-binding protein,protein-coding,-,-,-,methionine ABC transporter ATP-binding protein,20210207,-
+331636,12242960,G5O_RS07670,G5O_RS07670,G5O_0538,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200506,-
+331636,12242961,G5O_RS07675,G5O_RS07675,G5O_0539,-,-,-,methionine-binding protein,protein-coding,-,-,-,methionine-binding protein,20201105,-
+331636,12242962,G5O_RS07680,G5O_RS07680,G5O_0540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242963,G5O_RS07685,G5O_RS07685,G5O_0541,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210123,-
+331636,12242964,gyrB,G5O_RS07690,G5O_0542,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200506,-
+331636,12242965,gyrA,G5O_RS07695,G5O_0543,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20210207,-
+331636,12242966,G5O_RS07700,G5O_RS07700,G5O_0544,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200506,-
+331636,12242967,G5O_RS07705,G5O_RS07705,G5O_0545,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20201105,-
+331636,12242968,G5O_RS07710,G5O_RS07710,G5O_0546,-,-,-,hydrolase,protein-coding,-,-,-,hydrolase,20210123,-
+331636,12242969,G5O_RS07715,G5O_RS07715,G5O_0547,-,-,-,L-threonylcarbamoyladenylate synthase,protein-coding,-,-,-,L-threonylcarbamoyladenylate synthase,20210207,-
+331636,12242970,G5O_RS07720,G5O_RS07720,G5O_0548,-,-,-,membrane dipeptidase,protein-coding,-,-,-,membrane dipeptidase,20210417,-
+331636,12242971,G5O_RS07725,G5O_RS07725,G5O_0549,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20200926,-
+331636,12242972,G5O_RS07730,G5O_RS07730,G5O_0550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242973,G5O_RS07735,G5O_RS07735,G5O_0551,-,-,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20200506,-
+331636,12242974,G5O_RS07740,G5O_RS07740,G5O_0552,-,-,-,UbiA family prenyltransferase,protein-coding,-,-,-,UbiA family prenyltransferase,20210123,-
+331636,12242975,G5O_RS07745,G5O_RS07745,G5O_0553,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20200506,-
+331636,12242976,G5O_RS07750,G5O_RS07750,G5O_0554,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210207,-
+331636,12242977,G5O_RS07755,G5O_RS07755,G5O_0555,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242978,G5O_RS07760,G5O_RS07760,G5O_0556,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242979,surE,G5O_RS07765,G5O_0557,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20201105,-
+331636,12242980,G5O_RS07770,G5O_RS07770,G5O_0558,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,protein-coding,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,20210207,-
+331636,12242981,G5O_RS07775,G5O_RS07775,G5O_0559,-,-,-,SEC-C domain-containing protein,protein-coding,-,-,-,SEC-C domain-containing protein,20210207,-
+331636,12242982,G5O_RS07780,G5O_RS07780,G5O_0560,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242983,G5O_RS07785,G5O_RS07785,G5O_0561,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12242984,G5O_RS07790,G5O_RS07790,G5O_0562,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242985,G5O_RS07795,G5O_RS07795,G5O_0563,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242986,G5O_RS07800,G5O_RS07800,G5O_0564,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242987,rimO,G5O_RS07805,G5O_0565,-,-,-,30S ribosomal protein S12 methylthiotransferase RimO,protein-coding,-,-,-,30S ribosomal protein S12 methylthiotransferase RimO,20200506,-
+331636,12242988,rpmG,G5O_RS07810,G5O_0566,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200506,-
+331636,12242989,G5O_RS07815,G5O_RS07815,G5O_0567,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210207,-
+331636,12242990,G5O_RS07820,G5O_RS07820,G5O_0568,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201105,-
+331636,12242991,G5O_RS07825,G5O_RS07825,G5O_0569,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20200506,-
+331636,12242992,rplM,G5O_RS07830,G5O_0570,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201105,-
+331636,12242993,rpsI,G5O_RS07835,G5O_0571,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210207,-
+331636,12242994,G5O_RS07840,G5O_RS07840,G5O_0572,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20210207,-
+331636,12242995,G5O_RS07845,G5O_RS07845,G5O_0573,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20200506,-
+331636,12242996,G5O_RS07850,G5O_RS07850,G5O_0574,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12242997,G5O_RS07855,G5O_RS07855,G5O_0575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12242998,G5O_RS07860,G5O_RS07860,G5O_0576,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12242999,pgl,G5O_RS07865,G5O_0577,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210207,-
+331636,12243000,G5O_RS07870,G5O_RS07870,G5O_0578,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20200506,-
+331636,12243001,G5O_RS07875,G5O_RS07875,G5O_0579,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210417,-
+331636,12243002,tsaD,G5O_RS07880,G5O_0580,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200926,-
+331636,12243003,argR,G5O_RS07885,G5O_0581,-,-,-,arginine repressor,protein-coding,-,-,-,arginine repressor,20200926,-
+331636,12243004,G5O_RS07890,G5O_RS07890,G5O_0582,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20210207,-
+331636,12243005,G5O_RS07895,G5O_RS07895,G5O_0583,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20201105,-
+331636,12243006,G5O_RS07900,G5O_RS07900,G5O_0584,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243007,G5O_RS07905,G5O_RS07905,G5O_0585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243008,G5O_RS07910,G5O_RS07910,G5O_0586,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20201105,-
+331636,12243009,G5O_RS07915,G5O_RS07915,G5O_0587,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210207,-
+331636,12243010,G5O_RS07920,G5O_RS07920,G5O_0588,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201105,-
+331636,12243011,rpe,G5O_RS07925,G5O_0589,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210207,-
+331636,12243012,G5O_RS07930,G5O_RS07930,G5O_0590,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200506,-
+331636,12243013,accB,G5O_RS07935,G5O_0591,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20201105,-
+331636,12243014,accC,G5O_RS07940,G5O_0592,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20201105,-
+331636,12243015,G5O_RS07945,G5O_RS07945,G5O_0593,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20201105,-
+331636,12243016,G5O_RS07950,G5O_RS07950,G5O_0594,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20201105,-
+331636,12243017,G5O_RS07955,G5O_RS07955,G5O_0595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243018,G5O_RS07960,G5O_RS07960,G5O_0596,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20200506,-
+331636,12243019,G5O_RS07965,G5O_RS07965,G5O_0597,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243020,G5O_RS07970,G5O_RS07970,G5O_0598,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20200506,-
+331636,12243022,G5O_RS07980,G5O_RS07980,G5O_0600,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20210207,-
+331636,12243023,G5O_RS07985,G5O_RS07985,G5O_0601,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243024,G5O_RS07990,G5O_RS07990,G5O_0602,-,-,-,MAC/perforin domain protein,protein-coding,-,-,-,MAC/perforin domain protein,20200506,-
+331636,12243025,G5O_RS07995,G5O_RS07995,G5O_0603,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243026,G5O_RS08000,G5O_RS08000,G5O_0604,-,-,-,adenosine deaminase,protein-coding,-,-,-,adenosine deaminase,20200506,-
+331636,12243027,guaA,G5O_RS08005,G5O_0605,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20200506,-
+331636,12243028,G5O_RS08010,G5O_RS08010,G5O_0606,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20200506,-
+331636,12243029,G5O_RS08015,G5O_RS08015,G5O_0607,-,-,-,gamma-glutamylcyclotransferase,protein-coding,-,-,-,gamma-glutamylcyclotransferase,20210207,-
+331636,12243031,G5O_RS08025,G5O_RS08025,G5O_0609,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243033,G5O_RS08030,G5O_RS08030,G5O_0611,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243034,G5O_RS08035,G5O_RS08035,G5O_0612,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243035,G5O_RS08040,G5O_RS08040,G5O_0613,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20200506,-
+331636,12243036,G5O_RS08045,G5O_RS08045,G5O_0614,-,-,-,tRNA-guanosine(34) transglycosylase,protein-coding,-,-,-,tRNA-guanosine(34) transglycosylase,20201105,-
+331636,12243037,G5O_RS08050,G5O_RS08050,G5O_0615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243038,G5O_RS08055,G5O_RS08055,G5O_0616,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243039,G5O_RS08060,G5O_RS08060,G5O_0617,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243040,G5O_RS08065,G5O_RS08065,G5O_0618,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20200506,-
+331636,12243041,G5O_RS08070,G5O_RS08070,G5O_0619,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20201105,-
+331636,12243042,G5O_RS08075,G5O_RS08075,G5O_0620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,12243043,G5O_RS08080,G5O_RS08080,G5O_0621,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243044,G5O_RS08085,G5O_RS08085,G5O_0622,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201105,-
+331636,12243045,G5O_RS08090,G5O_RS08090,G5O_0623,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243046,G5O_RS08095,G5O_RS08095,G5O_0624,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243047,G5O_RS08100,G5O_RS08100,G5O_0625,-,-,-,5'-methylthioadenosine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine nucleosidase,20210207,-
+331636,12243048,G5O_RS08105,G5O_RS08105,G5O_0626,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243049,kdsB,G5O_RS08110,G5O_0627,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20201105,-
+331636,12243050,G5O_RS08115,G5O_RS08115,G5O_0628,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20210207,-
+331636,12243051,ruvX,G5O_RS08120,G5O_0629,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210207,-
+331636,12243055,G5O_RS08135,G5O_RS08135,G5O_0633,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210207,-
+331636,12243056,G5O_RS08140,G5O_RS08140,G5O_0634,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201105,-
+331636,12243057,G5O_RS08145,G5O_RS08145,G5O_0635,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200506,-
+331636,12243058,G5O_RS08150,G5O_RS08150,G5O_0636,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200506,-
+331636,12243059,G5O_RS08155,G5O_RS08155,G5O_0637,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201105,-
+331636,12243060,G5O_RS08160,G5O_RS08160,G5O_0638,-,-,-,DUF1186 domain-containing protein,protein-coding,-,-,-,DUF1186 domain-containing protein,20210123,-
+331636,12243061,G5O_RS08165,G5O_RS08165,G5O_0639,-,-,-,anion permease,protein-coding,-,-,-,anion permease,20210207,-
+331636,12243062,G5O_RS08170,G5O_RS08170,G5O_0640,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20200506,-
+331636,12243063,G5O_RS08175,G5O_RS08175,G5O_0641,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210207,-
+331636,12243064,G5O_RS08180,G5O_RS08180,G5O_0642,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20201105,-
+331636,12243065,G5O_RS08185,G5O_RS08185,G5O_0643,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243066,G5O_RS08190,G5O_RS08190,G5O_0644,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243067,waaA,G5O_RS08195,G5O_0645,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20210207,-
+331636,12243068,G5O_RS08200,G5O_RS08200,G5O_0646,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210207,-
+331636,12243069,G5O_RS08205,G5O_RS08205,G5O_0647,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200506,-
+331636,12243070,G5O_RS08210,G5O_RS08210,G5O_0648,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20201105,-
+331636,12243071,G5O_RS08215,G5O_RS08215,G5O_0649,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243072,ligA,G5O_RS08220,G5O_0650,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210207,-
+331636,12243073,G5O_RS08225,G5O_RS08225,G5O_0651,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20201105,-
+331636,12243074,G5O_RS08230,G5O_RS08230,G5O_0652,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243076,G5O_RS08235,G5O_RS08235,G5O_0654,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243077,G5O_RS08240,G5O_RS08240,G5O_0655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243078,G5O_RS08250,G5O_RS08250,G5O_0656,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243080,G5O_RS08265,G5O_RS08265,G5O_0660,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12243081,G5O_RS08270,G5O_RS08270,G5O_0661,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12243082,G5O_RS08275,G5O_RS08275,G5O_0662,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210207,-
+331636,12243083,G5O_RS08280,G5O_RS08280,G5O_0663,-,-,-,MCE family protein,protein-coding,-,-,-,MCE family protein,20210207,-
+331636,12243084,G5O_RS08285,G5O_RS08285,G5O_0664,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210207,-
+331636,12243085,G5O_RS08290,G5O_RS08290,G5O_0665,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210123,-
+331636,12243086,G5O_RS08295,G5O_RS08295,G5O_0666,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20200506,-
+331636,12243087,G5O_RS08300,G5O_RS08300,G5O_0667,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20210207,-
+331636,12243088,G5O_RS08305,G5O_RS08305,G5O_0668,-,-,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20201105,-
+331636,12243089,rpiA,G5O_RS08310,G5O_0669,-,-,-,ribose 5-phosphate isomerase A,protein-coding,-,-,-,ribose 5-phosphate isomerase A,20210207,-
+331636,12243091,G5O_RS08320,G5O_RS08320,G5O_0671,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20201105,-
+331636,12243092,G5O_RS08325,G5O_RS08325,G5O_0672,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20210207,-
+331636,12243093,G5O_RS08330,G5O_RS08330,G5O_0673,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20210207,-
+331636,12243094,G5O_RS08335,G5O_RS08335,G5O_0674,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200506,-
+331636,12243095,pepF,G5O_RS08340,G5O_0675,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210207,-
+331636,12243096,G5O_RS08345,G5O_RS08345,G5O_0676,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210207,-
+331636,12243097,groL,G5O_RS08350,G5O_0677,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200506,-
+331636,12243098,G5O_RS08355,G5O_RS08355,G5O_0678,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243099,G5O_RS08360,G5O_RS08360,G5O_0679,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243100,G5O_RS08365,G5O_RS08365,G5O_0680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243101,G5O_RS08370,G5O_RS08370,G5O_0681,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201109,-
+331636,12243102,G5O_RS08375,G5O_RS08375,G5O_0682,-,-,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20210207,-
+331636,12243104,G5O_RS08380,G5O_RS08380,G5O_0684,-,-,-,ATP-dependent RecD-like DNA helicase,protein-coding,-,-,-,ATP-dependent RecD-like DNA helicase,20200506,-
+331636,12243105,G5O_RS08385,G5O_RS08385,G5O_0685,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210207,-
+331636,12243106,G5O_RS08390,G5O_RS08390,G5O_0686,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243107,gmk,G5O_RS08395,G5O_0687,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210207,-
+331636,12243108,G5O_RS08400,G5O_RS08400,G5O_0688,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210207,-
+331636,12243109,rplS,G5O_RS08405,G5O_0689,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210207,-
+331636,12243110,trmD,G5O_RS08410,G5O_0690,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210207,-
+331636,12243111,G5O_RS08415,G5O_RS08415,G5O_0691,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210207,-
+331636,12243112,ffh,G5O_RS08420,G5O_0692,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210207,-
+331636,12243113,prmC,G5O_RS08425,G5O_0693,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210207,-
+331636,12243114,prfA,G5O_RS08430,G5O_0694,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201105,-
+331636,12243115,G5O_RS08435,G5O_RS08435,G5O_0695,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210207,-
+331636,12243116,G5O_RS08440,G5O_RS08440,G5O_0696,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243117,lepB,G5O_RS08445,G5O_0697,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20201105,-
+331636,12243118,G5O_RS08450,G5O_RS08450,G5O_0698,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200506,-
+331636,12243119,G5O_RS08455,G5O_RS08455,G5O_0699,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243120,G5O_RS08460,G5O_RS08460,G5O_0700,-,-,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20210207,-
+331636,12243121,G5O_RS08465,G5O_RS08465,G5O_0701,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243123,G5O_RS08470,G5O_RS08470,G5O_0703,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20201105,-
+331636,12243124,G5O_RS08475,G5O_RS08475,G5O_0704,-,-,-,exo-alpha-sialidase,protein-coding,-,-,-,exo-alpha-sialidase,20210123,-
+331636,12243125,cydB,G5O_RS08480,G5O_0705,-,-,-,cytochrome d ubiquinol oxidase subunit II,protein-coding,-,-,-,cytochrome d ubiquinol oxidase subunit II,20210207,-
+331636,12243126,G5O_RS08485,G5O_RS08485,G5O_0706,-,-,-,cytochrome ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome ubiquinol oxidase subunit I,20210207,-
+331636,12243127,G5O_RS08490,G5O_RS08490,G5O_0707,-,-,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20201105,-
+331636,12243128,G5O_RS08495,G5O_RS08495,G5O_0708,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243129,G5O_RS08500,G5O_RS08500,G5O_0709,-,-,-,lauroyl acyltransferase,protein-coding,-,-,-,lauroyl acyltransferase,20210123,-
+331636,12243130,pyk,G5O_RS08510,G5O_0710,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210207,-
+331636,12243131,uvrA,G5O_RS08515,G5O_0711,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210207,-
+331636,12243132,pknD,G5O_RS08520,G5O_0712,-,-,-,serine/threonine-protein kinase PknD,protein-coding,-,-,-,serine/threonine-protein kinase PknD,20210207,-
+331636,12243133,G5O_RS08525,G5O_RS08525,G5O_0713,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201105,-
+331636,12243134,G5O_RS08530,G5O_RS08530,G5O_0714,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243135,G5O_RS08535,G5O_RS08535,G5O_0715,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20200926,-
+331636,12243136,G5O_RS08540,G5O_RS08540,G5O_0716,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20201105,-
+331636,12243137,G5O_RS08545,G5O_RS08545,G5O_0717,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20200506,-
+331636,12243138,G5O_RS08550,G5O_RS08550,G5O_0718,-,-,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20201105,-
+331636,12243139,G5O_RS08555,G5O_RS08555,G5O_0719,-,-,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20210207,-
+331636,12243140,G5O_RS08560,G5O_RS08560,G5O_0720,-,-,-,DUF2764 family protein,protein-coding,-,-,-,DUF2764 family protein,20210123,-
+331636,12243141,G5O_RS08565,G5O_RS08565,G5O_0721,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20210207,-
+331636,12243142,G5O_RS08570,G5O_RS08570,G5O_0722,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243143,G5O_RS08575,G5O_RS08575,G5O_0723,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243144,tal,G5O_RS08580,G5O_0724,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20201105,-
+331636,12243145,rpoC,G5O_RS08585,G5O_0725,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20201105,-
+331636,12243146,rpoB,G5O_RS08590,G5O_0726,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210207,-
+331636,12243147,rplL,G5O_RS08595,G5O_0727,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200506,-
+331636,12243148,G5O_RS08600,G5O_RS08600,G5O_0728,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201105,-
+331636,12243149,G5O_RS08605,G5O_RS08605,G5O_0729,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210207,-
+331636,12243150,rplK,G5O_RS08610,G5O_0730,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200506,-
+331636,12243151,nusG,G5O_RS08615,G5O_0731,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20210207,-
+331636,12243152,secE,G5O_RS08620,G5O_0732,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200506,-
+331636,12243153,G5O_RS08625,G5O_RS08625,G5O_0733,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243154,tuf,G5O_RS08630,G5O_0734,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201105,-
+331636,12243155,G5O_RS08635,G5O_RS08635,G5O_0735,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243156,infA,G5O_RS08640,G5O_0736,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210207,-
+331636,12243157,G5O_RS08645,G5O_RS08645,G5O_0737,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200506,-
+331636,12243158,G5O_RS08650,G5O_RS08650,G5O_0738,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20210207,-
+331636,12243159,G5O_RS08655,G5O_RS08655,G5O_0739,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243160,G5O_RS08660,G5O_RS08660,G5O_0740,-,-,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20210207,-
+331636,12243161,G5O_RS08665,G5O_RS08665,G5O_0741,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243162,G5O_RS08675,G5O_RS08675,G5O_0742,-,-,-,DUF687 domain-containing protein,protein-coding,-,-,-,DUF687 domain-containing protein,20200506,-
+331636,12243164,G5O_RS08685,G5O_RS08685,G5O_0744,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20201105,-
+331636,12243165,G5O_RS08690,G5O_RS08690,G5O_0745,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210207,-
+331636,12243166,asd,G5O_RS08695,G5O_0746,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20201105,-
+331636,12243167,G5O_RS08700,G5O_RS08700,G5O_0747,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20210207,-
+331636,12243168,G5O_RS08705,G5O_RS08705,G5O_0748,-,-,-,phenylalanine 4-monooxygenase,protein-coding,-,-,-,phenylalanine 4-monooxygenase,20210207,-
+331636,12243169,G5O_RS08710,G5O_RS08710,G5O_0749,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20200506,-
+331636,12243170,G5O_RS08715,G5O_RS08715,G5O_0750,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+331636,12243171,G5O_RS08720,G5O_RS08720,G5O_0751,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20201105,-
+331636,12243172,bioB,G5O_RS08725,G5O_0752,-,-,-,biotin synthase BioB,protein-coding,-,-,-,biotin synthase BioB,20200506,-
+331636,12243173,G5O_RS08730,G5O_RS08730,G5O_0753,-,-,-,pyridoxal phosphate-dependent aminotransferase family protein,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase family protein,20200506,-
+331636,12243174,bioD,G5O_RS08735,G5O_0754,-,-,-,dethiobiotin synthase,protein-coding,-,-,-,dethiobiotin synthase,20210207,-
+331636,12243175,bioA,G5O_RS08740,G5O_0755,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,protein-coding,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,20210207,-
+331636,12243177,G5O_RS08745,G5O_RS08745,G5O_0757,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243178,aroA,G5O_RS08750,G5O_0758,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20200506,-
+331636,12243179,G5O_RS08755,G5O_RS08755,G5O_0759,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20200506,-
+331636,12243180,aroC,G5O_RS08760,G5O_0760,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20210207,-
+331636,12243181,G5O_RS08765,G5O_RS08765,G5O_0761,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20200506,-
+331636,12243182,G5O_RS08770,G5O_RS08770,G5O_0762,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,protein-coding,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,20210207,-
+331636,12243183,G5O_RS08775,G5O_RS08775,G5O_0763,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20200926,-
+331636,12243184,G5O_RS08780,G5O_RS08780,G5O_0764,-,-,-,carbohydrate porin,protein-coding,-,-,-,carbohydrate porin,20200506,-
+331636,12243185,G5O_RS08785,G5O_RS08785,G5O_0765,-,-,-,pyruvoyl-dependent arginine decarboxylase,protein-coding,-,-,-,pyruvoyl-dependent arginine decarboxylase,20210207,-
+331636,12243186,G5O_RS08790,G5O_RS08790,G5O_0766,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200506,-
+331636,12243187,G5O_RS08795,G5O_RS08795,G5O_0767,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210123,-
+331636,12243188,G5O_RS08800,G5O_RS08800,G5O_0768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243189,G5O_RS08805,G5O_RS08805,G5O_0769,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20200506,-
+331636,12243191,G5O_RS08815,G5O_RS08815,G5O_0771,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210123,-
+331636,12243192,G5O_RS08820,G5O_RS08820,G5O_0772,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20210207,-
+331636,12243193,G5O_RS08825,G5O_RS08825,G5O_0773,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243194,G5O_RS08830,G5O_RS08830,G5O_0774,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243195,G5O_RS08835,G5O_RS08835,G5O_0775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243196,G5O_RS08840,G5O_RS08840,G5O_0776,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20201105,-
+331636,12243197,G5O_RS08845,G5O_RS08845,G5O_0777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243198,G5O_RS08850,G5O_RS08850,G5O_0778,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243199,G5O_RS08855,G5O_RS08855,G5O_0779,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20210123,-
+331636,12243200,ispH,G5O_RS08860,G5O_0780,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20210207,-
+331636,12243201,G5O_RS08865,G5O_RS08865,G5O_0781,-,-,-,protease-like activity factor CPAF,protein-coding,-,-,-,protease-like activity factor CPAF,20210207,-
+331636,12243202,G5O_RS08870,G5O_RS08870,G5O_0782,-,-,-,sodium:proton antiporter,protein-coding,-,-,-,sodium:proton antiporter,20201105,-
+331636,12243203,G5O_RS08875,G5O_RS08875,G5O_0783,-,-,-,solute carrier family 26 protein,protein-coding,-,-,-,solute carrier family 26 protein,20210207,-
+331636,12243204,fumC,G5O_RS08880,G5O_0784,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20210207,-
+331636,12243205,G5O_RS08885,G5O_RS08885,G5O_0785,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20200506,-
+331636,12243207,G5O_RS08890,G5O_RS08890,G5O_0787,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20200506,-
+331636,12243208,G5O_RS08895,G5O_RS08895,G5O_0788,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20201105,-
+331636,12243209,G5O_RS08900,G5O_RS08900,G5O_0789,-,-,-,methionyl aminopeptidase,protein-coding,-,-,-,methionyl aminopeptidase,20201105,-
+331636,12243210,G5O_RS08905,G5O_RS08905,G5O_0790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,12243211,G5O_RS08910,G5O_RS08910,G5O_0791,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243212,G5O_RS08915,G5O_RS08915,G5O_0792,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20200506,-
+331636,12243213,G5O_RS08920,G5O_RS08920,G5O_0793,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20210207,-
+331636,12243215,G5O_RS08925,G5O_RS08925,G5O_0795,-,-,-,CT847 family type III secretion system effector,protein-coding,-,-,-,CT847 family type III secretion system effector,20200506,-
+331636,12243216,G5O_RS08930,G5O_RS08930,G5O_0796,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243217,G5O_RS08935,G5O_RS08935,G5O_0797,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,12243218,G5O_RS08940,G5O_RS08940,G5O_0798,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20200506,-
+331636,12243219,rpsO,G5O_RS08945,G5O_0799,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210207,-
+331636,12243220,pnp,G5O_RS08950,G5O_0800,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200506,-
+331636,12243221,ftsH,G5O_RS08955,G5O_0801,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201105,-
+331636,12243222,tilS,G5O_RS08960,G5O_0802,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200506,-
+331636,12243223,G5O_RS08965,G5O_RS08965,G5O_0803,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20200506,-
+331636,12243224,G5O_RS08970,G5O_RS08970,G5O_0804,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20201105,-
+331636,12243225,G5O_RS08975,G5O_RS08975,G5O_0805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243226,G5O_RS08980,G5O_RS08980,G5O_0806,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243227,pheS,G5O_RS08985,G5O_0807,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210207,-
+331636,12243228,rplT,G5O_RS08990,G5O_0808,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201105,-
+331636,12243229,rpmI,G5O_RS08995,G5O_0809,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20201105,-
+331636,12243230,G5O_RS09000,G5O_RS09000,G5O_0810,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200506,-
+331636,12243231,nusB,G5O_RS09005,G5O_0811,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210207,-
+331636,12243232,murB,G5O_RS09010,G5O_0812,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210207,-
+331636,12243233,G5O_RS09015,G5O_RS09015,G5O_0813,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20201105,-
+331636,12243234,G5O_RS09020,G5O_RS09020,G5O_0814,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243235,G5O_RS09025,G5O_RS09025,G5O_0816,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20210207,-
+331636,12243236,G5O_RS09030,G5O_RS09030,G5O_0817,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20210207,-
+331636,12243237,G5O_RS09035,G5O_RS09035,G5O_0818,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20200506,-
+331636,12243238,G5O_RS09040,G5O_RS09040,G5O_0819,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20200506,-
+331636,12243239,G5O_RS09045,G5O_RS09045,G5O_0820,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210207,-
+331636,12243240,G5O_RS09050,G5O_RS09050,G5O_0821,-,-,-,M20/M25/M40 family metallo-hydrolase,protein-coding,-,-,-,M20/M25/M40 family metallo-hydrolase,20200506,-
+331636,12243241,G5O_RS09055,G5O_RS09055,G5O_0822,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20200506,-
+331636,12243243,G5O_RS05180,G5O_RS05180,G5O_0016,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20210207,-
+331636,12243244,sucD,G5O_RS09060,G5O_0824,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20201105,-
+331636,12243245,sucC,G5O_RS09065,G5O_0825,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20200506,-
+331636,12243246,ftsY,G5O_RS09070,G5O_0826,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210207,-
+331636,12243247,G5O_RS09075,G5O_RS09075,G5O_0827,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20201105,-
+331636,12243248,G5O_RS09080,G5O_RS09080,G5O_0828,-,-,-,amino acid transporter,protein-coding,-,-,-,amino acid transporter,20201105,-
+331636,12243249,glmS,G5O_RS09085,G5O_0829,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20200506,-
+331636,12243250,G5O_RS09090,G5O_RS09090,G5O_0830,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20210207,-
+331636,12243251,pcnB,G5O_RS09095,G5O_0831,-,-,-,polynucleotide adenylyltransferase PcnB,protein-coding,-,-,-,polynucleotide adenylyltransferase PcnB,20200506,-
+331636,12243252,lpxB,G5O_RS09100,G5O_0832,-,-,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20200506,-
+331636,12243253,G5O_RS09105,G5O_RS09105,G5O_0833,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210417,-
+331636,12243254,G5O_RS09110,G5O_RS09110,G5O_0834,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+331636,12243255,G5O_RS09115,G5O_RS09115,G5O_0835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243256,G5O_RS09120,G5O_RS09120,G5O_0836,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201105,-
+331636,12243257,G5O_RS09125,G5O_RS09125,G5O_0837,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+331636,12243258,G5O_RS09130,G5O_RS09130,G5O_0838,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201026,-
+331636,12243259,G5O_RS09135,G5O_RS09135,G5O_0839,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210417,-
+331636,12243260,G5O_RS09140,G5O_RS09140,G5O_0840,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20210207,-
+331636,12243262,G5O_RS09150,G5O_RS09150,G5O_0842,-,-,-,DUF1548 domain-containing protein,protein-coding,-,-,-,DUF1548 domain-containing protein,20210207,-
+331636,12243263,G5O_RS09155,G5O_RS09155,G5O_0843,-,-,-,DUF1539 domain-containing protein,protein-coding,-,-,-,DUF1539 domain-containing protein,20210207,-
+331636,12243264,G5O_RS09160,G5O_RS09160,G5O_0844,-,-,-,DUF1548 domain-containing protein,protein-coding,-,-,-,DUF1548 domain-containing protein,20200506,-
+331636,12243265,G5O_RS09165,G5O_RS09165,G5O_0845,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200506,-
+331636,12243266,plsX,G5O_RS09170,G5O_0846,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210207,-
+331636,12243267,rpmF,G5O_RS09175,G5O_0847,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210207,-
+331636,12243268,G5O_RS09180,G5O_RS09180,G5O_0848,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243269,G5O_RS09185,G5O_RS09185,G5O_0849,-,-,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20201105,-
+331636,12243270,G5O_RS09190,G5O_RS09190,G5O_0850,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210207,-
+331636,12243271,G5O_RS09195,G5O_RS09195,G5O_0851,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210207,-
+331636,12243272,G5O_RS09200,G5O_RS09200,G5O_0852,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210207,-
+331636,12243273,rbp7,G5O_RS09205,G5O_0853,-,-,-,reticulate body protein Rbp-7,protein-coding,-,-,-,reticulate body protein Rbp-7,20210207,-
+331636,12243274,G5O_RS09210,G5O_RS09210,G5O_0854,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20201105,-
+331636,12243275,G5O_RS09215,G5O_RS09215,G5O_0855,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201105,-
+331636,12243276,G5O_RS09220,G5O_RS09220,G5O_0856,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201105,-
+331636,12243277,G5O_RS09225,G5O_RS09225,G5O_0857,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200506,-
+331636,12243278,G5O_RS09230,G5O_RS09230,G5O_0858,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210207,-
+331636,12243279,G5O_RS09235,G5O_RS09235,G5O_0859,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210207,-
+331636,12243280,G5O_RS09240,G5O_RS09240,G5O_0860,-,-,-,tRNA,tRNA,-,-,-,-,20201105,-
+331636,12243281,glgA,G5O_RS09245,G5O_0861,-,-,-,glycogen synthase GlgA,protein-coding,-,-,-,glycogen synthase GlgA,20200506,-
+331636,12243282,pgsA,G5O_RS09250,G5O_0862,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200506,-
+331636,12243284,G5O_RS09260,G5O_RS09260,G5O_0864,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201105,-
+331636,12243285,G5O_RS09265,G5O_RS09265,G5O_0865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243286,G5O_RS09270,G5O_RS09270,G5O_0866,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,12243287,G5O_RS09275,G5O_RS09275,G5O_0867,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243288,G5O_RS09280,G5O_RS09280,G5O_0868,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201109,-
+331636,12243289,hemB,G5O_RS05140,G5O_0008,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20200926,-
+331636,12243290,G5O_RS09285,G5O_RS09285,G5O_0869,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200506,-
+331636,12243291,mutS,G5O_RS09290,G5O_0870,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210207,-
+331636,12243292,uvrC,G5O_RS09295,G5O_0871,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20200926,-
+331636,12243294,G5O_RS09300,G5O_RS09300,G5O_0873,-,-,-,DUF4339 domain-containing protein,protein-coding,-,-,-,DUF4339 domain-containing protein,20210207,-
+331636,12243295,rpsN,G5O_RS09305,G5O_0874,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20210207,-
+331636,12243296,rpmJ,G5O_RS09310,G5O_0875,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210207,-
+331636,12243297,G5O_RS09315,G5O_RS09315,G5O_0876,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200926,-
+331636,12243298,G5O_RS09320,G5O_RS09320,G5O_0877,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210123,-
+331636,12243299,G5O_RS09325,G5O_RS09325,G5O_0878,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200926,-
+331636,12243300,lysS,G5O_RS09330,G5O_0879,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210207,-
+331636,12243301,G5O_RS09335,G5O_RS09335,G5O_0880,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210417,-
+331636,12243302,G5O_RS09340,G5O_RS09340,G5O_0881,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243303,priA,G5O_RS09345,G5O_0882,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20201105,-
+331636,12243304,G5O_RS09350,G5O_RS09350,G5O_0883,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20200926,-
+331636,12243305,G5O_RS09355,G5O_RS09355,G5O_0884,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210417,-
+331636,12243306,G5O_RS09360,G5O_RS09360,G5O_0885,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200506,-
+331636,12243307,G5O_RS09365,G5O_RS09365,G5O_0886,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,inositol monophosphatase family protein,20210207,-
+331636,12243308,G5O_RS09370,G5O_RS09370,G5O_0887,-,-,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20200506,-
+331636,12243309,G5O_RS09375,G5O_RS09375,G5O_0888,-,-,-,inorganic pyrophosphatase,protein-coding,-,-,-,inorganic pyrophosphatase,20200506,-
+331636,12243310,G5O_RS09380,G5O_RS09380,G5O_0889,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20200506,-
+331636,12243311,fabF,G5O_RS09385,G5O_0890,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20210207,-
+331636,12243312,rsfS,G5O_RS09390,G5O_0891,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20210207,-
+331636,12243313,G5O_RS09395,G5O_RS09395,G5O_0892,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,12243314,G5O_RS09400,G5O_RS09400,G5O_0893,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,12243315,G5O_RS09405,G5O_RS09405,G5O_0894,-,-,-,dehypoxanthine futalosine cyclase,protein-coding,-,-,-,dehypoxanthine futalosine cyclase,20210207,-
+331636,12243316,miaA,G5O_RS09410,G5O_0895,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210207,-
+331636,12243317,G5O_RS09415,G5O_RS09415,G5O_0896,-,-,-,STAS domain-containing protein,protein-coding,-,-,-,STAS domain-containing protein,20210207,-
+331636,12243319,G5O_RS09420,G5O_RS09420,G5O_0898,-,-,-,cell division protein FtsQ,protein-coding,-,-,-,cell division protein FtsQ,20210207,-
+331636,12243320,G5O_RS09425,G5O_RS09425,G5O_0899,-,-,-,divalent-cation tolerance protein CutA,protein-coding,-,-,-,divalent-cation tolerance protein CutA,20210207,-
+331636,12243321,G5O_RS09430,G5O_RS09430,G5O_0900,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20200506,-
+331636,12243322,G5O_RS09435,G5O_RS09435,G5O_0901,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,protein-coding,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,20210207,-
+331636,12243323,murG,G5O_RS09440,G5O_0902,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20200506,-
+331636,23672184,G5O_RS05500,G5O_RS05500,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672185,G5O_RS05545,G5O_RS05545,G5O_0091,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672188,G5O_RS06120,G5O_RS06120,G5O_0212,-,-,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20200506,-
+331636,23672190,G5O_RS06560,G5O_RS06560,G5O_0310,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200506,-
+331636,23672191,G5O_RS06565,G5O_RS06565,-,-,-,-,chemotaxis protein,protein-coding,-,-,-,chemotaxis protein,20200506,-
+331636,23672194,G5O_RS06610,G5O_RS06610,G5O_0321,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,23672196,G5O_RS06855,G5O_RS06855,G5O_0370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672197,G5O_RS06960,G5O_RS06960,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672198,G5O_RS06965,G5O_RS06965,-,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200506,-
+331636,23672199,G5O_RS07030,G5O_RS07030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672200,G5O_RS07140,G5O_RS07140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672203,trxB,G5O_RS07500,G5O_0504,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,23672205,G5O_RS08020,G5O_RS08020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+331636,23672206,G5O_RS08125,G5O_RS08125,-,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20200506,-
+331636,23672207,G5O_RS08130,G5O_RS08130,G5O_0632,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,23672208,G5O_RS08245,G5O_RS08245,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,23672212,G5O_RS08505,G5O_RS08505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672213,G5O_RS08670,G5O_RS08670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,23672214,G5O_RS08680,G5O_RS08680,G5O_0743,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,23672216,sctR,G5O_RS09840,G5O_0987,-,-,-,type III secretion system export apparatus subunit SctR,protein-coding,-,-,-,type III secretion system export apparatus subunit SctR,20200506,-
+331636,23672218,G5O_RS09985,G5O_RS09985,G5O_1016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,23672220,G5O_RS10250,G5O_RS10250,-,-,-,-,Virulence plasmid protein pGP4-D,protein-coding,-,-,-,Virulence plasmid protein pGP4-D,20201105,-
+331636,25394414,rnpB,G5O_RS10275,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201105,-
+331636,31513673,G5O_RS10280,G5O_RS10280,-,-,-,-,AURKAIP1/COX24 domain-containing protein,protein-coding,-,-,-,AURKAIP1/COX24 domain-containing protein,20200506,-
+331636,31513675,yidD,G5O_RS10290,G5O_0172,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20200506,-
+331636,31513678,G5O_RS10305,G5O_RS10305,G5O_0229,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200506,-
+331636,31513679,G5O_RS10310,G5O_RS10310,G5O_0267,-,-,-,small basic protein,protein-coding,-,-,-,small basic protein,20210207,-
+331636,31513682,G5O_RS10325,G5O_RS10325,G5O_0317,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,31513683,ffs,G5O_RS10330,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201105,-
+331636,31513685,mreD,G5O_RS10340,G5O_0485,-,-,-,rod shape-determining protein MreD,protein-coding,-,-,-,rod shape-determining protein MreD,20200506,-
+331636,31513687,G5O_RS10350,G5O_RS10350,G5O_0657,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,31513688,ssrA,G5O_RS10355,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201105,-
+331636,31513690,G5O_RS10365,G5O_RS10365,G5O_0786,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20210123,-
+331636,31513691,trmB,G5O_RS10370,-,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200506,-
+331636,31513693,G5O_RS10380,G5O_RS10380,G5O_0872,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,31513694,rpmH,G5O_RS10385,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200506,-
+331636,33927023,G5O_RS10395,G5O_RS10395,G5O_0268,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,33927024,G5O_RS10400,G5O_RS10400,-,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,33927025,ltuA,G5O_RS10405,G5O_0770,-,-,-,protein LtuA,protein-coding,-,-,-,protein LtuA,20210123,-
+331636,41351668,G5O_RS10410,G5O_RS10410,G5O_0599,-,-,-,pseudo,pseudo,-,-,-,-,20201105,-
+331636,54763562,G5O_RS10415,G5O_RS10415,G5O_0070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,54763563,G5O_RS10420,G5O_RS10420,G5O_0099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210207,-
+331636,54763564,G5O_RS10425,G5O_RS10425,G5O_0162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,54763565,G5O_RS10430,G5O_RS10430,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,54763566,G5O_RS10435,G5O_RS10435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200506,-
+331636,59558338,G5O_RS10440,G5O_RS10440,G5O_0252,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,59558339,G5O_RS10445,G5O_RS10445,G5O_0444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-
+331636,59558340,G5O_RS10450,G5O_RS10450,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201105,-

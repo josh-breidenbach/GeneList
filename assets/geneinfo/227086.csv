@@ -1,0 +1,427 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+227086,4352954,trnR(UCU),BinaPt03,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352955,trnY(GUA),BinaPt04,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352956,trnQ(UUG),BinaPt05,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352957,trnI(GAU)1,BinaPt06,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352958,trnA(UGC)1,BinaPt07,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352959,trnL(CAA)1,BinaPt08,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352960,trnE(UUC)1,BinaPt09,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352961,trnM(CAU)1,BinaPt10,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352962,rrn5S2,BinaPr05,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352963,rrnS2,BinaPr04,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352964,trnS(GCU),BinaPt27,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352965,trnMf,BinaPt28,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352966,trnP(UGG),BinaPt29,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352967,trnW(CCA),BinaPt30,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352968,trnF(GAA),BinaPt31,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4352969,rrnL,BinaPr01,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352970,rrn5s,BinaPr02,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352971,rrnS,BinaPr03,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352972,rrnL2,BinaPr06,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20110723,-
+227086,4352973,atpI,BinaPp01,-,-,-,-,ATP synthase CF0 A chain,protein-coding,-,-,-,-,20150626,-
+227086,4352974,atpH,BinaPp02,-,-,-,-,lipid-binding,protein-coding,-,-,-,lipid-binding|ATP synthase CF0 C chain,20150626,-
+227086,4352975,atpF,BinaPp03,-,-,-,-,ATP synthase CF0 B chain subunit I,protein-coding,-,-,-,-,20160910,-
+227086,4352976,atpA,BinaPp04,-,-,-,-,ATP synthase CF1 alpha chain,protein-coding,-,-,-,-,20160910,-
+227086,4352977,psbD,BinaPp05,-,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,-,20150626,-
+227086,4352978,psbC,BinaPp06,-,-,-,-,photosystem II 43 kDa protein,protein-coding,-,-,-,-,20150626,-
+227086,4352979,chlI,BinaPp07,-,-,-,-,Mg-protoporphyrin IX,protein-coding,-,-,-,-,20160910,-
+227086,4352980,petA,BinaPp08,-,-,-,-,apocytochrome F,protein-coding,-,-,-,-,20160910,-
+227086,4352981,petG,BinaPp09,-,-,-,-,cytochrome b6-F,protein-coding,-,-,-,-,20160910,-
+227086,4352982,rpl23,BinaPp10,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20160910,-
+227086,4352983,rpl2,BinaPp11,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20160910,-
+227086,4352984,rps19,BinaPp12,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+227086,4352985,rps3,BinaPp13,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20160910,-
+227086,4352986,rpl16,BinaPp14,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+227086,4352987,rpl14,BinaPp15,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+227086,4352988,rpl5,BinaPp16,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,-,20160910,-
+227086,4352989,rps18,BinaPp17,-,-,-,-,50S ribosomal protein S18,protein-coding,-,-,-,-,20160910,-
+227086,4352990,tufA,BinaPp18,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,-,20160910,-
+227086,4352991,rpl19,BinaPp19,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,-,20150626,-
+227086,4352992,ycf4,BinaPp20,-,-,-,-,Ycf4 protein,protein-coding,-,-,-,-,20160910,-
+227086,4352993,psaA,BinaPp21,-,-,-,-,P700 apoprotein subunit Ia,protein-coding,-,-,-,-,20150626,-
+227086,4352994,petB,BinaPp22,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160910,-
+227086,4352995,petD,BinaPp23,-,-,-,-,cytochrome b6-f complex subunit 4,protein-coding,-,-,-,-,20160910,-
+227086,4352996,psbM,BinaPp24,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20150725,-
+227086,4352997,psaC,BinaPp25,-,-,-,-,photosystem I iron-sulphur center,protein-coding,-,-,-,-,20160910,-
+227086,4352998,ycf1,BinaPp26,-,-,-,-,Ycf1 protein,protein-coding,-,-,-,-,20150725,-
+227086,4352999,psbm2,BinaPp27,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20150725,-
+227086,4353000,petD2,BinaPp28,-,-,-,-,cytochrome b6-f complex subunit 4,protein-coding,-,-,-,-,20160910,-
+227086,4353001,petB2,BinaPp29,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160910,-
+227086,4353002,psaA2,BinaPp30,-,-,-,-,P700 apoprotein subunit Ia,protein-coding,-,-,-,-,20150626,-
+227086,4353003,psbA,BinaPp31,-,-,-,-,photosystem II D1 protein,protein-coding,-,-,-,-,20160910,-
+227086,4353004,psaB,BinaPp32,-,-,-,-,P700 apoprotein subunit Ib,protein-coding,-,-,-,-,20160910,-
+227086,4353005,rpoA,BinaPp33,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353006,rps11,BinaPp34,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+227086,4353007,rpl36,BinaPp35,-,-,-,-,30S ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+227086,4353008,rps8,BinaPp36,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+227086,4353009,rpl20,BinaPp37,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20160910,-
+227086,4353010,rps4,BinaPp38,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20160910,-
+227086,4353011,rps7,BinaPp39,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20150626,-
+227086,4353012,rps12,BinaPp40,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+227086,4353013,psaJ,BinaPp41,-,-,-,-,photosystem I protein J,protein-coding,-,-,-,-,20150626,-
+227086,4353014,psbI,BinaPp42,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+227086,4353015,atpB,BinaPp43,-,-,-,-,ATP synthase CF1 beta chain,protein-coding,-,-,-,-,20160910,-
+227086,4353016,atpE,BinaPp44,-,-,-,-,ATP syntahse CF1 epsilon chain,protein-coding,-,-,-,-,20150626,-
+227086,4353017,ycf3,BinaPp45,-,-,-,-,Ycf3 protein,protein-coding,-,-,-,-,20160910,-
+227086,4353018,rbcL,BinaPp46,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20150626,-
+227086,4353019,clpP,BinaPp47,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353020,psbB,BinaPp48,-,-,-,-,photosystem II P680 chlorophyll A apoprotein,protein-coding,-,-,-,-,20160325,-
+227086,4353021,psbT,BinaPp49,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+227086,4353022,psbN,BinaPp50,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160910,-
+227086,4353023,psbH,BinaPp51,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20160325,-
+227086,4353024,rps2,BinaPp52,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20160910,-
+227086,4353025,rpoC2,BinaPp53,-,-,-,-,RNA polymerase beta prime subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353026,rpoC1,BinaPp54,-,-,-,-,RNA polymerase gamma subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353027,rpoB,BinaPp55,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353028,psbK,BinaPp56,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160910,-
+227086,4353029,rps14,BinaPp57,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+227086,4353030,psbJ,BinaPp58,-,-,-,-,photosystem I protein J,protein-coding,-,-,-,-,20150626,-
+227086,4353031,psbL,BinaPp59,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+227086,4353032,psbF,BinaPp60,-,-,-,-,cytochrome b559 b subunit,protein-coding,-,-,-,-,20150626,-
+227086,4353033,psbE,BinaPp61,-,-,-,-,cytochrome b559 a subunit,protein-coding,-,-,-,-,20160910,-
+227086,4353034,trnH(GUG),BinaPt01,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353035,trnL(UAA),BinaPt02,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353036,trnA(UGC)2,BinaPt19,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353037,trnI(GAU)2,BinaPt20,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353038,trnM(CAU)2,BinaPt21,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353039,trnT(UGU),BinaPt22,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353040,trnV(UAC),BinaPt23,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353041,trnG(UCC),BinaPt24,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353042,trnK(UUU),BinaPt25,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353043,trnC(GCA),BinaPt26,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353044,trnN(GUU),BinaPt11,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353045,trnR(ACG),BinaPt12,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353046,trnS(UGA),BinaPt13,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353047,trnD(GUC),BinaPt14,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353048,trnG(GCC),BinaPt15,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353049,trnL(UAG),BinaPt16,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353050,trnE(UUC)2,BinaPt17,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,4353051,trnL(CAA)2,BinaPt18,-,-,-,-,tRNA,tRNA,-,-,-,-,20110723,-
+227086,5788249,BNATCHR2109,BNATCHR2109,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788250,rps3a,BNATCHR236,-,-,2,-,ribosomal protein S3a,protein-coding,-,-,-,-,20160903,-
+227086,5788251,cdc5,BNATCHR260,-,-,2,-,CDC5,protein-coding,-,-,-,-,20160903,-
+227086,5788252,rps27,BNATCHR241,-,-,2,-,ribosomal protein S27,protein-coding,-,-,-,-,20150626,-
+227086,5788253,rps14,BNATCHR21,-,-,2,-,ribosomal protein S14,protein-coding,-,-,-,-,20160903,-
+227086,5788254,nop5,BNATCHR263,-,-,2,-,putative SAR DNA-binding protein-1,protein-coding,-,-,-,-,20160903,-
+227086,5788255,fet5,BNATCHR25,-,-,2,-,fet5 purine nucleotide binding protein,protein-coding,-,-,-,-,20160903,-
+227086,5788256,duf572,BNATCHR238,-,-,2,-,mRNA splicing factor,protein-coding,-,-,-,-,20160903,-
+227086,5788257,BNATCHR2r69,BNATCHR2r69,-,-,2,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788258,BNATCHR292,BNATCHR292,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788259,clpP-3,BNATCHR239,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Clp protease,20150626,-
+227086,5788260,BNATCHR2r70,BNATCHR2r70,-,-,2,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788261,BNATCHR3t50,BNATCHR3t50,-,-,3,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788262,BNATCHR3t51,BNATCHR3t51,-,-,3,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788263,BNATCHR358,BNATCHR358,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788264,rhelx,BNATCHR335,-,-,3,-,RNA helicase,protein-coding,-,-,-,-,20150711,-
+227086,5788265,rps6,BNATCHR336,-,-,3,-,ribosomal protein S6,protein-coding,-,-,-,-,20160903,-
+227086,5788266,BNATCHR383,BNATCHR383,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788267,cwc22,BNATCHR341,-,-,3,-,CWC22,protein-coding,-,-,-,-,20160903,-
+227086,5788268,BNATCHR369,BNATCHR369,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788269,BNATCHR370,BNATCHR370,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788270,prp38,BNATCHR326,-,-,3,-,mRNA splicing factor PRP38,protein-coding,-,-,-,-,20160903,-
+227086,5788271,rps8,BNATCHR327,-,-,3,-,ribosomal protein S8,protein-coding,-,-,-,-,20160903,-
+227086,5788272,prp6,BNATCHR32,-,-,3,-,mRNA splicing factor PRP6,protein-coding,-,-,-,-,20150626,-
+227086,5788273,BNATCHR385,BNATCHR385,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788274,prsA6,BNATCHR329,-,-,3,-,26S proteasome SU A6,protein-coding,-,-,-,-,20150626,-
+227086,5788275,rpa2,BNATCHR330,-,-,3,-,second-largest subunit of DNA-directed RNA polymerase I,protein-coding,-,-,-,-,20150626,-
+227086,5788276,BNATCHR376,BNATCHR376,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788277,BNATCHR374,BNATCHR374,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788278,mcf1.25,BNATCHR331,-,-,3,-,pre-mRNA cleavage factor I,protein-coding,-,-,-,-,20160903,-
+227086,5788279,BNATCHR375,BNATCHR375,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788280,rps5,BNATCHR333,-,-,3,-,ribosomal protein S5,protein-coding,-,-,-,-,20150626,-
+227086,5788281,BNATCHR377,BNATCHR377,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788282,rps2,BNATCHR320,-,-,3,-,ribosomal protein S2,protein-coding,-,-,-,-,20160903,-
+227086,5788283,eef2,BNATCHR321,-,-,3,-,translation elongation factor eEF2,protein-coding,-,-,-,-,20160903,-
+227086,5788284,rps10,BNATCHR322,-,-,3,-,ribosomal protein S10,protein-coding,-,-,-,-,20160903,-
+227086,5788285,sap62,BNATCHR323,-,-,3,-,mRNA splicing factor 3A subunit 2,protein-coding,-,-,-,-,20160903,-
+227086,5788286,rps0,BNATCHR324,-,-,3,-,ribosomal RNA S0,protein-coding,-,-,-,-,20160903,-
+227086,5788287,rpl17,BNATCHR332,-,-,3,-,ribosomal protein L17,protein-coding,-,-,-,-,20160903,-
+227086,5788288,BNATCHR378,BNATCHR378,-,-,3,-,histone 3,protein-coding,-,-,-,hypothetical protein,20160325,-
+227086,5788289,H3,BNATCHR334,-,-,3,-,histone 3,protein-coding,-,-,-,-,20160903,-
+227086,5788290,BNATCHR380,BNATCHR380,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150711,-
+227086,5788291,rps4,BNATCHR33,-,-,3,-,ribosomal protein S4,protein-coding,-,-,-,-,20160730,-
+227086,5788292,tfIId,BNATCHR325,-,-,3,-,TfIId,protein-coding,-,-,-,TfIId|TATA binding protein of transcription factor IID,20150626,-
+227086,5788293,BNATCHR367,BNATCHR367,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788294,BNATCHR371,BNATCHR371,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788295,BNATCHR372,BNATCHR372,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788296,BNATCHR382,BNATCHR382,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788297,BNATCHR3r55,BNATCHR3r55,-,-,3,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788298,BNATCHR3r56,BNATCHR3r56,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788299,BNATCHR359,BNATCHR359,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788300,BNATCHR360,BNATCHR360,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788301,BNATCHR365,BNATCHR365,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788302,BNATCHR366,BNATCHR366,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788303,p120,BNATCHR316,-,-,3,-,P120,protein-coding,-,-,-,-,20150626,-
+227086,5788304,BNATCHR368,BNATCHR368,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788305,rhel1,BNATCHR37,-,-,3,-,RNA helicase,protein-coding,-,-,-,-,20160903,-
+227086,5788306,BNATCHR361,BNATCHR361,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788307,BNATCHR362,BNATCHR362,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788308,mago,BNATCHR39,-,-,3,-,Mago,protein-coding,-,-,-,-,20160903,-
+227086,5788309,BNATCHR364,BNATCHR364,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788310,BNATCHR3r53,BNATCHR3r53,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788311,BNATCHR3r54,BNATCHR3r54,-,-,3,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788312,dnak,BNATCHR301,-,-,3,-,pseudo,pseudo,-,-,-,-,20110723,-
+227086,5788313,rpl24,BNATCHR315,-,-,3,-,ribosomal protein L24,protein-coding,-,-,-,-,20150626,-
+227086,5788314,BNATCHR363,BNATCHR363,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788315,snrnpSmD2,BNATCHR317,-,-,3,-,mRNA splicing factor,protein-coding,-,-,-,-,20160903,-
+227086,5788316,ppci,BNATCHR318,-,-,3,-,probable peptidyl prolyl cis-trans isomerase with RNA binding region,protein-coding,-,-,-,-,20160903,-
+227086,5788317,rps26,BNATCHR319,-,-,3,-,ribosomal protein S26,protein-coding,-,-,-,-,20160903,-
+227086,5788318,hsp70,BNATCHR346,-,-,3,-,chaperone HSP70,protein-coding,-,-,-,-,20160903,-
+227086,5788319,BNATCHR373,BNATCHR373,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788320,snrnpSmD3,BNATCHR310,-,-,3,-,spliceosomal snRNA-associated Sm core protein required for pre-mRNA splicing,protein-coding,-,-,-,-,20150626,-
+227086,5788321,ycf16,BNATCHR311,-,-,3,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Ycf16,20150626,-
+227086,5788322,ub2,BNATCHR312,-,-,3,-,UB2 probably involved in pre-mRNA splicing,protein-coding,-,-,-,-,20160903,-
+227086,5788323,tcpT,BNATCHR313,-,-,3,-,T-complex protein theta SU,protein-coding,-,-,-,-,20160903,-
+227086,5788324,snrpB,BNATCHR314,-,-,3,-,mRNA splicing factor,protein-coding,-,-,-,-,20160903,-
+227086,5788325,sfb1,BNATCHR38,-,-,3,-,mRNA splicing factor U2 snRNP subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788326,rbp8,BNATCHR36,-,-,3,-,DNA directed RNA polymerase subunit I/II/III,protein-coding,-,-,-,-,20150626,-
+227086,5788327,snRNPG,BNATCHR34,-,-,3,-,mRNA splicing factor snRNPG,protein-coding,-,-,-,-,20160903,-
+227086,5788328,rps13,BNATCHR31,-,-,3,-,ribosomal protein S13,protein-coding,-,-,-,-,20160820,-
+227086,5788329,U6,BNATCHR3s47,-,-,3,-,ncRNA,ncRNA,-,-,-,-,20110723,-
+227086,5788330,BNATCHR3t49,BNATCHR3t49,-,-,3,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788331,BNATCHR1104,BNATCHR1104,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788332,BNATCHR1103,BNATCHR1103,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788333,mce,BNATCHR165,-,-,1,-,MCE,protein-coding,-,-,-,-,20150626,-
+227086,5788334,BNATCHR198,BNATCHR198,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788335,BNATCHR1t73,BNATCHR1t73,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788336,BNATCHR197,BNATCHR197,-,-,1,-,ORF1-366,protein-coding,-,-,-,ORF1-366|hypothetical protein,20150626,-
+227086,5788337,rpl32,BNATCHR125,-,-,1,-,ribosomal protein L32,protein-coding,-,-,-,-,20160903,-
+227086,5788338,BNATCHR195,BNATCHR195,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788339,BNATCHR194,BNATCHR194,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788340,rbp10,BNATCHR146,-,-,1,-,RNA polymerase II subunit RPB10,protein-coding,-,-,-,-,20160903,-
+227086,5788341,BNATCHR190,BNATCHR190,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788342,snRNP-F,BNATCHR121,-,-,1,-,mRNA splicing factor snRNP-F,protein-coding,-,-,-,-,20160903,-
+227086,5788343,tfIIA-gamma,BNATCHR120,-,-,1,-,TFIIA subunit gamma,protein-coding,-,-,-,-,20160903,-
+227086,5788344,rps27A,BNATCHR119,-,-,1,-,ribosomal protein S27a,protein-coding,-,-,-,-,20160903,-
+227086,5788345,prp14,BNATCHR117,-,-,1,-,mRNA splicing factor PRP14,protein-coding,-,-,-,-,20160903,-
+227086,5788346,BNATCHR1t72,BNATCHR1t72,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788347,prp43-1,BNATCHR115,-,-,1,-,spliceosome dissassembly protein PRP43,protein-coding,-,-,-,-,20160903,-
+227086,5788348,eif6,BNATCHR114,-,-,1,-,elongation initiation factor 6,protein-coding,-,-,-,-,20160903,-
+227086,5788349,rad25,BNATCHR112,-,-,1,-,DNA repair and transcription protein,protein-coding,-,-,-,-,20160903,-
+227086,5788350,BNATCHR188,BNATCHR188,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788351,rpl37ae,BNATCHR111,-,-,1,-,ribosomal protein L37ae,protein-coding,-,-,-,-,20160903,-
+227086,5788352,BNATCHR187,BNATCHR187,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788353,BNATCHR1t71,BNATCHR1t71,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788354,rpl7A-1,BNATCHR17,-,-,1,-,ribosomal protein L7A,protein-coding,-,-,-,-,20160903,-
+227086,5788355,snRNPE-2,BNATCHR166,-,-,1,-,mRNA splicing protein,protein-coding,-,-,-,-,20150626,-
+227086,5788356,sf3b5,BNATCHR15,-,-,1,-,mRNA splicing factor 3b5,protein-coding,-,-,-,-,20160903,-
+227086,5788357,BNATCHR186,BNATCHR186,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788358,rpoF,BNATCHR14,-,-,1,-,RNA polymerase subunit F,protein-coding,-,-,-,-,20150626,-
+227086,5788359,BNATCHR183,BNATCHR183,-,-,1,-,nucleolar GTPase,protein-coding,-,-,-,-,20160903,-
+227086,5788360,rps12,BNATCHR124,-,-,1,-,ribosomal protein S12,protein-coding,-,-,-,-,20160903,-
+227086,5788361,rps15,BNATCHR123,-,-,1,-,ribosomal protein S15,protein-coding,-,-,-,-,20150626,-
+227086,5788362,rpl18A,BNATCHR122,-,-,1,-,ribosomal protein L18A,protein-coding,-,-,-,-,20150626,-
+227086,5788363,snRNPE-1,BNATCHR16,-,-,1,-,mRNA splicing factor snRNPE,protein-coding,-,-,-,-,20150626,-
+227086,5788364,BNATCHR193,BNATCHR193,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788365,BNATCHR191,BNATCHR191,-,-,1,-,mRNA splicing factor U5 snRNP,protein-coding,-,-,-,-,20160903,-
+227086,5788366,trf,BNATCHR164,-,-,1,-,putative transcription factor subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788367,eif-4A2,BNATCHR152,-,-,1,-,translation initiation factor 4A2,protein-coding,-,-,-,-,20160903,-
+227086,5788368,G10,BNATCHR141,-,-,1,-,G10 transcription factor,protein-coding,-,-,-,-,20160903,-
+227086,5788369,BNATCHR1111,BNATCHR1111,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788370,BNATCHR1t75,BNATCHR1t75,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788371,BNATCHR1101,BNATCHR1101,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788372,prp43-2,BNATCHR155,-,-,1,-,mRNA splicing factor PRP43,protein-coding,-,-,-,-,20160903,-
+227086,5788373,BNATCHR1119,BNATCHR1119,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788374,rbp11,BNATCHR160,-,-,1,-,RNA polymerase subunit 11,protein-coding,-,-,-,-,20160903,-
+227086,5788375,sbp1,BNATCHR162,-,-,1,-,Sbp1,protein-coding,-,-,-,-,20160903,-
+227086,5788376,prp8,BNATCHR131,-,-,1,-,mRNA splicing factor PRP8,protein-coding,-,-,-,-,20160903,-
+227086,5788377,rpl14A,BNATCHR154,-,-,1,-,ribosomal protein L14A,protein-coding,-,-,-,-,20160903,-
+227086,5788378,BNATCHR1120,BNATCHR1120,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788379,rpb1,BNATCHR151,-,-,1,-,largest subunit of RNA polymerase subunit II,protein-coding,-,-,-,-,20150711,-
+227086,5788380,rpl4A,BNATCHR161,-,-,1,-,ribosomal protein L4A,protein-coding,-,-,-,-,20160903,-
+227086,5788381,clpP-1,BNATCHR116,-,-,1,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Clp protease,20150626,-
+227086,5788382,rpa1,BNATCHR130,-,-,1,-,largest subunit of RNA polymerase I,protein-coding,-,-,-,-,20160903,-
+227086,5788383,BNATCHR1107,BNATCHR1107,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788384,BNATCHR295,BNATCHR295,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788385,BNATCHR2103,BNATCHR2103,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788386,BNATCHR2112,BNATCHR2112,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788387,sys1,BNATCHR254,-,-,2,-,seryl-tRNA synthetase,protein-coding,-,-,-,-,20160903,-
+227086,5788388,rpl7Ae,BNATCHR29,-,-,2,-,ribosomal protein L7Ae,protein-coding,-,-,-,-,20160903,-
+227086,5788389,rbp2,BNATCHR259,-,-,2,-,RBP2 DNA-directed RNA polymerase II second largest subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788390,BNATCHR2110,BNATCHR2110,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788391,secY,BNATCHR27,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|thylakoid preprotein translocase,20160903,-
+227086,5788392,BNATCHR2119,BNATCHR2119,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788393,BNATCHR289,BNATCHR289,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788394,BNATCHR2107,BNATCHR2107,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788395,BNATCHR2115,BNATCHR2115,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788396,nip7,BNATCHR265,-,-,2,-,nip7 putative ribosome biogenesis protein,protein-coding,-,-,-,-,20150626,-
+227086,5788397,BNATCHR2r68,BNATCHR2r68,-,-,2,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788398,tcpB,BNATCHR228,-,-,2,-,T-complex protein beta SU,protein-coding,-,-,-,-,20160903,-
+227086,5788399,cwf24,BNATCHR258,-,-,2,-,DNA binding protein,protein-coding,-,-,-,-,20160903,-
+227086,5788400,BNATCHR2118,BNATCHR2118,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788401,BNATCHR2s80,BNATCHR2s80,-,-,2,-,ncRNA,ncRNA,-,-,-,-,20100815,-
+227086,5788402,dnaK,BNATCHR201,-,-,2,-,pseudo,pseudo,-,-,-,-,20110723,-
+227086,5788403,rpl10,BNATCHR210,-,-,2,-,ribosomal protein L10,protein-coding,-,-,-,-,20150626,-
+227086,5788404,BNATCHR2r66,BNATCHR2r66,-,-,2,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788405,rnabp2,BNATCHR235,-,-,2,-,RNA binding protein,protein-coding,-,-,-,-,20150626,-
+227086,5788406,prp45,BNATCHR262,-,-,2,-,mRNA splicing factor PRP45,protein-coding,-,-,-,-,20160903,-
+227086,5788407,tcpG,BNATCHR230,-,-,2,-,T-complex protein gamma SU,protein-coding,-,-,-,-,20160903,-
+227086,5788408,gsp2,BNATCHR264,-,-,2,-,GTP-binding nuclear protein RAN,protein-coding,-,-,-,-,20150711,-
+227086,5788409,BNATCHR2108,BNATCHR2108,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788410,BNATCHR2113,BNATCHR2113,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788411,BNATCHR2111,BNATCHR2111,-,-,2,-,mRNA splicing factor,protein-coding,-,-,-,-,20160903,-
+227086,5788412,BNATCHR1115,BNATCHR1115,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788413,BNATCHR1t74,BNATCHR1t74,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788414,snRNPSm-D,BNATCHR128,-,-,1,-,mRNA splicing factor snRNP Sm-D,protein-coding,-,-,-,-,20160903,-
+227086,5788415,rps17E,BNATCHR129,-,-,1,-,ribosomal protein S17E,protein-coding,-,-,-,-,20160903,-
+227086,5788416,BNATCHR1102,BNATCHR1102,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788417,BNATCHR1100,BNATCHR1100,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788418,prp22,BNATCHR118,-,-,1,-,mRNA splicing factor PRP22,protein-coding,-,-,-,-,20160903,-
+227086,5788419,ORF1-606,BNATCHR113,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788420,rpl7A-2,BNATCHR110,-,-,1,-,ribosomal protein L7A,protein-coding,-,-,-,-,20160903,-
+227086,5788421,BNATCHR1r78,BNATCHR1r78,-,-,1,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788422,rpl13A,BNATCHR13,-,-,1,-,ribosomal protein L13A,protein-coding,-,-,-,-,20160903,-
+227086,5788423,BNATCHR1110,BNATCHR1110,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788424,BNATCHR182,BNATCHR182,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788425,dip2,BNATCHR18,-,-,1,-,nucleolar rRNA processing protein,protein-coding,-,-,-,-,20160903,-
+227086,5788426,BNATCHR1t70,BNATCHR1t70,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788427,BNATCHR196,BNATCHR196,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788428,BNATCHR1s81,BNATCHR1s81,-,-,1,-,ncRNA,ncRNA,-,-,-,-,20100815,-
+227086,5788429,BNATCHR184,BNATCHR184,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788430,BNATCHR1r68,BNATCHR1r68,-,-,1,-,5.8S ribosomal RNA gene,rRNA,-,-,-,-,20100815,-
+227086,5788431,rps7,BNATCHR127,-,-,1,-,ribosomal protein S7,protein-coding,-,-,-,-,20160903,-
+227086,5788432,BNATCHR1r67,BNATCHR1r67,-,-,1,-,small subunit ribosomal RNA gene,rRNA,-,-,-,-,20100815,-
+227086,5788433,tcpD,BNATCHR12,-,-,1,-,T-complex protein delta SU,protein-coding,-,-,-,-,20160903,-
+227086,5788434,dnaK,BNATCHR102,-,-,1,-,pseudo,pseudo,-,-,-,-,20110723,-
+227086,5788435,tatC,BNATCHR134,-,-,1,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|thylakoid protein translocator TATC,20150626,-
+227086,5788436,BNATCHR1118,BNATCHR1118,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788437,rps9,BNATCHR159,-,-,1,-,ribosomal protein S9,protein-coding,-,-,-,-,20160903,-
+227086,5788438,BNATCHR1r80,BNATCHR1r80,-,-,1,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788439,BNATCHR1t77,BNATCHR1t77,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788440,BNATCHR1117,BNATCHR1117,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788441,rps3,BNATCHR157,-,-,1,-,ribosomal protein S3,protein-coding,-,-,-,-,20160903,-
+227086,5788442,BNATCHR1r79,BNATCHR1r79,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788443,rpc1,BNATCHR156,-,-,1,-,DNA-directed RNA polymerase III largest subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788444,BNATCHR1114,BNATCHR1114,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788445,BNATCHR1113,BNATCHR1113,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788446,dib1,BNATCHR158,-,-,1,-,mRNA splicing factor DIB1,protein-coding,-,-,-,-,20160903,-
+227086,5788447,pcna,BNATCHR153,-,-,1,-,proliferating cell nuclear antigen,protein-coding,-,-,-,-,20150626,-
+227086,5788448,BNATCHR1112,BNATCHR1112,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788449,BNATCHR1116,BNATCHR1116,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788450,dbp1,BNATCHR148,-,-,1,-,ATP-dependent RNA helicase,protein-coding,-,-,-,-,20160903,-
+227086,5788451,cpn60,BNATCHR138,-,-,1,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|chaperone CPN60,20160903,-
+227086,5788452,BNATCHR192,BNATCHR192,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788453,rnabp1,BNATCHR147,-,-,1,-,RNA binding protein,protein-coding,-,-,-,-,20160903,-
+227086,5788454,BNATCHR199,BNATCHR199,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788455,rpl15,BNATCHR145,-,-,1,-,ribosomal protein L15,protein-coding,-,-,-,-,20160903,-
+227086,5788456,rpoB,BNATCHR144,-,-,1,-,RNA polymerase subunit B,protein-coding,-,-,-,-,20150626,-
+227086,5788457,ysh1,BNATCHR143,-,-,1,-,Ysh1 3' mRNA end processing factor,protein-coding,-,-,-,-,20160903,-
+227086,5788458,BNATCHR1109,BNATCHR1109,-,-,1,-,nucleolar protein fibrillarin,protein-coding,-,-,-,-,20160903,-
+227086,5788459,hsp90,BNATCHR140,-,-,1,-,chaperone HSP90,protein-coding,-,-,-,-,20160903,-
+227086,5788460,eif-4C,BNATCHR149,-,-,1,-,Translation elongation initiation factor 4C,protein-coding,-,-,-,-,20160903,-
+227086,5788461,rpl9,BNATCHR150,-,-,1,-,ribosomal protein L9,protein-coding,-,-,-,-,20160903,-
+227086,5788462,rpl11,BNATCHR142,-,-,1,-,ribosomal protein L11,protein-coding,-,-,-,-,20160903,-
+227086,5788463,BNATCHR1108,BNATCHR1108,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788464,BNATCHR189,BNATCHR189,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788465,tcpE,BNATCHR19,-,-,1,-,T-complex protein epsilon-SU,protein-coding,-,-,-,-,20160903,-
+227086,5788466,BNATCHR1t76,BNATCHR1t76,-,-,1,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788467,prp19,BNATCHR139,-,-,1,-,mRNA splicing protein PRP19,protein-coding,-,-,-,-,20160903,-
+227086,5788468,BNATCHR185,BNATCHR185,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788469,BNATCHR1106,BNATCHR1106,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788470,sf3b4,BNATCHR11,-,-,1,-,mRNA splicing factor 3b4,protein-coding,-,-,-,-,20160903,-
+227086,5788471,dnaK,BNATCHR101,-,-,1,-,pseudo,pseudo,-,-,-,-,20110723,-
+227086,5788472,BNATCHR1r69,BNATCHR1r69,-,-,1,-,large subunit ribosomal RNA gene,rRNA,-,-,-,-,20100815,-
+227086,5788473,sf3a3,BNATCHR126,-,-,1,-,mRNA splicing factor 3a subunit 3,protein-coding,-,-,-,-,20160903,-
+227086,5788474,rpl30,BNATCHR137,-,-,1,-,ribosomal protein L30,protein-coding,-,-,-,-,20160903,-
+227086,5788475,BNATCHR1105,BNATCHR1105,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788476,sufB,BNATCHR136,-,-,1,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|SufB involved in iron sulfur protein biogenesis,20160903,-
+227086,5788477,clpP-2,BNATCHR135,-,-,1,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Clp protease,20160325,-
+227086,5788478,mrp1,BNATCHR133,-,-,1,-,Morn repeat protein 1,protein-coding,-,-,-,-,20150711,-
+227086,5788479,rpl8,BNATCHR132,-,-,1,-,ribosomal protein L8,protein-coding,-,-,-,-,20160903,-
+227086,5788480,nbp1,BNATCHR163,-,-,1,-,NBP1 putative nucleotide binding protein,protein-coding,-,-,-,-,20160903,-
+227086,5788481,msl1,BNATCHR344,-,-,3,-,U2 snRNA-associated protein,protein-coding,-,-,-,-,20160903,-
+227086,5788482,BNATCHR384,BNATCHR384,-,-,3,-,conserved ATPase,protein-coding,-,-,-,-,20160903,-
+227086,5788483,clpP-6,BNATCHR348,-,-,3,-,putative plastid protein,protein-coding,-,-,-,putative plastid protein|Clp protease,20160903,-
+227086,5788484,BNATCHR3r57,BNATCHR3r57,-,-,3,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788485,clpP-5,BNATCHR35,-,-,3,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Clp protease,20150626,-
+227086,5788486,BNATCHR3r52,BNATCHR3r52,-,-,3,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788487,rpl5,BNATCHR340,-,-,3,-,ribosomal protein L5,protein-coding,-,-,-,-,20150626,-
+227086,5788488,eif2G,BNATCHR328,-,-,3,-,eukaryotic translation initiation factor gamma SU,protein-coding,-,-,-,-,20160903,-
+227086,5788489,rps28,BNATCHR342,-,-,3,-,ribosomal protein S28,protein-coding,-,-,-,-,20160903,-
+227086,5788490,rpl19,BNATCHR343,-,-,3,-,ribosomal protein L19,protein-coding,-,-,-,-,20160903,-
+227086,5788491,tic20,BNATCHR345,-,-,3,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|translocan of the chloroplast inner membrane protein,20160903,-
+227086,5788492,BNATCHR379,BNATCHR379,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788493,BNATCHR381,BNATCHR381,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788494,clf1,BNATCHR337,-,-,3,-,cell division control protein,protein-coding,-,-,-,-,20160903,-
+227086,5788495,rfc4,BNATCHR338,-,-,3,-,DNA replication factor C,protein-coding,-,-,-,-,20150626,-
+227086,5788496,cdc28,BNATCHR339,-,-,3,-,RNA helicase,protein-coding,-,-,-,RNA helicase|putative pre-mRNA splicing factor,20160903,-
+227086,5788497,prp17,BNATCHR249,-,-,2,-,mRNA splicing factor PRP17,protein-coding,-,-,-,-,20160903,-
+227086,5788498,ClpC,BNATCHR256,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|ATP binding subunit of Clp protease,20160903,-
+227086,5788499,BNATCHR2t76,BNATCHR2t76,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788500,dnaK,BNATCHR22,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|chaperone DnaK,20160903,-
+227086,5788501,rpl27,BNATCHR247,-,-,2,-,ribosomal protein L27,protein-coding,-,-,-,-,20160903,-
+227086,5788502,clpP-4,BNATCHR244,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|Clp Protease copy 4,20150626,-
+227086,5788503,BNATCHR2r67,BNATCHR2r67,-,-,2,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788504,prl1,BNATCHR250,-,-,2,-,mRNA splicing factor PRL1,protein-coding,-,-,-,-,20160903,-
+227086,5788505,BNATCHR2105,BNATCHR2105,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788506,rpabc5,BNATCHR255,-,-,2,-,"RNA polymerase I, II and III",protein-coding,-,-,-,-,20160903,-
+227086,5788507,u2AF,BNATCHR248,-,-,2,-,mRNA splicing factor U2 associated factor,protein-coding,-,-,-,-,20160903,-
+227086,5788508,BNATCHR2104,BNATCHR2104,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788509,rps18,BNATCHR246,-,-,2,-,ribosomal protein S18,protein-coding,-,-,-,-,20160903,-
+227086,5788510,rpl23,BNATCHR245,-,-,2,-,ribosomal protein L23,protein-coding,-,-,-,-,20160903,-
+227086,5788511,BNATCHR2102,BNATCHR2102,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150711,-
+227086,5788512,u5snRNP,BNATCHR243,-,-,2,-,mRNA splicing factor U5 snRNP,protein-coding,-,-,-,-,20160903,-
+227086,5788513,sig2,BNATCHR242,-,-,2,-,putative plastid targeted protein,protein-coding,-,-,-,putative plastid targeted protein|sigma 2 transcription factor,20160903,-
+227086,5788514,BNATCHR2101,BNATCHR2101,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788515,BNATCHR2t77,BNATCHR2t77,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788516,BNATCHR2100,BNATCHR2100,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788517,BNATCHR298,BNATCHR298,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788518,sf3bA,BNATCHR237,-,-,2,-,mRNA splicing factor 3bA,protein-coding,-,-,-,-,20160903,-
+227086,5788519,BNATCHR297,BNATCHR297,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788520,BNATCHR296,BNATCHR296,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+227086,5788521,BNATCHR294,BNATCHR294,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788522,cdc48-like,BNATCHR233,-,-,2,-,CDC48-like protein,protein-coding,-,-,-,-,20160903,-
+227086,5788523,rpc2,BNATCHR232,-,-,2,-,second-largest subunit of RNA polymerase III,protein-coding,-,-,-,-,20160903,-
+227086,5788524,rpl2,BNATCHR231,-,-,2,-,ribosomal protein L2,protein-coding,-,-,-,-,20160903,-
+227086,5788525,BNATCHR293,BNATCHR293,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788526,mak16,BNATCHR229,-,-,2,-,cell cycle and ribosome biogenesis protein,protein-coding,-,-,-,-,20160903,-
+227086,5788527,BNATCHR291,BNATCHR291,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788528,mcm2,BNATCHR227,-,-,2,-,chromosome maintenance protein,protein-coding,-,-,-,-,20160903,-
+227086,5788529,BNATCHR290,BNATCHR290,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788530,rpc10,BNATCHR225,-,-,2,-,"DNA-directed RNA polymerases I, II and III",protein-coding,-,-,-,-,20160903,-
+227086,5788531,BNATCHR2t75,BNATCHR2t75,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788532,hub1,BNATCHR223,-,-,2,-,ubiquitin-like protein modifier,protein-coding,-,-,-,-,20160903,-
+227086,5788533,rpabc6,BNATCHR222,-,-,2,-,"DNA-directed RNA polymerase I, II and III",protein-coding,-,-,-,-,20150626,-
+227086,5788534,rds3,BNATCHR221,-,-,2,-,mRNA splicing factor 3B associated 14 kDa protein,protein-coding,-,-,-,-,20160903,-
+227086,5788535,rpl10e,BNATCHR220,-,-,2,-,ribosomal protein L10e,protein-coding,-,-,-,-,20160903,-
+227086,5788536,tcpH,BNATCHR219,-,-,2,-,T-complex protein eta SU,protein-coding,-,-,-,-,20160903,-
+227086,5788537,BNATCHR2t74,BNATCHR2t74,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788538,rpb3,BNATCHR217,-,-,2,-,DNA-directed RNA polymerase II third largest subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788539,rpa5,BNATCHR216,-,-,2,-,DNA-directed RNA polymerase I 40KDa subunit,protein-coding,-,-,-,-,20160903,-
+227086,5788540,rpl44,BNATCHR215,-,-,2,-,ribosomal protein L44,protein-coding,-,-,-,-,20160903,-
+227086,5788541,sf3b,BNATCHR214,-,-,2,-,splicing factor 3b,protein-coding,-,-,-,-,20160903,-
+227086,5788542,imp4,BNATCHR213,-,-,2,-,U3 snoRNP protein IMP4,protein-coding,-,-,-,-,20160903,-
+227086,5788543,rps8,BNATCHR212,-,-,2,-,truncated at 5' end compared to other eukaryotes,protein-coding,-,-,-,truncated at 5' end compared to other eukaryotes|ribosomal protein S8,20160903,-
+227086,5788544,rps16,BNATCHR211,-,-,2,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+227086,5788545,BNATCHR2t72,BNATCHR2t72,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788546,BNATCHR285,BNATCHR285,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788547,rps23,BNATCHR28,-,-,2,-,ribosomal protein S23,protein-coding,-,-,-,-,20150626,-
+227086,5788548,murL,BNATCHR26,-,-,2,-,UDP-N-acetylmuramoylalanyl-D-glutamate--2 6-diaminopimelate ligase,protein-coding,-,-,-,-,20160903,-
+227086,5788549,BNATCHR284,BNATCHR284,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788550,BNATCHR282,BNATCHR282,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788551,BNATCHR283,BNATCHR283,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788552,rpl3,BNATCHR23,-,-,2,-,ribosomal protein L3,protein-coding,-,-,-,-,20160903,-
+227086,5788553,tfIIB,BNATCHR24,-,-,2,-,transcription initiation factor IIB,protein-coding,-,-,-,-,20150626,-
+227086,5788554,BNATCHR286,BNATCHR286,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788555,rps30,BNATCHR253,-,-,2,-,ribosomal protein S30,protein-coding,-,-,-,-,20160903,-
+227086,5788556,BNATCHR2117,BNATCHR2117,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788557,rpl10a,BNATCHR224,-,-,2,-,ribosomal protein 10a,protein-coding,-,-,-,-,20160903,-
+227086,5788558,BNATCHR2116,BNATCHR2116,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788559,BNATCHR2t78,BNATCHR2t78,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788560,BNATCHR2114,BNATCHR2114,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788561,mcm4,BNATCHR251,-,-,2,-,chromosome maintenance protein MCM4,protein-coding,-,-,-,-,20150711,-
+227086,5788562,BNATCHR299,BNATCHR299,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788563,BNATCHR287,BNATCHR287,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788564,rad51,BNATCHR257,-,-,2,-,DNA recombination and repair protein,protein-coding,-,-,-,-,20160903,-
+227086,5788565,BNATCHR2r71,BNATCHR2r71,-,-,2,-,small subunit ribsomal RNA,rRNA,-,-,-,-,20100815,-
+227086,5788566,rpl27a,BNATCHR218,-,-,2,-,ribosomal protein L27a,protein-coding,-,-,-,-,20160903,-
+227086,5788567,BNATCHR2t73,BNATCHR2t73,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788568,rpl34,BNATCHR261,-,-,2,-,ribosomal protein L34,protein-coding,-,-,-,-,20160903,-
+227086,5788569,myb1,BNATCHR240,-,-,2,-,regulator of transcription that contains myb domains,protein-coding,-,-,-,-,20160903,-
+227086,5788570,rps11,BNATCHR226,-,-,2,-,ribosomal protein S11,protein-coding,-,-,-,-,20160903,-
+227086,5788571,BNATCHR288,BNATCHR288,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+227086,5788572,BNATCHR2s81,BNATCHR2s81,-,-,2,-,ncRNA,ncRNA,-,-,-,-,20100815,-
+227086,5788573,H4,BNATCHR234,-,-,2,-,histone H4,protein-coding,-,-,-,-,20160903,-
+227086,5788574,BNATCHR2106,BNATCHR2106,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160903,-
+227086,5788575,BNATCHR2t79,BNATCHR2t79,-,-,2,-,tRNA,tRNA,-,-,-,-,20100815,-
+227086,5788576,toc75,BNATCHR252,-,-,2,-,outer plastid envelop protein 75,protein-coding,-,-,-,-,20160903,-

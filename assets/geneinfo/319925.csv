@@ -1,0 +1,138 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+319925,17098026,trnA-UGC,Q710_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098027,orf42,Q710_p001,-,-,-,-,putative pvs-trna-like protein,protein-coding,-,-,-,-,20150626,-
+319925,17098028,trnM-CAU,Q710_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098029,trnF-GAA,Q710_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098030,clpP,Q710_p076,-,-,-,-,clpP-like protease,protein-coding,-,-,-,-,20160910,-
+319925,17098031,ycf15,Q710_p025,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20170906,-
+319925,17098032,trnI-CAU,Q710_t040,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098033,trnN-GUU,Q710_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098034,rpoC1,Q710_p083,-,-,-,-,DNA-directed RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098035,trnC-GCA,Q710_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098036,rpoB,Q710_p084,-,-,-,-,DNA-directed RNA polymerase beta subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098037,ycf3,Q710_p075,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170906,-
+319925,17098038,rpl32,Q710_p016,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+319925,17098039,rps7,Q710_p041,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+319925,17098040,trnL-CAA,Q710_t039,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098041,psaA,Q710_p082,-,-,-,-,photosystem I P700 chlorophyll A apoprotein A1,protein-coding,-,-,-,-,20150626,-
+319925,17098042,orf188,Q710_p047,-,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20160910,-
+319925,17098043,psbB,Q710_p073,-,-,-,-,photosystem II p680 chlorophyll A apoprotein CP-47,protein-coding,-,-,-,-,20160325,-
+319925,17098044,trnS-GGA,Q710_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098045,psaI,Q710_p006,-,-,-,-,photosystem I reaction center subunit VIII,protein-coding,-,-,-,-,20150626,-
+319925,17098046,psbT,Q710_p009,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160325,-
+319925,17098047,atpF,Q710_p062,-,-,-,-,ATP synthase CF0 B subunit I,protein-coding,-,-,-,-,20160910,-
+319925,17098048,psaC,Q710_p022,-,-,-,-,photosystem I iron-sulfur center subunit VII,protein-coding,-,-,-,-,20170906,-
+319925,17098049,rps16,Q710_p059,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+319925,17098050,rbcL,Q710_p064,-,-,-,-,ribulose bisphosphate carboxylase large subunit,protein-coding,-,-,-,-,20210424,-
+319925,17098051,rpl23,Q710_p029,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+319925,17098052,trnS-UGA,Q710_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098053,rps3,Q710_p049,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+319925,17098054,accD,Q710_p074,-,-,-,-,acetyl-CoA carboxylase carboxyl transferase beta,protein-coding,-,-,-,-,20150626,-
+319925,17098055,petD,Q710_p061,-,-,-,-,cytochrome b6-f complex subunit IV,protein-coding,-,-,-,-,20160910,-
+319925,17098056,atpH,Q710_p023,-,-,-,-,ATP synthase CF0 C subunit III,protein-coding,-,-,-,-,20150626,-
+319925,17098057,rpoA,Q710_p056,-,-,-,-,DNA-directed RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+319925,17098058,rps15,Q710_p030,-,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,-,20160820,-
+319925,17098059,trnQ-UUG,Q710_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098060,trnK-UUU,Q710_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098061,psbC,Q710_p066,-,-,-,-,photosystem II 44 kDa apoprotein P6,protein-coding,-,-,-,-,20150626,-
+319925,17098062,rps11,Q710_p039,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+319925,17098063,ndhD,Q710_p071,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20170908,-
+319925,17098064,psbJ,Q710_p012,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+319925,17098065,rps2,Q710_p052,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,-,20160820,-
+319925,17098066,rpoC2,Q710_p085,-,-,-,-,DNA-directed RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20160910,-
+319925,17098067,ndhC,Q710_p035,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+319925,17098068,petA,Q710_p054,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+319925,17098069,rpl22,Q710_p042,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,-,20160820,-
+319925,17098070,trnT-UGU,Q710_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098071,ndhH,Q710_p060,-,-,-,-,NADH-plastoquinone oxidoreductase 49 kDa subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098072,cemA,Q710_p050,-,-,-,-,chloroplast envelope protein,protein-coding,-,-,-,-,20150626,-
+319925,17098073,ndhI,Q710_p044,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170908,-
+319925,17098074,ndhA,Q710_p077,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+319925,17098075,ndhK,Q710_p051,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160910,-
+319925,17098076,rps19,Q710_p027,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+319925,17098077,trnV-GAC,Q710_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098078,ndhB,Q710_p079,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170906,-
+319925,17098079,rpl36,Q710_p007,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+319925,17098080,rpl14,Q710_p036,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+319925,17098081,atpB,Q710_p069,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098082,rpl16,Q710_p065,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,-,20160910,-
+319925,17098083,trnV-UAC,Q710_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098084,rps12,Q710_p089,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160910,-
+319925,17098085,rpl20,Q710_p034,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,-,20160820,-
+319925,17098086,ndhG,Q710_p045,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20160325,-
+319925,17098087,psaB,Q710_p078,-,-,-,-,photosystem I P700 chlorophyll A apoprotein A2,protein-coding,-,-,-,-,20150626,-
+319925,17098088,ycf1,Q710_p086,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160910,-
+319925,17098089,trnI-CAU,Q710_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098090,rpl2,Q710_p067,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+319925,17098091,rpl2,Q710_p068,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+319925,17098092,petL,Q710_p004,-,-,-,-,cytochrome b6-f complex subunit VI ycf7,protein-coding,-,-,-,-,20160820,-
+319925,17098093,trnL-CAA,Q710_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098094,ycf2,Q710_p087,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160910,-
+319925,17098095,atpI,Q710_p053,-,-,-,-,ATP synthase CF0 A subunit IV,protein-coding,-,-,-,-,20150626,-
+319925,17098096,ndhE,Q710_p032,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+319925,17098097,rps8,Q710_p038,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+319925,17098098,petB,Q710_p063,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+319925,17098099,rps18,Q710_p033,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+319925,17098100,trnG-UCC,Q710_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098101,psbI,Q710_p015,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+319925,17098102,trnL-UAG,Q710_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098103,trnS-GCU,Q710_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098104,rpl33,Q710_p019,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+319925,17098105,psbH,Q710_p020,-,-,-,-,photosystem II 10 kDa phosphoprotein,protein-coding,-,-,-,-,20150626,-
+319925,17098106,psbL,Q710_p010,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160325,-
+319925,17098107,psbE,Q710_p026,-,-,-,-,cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098108,psbF,Q710_p011,-,-,-,-,cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+319925,17098109,psbN,Q710_p013,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160325,-
+319925,17098110,trnW-CCA,Q710_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098111,infA,Q710_p021,-,-,-,-,initiation factor 1,protein-coding,-,-,-,-,20160820,-
+319925,17098112,ycf4,Q710_p046,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+319925,17098113,trnD-GUC,Q710_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098114,petG,Q710_p008,-,-,-,-,cytochrome b6-f complex subunit V,protein-coding,-,-,-,-,20210212,-
+319925,17098115,psbM,Q710_p005,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+319925,17098116,rrn4.5,Q710_r007,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098117,rrn5,Q710_r003,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098118,trnA-UGC,Q710_t038,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098119,trnI-GAU,Q710_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098120,trnV-GAC,Q710_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098121,trnR-ACG,Q710_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098122,rrn4.5,Q710_r001,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098123,rrn23,Q710_r006,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098124,matK,Q710_p070,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160910,-
+319925,17098125,trnI,Q710_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098126,lhbA,Q710_p018,-,-,-,-,LhbA,protein-coding,-,-,-,-,20160325,-
+319925,17098127,trnG,Q710_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098128,rps4,Q710_p048,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+319925,17098129,trnE-UUC,Q710_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098130,petN,Q710_p003,-,-,-,-,cytochrome b6-f complex subunit VIII ycf6,protein-coding,-,-,-,-,20150626,-
+319925,17098131,ndhB,Q710_p080,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170906,-
+319925,17098132,ycf15,Q710_p024,-,-,-,-,Ycf15,protein-coding,-,-,-,-,20170906,-
+319925,17098133,ccsA,Q710_p055,-,-,-,-,cytochrome c biogenesis protein ycf5,protein-coding,-,-,-,-,20150626,-
+319925,17098134,psbA,Q710_p058,-,-,-,-,photosystem II Qb protein D1,protein-coding,-,-,-,-,20160716,-
+319925,17098135,trnY-GUA,Q710_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098136,rps14,Q710_p031,-,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+319925,17098137,trnP-GGG,Q710_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098138,trnP-UGG,Q710_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098139,ycf2,Q710_p088,-,-,-,-,Ycf2,protein-coding,-,-,-,-,20160910,-
+319925,17098140,trnN-GUU,Q710_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098141,rrn5,Q710_r002,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098142,rpl23,Q710_p028,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+319925,17098143,trnT-GGU,Q710_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098144,ndhJ,Q710_p043,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+319925,17098145,trnL-UAA,Q710_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098146,psbK,Q710_p017,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160325,-
+319925,17098147,atpA,Q710_p072,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098148,trnM-CAU,Q710_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098149,trnT-GGU,Q710_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098150,rrn16,Q710_r005,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098151,ndhF,Q710_p081,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20170906,-
+319925,17098152,trnR-ACG,Q710_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098153,rps7,Q710_p040,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,-,20160813,-
+319925,17098154,trnfM-CAU,Q710_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098155,psaJ,Q710_p014,-,-,-,-,photosystem I reaction center subunit IX,protein-coding,-,-,-,-,20150626,-
+319925,17098156,psbD,Q710_p057,-,-,-,-,photosystem II D2 protein,protein-coding,-,-,-,-,20160924,-
+319925,17098157,atpE,Q710_p037,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+319925,17098158,trnH-GUG,Q710_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098159,rrn23,Q710_r008,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098160,trnR-UCU,Q710_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20131028,-
+319925,17098161,rrn16,Q710_r004,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131028,-
+319925,17098162,rps12,Q710_p002,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,-,20160910,-

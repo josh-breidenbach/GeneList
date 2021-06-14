@@ -1,0 +1,192 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+362788,27910031,trnH-GUG,A8G36_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910032,trnK-UUU,A8G36_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910033,matK,A8G36_gp082,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+362788,27910034,rps16,A8G36_gp081,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210327,-
+362788,27910035,trnQ-UUG,A8G36_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910036,psbI,A8G36_gp079,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200911,-
+362788,27910037,trnS-GCU,A8G36_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910038,trnR-UCU,A8G36_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910039,atpF,A8G36_gp077,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20210327,-
+362788,27910040,atpH,A8G36_gp076,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200911,-
+362788,27910041,atpI,A8G36_gp075,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200911,-
+362788,27910042,rps2,A8G36_gp074,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210327,-
+362788,27910043,rpoC2,A8G36_gp073,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20210327,-
+362788,27910044,rpoC1,A8G36_gp072,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20210327,-
+362788,27910045,rpoB,A8G36_gp071,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20210327,-
+362788,27910046,trnC-GCA,A8G36_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910047,psbM,A8G36_gp069,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200911,-
+362788,27910048,trnD-GUC,A8G36_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910049,psbC,A8G36_gp067,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200911,-
+362788,27910050,trnS-UGA,A8G36_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910051,trnG-GCC,A8G36_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910052,psaB,A8G36_gp064,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20210327,-
+362788,27910053,psaA,A8G36_gp063,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20200911,-
+362788,27910054,ycf3,A8G36_gp062,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200911,-
+362788,27910055,trnS-GGA,A8G36_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910056,trnT-UGU,A8G36_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910057,trnF-GAA,A8G36_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910058,ndhK,A8G36_gp059,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20210327,-
+362788,27910059,ndhC,A8G36_gp058,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20200911,-
+362788,27910060,trnV-UAC,A8G36_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910061,trnM-CAU,A8G36_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910062,atpB,A8G36_gp056,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20210327,-
+362788,27910063,rbcL,A8G36_gp055,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210327,-
+362788,27910064,accD,A8G36_gp054,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20210327,-
+362788,27910065,psaI,A8G36_gp053,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200911,-
+362788,27910066,ycf4,A8G36_gp052,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20210327,-
+362788,27910067,cemA,A8G36_gp051,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20200911,-
+362788,27910068,petA,A8G36_gp050,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20210327,-
+362788,27910069,psbJ,A8G36_gp049,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200911,-
+362788,27910070,psbL,A8G36_gp048,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200911,-
+362788,27910071,psbF,A8G36_gp047,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200911,-
+362788,27910072,psbE,A8G36_gp046,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200911,-
+362788,27910073,petL,A8G36_gp045,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20210327,-
+362788,27910074,petG,A8G36_gp044,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+362788,27910075,trnW-CCA,A8G36_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910076,rpl33,A8G36_gp042,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+362788,27910077,rps18,A8G36_gp041,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+362788,27910078,rpl20,A8G36_gp040,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+362788,27910079,clpP,A8G36_gp038,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20210327,-
+362788,27910080,psbB,A8G36_gp037,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20210327,-
+362788,27910081,psbT,A8G36_gp036,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20200911,-
+362788,27910082,psbN,A8G36_gp035,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200911,-
+362788,27910083,psbH,A8G36_gp034,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200911,-
+362788,27910084,petB,A8G36_gp033,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200911,-
+362788,27910085,petD,A8G36_gp032,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20200911,-
+362788,27910086,rpoA,A8G36_gp031,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20210327,-
+362788,27910087,rps11,A8G36_gp030,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+362788,27910088,rpl36,A8G36_gp029,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+362788,27910089,rps8,A8G36_gp028,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+362788,27910090,rpl14,A8G36_gp027,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+362788,27910091,rpl16,A8G36_gp026,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+362788,27910092,rps3,A8G36_gp025,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210327,-
+362788,27910093,rps19,A8G36_gp024,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210327,-
+362788,27910094,rpl2,A8G36_gp023,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+362788,27910095,rpl23,A8G36_gp022,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210327,-
+362788,27910096,trnI-CAU,A8G36_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910097,trnL-CAA,A8G36_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910098,rps7,A8G36_gp019,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+362788,27910099,trnV-GAC,A8G36_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910100,trnA-UGC,A8G36_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910101,A8G36_gr007,A8G36_gr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910102,ndhF,A8G36_gp017,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20210327,-
+362788,27910103,rpl32,A8G36_gp016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+362788,27910104,trnL-UAG,A8G36_gt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910105,ndhD,A8G36_gp014,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20210327,-
+362788,27910106,psaC,A8G36_gp013,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200911,-
+362788,27910107,ndhE,A8G36_gp012,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200911,-
+362788,27910108,ndhG,A8G36_gp011,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200911,-
+362788,27910109,ndhI,A8G36_gp010,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20210327,-
+362788,27910110,ndhA,A8G36_gp009,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20210327,-
+362788,27910111,ndhH,A8G36_gp008,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20210327,-
+362788,27910112,rps15,A8G36_gp007,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200911,-
+362788,27910113,ycf1,A8G36_gp006,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210327,-
+362788,27910114,trnN-GUU,A8G36_gt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910115,trnI-GAU,A8G36_gt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910116,A8G36_gr001,A8G36_gr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910117,ndhB,A8G36_gp004,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+362788,27910118,trnL-CAA,A8G36_gt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910119,trnI-CAU,A8G36_gt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910120,rps12,A8G36_gp039,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210327,-
+362788,27910121,rpl2,A8G36_gp001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+362788,27910122,psbA,A8G36_gp083,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200911,-
+362788,27910123,psbK,A8G36_gp080,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20210327,-
+362788,27910124,trnG-UCC,A8G36_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910125,atpA,A8G36_gp078,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20210327,-
+362788,27910126,petN,A8G36_gp070,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200911,-
+362788,27910127,trnY-GUA,A8G36_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910128,trnE-UUC,A8G36_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910129,trnT-GGU,A8G36_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910130,psbD,A8G36_gp068,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200911,-
+362788,27910131,psbZ,A8G36_gp066,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200911,-
+362788,27910132,trnfM-CAU,A8G36_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910133,rps14,A8G36_gp065,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+362788,27910134,rps4,A8G36_gp061,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+362788,27910135,trnL-UAA,A8G36_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910136,ndhJ,A8G36_gp060,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200911,-
+362788,27910137,atpE,A8G36_gp057,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20200911,-
+362788,27910138,trnP-UGG,A8G36_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910139,psaJ,A8G36_gp043,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200911,-
+362788,27910140,ycf2,A8G36_gp021,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+362788,27910141,ndhB,A8G36_gp020,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+362788,27910142,A8G36_gr008,A8G36_gr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910143,trnN-GUU,A8G36_gt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910144,ycf1,A8G36_gp018,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20210327,-
+362788,27910145,ccsA,A8G36_gp015,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20210327,-
+362788,27910146,trnR-ACG,A8G36_gt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910147,A8G36_gr004,A8G36_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910148,rps7,A8G36_gp005,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+362788,27910149,ycf2,A8G36_gp003,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20210327,-
+362788,27910150,rpl23,A8G36_gp002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210327,-
+362788,27910151,trnI-GAU,A8G36_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910152,A8G36_gr006,A8G36_gr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910153,A8G36_gr005,A8G36_gr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910154,trnR-ACG,A8G36_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910155,A8G36_gr003,A8G36_gr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910156,A8G36_gr002,A8G36_gr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,27910157,trnA-UGC,A8G36_gt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,27910158,trnV-GAC,A8G36_gt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500453,mttB,DXF20_mgp02,-,-,MT,-,transport membrane protein,protein-coding,-,-,-,transport membrane protein,20200911,-
+362788,37500454,trnH-gug,DXF20_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500455,atp1,DXF20_mgp35,-,-,MT,-,ATPase subunit 1,protein-coding,-,-,-,ATPase subunit 1,20200911,-
+362788,37500456,nad7,DXF20_mgp34,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20200926,-
+362788,37500457,nad6,DXF20_mgp33,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20200911,-
+362788,37500458,rps3,DXF20_mgp32,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+362788,37500459,rpl16,DXF20_mgp31,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+362788,37500460,trnE-uuc,DXF20_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500461,trnK-uuu,DXF20_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500462,nad3,DXF20_mgp28,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20200911,-
+362788,37500463,rps12,DXF20_mgp27,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+362788,37500464,nad9,DXF20_mgp26,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20200911,-
+362788,37500465,trnW-cca,DXF20_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500466,ccmFC,DXF20_mgp24,-,-,MT,-,cytochrome c biogenesis FC,protein-coding,-,-,-,cytochrome c biogenesis FC,20200911,-
+362788,37500467,nad1,DXF20_mgp20,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210129,-
+362788,37500468,rps1,DXF20_mgp22,-,-,MT,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20200911,-
+362788,37500469,cob,DXF20_mgp21,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20200911,-
+362788,37500470,trnfM-cau,DXF20_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500471,rp15,DXF20_mgp18,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20200911,-
+362788,37500472,cox1,DXF20_mgp17,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20200911,-
+362788,37500473,rps10,DXF20_mgp16,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20200911,-
+362788,37500474,trnK-uuu,DXF20_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500475,nad4,DXF20_mgp14,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20200911,-
+362788,37500476,trnD-guc,DXF20_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500477,trnN-guu,DXF20_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500478,atp9,DXF20_mgp11,-,-,MT,-,ATPase subunit 9,protein-coding,-,-,-,ATPase subunit 9,20200911,-
+362788,37500479,atp6,DXF20_mgp10,-,-,MT,-,ATPase subunit 6,protein-coding,-,-,-,ATPase subunit 6,20200911,-
+362788,37500480,trnP-ugg,DXF20_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500481,nad4L,DXF20_mgp08,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200911,-
+362788,37500482,matR,DXF20_mgp07,-,-,MT,-,maturase,protein-coding,-,-,-,maturase,20200911,-
+362788,37500483,trnV-gac,DXF20_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500484,trnP-ugg,DXF20_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500485,nad4L,DXF20_mgp04,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20200911,-
+362788,37500486,cox3,DXF20_mgp03,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200911,-
+362788,37500487,rrn5,DXF20_mgr02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,37500488,rps4,DXF20_mgp01,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+362788,37500489,nad2,DXF20_mgp30,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20200911,-
+362788,37500490,trnY-gua,DXF20_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500491,nad5,DXF20_mgp23,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200911,-
+362788,37500492,ccmB,DXF20_mgp29,-,-,MT,-,cytochrome c biogenesis B,protein-coding,-,-,-,cytochrome c biogenesis B,20200911,-
+362788,37500493,rrn26,DXF20_mgr05,-,-,MT,-,26S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,37500494,rrn18,DXF20_mgr04,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,37500495,rrn5,DXF20_mgr03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,37500496,cox3,DXF20_mgp25,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200911,-
+362788,37500497,rps14,DXF20_mgp19,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210129,-
+362788,37500498,ccmC,DXF20_mgp15,-,-,MT,-,cytochrome c biogenesis C,protein-coding,-,-,-,cytochrome c biogenesis C,20200911,-
+362788,37500499,atp8,DXF20_mgp13,-,-,MT,-,ATPase subunit 8,protein-coding,-,-,-,ATPase subunit 8,20200911,-
+362788,37500500,trnH-gug,DXF20_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500501,ccmFn,DXF20_mgp12,-,-,MT,-,cytochrome c biogenesis FN,protein-coding,-,-,-,cytochrome c biogenesis FN,20200911,-
+362788,37500502,trnF-gaa,DXF20_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500503,trnS-gcu,DXF20_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500504,atp4,DXF20_mgp09,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20200911,-
+362788,37500505,trnM-cau,DXF20_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500506,trnQ-uug,DXF20_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500507,trnC-gca,DXF20_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500508,trnG-gcc,DXF20_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500509,trnI-cau,DXF20_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500510,cox2,DXF20_mgp06,-,-,MT,-,cytochrome oxidase subunit 2,protein-coding,-,-,-,cytochrome oxidase subunit 2,20200911,-
+362788,37500511,trnF-gaa,DXF20_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500512,trnS-gcu,DXF20_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200911,-
+362788,37500513,atp4,DXF20_mgp05,-,-,MT,-,ATPase subunit 4,protein-coding,-,-,-,ATPase subunit 4,20200911,-
+362788,37500514,rrn18,DXF20_mgr01,-,-,MT,-,18S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+362788,37500515,nad5,DXF20_mgp36,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20200911,-

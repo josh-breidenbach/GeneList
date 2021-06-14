@@ -1,0 +1,97 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+215771,38462362,atpE,EI133_pgp31,-,-,-,-,ATPase epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20200911,-
+215771,38462363,mat2,EI133_pgp58,-,-,-,-,maturase,protein-coding,-,-,-,maturase,20200911,-
+215771,38462364,trnF(GAA),EI133_pgt22,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462365,trnC(GCA),EI133_pgt13,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462366,psaA,EI133_pgp08,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20200911,-
+215771,38462367,rpoB,EI133_pgp46,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+215771,38462368,trnA(UGC),EI133_pgt28,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462369,rrn5,EI133_pgr05,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+215771,38462370,ycf13,EI133_pgp57,-,-,-,-,ycf13,protein-coding,-,-,-,ycf13,20200911,-
+215771,38462371,rpoC1,EI133_pgp47,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20200911,-
+215771,38462372,ycf65,EI133_pgp55,-,-,-,-,putative ribosomal protein 3,protein-coding,-,-,-,putative ribosomal protein 3,20200911,-
+215771,38462373,petB,EI133_pgp29,-,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200911,-
+215771,38462374,trnG(UCC),EI133_pgt16,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462375,rps18,EI133_pgp40,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+215771,38462376,trnI(GAU),EI133_pgt01,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462377,trnL(UAA),EI133_pgt03,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462378,psbC,EI133_pgp59,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200911,-
+215771,38462379,psbD,EI133_pgp60,-,-,-,-,photosystem II core 34 kDa protein,protein-coding,-,-,-,photosystem II core 34 kDa protein,20200911,-
+215771,38462380,ycf4,EI133_pgp01,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20200911,-
+215771,38462381,psaC,EI133_pgp34,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200911,-
+215771,38462382,psbN,EI133_pgp28,-,-,-,-,photosystem II N protein,protein-coding,-,-,-,photosystem II N protein,20200911,-
+215771,38462383,atpH,EI133_pgp43,-,-,-,-,ATPase subunit III,protein-coding,-,-,-,ATPase subunit III,20200911,-
+215771,38462384,atpB,EI133_pgp30,-,-,-,-,ATPase beta subunit,protein-coding,-,-,-,ATPase beta subunit,20200911,-
+215771,38462385,atpI,EI133_pgp44,-,-,-,-,ATPase subunit IV,protein-coding,-,-,-,ATPase subunit IV,20200911,-
+215771,38462386,rps3,EI133_pgp18,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+215771,38462387,atpA,EI133_pgp41,-,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20200911,-
+215771,38462388,rpl5,EI133_pgp21,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20200911,-
+215771,38462389,trnL(CAA),EI133_pgt25,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462390,rpl23,EI133_pgp14,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+215771,38462391,rpl22,EI133_pgp17,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200911,-
+215771,38462392,psbZ,EI133_pgp37,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,photosystem II protein Z,20200911,-
+215771,38462393,trnY(GUA),EI133_pgt08,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462394,rps4,EI133_pgp50,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+215771,38462395,rpl16,EI133_pgp19,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+215771,38462396,rpl14,EI133_pgp20,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+215771,38462397,psbB,EI133_pgp25,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200911,-
+215771,38462398,trnM(CAU),EI133_pgt21,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462399,rps9,EI133_pgp35,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20200911,-
+215771,38462400,tufA,EI133_pgp02,-,-,-,-,translation elongation factor EF-Tu,protein-coding,-,-,-,translation elongation factor EF-Tu,20200911,-
+215771,38462401,psaJ,EI133_pgp39,-,-,-,-,photosystem I 5 kDa protein,protein-coding,-,-,-,photosystem I 5 kDa protein,20200911,-
+215771,38462402,psbJ,EI133_pgp13,-,-,-,-,photosystem II J protein,protein-coding,-,-,-,photosystem II J protein,20200911,-
+215771,38462403,rpl2,EI133_pgp15,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+215771,38462404,rps7,EI133_pgp03,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+215771,38462405,rps19,EI133_pgp16,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+215771,38462406,rps12,EI133_pgp04,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+215771,38462407,trnR(UCU),EI133_pgt04,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462408,atpF,EI133_pgp42,-,-,-,-,ATPase subunit I,protein-coding,-,-,-,ATPase subunit I,20200911,-
+215771,38462409,rpl32,EI133_pgp33,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+215771,38462410,psaB,EI133_pgp09,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200911,-
+215771,38462411,psbT,EI133_pgp26,-,-,-,-,photosystem II T protein,protein-coding,-,-,-,photosystem II T protein,20200911,-
+215771,38462412,psbK,EI133_pgp52,-,-,-,-,photosystem II 3.9 kDa protein,protein-coding,-,-,-,photosystem II 3.9 kDa protein,20200911,-
+215771,38462413,rpl12,EI133_pgp36,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20200911,-
+215771,38462414,trnT(UGU),EI133_pgt05,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462415,psbH,EI133_pgp27,-,-,-,-,photosystem II 10 kDa protein,protein-coding,-,-,-,photosystem II 10 kDa protein,20200911,-
+215771,38462416,psbL,EI133_pgp12,-,-,-,-,photosystem II L protein,protein-coding,-,-,-,photosystem II L protein,20200911,-
+215771,38462417,psbE,EI133_pgp10,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200911,-
+215771,38462418,rbcL,EI133_pgp32,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+215771,38462419,rrn23,EI133_pgr02,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+215771,38462420,chlI,EI133_pgp61,-,-,-,-,chlorophyll biosynthesis,protein-coding,-,-,-,chlorophyll biosynthesis,20200911,-
+215771,38462421,psbF,EI133_pgp11,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200911,-
+215771,38462422,trnD(GUC),EI133_pgt24,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462423,trnP(UGG),EI133_pgt14,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462424,rpl20,EI133_pgp05,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+215771,38462425,rps8,EI133_pgp22,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+215771,38462426,trnL(UAG),EI133_pgt09,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462427,ycf12,EI133_pgp53,-,-,-,-,photosystem II reaction center protein,protein-coding,-,-,-,photosystem II reaction center protein,20200911,-
+215771,38462428,rpoA,EI133_pgp38,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200911,-
+215771,38462429,rpl36,EI133_pgp23,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+215771,38462430,rrn5,EI133_pgr03,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+215771,38462431,psbA,EI133_pgp56,-,-,-,-,photosystem II core 32 kDa protein,protein-coding,-,-,-,photosystem II core 32 kDa protein,20200911,-
+215771,38462432,trnQ(UUG),EI133_pgt26,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462433,psaI,EI133_pgp49,-,-,-,-,photosystem I 4 kDa hydrophobic subunit,protein-coding,-,-,-,photosystem I 4 kDa hydrophobic subunit,20200911,-
+215771,38462434,trnR(ACG),EI133_pgt10,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462435,psbI,EI133_pgp06,-,-,-,-,photosystem II I polypeptide,protein-coding,-,-,-,photosystem II I polypeptide,20200911,-
+215771,38462436,trnN(GUU),EI133_pgt11,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462437,rps11,EI133_pgp51,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+215771,38462438,trnS(UGA),EI133_pgt15,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462439,rrn16,EI133_pgr01,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+215771,38462440,trnA(UGC),EI133_pgt02,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462441,trnI(GAU),EI133_pgt29,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462442,petG,EI133_pgp07,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20200911,-
+215771,38462443,trnK(UUU),EI133_pgt23,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462444,trnM(CAU),EI133_pgt19,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462445,trnW(CCA),EI133_pgt18,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462446,trnE(UUC),EI133_pgt17,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462447,rpoC2,EI133_pgp48,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20200911,-
+215771,38462448,trnG(GCC),EI133_pgt06,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462449,rrn23,EI133_pgr06,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+215771,38462450,trnS(GCU),EI133_pgt27,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462451,rps14,EI133_pgp24,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+215771,38462452,trnH(GUG),EI133_pgt20,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462453,trnV(UAC),EI133_pgt12,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462454,psaM,EI133_pgp54,-,-,-,-,PSI M-polypeptide,protein-coding,-,-,-,PSI M-polypeptide,20200911,-
+215771,38462455,trnM(CAU),EI133_pgt07,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+215771,38462456,rps2,EI133_pgp45,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+215771,38462457,rrn16,EI133_pgr04,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
