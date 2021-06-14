@@ -1,0 +1,133 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+461633,26895393,psbA,AZ392_gp087,StjaCp001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160730,-
+461633,26895394,trnK-UUU,AZ392_gt002,StjaCt002,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895395,matK,AZ392_gp086,StjaCp002,-,-,-,maturase K,protein-coding,-,-,-,-,20160730,-
+461633,26895396,rps16,AZ392_gp085,StjaCp003,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160504,-
+461633,26895397,trnQ-UUG,AZ392_gt003,StjaCt003,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895398,psbK,AZ392_gp084,StjaCp004,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160504,-
+461633,26895399,psbI,AZ392_gp083,StjaCp005,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160504,-
+461633,26895400,trnS-GCU,AZ392_gt004,StjaCt004,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895401,trnG-UCC,AZ392_gt005,StjaCt005,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895402,trnR-UCU,AZ392_gt006,StjaCt006,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895403,atpA,AZ392_gp082,StjaCp006,-,-,-,ATPase alpha subunit,protein-coding,-,-,-,ATPase alpha subunit|ATP synthase CF1 alpha subunit,20160730,-
+461633,26895404,atpF,AZ392_gp081,StjaCp007,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20160730,-
+461633,26895405,atpH,AZ392_gp080,StjaCp008,-,-,-,ATP synthase CF0 C chain,protein-coding,-,-,-,ATP synthase CF0 C chain|ATP synthase CF0 C subunit,20160504,-
+461633,26895406,atpI,AZ392_gp079,StjaCp009,-,-,-,ATP synthase CF0 A chain,protein-coding,-,-,-,ATP synthase CF0 A chain|ATP synthase CF0 A subunit,20160504,-
+461633,26895407,rps2,AZ392_gp078,StjaCp010,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160730,-
+461633,26895408,rpoC2,AZ392_gp077,StjaCp011,-,-,-,one of four subunits of the minimal PEP RNA polymerase catalytic core,protein-coding,-,-,-,one of four subunits of the minimal PEP RNA polymerase catalytic core|RNA polymerase beta'' subunit,20160730,-
+461633,26895409,rpoC1,AZ392_gp076,StjaCp012,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160730,-
+461633,26895410,rpoB,AZ392_gp075,StjaCp013,-,-,-,one of four subunits of the minimal PEP RNA polymerase catalytic core,protein-coding,-,-,-,one of four subunits of the minimal PEP RNA polymerase catalytic core|RNA polymerase beta subunit,20160730,-
+461633,26895411,trnC-GCA,AZ392_gt007,StjaCt007,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895412,petN,AZ392_gp074,StjaCp014,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20160504,-
+461633,26895413,psbM,AZ392_gp073,StjaCp015,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+461633,26895414,trnD-GUC,AZ392_gt008,StjaCt008,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895415,trnY-GUA,AZ392_gt009,StjaCt009,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895416,trnE-UUC,AZ392_gt010,StjaCt010,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895417,trnT-GGU,AZ392_gt011,StjaCt011,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895418,psbD,AZ392_gp072,StjaCp016,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160910,-
+461633,26895419,psbC,AZ392_gp071,StjaCp017,-,-,-,CP43,protein-coding,-,-,-,CP43|photosystem II 44 kDa protein,20160504,-
+461633,26895420,trnS-UGA,AZ392_gt012,StjaCt012,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895421,psbZ,AZ392_gp070,StjaCp018,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160504,-
+461633,26895422,trnG-GCC,AZ392_gt013,StjaCt013,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895423,trnfM-CAU,AZ392_gt014,StjaCt014,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895424,rps14,AZ392_gp069,StjaCp019,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160504,-
+461633,26895425,psaB,AZ392_gp068,StjaCp020,-,-,-,PsaB,protein-coding,-,-,-,PsaB|photosystem I P700 chlorophyll a apoprotein A2,20160504,-
+461633,26895426,psaA,AZ392_gp067,StjaCp021,-,-,-,PsaA,protein-coding,-,-,-,PsaA|photosystem I P700 chlorophyll a apoprotein A1,20160504,-
+461633,26895427,ycf3,AZ392_gp066,StjaCp022,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20160730,-
+461633,26895428,trnS-GGA,AZ392_gt015,StjaCt015,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895429,rps4,AZ392_gp065,StjaCp023,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160730,-
+461633,26895430,trnT-UGU,AZ392_gt016,StjaCt016,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895431,trnL-UAA,AZ392_gt017,StjaCt017,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895432,trnF-GAA,AZ392_gt018,StjaCt018,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895433,ndhJ,AZ392_gp064,StjaCp024,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20160504,-
+461633,26895434,ndhK,AZ392_gp063,StjaCp025,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20160730,-
+461633,26895435,ndhC,AZ392_gp062,StjaCp026,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160504,-
+461633,26895436,trnV-UAC,AZ392_gt019,StjaCt019,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895437,trnM-CAU,AZ392_gt020,StjaCt020,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895438,atpE,AZ392_gp061,StjaCp027,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20160504,-
+461633,26895439,atpB,AZ392_gp060,StjaCp028,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160730,-
+461633,26895440,rbcL,AZ392_gp059,StjaCp029,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160504,-
+461633,26895441,accD,AZ392_gp058,StjaCp030,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20160504,-
+461633,26895442,psaI,AZ392_gp057,StjaCp031,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20160504,-
+461633,26895443,ycf4,AZ392_gp056,StjaCp032,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20160504,-
+461633,26895444,cemA,AZ392_gp055,StjaCp033,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20160504,-
+461633,26895445,petA,AZ392_gp054,StjaCp034,-,-,-,component of cytochrome b6/f complex,protein-coding,-,-,-,component of cytochrome b6/f complex|cytochrome f,20160730,-
+461633,26895446,psbJ,AZ392_gp053,StjaCp035,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160504,-
+461633,26895447,psbL,AZ392_gp052,StjaCp036,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160504,-
+461633,26895448,psbF,AZ392_gp051,StjaCp037,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20160504,-
+461633,26895449,psbE,AZ392_gp050,StjaCp038,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20160730,-
+461633,26895450,petL,AZ392_gp049,StjaCp039,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160504,-
+461633,26895451,petG,AZ392_gp048,StjaCp040,-,-,-,required for the either the stability or assembly of the cytochrome b6/f complex,protein-coding,-,-,-,required for the either the stability or assembly of the cytochrome b6/f complex|cytochrome b6/f complex subunit V,20210129,-
+461633,26895452,trnW-CCA,AZ392_gt021,StjaCt021,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895453,trnP-UGG,AZ392_gt022,StjaCt022,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895454,psaJ,AZ392_gp047,StjaCp041,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20160504,-
+461633,26895455,rpl33,AZ392_gp046,StjaCp042,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160504,-
+461633,26895456,rps18,AZ392_gp045,StjaCp043,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160504,-
+461633,26895457,rpl20,AZ392_gp044,StjaCp044,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160730,-
+461633,26895458,rps12,AZ392_gp042,StjaCp045,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-
+461633,26895459,clpP,AZ392_gp041,StjaCp047,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160730,-
+461633,26895460,psbB,AZ392_gp040,StjaCp048,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,PSII 47 kDa protein|photosystem II 47 kDa protein,20160504,-
+461633,26895461,psbT,AZ392_gp039,StjaCp049,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160504,-
+461633,26895462,psbN,AZ392_gp038,StjaCp050,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160504,-
+461633,26895463,psbH,AZ392_gp037,StjaCp051,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20160504,-
+461633,26895464,petB,AZ392_gp036,StjaCp052,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+461633,26895465,petD,AZ392_gp035,StjaCp053,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160730,-
+461633,26895466,rpoA,AZ392_gp034,StjaCp054,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160730,-
+461633,26895467,rps11,AZ392_gp033,StjaCp055,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160504,-
+461633,26895468,rpl36,AZ392_gp032,StjaCp056,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160504,-
+461633,26895469,infA,AZ392_gp031,StjaCp057,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160910,-
+461633,26895470,rps8,AZ392_gp030,StjaCp058,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160504,-
+461633,26895471,rpl14,AZ392_gp029,StjaCp059,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160504,-
+461633,26895472,rpl16,AZ392_gp028,StjaCp060,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160730,-
+461633,26895473,rps3,AZ392_gp027,StjaCp061,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20160730,-
+461633,26895474,rpl22,AZ392_gp026,StjaCp062,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160730,-
+461633,26895475,rps19,AZ392_gp025,StjaCp063,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160504,-
+461633,26895476,rpl2,AZ392_gp024,StjaCp064,-,-,-,start codon formed by RNA editing,protein-coding,-,-,-,start codon formed by RNA editing|ribosomal protein L2,20160730,-
+461633,26895477,rpl23,AZ392_gp023,StjaCp065,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160504,-
+461633,26895478,trnI-CAU,AZ392_gt023,StjaCt023,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895479,ycf2,AZ392_gp022,StjaCp066,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,hypothetical protein RF2|Ycf2,20160730,-
+461633,26895480,trnL-CAA,AZ392_gt024,StjaCt024,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895481,ndhB,AZ392_gp021,StjaCp067,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160730,-
+461633,26895482,rps7,AZ392_gp020,StjaCp068,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+461633,26895483,trnV-GAC,AZ392_gt025,StjaCt025,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895484,rrn16,AZ392_gr008,StjaCr001,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895485,trnI-GAU,AZ392_gt026,StjaCt026,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895486,trnA-UGC,AZ392_gt027,StjaCt027,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895487,rrn23,AZ392_gr007,StjaCr002,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895488,rrn4.5,AZ392_gr006,StjaCr003,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895489,rrn5,AZ392_gr005,StjaCr004,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895490,trnR-ACG,AZ392_gt028,StjaCt028,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895491,trnN-GUU,AZ392_gt029,StjaCt029,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895492,ycf1,AZ392_gp019,StjaCp069,-,-,-,pseudo,pseudo,-,-,-,-,20160304,-
+461633,26895493,ndhF,AZ392_gp018,StjaCp070,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160730,-
+461633,26895494,rpl32,AZ392_gp017,StjaCp071,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160504,-
+461633,26895495,trnL-UAG,AZ392_gt030,StjaCt030,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895496,ccsA,AZ392_gp016,StjaCp072,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20160504,-
+461633,26895497,ndhD,AZ392_gp015,StjaCp073,-,-,-,start codon formed by RNA editing,protein-coding,-,-,-,start codon formed by RNA editing|NADH dehydrogenase subunit 4,20160730,-
+461633,26895498,psaC,AZ392_gp014,StjaCp074,-,-,-,9 kDa protein,protein-coding,-,-,-,9 kDa protein|photosystem I subunit VII,20170908,-
+461633,26895499,ndhE,AZ392_gp013,StjaCp075,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160504,-
+461633,26895500,ndhG,AZ392_gp012,StjaCp076,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160504,-
+461633,26895501,ndhI,AZ392_gp011,StjaCp077,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20160730,-
+461633,26895502,ndhA,AZ392_gp010,StjaCp078,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160504,-
+461633,26895503,ndhH,AZ392_gp009,StjaCp079,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20160504,-
+461633,26895504,rps15,AZ392_gp008,StjaCp080,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+461633,26895505,ycf1,AZ392_gp007,StjaCp081,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160730,-
+461633,26895506,trnN-GUU,AZ392_gt031,StjaCt031,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895507,trnR-ACG,AZ392_gt032,StjaCt032,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895508,rrn5,AZ392_gr004,StjaCr005,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895509,rrn4.5,AZ392_gr003,StjaCr006,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895510,rrn23,AZ392_gr002,StjaCr007,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895511,trnA-UGC,AZ392_gt033,StjaCt033,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895512,trnI-GAU,AZ392_gt034,StjaCt034,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895513,rrn16,AZ392_gr001,StjaCr008,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+461633,26895514,trnV-GAC,AZ392_gt035,StjaCt035,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895515,rps7,AZ392_gp006,StjaCp082,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+461633,26895516,ndhB,AZ392_gp005,StjaCp083,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160730,-
+461633,26895517,trnL-CAA,AZ392_gt036,StjaCt036,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895518,ycf2,AZ392_gp004,StjaCp084,-,-,-,hypothetical protein RF2,protein-coding,-,-,-,hypothetical protein RF2|Ycf2,20160730,-
+461633,26895519,trnI-CAU,AZ392_gt037,StjaCt037,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895520,rpl23,AZ392_gp003,StjaCp085,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160504,-
+461633,26895521,rpl2,AZ392_gp002,StjaCp086,-,-,-,start codon formed by RNA editing,protein-coding,-,-,-,start codon formed by RNA editing|ribosomal protein L2,20160730,-
+461633,26895522,rps19,AZ392_gp001,StjaCp087,-,-,-,pseudo,pseudo,-,-,-,-,20160304,-
+461633,26895523,trnH-GUG,AZ392_gt001,StjaCt001,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+461633,26895524,rps12,AZ392_gp043,StjaCp046,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-

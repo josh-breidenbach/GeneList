@@ -1,0 +1,769 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+722438,12593799,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Mycoplasma pneumoniae ATCC 15531; Mycoplasma pneumoniae NCTC 10119; Mycoplasma pneumoniae str. FH; Mycoplasma pneumoniae strain FH).,other,-,-,-,-,20201121,-
+722438,45595860,dnaN,F539_RS00005,F539_00005,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210129,-
+722438,45595861,F539_RS00010,F539_RS00010,F539_00010,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210130,-
+722438,45595862,gyrB,F539_RS00015,F539_00015,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200619,-
+722438,45595863,gyrA,F539_RS00020,F539_00020,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20200619,-
+722438,45595864,serS,F539_RS00025,F539_00025,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200619,-
+722438,45595865,tmk,F539_RS00030,F539_00030,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200619,-
+722438,45595866,F539_RS00035,F539_RS00035,F539_00035,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20200619,-
+722438,45595867,mnmE,F539_RS00040,F539_00040,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200619,-
+722438,45595868,F539_RS00045,F539_RS00045,F539_00045,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200619,-
+722438,45595869,F539_RS00050,F539_RS00050,F539_00050,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210212,-
+722438,45595870,F539_RS00055,F539_RS00055,F539_00055,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210212,-
+722438,45595871,F539_RS00060,F539_RS00060,F539_00060,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210212,-
+722438,45595873,F539_RS00070,F539_RS00070,F539_00070,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45595874,F539_RS00075,F539_RS00075,F539_00075,-,-,-,DNA primase-like protein,protein-coding,-,-,-,DNA primase-like protein,20200619,-
+722438,45595875,F539_RS00080,F539_RS00080,F539_00080,-,-,-,RimK family alpha-L-glutamate ligase,protein-coding,-,-,-,RimK family alpha-L-glutamate ligase,20200619,-
+722438,45595876,F539_RS00085,F539_RS00085,F539_00085,-,-,-,RimK family alpha-L-glutamate ligase,protein-coding,-,-,-,RimK family alpha-L-glutamate ligase,20210212,-
+722438,45595877,F539_RS00090,F539_RS00090,F539_00090,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20200619,-
+722438,45595878,F539_RS00095,F539_RS00095,F539_00095,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45595879,F539_RS00100,F539_RS00100,F539_00100,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45595880,F539_RS00105,F539_RS00105,F539_00105,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45595881,F539_RS00110,F539_RS00110,F539_00110,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45595882,F539_RS00115,F539_RS00115,F539_00115,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200926,-
+722438,45595883,F539_RS00120,F539_RS00120,F539_00120,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20200619,-
+722438,45595884,pip,F539_RS00125,F539_00125,-,-,-,prolyl aminopeptidase,protein-coding,-,-,-,prolyl aminopeptidase,20210129,-
+722438,45595885,F539_RS00130,F539_RS00130,F539_00130,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200619,-
+722438,45595886,F539_RS00135,F539_RS00135,F539_00135,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20210212,-
+722438,45595887,fba,F539_RS00140,F539_00140,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200619,-
+722438,45595888,ychF,F539_RS00145,F539_00145,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210129,-
+722438,45595889,F539_RS00150,F539_RS00150,F539_00150,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210129,-
+722438,45595890,F539_RS00155,F539_RS00155,F539_00155,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210129,-
+722438,45595891,efp,F539_RS00160,F539_00160,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200619,-
+722438,45595892,F539_RS00165,F539_RS00165,F539_00165,-,-,-,DUF1948 domain-containing protein,protein-coding,-,-,-,DUF1948 domain-containing protein,20210129,-
+722438,45595893,F539_RS00170,F539_RS00170,F539_00170,-,-,-,DUF5453 family protein,protein-coding,-,-,-,DUF5453 family protein,20210212,-
+722438,45595894,F539_RS00175,F539_RS00175,F539_00175,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200619,-
+722438,45595895,upp,F539_RS00180,F539_00180,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200619,-
+722438,45595896,polC,F539_RS00185,F539_00185,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200619,-
+722438,45595897,F539_RS00190,F539_RS00190,F539_00190,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20210212,-
+722438,45595898,F539_RS00195,F539_RS00195,F539_00195,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20210129,-
+722438,45595899,F539_RS00200,F539_RS00200,F539_00200,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45595900,F539_RS00205,F539_RS00205,F539_00205,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210212,-
+722438,45595901,F539_RS00210,F539_RS00210,F539_00210,-,-,-,DUF240 domain-containg protein,protein-coding,-,-,-,DUF240 domain-containg protein,20200619,-
+722438,45595902,F539_RS00220,F539_RS00220,F539_00220,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20200619,-
+722438,45595903,F539_RS00225,F539_RS00225,F539_00225,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20200619,-
+722438,45595904,F539_RS00230,F539_RS00230,F539_00230,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20200619,-
+722438,45595905,F539_RS00235,F539_RS00235,F539_00235,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20200619,-
+722438,45595906,F539_RS00240,F539_RS00240,F539_00240,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200619,-
+722438,45595907,aspS,F539_RS00245,F539_00245,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200619,-
+722438,45595908,F539_RS00250,F539_RS00250,F539_00250,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200619,-
+722438,45595909,F539_RS00255,F539_RS00255,F539_00255,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45595910,F539_RS00260,F539_RS00260,F539_00260,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20210129,-
+722438,45595912,glpK,F539_RS00270,F539_00270,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20200619,-
+722438,45595913,glpO,F539_RS00275,F539_00275,-,-,-,type 2 glycerol-3-phosphate oxidase,protein-coding,-,-,-,type 2 glycerol-3-phosphate oxidase,20210129,-
+722438,45595914,F539_RS00280,F539_RS00280,F539_00280,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20210129,-
+722438,45595915,ptsH,F539_RS00285,F539_00285,-,-,-,phosphocarrier protein HPr,protein-coding,-,-,-,phosphocarrier protein HPr,20200619,-
+722438,45595916,F539_RS00290,F539_RS00290,F539_00290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45595917,F539_RS00295,F539_RS00295,F539_00295,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210116,-
+722438,45595918,F539_RS00300,F539_RS00300,F539_00300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595919,F539_RS00305,F539_RS00305,F539_00305,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210212,-
+722438,45595920,F539_RS00310,F539_RS00310,F539_00310,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45595921,F539_RS00315,F539_RS00315,F539_00315,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45595922,F539_RS00320,F539_RS00320,F539_00320,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200619,-
+722438,45595923,tsaD,F539_RS00325,F539_00325,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200619,-
+722438,45595924,metK,F539_RS00330,F539_00330,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200619,-
+722438,45595925,F539_RS00335,F539_RS00335,F539_00335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595926,ffh,F539_RS00340,F539_00340,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200619,-
+722438,45595927,deoD,F539_RS00345,F539_00345,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200619,-
+722438,45595928,deoC,F539_RS00350,F539_00350,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20200619,-
+722438,45595929,F539_RS00355,F539_RS00355,F539_00355,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20200619,-
+722438,45595930,cdd,F539_RS00360,F539_00360,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20200619,-
+722438,45595931,F539_RS00365,F539_RS00365,F539_00365,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20200619,-
+722438,45595932,nusG,F539_RS00370,F539_00370,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200619,-
+722438,45595933,secE,F539_RS00375,F539_00375,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200619,-
+722438,45595934,rpmG,F539_RS00380,F539_00380,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200619,-
+722438,45595935,F539_RS00385,F539_RS00385,F539_00385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595936,rsmI,F539_RS00390,F539_00390,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200619,-
+722438,45595937,rnmV,F539_RS00395,F539_00395,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20200619,-
+722438,45595938,prs,F539_RS00400,F539_00400,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20200618,-
+722438,45595939,F539_RS00410,F539_RS00410,F539_00410,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20200619,-
+722438,45595940,F539_RS00415,F539_RS00415,F539_00415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595941,F539_RS00420,F539_RS00420,F539_00420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595942,F539_RS00425,F539_RS00425,F539_00425,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45595943,F539_RS00430,F539_RS00430,F539_00430,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210116,-
+722438,45595944,F539_RS00435,F539_RS00435,F539_00435,-,-,-,1-phosphofructokinase family hexose kinase,protein-coding,-,-,-,1-phosphofructokinase family hexose kinase,20200619,-
+722438,45595945,F539_RS00440,F539_RS00440,F539_00440,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210129,-
+722438,45595946,F539_RS00445,F539_RS00445,F539_00445,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45595947,F539_RS00450,F539_RS00450,F539_00450,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200619,-
+722438,45595948,F539_RS00455,F539_RS00455,F539_00455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45595949,F539_RS00460,F539_RS00460,F539_00460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595950,F539_RS00465,F539_RS00465,F539_00465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595951,F539_RS00470,F539_RS00470,F539_00470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595952,F539_RS00475,F539_RS00475,F539_00475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595953,F539_RS00480,F539_RS00480,F539_00480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595954,F539_RS00485,F539_RS00485,F539_00485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595955,F539_RS00490,F539_RS00490,F539_00490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595956,F539_RS00495,F539_RS00495,F539_00495,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45595957,F539_RS00505,F539_RS00505,F539_00505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595958,F539_RS00510,F539_RS00510,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595959,F539_RS00525,F539_RS00525,F539_00515,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45595960,F539_RS00530,F539_RS00530,F539_00520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595961,F539_RS00535,F539_RS00535,F539_00525,-,-,-,adhesin,protein-coding,-,-,-,adhesin,20200618,-
+722438,45595962,F539_RS00540,F539_RS00540,F539_00530,-,-,-,-,rRNA,-,-,-,-,20200618,-
+722438,45595963,F539_RS00545,F539_RS00545,F539_00535,-,-,-,-,rRNA,-,-,-,-,20200618,-
+722438,45595964,rrf,F539_RS00550,F539_00540,-,-,-,-,rRNA,-,-,-,-,20200618,-
+722438,45595965,F539_RS00560,F539_RS00560,F539_00550,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210129,-
+722438,45595966,F539_RS00570,F539_RS00570,F539_00560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+722438,45595967,F539_RS00580,F539_RS00580,F539_00570,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45595968,F539_RS00585,F539_RS00585,F539_00575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595969,F539_RS00590,F539_RS00590,F539_00580,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45595970,F539_RS00595,F539_RS00595,F539_00585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595973,F539_RS00615,F539_RS00615,F539_00605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595974,pheS,F539_RS00620,F539_00610,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200619,-
+722438,45595975,F539_RS00625,F539_RS00625,F539_00615,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200619,-
+722438,45595976,F539_RS00630,F539_RS00630,F539_00620,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45595977,F539_RS00635,F539_RS00635,F539_00625,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200619,-
+722438,45595978,F539_RS00640,F539_RS00640,F539_00630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595979,F539_RS00645,F539_RS00645,F539_00635,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20200619,-
+722438,45595980,F539_RS00650,F539_RS00650,F539_00640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595981,F539_RS00655,F539_RS00655,F539_00645,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200619,-
+722438,45595982,F539_RS00660,F539_RS00660,F539_00650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595983,F539_RS00665,F539_RS00665,F539_00655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45595984,F539_RS00670,F539_RS00670,F539_00660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45595985,F539_RS00675,F539_RS00675,F539_00665,-,-,-,choline/carnitine O-acyltransferase,protein-coding,-,-,-,choline/carnitine O-acyltransferase,20210212,-
+722438,45595986,infC,F539_RS00680,F539_00670,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200619,-
+722438,45595987,rpmI,F539_RS00685,F539_00675,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210129,-
+722438,45595988,rplT,F539_RS00690,F539_00680,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200619,-
+722438,45595989,F539_RS00695,F539_RS00695,F539_00685,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200619,-
+722438,45595990,topJ,F539_RS00700,F539_00690,-,-,-,terminal organelle assembly protein TopJ,protein-coding,-,-,-,terminal organelle assembly protein TopJ,20200619,-
+722438,45595991,F539_RS00705,F539_RS00705,F539_00695,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210129,-
+722438,45595992,F539_RS00710,F539_RS00710,F539_00700,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45595993,F539_RS00715,F539_RS00715,F539_00705,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45595994,parE,F539_RS00720,F539_00710,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200619,-
+722438,45595995,parC,F539_RS00725,F539_00715,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210129,-
+722438,45595996,hrcA,F539_RS00730,F539_00720,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200619,-
+722438,45595997,uvrC,F539_RS00735,F539_00725,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20200619,-
+722438,45595998,F539_RS00740,F539_RS00740,F539_00730,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20200619,-
+722438,45595999,F539_RS00745,F539_RS00745,F539_00735,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210123,-
+722438,45596000,F539_RS00750,F539_RS00750,F539_00740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596001,F539_RS00760,F539_RS00760,F539_00750,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596002,F539_RS00765,F539_RS00765,F539_00755,-,-,-,adhesin,protein-coding,-,-,-,adhesin,20210129,-
+722438,45596003,F539_RS00775,F539_RS00775,F539_00765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596004,F539_RS00790,F539_RS00790,F539_00780,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20200619,-
+722438,45596005,F539_RS00795,F539_RS00795,F539_00785,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210123,-
+722438,45596006,F539_RS00800,F539_RS00800,F539_00790,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200619,-
+722438,45596007,F539_RS00805,F539_RS00805,F539_00795,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200619,-
+722438,45596008,F539_RS00810,F539_RS00810,F539_00800,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596009,F539_RS00815,F539_RS00815,F539_00805,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596010,F539_RS00820,F539_RS00820,F539_00810,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200619,-
+722438,45596011,mgpA,F539_RS00825,F539_00815,-,-,-,adhesin P1,protein-coding,-,-,-,adhesin P1,20201205,-
+722438,45596012,F539_RS00830,F539_RS00830,F539_00820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596013,F539_RS00835,F539_RS00835,F539_00825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596014,F539_RS00840,F539_RS00840,F539_00830,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596015,F539_RS00845,F539_RS00845,F539_00835,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596016,F539_RS00860,F539_RS00860,F539_00850,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210129,-
+722438,45596017,F539_RS00865,F539_RS00865,F539_00855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596018,F539_RS00880,F539_RS00880,F539_00870,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210116,-
+722438,45596019,F539_RS00885,F539_RS00885,F539_00875,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210129,-
+722438,45596020,F539_RS00890,F539_RS00890,F539_00880,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20210130,-
+722438,45596021,nusA,F539_RS00895,F539_00885,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210116,-
+722438,45596022,F539_RS00900,F539_RS00900,F539_00890,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20210116,-
+722438,45596023,infB,F539_RS00905,F539_00895,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210129,-
+722438,45596024,rbfA,F539_RS00910,F539_00900,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200619,-
+722438,45596025,F539_RS00915,F539_RS00915,F539_00905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596026,ribF,F539_RS00920,F539_00910,-,-,-,riboflavin biosynthesis protein RibF,protein-coding,-,-,-,riboflavin biosynthesis protein RibF,20200619,-
+722438,45596027,F539_RS00925,F539_RS00925,F539_00915,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200619,-
+722438,45596028,F539_RS00930,F539_RS00930,F539_00920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596029,F539_RS00935,F539_RS00935,F539_00925,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20200619,-
+722438,45596030,F539_RS00940,F539_RS00940,F539_00930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596031,F539_RS00945,F539_RS00945,F539_00935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596032,rpsJ,F539_RS00950,F539_00940,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200619,-
+722438,45596033,rplC,F539_RS00955,F539_00945,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200619,-
+722438,45596034,rplD,F539_RS00960,F539_00950,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200619,-
+722438,45596035,F539_RS00965,F539_RS00965,F539_00955,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200619,-
+722438,45596036,rplB,F539_RS00970,F539_00960,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200619,-
+722438,45596037,rpsS,F539_RS00975,F539_00965,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200619,-
+722438,45596038,rplV,F539_RS00980,F539_00970,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200619,-
+722438,45596039,rpsC,F539_RS00985,F539_00975,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200619,-
+722438,45596040,rplP,F539_RS00990,F539_00980,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200619,-
+722438,45596041,F539_RS00995,F539_RS00995,F539_00985,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200619,-
+722438,45596042,rpsQ,F539_RS01000,F539_00990,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200619,-
+722438,45596043,rplN,F539_RS01005,F539_00995,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200619,-
+722438,45596044,rplX,F539_RS01010,F539_01000,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200619,-
+722438,45596045,rplE,F539_RS01015,F539_01005,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200619,-
+722438,45596046,F539_RS01020,F539_RS01020,F539_01010,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210212,-
+722438,45596047,rpsH,F539_RS01025,F539_01015,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200619,-
+722438,45596048,rplF,F539_RS01030,F539_01020,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200619,-
+722438,45596049,rplR,F539_RS01035,F539_01025,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200619,-
+722438,45596050,rpsE,F539_RS01040,F539_01030,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200619,-
+722438,45596051,rplO,F539_RS01045,F539_01035,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200619,-
+722438,45596052,secY,F539_RS01050,F539_01040,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200619,-
+722438,45596053,F539_RS01055,F539_RS01055,F539_01045,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200619,-
+722438,45596054,map,F539_RS01060,F539_01050,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200619,-
+722438,45596055,infA,F539_RS01065,F539_01055,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210212,-
+722438,45596056,rpmJ,F539_RS01070,F539_01060,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200619,-
+722438,45596057,rpsM,F539_RS01075,F539_01065,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200619,-
+722438,45596058,rpsK,F539_RS01080,F539_01070,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200619,-
+722438,45596059,rpoA,F539_RS01085,F539_01075,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200619,-
+722438,45596060,rplQ,F539_RS01090,F539_01080,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200619,-
+722438,45596061,F539_RS01095,F539_RS01095,F539_01085,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200619,-
+722438,45596062,F539_RS01100,F539_RS01100,F539_01090,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200619,-
+722438,45596063,F539_RS01105,F539_RS01105,F539_01095,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210212,-
+722438,45596064,truA,F539_RS01110,F539_01100,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200619,-
+722438,45596065,pepF,F539_RS01115,F539_01105,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210129,-
+722438,45596066,F539_RS01120,F539_RS01120,F539_01110,-,-,-,adenine methylase,protein-coding,-,-,-,adenine methylase,20200619,-
+722438,45596067,F539_RS01125,F539_RS01125,F539_01115,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210116,-
+722438,45596068,F539_RS01130,F539_RS01130,F539_01120,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210116,-
+722438,45596069,F539_RS01135,F539_RS01135,F539_01125,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45596071,F539_RS01155,F539_RS01155,F539_01145,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596072,mgpA,F539_RS01160,F539_01150,-,-,-,adhesin P1,protein-coding,-,-,-,adhesin P1,20200619,-
+722438,45596074,F539_RS01170,F539_RS01170,F539_01160,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210129,-
+722438,45596076,rpsB,F539_RS01180,F539_01170,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200619,-
+722438,45596077,F539_RS01185,F539_RS01185,F539_01175,-,-,-,cation-transporting P-type ATPase,protein-coding,-,-,-,cation-transporting P-type ATPase,20200619,-
+722438,45596078,secA,F539_RS01190,F539_01180,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200619,-
+722438,45596079,uvrB,F539_RS01195,F539_01185,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20200619,-
+722438,45596080,F539_RS01200,F539_RS01200,F539_01190,-,-,-,DUF5426 family protein,protein-coding,-,-,-,DUF5426 family protein,20210129,-
+722438,45596081,F539_RS01205,F539_RS01205,F539_01195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596082,F539_RS01210,F539_RS01210,F539_01200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596083,F539_RS01215,F539_RS01215,F539_01205,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45596084,F539_RS01220,F539_RS01220,F539_01210,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45596085,F539_RS01225,F539_RS01225,F539_01215,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596086,F539_RS01230,F539_RS01230,F539_01220,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210116,-
+722438,45596087,rplK,F539_RS01235,F539_01225,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200619,-
+722438,45596088,F539_RS01240,F539_RS01240,F539_01230,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210212,-
+722438,45596089,pth,F539_RS01245,F539_01235,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200619,-
+722438,45596090,tilS,F539_RS01250,F539_01240,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210212,-
+722438,45596091,F539_RS01255,F539_RS01255,F539_01245,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20200619,-
+722438,45596092,F539_RS01260,F539_RS01260,F539_01250,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200619,-
+722438,45596093,rpsL,F539_RS01265,F539_01255,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200619,-
+722438,45596094,rpsG,F539_RS01270,F539_01260,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200619,-
+722438,45596095,fusA,F539_RS01275,F539_01265,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200619,-
+722438,45596096,F539_RS01280,F539_RS01280,F539_01270,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200619,-
+722438,45596097,F539_RS01285,F539_RS01285,F539_01275,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210212,-
+722438,45596098,rpsR,F539_RS01290,F539_01280,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200619,-
+722438,45596099,rplI,F539_RS01295,F539_01285,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200619,-
+722438,45596100,F539_RS01300,F539_RS01300,F539_01290,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200619,-
+722438,45596101,F539_RS01305,F539_RS01305,F539_01295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596102,F539_RS01310,F539_RS01310,F539_01300,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20200619,-
+722438,45596103,ung,F539_RS01315,F539_01305,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210212,-
+722438,45596104,gatC,F539_RS01320,F539_01310,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20200619,-
+722438,45596105,gatA,F539_RS01325,F539_01315,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200619,-
+722438,45596106,gatB,F539_RS01330,F539_01320,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200619,-
+722438,45596107,F539_RS01335,F539_RS01335,F539_01325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45596108,trxB,F539_RS01340,F539_01330,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200619,-
+722438,45596109,whiA,F539_RS01345,F539_01335,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200619,-
+722438,45596110,secG,F539_RS01350,F539_01340,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200619,-
+722438,45596111,rnr,F539_RS01355,F539_01345,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200619,-
+722438,45596112,F539_RS01360,F539_RS01360,F539_01350,-,-,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20200619,-
+722438,45596113,F539_RS01365,F539_RS01365,F539_01355,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200619,-
+722438,45596114,gmk,F539_RS01370,F539_01360,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200619,-
+722438,45596115,F539_RS01375,F539_RS01375,F539_01365,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20200619,-
+722438,45596116,F539_RS01380,F539_RS01380,F539_01370,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200619,-
+722438,45596117,rsgA,F539_RS01385,F539_01375,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20210212,-
+722438,45596118,F539_RS01390,F539_RS01390,F539_01380,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200619,-
+722438,45596119,F539_RS01395,F539_RS01395,F539_01385,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210212,-
+722438,45596120,asnS,F539_RS01400,F539_01390,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20200619,-
+722438,45596121,pgsA,F539_RS01405,F539_01395,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200619,-
+722438,45596122,F539_RS01410,F539_RS01410,F539_01400,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596123,F539_RS01415,F539_RS01415,F539_01405,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20200619,-
+722438,45596124,F539_RS01420,F539_RS01420,F539_01410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596125,galE,F539_RS01425,F539_01415,-,-,-,UDP-glucose 4-epimerase GalE,protein-coding,-,-,-,UDP-glucose 4-epimerase GalE,20200619,-
+722438,45596126,F539_RS01430,F539_RS01430,F539_01420,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596127,F539_RS01435,F539_RS01435,F539_01425,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45596128,F539_RS01440,F539_RS01440,F539_01430,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45596129,topA,F539_RS01445,F539_01435,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200619,-
+722438,45596130,F539_RS01450,F539_RS01450,F539_01440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596131,trxA,F539_RS01455,F539_01445,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210212,-
+722438,45596132,F539_RS01460,F539_RS01460,F539_01450,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210129,-
+722438,45596133,trpS,F539_RS01465,F539_01455,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200619,-
+722438,45596134,F539_RS01470,F539_RS01470,F539_01460,-,-,-,Spx/MgsR family RNA polymerase-binding regulatory protein,protein-coding,-,-,-,Spx/MgsR family RNA polymerase-binding regulatory protein,20210212,-
+722438,45596135,F539_RS01475,F539_RS01475,F539_01465,-,-,-,NAD(+) kinase,protein-coding,-,-,-,NAD(+) kinase,20210212,-
+722438,45596136,F539_RS01480,F539_RS01480,F539_01470,-,-,-,PTS transporter subunit IIBC,protein-coding,-,-,-,PTS transporter subunit IIBC,20200619,-
+722438,45596137,F539_RS01485,F539_RS01485,F539_01475,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20200619,-
+722438,45596138,F539_RS01490,F539_RS01490,F539_01480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596139,F539_RS01500,F539_RS01500,F539_01490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596140,F539_RS01505,F539_RS01505,F539_01495,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596141,F539_RS01510,F539_RS01510,F539_01500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596142,F539_RS01515,F539_RS01515,F539_01505,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200619,-
+722438,45596143,F539_RS01520,F539_RS01520,F539_01510,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200619,-
+722438,45596144,F539_RS01525,F539_RS01525,F539_01515,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200619,-
+722438,45596145,F539_RS01530,F539_RS01530,F539_01520,-,-,-,DUF5378 domain-containing protein,protein-coding,-,-,-,DUF5378 domain-containing protein,20210129,-
+722438,45596146,lysS,F539_RS01535,F539_01525,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200619,-
+722438,45596147,glf,F539_RS01540,F539_01530,-,-,-,UDP-galactopyranose mutase,protein-coding,-,-,-,UDP-galactopyranose mutase,20210116,-
+722438,45596148,lepA,F539_RS01545,F539_01535,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200619,-
+722438,45596149,F539_RS01550,F539_RS01550,F539_01540,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200619,-
+722438,45596150,F539_RS01565,F539_RS01565,F539_01555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596152,F539_RS01575,F539_RS01575,F539_01565,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596153,F539_RS01580,F539_RS01580,F539_01570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596154,F539_RS01585,F539_RS01585,F539_01575,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210116,-
+722438,45596155,F539_RS01590,F539_RS01590,F539_01580,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200619,-
+722438,45596156,F539_RS01595,F539_RS01595,F539_01585,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596157,F539_RS01605,F539_RS01605,F539_01595,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210212,-
+722438,45596158,F539_RS01615,F539_RS01615,F539_01605,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45596159,F539_RS01620,F539_RS01620,F539_01610,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200618,-
+722438,45596160,tsaB,F539_RS01625,F539_01615,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200619,-
+722438,45596161,F539_RS01630,F539_RS01630,F539_01620,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200619,-
+722438,45596162,F539_RS01635,F539_RS01635,F539_01625,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20200619,-
+722438,45596163,F539_RS01640,F539_RS01640,F539_01630,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200619,-
+722438,45596164,F539_RS01645,F539_RS01645,F539_01635,-,-,-,DUF5454 family protein,protein-coding,-,-,-,DUF5454 family protein,20210212,-
+722438,45596165,F539_RS01650,F539_RS01650,F539_01640,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200619,-
+722438,45596166,F539_RS01655,F539_RS01655,F539_01645,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210129,-
+722438,45596167,F539_RS01660,F539_RS01660,F539_01650,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200619,-
+722438,45596168,F539_RS01665,F539_RS01665,F539_01655,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200619,-
+722438,45596169,scpA,F539_RS01670,F539_01660,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200619,-
+722438,45596170,F539_RS01675,F539_RS01675,F539_01665,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20200619,-
+722438,45596171,F539_RS01680,F539_RS01680,F539_01670,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20210212,-
+722438,45596172,pyk,F539_RS01685,F539_01675,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200619,-
+722438,45596173,F539_RS01690,F539_RS01690,F539_01680,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596174,F539_RS01695,F539_RS01695,F539_01685,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596175,F539_RS01700,F539_RS01700,F539_01690,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596176,F539_RS01705,F539_RS01705,F539_01695,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596177,F539_RS01710,F539_RS01710,F539_01700,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596178,F539_RS01715,F539_RS01715,F539_01705,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596179,F539_RS01720,F539_RS01720,F539_01710,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596180,F539_RS01725,F539_RS01725,F539_01715,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596181,F539_RS01730,F539_RS01730,F539_01720,-,-,-,arginine deiminase,protein-coding,-,-,-,arginine deiminase,20200619,-
+722438,45596182,F539_RS01735,F539_RS01735,F539_01725,-,-,-,arginine deiminase,protein-coding,-,-,-,arginine deiminase,20210116,-
+722438,45596183,argF,F539_RS01740,F539_01730,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20200619,-
+722438,45596184,F539_RS01745,F539_RS01745,F539_01735,-,-,-,carbamate kinase,protein-coding,-,-,-,carbamate kinase,20200619,-
+722438,45596185,F539_RS01750,F539_RS01750,F539_01740,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210129,-
+722438,45596186,F539_RS01755,F539_RS01755,F539_01745,-,-,-,cytadherence-associated protein P65,protein-coding,-,-,-,cytadherence-associated protein P65,20200905,-
+722438,45596187,hmw2,F539_RS01760,F539_01750,-,-,-,terminal organelle tip protein HMW2,protein-coding,-,-,-,terminal organelle tip protein HMW2,20200912,-
+722438,45596188,F539_RS01765,F539_RS01765,F539_01755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596189,F539_RS01770,F539_RS01770,F539_01760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596190,F539_RS01775,F539_RS01775,F539_01765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596191,F539_RS01780,F539_RS01780,F539_01770,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596192,mraZ,F539_RS01785,F539_01775,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20210212,-
+722438,45596193,rsmH,F539_RS01790,F539_01780,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200619,-
+722438,45596194,F539_RS01795,F539_RS01795,F539_01785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596195,ftsZ,F539_RS01800,F539_01790,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596196,F539_RS01805,F539_RS01805,F539_01795,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200619,-
+722438,45596197,F539_RS01810,F539_RS01810,F539_01800,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200619,-
+722438,45596198,F539_RS01815,F539_RS01815,F539_01805,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20210212,-
+722438,45596199,F539_RS01820,F539_RS01820,F539_01810,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200619,-
+722438,45596200,nrdF,F539_RS01825,F539_01815,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20210212,-
+722438,45596201,nrdI,F539_RS01830,F539_01820,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20200619,-
+722438,45596202,nrdE,F539_RS01835,F539_01825,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20200619,-
+722438,45596203,rplU,F539_RS01840,F539_01830,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200619,-
+722438,45596204,F539_RS01845,F539_RS01845,F539_01835,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20200619,-
+722438,45596205,rpmA,F539_RS01850,F539_01840,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200619,-
+722438,45596206,F539_RS01855,F539_RS01855,F539_01845,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200619,-
+722438,45596207,F539_RS01860,F539_RS01860,F539_01850,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20200619,-
+722438,45596208,F539_RS01865,F539_RS01865,F539_01855,-,-,-,DUF3196 family protein,protein-coding,-,-,-,DUF3196 family protein,20210212,-
+722438,45596209,tig,F539_RS01870,F539_01860,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200619,-
+722438,45596210,lon,F539_RS01875,F539_01865,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200619,-
+722438,45596211,F539_RS01880,F539_RS01880,F539_01870,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596212,F539_RS01885,F539_RS01885,F539_01875,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596213,F539_RS01890,F539_RS01890,F539_01880,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200619,-
+722438,45596214,F539_RS01895,F539_RS01895,F539_01885,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20210129,-
+722438,45596215,F539_RS01900,F539_RS01900,F539_01890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596216,F539_RS01905,F539_RS01905,F539_01895,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596217,F539_RS01910,F539_RS01910,F539_01900,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200619,-
+722438,45596218,F539_RS01915,F539_RS01915,F539_01905,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20200619,-
+722438,45596219,F539_RS01920,F539_RS01920,F539_01910,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20200619,-
+722438,45596220,F539_RS01925,F539_RS01925,F539_01915,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20200619,-
+722438,45596221,F539_RS01930,F539_RS01930,F539_01920,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45596222,F539_RS01935,F539_RS01935,F539_01925,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596223,F539_RS01940,F539_RS01940,F539_01930,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20200619,-
+722438,45596224,F539_RS01945,F539_RS01945,F539_01935,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20210522,-
+722438,45596225,F539_RS01950,F539_RS01950,F539_01940,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20200619,-
+722438,45596226,F539_RS01955,F539_RS01955,F539_01945,-,-,-,death-on-curing family protein,protein-coding,-,-,-,death-on-curing family protein,20200619,-
+722438,45596227,F539_RS01960,F539_RS01960,F539_01950,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200619,-
+722438,45596228,F539_RS01965,F539_RS01965,F539_01955,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200619,-
+722438,45596229,plsY,F539_RS01970,F539_01960,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20200619,-
+722438,45596230,F539_RS01975,F539_RS01975,F539_01965,-,-,-,tRNA (adenine-N(1))-methyltransferase,protein-coding,-,-,-,tRNA (adenine-N(1))-methyltransferase,20200619,-
+722438,45596231,F539_RS01980,F539_RS01980,F539_01970,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200619,-
+722438,45596232,dnaG,F539_RS01985,F539_01975,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210129,-
+722438,45596233,glyS,F539_RS01990,F539_01980,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200619,-
+722438,45596234,rlmB,F539_RS01995,F539_01985,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200619,-
+722438,45596235,cysS,F539_RS02000,F539_01990,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200619,-
+722438,45596236,ligA,F539_RS02005,F539_01995,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200619,-
+722438,45596237,F539_RS02010,F539_RS02010,F539_02000,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596238,F539_RS02015,F539_RS02015,F539_02005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596239,F539_RS02020,F539_RS02020,F539_02010,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596240,F539_RS02025,F539_RS02025,F539_02015,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596241,F539_RS02030,F539_RS02030,F539_02020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596242,rpmE,F539_RS02035,F539_02025,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200619,-
+722438,45596243,prfA,F539_RS02040,F539_02030,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200619,-
+722438,45596244,F539_RS02045,F539_RS02045,F539_02035,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20200619,-
+722438,45596245,F539_RS02050,F539_RS02050,F539_02040,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210129,-
+722438,45596246,F539_RS02055,F539_RS02055,F539_02045,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20200619,-
+722438,45596247,F539_RS02070,F539_RS02070,F539_02055,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596248,F539_RS02075,F539_RS02075,F539_02060,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20200619,-
+722438,45596250,F539_RS02095,F539_RS02095,F539_02080,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596251,F539_RS02100,F539_RS02100,F539_02085,-,-,-,ADP-ribosylating toxin CARDS,protein-coding,-,-,-,ADP-ribosylating toxin CARDS,20200926,-
+722438,45596252,F539_RS02110,F539_RS02110,F539_02095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596253,F539_RS02115,F539_RS02115,F539_02100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596254,F539_RS02120,F539_RS02120,F539_02105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596255,F539_RS02125,F539_RS02125,F539_02110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596256,F539_RS02130,F539_RS02130,F539_02115,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596257,F539_RS02135,F539_RS02135,F539_02120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596258,F539_RS02140,F539_RS02140,F539_02125,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200619,-
+722438,45596259,F539_RS02145,F539_RS02145,F539_02130,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200619,-
+722438,45596260,mutM,F539_RS02150,F539_02135,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20200619,-
+722438,45596261,F539_RS02155,F539_RS02155,F539_02140,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200619,-
+722438,45596262,coaE,F539_RS02160,F539_02145,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200619,-
+722438,45596263,F539_RS02165,F539_RS02165,F539_02150,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210212,-
+722438,45596264,leuS,F539_RS02170,F539_02155,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200619,-
+722438,45596265,F539_RS02175,F539_RS02175,F539_02160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596266,F539_RS02180,F539_RS02180,F539_02165,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200619,-
+722438,45596267,F539_RS02185,F539_RS02185,F539_02170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+722438,45596268,F539_RS02190,F539_RS02190,F539_02175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596269,F539_RS02195,F539_RS02195,F539_02180,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20200619,-
+722438,45596270,lpdA,F539_RS02200,F539_02185,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200619,-
+722438,45596271,F539_RS02205,F539_RS02205,F539_02190,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200619,-
+722438,45596272,pdhB,F539_RS02210,F539_02195,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20200619,-
+722438,45596273,pdhA,F539_RS02215,F539_02200,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200619,-
+722438,45596274,F539_RS02220,F539_RS02220,F539_02205,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210212,-
+722438,45596275,apt,F539_RS02225,F539_02210,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200619,-
+722438,45596276,F539_RS02230,F539_RS02230,F539_02215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596277,F539_RS02235,F539_RS02235,F539_02220,-,-,-,RelA/SpoT family protein,protein-coding,-,-,-,RelA/SpoT family protein,20200619,-
+722438,45596278,F539_RS02240,F539_RS02240,F539_02225,-,-,-,MG_279/MG_280 family protein,protein-coding,-,-,-,MG_279/MG_280 family protein,20200619,-
+722438,45596279,F539_RS02245,F539_RS02245,F539_02230,-,-,-,MG_279/MG_280 family protein,protein-coding,-,-,-,MG_279/MG_280 family protein,20200619,-
+722438,45596280,F539_RS02250,F539_RS02250,F539_02235,-,-,-,IgG-blocking protein M,protein-coding,-,-,-,IgG-blocking protein M,20200619,-
+722438,45596281,F539_RS02255,F539_RS02255,F539_02240,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596282,F539_RS02260,F539_RS02260,F539_02245,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596283,F539_RS02265,F539_RS02265,F539_02250,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596284,F539_RS02270,F539_RS02270,F539_02255,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596285,F539_RS02275,F539_RS02275,F539_02260,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596286,greA,F539_RS02280,F539_02265,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200619,-
+722438,45596287,proS,F539_RS02285,F539_02270,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200619,-
+722438,45596288,F539_RS02290,F539_RS02290,F539_02275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596289,F539_RS02305,F539_RS02305,F539_02290,-,-,-,DUF5452 family protein,protein-coding,-,-,-,DUF5452 family protein,20210129,-
+722438,45596290,F539_RS02310,F539_RS02310,F539_02295,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596291,F539_RS02315,F539_RS02315,F539_02300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596292,F539_RS02320,F539_RS02320,F539_02305,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20210116,-
+722438,45596293,F539_RS02325,F539_RS02325,F539_02310,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210129,-
+722438,45596294,F539_RS02330,F539_RS02330,F539_02315,-,-,-,adhesin,protein-coding,-,-,-,adhesin,20210403,-
+722438,45596295,F539_RS02335,F539_RS02335,F539_02320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596296,F539_RS02340,F539_RS02340,F539_02325,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210212,-
+722438,45596297,F539_RS02345,F539_RS02345,F539_02330,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200619,-
+722438,45596298,F539_RS02350,F539_RS02350,F539_02335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+722438,45596299,F539_RS02355,F539_RS02355,F539_02340,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596300,F539_RS02360,F539_RS02360,F539_02345,-,-,-,DNA repair protein HhH-GPD,protein-coding,-,-,-,DNA repair protein HhH-GPD,20200619,-
+722438,45596301,F539_RS02365,F539_RS02365,F539_02350,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596302,F539_RS02370,F539_RS02370,F539_02355,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210212,-
+722438,45596303,ruvX,F539_RS02375,F539_02360,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200619,-
+722438,45596304,alaS,F539_RS02380,F539_02365,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200619,-
+722438,45596305,glpQ,F539_RS02385,F539_02370,-,-,-,glycerophosphoryl diester phosphodiesterase,protein-coding,-,-,-,glycerophosphoryl diester phosphodiesterase,20210212,-
+722438,45596306,F539_RS02390,F539_RS02390,F539_02375,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210212,-
+722438,45596307,mnmA,F539_RS02395,F539_02380,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200619,-
+722438,45596308,F539_RS02400,F539_RS02400,F539_02385,-,-,-,MG296/MPN423 family protein,protein-coding,-,-,-,MG296/MPN423 family protein,20210212,-
+722438,45596309,F539_RS02405,F539_RS02405,F539_02390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596310,ftsY,F539_RS02410,F539_02395,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200619,-
+722438,45596311,F539_RS02415,F539_RS02415,F539_02400,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200926,-
+722438,45596312,F539_RS02420,F539_RS02420,F539_02405,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200619,-
+722438,45596313,pta,F539_RS02425,F539_02410,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20200619,-
+722438,45596314,pgk,F539_RS02430,F539_02415,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200619,-
+722438,45596315,gap,F539_RS02435,F539_02420,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200619,-
+722438,45596316,F539_RS02440,F539_RS02440,F539_02425,-,-,-,CbiQ family ECF transporter T component,protein-coding,-,-,-,CbiQ family ECF transporter T component,20210212,-
+722438,45596317,F539_RS02445,F539_RS02445,F539_02430,-,-,-,energy-coupling factor ABC transporter ATP-binding protein,protein-coding,-,-,-,energy-coupling factor ABC transporter ATP-binding protein,20200619,-
+722438,45596318,F539_RS02450,F539_RS02450,F539_02435,-,-,-,energy-coupling factor ABC transporter ATP-binding protein,protein-coding,-,-,-,energy-coupling factor ABC transporter ATP-binding protein,20200619,-
+722438,45596319,dnaK,F539_RS02455,F539_02440,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200619,-
+722438,45596320,F539_RS02460,F539_RS02460,F539_02445,-,-,-,UPF0104 family protein,protein-coding,-,-,-,UPF0104 family protein,20200619,-
+722438,45596321,F539_RS02465,F539_RS02465,F539_02450,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200619,-
+722438,45596322,F539_RS02475,F539_RS02475,F539_02460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596323,F539_RS02480,F539_RS02480,F539_02465,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200619,-
+722438,45596324,F539_RS02485,F539_RS02485,F539_02470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596325,F539_RS02495,F539_RS02495,F539_02480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596326,F539_RS02500,F539_RS02500,F539_02485,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200619,-
+722438,45596327,F539_RS02505,F539_RS02505,F539_02490,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200619,-
+722438,45596328,F539_RS02510,F539_RS02510,F539_02495,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200619,-
+722438,45596329,rpsD,F539_RS02515,F539_02500,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200619,-
+722438,45596330,hmw1,F539_RS02520,F539_02505,-,-,-,terminal organelle protein HMW1,protein-coding,-,-,-,terminal organelle protein HMW1,20200926,-
+722438,45596331,F539_RS02525,F539_RS02525,F539_02510,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20210116,-
+722438,45596332,F539_RS02530,F539_RS02530,F539_02515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596333,F539_RS02535,F539_RS02535,F539_02520,-,-,-,"DNA polymerase III, delta subunit",protein-coding,-,-,-,"DNA polymerase III, delta subunit",20200619,-
+722438,45596334,F539_RS02540,F539_RS02540,F539_02525,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20200619,-
+722438,45596335,hmw3,F539_RS02545,F539_02530,-,-,-,terminal organelle protein HMW3,protein-coding,-,-,-,terminal organelle protein HMW3,20200926,-
+722438,45596336,F539_RS02550,F539_RS02550,F539_02535,-,-,-,adhesin P30,protein-coding,-,-,-,adhesin P30,20200619,-
+722438,45596337,F539_RS02555,F539_RS02555,F539_02540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596338,F539_RS02560,F539_RS02560,F539_02545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596339,F539_RS02565,F539_RS02565,F539_02550,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596340,F539_RS02570,F539_RS02570,F539_02555,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596341,F539_RS02575,F539_RS02575,F539_02560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596342,F539_RS02580,F539_RS02580,F539_02565,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596343,F539_RS02585,F539_RS02585,F539_02570,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596344,F539_RS02590,F539_RS02590,F539_02575,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596345,F539_RS02595,F539_RS02595,F539_02580,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596346,F539_RS02600,F539_RS02600,F539_02585,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596347,F539_RS02605,F539_RS02605,F539_02590,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596348,F539_RS02610,F539_RS02610,F539_02595,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596349,F539_RS02615,F539_RS02615,F539_02600,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200619,-
+722438,45596350,F539_RS02620,F539_RS02620,F539_02605,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200619,-
+722438,45596351,F539_RS02625,F539_RS02625,F539_02610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596352,F539_RS02630,F539_RS02630,F539_02615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596353,F539_RS02635,F539_RS02635,F539_02620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596354,F539_RS02640,F539_RS02640,F539_02625,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596355,F539_RS02645,F539_RS02645,F539_02630,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210116,-
+722438,45596356,F539_RS02650,F539_RS02650,F539_02635,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596357,F539_RS02655,F539_RS02655,F539_02640,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596358,F539_RS02660,F539_RS02660,F539_02645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596359,F539_RS02665,F539_RS02665,F539_02650,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200619,-
+722438,45596360,rpmG,F539_RS02670,F539_02655,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200619,-
+722438,45596361,F539_RS02675,F539_RS02675,F539_02660,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200619,-
+722438,45596362,F539_RS02680,F539_RS02680,F539_02665,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200619,-
+722438,45596363,F539_RS02685,F539_RS02685,F539_02670,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596364,der,F539_RS02690,F539_02675,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200619,-
+722438,45596365,cmk,F539_RS02695,F539_02680,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200619,-
+722438,45596366,F539_RS02700,F539_RS02700,F539_02685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596367,F539_RS02705,F539_RS02705,F539_02690,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210212,-
+722438,45596368,F539_RS02710,F539_RS02710,F539_02695,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210212,-
+722438,45596369,valS,F539_RS02715,F539_02700,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200619,-
+722438,45596370,F539_RS02720,F539_RS02720,F539_02705,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200619,-
+722438,45596371,F539_RS02725,F539_RS02725,F539_02710,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20200619,-
+722438,45596372,yibD,F539_RS02730,F539_02715,-,-,-,diacylglycerol beta-glycosyltransferase,protein-coding,-,-,-,diacylglycerol beta-glycosyltransferase,20210129,-
+722438,45596373,F539_RS02735,F539_RS02735,F539_02720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596374,F539_RS02740,F539_RS02740,F539_02725,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210212,-
+722438,45596375,F539_RS02745,F539_RS02745,F539_02735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596376,F539_RS02750,F539_RS02750,F539_02740,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210129,-
+722438,45596377,F539_RS02755,F539_RS02755,F539_02745,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200619,-
+722438,45596378,F539_RS02760,F539_RS02760,F539_02750,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200619,-
+722438,45596379,recA,F539_RS02765,F539_02755,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200619,-
+722438,45596380,F539_RS02775,F539_RS02775,F539_02765,-,-,-,L-ribulose-5-phosphate 3-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 3-epimerase,20210212,-
+722438,45596381,F539_RS02780,F539_RS02780,F539_02770,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,protein-coding,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,20200926,-
+722438,45596382,F539_RS02785,F539_RS02785,F539_02775,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210212,-
+722438,45596383,F539_RS02790,F539_RS02790,F539_02780,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20200619,-
+722438,45596384,F539_RS02795,F539_RS02795,F539_02785,-,-,-,PTS ascorbate transporter subunit IIC,protein-coding,-,-,-,PTS ascorbate transporter subunit IIC,20200619,-
+722438,45596385,F539_RS02800,F539_RS02800,F539_02790,-,-,-,phosphotriesterase,protein-coding,-,-,-,phosphotriesterase,20210116,-
+722438,45596386,F539_RS02805,F539_RS02805,F539_02795,-,-,-,L-ribulose-5-phosphate 4-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 4-epimerase,20210129,-
+722438,45596387,F539_RS02810,F539_RS02810,F539_02800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596388,F539_RS02815,F539_RS02815,F539_02805,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596389,F539_RS02820,F539_RS02820,F539_02810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596390,F539_RS02825,F539_RS02825,F539_02815,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20200619,-
+722438,45596391,F539_RS02830,F539_RS02830,F539_02820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+722438,45596392,F539_RS02840,F539_RS02840,F539_02830,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596393,F539_RS02845,F539_RS02845,F539_02835,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210129,-
+722438,45596394,F539_RS02850,F539_RS02850,F539_02840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596395,F539_RS02855,F539_RS02855,F539_02845,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210212,-
+722438,45596396,F539_RS02860,F539_RS02860,F539_02850,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45596397,F539_RS02865,F539_RS02865,F539_02855,-,-,-,DUF240 domain-containg protein,protein-coding,-,-,-,DUF240 domain-containg protein,20200619,-
+722438,45596398,F539_RS02870,F539_RS02870,F539_02860,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20200619,-
+722438,45596399,F539_RS02875,F539_RS02875,F539_02865,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596400,F539_RS02895,F539_RS02895,F539_02885,-,-,-,type IV secretion system DNA-binding domain-containing protein,protein-coding,-,-,-,type IV secretion system DNA-binding domain-containing protein,20201003,-
+722438,45596401,F539_RS02900,F539_RS02900,F539_02890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596403,F539_RS02910,F539_RS02910,F539_02900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596404,rpoC,F539_RS02915,F539_02905,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200619,-
+722438,45596405,F539_RS02920,F539_RS02920,F539_02910,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200619,-
+722438,45596406,F539_RS02925,F539_RS02925,F539_02915,-,-,-,NAD(P)H-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)H-dependent oxidoreductase,20200619,-
+722438,45596407,F539_RS02930,F539_RS02930,F539_02920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596408,F539_RS02935,F539_RS02935,F539_02925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596409,F539_RS02940,F539_RS02940,F539_02930,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200619,-
+722438,45596410,ileS,F539_RS02945,F539_02935,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200619,-
+722438,45596411,trmL,F539_RS02950,F539_02940,-,-,-,tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL,protein-coding,-,-,-,tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL,20200619,-
+722438,45596412,trmB,F539_RS02955,F539_02945,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200619,-
+722438,45596413,F539_RS02960,F539_RS02960,F539_02950,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596414,F539_RS02965,F539_RS02965,F539_02955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596415,F539_RS02970,F539_RS02970,F539_02960,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596417,F539_RS02980,F539_RS02980,F539_02970,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596418,F539_RS02985,F539_RS02985,F539_02975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596419,F539_RS02990,F539_RS02990,F539_02980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596420,F539_RS02995,F539_RS02995,F539_02985,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596421,F539_RS03000,F539_RS03000,F539_02990,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596422,F539_RS03005,F539_RS03005,F539_02995,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200619,-
+722438,45596423,recU,F539_RS03010,F539_03000,-,-,-,recombination protein U,protein-coding,-,-,-,recombination protein U,20200619,-
+722438,45596424,F539_RS03015,F539_RS03015,F539_03005,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210212,-
+722438,45596425,F539_RS03020,F539_RS03020,F539_03010,-,-,-,DUF1951 domain-containing protein,protein-coding,-,-,-,DUF1951 domain-containing protein,20200619,-
+722438,45596426,clpB,F539_RS03025,F539_03015,-,-,-,chaperone protein ClpB,protein-coding,-,-,-,chaperone protein ClpB,20200926,-
+722438,45596427,F539_RS03030,F539_RS03030,F539_03020,-,-,-,phosphotransferase family protein,protein-coding,-,-,-,phosphotransferase family protein,20200619,-
+722438,45596428,F539_RS03035,F539_RS03035,F539_03025,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20200619,-
+722438,45596429,F539_RS03040,F539_RS03040,F539_03030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596430,F539_RS03045,F539_RS03045,F539_03035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596431,ruvA,F539_RS03050,F539_03040,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20200619,-
+722438,45596432,ruvB,F539_RS03055,F539_03045,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200619,-
+722438,45596433,F539_RS03060,F539_RS03060,F539_03050,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20200619,-
+722438,45596434,F539_RS03065,F539_RS03065,F539_03055,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200619,-
+722438,45596435,rplL,F539_RS03070,F539_03060,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200619,-
+722438,45596436,rpmF,F539_RS03075,F539_03065,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200619,-
+722438,45596437,F539_RS03080,F539_RS03080,F539_03070,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200619,-
+722438,45596438,F539_RS03085,F539_RS03085,F539_03075,-,-,-,DUF5385 domain-containing protein,protein-coding,-,-,-,DUF5385 domain-containing protein,20210212,-
+722438,45596439,fmt,F539_RS03090,F539_03080,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200619,-
+722438,45596440,F539_RS03095,F539_RS03095,F539_03085,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20200619,-
+722438,45596441,rnc,F539_RS03100,F539_03090,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200619,-
+722438,45596442,plsX,F539_RS03105,F539_03095,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200619,-
+722438,45596443,F539_RS03110,F539_RS03110,F539_03100,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200619,-
+722438,45596444,F539_RS03115,F539_RS03115,F539_03105,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200619,-
+722438,45596445,F539_RS03120,F539_RS03120,F539_03110,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200619,-
+722438,45596446,thiI,F539_RS03125,F539_03115,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20200619,-
+722438,45596447,F539_RS03130,F539_RS03130,F539_03120,-,-,-,YqaJ viral recombinase family protein,protein-coding,-,-,-,YqaJ viral recombinase family protein,20210129,-
+722438,45596448,F539_RS03135,F539_RS03135,F539_03125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596449,thrS,F539_RS03140,F539_03130,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200619,-
+722438,45596450,F539_RS03145,F539_RS03145,F539_03135,-,-,-,singe-stranded DNA-binding protein,protein-coding,-,-,-,singe-stranded DNA-binding protein,20210212,-
+722438,45596451,F539_RS03150,F539_RS03150,F539_03140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596452,argS,F539_RS03155,F539_03145,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200619,-
+722438,45596453,mnmG,F539_RS03160,F539_03150,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200619,-
+722438,45596454,rsmG,F539_RS03165,F539_03155,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210129,-
+722438,45596455,F539_RS03170,F539_RS03170,F539_03160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596456,F539_RS03175,F539_RS03175,F539_03165,-,-,-,-,tRNA,-,-,-,-,20200618,-
+722438,45596457,F539_RS03180,F539_RS03180,F539_03170,-,-,-,arginine deiminase-like protein,protein-coding,-,-,-,arginine deiminase-like protein,20200619,-
+722438,45596458,udk,F539_RS03185,F539_03175,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20200619,-
+722438,45596459,nadE,F539_RS03190,F539_03180,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20200619,-
+722438,45596460,obgE,F539_RS03195,F539_03185,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200619,-
+722438,45596461,F539_RS03200,F539_RS03200,F539_03190,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596462,F539_RS03205,F539_RS03205,F539_03195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596463,F539_RS03210,F539_RS03210,F539_03200,-,-,-,glycerophosphoryl diester phosphodiesterase,protein-coding,-,-,-,glycerophosphoryl diester phosphodiesterase,20200619,-
+722438,45596464,F539_RS03215,F539_RS03215,F539_03205,-,-,-,terminal organelle protein P200,protein-coding,-,-,-,terminal organelle protein P200,20210116,-
+722438,45596465,era,F539_RS03220,F539_03210,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20200619,-
+722438,45596466,ybeY,F539_RS03225,F539_03215,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200619,-
+722438,45596467,F539_RS03230,F539_RS03230,F539_03220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596468,F539_RS03240,F539_RS03240,F539_03230,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596469,F539_RS03245,F539_RS03245,F539_03235,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200619,-
+722438,45596470,groL,F539_RS03250,F539_03240,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200619,-
+722438,45596471,groES,F539_RS03255,F539_03245,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200619,-
+722438,45596472,F539_RS03260,F539_RS03260,F539_03250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596473,F539_RS03265,F539_RS03265,F539_03255,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200619,-
+722438,45596474,F539_RS03270,F539_RS03270,F539_03260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45596476,F539_RS03280,F539_RS03280,F539_03270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596477,F539_RS03285,F539_RS03285,F539_03275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596478,F539_RS03290,F539_RS03290,F539_03280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+722438,45596479,F539_RS03295,F539_RS03295,F539_03285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596480,F539_RS03310,F539_RS03310,F539_03295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596481,F539_RS03315,F539_RS03315,F539_03300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596482,F539_RS03320,F539_RS03320,F539_03305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596483,F539_RS03325,F539_RS03325,F539_03310,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596484,F539_RS03330,F539_RS03330,F539_03315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596485,F539_RS03340,F539_RS03340,F539_03325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596486,F539_RS03345,F539_RS03345,F539_03330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596487,F539_RS03350,F539_RS03350,F539_03335,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210129,-
+722438,45596488,F539_RS03355,F539_RS03355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210116,-
+722438,45596489,F539_RS03360,F539_RS03360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45596490,F539_RS03365,F539_RS03365,F539_03345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210403,-
+722438,45596491,F539_RS03370,F539_RS03370,F539_03350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45596492,F539_RS03375,F539_RS03375,F539_03355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596493,F539_RS03380,F539_RS03380,F539_03360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596494,rpiB,F539_RS03385,F539_03365,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20200619,-
+722438,45596495,F539_RS03390,F539_RS03390,F539_03370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596496,F539_RS03395,F539_RS03395,F539_03375,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20200619,-
+722438,45596497,atpD,F539_RS03400,F539_03380,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200619,-
+722438,45596498,F539_RS03405,F539_RS03405,F539_03385,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200619,-
+722438,45596499,atpA,F539_RS03410,F539_03390,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200619,-
+722438,45596500,F539_RS03415,F539_RS03415,F539_03395,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200619,-
+722438,45596501,atpF,F539_RS03420,F539_03400,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200619,-
+722438,45596502,F539_RS03425,F539_RS03425,F539_03405,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20200619,-
+722438,45596503,F539_RS03430,F539_RS03430,F539_03410,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200619,-
+722438,45596504,F539_RS03435,F539_RS03435,F539_03415,-,-,-,MG406 family protein,protein-coding,-,-,-,MG406 family protein,20210212,-
+722438,45596505,eno,F539_RS03440,F539_03420,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200619,-
+722438,45596506,msrA,F539_RS03445,F539_03425,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,protein-coding,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,20200619,-
+722438,45596507,phoU,F539_RS03450,F539_03430,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20210212,-
+722438,45596508,pstB,F539_RS03455,F539_03435,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20200619,-
+722438,45596509,pstA,F539_RS03460,F539_03440,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20200619,-
+722438,45596510,F539_RS03465,F539_RS03465,F539_03445,-,-,-,PstS family phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,PstS family phosphate ABC transporter substrate-binding protein,20200619,-
+722438,45596511,F539_RS03470,F539_RS03470,F539_03450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596512,F539_RS03475,F539_RS03475,F539_03455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596513,F539_RS03480,F539_RS03480,F539_03460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596514,F539_RS03485,F539_RS03485,F539_03465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596515,F539_RS03490,F539_RS03490,F539_03470,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596516,rpsI,F539_RS03495,F539_03475,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200619,-
+722438,45596517,rplM,F539_RS03500,F539_03480,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200619,-
+722438,45596518,dnaX,F539_RS03505,F539_03485,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200619,-
+722438,45596519,uvrA,F539_RS03510,F539_03490,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200926,-
+722438,45596520,F539_RS03515,F539_RS03515,F539_03495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210129,-
+722438,45596521,F539_RS03520,F539_RS03520,F539_03500,-,-,-,RNase J family beta-CASP ribonuclease,protein-coding,-,-,-,RNase J family beta-CASP ribonuclease,20210212,-
+722438,45596522,rpsO,F539_RS03525,F539_03505,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200619,-
+722438,45596523,F539_RS03530,F539_RS03530,F539_03510,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200619,-
+722438,45596524,F539_RS03535,F539_RS03535,F539_03515,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200619,-
+722438,45596525,F539_RS03540,F539_RS03540,F539_03520,-,-,-,OsmC family protein,protein-coding,-,-,-,OsmC family protein,20200619,-
+722438,45596526,F539_RS03545,F539_RS03545,F539_03525,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20210116,-
+722438,45596527,ptsP,F539_RS03550,F539_03530,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200619,-
+722438,45596528,gpmI,F539_RS03555,F539_03535,-,-,-,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",protein-coding,-,-,-,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",20200619,-
+722438,45596529,F539_RS03560,F539_RS03560,F539_03540,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200619,-
+722438,45596530,F539_RS03565,F539_RS03565,F539_03545,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200619,-
+722438,45596531,tsf,F539_RS03570,F539_03550,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20200619,-
+722438,45596532,pyrH,F539_RS03575,F539_03555,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200618,-
+722438,45596533,F539_RS03580,F539_RS03580,F539_03560,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210129,-
+722438,45596534,F539_RS03585,F539_RS03585,F539_03565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596535,F539_RS03590,F539_RS03590,F539_03570,-,-,-,SprT-like domain-containing protein,protein-coding,-,-,-,SprT-like domain-containing protein,20200619,-
+722438,45596536,frr,F539_RS03595,F539_03575,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200619,-
+722438,45596537,F539_RS03600,F539_RS03600,F539_03580,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200619,-
+722438,45596538,F539_RS03605,F539_RS03605,F539_03585,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210129,-
+722438,45596539,F539_RS03610,F539_RS03610,F539_03590,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210212,-
+722438,45596540,F539_RS03615,F539_RS03615,F539_03595,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20200619,-
+722438,45596541,F539_RS03620,F539_RS03620,F539_03600,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596542,F539_RS03625,F539_RS03625,F539_03605,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210212,-
+722438,45596543,F539_RS03630,F539_RS03630,F539_03610,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210212,-
+722438,45596544,F539_RS03635,F539_RS03635,F539_03615,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210116,-
+722438,45596545,F539_RS03640,F539_RS03640,F539_03620,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20200619,-
+722438,45596546,F539_RS03645,F539_RS03645,F539_03625,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210129,-
+722438,45596547,F539_RS03650,F539_RS03650,F539_03630,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210129,-
+722438,45596548,F539_RS03655,F539_RS03655,F539_03635,-,-,-,DUF5426 family protein,protein-coding,-,-,-,DUF5426 family protein,20200618,-
+722438,45596549,F539_RS03660,F539_RS03660,F539_03640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596550,F539_RS03665,F539_RS03665,F539_03645,-,-,-,MPN647 family lipoprotein,protein-coding,-,-,-,MPN647 family lipoprotein,20210129,-
+722438,45596551,F539_RS03670,F539_RS03670,F539_03650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596552,F539_RS03680,F539_RS03680,F539_03660,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596553,F539_RS03685,F539_RS03685,F539_03665,-,-,-,mannitol-1-phosphate 5-dehydrogenase,protein-coding,-,-,-,mannitol-1-phosphate 5-dehydrogenase,20200619,-
+722438,45596554,F539_RS03690,F539_RS03690,F539_03670,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200619,-
+722438,45596555,F539_RS03700,F539_RS03700,F539_03680,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210129,-
+722438,45596556,F539_RS03705,F539_RS03705,F539_03685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596557,ylqF,F539_RS03710,F539_03690,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200619,-
+722438,45596558,F539_RS03715,F539_RS03715,F539_03695,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200619,-
+722438,45596559,rplS,F539_RS03720,F539_03700,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200619,-
+722438,45596560,trmD,F539_RS03725,F539_03705,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200619,-
+722438,45596561,rpsP,F539_RS03730,F539_03710,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200619,-
+722438,45596562,F539_RS03735,F539_RS03735,F539_03715,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200619,-
+722438,45596563,msrB,F539_RS03740,F539_03720,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,protein-coding,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,20200619,-
+722438,45596564,F539_RS03745,F539_RS03745,F539_03725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596565,F539_RS03750,F539_RS03750,F539_03730,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200619,-
+722438,45596566,tuf,F539_RS03755,F539_03735,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200619,-
+722438,45596567,F539_RS03760,F539_RS03760,F539_03740,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200619,-
+722438,45596568,galU,F539_RS03765,F539_03745,-,-,-,UTP--glucose-1-phosphate uridylyltransferase GalU,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase GalU,20200619,-
+722438,45596569,F539_RS03770,F539_RS03770,F539_03750,-,-,-,OsmC family protein,protein-coding,-,-,-,OsmC family protein,20200619,-
+722438,45596570,tyrS,F539_RS03775,F539_03755,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200619,-
+722438,45596571,F539_RS03780,F539_RS03780,F539_03760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596572,F539_RS03785,F539_RS03785,F539_03765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596573,F539_RS03790,F539_RS03790,F539_03770,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20200619,-
+722438,45596574,hpt,F539_RS03795,F539_03775,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200619,-
+722438,45596575,F539_RS03800,F539_RS03800,F539_03780,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200619,-
+722438,45596576,F539_RS03805,F539_RS03805,F539_03785,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20200619,-
+722438,45596577,F539_RS03810,F539_RS03810,F539_03790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210212,-
+722438,45596578,F539_RS03815,F539_RS03815,F539_03795,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20200619,-
+722438,45596579,gltX,F539_RS03820,F539_03800,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200619,-
+722438,45596580,rsmA,F539_RS03825,F539_03805,-,-,-,ribosomal RNA small subunit methyltransferase A,protein-coding,-,-,-,ribosomal RNA small subunit methyltransferase A,20200619,-
+722438,45596581,yidC,F539_RS03830,F539_03810,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200619,-
+722438,45596582,rnpA,F539_RS03835,F539_03815,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200619,-
+722438,45596583,rpmH,F539_RS03840,F539_03820,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210212,-
+722438,45596584,F539_RS03845,F539_RS03845,F539_03825,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596585,F539_RS03850,F539_RS03850,F539_03830,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20200926,-
+722438,45596586,F539_RS03855,F539_RS03855,F539_03835,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200619,-
+722438,45596587,dnaA,F539_RS03860,F539_03840,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200619,-
+722438,45596588,F539_RS03865,F539_RS03865,F539_03845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596589,F539_RS03870,F539_RS03870,F539_03850,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200619,-
+722438,45596591,F539_RS03905,F539_RS03905,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596592,F539_RS03915,F539_RS03915,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596594,F539_RS03925,F539_RS03925,F539_01485,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596595,F539_RS03930,F539_RS03930,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596596,F539_RS03935,F539_RS03935,-,-,-,-,DUF16 domain-containing protein,protein-coding,-,-,-,DUF16 domain-containing protein,20210327,-
+722438,45596598,ffs,F539_RS03965,-,-,-,-,-,ncRNA,-,-,-,-,20200618,-
+722438,45596599,F539_RS03975,F539_RS03975,-,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200619,-
+722438,45596600,F539_RS03985,F539_RS03985,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596601,F539_RS03990,F539_RS03990,F539_02455,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20210129,-
+722438,45596602,rnpB,F539_RS04000,-,-,-,-,-,ncRNA,-,-,-,-,20200618,-
+722438,45596603,ssrA,F539_RS04005,-,-,-,-,-,miscRNA,-,-,-,-,20200618,-
+722438,45596604,F539_RS04025,F539_RS04025,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596605,F539_RS04045,F539_RS04045,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596606,F539_RS04050,F539_RS04050,F539_00545,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200619,-
+722438,45596607,F539_RS04055,F539_RS04055,F539_00590,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596608,F539_RS04085,F539_RS04085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596609,F539_RS04095,F539_RS04095,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596610,F539_RS04120,F539_RS04120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210403,-
+722438,45596611,F539_RS04135,F539_RS04135,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596612,F539_RS04150,F539_RS04150,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596613,F539_RS04160,F539_RS04160,F539_01545,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210129,-
+722438,45596614,F539_RS04165,F539_RS04165,-,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210123,-
+722438,45596616,F539_RS04175,F539_RS04175,F539_02760,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210129,-
+722438,45596617,F539_RS04180,F539_RS04180,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+722438,45596618,F539_RS04185,F539_RS04185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200926,-
+722438,45596620,F539_RS04195,F539_RS04195,F539_00770,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596621,F539_RS04200,F539_RS04200,F539_00775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200619,-
+722438,45596622,F539_RS04205,F539_RS04205,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596623,F539_RS04210,F539_RS04210,F539_02090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596624,F539_RS04215,F539_RS04215,F539_02475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596625,F539_RS04220,F539_RS04220,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596626,F539_RS04225,F539_RS04225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596627,F539_RS04230,F539_RS04230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596628,F539_RS04235,F539_RS04235,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596629,F539_RS04240,F539_RS04240,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596630,F539_RS04245,F539_RS04245,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596633,F539_RS04260,F539_RS04260,-,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210123,-
+722438,45596634,F539_RS04265,F539_RS04265,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596635,F539_RS04270,F539_RS04270,F539_02070,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596636,F539_RS04275,F539_RS04275,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,45596637,F539_RS04280,F539_RS04280,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,45596638,F539_RS04285,F539_RS04285,F539_02875,-,-,-,DUF237 domain-containg protein,protein-coding,-,-,-,DUF237 domain-containg protein,20200619,-
+722438,45596639,F539_RS04290,F539_RS04290,F539_02880,-,-,-,DUF240 domain-containg protein,protein-coding,-,-,-,DUF240 domain-containg protein,20200619,-
+722438,45596643,F539_RS04310,F539_RS04310,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,55564102,F539_RS04315,F539_RS04315,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,55564103,F539_RS04320,F539_RS04320,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,55564104,F539_RS04325,F539_RS04325,-,-,-,-,-,pseudo,-,-,-,-,20200618,-
+722438,55564105,F539_RS04330,F539_RS04330,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200618,-
+722438,55564106,F539_RS04335,F539_RS04335,F539_03290,-,-,-,-,pseudo,-,-,-,-,20200618,-

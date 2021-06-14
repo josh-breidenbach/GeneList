@@ -1,0 +1,1237 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+445987,7559041,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Borrelia valaisiana VS116).,other,-,-,-,-,20210419,-
+445987,63640782,BVAVS116_RS00005,BVAVS116_RS00005,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63640783,BVAVS116_RS00010,BVAVS116_RS00010,BVAVS116_0001,-,-,-,glycoside hydrolase family 3 protein,protein-coding,-,-,-,glycoside hydrolase family 3 protein,20210416,-
+445987,63640784,BVAVS116_RS00015,BVAVS116_RS00015,BVAVS116_0002,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210416,-
+445987,63640785,BVAVS116_RS00020,BVAVS116_RS00020,BVAVS116_0003,-,-,-,phosphoglucomutase,protein-coding,-,-,-,phosphoglucomutase,20210416,-
+445987,63640786,trpS,BVAVS116_RS00025,BVAVS116_0004,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20210416,-
+445987,63640787,BVAVS116_RS00030,BVAVS116_RS00030,BVAVS116_0005,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210416,-
+445987,63640788,BVAVS116_RS00035,BVAVS116_RS00035,BVAVS116_0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640789,cdaA,BVAVS116_RS00040,BVAVS116_0007,-,-,-,diadenylate cyclase CdaA,protein-coding,-,-,-,diadenylate cyclase CdaA,20210419,-
+445987,63640790,BVAVS116_RS00045,BVAVS116_RS00045,BVAVS116_0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640791,BVAVS116_RS00050,BVAVS116_RS00050,BVAVS116_0009,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20210416,-
+445987,63640792,BVAVS116_RS00055,BVAVS116_RS00055,BVAVS116_0010,-,-,-,DUF2225 domain-containing protein,protein-coding,-,-,-,DUF2225 domain-containing protein,20210416,-
+445987,63640793,truA,BVAVS116_RS00060,BVAVS116_0011,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210416,-
+445987,63640794,BVAVS116_RS00065,BVAVS116_RS00065,BVAVS116_0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640795,priA,BVAVS116_RS00070,BVAVS116_0014,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20210416,-
+445987,63640796,udk,BVAVS116_RS00075,BVAVS116_0013,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20210416,-
+445987,63640797,BVAVS116_RS00080,BVAVS116_RS00080,BVAVS116_0015,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20210416,-
+445987,63640798,BVAVS116_RS00085,BVAVS116_RS00085,BVAVS116_0017,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20210416,-
+445987,63640799,BVAVS116_RS00090,BVAVS116_RS00090,BVAVS116_0016,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210416,-
+445987,63640800,BVAVS116_RS00095,BVAVS116_RS00095,BVAVS116_0018,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640801,BVAVS116_RS00100,BVAVS116_RS00100,BVAVS116_0019,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20210416,-
+445987,63640802,queA,BVAVS116_RS00105,BVAVS116_0020,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,protein-coding,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,20210416,-
+445987,63640803,ruvB,BVAVS116_RS00110,BVAVS116_0021,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20210416,-
+445987,63640804,ruvA,BVAVS116_RS00115,BVAVS116_0022,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210416,-
+445987,63640805,BVAVS116_RS00120,BVAVS116_RS00120,BVAVS116_0023,-,-,-,sorbosone dehydrogenase family protein,protein-coding,-,-,-,sorbosone dehydrogenase family protein,20210416,-
+445987,63640806,BVAVS116_RS00125,BVAVS116_RS00125,BVAVS116_0024,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210416,-
+445987,63640807,BVAVS116_RS00130,BVAVS116_RS00130,BVAVS116_0025,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20210416,-
+445987,63640808,BVAVS116_RS00135,BVAVS116_RS00135,BVAVS116_0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640809,BVAVS116_RS00140,BVAVS116_RS00140,BVAVS116_0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640810,BVAVS116_RS00145,BVAVS116_RS00145,BVAVS116_0027,-,-,-,DUF188 domain-containing protein,protein-coding,-,-,-,DUF188 domain-containing protein,20210416,-
+445987,63640811,lepB,BVAVS116_RS00150,BVAVS116_0029,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210416,-
+445987,63640812,lepB,BVAVS116_RS00155,BVAVS116_0030,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210416,-
+445987,63640813,BVAVS116_RS00160,BVAVS116_RS00160,BVAVS116_0031,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20210416,-
+445987,63640814,smpB,BVAVS116_RS00165,BVAVS116_0032,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210416,-
+445987,63640815,BVAVS116_RS00170,BVAVS116_RS00170,BVAVS116_0033,-,-,-,P13 family porin,protein-coding,-,-,-,P13 family porin,20210416,-
+445987,63640816,BVAVS116_RS00175,BVAVS116_RS00175,BVAVS116_0034,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20210416,-
+445987,63640817,BVAVS116_RS00180,BVAVS116_RS00180,BVAVS116_0035,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20210416,-
+445987,63640818,BVAVS116_RS00185,BVAVS116_RS00185,BVAVS116_0036,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210416,-
+445987,63640819,BVAVS116_RS00190,BVAVS116_RS00190,BVAVS116_0037,-,-,-,pallilysin-related adhesin,protein-coding,-,-,-,pallilysin-related adhesin,20210416,-
+445987,63640820,BVAVS116_RS00195,BVAVS116_RS00195,BVAVS116_0038,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640821,BVAVS116_RS00200,BVAVS116_RS00200,BVAVS116_0039,-,-,-,protein-glutamate O-methyltransferase,protein-coding,-,-,-,protein-glutamate O-methyltransferase,20210416,-
+445987,63640822,phoU,BVAVS116_RS00205,BVAVS116_0040,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20210416,-
+445987,63640823,BVAVS116_RS00210,BVAVS116_RS00210,BVAVS116_0041,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640824,BVAVS116_RS00215,BVAVS116_RS00215,BVAVS116_0042,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640825,BVAVS116_RS00220,BVAVS116_RS00220,BVAVS116_0043,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210416,-
+445987,63640826,BVAVS116_RS00225,BVAVS116_RS00225,BVAVS116_0044,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210416,-
+445987,63640827,bpuR,BVAVS116_RS00230,BVAVS116_0045,-,-,-,transcriptional regulator BpuR,protein-coding,-,-,-,transcriptional regulator BpuR,20210416,-
+445987,63640828,BVAVS116_RS00235,BVAVS116_RS00235,BVAVS116_0046,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63640829,BVAVS116_RS00240,BVAVS116_RS00240,BVAVS116_0050,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210416,-
+445987,63640830,BVAVS116_RS00245,BVAVS116_RS00245,BVAVS116_0052,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210416,-
+445987,63640831,BVAVS116_RS00250,BVAVS116_RS00250,BVAVS116_0051,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210416,-
+445987,63640832,ung,BVAVS116_RS00255,BVAVS116_0053,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210416,-
+445987,63640833,secG,BVAVS116_RS00260,BVAVS116_0054,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210416,-
+445987,63640834,BVAVS116_RS00265,BVAVS116_RS00265,BVAVS116_0055,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210416,-
+445987,63640835,BVAVS116_RS00270,BVAVS116_RS00270,BVAVS116_0056,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20210416,-
+445987,63640836,gap,BVAVS116_RS00275,BVAVS116_0057,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210416,-
+445987,63640837,BVAVS116_RS00280,BVAVS116_RS00280,BVAVS116_0058,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640838,BVAVS116_RS00285,BVAVS116_RS00285,BVAVS116_0059,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210416,-
+445987,63640839,ybeY,BVAVS116_RS00290,BVAVS116_0060,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210416,-
+445987,63640840,trxA,BVAVS116_RS00295,BVAVS116_0061,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20210416,-
+445987,63640841,BVAVS116_RS00300,BVAVS116_RS00300,BVAVS116_0062,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210416,-
+445987,63640842,BVAVS116_RS00305,BVAVS116_RS00305,BVAVS116_0063,-,-,-,PASTA domain-containing protein,protein-coding,-,-,-,PASTA domain-containing protein,20210416,-
+445987,63640843,fmt,BVAVS116_RS00310,BVAVS116_0064,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210416,-
+445987,63640844,def,BVAVS116_RS00315,BVAVS116_0065,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20210416,-
+445987,63640845,BVAVS116_RS00320,BVAVS116_RS00320,BVAVS116_0066,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640846,BVAVS116_RS00325,BVAVS116_RS00325,BVAVS116_0067,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210416,-
+445987,63640847,BVAVS116_RS00330,BVAVS116_RS00330,BVAVS116_0068,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210416,-
+445987,63640848,BVAVS116_RS00335,BVAVS116_RS00335,BVAVS116_0069,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20210416,-
+445987,63640849,BVAVS116_RS00340,BVAVS116_RS00340,BVAVS116_0070,-,-,-,divergent PAP2 family protein,protein-coding,-,-,-,divergent PAP2 family protein,20210416,-
+445987,63640850,BVAVS116_RS00345,BVAVS116_RS00345,BVAVS116_0071,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640851,BVAVS116_RS00350,BVAVS116_RS00350,BVAVS116_0072,-,-,-,RnfABCDGE type electron transport complex subunit D,protein-coding,-,-,-,RnfABCDGE type electron transport complex subunit D,20210416,-
+445987,63640852,BVAVS116_RS00355,BVAVS116_RS00355,BVAVS116_0073,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640853,prfB,BVAVS116_RS00360,BVAVS116_0074,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210416,-
+445987,63640854,BVAVS116_RS00365,BVAVS116_RS00365,BVAVS116_0075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640855,ftsY,BVAVS116_RS00370,BVAVS116_0076,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210416,-
+445987,63640856,BVAVS116_RS00375,BVAVS116_RS00375,BVAVS116_0077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640857,BVAVS116_RS00380,BVAVS116_RS00380,BVAVS116_0078,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63640858,BVAVS116_RS00385,BVAVS116_RS00385,BVAVS116_0079,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63640859,BVAVS116_RS00390,BVAVS116_RS00390,BVAVS116_0080,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63640860,BVAVS116_RS00395,BVAVS116_RS00395,BVAVS116_0081,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640861,BVAVS116_RS00400,BVAVS116_RS00400,BVAVS116_0082,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640862,BVAVS116_RS00405,BVAVS116_RS00405,BVAVS116_0083,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20210416,-
+445987,63640863,BVAVS116_RS00410,BVAVS116_RS00410,BVAVS116_0084,-,-,-,iron-sulfur cluster scaffold-like protein,protein-coding,-,-,-,iron-sulfur cluster scaffold-like protein,20210416,-
+445987,63640864,BVAVS116_RS00415,BVAVS116_RS00415,BVAVS116_0085,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20210416,-
+445987,63640865,BVAVS116_RS00420,BVAVS116_RS00420,BVAVS116_0086,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20210416,-
+445987,63640866,lepA,BVAVS116_RS00425,BVAVS116_0087,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210416,-
+445987,63640867,BVAVS116_RS00430,BVAVS116_RS00430,BVAVS116_0088,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640868,BVAVS116_RS00435,BVAVS116_RS00435,BVAVS116_0089,-,-,-,ATP synthase subunit K,protein-coding,-,-,-,ATP synthase subunit K,20210416,-
+445987,63640869,BVAVS116_RS00440,BVAVS116_RS00440,BVAVS116_0090,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20210416,-
+445987,63640870,BVAVS116_RS00445,BVAVS116_RS00445,BVAVS116_0091,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20210416,-
+445987,63640871,BVAVS116_RS00450,BVAVS116_RS00450,BVAVS116_0092,-,-,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20210416,-
+445987,63640872,BVAVS116_RS00455,BVAVS116_RS00455,BVAVS116_0093,-,-,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20210416,-
+445987,63640873,BVAVS116_RS00460,BVAVS116_RS00460,BVAVS116_0094,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640874,BVAVS116_RS00465,BVAVS116_RS00465,BVAVS116_0095,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20210416,-
+445987,63640875,BVAVS116_RS00470,BVAVS116_RS00470,BVAVS116_0096,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640876,BVAVS116_RS00475,BVAVS116_RS00475,BVAVS116_0097,-,-,-,endonuclease MutS2,protein-coding,-,-,-,endonuclease MutS2,20210416,-
+445987,63640877,rsgA,BVAVS116_RS00480,BVAVS116_0098,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20210416,-
+445987,63640878,murI,BVAVS116_RS00485,BVAVS116_0099,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20210416,-
+445987,63640879,asnS,BVAVS116_RS00490,BVAVS116_0100,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20210416,-
+445987,63640880,BVAVS116_RS00495,BVAVS116_RS00495,BVAVS116_0102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640881,BVAVS116_RS00500,BVAVS116_RS00500,BVAVS116_0101,-,-,-,phosphoribosyltransferase,protein-coding,-,-,-,phosphoribosyltransferase,20210416,-
+445987,63640882,BVAVS116_RS00505,BVAVS116_RS00505,BVAVS116_0103,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20210416,-
+445987,63640883,map,BVAVS116_RS00510,BVAVS116_0104,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20210416,-
+445987,63640884,BVAVS116_RS00515,BVAVS116_RS00515,BVAVS116_0105,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640885,nusB,BVAVS116_RS00520,BVAVS116_0106,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210416,-
+445987,63640886,BVAVS116_RS00525,BVAVS116_RS00525,BVAVS116_0107,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210416,-
+445987,63640887,BVAVS116_RS00530,BVAVS116_RS00530,BVAVS116_0108,-,-,-,acetyl-CoA C-acyltransferase,protein-coding,-,-,-,acetyl-CoA C-acyltransferase,20210416,-
+445987,63640888,BVAVS116_RS00535,BVAVS116_RS00535,BVAVS116_0109,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640889,dnaB,BVAVS116_RS00540,BVAVS116_0110,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210416,-
+445987,63640890,rplI,BVAVS116_RS00545,BVAVS116_0111,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210419,-
+445987,63640891,rpsR,BVAVS116_RS00550,BVAVS116_0112,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210416,-
+445987,63640892,BVAVS116_RS00555,BVAVS116_RS00555,BVAVS116_0113,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210416,-
+445987,63640893,BVAVS116_RS00560,BVAVS116_RS00560,BVAVS116_0114,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20210416,-
+445987,63640894,BVAVS116_RS00565,BVAVS116_RS00565,BVAVS116_0115,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210416,-
+445987,63640895,BVAVS116_RS00570,BVAVS116_RS00570,BVAVS116_0117,-,-,-,hemolysin III family protein,protein-coding,-,-,-,hemolysin III family protein,20210416,-
+445987,63640896,rseP,BVAVS116_RS00575,BVAVS116_0116,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20210416,-
+445987,63640897,BVAVS116_RS00580,BVAVS116_RS00580,BVAVS116_0118,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210424,-
+445987,63640898,uppS,BVAVS116_RS00585,BVAVS116_0119,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20210416,-
+445987,63640899,frr,BVAVS116_RS00590,BVAVS116_0120,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210416,-
+445987,63640900,tsf,BVAVS116_RS00595,BVAVS116_0121,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20210529,-
+445987,63640901,rpsB,BVAVS116_RS00600,BVAVS116_0122,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210416,-
+445987,63640902,BVAVS116_RS00605,BVAVS116_RS00605,BVAVS116_0123,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640903,BVAVS116_RS00610,BVAVS116_RS00610,BVAVS116_0124,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640904,BVAVS116_RS00615,BVAVS116_RS00615,BVAVS116_0125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640905,BVAVS116_RS00620,BVAVS116_RS00620,BVAVS116_0126,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210416,-
+445987,63640906,cmk,BVAVS116_RS00625,BVAVS116_0127,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210416,-
+445987,63640907,BVAVS116_RS00630,BVAVS116_RS00630,BVAVS116_0128,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20210416,-
+445987,63640908,BVAVS116_RS00635,BVAVS116_RS00635,BVAVS116_0129,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640909,recA,BVAVS116_RS00640,BVAVS116_0130,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210416,-
+445987,63640910,greA,BVAVS116_RS00645,BVAVS116_0131,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20210416,-
+445987,63640911,BVAVS116_RS00650,BVAVS116_RS00650,BVAVS116_0132,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640912,BVAVS116_RS00655,BVAVS116_RS00655,BVAVS116_0133,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640913,BVAVS116_RS00660,BVAVS116_RS00660,BVAVS116_0134,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210416,-
+445987,63640914,BVAVS116_RS00665,BVAVS116_RS00665,BVAVS116_0135,-,-,-,transpeptidase family protein,protein-coding,-,-,-,transpeptidase family protein,20210416,-
+445987,63640915,BVAVS116_RS00670,BVAVS116_RS00670,BVAVS116_0136,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210416,-
+445987,63640916,BVAVS116_RS00675,BVAVS116_RS00675,BVAVS116_0138,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640917,BVAVS116_RS00680,BVAVS116_RS00680,BVAVS116_0139,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20210416,-
+445987,63640918,BVAVS116_RS00685,BVAVS116_RS00685,BVAVS116_0140,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210416,-
+445987,63640919,BVAVS116_RS00690,BVAVS116_RS00690,BVAVS116_0141,-,-,-,TolC family protein,protein-coding,-,-,-,TolC family protein,20210425,-
+445987,63640920,yidD,BVAVS116_RS00695,-,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210416,-
+445987,63640921,BVAVS116_RS00700,BVAVS116_RS00700,BVAVS116_0142,-,-,-,glycine betaine ABC transporter substrate-binding protein,protein-coding,-,-,-,glycine betaine ABC transporter substrate-binding protein,20210416,-
+445987,63640922,BVAVS116_RS00705,BVAVS116_RS00705,BVAVS116_0144,-,-,-,proline/glycine betaine ABC transporter permease,protein-coding,-,-,-,proline/glycine betaine ABC transporter permease,20210416,-
+445987,63640923,BVAVS116_RS00710,BVAVS116_RS00710,BVAVS116_0145,-,-,-,glycine betaine/L-proline ABC transporter ATP-binding protein,protein-coding,-,-,-,glycine betaine/L-proline ABC transporter ATP-binding protein,20210416,-
+445987,63640924,flaB,BVAVS116_RS00715,BVAVS116_0146,-,-,-,flagellin FlaB,protein-coding,-,-,-,flagellin FlaB,20210416,-
+445987,63640925,fliD,BVAVS116_RS00720,BVAVS116_0147,-,-,-,flagellar filament capping protein FliD,protein-coding,-,-,-,flagellar filament capping protein FliD,20210416,-
+445987,63640926,nagA,BVAVS116_RS00725,BVAVS116_0148,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,protein-coding,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,20210416,-
+445987,63640927,BVAVS116_RS00730,BVAVS116_RS00730,BVAVS116_0149,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20210416,-
+445987,63640928,BVAVS116_RS00735,BVAVS116_RS00735,BVAVS116_0150,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20210416,-
+445987,63640929,secA,BVAVS116_RS00740,BVAVS116_0151,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20210416,-
+445987,63640930,BVAVS116_RS00745,BVAVS116_RS00745,BVAVS116_0152,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640931,BVAVS116_RS00750,BVAVS116_RS00750,BVAVS116_0153,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640932,BVAVS116_RS00755,BVAVS116_RS00755,BVAVS116_0154,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640933,BVAVS116_RS00760,BVAVS116_RS00760,BVAVS116_0155,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210416,-
+445987,63640934,BVAVS116_RS00765,BVAVS116_RS00765,BVAVS116_0156,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210416,-
+445987,63640935,alr,BVAVS116_RS00770,BVAVS116_0158,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20210416,-
+445987,63640936,BVAVS116_RS00775,BVAVS116_RS00775,BVAVS116_0157,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640937,BVAVS116_RS00780,BVAVS116_RS00780,BVAVS116_0160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640938,BVAVS116_RS00785,BVAVS116_RS00785,BVAVS116_0161,-,-,-,calcium/sodium antiporter,protein-coding,-,-,-,calcium/sodium antiporter,20210416,-
+445987,63640939,BVAVS116_RS00790,BVAVS116_RS00790,BVAVS116_0162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640940,malQ,BVAVS116_RS00795,BVAVS116_0163,-,-,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20210416,-
+445987,63640941,BVAVS116_RS00800,BVAVS116_RS00800,BVAVS116_0164,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20210416,-
+445987,63640942,BVAVS116_RS00805,BVAVS116_RS00805,BVAVS116_0165,-,-,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20210416,-
+445987,63640943,infA,BVAVS116_RS00810,BVAVS116_0166,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210416,-
+445987,63640944,BVAVS116_RS00815,BVAVS116_RS00815,BVAVS116_0167,-,-,-,BatD family protein,protein-coding,-,-,-,BatD family protein,20210416,-
+445987,63640945,BVAVS116_RS00820,BVAVS116_RS00820,BVAVS116_0168,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640946,BVAVS116_RS00825,BVAVS116_RS00825,BVAVS116_0169,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210416,-
+445987,63640947,BVAVS116_RS00830,BVAVS116_RS00830,BVAVS116_0170,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210416,-
+445987,63640948,BVAVS116_RS00835,BVAVS116_RS00835,BVAVS116_0171,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640949,BVAVS116_RS00840,BVAVS116_RS00840,BVAVS116_0172,-,-,-,DUF58 domain-containing protein,protein-coding,-,-,-,DUF58 domain-containing protein,20210416,-
+445987,63640950,BVAVS116_RS00845,BVAVS116_RS00845,BVAVS116_0173,-,-,-,MoxR family ATPase,protein-coding,-,-,-,MoxR family ATPase,20210416,-
+445987,63640951,rsmG,BVAVS116_RS00850,BVAVS116_0174,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210416,-
+445987,63640952,mnmG,BVAVS116_RS00855,BVAVS116_0175,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210416,-
+445987,63640953,mnmE,BVAVS116_RS00860,BVAVS116_0176,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210416,-
+445987,63640954,BVAVS116_RS00865,BVAVS116_RS00865,BVAVS116_0177,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640955,flgK,BVAVS116_RS00870,BVAVS116_0178,-,-,-,flagellar hook-associated protein FlgK,protein-coding,-,-,-,flagellar hook-associated protein FlgK,20210416,-
+445987,63640956,BVAVS116_RS00875,BVAVS116_RS00875,BVAVS116_0179,-,-,-,flagellar hook-associated protein 3,protein-coding,-,-,-,flagellar hook-associated protein 3,20210416,-
+445987,63640957,fliW,BVAVS116_RS00880,BVAVS116_0180,-,-,-,flagellar assembly protein FliW,protein-coding,-,-,-,flagellar assembly protein FliW,20210416,-
+445987,63640958,csrA,BVAVS116_RS00885,BVAVS116_0182,-,-,-,carbon storage regulator CsrA,protein-coding,-,-,-,carbon storage regulator CsrA,20210416,-
+445987,63640959,tsaB,BVAVS116_RS00890,BVAVS116_0181,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210416,-
+445987,63640960,tsaE,BVAVS116_RS00895,BVAVS116_0183,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210416,-
+445987,63640961,BVAVS116_RS00900,BVAVS116_RS00900,BVAVS116_0184,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640962,rplT,BVAVS116_RS00905,BVAVS116_0185,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210416,-
+445987,63640963,rpmI,BVAVS116_RS00910,BVAVS116_0186,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210416,-
+445987,63640964,BVAVS116_RS00915,BVAVS116_RS00915,BVAVS116_0187,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210416,-
+445987,63640965,BVAVS116_RS00920,BVAVS116_RS00920,BVAVS116_0188,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63640966,BVAVS116_RS00925,BVAVS116_RS00925,BVAVS116_0189,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640967,BVAVS116_RS00930,BVAVS116_RS00930,BVAVS116_0190,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210416,-
+445987,63640968,BVAVS116_RS00935,BVAVS116_RS00935,BVAVS116_0191,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640969,prfA,BVAVS116_RS00940,BVAVS116_0192,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210416,-
+445987,63640970,prmC,BVAVS116_RS00945,BVAVS116_0193,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210416,-
+445987,63640971,spoT,BVAVS116_RS00950,BVAVS116_0194,-,-,-,"guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20210416,-
+445987,63640972,BVAVS116_RS00955,BVAVS116_RS00955,BVAVS116_0196,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640973,BVAVS116_RS00960,BVAVS116_RS00960,BVAVS116_0195,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20210416,-
+445987,63640974,BVAVS116_RS00965,BVAVS116_RS00965,BVAVS116_0197,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20210416,-
+445987,63640975,BVAVS116_RS00970,BVAVS116_RS00970,BVAVS116_0198,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63640976,BVAVS116_RS00975,BVAVS116_RS00975,BVAVS116_0199,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20210416,-
+445987,63640977,hflK,BVAVS116_RS00980,BVAVS116_0200,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20210416,-
+445987,63640978,hflC,BVAVS116_RS00985,BVAVS116_0201,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20210416,-
+445987,63640979,BVAVS116_RS00990,BVAVS116_RS00990,BVAVS116_0202,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63640980,BVAVS116_RS00995,BVAVS116_RS00995,BVAVS116_0203,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63640981,BVAVS116_RS01000,BVAVS116_RS01000,BVAVS116_0205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640982,rsmD,BVAVS116_RS01005,BVAVS116_0204,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20210416,-
+445987,63640983,BVAVS116_RS01010,BVAVS116_RS01010,BVAVS116_0206,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210416,-
+445987,63640984,BVAVS116_RS01015,BVAVS116_RS01015,BVAVS116_0207,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640985,BVAVS116_RS01020,BVAVS116_RS01020,BVAVS116_0208,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640986,BVAVS116_RS01025,BVAVS116_RS01025,BVAVS116_0209,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63640987,mutL,BVAVS116_RS01030,BVAVS116_0210,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20210416,-
+445987,63640988,BVAVS116_RS01035,BVAVS116_RS01035,BVAVS116_0211,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640989,BVAVS116_RS01040,BVAVS116_RS01040,BVAVS116_0212,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63640990,BVAVS116_RS01045,BVAVS116_RS01045,BVAVS116_0213,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63640991,efp,BVAVS116_RS01050,BVAVS116_0214,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210416,-
+445987,63640992,BVAVS116_RS01055,BVAVS116_RS01055,BVAVS116_0215,-,-,-,extracellular solute-binding protein,protein-coding,-,-,-,extracellular solute-binding protein,20210416,-
+445987,63640993,pstC,BVAVS116_RS01060,BVAVS116_0216,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20210416,-
+445987,63640994,pstA,BVAVS116_RS01065,BVAVS116_0217,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210416,-
+445987,63640995,BVAVS116_RS01070,BVAVS116_RS01070,BVAVS116_0218,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20210416,-
+445987,63640996,BVAVS116_RS01075,BVAVS116_RS01075,BVAVS116_0219,-,-,-,ZIP family metal transporter,protein-coding,-,-,-,ZIP family metal transporter,20210416,-
+445987,63640997,BVAVS116_RS01080,BVAVS116_RS01080,BVAVS116_0220,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210416,-
+445987,63640998,BVAVS116_RS01085,BVAVS116_RS01085,BVAVS116_0221,-,-,-,flagellar motor switch protein FliG,protein-coding,-,-,-,flagellar motor switch protein FliG,20210416,-
+445987,63640999,BVAVS116_RS01090,BVAVS116_RS01090,BVAVS116_0222,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20210416,-
+445987,63641000,BVAVS116_RS01095,BVAVS116_RS01095,BVAVS116_0223,-,-,-,SIMPL domain-containing protein,protein-coding,-,-,-,SIMPL domain-containing protein,20210416,-
+445987,63641001,BVAVS116_RS01100,BVAVS116_RS01100,BVAVS116_0224,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641002,dusA,BVAVS116_RS01105,BVAVS116_0226,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,protein-coding,-,-,-,tRNA dihydrouridine(20/20a) synthase DusA,20210416,-
+445987,63641003,serS,BVAVS116_RS01110,BVAVS116_0225,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210416,-
+445987,63641004,BVAVS116_RS01115,BVAVS116_RS01115,BVAVS116_0227,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641005,BVAVS116_RS01120,BVAVS116_RS01120,BVAVS116_0228,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210416,-
+445987,63641006,BVAVS116_RS01125,BVAVS116_RS01125,BVAVS116_0229,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210416,-
+445987,63641007,rho,BVAVS116_RS01130,BVAVS116_0230,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210416,-
+445987,63641008,BVAVS116_RS01135,BVAVS116_RS01135,BVAVS116_0231,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210416,-
+445987,63641009,BVAVS116_RS01140,BVAVS116_RS01140,BVAVS116_0232,-,-,-,integration host factor subunit beta,protein-coding,-,-,-,integration host factor subunit beta,20210416,-
+445987,63641010,BVAVS116_RS01145,BVAVS116_RS01145,BVAVS116_0233,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210416,-
+445987,63641011,BVAVS116_RS01150,BVAVS116_RS01150,BVAVS116_0234,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641012,ychF,BVAVS116_RS01155,BVAVS116_0235,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210416,-
+445987,63641013,BVAVS116_RS01160,BVAVS116_RS01160,BVAVS116_0236,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641014,lnt,BVAVS116_RS01165,BVAVS116_0237,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20210416,-
+445987,63641015,BVAVS116_RS01170,BVAVS116_RS01170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641016,BVAVS116_RS01175,BVAVS116_RS01175,BVAVS116_0238,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210416,-
+445987,63641017,BVAVS116_RS01185,BVAVS116_RS01185,BVAVS116_0239,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20210416,-
+445987,63641018,glpK,BVAVS116_RS01190,BVAVS116_0240,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20210416,-
+445987,63641019,BVAVS116_RS01200,BVAVS116_RS01200,BVAVS116_0241,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,protein-coding,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,20210416,-
+445987,63641020,BVAVS116_RS01205,BVAVS116_RS01205,BVAVS116_0242,-,-,-,YaaR family protein,protein-coding,-,-,-,YaaR family protein,20210416,-
+445987,63641021,BVAVS116_RS01210,BVAVS116_RS01210,BVAVS116_0243,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210416,-
+445987,63641022,BVAVS116_RS01215,BVAVS116_RS01215,BVAVS116_0244,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20210416,-
+445987,63641023,rdgB,BVAVS116_RS01220,BVAVS116_0245,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20210416,-
+445987,63641024,pepF,BVAVS116_RS01225,BVAVS116_0246,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20210416,-
+445987,63641025,BVAVS116_RS01230,BVAVS116_RS01230,BVAVS116_0247,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20210416,-
+445987,63641026,BVAVS116_RS01235,BVAVS116_RS01235,BVAVS116_0248,-,-,-,DedA family protein,protein-coding,-,-,-,DedA family protein,20210416,-
+445987,63641027,BVAVS116_RS01240,BVAVS116_RS01240,BVAVS116_0249,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641028,leuS,BVAVS116_RS01245,BVAVS116_0250,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210416,-
+445987,63641029,BVAVS116_RS01250,BVAVS116_RS01250,BVAVS116_0252,-,-,-,RND family transporter,protein-coding,-,-,-,RND family transporter,20210416,-
+445987,63641030,lon,BVAVS116_RS01255,BVAVS116_0251,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210416,-
+445987,63641031,recJ,BVAVS116_RS01260,BVAVS116_0253,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20210416,-
+445987,63641032,BVAVS116_RS01265,BVAVS116_RS01265,BVAVS116_0254,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210416,-
+445987,63641033,BVAVS116_RS01270,BVAVS116_RS01270,BVAVS116_0255,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210416,-
+445987,63641034,BVAVS116_RS01275,BVAVS116_RS01275,BVAVS116_0256,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20210416,-
+445987,63641035,BVAVS116_RS01280,BVAVS116_RS01280,BVAVS116_0257,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20210416,-
+445987,63641036,BVAVS116_RS01285,BVAVS116_RS01285,BVAVS116_0258,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210416,-
+445987,63641037,BVAVS116_RS01290,BVAVS116_RS01290,BVAVS116_0259,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641038,BVAVS116_RS01295,BVAVS116_RS01295,BVAVS116_0260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641039,BVAVS116_RS01300,BVAVS116_RS01300,BVAVS116_0261,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210416,-
+445987,63641040,lepB,BVAVS116_RS01305,BVAVS116_0262,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210416,-
+445987,63641041,BVAVS116_RS01310,BVAVS116_RS01310,BVAVS116_0263,-,-,-,Hsp70 family protein,protein-coding,-,-,-,Hsp70 family protein,20210416,-
+445987,63641042,BVAVS116_RS01315,BVAVS116_RS01315,BVAVS116_0264,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641043,BVAVS116_RS01320,BVAVS116_RS01320,BVAVS116_0265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641044,BVAVS116_RS01325,BVAVS116_RS01325,BVAVS116_0266,-,-,-,DUF342 domain-containing protein,protein-coding,-,-,-,DUF342 domain-containing protein,20210416,-
+445987,63641045,BVAVS116_RS01330,BVAVS116_RS01330,BVAVS116_0267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641046,BVAVS116_RS01335,BVAVS116_RS01335,BVAVS116_0268,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210416,-
+445987,63641047,flhF,BVAVS116_RS01340,BVAVS116_0269,-,-,-,flagellar biosynthesis protein FlhF,protein-coding,-,-,-,flagellar biosynthesis protein FlhF,20210416,-
+445987,63641048,flhA,BVAVS116_RS01345,BVAVS116_0270,-,-,-,flagellar biosynthesis protein FlhA,protein-coding,-,-,-,flagellar biosynthesis protein FlhA,20210416,-
+445987,63641049,flhB,BVAVS116_RS01350,BVAVS116_0271,-,-,-,flagellar biosynthesis protein FlhB,protein-coding,-,-,-,flagellar biosynthesis protein FlhB,20210416,-
+445987,63641050,fliR,BVAVS116_RS01355,BVAVS116_0272,-,-,-,flagellar biosynthetic protein FliR,protein-coding,-,-,-,flagellar biosynthetic protein FliR,20210416,-
+445987,63641051,fliQ,BVAVS116_RS01360,BVAVS116_0273,-,-,-,flagellar biosynthesis protein FliQ,protein-coding,-,-,-,flagellar biosynthesis protein FliQ,20210416,-
+445987,63641052,fliP,BVAVS116_RS01365,BVAVS116_0274,-,-,-,flagellar type III secretion system pore protein FliP,protein-coding,-,-,-,flagellar type III secretion system pore protein FliP,20210416,-
+445987,63641053,BVAVS116_RS01370,BVAVS116_RS01370,BVAVS116_0275,-,-,-,flagella biosynthesis regulatory protein FliZ,protein-coding,-,-,-,flagella biosynthesis regulatory protein FliZ,20210416,-
+445987,63641054,fliN,BVAVS116_RS01375,BVAVS116_0276,-,-,-,flagellar motor switch protein FliN,protein-coding,-,-,-,flagellar motor switch protein FliN,20210416,-
+445987,63641055,fliM,BVAVS116_RS01380,BVAVS116_0277,-,-,-,flagellar motor switch protein FliM,protein-coding,-,-,-,flagellar motor switch protein FliM,20210416,-
+445987,63641056,fliL,BVAVS116_RS01385,BVAVS116_0278,-,-,-,flagellar basal body-associated protein FliL,protein-coding,-,-,-,flagellar basal body-associated protein FliL,20210416,-
+445987,63641057,motB,BVAVS116_RS01390,BVAVS116_0279,-,-,-,flagellar motor protein MotB,protein-coding,-,-,-,flagellar motor protein MotB,20210416,-
+445987,63641058,BVAVS116_RS01395,BVAVS116_RS01395,BVAVS116_0280,-,-,-,motility protein A,protein-coding,-,-,-,motility protein A,20210416,-
+445987,63641059,BVAVS116_RS01400,BVAVS116_RS01400,BVAVS116_0281,-,-,-,flagellar FlbD family protein,protein-coding,-,-,-,flagellar FlbD family protein,20210416,-
+445987,63641060,flgE,BVAVS116_RS01405,BVAVS116_0282,-,-,-,flagellar hook protein FlgE,protein-coding,-,-,-,flagellar hook protein FlgE,20210416,-
+445987,63641061,flgD,BVAVS116_RS01410,BVAVS116_0283,-,-,-,flagellar hook assembly protein FlgD,protein-coding,-,-,-,flagellar hook assembly protein FlgD,20210416,-
+445987,63641062,BVAVS116_RS01415,BVAVS116_RS01415,BVAVS116_0284,-,-,-,flagellar hook-length control protein FliK,protein-coding,-,-,-,flagellar hook-length control protein FliK,20210416,-
+445987,63641063,BVAVS116_RS01420,BVAVS116_RS01420,BVAVS116_0285,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641064,BVAVS116_RS01425,BVAVS116_RS01425,BVAVS116_0286,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641065,BVAVS116_RS01430,BVAVS116_RS01430,BVAVS116_0287,-,-,-,FliI/YscN family ATPase,protein-coding,-,-,-,FliI/YscN family ATPase,20210416,-
+445987,63641066,fliH,BVAVS116_RS01435,BVAVS116_0288,-,-,-,flagellar assembly protein FliH,protein-coding,-,-,-,flagellar assembly protein FliH,20210416,-
+445987,63641067,fliG,BVAVS116_RS01440,BVAVS116_0289,-,-,-,flagellar motor switch protein FliG,protein-coding,-,-,-,flagellar motor switch protein FliG,20210416,-
+445987,63641068,fliF,BVAVS116_RS01445,BVAVS116_0290,-,-,-,flagellar M-ring protein FliF,protein-coding,-,-,-,flagellar M-ring protein FliF,20210416,-
+445987,63641069,fliE,BVAVS116_RS01450,BVAVS116_0291,-,-,-,flagellar hook-basal body complex protein FliE,protein-coding,-,-,-,flagellar hook-basal body complex protein FliE,20210416,-
+445987,63641070,flgC,BVAVS116_RS01455,BVAVS116_0292,-,-,-,flagellar basal body rod protein FlgC,protein-coding,-,-,-,flagellar basal body rod protein FlgC,20210416,-
+445987,63641071,flgB,BVAVS116_RS01460,BVAVS116_0293,-,-,-,flagellar basal body rod protein FlgB,protein-coding,-,-,-,flagellar basal body rod protein FlgB,20210416,-
+445987,63641072,hslU,BVAVS116_RS01465,BVAVS116_0294,-,-,-,HslU--HslV peptidase ATPase subunit,protein-coding,-,-,-,HslU--HslV peptidase ATPase subunit,20210416,-
+445987,63641073,hslV,BVAVS116_RS01470,BVAVS116_0295,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20210416,-
+445987,63641074,dprA,BVAVS116_RS01475,BVAVS116_0296,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20210416,-
+445987,63641075,BVAVS116_RS01480,BVAVS116_RS01480,BVAVS116_0297,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641076,ftsZ,BVAVS116_RS01485,BVAVS116_0298,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20210416,-
+445987,63641077,ftsA,BVAVS116_RS01490,BVAVS116_0299,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20210416,-
+445987,63641078,BVAVS116_RS01495,BVAVS116_RS01495,BVAVS116_0300,-,-,-,FtsQ-type POTRA domain-containing protein,protein-coding,-,-,-,FtsQ-type POTRA domain-containing protein,20210416,-
+445987,63641079,ftsW,BVAVS116_RS01500,BVAVS116_0301,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20210416,-
+445987,63641080,BVAVS116_RS01505,BVAVS116_RS01505,BVAVS116_0302,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20210416,-
+445987,63641081,BVAVS116_RS01510,BVAVS116_RS01510,BVAVS116_0303,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210416,-
+445987,63641082,BVAVS116_RS01515,BVAVS116_RS01515,BVAVS116_0304,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641083,rsmH,BVAVS116_RS01520,BVAVS116_0305,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210416,-
+445987,63641084,BVAVS116_RS01525,BVAVS116_RS01525,BVAVS116_0306,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641085,BVAVS116_RS01530,BVAVS116_RS01530,BVAVS116_0307,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641086,BVAVS116_RS01535,BVAVS116_RS01535,BVAVS116_0308,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641087,BVAVS116_RS01540,BVAVS116_RS01540,BVAVS116_0310,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20210416,-
+445987,63641088,BVAVS116_RS01545,BVAVS116_RS01545,BVAVS116_0311,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210416,-
+445987,63641089,BVAVS116_RS01550,BVAVS116_RS01550,BVAVS116_0312,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20210416,-
+445987,63641090,BVAVS116_RS01555,BVAVS116_RS01555,BVAVS116_0313,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20210416,-
+445987,63641091,BVAVS116_RS01560,BVAVS116_RS01560,BVAVS116_0314,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641092,BVAVS116_RS01565,BVAVS116_RS01565,BVAVS116_0315,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641093,BVAVS116_RS01570,BVAVS116_RS01570,BVAVS116_0316,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641094,BVAVS116_RS01575,BVAVS116_RS01575,BVAVS116_0317,-,-,-,sugar ABC transporter ATP-binding protein,protein-coding,-,-,-,sugar ABC transporter ATP-binding protein,20210416,-
+445987,63641095,BVAVS116_RS01580,BVAVS116_RS01580,BVAVS116_0318,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20210416,-
+445987,63641096,BVAVS116_RS01585,BVAVS116_RS01585,BVAVS116_0319,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641097,BVAVS116_RS01590,BVAVS116_RS01590,BVAVS116_0320,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210416,-
+445987,63641098,bamD,BVAVS116_RS01595,BVAVS116_0321,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20210416,-
+445987,63641099,BVAVS116_RS01600,BVAVS116_RS01600,BVAVS116_0322,-,-,-,VWA domain-containing protein,protein-coding,-,-,-,VWA domain-containing protein,20210416,-
+445987,63641100,BVAVS116_RS01605,BVAVS116_RS01605,BVAVS116_0323,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641101,BVAVS116_RS01610,BVAVS116_RS01610,BVAVS116_0324,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20210416,-
+445987,63641102,BVAVS116_RS01615,BVAVS116_RS01615,BVAVS116_0326,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210416,-
+445987,63641103,BVAVS116_RS01620,BVAVS116_RS01620,BVAVS116_0327,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210416,-
+445987,63641104,BVAVS116_RS01625,BVAVS116_RS01625,BVAVS116_0328,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210416,-
+445987,63641105,BVAVS116_RS01630,BVAVS116_RS01630,BVAVS116_0329,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641106,BVAVS116_RS01635,BVAVS116_RS01635,BVAVS116_0330,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641107,BVAVS116_RS01640,BVAVS116_RS01640,BVAVS116_0331,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641108,BVAVS116_RS01645,BVAVS116_RS01645,BVAVS116_0332,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641109,BVAVS116_RS01650,BVAVS116_RS01650,BVAVS116_0333,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641110,eno,BVAVS116_RS01655,BVAVS116_0334,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210416,-
+445987,63641111,rpsI,BVAVS116_RS01660,BVAVS116_0335,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20210416,-
+445987,63641112,rplM,BVAVS116_RS01665,BVAVS116_0336,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210416,-
+445987,63641113,BVAVS116_RS01670,BVAVS116_RS01670,BVAVS116_0337,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641114,gatB,BVAVS116_RS01675,BVAVS116_0338,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210416,-
+445987,63641115,gatA,BVAVS116_RS01680,BVAVS116_0339,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210416,-
+445987,63641116,gatC,BVAVS116_RS01685,BVAVS116_0340,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210416,-
+445987,63641117,BVAVS116_RS01690,BVAVS116_RS01690,BVAVS116_0341,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210416,-
+445987,63641118,BVAVS116_RS01695,BVAVS116_RS01695,BVAVS116_0342,-,-,-,BB_0345 family helix-turn-helix protein,protein-coding,-,-,-,BB_0345 family helix-turn-helix protein,20210416,-
+445987,63641119,BVAVS116_RS01700,BVAVS116_RS01700,BVAVS116_0343,-,-,-,outer membrane lipoprotein carrier protein LolA,protein-coding,-,-,-,outer membrane lipoprotein carrier protein LolA,20210416,-
+445987,63641120,BVAVS116_RS01705,BVAVS116_RS01705,BVAVS116_0344,-,-,-,fibronectin-binding domain-containing protein,protein-coding,-,-,-,fibronectin-binding domain-containing protein,20210416,-
+445987,63641121,pyk,BVAVS116_RS01710,BVAVS116_0345,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210416,-
+445987,63641122,amrB,BVAVS116_RS01715,BVAVS116_0346,-,-,-,AmmeMemoRadiSam system protein B,protein-coding,-,-,-,AmmeMemoRadiSam system protein B,20210416,-
+445987,63641123,BVAVS116_RS01720,BVAVS116_RS01720,BVAVS116_0347,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210416,-
+445987,63641124,BVAVS116_RS01725,BVAVS116_RS01725,BVAVS116_0348,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641125,BVAVS116_RS01730,BVAVS116_RS01730,BVAVS116_0350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641126,BVAVS116_RS01735,BVAVS116_RS01735,BVAVS116_0349,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641127,BVAVS116_RS01740,BVAVS116_RS01740,BVAVS116_0351,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641128,BVAVS116_RS01745,BVAVS116_RS01745,BVAVS116_0352,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20210416,-
+445987,63641129,BVAVS116_RS01750,BVAVS116_RS01750,BVAVS116_0353,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641130,BVAVS116_RS01755,BVAVS116_RS01755,BVAVS116_0354,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20210416,-
+445987,63641131,BVAVS116_RS01760,BVAVS116_RS01760,BVAVS116_0355,-,-,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20210416,-
+445987,63641132,BVAVS116_RS01765,BVAVS116_RS01765,BVAVS116_0357,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210416,-
+445987,63641133,BVAVS116_RS01770,BVAVS116_RS01770,BVAVS116_0358,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210416,-
+445987,63641134,BVAVS116_RS01775,BVAVS116_RS01775,BVAVS116_0359,-,-,-,EAL domain-containing protein,protein-coding,-,-,-,EAL domain-containing protein,20210416,-
+445987,63641135,mgsA,BVAVS116_RS01780,BVAVS116_0360,-,-,-,methylglyoxal synthase,protein-coding,-,-,-,methylglyoxal synthase,20210416,-
+445987,63641136,BVAVS116_RS01785,BVAVS116_RS01785,BVAVS116_0361,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641137,BVAVS116_RS01790,BVAVS116_RS01790,BVAVS116_0362,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20210416,-
+445987,63641138,BVAVS116_RS01795,BVAVS116_RS01795,BVAVS116_0363,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641139,BVAVS116_RS01800,BVAVS116_RS01800,BVAVS116_0364,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20210416,-
+445987,63641140,BVAVS116_RS01805,BVAVS116_RS01805,BVAVS116_0365,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210416,-
+445987,63641141,BVAVS116_RS01810,BVAVS116_RS01810,BVAVS116_0366,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210416,-
+445987,63641142,BVAVS116_RS01815,BVAVS116_RS01815,BVAVS116_0367,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210416,-
+445987,63641143,BVAVS116_RS01820,BVAVS116_RS01820,BVAVS116_0368,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20210416,-
+445987,63641144,BVAVS116_RS01825,BVAVS116_RS01825,BVAVS116_0369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641145,pdeB,BVAVS116_RS01830,BVAVS116_0370,-,-,-,cyclic di-GMP phosphodiesterase PdeB,protein-coding,-,-,-,cyclic di-GMP phosphodiesterase PdeB,20210416,-
+445987,63641146,BVAVS116_RS01835,BVAVS116_RS01835,BVAVS116_0371,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210416,-
+445987,63641147,metK,BVAVS116_RS01840,BVAVS116_0372,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210416,-
+445987,63641148,BVAVS116_RS01845,BVAVS116_RS01845,BVAVS116_0373,-,-,-,S-ribosylhomocysteine lyase,protein-coding,-,-,-,S-ribosylhomocysteine lyase,20210416,-
+445987,63641149,BVAVS116_RS01850,BVAVS116_RS01850,BVAVS116_0374,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641150,BVAVS116_RS01855,BVAVS116_RS01855,BVAVS116_0375,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20210416,-
+445987,63641151,mgtE,BVAVS116_RS01860,BVAVS116_0376,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210416,-
+445987,63641152,BVAVS116_RS01865,BVAVS116_RS01865,BVAVS116_0377,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641153,bmpB,BVAVS116_RS01870,BVAVS116_0378,-,-,-,nucleoside ABC transporter substrate-binding protein BmpB,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpB,20210416,-
+445987,63641154,bmpA,BVAVS116_RS01875,BVAVS116_0379,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpA,20210416,-
+445987,63641155,bmpC,BVAVS116_RS01880,BVAVS116_0380,-,-,-,nucleoside ABC transporter substrate-binding protein BmpC,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpC,20210416,-
+445987,63641156,bmpD,BVAVS116_RS01885,BVAVS116_0381,-,-,-,nucleoside ABC transporter substrate-binding protein BmpD,protein-coding,-,-,-,nucleoside ABC transporter substrate-binding protein BmpD,20210416,-
+445987,63641157,rpsG,BVAVS116_RS01890,BVAVS116_0382,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20210416,-
+445987,63641158,rpsL,BVAVS116_RS01895,BVAVS116_0383,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210419,-
+445987,63641159,rpoC,BVAVS116_RS01900,BVAVS116_0384,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210416,-
+445987,63641160,rpoB,BVAVS116_RS01905,BVAVS116_0385,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210416,-
+445987,63641161,rplL,BVAVS116_RS01910,BVAVS116_0386,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210416,-
+445987,63641162,BVAVS116_RS01915,BVAVS116_RS01915,BVAVS116_0387,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210416,-
+445987,63641163,BVAVS116_RS01920,BVAVS116_RS01920,BVAVS116_0388,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210416,-
+445987,63641164,rplK,BVAVS116_RS01925,BVAVS116_0389,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210416,-
+445987,63641165,nusG,BVAVS116_RS01930,BVAVS116_0390,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20210416,-
+445987,63641166,secE,BVAVS116_RS01935,BVAVS116_0391,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210416,-
+445987,63641167,BVAVS116_RS01940,BVAVS116_RS01940,BVAVS116_0392,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641168,rpmG,BVAVS116_RS01945,BVAVS116_0393,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210416,-
+445987,63641169,BVAVS116_RS01950,BVAVS116_RS01950,BVAVS116_0394,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641170,BVAVS116_RS01955,BVAVS116_RS01955,BVAVS116_0395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641171,BVAVS116_RS01960,BVAVS116_RS01960,BVAVS116_0396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641172,BVAVS116_RS01965,BVAVS116_RS01965,BVAVS116_0397,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210416,-
+445987,63641173,BVAVS116_RS01970,BVAVS116_RS01970,BVAVS116_0398,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641174,BVAVS116_RS01975,BVAVS116_RS01975,BVAVS116_0399,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210416,-
+445987,63641175,proS,BVAVS116_RS01980,BVAVS116_0400,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210416,-
+445987,63641176,BVAVS116_RS01985,BVAVS116_RS01985,BVAVS116_0401,-,-,-,DUF2259 domain-containing protein,protein-coding,-,-,-,DUF2259 domain-containing protein,20210416,-
+445987,63641177,BVAVS116_RS01995,BVAVS116_RS01995,BVAVS116_0403,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210416,-
+445987,63641178,BVAVS116_RS02000,BVAVS116_RS02000,BVAVS116_0404,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210416,-
+445987,63641179,manA,BVAVS116_RS02005,BVAVS116_0405,-,-,-,"mannose-6-phosphate isomerase, class I",protein-coding,-,-,-,"mannose-6-phosphate isomerase, class I",20210416,-
+445987,63641180,BVAVS116_RS02015,BVAVS116_RS02015,BVAVS116_0407,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641181,BVAVS116_RS02020,BVAVS116_RS02020,BVAVS116_0408,-,-,-,DNA/RNA non-specific endonuclease,protein-coding,-,-,-,DNA/RNA non-specific endonuclease,20210416,-
+445987,63641182,BVAVS116_RS02025,BVAVS116_RS02025,BVAVS116_0410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641183,BVAVS116_RS02030,BVAVS116_RS02030,BVAVS116_0409,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641184,BVAVS116_RS02035,BVAVS116_RS02035,BVAVS116_0411,-,-,-,protein-glutamate O-methyltransferase,protein-coding,-,-,-,protein-glutamate O-methyltransferase,20210416,-
+445987,63641185,BVAVS116_RS02040,BVAVS116_RS02040,BVAVS116_0412,-,-,-,chemotaxis protein CheB,protein-coding,-,-,-,chemotaxis protein CheB,20210416,-
+445987,63641186,BVAVS116_RS02045,BVAVS116_RS02045,BVAVS116_0413,-,-,-,TraB family protein,protein-coding,-,-,-,TraB family protein,20210416,-
+445987,63641187,BVAVS116_RS02050,BVAVS116_RS02050,BVAVS116_0414,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20210416,-
+445987,63641188,BVAVS116_RS02055,BVAVS116_RS02055,BVAVS116_0415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641189,BVAVS116_RS02060,BVAVS116_RS02060,BVAVS116_0416,-,-,-,PleD family two-component system response regulator,protein-coding,-,-,-,PleD family two-component system response regulator,20210416,-
+445987,63641190,BVAVS116_RS02065,BVAVS116_RS02065,BVAVS116_0417,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210416,-
+445987,63641191,rrf,BVAVS116_RS02070,BVAVS116_0418,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210415,-
+445987,63641192,BVAVS116_RS02075,BVAVS116_RS02075,BVAVS116_0419,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210415,-
+445987,63641193,rrf,BVAVS116_RS02080,BVAVS116_0420,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210415,-
+445987,63641194,BVAVS116_RS02085,BVAVS116_RS02085,BVAVS116_0421,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210415,-
+445987,63641195,BVAVS116_RS02090,BVAVS116_RS02090,BVAVS116_0422,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210416,-
+445987,63641196,BVAVS116_RS02095,BVAVS116_RS02095,BVAVS116_0423,-,-,-,DNA-3-methyladenine glycosylase,protein-coding,-,-,-,DNA-3-methyladenine glycosylase,20210416,-
+445987,63641197,BVAVS116_RS02100,BVAVS116_RS02100,BVAVS116_0424,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641198,BVAVS116_RS02105,BVAVS116_RS02105,BVAVS116_0425,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641199,BVAVS116_RS02110,BVAVS116_RS02110,BVAVS116_0426,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210415,-
+445987,63641200,BVAVS116_RS02115,BVAVS116_RS02115,BVAVS116_0427,-,-,-,nucleoside 2-deoxyribosyltransferase,protein-coding,-,-,-,nucleoside 2-deoxyribosyltransferase,20210416,-
+445987,63641201,rsmI,BVAVS116_RS02120,BVAVS116_0428,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20210416,-
+445987,63641202,BVAVS116_RS02125,BVAVS116_RS02125,BVAVS116_0429,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641203,BVAVS116_RS02130,BVAVS116_RS02130,BVAVS116_0430,-,-,-,DUF1893 domain-containing protein,protein-coding,-,-,-,DUF1893 domain-containing protein,20210416,-
+445987,63641204,BVAVS116_RS02135,BVAVS116_RS02135,BVAVS116_0431,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210416,-
+445987,63641205,BVAVS116_RS02140,BVAVS116_RS02140,BVAVS116_0432,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641206,BVAVS116_RS02145,BVAVS116_RS02145,BVAVS116_0433,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641207,BVAVS116_RS02150,BVAVS116_RS02150,BVAVS116_0435,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20210416,-
+445987,63641208,gyrA,BVAVS116_RS02155,BVAVS116_0436,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20210416,-
+445987,63641209,gyrB,BVAVS116_RS02160,BVAVS116_0437,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210416,-
+445987,63641210,dnaA,BVAVS116_RS02165,BVAVS116_0438,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20210416,-
+445987,63641211,BVAVS116_RS02170,BVAVS116_RS02170,BVAVS116_0439,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210416,-
+445987,63641212,BVAVS116_RS02175,BVAVS116_RS02175,BVAVS116_0440,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20210416,-
+445987,63641213,rpmH,BVAVS116_RS02180,BVAVS116_0441,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210416,-
+445987,63641214,rnpA,BVAVS116_RS02185,BVAVS116_0442,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210416,-
+445987,63641215,yidC,BVAVS116_RS02190,BVAVS116_0443,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210416,-
+445987,63641216,BVAVS116_RS02195,BVAVS116_RS02195,BVAVS116_0444,-,-,-,protein jag,protein-coding,-,-,-,protein jag,20210416,-
+445987,63641217,BVAVS116_RS02200,BVAVS116_RS02200,BVAVS116_0445,-,-,-,NAD-dependent epimerase,protein-coding,-,-,-,NAD-dependent epimerase,20210416,-
+445987,63641218,fbaA,BVAVS116_RS02205,BVAVS116_0446,-,-,-,class II fructose-bisphosphate aldolase,protein-coding,-,-,-,class II fructose-bisphosphate aldolase,20210416,-
+445987,63641219,aspS,BVAVS116_RS02210,BVAVS116_0447,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210416,-
+445987,63641220,BVAVS116_RS02215,BVAVS116_RS02215,-,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20210416,-
+445987,63641221,BVAVS116_RS02220,BVAVS116_RS02220,BVAVS116_0451,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210416,-
+445987,63641222,BVAVS116_RS02225,BVAVS116_RS02225,BVAVS116_0452,-,-,-,HPF/RaiA family ribosome-associated protein,protein-coding,-,-,-,HPF/RaiA family ribosome-associated protein,20210416,-
+445987,63641223,rpoN,BVAVS116_RS02230,BVAVS116_0453,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20210416,-
+445987,63641224,BVAVS116_RS02235,BVAVS116_RS02235,BVAVS116_0454,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210416,-
+445987,63641225,BVAVS116_RS02240,BVAVS116_RS02240,BVAVS116_0455,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210416,-
+445987,63641226,BVAVS116_RS02245,BVAVS116_RS02245,BVAVS116_0457,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,mechanosensitive ion channel family protein,20210416,-
+445987,63641227,BVAVS116_RS02250,BVAVS116_RS02250,BVAVS116_0456,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20210416,-
+445987,63641228,BVAVS116_RS02255,BVAVS116_RS02255,BVAVS116_0458,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20210416,-
+445987,63641229,BVAVS116_RS02260,BVAVS116_RS02260,BVAVS116_0459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641230,uvrC,BVAVS116_RS02265,BVAVS116_0460,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20210416,-
+445987,63641231,BVAVS116_RS02270,BVAVS116_RS02270,BVAVS116_0461,-,-,-,fibronectin type III domain-containing protein,protein-coding,-,-,-,fibronectin type III domain-containing protein,20210416,-
+445987,63641232,BVAVS116_RS02275,BVAVS116_RS02275,BVAVS116_0462,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641233,BVAVS116_RS02280,BVAVS116_RS02280,BVAVS116_0463,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641234,BVAVS116_RS02285,BVAVS116_RS02285,BVAVS116_0464,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641235,BVAVS116_RS02290,BVAVS116_RS02290,BVAVS116_0465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641236,BVAVS116_RS02295,BVAVS116_RS02295,BVAVS116_0466,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641237,BVAVS116_RS02300,BVAVS116_RS02300,BVAVS116_0467,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641238,dnaX,BVAVS116_RS02310,BVAVS116_0469,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210416,-
+445987,63641239,efbC,BVAVS116_RS02315,BVAVS116_0470,-,-,-,nucleoid-associated protein EbfC,protein-coding,-,-,-,nucleoid-associated protein EbfC,20210416,-
+445987,63641240,BVAVS116_RS02320,BVAVS116_RS02320,BVAVS116_0471,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20210416,-
+445987,63641241,BVAVS116_RS02325,BVAVS116_RS02325,BVAVS116_0472,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641242,BVAVS116_RS02330,BVAVS116_RS02330,BVAVS116_0473,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641243,lptB,BVAVS116_RS02335,BVAVS116_0474,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20210416,-
+445987,63641244,pgeF,BVAVS116_RS02340,BVAVS116_0475,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20210416,-
+445987,63641245,BVAVS116_RS02345,BVAVS116_RS02345,BVAVS116_0476,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210416,-
+445987,63641246,BVAVS116_RS02350,BVAVS116_RS02350,BVAVS116_0477,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210416,-
+445987,63641247,BVAVS116_RS02360,BVAVS116_RS02360,BVAVS116_0479,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20210416,-
+445987,63641248,murA,BVAVS116_RS02365,BVAVS116_0480,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210416,-
+445987,63641249,BVAVS116_RS02370,BVAVS116_RS02370,BVAVS116_0481,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210416,-
+445987,63641250,BVAVS116_RS02375,BVAVS116_RS02375,BVAVS116_0482,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641251,tuf,BVAVS116_RS02380,BVAVS116_0484,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210416,-
+445987,63641252,rpsJ,BVAVS116_RS02385,BVAVS116_0485,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20210416,-
+445987,63641253,rplC,BVAVS116_RS02390,BVAVS116_0486,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210416,-
+445987,63641254,rplD,BVAVS116_RS02395,BVAVS116_0487,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210416,-
+445987,63641255,rplW,BVAVS116_RS02400,BVAVS116_0488,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210416,-
+445987,63641256,rplB,BVAVS116_RS02405,BVAVS116_0489,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20210416,-
+445987,63641257,rpsS,BVAVS116_RS02410,BVAVS116_0490,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210416,-
+445987,63641258,rplV,BVAVS116_RS02415,BVAVS116_0491,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210416,-
+445987,63641259,rpsC,BVAVS116_RS02420,BVAVS116_0492,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210416,-
+445987,63641260,rplP,BVAVS116_RS02425,BVAVS116_0493,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210416,-
+445987,63641261,BVAVS116_RS02430,BVAVS116_RS02430,BVAVS116_0494,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20210416,-
+445987,63641262,rpsQ,BVAVS116_RS02435,BVAVS116_0495,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210416,-
+445987,63641263,rplN,BVAVS116_RS02440,BVAVS116_0496,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20210416,-
+445987,63641264,rplX,BVAVS116_RS02445,BVAVS116_0497,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210419,-
+445987,63641265,rplE,BVAVS116_RS02450,BVAVS116_0498,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210416,-
+445987,63641266,BVAVS116_RS02455,BVAVS116_RS02455,BVAVS116_0499,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210416,-
+445987,63641267,rpsH,BVAVS116_RS02460,BVAVS116_0500,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210416,-
+445987,63641268,rplF,BVAVS116_RS02465,BVAVS116_0501,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210416,-
+445987,63641269,BVAVS116_RS02470,BVAVS116_RS02470,BVAVS116_0502,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210416,-
+445987,63641270,rpsE,BVAVS116_RS02475,BVAVS116_0503,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20210416,-
+445987,63641271,rpmD,BVAVS116_RS02480,BVAVS116_0504,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20210416,-
+445987,63641272,rplO,BVAVS116_RS02485,BVAVS116_0505,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210416,-
+445987,63641273,secY,BVAVS116_RS02490,BVAVS116_0506,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20210416,-
+445987,63641274,rpmJ,BVAVS116_RS02495,BVAVS116_0507,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210416,-
+445987,63641275,rpsM,BVAVS116_RS02500,BVAVS116_0508,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210416,-
+445987,63641276,rpsK,BVAVS116_RS02505,BVAVS116_0509,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210416,-
+445987,63641277,BVAVS116_RS02510,BVAVS116_RS02510,BVAVS116_0510,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210416,-
+445987,63641278,rplQ,BVAVS116_RS02515,BVAVS116_0511,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210416,-
+445987,63641279,rny,BVAVS116_RS02520,BVAVS116_0512,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20210416,-
+445987,63641280,BVAVS116_RS02525,BVAVS116_RS02525,BVAVS116_0513,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20210416,-
+445987,63641281,BVAVS116_RS02530,BVAVS116_RS02530,BVAVS116_0515,-,-,-,TlyA family RNA methyltransferase,protein-coding,-,-,-,TlyA family RNA methyltransferase,20210416,-
+445987,63641282,BVAVS116_RS02535,BVAVS116_RS02535,BVAVS116_0514,-,-,-,GerMN domain-containing protein,protein-coding,-,-,-,GerMN domain-containing protein,20210416,-
+445987,63641283,der,BVAVS116_RS02540,BVAVS116_0516,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210416,-
+445987,63641284,BVAVS116_RS02545,BVAVS116_RS02545,BVAVS116_0517,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641285,BVAVS116_RS02550,BVAVS116_RS02550,BVAVS116_0518,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210416,-
+445987,63641286,BVAVS116_RS02555,BVAVS116_RS02555,BVAVS116_0519,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641287,BVAVS116_RS02560,BVAVS116_RS02560,BVAVS116_0520,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20210416,-
+445987,63641288,BVAVS116_RS02565,BVAVS116_RS02565,BVAVS116_0521,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20210416,-
+445987,63641289,trxB,BVAVS116_RS02570,BVAVS116_0522,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210416,-
+445987,63641290,rlmB,BVAVS116_RS02575,BVAVS116_0523,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20210416,-
+445987,63641291,dnaJ,BVAVS116_RS02580,BVAVS116_0524,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210416,-
+445987,63641292,dnaK,BVAVS116_RS02585,BVAVS116_0525,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210416,-
+445987,63641293,grpE,BVAVS116_RS02590,BVAVS116_0526,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210416,-
+445987,63641294,nadE,BVAVS116_RS02595,BVAVS116_0527,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210416,-
+445987,63641295,BVAVS116_RS02600,BVAVS116_RS02600,BVAVS116_0530,-,-,-,inositol monophosphatase,protein-coding,-,-,-,inositol monophosphatase,20210416,-
+445987,63641296,BVAVS116_RS02605,BVAVS116_RS02605,BVAVS116_0531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641297,BVAVS116_RS02610,BVAVS116_RS02610,BVAVS116_0532,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641298,BVAVS116_RS02615,BVAVS116_RS02615,BVAVS116_0533,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20210416,-
+445987,63641299,BVAVS116_RS02620,BVAVS116_RS02620,BVAVS116_0534,-,-,-,aldo/keto reductase,protein-coding,-,-,-,aldo/keto reductase,20210416,-
+445987,63641300,BVAVS116_RS02625,BVAVS116_RS02625,BVAVS116_0535,-,-,-,TIGR02757 family protein,protein-coding,-,-,-,TIGR02757 family protein,20210416,-
+445987,63641301,BVAVS116_RS02630,BVAVS116_RS02630,BVAVS116_0536,-,-,-,glucosaminidase domain-containing protein,protein-coding,-,-,-,glucosaminidase domain-containing protein,20210416,-
+445987,63641302,BVAVS116_RS02635,BVAVS116_RS02635,BVAVS116_0537,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641303,BVAVS116_RS02640,BVAVS116_RS02640,BVAVS116_0538,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20210416,-
+445987,63641304,xth,BVAVS116_RS02645,BVAVS116_0539,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20210416,-
+445987,63641305,BVAVS116_RS02650,BVAVS116_RS02650,BVAVS116_0540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641306,BVAVS116_RS02655,BVAVS116_RS02655,BVAVS116_0541,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210416,-
+445987,63641307,BVAVS116_RS02660,BVAVS116_RS02660,BVAVS116_0543,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641308,BVAVS116_RS02665,BVAVS116_RS02665,BVAVS116_0544,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641309,BVAVS116_RS02670,BVAVS116_RS02670,BVAVS116_0545,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63641310,BVAVS116_RS02675,BVAVS116_RS02675,BVAVS116_0546,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20210416,-
+445987,63641311,BVAVS116_RS02680,BVAVS116_RS02680,BVAVS116_0547,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20210416,-
+445987,63641312,BVAVS116_RS02685,BVAVS116_RS02685,BVAVS116_0548,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210416,-
+445987,63641313,BVAVS116_RS02690,BVAVS116_RS02690,BVAVS116_0549,-,-,-,KTSC domain-containing protein,protein-coding,-,-,-,KTSC domain-containing protein,20210416,-
+445987,63641314,BVAVS116_RS02695,BVAVS116_RS02695,BVAVS116_0550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641315,BVAVS116_RS02700,BVAVS116_RS02700,BVAVS116_0551,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641316,BVAVS116_RS02705,BVAVS116_RS02705,BVAVS116_0552,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210416,-
+445987,63641317,BVAVS116_RS02710,BVAVS116_RS02710,BVAVS116_0554,-,-,-,FGGY-family carbohydrate kinase,protein-coding,-,-,-,FGGY-family carbohydrate kinase,20210416,-
+445987,63641318,BVAVS116_RS02715,BVAVS116_RS02715,BVAVS116_0553,-,-,-,SPOR domain-containing protein,protein-coding,-,-,-,SPOR domain-containing protein,20210416,-
+445987,63641319,BVAVS116_RS02720,BVAVS116_RS02720,BVAVS116_0555,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210416,-
+445987,63641320,polA,BVAVS116_RS02725,BVAVS116_0556,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210416,-
+445987,63641321,BVAVS116_RS02730,BVAVS116_RS02730,BVAVS116_0557,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641322,fliS,BVAVS116_RS02735,BVAVS116_0558,-,-,-,flagellar export chaperone FliS,protein-coding,-,-,-,flagellar export chaperone FliS,20210416,-
+445987,63641323,BVAVS116_RS02740,BVAVS116_RS02740,BVAVS116_0559,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210416,-
+445987,63641324,ligA,BVAVS116_RS02745,BVAVS116_0560,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210416,-
+445987,63641325,BVAVS116_RS02750,BVAVS116_RS02750,BVAVS116_0561,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641326,BVAVS116_RS02755,BVAVS116_RS02755,BVAVS116_0562,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641327,BVAVS116_RS02760,BVAVS116_RS02760,BVAVS116_0563,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641328,BVAVS116_RS02765,BVAVS116_RS02765,BVAVS116_0564,-,-,-,xanthine dehydrogenase family protein subunit M,protein-coding,-,-,-,xanthine dehydrogenase family protein subunit M,20210416,-
+445987,63641329,BVAVS116_RS02770,BVAVS116_RS02770,BVAVS116_0565,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210416,-
+445987,63641330,ptsP,BVAVS116_RS02775,BVAVS116_0566,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20210416,-
+445987,63641331,crr,BVAVS116_RS02780,BVAVS116_0567,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210416,-
+445987,63641332,htpG,BVAVS116_RS02785,BVAVS116_0568,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20210416,-
+445987,63641333,gnd,BVAVS116_RS02790,BVAVS116_0569,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20210416,-
+445987,63641334,BVAVS116_RS02795,BVAVS116_RS02795,BVAVS116_0570,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210416,-
+445987,63641335,BVAVS116_RS02800,BVAVS116_RS02800,BVAVS116_0572,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210416,-
+445987,63641336,BVAVS116_RS02805,BVAVS116_RS02805,BVAVS116_0573,-,-,-,DUF3996 domain-containing protein,protein-coding,-,-,-,DUF3996 domain-containing protein,20210416,-
+445987,63641337,BVAVS116_RS02810,BVAVS116_RS02810,BVAVS116_0574,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210416,-
+445987,63641338,BVAVS116_RS02815,BVAVS116_RS02815,BVAVS116_0575,-,-,-,STAS domain-containing protein,protein-coding,-,-,-,STAS domain-containing protein,20210416,-
+445987,63641339,BVAVS116_RS02820,BVAVS116_RS02820,BVAVS116_0576,-,-,-,chemotaxis protein CheA,protein-coding,-,-,-,chemotaxis protein CheA,20210416,-
+445987,63641340,BVAVS116_RS02825,BVAVS116_RS02825,BVAVS116_0577,-,-,-,chemotaxis protein CheB,protein-coding,-,-,-,chemotaxis protein CheB,20210416,-
+445987,63641341,BVAVS116_RS02830,BVAVS116_RS02830,BVAVS116_0578,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641342,BVAVS116_RS02835,BVAVS116_RS02835,BVAVS116_0579,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210416,-
+445987,63641343,BVAVS116_RS02840,BVAVS116_RS02840,BVAVS116_0580,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641344,BVAVS116_RS02845,BVAVS116_RS02845,BVAVS116_0581,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210416,-
+445987,63641345,BVAVS116_RS02850,BVAVS116_RS02850,BVAVS116_0582,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210416,-
+445987,63641346,BVAVS116_RS02855,BVAVS116_RS02855,BVAVS116_0583,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641347,BVAVS116_RS02860,BVAVS116_RS02860,BVAVS116_0584,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641348,pyrG,BVAVS116_RS02865,BVAVS116_0585,-,-,-,CTP synthase (glutamine hydrolyzing),protein-coding,-,-,-,CTP synthase (glutamine hydrolyzing),20210416,-
+445987,63641349,BVAVS116_RS02870,BVAVS116_RS02870,BVAVS116_0586,-,-,-,DUF1761 domain-containing protein,protein-coding,-,-,-,DUF1761 domain-containing protein,20210416,-
+445987,63641350,BVAVS116_RS02875,BVAVS116_RS02875,BVAVS116_0587,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641351,BVAVS116_RS02880,BVAVS116_RS02880,BVAVS116_0588,-,-,-,chemotaxis protein,protein-coding,-,-,-,chemotaxis protein,20210416,-
+445987,63641352,dnaE,BVAVS116_RS02885,BVAVS116_0589,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210416,-
+445987,63641353,BVAVS116_RS02890,BVAVS116_RS02890,BVAVS116_0590,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20210416,-
+445987,63641354,recG,BVAVS116_RS02895,BVAVS116_0592,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210416,-
+445987,63641355,BVAVS116_RS02900,BVAVS116_RS02900,BVAVS116_0591,-,-,-,D-alanyl-D-alanine carboxypeptidase family protein,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase family protein,20210416,-
+445987,63641356,BVAVS116_RS02905,BVAVS116_RS02905,BVAVS116_0593,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210416,-
+445987,63641357,BVAVS116_RS02910,BVAVS116_RS02910,BVAVS116_0594,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20210416,-
+445987,63641358,murD,BVAVS116_RS02915,BVAVS116_0596,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20210416,-
+445987,63641359,BVAVS116_RS02920,BVAVS116_RS02920,BVAVS116_0595,-,-,-,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein,protein-coding,-,-,-,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein,20210416,-
+445987,63641360,metG,BVAVS116_RS02925,BVAVS116_0597,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210416,-
+445987,63641361,BVAVS116_RS02930,BVAVS116_RS02930,BVAVS116_0598,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210416,-
+445987,63641362,pta,BVAVS116_RS02935,BVAVS116_0600,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20210416,-
+445987,63641363,rsmA,BVAVS116_RS02940,BVAVS116_0599,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210416,-
+445987,63641364,BVAVS116_RS02945,BVAVS116_RS02945,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641365,BVAVS116_RS02950,BVAVS116_RS02950,BVAVS116_0603,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20210416,-
+445987,63641366,BVAVS116_RS02955,BVAVS116_RS02955,BVAVS116_0604,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210416,-
+445987,63641367,BVAVS116_RS02960,BVAVS116_RS02960,BVAVS116_0605,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210416,-
+445987,63641368,BVAVS116_RS02965,BVAVS116_RS02965,BVAVS116_0606,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641369,BVAVS116_RS02970,BVAVS116_RS02970,BVAVS116_0607,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210416,-
+445987,63641370,BVAVS116_RS02975,BVAVS116_RS02975,BVAVS116_0609,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210416,-
+445987,63641371,BVAVS116_RS02980,BVAVS116_RS02980,BVAVS116_0608,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20210416,-
+445987,63641372,BVAVS116_RS02985,BVAVS116_RS02985,BVAVS116_0610,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210416,-
+445987,63641373,BVAVS116_RS02990,BVAVS116_RS02990,BVAVS116_0611,-,-,-,DNA-binding protein,protein-coding,-,-,-,DNA-binding protein,20210416,-
+445987,63641374,BVAVS116_RS02995,BVAVS116_RS02995,BVAVS116_0612,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210416,-
+445987,63641375,BVAVS116_RS03000,BVAVS116_RS03000,BVAVS116_0613,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210416,-
+445987,63641376,BVAVS116_RS03005,BVAVS116_RS03005,BVAVS116_0614,-,-,-,integrin-binding adhesin P66 family protein,protein-coding,-,-,-,integrin-binding adhesin P66 family protein,20210416,-
+445987,63641377,BVAVS116_RS03010,BVAVS116_RS03010,BVAVS116_0615,-,-,-,lactate permease LctP family transporter,protein-coding,-,-,-,lactate permease LctP family transporter,20210416,-
+445987,63641378,BVAVS116_RS03015,BVAVS116_RS03015,BVAVS116_0616,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210416,-
+445987,63641379,cheD,BVAVS116_RS03020,BVAVS116_0617,-,-,-,chemoreceptor glutamine deamidase CheD,protein-coding,-,-,-,chemoreceptor glutamine deamidase CheD,20210416,-
+445987,63641380,BVAVS116_RS03025,BVAVS116_RS03025,BVAVS116_0618,-,-,-,ATP-dependent helicase,protein-coding,-,-,-,ATP-dependent helicase,20210416,-
+445987,63641381,pepD,BVAVS116_RS03030,BVAVS116_0619,-,-,-,beta-Ala-His dipeptidase,protein-coding,-,-,-,beta-Ala-His dipeptidase,20210416,-
+445987,63641382,BVAVS116_RS03035,BVAVS116_RS03035,BVAVS116_0620,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641383,BVAVS116_RS03040,BVAVS116_RS03040,BVAVS116_0621,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641384,BVAVS116_RS03045,BVAVS116_RS03045,BVAVS116_0622,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641385,BVAVS116_RS03050,BVAVS116_RS03050,BVAVS116_0624,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641386,BVAVS116_RS03055,BVAVS116_RS03055,BVAVS116_0625,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210416,-
+445987,63641387,clpP,BVAVS116_RS03060,BVAVS116_0626,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20210416,-
+445987,63641388,clpX,BVAVS116_RS03065,BVAVS116_0627,-,-,-,ATP-dependent protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent protease ATP-binding subunit ClpX,20210416,-
+445987,63641389,lon,BVAVS116_RS03070,BVAVS116_0628,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210416,-
+445987,63641390,rpsD,BVAVS116_RS03075,BVAVS116_0630,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210416,-
+445987,63641391,BVAVS116_RS03080,BVAVS116_RS03080,BVAVS116_0631,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641392,BVAVS116_RS03085,BVAVS116_RS03085,BVAVS116_0632,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20210416,-
+445987,63641393,BVAVS116_RS03090,BVAVS116_RS03090,BVAVS116_0633,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641394,cdd,BVAVS116_RS03095,BVAVS116_0634,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20210416,-
+445987,63641395,BVAVS116_RS03100,BVAVS116_RS03100,BVAVS116_0636,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20210416,-
+445987,63641396,BVAVS116_RS03105,BVAVS116_RS03105,BVAVS116_0635,-,-,-,glycoside hydrolase family 3 protein,protein-coding,-,-,-,glycoside hydrolase family 3 protein,20210416,-
+445987,63641397,BVAVS116_RS03110,BVAVS116_RS03110,BVAVS116_0637,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641398,BVAVS116_RS03115,BVAVS116_RS03115,BVAVS116_0638,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20210416,-
+445987,63641399,BVAVS116_RS03120,BVAVS116_RS03120,BVAVS116_0639,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20210416,-
+445987,63641400,mfd,BVAVS116_RS03125,BVAVS116_0640,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210416,-
+445987,63641401,BVAVS116_RS03130,BVAVS116_RS03130,BVAVS116_0641,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641402,BVAVS116_RS03135,BVAVS116_RS03135,BVAVS116_0642,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20210416,-
+445987,63641403,BVAVS116_RS03140,BVAVS116_RS03140,BVAVS116_0644,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641404,BVAVS116_RS03150,BVAVS116_RS03150,BVAVS116_0645,-,-,-,M18 family aminopeptidase,protein-coding,-,-,-,M18 family aminopeptidase,20210416,-
+445987,63641405,BVAVS116_RS03155,BVAVS116_RS03155,BVAVS116_0646,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641406,BVAVS116_RS03160,BVAVS116_RS03160,BVAVS116_0647,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210416,-
+445987,63641407,pfkB,BVAVS116_RS03165,BVAVS116_0648,-,-,-,1-phosphofructokinase,protein-coding,-,-,-,1-phosphofructokinase,20210416,-
+445987,63641408,BVAVS116_RS03170,BVAVS116_RS03170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641409,BVAVS116_RS03175,BVAVS116_RS03175,BVAVS116_0649,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641410,recD,BVAVS116_RS03180,BVAVS116_0650,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20210416,-
+445987,63641411,recB,BVAVS116_RS03185,BVAVS116_0651,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20210416,-
+445987,63641412,BVAVS116_RS03190,BVAVS116_RS03190,BVAVS116_0652,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20210416,-
+445987,63641413,BVAVS116_RS03195,BVAVS116_RS03195,BVAVS116_0653,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210416,-
+445987,63641414,BVAVS116_RS03200,BVAVS116_RS03200,BVAVS116_0654,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20210416,-
+445987,63641415,BVAVS116_RS03205,BVAVS116_RS03205,BVAVS116_0655,-,-,-,Na+/H+ antiporter NhaC family protein,protein-coding,-,-,-,Na+/H+ antiporter NhaC family protein,20210416,-
+445987,63641416,BVAVS116_RS03210,BVAVS116_RS03210,BVAVS116_0656,-,-,-,Na+/H+ antiporter NhaC family protein,protein-coding,-,-,-,Na+/H+ antiporter NhaC family protein,20210416,-
+445987,63641417,BVAVS116_RS03215,BVAVS116_RS03215,BVAVS116_0657,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210416,-
+445987,63641418,BVAVS116_RS03220,BVAVS116_RS03220,BVAVS116_0658,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641419,BVAVS116_RS03225,BVAVS116_RS03225,BVAVS116_0659,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641420,BVAVS116_RS03230,BVAVS116_RS03230,BVAVS116_0660,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641421,ylqF,BVAVS116_RS03235,BVAVS116_0661,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20210416,-
+445987,63641422,BVAVS116_RS03240,BVAVS116_RS03240,BVAVS116_0662,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,protein-coding,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,20210416,-
+445987,63641423,BVAVS116_RS03245,BVAVS116_RS03245,BVAVS116_0663,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210416,-
+445987,63641424,BVAVS116_RS03250,BVAVS116_RS03250,BVAVS116_0664,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210416,-
+445987,63641425,bosR,BVAVS116_RS03255,BVAVS116_0665,-,-,-,oxidative stress transcriptional regulator BosR,protein-coding,-,-,-,oxidative stress transcriptional regulator BosR,20210416,-
+445987,63641426,BVAVS116_RS03260,BVAVS116_RS03260,BVAVS116_0666,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641427,groL,BVAVS116_RS03265,BVAVS116_0667,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210416,-
+445987,63641428,BVAVS116_RS03270,BVAVS116_RS03270,BVAVS116_0668,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641429,yajC,BVAVS116_RS03275,BVAVS116_0669,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20210416,-
+445987,63641430,secD,BVAVS116_RS03280,BVAVS116_0670,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20210416,-
+445987,63641431,secF,BVAVS116_RS03285,BVAVS116_0671,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20210416,-
+445987,63641432,BVAVS116_RS03290,BVAVS116_RS03290,BVAVS116_0673,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641433,BVAVS116_RS03295,BVAVS116_RS03295,BVAVS116_0672,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20210416,-
+445987,63641434,psgB,BVAVS116_RS03300,BVAVS116_0675,-,-,-,HemN-related non-iron pseudo-SAM protein PsgB,protein-coding,-,-,-,HemN-related non-iron pseudo-SAM protein PsgB,20210416,-
+445987,63641435,rpiA,BVAVS116_RS03305,BVAVS116_0674,-,-,-,ribose 5-phosphate isomerase A,protein-coding,-,-,-,ribose 5-phosphate isomerase A,20210416,-
+445987,63641436,gpmA,BVAVS116_RS03310,BVAVS116_0676,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",20210416,-
+445987,63641437,lysS,BVAVS116_RS03315,BVAVS116_0677,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210416,-
+445987,63641438,era,BVAVS116_RS03320,BVAVS116_0678,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210416,-
+445987,63641439,BVAVS116_RS03325,BVAVS116_RS03325,BVAVS116_0679,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641440,BVAVS116_RS03330,BVAVS116_RS03330,BVAVS116_0680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641441,BVAVS116_RS03335,BVAVS116_RS03335,BVAVS116_0681,-,-,-,DUF192 domain-containing protein,protein-coding,-,-,-,DUF192 domain-containing protein,20210416,-
+445987,63641442,BVAVS116_RS03340,BVAVS116_RS03340,BVAVS116_0682,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641443,BVAVS116_RS03345,BVAVS116_RS03345,BVAVS116_0683,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641444,BVAVS116_RS03350,BVAVS116_RS03350,BVAVS116_0684,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20210416,-
+445987,63641445,BVAVS116_RS03355,BVAVS116_RS03355,BVAVS116_0685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641446,flaA,BVAVS116_RS03360,BVAVS116_0686,-,-,-,flagellar filament outer layer protein FlaA,protein-coding,-,-,-,flagellar filament outer layer protein FlaA,20210416,-
+445987,63641447,BVAVS116_RS03365,BVAVS116_RS03365,BVAVS116_0687,-,-,-,chemotaxis protein CheA,protein-coding,-,-,-,chemotaxis protein CheA,20210416,-
+445987,63641448,BVAVS116_RS03370,BVAVS116_RS03370,BVAVS116_0688,-,-,-,chemotaxis protein CheW,protein-coding,-,-,-,chemotaxis protein CheW,20210416,-
+445987,63641449,BVAVS116_RS03375,BVAVS116_RS03375,BVAVS116_0689,-,-,-,chemotaxis protein CheX,protein-coding,-,-,-,chemotaxis protein CheX,20210416,-
+445987,63641450,BVAVS116_RS03380,BVAVS116_RS03380,BVAVS116_0690,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20210416,-
+445987,63641451,BVAVS116_RS03385,BVAVS116_RS03385,BVAVS116_0691,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641452,BVAVS116_RS03390,BVAVS116_RS03390,BVAVS116_0692,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641453,BVAVS116_RS03395,BVAVS116_RS03395,BVAVS116_0693,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641454,BVAVS116_RS03400,BVAVS116_RS03400,BVAVS116_0695,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20210416,-
+445987,63641455,BVAVS116_RS03405,BVAVS116_RS03405,BVAVS116_0696,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641456,BVAVS116_RS03410,BVAVS116_RS03410,BVAVS116_0697,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641457,BVAVS116_RS03415,BVAVS116_RS03415,BVAVS116_0698,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641458,BVAVS116_RS03420,BVAVS116_RS03420,BVAVS116_0699,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210416,-
+445987,63641459,BVAVS116_RS03425,BVAVS116_RS03425,BVAVS116_0700,-,-,-,methyl-accepting chemotaxis protein,protein-coding,-,-,-,methyl-accepting chemotaxis protein,20210416,-
+445987,63641460,mnmA,BVAVS116_RS03430,BVAVS116_0701,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210416,-
+445987,63641461,BVAVS116_RS03435,BVAVS116_RS03435,BVAVS116_0702,-,-,-,hydroxymethylglutaryl-CoA synthase,protein-coding,-,-,-,hydroxymethylglutaryl-CoA synthase,20210416,-
+445987,63641462,fni,BVAVS116_RS03440,BVAVS116_0703,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,protein-coding,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,20210416,-
+445987,63641463,BVAVS116_RS03445,BVAVS116_RS03445,BVAVS116_0704,-,-,-,"hydroxymethylglutaryl-CoA reductase, degradative",protein-coding,-,-,-,"hydroxymethylglutaryl-CoA reductase, degradative",20210416,-
+445987,63641464,mvaD,BVAVS116_RS03450,BVAVS116_0705,-,-,-,diphosphomevalonate decarboxylase,protein-coding,-,-,-,diphosphomevalonate decarboxylase,20210416,-
+445987,63641465,BVAVS116_RS03455,BVAVS116_RS03455,BVAVS116_0706,-,-,-,phosphomevalonate kinase,protein-coding,-,-,-,phosphomevalonate kinase,20210416,-
+445987,63641466,mvk,BVAVS116_RS03460,BVAVS116_0707,-,-,-,mevalonate kinase,protein-coding,-,-,-,mevalonate kinase,20210416,-
+445987,63641467,BVAVS116_RS03465,BVAVS116_RS03465,BVAVS116_0708,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641468,BVAVS116_RS03470,BVAVS116_RS03470,BVAVS116_0709,-,-,-,CAP domain-containing protein,protein-coding,-,-,-,CAP domain-containing protein,20210416,-
+445987,63641469,BVAVS116_RS03475,BVAVS116_RS03475,BVAVS116_0710,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20210416,-
+445987,63641470,BVAVS116_RS03480,BVAVS116_RS03480,BVAVS116_0711,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210416,-
+445987,63641471,BVAVS116_RS03485,BVAVS116_RS03485,BVAVS116_0712,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20210416,-
+445987,63641472,ffh,BVAVS116_RS03490,BVAVS116_0713,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210416,-
+445987,63641473,rpsP,BVAVS116_RS03495,BVAVS116_0714,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210416,-
+445987,63641474,BVAVS116_RS03500,BVAVS116_RS03500,BVAVS116_0715,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20210416,-
+445987,63641475,rimM,BVAVS116_RS03505,BVAVS116_0716,-,-,-,16S rRNA processing protein RimM,protein-coding,-,-,-,16S rRNA processing protein RimM,20210416,-
+445987,63641476,trmD,BVAVS116_RS03510,BVAVS116_0717,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20210416,-
+445987,63641477,rplS,BVAVS116_RS03515,BVAVS116_0718,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20210416,-
+445987,63641478,BVAVS116_RS03520,BVAVS116_RS03520,BVAVS116_0719,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641479,coaD,BVAVS116_RS03525,BVAVS116_0720,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20210416,-
+445987,63641480,rpmF,BVAVS116_RS03530,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210416,-
+445987,63641481,acpP,BVAVS116_RS03535,BVAVS116_0721,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210416,-
+445987,63641482,rnc,BVAVS116_RS03540,BVAVS116_0723,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210416,-
+445987,63641483,BVAVS116_RS03545,BVAVS116_RS03545,BVAVS116_0722,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20210416,-
+445987,63641484,BVAVS116_RS03550,BVAVS116_RS03550,BVAVS116_0724,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641485,BVAVS116_RS03555,BVAVS116_RS03555,BVAVS116_0725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641486,BVAVS116_RS03560,BVAVS116_RS03560,BVAVS116_0726,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641487,BVAVS116_RS03565,BVAVS116_RS03565,BVAVS116_0727,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641488,mltG,BVAVS116_RS03570,BVAVS116_0728,-,-,-,endolytic transglycosylase MltG,protein-coding,-,-,-,endolytic transglycosylase MltG,20210416,-
+445987,63641489,dnaG,BVAVS116_RS03575,BVAVS116_0729,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210416,-
+445987,63641490,rpoD,BVAVS116_RS03580,BVAVS116_0730,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20210416,-
+445987,63641491,BVAVS116_RS03585,BVAVS116_RS03585,BVAVS116_0731,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20210416,-
+445987,63641492,BVAVS116_RS03590,BVAVS116_RS03590,BVAVS116_0733,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20210416,-
+445987,63641493,BVAVS116_RS03595,BVAVS116_RS03595,BVAVS116_0734,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20210416,-
+445987,63641494,mreC,BVAVS116_RS03600,BVAVS116_0735,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20210416,-
+445987,63641495,mreD,BVAVS116_RS03605,BVAVS116_0736,-,-,-,rod shape-determining protein MreD,protein-coding,-,-,-,rod shape-determining protein MreD,20210416,-
+445987,63641496,mrdA,BVAVS116_RS03610,BVAVS116_0737,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20210416,-
+445987,63641497,rodA,BVAVS116_RS03615,BVAVS116_0738,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20210416,-
+445987,63641498,BVAVS116_RS03620,BVAVS116_RS03620,BVAVS116_0739,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210416,-
+445987,63641499,pgsA,BVAVS116_RS03625,BVAVS116_0740,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210416,-
+445987,63641500,BVAVS116_RS03630,BVAVS116_RS03630,BVAVS116_0742,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641501,cyaB,BVAVS116_RS03635,BVAVS116_0741,-,-,-,class IV adenylate cyclase,protein-coding,-,-,-,class IV adenylate cyclase,20210416,-
+445987,63641502,BVAVS116_RS03640,BVAVS116_RS03640,BVAVS116_0743,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20210416,-
+445987,63641503,BVAVS116_RS03645,BVAVS116_RS03645,BVAVS116_0744,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20210416,-
+445987,63641504,BVAVS116_RS03650,BVAVS116_RS03650,BVAVS116_0745,-,-,-,MinD/ParA family protein,protein-coding,-,-,-,MinD/ParA family protein,20210416,-
+445987,63641505,BVAVS116_RS03655,BVAVS116_RS03655,BVAVS116_0746,-,-,-,ATP-dependent 6-phosphofructokinase,protein-coding,-,-,-,ATP-dependent 6-phosphofructokinase,20210416,-
+445987,63641506,BVAVS116_RS03660,BVAVS116_RS03660,BVAVS116_0747,-,-,-,CoA-disulfide reductase,protein-coding,-,-,-,CoA-disulfide reductase,20210416,-
+445987,63641507,BVAVS116_RS03665,BVAVS116_RS03665,BVAVS116_0748,-,-,-,L-cystine transporter,protein-coding,-,-,-,L-cystine transporter,20210416,-
+445987,63641508,BVAVS116_RS03670,BVAVS116_RS03670,BVAVS116_0749,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20210416,-
+445987,63641509,BVAVS116_RS03675,BVAVS116_RS03675,BVAVS116_0750,-,-,-,ParB N-terminal domain-containing protein,protein-coding,-,-,-,ParB N-terminal domain-containing protein,20210416,-
+445987,63641510,BVAVS116_RS03680,BVAVS116_RS03680,BVAVS116_0751,-,-,-,penicillin-binding protein 1A,protein-coding,-,-,-,penicillin-binding protein 1A,20210416,-
+445987,63641511,BVAVS116_RS03685,BVAVS116_RS03685,BVAVS116_0752,-,-,-,PilZ domain-containing protein,protein-coding,-,-,-,PilZ domain-containing protein,20210416,-
+445987,63641512,BVAVS116_RS03690,BVAVS116_RS03690,BVAVS116_0753,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210416,-
+445987,63641513,BVAVS116_RS03695,BVAVS116_RS03695,BVAVS116_0754,-,-,-,septal ring lytic transglycosylase RlpA family protein,protein-coding,-,-,-,septal ring lytic transglycosylase RlpA family protein,20210416,-
+445987,63641514,BVAVS116_RS03700,BVAVS116_RS03700,BVAVS116_0755,-,-,-,tRNA-dihydrouridine synthase,protein-coding,-,-,-,tRNA-dihydrouridine synthase,20210416,-
+445987,63641515,valS,BVAVS116_RS03705,BVAVS116_0756,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210416,-
+445987,63641516,BVAVS116_RS03710,BVAVS116_RS03710,BVAVS116_0757,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641517,mnmD,BVAVS116_RS03715,BVAVS116_0758,-,-,-,tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD,protein-coding,-,-,-,tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD,20210416,-
+445987,63641518,groES,BVAVS116_RS03720,BVAVS116_0759,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20210416,-
+445987,63641519,BVAVS116_RS03725,BVAVS116_RS03725,BVAVS116_0760,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210416,-
+445987,63641520,BVAVS116_RS03730,BVAVS116_RS03730,BVAVS116_0761,-,-,-,PQQ-like beta-propeller repeat protein,protein-coding,-,-,-,PQQ-like beta-propeller repeat protein,20210416,-
+445987,63641521,BVAVS116_RS03735,BVAVS116_RS03735,BVAVS116_0762,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641522,BVAVS116_RS03740,BVAVS116_RS03740,BVAVS116_0763,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641523,BVAVS116_RS03745,BVAVS116_RS03745,BVAVS116_0764,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641524,BVAVS116_RS03750,BVAVS116_RS03750,BVAVS116_0765,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20210416,-
+445987,63641525,BVAVS116_RS03755,BVAVS116_RS03755,BVAVS116_0766,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210416,-
+445987,63641526,BVAVS116_RS03760,BVAVS116_RS03760,BVAVS116_0767,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641527,BVAVS116_RS03765,BVAVS116_RS03765,BVAVS116_0768,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210416,-
+445987,63641528,BVAVS116_RS03770,BVAVS116_RS03770,BVAVS116_0769,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641529,BVAVS116_RS03775,BVAVS116_RS03775,BVAVS116_0770,-,-,-,DUF4340 domain-containing protein,protein-coding,-,-,-,DUF4340 domain-containing protein,20210416,-
+445987,63641530,BVAVS116_RS03780,BVAVS116_RS03780,BVAVS116_0771,-,-,-,Gldg family protein,protein-coding,-,-,-,Gldg family protein,20210416,-
+445987,63641531,BVAVS116_RS03785,BVAVS116_RS03785,BVAVS116_0772,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210416,-
+445987,63641532,BVAVS116_RS03790,BVAVS116_RS03790,BVAVS116_0773,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641533,BVAVS116_RS03795,BVAVS116_RS03795,BVAVS116_0774,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20210416,-
+445987,63641534,BVAVS116_RS03800,BVAVS116_RS03800,BVAVS116_0775,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20210416,-
+445987,63641535,BVAVS116_RS03805,BVAVS116_RS03805,BVAVS116_0776,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20210416,-
+445987,63641536,BVAVS116_RS03810,BVAVS116_RS03810,BVAVS116_0777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641537,BVAVS116_RS03815,BVAVS116_RS03815,BVAVS116_0778,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641538,BVAVS116_RS03820,BVAVS116_RS03820,BVAVS116_0779,-,-,-,DUF368 domain-containing protein,protein-coding,-,-,-,DUF368 domain-containing protein,20210416,-
+445987,63641539,BVAVS116_RS03825,BVAVS116_RS03825,BVAVS116_0780,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,protein-coding,-,-,-,nucleoside triphosphate pyrophosphohydrolase family protein,20210416,-
+445987,63641540,BVAVS116_RS03830,BVAVS116_RS03830,BVAVS116_0781,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20210416,-
+445987,63641541,BVAVS116_RS03835,BVAVS116_RS03835,BVAVS116_0782,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210416,-
+445987,63641542,BVAVS116_RS03840,BVAVS116_RS03840,BVAVS116_0783,-,-,-,GHKL domain-containing protein,protein-coding,-,-,-,GHKL domain-containing protein,20210416,-
+445987,63641543,BVAVS116_RS03845,BVAVS116_RS03845,BVAVS116_0784,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641544,BVAVS116_RS03850,BVAVS116_RS03850,BVAVS116_0785,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210416,-
+445987,63641545,murG,BVAVS116_RS03855,BVAVS116_0786,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20210416,-
+445987,63641546,BVAVS116_RS03860,BVAVS116_RS03860,BVAVS116_0787,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,protein-coding,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,20210416,-
+445987,63641547,tsaD,BVAVS116_RS03865,BVAVS116_0788,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210416,-
+445987,63641548,BVAVS116_RS03870,BVAVS116_RS03870,BVAVS116_0789,-,-,-,divergent polysaccharide deacetylase family protein,protein-coding,-,-,-,divergent polysaccharide deacetylase family protein,20210416,-
+445987,63641549,rpoS,BVAVS116_RS03875,BVAVS116_0790,-,-,-,RNA polymerase sigma factor RpoS,protein-coding,-,-,-,RNA polymerase sigma factor RpoS,20210416,-
+445987,63641550,BVAVS116_RS03880,BVAVS116_RS03880,BVAVS116_0791,-,-,-,rod-binding protein,protein-coding,-,-,-,rod-binding protein,20210416,-
+445987,63641551,BVAVS116_RS03885,BVAVS116_RS03885,BVAVS116_0792,-,-,-,flagellar basal body P-ring protein FlgI,protein-coding,-,-,-,flagellar basal body P-ring protein FlgI,20210416,-
+445987,63641552,BVAVS116_RS03890,BVAVS116_RS03890,BVAVS116_0793,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641553,flgG,BVAVS116_RS03895,BVAVS116_0794,-,-,-,flagellar basal-body rod protein FlgG,protein-coding,-,-,-,flagellar basal-body rod protein FlgG,20210416,-
+445987,63641554,flgF,BVAVS116_RS03900,BVAVS116_0796,-,-,-,flagellar basal-body rod protein FlgF,protein-coding,-,-,-,flagellar basal-body rod protein FlgF,20210416,-
+445987,63641555,BVAVS116_RS03905,BVAVS116_RS03905,BVAVS116_0797,-,-,-,DUF2147 domain-containing protein,protein-coding,-,-,-,DUF2147 domain-containing protein,20210416,-
+445987,63641556,BVAVS116_RS03910,BVAVS116_RS03910,BVAVS116_0798,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20210416,-
+445987,63641557,rplU,BVAVS116_RS03915,BVAVS116_0799,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20210416,-
+445987,63641558,BVAVS116_RS03920,BVAVS116_RS03920,BVAVS116_0800,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20210416,-
+445987,63641559,rpmA,BVAVS116_RS03925,BVAVS116_0801,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210416,-
+445987,63641560,cgtA,BVAVS116_RS03930,BVAVS116_0802,-,-,-,Obg family GTPase CgtA,protein-coding,-,-,-,Obg family GTPase CgtA,20210416,-
+445987,63641561,nadD,BVAVS116_RS03935,BVAVS116_0803,-,-,-,nicotinate (nicotinamide) nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate (nicotinamide) nucleotide adenylyltransferase,20210416,-
+445987,63641562,BVAVS116_RS03940,BVAVS116_RS03940,BVAVS116_0804,-,-,-,LCP family protein,protein-coding,-,-,-,LCP family protein,20210416,-
+445987,63641563,rsfS,BVAVS116_RS03945,BVAVS116_0805,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20210416,-
+445987,63641564,spoVG,BVAVS116_RS03950,BVAVS116_0806,-,-,-,DNA-binding protein SpoVG,protein-coding,-,-,-,DNA-binding protein SpoVG,20210416,-
+445987,63641565,BVAVS116_RS03955,BVAVS116_RS03955,BVAVS116_0807,-,-,-,tRNA,tRNA,-,-,-,-,20210415,-
+445987,63641566,BVAVS116_RS03960,BVAVS116_RS03960,BVAVS116_0808,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20210416,-
+445987,63641567,BVAVS116_RS03965,BVAVS116_RS03965,BVAVS116_0809,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210416,-
+445987,63641568,tilS,BVAVS116_RS03970,BVAVS116_0810,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20210416,-
+445987,63641569,ftsH,BVAVS116_RS03975,BVAVS116_0811,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210416,-
+445987,63641570,BVAVS116_RS03980,BVAVS116_RS03980,BVAVS116_0812,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641571,BVAVS116_RS03985,BVAVS116_RS03985,BVAVS116_0814,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641572,BVAVS116_RS03990,BVAVS116_RS03990,BVAVS116_0813,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641573,tmk,BVAVS116_RS03995,BVAVS116_0815,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210416,-
+445987,63641574,BVAVS116_RS04000,BVAVS116_RS04000,BVAVS116_0816,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641575,bamA,BVAVS116_RS04005,BVAVS116_0817,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20210416,-
+445987,63641576,BVAVS116_RS04010,BVAVS116_RS04010,BVAVS116_0818,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20210416,-
+445987,63641577,mutS,BVAVS116_RS04015,BVAVS116_0819,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210416,-
+445987,63641578,BVAVS116_RS04020,BVAVS116_RS04020,BVAVS116_0820,-,-,-,ComF family protein,protein-coding,-,-,-,ComF family protein,20210416,-
+445987,63641579,rimP,BVAVS116_RS04025,BVAVS116_0821,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20210416,-
+445987,63641580,nusA,BVAVS116_RS04030,BVAVS116_0822,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20210416,-
+445987,63641581,infB,BVAVS116_RS04035,BVAVS116_0823,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210416,-
+445987,63641582,rbfA,BVAVS116_RS04040,BVAVS116_0824,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210416,-
+445987,63641583,truB,BVAVS116_RS04045,BVAVS116_0825,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210416,-
+445987,63641584,rpsO,BVAVS116_RS04050,BVAVS116_0826,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210416,-
+445987,63641585,pnp,BVAVS116_RS04055,BVAVS116_0827,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20210416,-
+445987,63641586,BVAVS116_RS04060,BVAVS116_RS04060,BVAVS116_0828,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641587,BVAVS116_RS04065,BVAVS116_RS04065,BVAVS116_0829,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20210416,-
+445987,63641588,BVAVS116_RS04070,BVAVS116_RS04070,BVAVS116_0830,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20210416,-
+445987,63641589,tgt,BVAVS116_RS04075,BVAVS116_0831,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20210416,-
+445987,63641590,murJ,BVAVS116_RS04080,BVAVS116_0832,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20210416,-
+445987,63641591,BVAVS116_RS04085,BVAVS116_RS04085,BVAVS116_0833,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20210416,-
+445987,63641592,coaBC,BVAVS116_RS04090,BVAVS116_0834,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,protein-coding,-,-,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,20210416,-
+445987,63641593,panF,BVAVS116_RS04095,BVAVS116_0836,-,-,-,sodium/pantothenate symporter,protein-coding,-,-,-,sodium/pantothenate symporter,20210416,-
+445987,63641594,BVAVS116_RS04100,BVAVS116_RS04100,BVAVS116_0837,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210416,-
+445987,63641595,BVAVS116_RS04105,BVAVS116_RS04105,BVAVS116_0838,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641596,BVAVS116_RS04110,BVAVS116_RS04110,BVAVS116_0839,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20210416,-
+445987,63641597,BVAVS116_RS04115,BVAVS116_RS04115,BVAVS116_0840,-,-,-,YicC family protein,protein-coding,-,-,-,YicC family protein,20210416,-
+445987,63641598,BVAVS116_RS04120,BVAVS116_RS04120,BVAVS116_0841,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210416,-
+445987,63641599,BVAVS116_RS04125,BVAVS116_RS04125,BVAVS116_0842,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20210416,-
+445987,63641600,miaA,BVAVS116_RS04130,BVAVS116_0843,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20210416,-
+445987,63641601,BVAVS116_RS04135,BVAVS116_RS04135,BVAVS116_0844,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641602,BVAVS116_RS04140,BVAVS116_RS04140,BVAVS116_0846,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641603,BVAVS116_RS04145,BVAVS116_RS04145,BVAVS116_0845,-,-,-,phosphodiester glycosidase family protein,protein-coding,-,-,-,phosphodiester glycosidase family protein,20210416,-
+445987,63641604,BVAVS116_RS04150,BVAVS116_RS04150,BVAVS116_0847,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641605,BVAVS116_RS04155,BVAVS116_RS04155,BVAVS116_0848,-,-,-,ATP-dependent RNA helicase,protein-coding,-,-,-,ATP-dependent RNA helicase,20210416,-
+445987,63641606,topA,BVAVS116_RS04160,BVAVS116_0849,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210416,-
+445987,63641607,BVAVS116_RS04165,BVAVS116_RS04165,BVAVS116_0850,-,-,-,exonuclease SbcCD subunit D,protein-coding,-,-,-,exonuclease SbcCD subunit D,20210416,-
+445987,63641608,BVAVS116_RS04170,BVAVS116_RS04170,BVAVS116_0851,-,-,-,SMC family ATPase,protein-coding,-,-,-,SMC family ATPase,20210416,-
+445987,63641609,BVAVS116_RS04175,BVAVS116_RS04175,BVAVS116_0852,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20210416,-
+445987,63641610,BVAVS116_RS04180,BVAVS116_RS04180,BVAVS116_0853,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641611,BVAVS116_RS04185,BVAVS116_RS04185,BVAVS116_0854,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210416,-
+445987,63641612,BVAVS116_RS04190,BVAVS116_RS04190,BVAVS116_0855,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20210416,-
+445987,63641613,BVAVS116_RS04195,BVAVS116_RS04195,BVAVS116_0856,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210416,-
+445987,63641614,uvrB,BVAVS116_RS04200,BVAVS116_0857,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20210416,-
+445987,63641615,uvrA,BVAVS116_RS04205,BVAVS116_0858,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210416,-
+445987,63641616,BVAVS116_RS04210,BVAVS116_RS04210,BVAVS116_0859,-,-,-,LPS-assembly protein LptD,protein-coding,-,-,-,LPS-assembly protein LptD,20210416,-
+445987,63641617,BVAVS116_RS04215,BVAVS116_RS04215,BVAVS116_0860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641618,BVAVS116_RS04220,BVAVS116_RS04220,BVAVS116_0861,-,-,-,viroplasmin family protein,protein-coding,-,-,-,viroplasmin family protein,20210416,-
+445987,63641619,BVAVS116_RS04225,BVAVS116_RS04225,BVAVS116_0862,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641620,arcA,BVAVS116_RS04230,BVAVS116_0863,-,-,-,arginine deiminase,protein-coding,-,-,-,arginine deiminase,20210416,-
+445987,63641621,argF,BVAVS116_RS04235,BVAVS116_0864,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20210416,-
+445987,63641622,BVAVS116_RS04240,BVAVS116_RS04240,BVAVS116_0865,-,-,-,YfcC family protein,protein-coding,-,-,-,YfcC family protein,20210416,-
+445987,63641623,BVAVS116_RS04245,BVAVS116_RS04245,BVAVS116_0866,-,-,-,SIMPL domain-containing protein,protein-coding,-,-,-,SIMPL domain-containing protein,20210416,-
+445987,63641624,BVAVS116_RS04250,BVAVS116_RS04250,BVAVS116_0867,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641625,BVAVS116_RS04255,BVAVS116_RS04255,BVAVS116_0868,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210416,-
+445987,63641626,BVAVS116_RS04275,BVAVS116_RS04275,BVAVS116_0874,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20210416,-
+445987,63641627,BVAVS116_RS04280,BVAVS116_RS04280,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641628,BVAVS116_RS04285,BVAVS116_RS04285,BVAVS116_0876,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641629,BVAVS116_RS04300,BVAVS116_RS04300,BVAVS116_B0001,-,-,-,acylphosphatase,protein-coding,-,-,-,acylphosphatase,20210416,-
+445987,63641630,BVAVS116_RS04305,BVAVS116_RS04305,BVAVS116_B0002,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641631,BVAVS116_RS04310,BVAVS116_RS04310,BVAVS116_B0003,-,-,-,telomere resolvase ResT,protein-coding,-,-,-,telomere resolvase ResT,20210416,-
+445987,63641632,celB,BVAVS116_RS04315,BVAVS116_B0004,-,-,-,PTS cellobiose transporter subunit IIC,protein-coding,-,-,-,PTS cellobiose transporter subunit IIC,20210416,-
+445987,63641633,BVAVS116_RS04320,BVAVS116_RS04320,BVAVS116_B0005,-,-,-,PTS lactose/cellobiose transporter subunit IIA,protein-coding,-,-,-,PTS lactose/cellobiose transporter subunit IIA,20210416,-
+445987,63641634,BVAVS116_RS04325,BVAVS116_RS04325,BVAVS116_B0006,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20210416,-
+445987,63641635,BVAVS116_RS04330,BVAVS116_RS04330,BVAVS116_B0007,-,-,-,DUF871 domain-containing protein,protein-coding,-,-,-,DUF871 domain-containing protein,20210416,-
+445987,63641636,BVAVS116_RS04335,BVAVS116_RS04335,BVAVS116_B0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641637,BVAVS116_RS04340,BVAVS116_RS04340,BVAVS116_B0009,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641638,BVAVS116_RS04345,BVAVS116_RS04345,BVAVS116_B0010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641639,BVAVS116_RS04350,BVAVS116_RS04350,BVAVS116_B0011,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641640,BVAVS116_RS04355,BVAVS116_RS04355,BVAVS116_B0012,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641641,BVAVS116_RS04360,BVAVS116_RS04360,BVAVS116_B0013,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641642,BVAVS116_RS04365,BVAVS116_RS04365,BVAVS116_B0014,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641643,BVAVS116_RS04370,BVAVS116_RS04370,BVAVS116_B0015,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210416,-
+445987,63641644,BVAVS116_RS04375,BVAVS116_RS04375,BVAVS116_B0016,-,-,-,guanosine monophosphate reductase,protein-coding,-,-,-,guanosine monophosphate reductase,20210416,-
+445987,63641645,guaA,BVAVS116_RS04380,BVAVS116_B0017,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20210416,-
+445987,63641646,BVAVS116_RS04385,BVAVS116_RS04385,BVAVS116_B0018,-,-,-,outer surface protein C (OspC),protein-coding,-,-,-,outer surface protein C (OspC),20210416,-
+445987,63641647,BVAVS116_RS04390,BVAVS116_RS04390,BVAVS116_B0020,-,-,-,NCS2 family permease,protein-coding,-,-,-,NCS2 family permease,20210416,-
+445987,63641648,BVAVS116_RS04395,BVAVS116_RS04395,BVAVS116_B0021,-,-,-,NCS2 family permease,protein-coding,-,-,-,NCS2 family permease,20210416,-
+445987,63641649,BVAVS116_RS04400,BVAVS116_RS04400,BVAVS116_B0023,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641650,BVAVS116_RS04405,BVAVS116_RS04405,BVAVS116_B0024,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641651,BVAVS116_RS04410,BVAVS116_RS04410,BVAVS116_B0025,-,-,-,ImmA/IrrE family metallo-endopeptidase,protein-coding,-,-,-,ImmA/IrrE family metallo-endopeptidase,20210416,-
+445987,63641652,BVAVS116_RS04415,BVAVS116_RS04415,BVAVS116_B0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641653,BVAVS116_RS04420,BVAVS116_RS04420,BVAVS116_B0027,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210416,-
+445987,63641654,BVAVS116_RS04425,BVAVS116_RS04425,BVAVS116_B0028,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210416,-
+445987,63641655,BVAVS116_RS04430,BVAVS116_RS04430,BVAVS116_A0001,-,-,-,P13 family porin,protein-coding,-,-,-,P13 family porin,20210416,-
+445987,63641656,BVAVS116_RS04435,BVAVS116_RS04435,BVAVS116_A0002,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641657,BVAVS116_RS04440,BVAVS116_RS04440,BVAVS116_A0003,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210416,-
+445987,63641658,BVAVS116_RS04445,BVAVS116_RS04445,BVAVS116_A0004,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641659,BVAVS116_RS04450,BVAVS116_RS04450,BVAVS116_A0005,-,-,-,BBA07 family lipoprotein,protein-coding,-,-,-,BBA07 family lipoprotein,20210416,-
+445987,63641660,BVAVS116_RS04455,BVAVS116_RS04455,BVAVS116_A0006,-,-,-,DUF2634 domain-containing protein,protein-coding,-,-,-,DUF2634 domain-containing protein,20210416,-
+445987,63641661,BVAVS116_RS04460,BVAVS116_RS04460,BVAVS116_A0007,-,-,-,DUF276 domain-containing protein,protein-coding,-,-,-,DUF276 domain-containing protein,20210416,-
+445987,63641662,BVAVS116_RS04465,BVAVS116_RS04465,BVAVS116_A0008,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210416,-
+445987,63641663,BVAVS116_RS04470,BVAVS116_RS04470,BVAVS116_A0009,-,-,-,DUF685 domain-containing protein,protein-coding,-,-,-,DUF685 domain-containing protein,20210416,-
+445987,63641664,BVAVS116_RS04475,BVAVS116_RS04475,BVAVS116_A0010,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210416,-
+445987,63641665,BVAVS116_RS04480,BVAVS116_RS04480,BVAVS116_A0011,-,-,-,"holin, BlyB family",protein-coding,-,-,-,"holin, BlyB family",20210416,-
+445987,63641666,BVAVS116_RS04485,BVAVS116_RS04485,BVAVS116_A0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641667,ospA,BVAVS116_RS04490,BVAVS116_A0013,-,-,-,outer surface lipoprotein OspA,protein-coding,-,-,-,outer surface lipoprotein OspA,20210416,-
+445987,63641668,BVAVS116_RS04495,BVAVS116_RS04495,BVAVS116_A0014,-,-,-,lipoprotein P35,protein-coding,-,-,-,lipoprotein P35,20210416,-
+445987,63641669,BVAVS116_RS04505,BVAVS116_RS04505,BVAVS116_A0016,-,-,-,peptide transporter,protein-coding,-,-,-,peptide transporter,20210416,-
+445987,63641670,BVAVS116_RS04510,BVAVS116_RS04510,BVAVS116_A0017,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641671,BVAVS116_RS04515,BVAVS116_RS04515,BVAVS116_A0018,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641672,BVAVS116_RS04520,BVAVS116_RS04520,BVAVS116_A0019,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641673,BVAVS116_RS04525,BVAVS116_RS04525,BVAVS116_A0020,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210416,-
+445987,63641674,dbpA,BVAVS116_RS04530,BVAVS116_A0021,-,-,-,decorin-binding protein DbpA,protein-coding,-,-,-,decorin-binding protein DbpA,20210416,-
+445987,63641675,dbpB,BVAVS116_RS04535,BVAVS116_A0022,-,-,-,decorin-binding protein DbpB,protein-coding,-,-,-,decorin-binding protein DbpB,20210416,-
+445987,63641676,BVAVS116_RS04540,BVAVS116_RS04540,BVAVS116_A0023,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641677,BVAVS116_RS04545,BVAVS116_RS04545,BVAVS116_A0024,-,-,-,DUF603 domain-containing protein,protein-coding,-,-,-,DUF603 domain-containing protein,20210416,-
+445987,63641678,BVAVS116_RS04550,BVAVS116_RS04550,BVAVS116_A0025,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20210416,-
+445987,63641679,BVAVS116_RS04555,BVAVS116_RS04555,BVAVS116_A0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641680,BVAVS116_RS04560,BVAVS116_RS04560,BVAVS116_A0027,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641681,BVAVS116_RS04565,BVAVS116_RS04565,BVAVS116_A0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641682,BVAVS116_RS04570,BVAVS116_RS04570,BVAVS116_A0029,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210416,-
+445987,63641683,BVAVS116_RS04575,BVAVS116_RS04575,BVAVS116_A0031,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641684,BVAVS116_RS04580,BVAVS116_RS04580,BVAVS116_A0032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641685,BVAVS116_RS04585,BVAVS116_RS04585,BVAVS116_A0033,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210416,-
+445987,63641686,BVAVS116_RS04590,BVAVS116_RS04590,BVAVS116_A0034,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210416,-
+445987,63641687,BVAVS116_RS04595,BVAVS116_RS04595,BVAVS116_A0035,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210416,-
+445987,63641688,BVAVS116_RS04600,BVAVS116_RS04600,BVAVS116_A0036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641689,BVAVS116_RS04605,BVAVS116_RS04605,BVAVS116_A0037,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210416,-
+445987,63641690,BVAVS116_RS04610,BVAVS116_RS04610,BVAVS116_A0038,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210416,-
+445987,63641691,BVAVS116_RS04615,BVAVS116_RS04615,BVAVS116_A0039,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641692,BVAVS116_RS04620,BVAVS116_RS04620,BVAVS116_A0040,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210416,-
+445987,63641693,BVAVS116_RS04625,BVAVS116_RS04625,BVAVS116_A0041,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210416,-
+445987,63641694,BVAVS116_RS04630,BVAVS116_RS04630,BVAVS116_A0042,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210416,-
+445987,63641695,BVAVS116_RS04635,BVAVS116_RS04635,BVAVS116_A0043,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210416,-
+445987,63641696,BVAVS116_RS04640,BVAVS116_RS04640,BVAVS116_A0044,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210416,-
+445987,63641697,BVAVS116_RS04645,BVAVS116_RS04645,BVAVS116_A0045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641698,BVAVS116_RS04650,BVAVS116_RS04650,BVAVS116_A0046,-,-,-,DUF792 family protein,protein-coding,-,-,-,DUF792 family protein,20210416,-
+445987,63641699,BVAVS116_RS04655,BVAVS116_RS04655,BVAVS116_A0047,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641700,BVAVS116_RS04660,BVAVS116_RS04660,BVAVS116_A0048,-,-,-,DUF693 family protein,protein-coding,-,-,-,DUF693 family protein,20210416,-
+445987,63641701,BVAVS116_RS04665,BVAVS116_RS04665,BVAVS116_A0049,-,-,-,DUF777 family protein,protein-coding,-,-,-,DUF777 family protein,20210416,-
+445987,63641702,BVAVS116_RS04670,BVAVS116_RS04670,BVAVS116_A0050,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641703,BVAVS116_RS04675,BVAVS116_RS04675,BVAVS116_A0051,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641704,BVAVS116_RS04680,BVAVS116_RS04680,BVAVS116_A0052,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641705,BVAVS116_RS04685,BVAVS116_RS04685,BVAVS116_A0053,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641706,BVAVS116_RS04690,BVAVS116_RS04690,BVAVS116_A0055,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641707,BVAVS116_RS04695,BVAVS116_RS04695,BVAVS116_A0056,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641708,BVAVS116_RS04700,BVAVS116_RS04700,BVAVS116_A0057,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641709,BVAVS116_RS04705,BVAVS116_RS04705,BVAVS116_A0058,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641710,BVAVS116_RS04710,BVAVS116_RS04710,BVAVS116_A0059,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641711,BVAVS116_RS04715,BVAVS116_RS04715,BVAVS116_A0060,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641712,BVAVS116_RS04720,BVAVS116_RS04720,BVAVS116_A0062,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641713,BVAVS116_RS04725,BVAVS116_RS04725,BVAVS116_A0064,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641714,BVAVS116_RS04730,BVAVS116_RS04730,BVAVS116_A0065,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641715,BVAVS116_RS04735,BVAVS116_RS04735,BVAVS116_A0066,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641716,BVAVS116_RS04740,BVAVS116_RS04740,BVAVS116_A0067,-,-,-,OMS28 family porin,protein-coding,-,-,-,OMS28 family porin,20210416,-
+445987,63641717,BVAVS116_RS04745,BVAVS116_RS04745,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641718,BVAVS116_RS04750,BVAVS116_RS04750,BVAVS116_O0001,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641719,BVAVS116_RS04755,BVAVS116_RS04755,BVAVS116_O0003,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20210416,-
+445987,63641720,BVAVS116_RS04760,BVAVS116_RS04760,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641721,BVAVS116_RS04765,BVAVS116_RS04765,BVAVS116_O0005,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641722,BVAVS116_RS04770,BVAVS116_RS04770,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641723,eppA,BVAVS116_RS04775,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641724,BVAVS116_RS04780,BVAVS116_RS04780,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641725,BVAVS116_RS04785,BVAVS116_RS04785,BVAVS116_O0010,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210416,-
+445987,63641726,BVAVS116_RS04790,BVAVS116_RS04790,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641727,BVAVS116_RS04795,BVAVS116_RS04795,BVAVS116_O0016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641728,BVAVS116_RS04800,BVAVS116_RS04800,BVAVS116_O0017,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641729,BVAVS116_RS04805,BVAVS116_RS04805,BVAVS116_O0018,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641730,BVAVS116_RS04810,BVAVS116_RS04810,BVAVS116_O0019,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641731,BVAVS116_RS04815,BVAVS116_RS04815,BVAVS116_O0021,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641732,BVAVS116_RS04820,BVAVS116_RS04820,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641733,BVAVS116_RS04825,BVAVS116_RS04825,BVAVS116_O0025,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641734,revA,BVAVS116_RS04830,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641735,BVAVS116_RS04840,BVAVS116_RS04840,BVAVS116_O0027,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641736,BVAVS116_RS04845,BVAVS116_RS04845,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641737,BVAVS116_RS04850,BVAVS116_RS04850,BVAVS116_O0031,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641738,BVAVS116_RS04855,BVAVS116_RS04855,BVAVS116_O0032,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641739,BVAVS116_RS04860,BVAVS116_RS04860,BVAVS116_O0033,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641740,BVAVS116_RS04865,BVAVS116_RS04865,BVAVS116_O0034,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641741,BVAVS116_RS04870,BVAVS116_RS04870,BVAVS116_O0035,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641742,BVAVS116_RS04875,BVAVS116_RS04875,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641743,BVAVS116_RS04880,BVAVS116_RS04880,BVAVS116_O0041,-,-,-,DUF261 family protein,protein-coding,-,-,-,DUF261 family protein,20210416,-
+445987,63641744,BVAVS116_RS04885,BVAVS116_RS04885,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641745,BVAVS116_RS04890,BVAVS116_RS04890,BVAVS116_O0043,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641746,BVAVS116_RS04895,BVAVS116_RS04895,BVAVS116_O0044,-,-,-,DUF603 domain-containing protein,protein-coding,-,-,-,DUF603 domain-containing protein,20210416,-
+445987,63641747,BVAVS116_RS04900,BVAVS116_RS04900,BVAVS116_O0045,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641748,BVAVS116_RS04905,BVAVS116_RS04905,BVAVS116_Q0001,-,-,-,DUF1073 domain-containing protein,protein-coding,-,-,-,DUF1073 domain-containing protein,20210416,-
+445987,63641749,BVAVS116_RS04910,BVAVS116_RS04910,BVAVS116_Q0002,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210416,-
+445987,63641750,BVAVS116_RS04915,BVAVS116_RS04915,BVAVS116_Q0003,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210416,-
+445987,63641751,BVAVS116_RS04920,BVAVS116_RS04920,BVAVS116_Q0004,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210416,-
+445987,63641752,BVAVS116_RS04925,BVAVS116_RS04925,BVAVS116_Q0005,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210416,-
+445987,63641753,BVAVS116_RS04930,BVAVS116_RS04930,BVAVS116_Q0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641754,BVAVS116_RS04935,BVAVS116_RS04935,BVAVS116_Q0007,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210416,-
+445987,63641755,BVAVS116_RS04940,BVAVS116_RS04940,BVAVS116_Q0008,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210416,-
+445987,63641756,BVAVS116_RS04945,BVAVS116_RS04945,BVAVS116_Q0009,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641757,BVAVS116_RS04950,BVAVS116_RS04950,BVAVS116_Q0010,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210416,-
+445987,63641758,BVAVS116_RS04955,BVAVS116_RS04955,BVAVS116_Q0011,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210416,-
+445987,63641759,BVAVS116_RS04960,BVAVS116_RS04960,BVAVS116_Q0012,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210416,-
+445987,63641760,BVAVS116_RS04965,BVAVS116_RS04965,BVAVS116_Q0013,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210416,-
+445987,63641761,BVAVS116_RS04970,BVAVS116_RS04970,BVAVS116_Q0014,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210416,-
+445987,63641762,BVAVS116_RS04975,BVAVS116_RS04975,BVAVS116_Q0015,-,-,-,DUF759 family protein,protein-coding,-,-,-,DUF759 family protein,20210416,-
+445987,63641763,BVAVS116_RS04980,BVAVS116_RS04980,BVAVS116_Q0016,-,-,-,DUF792 family protein,protein-coding,-,-,-,DUF792 family protein,20210416,-
+445987,63641764,BVAVS116_RS04985,BVAVS116_RS04985,BVAVS116_Q0017,-,-,-,DUF693 family protein,protein-coding,-,-,-,DUF693 family protein,20210416,-
+445987,63641765,BVAVS116_RS04990,BVAVS116_RS04990,BVAVS116_Q0018,-,-,-,DUF777 family protein,protein-coding,-,-,-,DUF777 family protein,20210416,-
+445987,63641766,BVAVS116_RS04995,BVAVS116_RS04995,BVAVS116_Q0019,-,-,-,DUF2634 domain-containing protein,protein-coding,-,-,-,DUF2634 domain-containing protein,20210416,-
+445987,63641767,BVAVS116_RS05000,BVAVS116_RS05000,BVAVS116_Q0020,-,-,-,DUF276 domain-containing protein,protein-coding,-,-,-,DUF276 domain-containing protein,20210416,-
+445987,63641768,BVAVS116_RS05005,BVAVS116_RS05005,BVAVS116_Q0021,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210416,-
+445987,63641769,BVAVS116_RS05010,BVAVS116_RS05010,BVAVS116_Q0022,-,-,-,DUF685 domain-containing protein,protein-coding,-,-,-,DUF685 domain-containing protein,20210416,-
+445987,63641770,BVAVS116_RS05015,BVAVS116_RS05015,BVAVS116_Q0023,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210416,-
+445987,63641771,BVAVS116_RS05020,BVAVS116_RS05020,BVAVS116_Q0024,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641772,BVAVS116_RS05025,BVAVS116_RS05025,BVAVS116_Q0025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641773,BVAVS116_RS05030,BVAVS116_RS05030,BVAVS116_Q0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641774,BVAVS116_RS05035,BVAVS116_RS05035,BVAVS116_Q0027,-,-,-,ERF family protein,protein-coding,-,-,-,ERF family protein,20210416,-
+445987,63641775,BVAVS116_RS05040,BVAVS116_RS05040,BVAVS116_Q0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641776,BVAVS116_RS05045,BVAVS116_RS05045,BVAVS116_Q0029,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641777,BVAVS116_RS05050,BVAVS116_RS05050,BVAVS116_Q0030,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641778,BVAVS116_RS05055,BVAVS116_RS05055,BVAVS116_Q0031,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641779,BVAVS116_RS05060,BVAVS116_RS05060,BVAVS116_Q0032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641780,BVAVS116_RS05065,BVAVS116_RS05065,BVAVS116_Q0033,-,-,-,DUF244 domain-containing protein,protein-coding,-,-,-,DUF244 domain-containing protein,20210416,-
+445987,63641781,BVAVS116_RS05070,BVAVS116_RS05070,BVAVS116_Q0034,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210416,-
+445987,63641782,BVAVS116_RS05075,BVAVS116_RS05075,BVAVS116_Q0035,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210416,-
+445987,63641783,BVAVS116_RS05080,BVAVS116_RS05080,BVAVS116_Q0036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641784,BVAVS116_RS05085,BVAVS116_RS05085,BVAVS116_Q0037,-,-,-,DUF603 domain-containing protein,protein-coding,-,-,-,DUF603 domain-containing protein,20210416,-
+445987,63641785,BVAVS116_RS05090,BVAVS116_RS05090,BVAVS116_Q0038,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20210416,-
+445987,63641786,BVAVS116_RS05105,BVAVS116_RS05105,-,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641787,BVAVS116_RS05110,BVAVS116_RS05110,BVAVS116_K0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641788,BVAVS116_RS05115,BVAVS116_RS05115,BVAVS116_K0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641789,BVAVS116_RS05120,BVAVS116_RS05120,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641790,BVAVS116_RS05125,BVAVS116_RS05125,BVAVS116_K0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641791,BVAVS116_RS05130,BVAVS116_RS05130,BVAVS116_K0015,-,-,-,virulence associated lipoprotein,protein-coding,-,-,-,virulence associated lipoprotein,20210416,-
+445987,63641792,BVAVS116_RS05135,BVAVS116_RS05135,BVAVS116_K0020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641793,BVAVS116_RS05140,BVAVS116_RS05140,BVAVS116_K0021,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641794,BVAVS116_RS05150,BVAVS116_RS05150,BVAVS116_K0024,-,-,-,S2/P23 family protein,protein-coding,-,-,-,S2/P23 family protein,20210416,-
+445987,63641795,BVAVS116_RS05155,BVAVS116_RS05155,BVAVS116_K0028,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641796,BVAVS116_RS05160,BVAVS116_RS05160,BVAVS116_K0029,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641797,BVAVS116_RS05165,BVAVS116_RS05165,BVAVS116_K0030,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641798,BVAVS116_RS05170,BVAVS116_RS05170,BVAVS116_K0031,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641799,BVAVS116_RS05180,BVAVS116_RS05180,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641800,BVAVS116_RS05185,BVAVS116_RS05185,BVAVS116_E0002,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641801,BVAVS116_RS05195,BVAVS116_RS05195,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641802,BVAVS116_RS05200,BVAVS116_RS05200,BVAVS116_E0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641803,BVAVS116_RS05205,BVAVS116_RS05205,BVAVS116_E0007,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641804,BVAVS116_RS05210,BVAVS116_RS05210,BVAVS116_E0008,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641805,BVAVS116_RS05215,BVAVS116_RS05215,BVAVS116_E0009,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641806,BVAVS116_RS05220,BVAVS116_RS05220,BVAVS116_E0011,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641807,BVAVS116_RS05225,BVAVS116_RS05225,BVAVS116_E0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641808,BVAVS116_RS05230,BVAVS116_RS05230,BVAVS116_E0013,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641809,BVAVS116_RS05235,BVAVS116_RS05235,BVAVS116_E0015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641810,BVAVS116_RS05240,BVAVS116_RS05240,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641811,BVAVS116_RS05250,BVAVS116_RS05250,BVAVS116_E0024,-,-,-,isochorismatase family protein,protein-coding,-,-,-,isochorismatase family protein,20210416,-
+445987,63641812,BVAVS116_RS05255,BVAVS116_RS05255,BVAVS116_E0025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641813,BVAVS116_RS05260,BVAVS116_RS05260,BVAVS116_E0026,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641814,BVAVS116_RS05265,BVAVS116_RS05265,BVAVS116_E0027,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641815,BVAVS116_RS05270,BVAVS116_RS05270,BVAVS116_E0028,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641816,BVAVS116_RS05275,BVAVS116_RS05275,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641817,BVAVS116_RS05280,BVAVS116_RS05280,BVAVS116_E0032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641818,BVAVS116_RS05285,BVAVS116_RS05285,BVAVS116_E0033,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641819,BVAVS116_RS05290,BVAVS116_RS05290,BVAVS116_E0035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641820,BVAVS116_RS05295,BVAVS116_RS05295,BVAVS116_E0040,-,-,-,DUF5425 family lipoprotein,protein-coding,-,-,-,DUF5425 family lipoprotein,20210416,-
+445987,63641821,BVAVS116_RS05300,BVAVS116_RS05300,BVAVS116_E0041,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641822,BVAVS116_RS05310,BVAVS116_RS05310,BVAVS116_E0046,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641823,BVAVS116_RS05315,BVAVS116_RS05315,BVAVS116_E0047,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641824,BVAVS116_RS05320,BVAVS116_RS05320,BVAVS116_E0049,-,-,-,pfs protein,protein-coding,-,-,-,pfs protein,20210416,-
+445987,63641825,BVAVS116_RS05330,BVAVS116_RS05330,BVAVS116_E0052,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641826,BVAVS116_RS05345,BVAVS116_RS05345,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641827,BVAVS116_RS05350,BVAVS116_RS05350,BVAVS116_C0001,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641828,BVAVS116_RS05355,BVAVS116_RS05355,BVAVS116_C0002,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641829,BVAVS116_RS05360,BVAVS116_RS05360,BVAVS116_C0003,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641830,BVAVS116_RS05365,BVAVS116_RS05365,BVAVS116_C0004,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641831,BVAVS116_RS05370,BVAVS116_RS05370,BVAVS116_C0005,-,-,-,ERF family protein,protein-coding,-,-,-,ERF family protein,20210416,-
+445987,63641832,BVAVS116_RS05375,BVAVS116_RS05375,BVAVS116_C0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641833,BVAVS116_RS05380,BVAVS116_RS05380,BVAVS116_C0007,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641834,BVAVS116_RS05385,BVAVS116_RS05385,BVAVS116_C0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641835,BVAVS116_RS05390,BVAVS116_RS05390,BVAVS116_C0010,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210416,-
+445987,63641836,BVAVS116_RS05395,BVAVS116_RS05395,BVAVS116_C0011,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641837,BVAVS116_RS05400,BVAVS116_RS05400,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641838,BVAVS116_RS05405,BVAVS116_RS05405,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641839,BVAVS116_RS05410,BVAVS116_RS05410,BVAVS116_D0002,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641840,BVAVS116_RS05425,BVAVS116_RS05425,BVAVS116_D0006,-,-,-,OspD family protein,protein-coding,-,-,-,OspD family protein,20210416,-
+445987,63641841,BVAVS116_RS05430,BVAVS116_RS05430,BVAVS116_D0011,-,-,-,DUF5425 family lipoprotein,protein-coding,-,-,-,DUF5425 family lipoprotein,20210416,-
+445987,63641842,BVAVS116_RS05435,BVAVS116_RS05435,BVAVS116_D0013,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641843,BVAVS116_RS05440,BVAVS116_RS05440,BVAVS116_D0016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641844,BVAVS116_RS05445,BVAVS116_RS05445,BVAVS116_D0017,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641845,BVAVS116_RS05450,BVAVS116_RS05450,BVAVS116_D0018,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641846,BVAVS116_RS05455,BVAVS116_RS05455,BVAVS116_D0020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641847,BVAVS116_RS05460,BVAVS116_RS05460,BVAVS116_D0021,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641848,BVAVS116_RS05470,BVAVS116_RS05470,BVAVS116_D0023,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641849,BVAVS116_RS05475,BVAVS116_RS05475,BVAVS116_D0024,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641850,BVAVS116_RS05480,BVAVS116_RS05480,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641851,BVAVS116_RS05485,BVAVS116_RS05485,BVAVS116_D0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641852,BVAVS116_RS05495,BVAVS116_RS05495,-,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641853,BVAVS116_RS05500,BVAVS116_RS05500,BVAVS116_H0003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641854,BVAVS116_RS05505,BVAVS116_RS05505,BVAVS116_H0006,-,-,-,virulence associated lipoprotein,protein-coding,-,-,-,virulence associated lipoprotein,20210416,-
+445987,63641855,BVAVS116_RS05510,BVAVS116_RS05510,BVAVS116_H0007,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641856,BVAVS116_RS05515,BVAVS116_RS05515,BVAVS116_H0008,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641857,BVAVS116_RS05520,BVAVS116_RS05520,BVAVS116_H0009,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641858,BVAVS116_RS05525,BVAVS116_RS05525,BVAVS116_H0010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641859,BVAVS116_RS05530,BVAVS116_RS05530,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641860,BVAVS116_RS05535,BVAVS116_RS05535,BVAVS116_H0015,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,20210416,-
+445987,63641861,BVAVS116_RS05540,BVAVS116_RS05540,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641862,BVAVS116_RS05550,BVAVS116_RS05550,BVAVS116_H0022,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641863,BVAVS116_RS05555,BVAVS116_RS05555,BVAVS116_H0023,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210416,-
+445987,63641864,BVAVS116_RS05565,BVAVS116_RS05565,BVAVS116_H0032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641865,BVAVS116_RS05570,BVAVS116_RS05570,BVAVS116_H0033,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641866,BVAVS116_RS05575,BVAVS116_RS05575,BVAVS116_H0034,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641867,BVAVS116_RS05580,BVAVS116_RS05580,BVAVS116_H0035,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641868,BVAVS116_RS05590,BVAVS116_RS05590,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641869,eppA,BVAVS116_RS05595,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641870,BVAVS116_RS05610,BVAVS116_RS05610,BVAVS116_H0046,-,-,-,Erp family outer-surface lipoprotein,protein-coding,-,-,-,Erp family outer-surface lipoprotein,20210416,-
+445987,63641871,BVAVS116_RS05615,BVAVS116_RS05615,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641872,BVAVS116_RS05620,BVAVS116_RS05620,BVAVS116_H0048,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210416,-
+445987,63641873,BVAVS116_RS05625,BVAVS116_RS05625,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641874,BVAVS116_RS05630,BVAVS116_RS05630,BVAVS116_H0053,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641875,BVAVS116_RS05635,BVAVS116_RS05635,BVAVS116_H0054,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641876,BVAVS116_RS05640,BVAVS116_RS05640,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641877,BVAVS116_RS05645,BVAVS116_RS05645,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641878,BVAVS116_RS05650,BVAVS116_RS05650,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641879,BVAVS116_RS05660,BVAVS116_RS05660,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641880,BVAVS116_RS05670,BVAVS116_RS05670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641881,BVAVS116_RS05675,BVAVS116_RS05675,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641882,BVAVS116_RS05680,BVAVS116_RS05680,-,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210416,-
+445987,63641883,BVAVS116_RS05685,BVAVS116_RS05685,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641884,BVAVS116_RS05690,BVAVS116_RS05690,BVAVS116_H0079,-,-,-,DUF735 family protein,protein-coding,-,-,-,DUF735 family protein,20210416,-
+445987,63641885,BVAVS116_RS05695,BVAVS116_RS05695,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641886,BVAVS116_RS05705,BVAVS116_RS05705,BVAVS116_H0083,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641887,BVAVS116_RS05710,BVAVS116_RS05710,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641888,BVAVS116_RS05715,BVAVS116_RS05715,BVAVS116_H0087,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210416,-
+445987,63641889,BVAVS116_RS05720,BVAVS116_RS05720,BVAVS116_H0088,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210416,-
+445987,63641890,BVAVS116_RS05725,BVAVS116_RS05725,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641891,BVAVS116_RS05730,BVAVS116_RS05730,BVAVS116_H0091,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210416,-
+445987,63641892,BVAVS116_RS05735,BVAVS116_RS05735,BVAVS116_H0092,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641893,BVAVS116_RS05740,BVAVS116_RS05740,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641894,BVAVS116_RS05745,BVAVS116_RS05745,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641895,BVAVS116_RS05750,BVAVS116_RS05750,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641896,BVAVS116_RS05755,BVAVS116_RS05755,BVAVS116_H0097,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641897,BVAVS116_RS05760,BVAVS116_RS05760,BVAVS116_H0100,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20210416,-
+445987,63641898,BVAVS116_RS05765,BVAVS116_RS05765,BVAVS116_H0101,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641899,BVAVS116_RS05770,BVAVS116_RS05770,BVAVS116_H0102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641900,BVAVS116_RS05775,BVAVS116_RS05775,BVAVS116_H0103,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641901,BVAVS116_RS05780,BVAVS116_RS05780,BVAVS116_H0104,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210416,-
+445987,63641902,BVAVS116_RS05785,BVAVS116_RS05785,BVAVS116_H0105,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641903,BVAVS116_RS05790,BVAVS116_RS05790,BVAVS116_H0106,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641904,BVAVS116_RS05795,BVAVS116_RS05795,BVAVS116_H0107,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641905,BVAVS116_RS05800,BVAVS116_RS05800,BVAVS116_H0109,-,-,-,P52 family lipoprotein,protein-coding,-,-,-,P52 family lipoprotein,20210416,-
+445987,63641906,BVAVS116_RS05805,BVAVS116_RS05805,BVAVS116_H0112,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641907,BVAVS116_RS05810,BVAVS116_RS05810,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641908,BVAVS116_RS05825,BVAVS116_RS05825,BVAVS116_H0121,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641909,BVAVS116_RS05830,BVAVS116_RS05830,BVAVS116_H0125,-,-,-,Bdr family protein,protein-coding,-,-,-,Bdr family protein,20210415,-
+445987,63641910,BVAVS116_RS05835,BVAVS116_RS05835,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641911,BVAVS116_RS05840,BVAVS116_RS05840,BVAVS116_H0129,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641912,BVAVS116_RS05845,BVAVS116_RS05845,BVAVS116_H0130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641913,BVAVS116_RS05860,BVAVS116_RS05860,BVAVS116_H0133,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641914,BVAVS116_RS05865,BVAVS116_RS05865,BVAVS116_H0134,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641915,BVAVS116_RS05870,BVAVS116_RS05870,BVAVS116_H0136,-,-,-,YcaO-like family protein,protein-coding,-,-,-,YcaO-like family protein,20210416,-
+445987,63641916,BVAVS116_RS05875,BVAVS116_RS05875,BVAVS116_H0138,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641917,BVAVS116_RS05880,BVAVS116_RS05880,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641918,BVAVS116_RS05885,BVAVS116_RS05885,-,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641919,BVAVS116_RS05890,BVAVS116_RS05890,-,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641920,BVAVS116_RS05895,BVAVS116_RS05895,BVAVS116_V0006,-,-,-,DUF228 domain-containing protein,protein-coding,-,-,-,DUF228 domain-containing protein,20210416,-
+445987,63641921,BVAVS116_RS05900,BVAVS116_RS05900,BVAVS116_V0007,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641922,BVAVS116_RS05905,BVAVS116_RS05905,BVAVS116_V0008,-,-,-,DUF3890 domain-containing protein,protein-coding,-,-,-,DUF3890 domain-containing protein,20210416,-
+445987,63641923,BVAVS116_RS05910,BVAVS116_RS05910,BVAVS116_V0009,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210416,-
+445987,63641924,BVAVS116_RS05915,BVAVS116_RS05915,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641925,BVAVS116_RS05920,BVAVS116_RS05920,BVAVS116_V0011,-,-,-,DUF764 family protein,protein-coding,-,-,-,DUF764 family protein,20210416,-
+445987,63641926,BVAVS116_RS05925,BVAVS116_RS05925,BVAVS116_V0012,-,-,-,DUF787 family protein,protein-coding,-,-,-,DUF787 family protein,20210416,-
+445987,63641927,BVAVS116_RS05930,BVAVS116_RS05930,BVAVS116_V0013,-,-,-,DUF1463 family protein,protein-coding,-,-,-,DUF1463 family protein,20210416,-
+445987,63641928,BVAVS116_RS05935,BVAVS116_RS05935,BVAVS116_V0014,-,-,-,DUF1473 family protein,protein-coding,-,-,-,DUF1473 family protein,20210416,-
+445987,63641929,BVAVS116_RS05940,BVAVS116_RS05940,BVAVS116_V0015,-,-,-,DUF1322 family protein,protein-coding,-,-,-,DUF1322 family protein,20210416,-
+445987,63641930,BVAVS116_RS05945,BVAVS116_RS05945,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641931,BVAVS116_RS05955,BVAVS116_RS05955,BVAVS116_V0020,-,-,-,BlyA family holin,protein-coding,-,-,-,BlyA family holin,20210416,-
+445987,63641932,BVAVS116_RS05960,BVAVS116_RS05960,BVAVS116_V0021,-,-,-,"holin, BlyB family",protein-coding,-,-,-,"holin, BlyB family",20210416,-
+445987,63641933,BVAVS116_RS05965,BVAVS116_RS05965,BVAVS116_V0022,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641934,BVAVS116_RS05970,BVAVS116_RS05970,BVAVS116_V0023,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641935,BVAVS116_RS05975,BVAVS116_RS05975,BVAVS116_V0024,-,-,-,Mlp family lipoprotein,protein-coding,-,-,-,Mlp family lipoprotein,20210416,-
+445987,63641936,BVAVS116_RS05980,BVAVS116_RS05980,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641937,BVAVS116_RS05985,BVAVS116_RS05985,BVAVS116_V0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641938,BVAVS116_RS05990,BVAVS116_RS05990,BVAVS116_V0029,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641939,BVAVS116_RS05995,BVAVS116_RS05995,BVAVS116_V0030,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641940,BVAVS116_RS06000,BVAVS116_RS06000,BVAVS116_V0031,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641941,BVAVS116_RS06005,BVAVS116_RS06005,BVAVS116_V0032,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641942,BVAVS116_RS06010,BVAVS116_RS06010,BVAVS116_V0033,-,-,-,DUF244 domain-containing protein,protein-coding,-,-,-,DUF244 domain-containing protein,20210416,-
+445987,63641943,BVAVS116_RS06015,BVAVS116_RS06015,BVAVS116_V0034,-,-,-,DUF261 domain-containing protein,protein-coding,-,-,-,DUF261 domain-containing protein,20210416,-
+445987,63641944,BVAVS116_RS06020,BVAVS116_RS06020,BVAVS116_V0035,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210416,-
+445987,63641945,BVAVS116_RS06025,BVAVS116_RS06025,BVAVS116_V0036,-,-,-,Erp family outer-surface lipoprotein,protein-coding,-,-,-,Erp family outer-surface lipoprotein,20210416,-
+445987,63641946,BVAVS116_RS06030,BVAVS116_RS06030,BVAVS116_V0037,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641947,BVAVS116_RS06040,BVAVS116_RS06040,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641948,BVAVS116_RS06045,BVAVS116_RS06045,BVAVS116_V0042,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641949,BVAVS116_RS06055,BVAVS116_RS06055,BVAVS116_N0002,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20210416,-
+445987,63641950,BVAVS116_RS06060,BVAVS116_RS06060,BVAVS116_N0003,-,-,-,YcaO-like family protein,protein-coding,-,-,-,YcaO-like family protein,20210416,-
+445987,63641951,BVAVS116_RS06065,BVAVS116_RS06065,BVAVS116_N0004,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641952,BVAVS116_RS06070,BVAVS116_RS06070,BVAVS116_N0005,-,-,-,SagB/ThcOx family dehydrogenase,protein-coding,-,-,-,SagB/ThcOx family dehydrogenase,20210416,-
+445987,63641953,BVAVS116_RS06075,BVAVS116_RS06075,BVAVS116_N0006,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641954,BVAVS116_RS06080,BVAVS116_RS06080,BVAVS116_N0007,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641955,BVAVS116_RS06085,BVAVS116_RS06085,BVAVS116_N0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641956,BVAVS116_RS06090,BVAVS116_RS06090,BVAVS116_N0009,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210416,-
+445987,63641957,BVAVS116_RS06095,BVAVS116_RS06095,BVAVS116_N0010,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641958,BVAVS116_RS06100,BVAVS116_RS06100,BVAVS116_N0011,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641959,BVAVS116_RS06105,BVAVS116_RS06105,BVAVS116_N0012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641960,BVAVS116_RS06110,BVAVS116_RS06110,BVAVS116_N0013,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63641961,BVAVS116_RS06115,BVAVS116_RS06115,BVAVS116_N0014,-,-,-,chromosome replication/partitioning protein,protein-coding,-,-,-,chromosome replication/partitioning protein,20210416,-
+445987,63641962,BVAVS116_RS06120,BVAVS116_RS06120,BVAVS116_N0015,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210416,-
+445987,63641963,BVAVS116_RS06125,BVAVS116_RS06125,BVAVS116_N0016,-,-,-,DUF226 domain-containing protein,protein-coding,-,-,-,DUF226 domain-containing protein,20210416,-
+445987,63641964,BVAVS116_RS06130,BVAVS116_RS06130,BVAVS116_N0017,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641965,ffs,BVAVS116_RS06140,BVAVS116_0468,-,-,-,ncRNA,ncRNA,-,-,-,-,20210415,-
+445987,63641966,BVAVS116_RS06150,BVAVS116_RS06150,BVAVS116_0873,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641967,rnpB,BVAVS116_RS06155,BVAVS116_0732,-,-,-,ncRNA,ncRNA,-,-,-,-,20210415,-
+445987,63641968,BVAVS116_RS06160,BVAVS116_RS06160,BVAVS116_E0054,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641969,BVAVS116_RS06165,BVAVS116_RS06165,BVAVS116_E0059,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641970,BVAVS116_RS06170,BVAVS116_RS06170,BVAVS116_H0020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210416,-
+445987,63641971,BVAVS116_RS06175,BVAVS116_RS06175,BVAVS116_H0044,-,-,-,pseudo,pseudo,-,-,-,-,20210419,-
+445987,63641972,ssrA,BVAVS116_RS06195,BVAVS116_0047,-,-,-,miscRNA,miscRNA,-,-,-,-,20210415,-
+445987,63641973,BVAVS116_RS06210,BVAVS116_RS06210,BVAVS116_0406,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210416,-
+445987,63641974,rnmV,BVAVS116_RS06215,BVAVS116_0643,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20210416,-
+445987,63641975,BVAVS116_RS06220,BVAVS116_RS06220,BVAVS116_0835,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641976,BVAVS116_RS06225,BVAVS116_RS06225,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641977,BVAVS116_RS06240,BVAVS116_RS06240,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641978,BVAVS116_RS06245,BVAVS116_RS06245,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641979,BVAVS116_RS06265,BVAVS116_RS06265,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641980,BVAVS116_RS06315,BVAVS116_RS06315,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641981,BVAVS116_RS06325,BVAVS116_RS06325,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641982,BVAVS116_RS06335,BVAVS116_RS06335,-,-,-,-,DUF1506 family protein,protein-coding,-,-,-,DUF1506 family protein,20210415,-
+445987,63641983,BVAVS116_RS06345,BVAVS116_RS06345,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641984,BVAVS116_RS06350,BVAVS116_RS06350,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641985,BVAVS116_RS06355,BVAVS116_RS06355,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641986,BVAVS116_RS06370,BVAVS116_RS06370,BVAVS116_0159,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641987,BVAVS116_RS06380,BVAVS116_RS06380,BVAVS116_0629,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641988,BVAVS116_RS06385,BVAVS116_RS06385,BVAVS116_A0054,-,-,-,Lp6.6 family lipoprotein,protein-coding,-,-,-,Lp6.6 family lipoprotein,20210415,-
+445987,63641989,BVAVS116_RS06400,BVAVS116_RS06400,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641990,BVAVS116_RS06405,BVAVS116_RS06405,BVAVS116_E0020,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641991,BVAVS116_RS06410,BVAVS116_RS06410,BVAVS116_E0039,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641992,BVAVS116_RS06430,BVAVS116_RS06430,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641993,BVAVS116_RS06435,BVAVS116_RS06435,BVAVS116_V0019,-,-,-,DUF685 domain-containing protein,protein-coding,-,-,-,DUF685 domain-containing protein,20210416,-
+445987,63641994,BVAVS116_RS06445,BVAVS116_RS06445,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641995,BVAVS116_RS06450,BVAVS116_RS06450,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641996,BVAVS116_RS06460,BVAVS116_RS06460,BVAVS116_O0002,-,-,-,DUF1357 family protein,protein-coding,-,-,-,DUF1357 family protein,20210416,-
+445987,63641997,BVAVS116_RS06465,BVAVS116_RS06465,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-
+445987,63641998,BVAVS116_RS06470,BVAVS116_RS06470,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63641999,BVAVS116_RS06480,BVAVS116_RS06480,BVAVS116_E0050,-,-,-,P12 family lipoprotein,protein-coding,-,-,-,P12 family lipoprotein,20210416,-
+445987,63642000,BVAVS116_RS06485,BVAVS116_RS06485,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642001,BVAVS116_RS06490,BVAVS116_RS06490,-,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63642002,BVAVS116_RS06495,BVAVS116_RS06495,-,-,-,-,complement regulator-acquiring protein,protein-coding,-,-,-,complement regulator-acquiring protein,20210416,-
+445987,63642003,BVAVS116_RS06500,BVAVS116_RS06500,BVAVS116_H0001,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210416,-
+445987,63642004,BVAVS116_RS06510,BVAVS116_RS06510,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642005,BVAVS116_RS06515,BVAVS116_RS06515,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642006,BVAVS116_RS06520,BVAVS116_RS06520,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642007,BVAVS116_RS06525,BVAVS116_RS06525,BVAVS116_H0072,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642008,BVAVS116_RS06530,BVAVS116_RS06530,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642009,borA,BVAVS116_RS06535,-,-,-,-,TOMM family putative cytolysin BorA,protein-coding,-,-,-,TOMM family putative cytolysin BorA,20210415,-
+445987,63642010,BVAVS116_RS06540,BVAVS116_RS06540,BVAVS116_N0019,-,-,-,variable large family protein,protein-coding,-,-,-,variable large family protein,20210419,-
+445987,63642011,BVAVS116_RS06545,BVAVS116_RS06545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642012,BVAVS116_RS06550,BVAVS116_RS06550,BVAVS116_H0004,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642013,BVAVS116_RS06555,BVAVS116_RS06555,BVAVS116_H0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642014,BVAVS116_RS06560,BVAVS116_RS06560,BVAVS116_H0084,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642015,BVAVS116_RS06565,BVAVS116_RS06565,BVAVS116_H0111,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210415,-
+445987,63642016,BVAVS116_RS06570,BVAVS116_RS06570,-,-,-,-,pseudo,pseudo,-,-,-,-,20210415,-

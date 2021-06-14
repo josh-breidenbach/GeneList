@@ -1,0 +1,63 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+529818,23454343,nad4,TZ21_p21,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160924,-
+529818,23454344,atp9,TZ21_p23,-,-,MT,-,ATP synthase F0 subunit c,protein-coding,-,-,-,-,20160924,-
+529818,23454345,cox2,TZ21_p02,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160924,-
+529818,23454346,nad2,TZ21_p20,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160924,-
+529818,23454347,nad4L,TZ21_p07,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150715,-
+529818,23454348,nad7,TZ21_p08,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150808,-
+529818,23454349,rps13,TZ21_p26,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160924,-
+529818,23454350,rps10,TZ21_p15,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20160924,-
+529818,23454351,atp4,TZ21_p01,-,-,MT,-,ATP synthase F0 subunit b,protein-coding,-,-,-,-,20150715,-
+529818,23454353,rps19,TZ21_p17,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20150715,-
+529818,23454354,nad1,TZ21_p27,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150715,-
+529818,23454355,rps8,TZ21_p30,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20160924,-
+529818,23454356,rps14,TZ21_p32,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160924,-
+529818,23454358,rps12,TZ21_p13,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-
+529818,23454359,orf120,TZ21_p29,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150715,-
+529818,23454361,atp6,TZ21_p05,-,-,MT,-,ATP synthase F0 subunit a,protein-coding,-,-,-,-,20160924,-
+529818,23454362,rpl14,TZ21_p12,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20160924,-
+529818,23454364,rpl16,TZ21_p11,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160924,-
+529818,23454366,cob,TZ21_p09,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20150715,-
+529818,23454367,rps11,TZ21_p25,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160924,-
+529818,23454369,atp8,TZ21_p06,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160924,-
+529818,23454372,rps2,TZ21_p03,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20160924,-
+529818,23454373,rpl2,TZ21_p16,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160924,-
+529818,23454375,rps4,TZ21_p31,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20150715,-
+529818,23454377,nad6,TZ21_p28,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160924,-
+529818,23454381,rpl5,TZ21_p33,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160924,-
+529818,23454385,rps7,TZ21_p14,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160924,-
+529818,23454386,rpl19,TZ21_p04,-,-,MT,-,ribosomal protein L19,protein-coding,-,-,-,-,20150715,-
+529818,23454387,cox1,TZ21_p24,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160924,-
+529818,23454388,nad5,TZ21_p22,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160924,-
+529818,23454391,rps3,TZ21_p18,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160924,-
+529818,23454397,nad3,TZ21_p10,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160924,-
+529818,23454401,cox3,TZ21_p19,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160924,-
+529818,23629150,trnS(tga),TZ21_t11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629151,trnD(gtc),TZ21_t01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629152,trnH(gtg),TZ21_t24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629153,rns,TZ21_r01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20150227,-
+529818,23629154,rnpB,TZ21_s01,-,-,MT,-,ncRNA,ncRNA,-,-,-,-,20150227,-
+529818,23629155,trnS(gct),TZ21_t02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629156,trnV(tac),TZ21_t03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629157,trnK(ttt),TZ21_t15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629158,rrn5,TZ21_r02,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20150227,-
+529818,23629159,trnG(tcc),TZ21_t21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629160,trnC(gca),TZ21_t04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629161,trnR(tcg),TZ21_t12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629162,trnF(gaa),TZ21_t23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629163,trnT(tgt),TZ21_t19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629164,trnY(gta),TZ21_t18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629165,trnM(cat),TZ21_t06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629166,trnW(cca),TZ21_t07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629167,trnL(tag),TZ21_t17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629168,trnI(gat),TZ21_t13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629169,trnQ(ttg),TZ21_t14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629170,trnR(tct),TZ21_t16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629171,trnN(gtt),TZ21_t08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629172,trnE(ttc),TZ21_t09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629173,trnP(tgg),TZ21_t10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629174,trnA(tgc),TZ21_t20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629175,trnM(cat),TZ21_t05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629176,trnL(taa),TZ21_t22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150227,-
+529818,23629177,rnl,TZ21_r03,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20150227,-
+529818,25767543,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Amastigomonas trahens).,other,-,-,-,-,20150910,-

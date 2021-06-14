@@ -1,0 +1,789 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+743968,61272474,KQK_RS00005,KQK_RS00005,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272475,KQK_RS00010,KQK_RS00010,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20210129,-
+743968,61272476,KQK_RS00015,KQK_RS00015,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272477,gpmI,KQK_RS00020,-,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210505,-
+743968,61272478,KQK_RS00025,KQK_RS00025,-,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20210505,-
+743968,61272479,KQK_RS00030,KQK_RS00030,-,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20201227,-
+743968,61272480,KQK_RS00035,KQK_RS00035,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272481,KQK_RS00040,KQK_RS00040,-,-,-,-,PTS transporter subunit EIIB,protein-coding,-,-,-,PTS transporter subunit EIIB,20201227,-
+743968,61272482,trpS,KQK_RS00045,-,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20201227,-
+743968,61272483,KQK_RS00050,KQK_RS00050,-,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201227,-
+743968,61272484,KQK_RS00055,KQK_RS00055,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272485,glpO,KQK_RS00060,-,-,-,-,type 2 glycerol-3-phosphate oxidase,protein-coding,-,-,-,type 2 glycerol-3-phosphate oxidase,20201227,-
+743968,61272486,KQK_RS00065,KQK_RS00065,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272487,KQK_RS00070,KQK_RS00070,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272488,KQK_RS00075,KQK_RS00075,-,-,-,-,glucose PTS transporter subunit IIA,protein-coding,-,-,-,glucose PTS transporter subunit IIA,20210505,-
+743968,61272489,KQK_RS00080,KQK_RS00080,-,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20201227,-
+743968,61272490,KQK_RS00085,KQK_RS00085,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272491,KQK_RS00090,KQK_RS00090,-,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20201227,-
+743968,61272492,KQK_RS00095,KQK_RS00095,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61272493,KQK_RS00100,KQK_RS00100,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61272494,KQK_RS00105,KQK_RS00105,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272495,KQK_RS00110,KQK_RS00110,-,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20201227,-
+743968,61272496,KQK_RS00115,KQK_RS00115,-,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210505,-
+743968,61272497,KQK_RS00120,KQK_RS00120,-,-,-,-,Bax inhibitor-1 family protein,protein-coding,-,-,-,Bax inhibitor-1 family protein,20201227,-
+743968,61272498,whiA,KQK_RS00125,-,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20210505,-
+743968,61272499,rrf,KQK_RS00130,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201227,-
+743968,61272500,KQK_RS00135,KQK_RS00135,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272501,KQK_RS00140,KQK_RS00140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272502,gatB,KQK_RS00145,-,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20210505,-
+743968,61272503,KQK_RS00150,KQK_RS00150,-,-,-,-,amidase,protein-coding,-,-,-,amidase,20201227,-
+743968,61272504,KQK_RS00155,KQK_RS00155,-,-,-,-,glutamyl-tRNA amidotransferase,protein-coding,-,-,-,glutamyl-tRNA amidotransferase,20201227,-
+743968,61272505,KQK_RS00160,KQK_RS00160,-,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201227,-
+743968,61272506,fba,KQK_RS00165,-,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20201227,-
+743968,61272507,KQK_RS00170,KQK_RS00170,-,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20201230,-
+743968,61272508,KQK_RS00175,KQK_RS00175,-,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20201227,-
+743968,61272509,KQK_RS00180,KQK_RS00180,-,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20201227,-
+743968,61272510,hrcA,KQK_RS00185,-,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20201227,-
+743968,61272511,KQK_RS00190,KQK_RS00190,-,-,-,-,hydrolase,protein-coding,-,-,-,hydrolase,20201227,-
+743968,61272512,ftsY,KQK_RS00195,-,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210505,-
+743968,61272513,KQK_RS00200,KQK_RS00200,-,-,-,-,SocA family protein,protein-coding,-,-,-,SocA family protein,20201227,-
+743968,61272514,KQK_RS00205,KQK_RS00205,-,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201227,-
+743968,61272515,KQK_RS00210,KQK_RS00210,-,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201227,-
+743968,61272516,KQK_RS00215,KQK_RS00215,-,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20201227,-
+743968,61272517,mnmG,KQK_RS00220,-,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210505,-
+743968,61272518,KQK_RS00225,KQK_RS00225,-,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20201227,-
+743968,61272519,dnaA,KQK_RS00230,-,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20201227,-
+743968,61272520,rpmH,KQK_RS00235,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210505,-
+743968,61272521,rnpA,KQK_RS00240,-,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210505,-
+743968,61272522,yidC,KQK_RS00245,-,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20201227,-
+743968,61272523,KQK_RS00250,KQK_RS00250,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272524,KQK_RS00255,KQK_RS00255,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272525,KQK_RS00265,KQK_RS00265,-,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20201227,-
+743968,61272526,KQK_RS00270,KQK_RS00270,-,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201227,-
+743968,61272527,KQK_RS00275,KQK_RS00275,-,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201227,-
+743968,61272528,KQK_RS00280,KQK_RS00280,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272529,KQK_RS00285,KQK_RS00285,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272530,KQK_RS00290,KQK_RS00290,-,-,-,-,phosphotriesterase,protein-coding,-,-,-,phosphotriesterase,20201227,-
+743968,61272531,KQK_RS00295,KQK_RS00295,-,-,-,-,PTS ascorbate transporter subunit IIC,protein-coding,-,-,-,PTS ascorbate transporter subunit IIC,20201227,-
+743968,61272532,KQK_RS00300,KQK_RS00300,-,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20201227,-
+743968,61272533,KQK_RS00305,KQK_RS00305,-,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201227,-
+743968,61272534,KQK_RS00315,KQK_RS00315,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272535,KQK_RS00320,KQK_RS00320,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272536,KQK_RS00325,KQK_RS00325,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272537,uvrA,KQK_RS00330,-,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20201227,-
+743968,61272538,KQK_RS00335,KQK_RS00335,-,-,-,-,RNase J family beta-CASP ribonuclease,protein-coding,-,-,-,RNase J family beta-CASP ribonuclease,20201227,-
+743968,61272539,KQK_RS00340,KQK_RS00340,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+743968,61272540,KQK_RS00345,KQK_RS00345,-,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20201227,-
+743968,61272541,KQK_RS00350,KQK_RS00350,-,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20210129,-
+743968,61272542,KQK_RS00355,KQK_RS00355,-,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20201227,-
+743968,61272543,KQK_RS00360,KQK_RS00360,-,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20201227,-
+743968,61272544,KQK_RS00365,KQK_RS00365,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272545,KQK_RS00370,KQK_RS00370,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272546,KQK_RS00375,KQK_RS00375,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272547,KQK_RS00380,KQK_RS00380,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272548,KQK_RS00395,KQK_RS00395,-,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20201227,-
+743968,61272549,KQK_RS00400,KQK_RS00400,-,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20201227,-
+743968,61272550,glpK,KQK_RS00405,-,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20201227,-
+743968,61272551,KQK_RS00410,KQK_RS00410,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272552,KQK_RS00415,KQK_RS00415,-,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210505,-
+743968,61272553,KQK_RS00420,KQK_RS00420,-,-,-,-,DNA repair protein,protein-coding,-,-,-,DNA repair protein,20201227,-
+743968,61272554,KQK_RS00425,KQK_RS00425,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272555,KQK_RS00430,KQK_RS00430,-,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201227,-
+743968,61272556,KQK_RS00435,KQK_RS00435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272557,KQK_RS00440,KQK_RS00440,-,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20201227,-
+743968,61272558,KQK_RS00445,KQK_RS00445,-,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20201227,-
+743968,61272559,KQK_RS00450,KQK_RS00450,-,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20201227,-
+743968,61272560,KQK_RS00455,KQK_RS00455,-,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20201227,-
+743968,61272561,KQK_RS00460,KQK_RS00460,-,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210505,-
+743968,61272562,KQK_RS00465,KQK_RS00465,-,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20201227,-
+743968,61272563,KQK_RS00470,KQK_RS00470,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272564,KQK_RS00475,KQK_RS00475,-,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201230,-
+743968,61272565,KQK_RS00480,KQK_RS00480,-,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201227,-
+743968,61272566,KQK_RS00485,KQK_RS00485,-,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201227,-
+743968,61272567,KQK_RS00490,KQK_RS00490,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272568,KQK_RS00495,KQK_RS00495,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272569,KQK_RS00500,KQK_RS00500,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272570,KQK_RS00505,KQK_RS00505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272571,KQK_RS00515,KQK_RS00515,-,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20201227,-
+743968,61272572,KQK_RS00520,KQK_RS00520,-,-,-,-,5'-methylthioadenosine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine nucleosidase,20201227,-
+743968,61272573,KQK_RS00525,KQK_RS00525,-,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20201227,-
+743968,61272574,KQK_RS00530,KQK_RS00530,-,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201227,-
+743968,61272575,KQK_RS00535,KQK_RS00535,-,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20210505,-
+743968,61272576,KQK_RS00540,KQK_RS00540,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272577,KQK_RS00545,KQK_RS00545,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272578,KQK_RS00550,KQK_RS00550,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272579,KQK_RS00555,KQK_RS00555,-,-,-,-,zinc-dependent alcohol dehydrogenase family protein,protein-coding,-,-,-,zinc-dependent alcohol dehydrogenase family protein,20201227,-
+743968,61272580,KQK_RS00560,KQK_RS00560,-,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20201227,-
+743968,61272581,KQK_RS00565,KQK_RS00565,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272582,KQK_RS00570,KQK_RS00570,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272583,KQK_RS00575,KQK_RS00575,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272584,KQK_RS00580,KQK_RS00580,-,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201227,-
+743968,61272585,KQK_RS00585,KQK_RS00585,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272586,pepF,KQK_RS00590,-,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20201227,-
+743968,61272587,KQK_RS00595,KQK_RS00595,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272588,KQK_RS00600,KQK_RS00600,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272589,KQK_RS00605,KQK_RS00605,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272590,KQK_RS00610,KQK_RS00610,-,-,-,-,amidohydrolase family protein,protein-coding,-,-,-,amidohydrolase family protein,20201227,-
+743968,61272591,KQK_RS00615,KQK_RS00615,-,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20201227,-
+743968,61272592,KQK_RS00620,KQK_RS00620,-,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20201227,-
+743968,61272593,KQK_RS00625,KQK_RS00625,-,-,-,-,class II fructose-bisphosphate aldolase family protein,protein-coding,-,-,-,class II fructose-bisphosphate aldolase family protein,20201227,-
+743968,61272594,KQK_RS00635,KQK_RS00635,-,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20201227,-
+743968,61272595,KQK_RS00640,KQK_RS00640,-,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201227,-
+743968,61272596,KQK_RS00645,KQK_RS00645,-,-,-,-,type III restriction endonuclease subunit M,protein-coding,-,-,-,type III restriction endonuclease subunit M,20201227,-
+743968,61272597,KQK_RS00650,KQK_RS00650,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272598,KQK_RS00655,KQK_RS00655,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272599,KQK_RS00660,KQK_RS00660,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272600,KQK_RS00665,KQK_RS00665,-,-,-,-,glycine cleavage system protein H,protein-coding,-,-,-,glycine cleavage system protein H,20201227,-
+743968,61272601,KQK_RS00670,KQK_RS00670,-,-,-,-,deacetylase SIR2,protein-coding,-,-,-,deacetylase SIR2,20201227,-
+743968,61272602,KQK_RS00675,KQK_RS00675,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272603,KQK_RS00680,KQK_RS00680,-,-,-,-,NADH-dependent flavin oxidoreductase,protein-coding,-,-,-,NADH-dependent flavin oxidoreductase,20201227,-
+743968,61272604,KQK_RS00685,KQK_RS00685,-,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210505,-
+743968,61272605,nrdE,KQK_RS00690,-,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20201227,-
+743968,61272606,nrdI,KQK_RS00695,-,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20201227,-
+743968,61272607,nrdF,KQK_RS00700,-,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20201230,-
+743968,61272608,KQK_RS00705,KQK_RS00705,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272609,KQK_RS00710,KQK_RS00710,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272610,KQK_RS00715,KQK_RS00715,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272611,KQK_RS00720,KQK_RS00720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272612,KQK_RS00725,KQK_RS00725,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272613,KQK_RS00730,KQK_RS00730,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272614,aspS,KQK_RS00735,-,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20201227,-
+743968,61272615,KQK_RS00740,KQK_RS00740,-,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20201227,-
+743968,61272616,secDF,KQK_RS00745,-,-,-,-,protein translocase subunit SecDF,protein-coding,-,-,-,protein translocase subunit SecDF,20201227,-
+743968,61272617,KQK_RS00750,KQK_RS00750,-,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20201227,-
+743968,61272618,KQK_RS00760,KQK_RS00760,-,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20201227,-
+743968,61272619,KQK_RS00765,KQK_RS00765,-,-,-,-,restriction endonuclease,protein-coding,-,-,-,restriction endonuclease,20201227,-
+743968,61272620,KQK_RS00770,KQK_RS00770,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272621,KQK_RS00775,KQK_RS00775,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272622,KQK_RS00780,KQK_RS00780,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272623,secA,KQK_RS00785,-,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20201227,-
+743968,61272624,KQK_RS00790,KQK_RS00790,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272625,deoD,KQK_RS00795,-,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20201227,-
+743968,61272626,KQK_RS00800,KQK_RS00800,-,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20201227,-
+743968,61272627,deoC,KQK_RS00805,-,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20201227,-
+743968,61272628,upp,KQK_RS00810,-,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20201227,-
+743968,61272629,KQK_RS00815,KQK_RS00815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272630,lon,KQK_RS00820,-,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201227,-
+743968,61272631,tuf,KQK_RS00825,-,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201230,-
+743968,61272632,KQK_RS00830,KQK_RS00830,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272633,KQK_RS00835,KQK_RS00835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272634,KQK_RS00840,KQK_RS00840,-,-,-,-,Rho termination factor N-terminal domain-containing protein,protein-coding,-,-,-,Rho termination factor N-terminal domain-containing protein,20201227,-
+743968,61272635,KQK_RS00845,KQK_RS00845,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272636,KQK_RS00850,KQK_RS00850,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272637,rpsF,KQK_RS00855,-,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20201227,-
+743968,61272638,KQK_RS00860,KQK_RS00860,-,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201227,-
+743968,61272639,rpsR,KQK_RS00865,-,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210505,-
+743968,61272640,KQK_RS00870,KQK_RS00870,-,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210505,-
+743968,61272641,KQK_RS00875,KQK_RS00875,-,-,-,-,DUF933 domain-containing protein,protein-coding,-,-,-,DUF933 domain-containing protein,20201227,-
+743968,61272642,KQK_RS00880,KQK_RS00880,-,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20201227,-
+743968,61272643,KQK_RS00885,KQK_RS00885,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272644,KQK_RS00890,KQK_RS00890,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272645,KQK_RS00895,KQK_RS00895,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272646,KQK_RS00900,KQK_RS00900,-,-,-,-,DUF4231 domain-containing protein,protein-coding,-,-,-,DUF4231 domain-containing protein,20201227,-
+743968,61272647,KQK_RS00905,KQK_RS00905,-,-,-,-,DUF4231 domain-containing protein,protein-coding,-,-,-,DUF4231 domain-containing protein,20201230,-
+743968,61272648,rpsL,KQK_RS00910,-,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201230,-
+743968,61272649,rpsG,KQK_RS00915,-,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201227,-
+743968,61272650,fusA,KQK_RS00920,-,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20201227,-
+743968,61272651,KQK_RS00925,KQK_RS00925,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20201227,-
+743968,61272652,KQK_RS00930,KQK_RS00930,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20201227,-
+743968,61272653,KQK_RS00940,KQK_RS00940,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272654,tig,KQK_RS00945,-,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210505,-
+743968,61272655,KQK_RS00950,KQK_RS00950,-,-,-,-,Hsp33 family molecular chaperone HslO,protein-coding,-,-,-,Hsp33 family molecular chaperone HslO,20201227,-
+743968,61272656,KQK_RS00955,KQK_RS00955,-,-,-,-,YqaJ viral recombinase family protein,protein-coding,-,-,-,YqaJ viral recombinase family protein,20201227,-
+743968,61272657,KQK_RS00960,KQK_RS00960,-,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20201227,-
+743968,61272658,KQK_RS00965,KQK_RS00965,-,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210522,-
+743968,61272659,KQK_RS00970,KQK_RS00970,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272660,KQK_RS00975,KQK_RS00975,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272661,KQK_RS00980,KQK_RS00980,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272662,KQK_RS00985,KQK_RS00985,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272663,KQK_RS00990,KQK_RS00990,-,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20201227,-
+743968,61272664,pdhA,KQK_RS00995,-,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20201227,-
+743968,61272665,KQK_RS01000,KQK_RS01000,-,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20201230,-
+743968,61272666,KQK_RS01005,KQK_RS01005,-,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20201227,-
+743968,61272667,KQK_RS01010,KQK_RS01010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272668,KQK_RS01015,KQK_RS01015,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272669,KQK_RS01020,KQK_RS01020,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272670,pfkA,KQK_RS01025,-,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20201227,-
+743968,61272671,KQK_RS01030,KQK_RS01030,-,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201227,-
+743968,61272672,ffs,KQK_RS01035,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201227,-
+743968,61272673,KQK_RS01040,KQK_RS01040,-,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201227,-
+743968,61272674,KQK_RS01045,KQK_RS01045,-,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201227,-
+743968,61272675,KQK_RS01050,KQK_RS01050,-,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20201227,-
+743968,61272676,KQK_RS01055,KQK_RS01055,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272677,KQK_RS01060,KQK_RS01060,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272678,prfA,KQK_RS01065,-,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201227,-
+743968,61272679,KQK_RS01070,KQK_RS01070,-,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20201227,-
+743968,61272680,KQK_RS01075,KQK_RS01075,-,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20201227,-
+743968,61272681,KQK_RS01080,KQK_RS01080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272682,KQK_RS01085,KQK_RS01085,-,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20201227,-
+743968,61272683,dnaE,KQK_RS01095,-,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20201227,-
+743968,61272684,KQK_RS01100,KQK_RS01100,-,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20201227,-
+743968,61272685,KQK_RS01105,KQK_RS01105,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272686,KQK_RS01110,KQK_RS01110,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272687,KQK_RS01115,KQK_RS01115,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272688,KQK_RS01120,KQK_RS01120,-,-,-,-,nuclease,protein-coding,-,-,-,nuclease,20210505,-
+743968,61272689,KQK_RS01125,KQK_RS01125,-,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210505,-
+743968,61272690,KQK_RS01130,KQK_RS01130,-,-,-,-,DNA gyrase subunit B,protein-coding,-,-,-,DNA gyrase subunit B,20201227,-
+743968,61272691,KQK_RS01135,KQK_RS01135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272692,KQK_RS01145,KQK_RS01145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272693,KQK_RS01150,KQK_RS01150,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272694,pgmB,KQK_RS01155,-,-,-,-,beta-phosphoglucomutase,protein-coding,-,-,-,beta-phosphoglucomutase,20201227,-
+743968,61272695,KQK_RS01160,KQK_RS01160,-,-,-,-,glycoside hydrolase family 65 protein,protein-coding,-,-,-,glycoside hydrolase family 65 protein,20201227,-
+743968,61272696,KQK_RS01165,KQK_RS01165,-,-,-,-,sucrase-isomaltase,protein-coding,-,-,-,sucrase-isomaltase,20201227,-
+743968,61272697,KQK_RS01170,KQK_RS01170,-,-,-,-,pullulanase,protein-coding,-,-,-,pullulanase,20201227,-
+743968,61272698,KQK_RS01175,KQK_RS01175,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272699,KQK_RS01180,KQK_RS01180,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272700,KQK_RS01185,KQK_RS01185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272701,KQK_RS01190,KQK_RS01190,-,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201227,-
+743968,61272702,KQK_RS01195,KQK_RS01195,-,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201227,-
+743968,61272703,KQK_RS01200,KQK_RS01200,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272704,KQK_RS01205,KQK_RS01205,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272705,lpdA,KQK_RS01210,-,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201227,-
+743968,61272706,KQK_RS01215,KQK_RS01215,-,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20210505,-
+743968,61272707,KQK_RS01220,KQK_RS01220,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272708,KQK_RS01225,KQK_RS01225,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272709,KQK_RS01230,KQK_RS01230,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61272710,KQK_RS01235,KQK_RS01235,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201230,-
+743968,61272711,KQK_RS01240,KQK_RS01240,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272712,KQK_RS01245,KQK_RS01245,-,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,protein-coding,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,20201227,-
+743968,61272713,KQK_RS01250,KQK_RS01250,-,-,-,-,L-ribulose-5-phosphate 3-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 3-epimerase,20210505,-
+743968,61272714,KQK_RS01255,KQK_RS01255,-,-,-,-,L-ribulose-5-phosphate 4-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 4-epimerase,20201227,-
+743968,61272715,KQK_RS01260,KQK_RS01260,-,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210505,-
+743968,61272716,KQK_RS01265,KQK_RS01265,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272717,KQK_RS01270,KQK_RS01270,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272718,KQK_RS01275,KQK_RS01275,-,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20201227,-
+743968,61272719,KQK_RS01280,KQK_RS01280,-,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20201227,-
+743968,61272720,KQK_RS01285,KQK_RS01285,-,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201227,-
+743968,61272721,KQK_RS01290,KQK_RS01290,-,-,-,-,restriction endonuclease,protein-coding,-,-,-,restriction endonuclease,20201227,-
+743968,61272723,KQK_RS01305,KQK_RS01305,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272724,KQK_RS01310,KQK_RS01310,-,-,-,-,IS256 family transposase,protein-coding,-,-,-,IS256 family transposase,20201227,-
+743968,61272725,KQK_RS01315,KQK_RS01315,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272726,KQK_RS01320,KQK_RS01320,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272727,KQK_RS01325,KQK_RS01325,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272728,KQK_RS01330,KQK_RS01330,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272729,ptsP,KQK_RS01335,-,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20201227,-
+743968,61272730,KQK_RS01340,KQK_RS01340,-,-,-,-,lactate dehydrogenase,protein-coding,-,-,-,lactate dehydrogenase,20201227,-
+743968,61272731,KQK_RS01345,KQK_RS01345,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61272732,KQK_RS01350,KQK_RS01350,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272733,KQK_RS01355,KQK_RS01355,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272734,KQK_RS01360,KQK_RS01360,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272735,KQK_RS01365,KQK_RS01365,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272736,trmB,KQK_RS01370,-,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20210505,-
+743968,61272737,KQK_RS01375,KQK_RS01375,-,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20201227,-
+743968,61272738,KQK_RS01380,KQK_RS01380,-,-,-,-,DUF262 domain-containing protein,protein-coding,-,-,-,DUF262 domain-containing protein,20201227,-
+743968,61272739,KQK_RS01385,KQK_RS01385,-,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20201227,-
+743968,61272740,KQK_RS01390,KQK_RS01390,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272741,KQK_RS01395,KQK_RS01395,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272742,KQK_RS01400,KQK_RS01400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272744,KQK_RS01410,KQK_RS01410,-,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20201227,-
+743968,61272745,KQK_RS01420,KQK_RS01420,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272746,KQK_RS01425,KQK_RS01425,-,-,-,-,IS256 family transposase,protein-coding,-,-,-,IS256 family transposase,20210505,-
+743968,61272747,rpsD,KQK_RS01430,-,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201230,-
+743968,61272748,rpiB,KQK_RS01435,-,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20201230,-
+743968,61272749,mutM,KQK_RS01440,-,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20201227,-
+743968,61272750,KQK_RS01445,KQK_RS01445,-,-,-,-,DUF3137 domain-containing protein,protein-coding,-,-,-,DUF3137 domain-containing protein,20201227,-
+743968,61272751,KQK_RS01450,KQK_RS01450,-,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20201227,-
+743968,61272752,KQK_RS01455,KQK_RS01455,-,-,-,-,DUF3137 domain-containing protein,protein-coding,-,-,-,DUF3137 domain-containing protein,20201227,-
+743968,61272753,KQK_RS01460,KQK_RS01460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272754,KQK_RS01465,KQK_RS01465,-,-,-,-,class I mannose-6-phosphate isomerase,protein-coding,-,-,-,class I mannose-6-phosphate isomerase,20201227,-
+743968,61272755,KQK_RS01470,KQK_RS01470,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272756,KQK_RS01475,KQK_RS01475,-,-,-,-,fructose-specific PTS transporter subunit EIIC,protein-coding,-,-,-,fructose-specific PTS transporter subunit EIIC,20210505,-
+743968,61272757,KQK_RS01480,KQK_RS01480,-,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20201227,-
+743968,61272758,KQK_RS01485,KQK_RS01485,-,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201227,-
+743968,61272759,KQK_RS01490,KQK_RS01490,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272760,KQK_RS01495,KQK_RS01495,-,-,-,-,diadenylate cyclase,protein-coding,-,-,-,diadenylate cyclase,20210505,-
+743968,61272761,mgtE,KQK_RS01500,-,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201227,-
+743968,61272762,KQK_RS01505,KQK_RS01505,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272763,KQK_RS01510,KQK_RS01510,-,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201227,-
+743968,61272764,KQK_RS01515,KQK_RS01515,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272765,KQK_RS01520,KQK_RS01520,-,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20201227,-
+743968,61272766,KQK_RS01530,KQK_RS01530,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+743968,61272767,KQK_RS01535,KQK_RS01535,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272768,KQK_RS01540,KQK_RS01540,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272769,KQK_RS01545,KQK_RS01545,-,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210505,-
+743968,61272770,KQK_RS01560,KQK_RS01560,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272771,KQK_RS01565,KQK_RS01565,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272772,KQK_RS01570,KQK_RS01570,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272773,KQK_RS01575,KQK_RS01575,-,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20201227,-
+743968,61272774,KQK_RS01580,KQK_RS01580,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272775,KQK_RS01585,KQK_RS01585,-,-,-,-,UPF0182 family protein,protein-coding,-,-,-,UPF0182 family protein,20201227,-
+743968,61272776,KQK_RS01590,KQK_RS01590,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272777,KQK_RS01600,KQK_RS01600,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272778,KQK_RS01605,KQK_RS01605,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272779,KQK_RS01610,KQK_RS01610,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272780,KQK_RS01615,KQK_RS01615,-,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201227,-
+743968,61272781,KQK_RS01620,KQK_RS01620,-,-,-,-,mannitol-1-phosphate 5-dehydrogenase,protein-coding,-,-,-,mannitol-1-phosphate 5-dehydrogenase,20201227,-
+743968,61272782,KQK_RS01625,KQK_RS01625,-,-,-,-,PTS mannitol transporter subunit IICB,protein-coding,-,-,-,PTS mannitol transporter subunit IICB,20201227,-
+743968,61272783,KQK_RS01630,KQK_RS01630,-,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20201227,-
+743968,61272784,KQK_RS01635,KQK_RS01635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272785,KQK_RS01640,KQK_RS01640,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272786,KQK_RS01645,KQK_RS01645,-,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20201227,-
+743968,61272787,KQK_RS01650,KQK_RS01650,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272788,KQK_RS01655,KQK_RS01655,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272789,KQK_RS01660,KQK_RS01660,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272790,KQK_RS01665,KQK_RS01665,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272791,KQK_RS01670,KQK_RS01670,-,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20201227,-
+743968,61272792,KQK_RS01680,KQK_RS01680,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272793,KQK_RS01685,KQK_RS01685,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272794,KQK_RS01690,KQK_RS01690,-,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201227,-
+743968,61272795,era,KQK_RS01695,-,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20201227,-
+743968,61272796,cdd,KQK_RS01700,-,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20201227,-
+743968,61272797,ybeY,KQK_RS01705,-,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20201227,-
+743968,61272798,KQK_RS01710,KQK_RS01710,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272799,KQK_RS01715,KQK_RS01715,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272800,KQK_RS01720,KQK_RS01720,-,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20201227,-
+743968,61272801,KQK_RS01730,KQK_RS01730,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272802,KQK_RS01735,KQK_RS01735,-,-,-,-,TlyA family RNA methyltransferase,protein-coding,-,-,-,TlyA family RNA methyltransferase,20201227,-
+743968,61272803,KQK_RS01740,KQK_RS01740,-,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20201227,-
+743968,61272804,KQK_RS01745,KQK_RS01745,-,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20201227,-
+743968,61272805,KQK_RS01750,KQK_RS01750,-,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201227,-
+743968,61272806,lepB,KQK_RS01755,-,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210505,-
+743968,61272807,KQK_RS01760,KQK_RS01760,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272808,KQK_RS01765,KQK_RS01765,-,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20201227,-
+743968,61272809,KQK_RS01770,KQK_RS01770,-,-,-,-,Eco57I restriction-modification methylase domain-containing protein,protein-coding,-,-,-,Eco57I restriction-modification methylase domain-containing protein,20201227,-
+743968,61272810,KQK_RS01775,KQK_RS01775,-,-,-,-,restriction endonuclease subunit M,protein-coding,-,-,-,restriction endonuclease subunit M,20201227,-
+743968,61272811,KQK_RS01780,KQK_RS01780,-,-,-,-,type II restriction endonuclease,protein-coding,-,-,-,type II restriction endonuclease,20201227,-
+743968,61272812,dcm,KQK_RS01785,-,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210605,-
+743968,61272813,KQK_RS01795,KQK_RS01795,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272814,KQK_RS01800,KQK_RS01800,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272815,KQK_RS01805,KQK_RS01805,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272816,KQK_RS01810,KQK_RS01810,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272817,KQK_RS01820,KQK_RS01820,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272818,KQK_RS01825,KQK_RS01825,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272819,KQK_RS01830,KQK_RS01830,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272820,KQK_RS01835,KQK_RS01835,-,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20201227,-
+743968,61272821,KQK_RS01840,KQK_RS01840,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272822,KQK_RS01845,KQK_RS01845,-,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20201227,-
+743968,61272823,KQK_RS01850,KQK_RS01850,-,-,-,-,TdeIII family type II restriction endonuclease,protein-coding,-,-,-,TdeIII family type II restriction endonuclease,20210505,-
+743968,61272824,KQK_RS01860,KQK_RS01860,-,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20201227,-
+743968,61272825,KQK_RS01865,KQK_RS01865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272826,KQK_RS01870,KQK_RS01870,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272827,KQK_RS01875,KQK_RS01875,-,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201227,-
+743968,61272828,KQK_RS01880,KQK_RS01880,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272829,KQK_RS01885,KQK_RS01885,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272830,KQK_RS01895,KQK_RS01895,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272831,KQK_RS01900,KQK_RS01900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272832,KQK_RS01905,KQK_RS01905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272833,KQK_RS01910,KQK_RS01910,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272834,KQK_RS01915,KQK_RS01915,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272835,KQK_RS01920,KQK_RS01920,-,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201227,-
+743968,61272836,rplL,KQK_RS01925,-,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201230,-
+743968,61272837,KQK_RS01930,KQK_RS01930,-,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20201227,-
+743968,61272838,KQK_RS01935,KQK_RS01935,-,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20201227,-
+743968,61272839,KQK_RS01940,KQK_RS01940,-,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210505,-
+743968,61272840,KQK_RS01945,KQK_RS01945,-,-,-,-,YwaF family protein,protein-coding,-,-,-,YwaF family protein,20210505,-
+743968,61272841,KQK_RS01950,KQK_RS01950,-,-,-,-,acyl-phosphate glycerol 3-phosphate acyltransferase,protein-coding,-,-,-,acyl-phosphate glycerol 3-phosphate acyltransferase,20201227,-
+743968,61272842,KQK_RS01955,KQK_RS01955,-,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20201227,-
+743968,61272843,KQK_RS01960,KQK_RS01960,-,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20201230,-
+743968,61272844,KQK_RS01965,KQK_RS01965,-,-,-,-,flippase-like domain-containing protein,protein-coding,-,-,-,flippase-like domain-containing protein,20201227,-
+743968,61272845,tsaD,KQK_RS01970,-,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210505,-
+743968,61272846,KQK_RS01975,KQK_RS01975,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272847,KQK_RS01980,KQK_RS01980,-,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201227,-
+743968,61272848,KQK_RS01985,KQK_RS01985,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272849,KQK_RS01990,KQK_RS01990,-,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201227,-
+743968,61272850,KQK_RS01995,KQK_RS01995,-,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20201227,-
+743968,61272851,greA,KQK_RS02000,-,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201227,-
+743968,61272852,KQK_RS02005,KQK_RS02005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272853,KQK_RS02015,KQK_RS02015,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210505,-
+743968,61272854,KQK_RS02020,KQK_RS02020,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210505,-
+743968,61272855,KQK_RS02025,KQK_RS02025,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272856,KQK_RS02030,KQK_RS02030,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272857,KQK_RS02035,KQK_RS02035,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272858,KQK_RS02040,KQK_RS02040,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272859,KQK_RS02045,KQK_RS02045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272860,ligA,KQK_RS02050,-,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201227,-
+743968,61272861,KQK_RS02055,KQK_RS02055,-,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20201227,-
+743968,61272862,KQK_RS02060,KQK_RS02060,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272863,KQK_RS02065,KQK_RS02065,-,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20201227,-
+743968,61272864,hpt,KQK_RS02070,-,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20201227,-
+743968,61272865,rsmI,KQK_RS02075,-,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20201227,-
+743968,61272866,KQK_RS02080,KQK_RS02080,-,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20201227,-
+743968,61272867,tmk,KQK_RS02085,-,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20201227,-
+743968,61272868,KQK_RS02090,KQK_RS02090,-,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210505,-
+743968,61272869,KQK_RS02095,KQK_RS02095,-,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20201230,-
+743968,61272870,dnaX,KQK_RS02100,-,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20201227,-
+743968,61272871,KQK_RS02105,KQK_RS02105,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272872,KQK_RS02110,KQK_RS02110,-,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20201227,-
+743968,61272873,KQK_RS02115,KQK_RS02115,-,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201227,-
+743968,61272874,KQK_RS02120,KQK_RS02120,-,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20201227,-
+743968,61272875,serS,KQK_RS02125,-,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201227,-
+743968,61272876,eno,KQK_RS02130,-,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201227,-
+743968,61272877,KQK_RS02135,KQK_RS02135,-,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201227,-
+743968,61272878,rsgA,KQK_RS02140,-,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20201227,-
+743968,61272879,gmk,KQK_RS02145,-,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201227,-
+743968,61272880,rsmD,KQK_RS02150,-,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20201227,-
+743968,61272881,recO,KQK_RS02155,-,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20201227,-
+743968,61272882,KQK_RS02160,KQK_RS02160,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272883,msrB,KQK_RS02165,-,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,protein-coding,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,20201230,-
+743968,61272884,KQK_RS02170,KQK_RS02170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272885,KQK_RS02175,KQK_RS02175,-,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20201227,-
+743968,61272886,KQK_RS02180,KQK_RS02180,-,-,-,-,DNA-protecting protein DprA,protein-coding,-,-,-,DNA-protecting protein DprA,20201227,-
+743968,61272887,KQK_RS02185,KQK_RS02185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272888,KQK_RS02190,KQK_RS02190,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272889,KQK_RS02195,KQK_RS02195,-,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20201227,-
+743968,61272890,KQK_RS02200,KQK_RS02200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272891,nusG,KQK_RS02205,-,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20201227,-
+743968,61272892,secE,KQK_RS02210,-,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20201227,-
+743968,61272893,rpmG,KQK_RS02215,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201230,-
+743968,61272894,KQK_RS02220,KQK_RS02220,-,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20201230,-
+743968,61272895,rlmB,KQK_RS02225,-,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20201227,-
+743968,61272896,cysS,KQK_RS02230,-,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20201227,-
+743968,61272897,KQK_RS02235,KQK_RS02235,-,-,-,-,DUF45 domain-containing protein,protein-coding,-,-,-,DUF45 domain-containing protein,20201227,-
+743968,61272898,KQK_RS02240,KQK_RS02240,-,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20201227,-
+743968,61272899,dnaB,KQK_RS02245,-,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20201227,-
+743968,61272900,rplI,KQK_RS02250,-,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210505,-
+743968,61272901,KQK_RS02255,KQK_RS02255,-,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20201227,-
+743968,61272902,leuS,KQK_RS02260,-,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210505,-
+743968,61272903,cas1,KQK_RS02265,-,-,-,-,type II CRISPR-associated endonuclease Cas1,protein-coding,-,-,-,type II CRISPR-associated endonuclease Cas1,20201227,-
+743968,61272904,cas2,KQK_RS02270,-,-,-,-,CRISPR-associated endonuclease Cas2,protein-coding,-,-,-,CRISPR-associated endonuclease Cas2,20201227,-
+743968,61272905,KQK_RS02275,KQK_RS02275,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272906,KQK_RS02290,KQK_RS02290,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272907,KQK_RS02295,KQK_RS02295,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272908,KQK_RS02300,KQK_RS02300,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272909,KQK_RS02305,KQK_RS02305,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272910,KQK_RS02310,KQK_RS02310,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272912,KQK_RS02320,KQK_RS02320,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272913,KQK_RS02325,KQK_RS02325,-,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20201227,-
+743968,61272914,ileS,KQK_RS02330,-,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210505,-
+743968,61272915,KQK_RS02335,KQK_RS02335,-,-,-,-,DNA topoisomerase 4 subunit A,protein-coding,-,-,-,DNA topoisomerase 4 subunit A,20201227,-
+743968,61272916,KQK_RS02340,KQK_RS02340,-,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20201227,-
+743968,61272917,gap,KQK_RS02345,-,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201227,-
+743968,61272918,KQK_RS02350,KQK_RS02350,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61272919,KQK_RS02355,KQK_RS02355,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20210129,-
+743968,61272920,asnS,KQK_RS02360,-,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20201227,-
+743968,61272921,KQK_RS02365,KQK_RS02365,-,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20210505,-
+743968,61272922,KQK_RS02370,KQK_RS02370,-,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210505,-
+743968,61272923,KQK_RS02375,KQK_RS02375,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272924,ruvA,KQK_RS02380,-,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20201227,-
+743968,61272925,ruvB,KQK_RS02385,-,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20201227,-
+743968,61272926,KQK_RS02390,KQK_RS02390,-,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20201227,-
+743968,61272927,KQK_RS02395,KQK_RS02395,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272928,uvrB,KQK_RS02400,-,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210505,-
+743968,61272930,KQK_RS02415,KQK_RS02415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272931,KQK_RS02420,KQK_RS02420,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272932,rpmB,KQK_RS02425,-,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210505,-
+743968,61272933,rplT,KQK_RS02430,-,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210507,-
+743968,61272934,rpmI,KQK_RS02435,-,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20201230,-
+743968,61272935,infC,KQK_RS02440,-,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210505,-
+743968,61272936,pyk,KQK_RS02445,-,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210505,-
+743968,61272937,KQK_RS02450,KQK_RS02450,-,-,-,-,leucine-rich repeat domain-containing protein,protein-coding,-,-,-,leucine-rich repeat domain-containing protein,20201227,-
+743968,61272938,KQK_RS02455,KQK_RS02455,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272939,KQK_RS02460,KQK_RS02460,-,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20201227,-
+743968,61272940,KQK_RS02465,KQK_RS02465,-,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20201227,-
+743968,61272941,rplU,KQK_RS02470,-,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201230,-
+743968,61272942,rpmA,KQK_RS02475,-,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210505,-
+743968,61272943,KQK_RS02480,KQK_RS02480,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20201227,-
+743968,61272944,KQK_RS02485,KQK_RS02485,-,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20201227,-
+743968,61272945,dcm,KQK_RS02490,-,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210505,-
+743968,61272946,KQK_RS02500,KQK_RS02500,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272947,KQK_RS02505,KQK_RS02505,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272948,KQK_RS02510,KQK_RS02510,-,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20201227,-
+743968,61272949,rpmG,KQK_RS02515,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201230,-
+743968,61272950,KQK_RS02520,KQK_RS02520,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201227,-
+743968,61272951,KQK_RS02525,KQK_RS02525,-,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20201227,-
+743968,61272952,KQK_RS02530,KQK_RS02530,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272953,rsmG,KQK_RS02535,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272954,KQK_RS02540,KQK_RS02540,-,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20201227,-
+743968,61272955,KQK_RS02545,KQK_RS02545,-,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201227,-
+743968,61272956,rsmA,KQK_RS02550,-,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20201227,-
+743968,61272957,rplM,KQK_RS02555,-,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201227,-
+743968,61272958,rpsI,KQK_RS02560,-,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201230,-
+743968,61272959,KQK_RS02565,KQK_RS02565,-,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20201227,-
+743968,61272960,KQK_RS02570,KQK_RS02570,-,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201227,-
+743968,61272961,metK,KQK_RS02575,-,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210505,-
+743968,61272962,KQK_RS02580,KQK_RS02580,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61272963,KQK_RS02585,KQK_RS02585,-,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210505,-
+743968,61272964,KQK_RS02590,KQK_RS02590,-,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210505,-
+743968,61272965,rpmE,KQK_RS02595,-,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20201230,-
+743968,61272966,KQK_RS02600,KQK_RS02600,-,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20201230,-
+743968,61272967,KQK_RS02605,KQK_RS02605,-,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201227,-
+743968,61272968,KQK_RS02610,KQK_RS02610,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272969,KQK_RS02615,KQK_RS02615,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272970,KQK_RS02620,KQK_RS02620,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61272971,KQK_RS02625,KQK_RS02625,-,-,-,-,SGNH/GDSL hydrolase family protein,protein-coding,-,-,-,SGNH/GDSL hydrolase family protein,20210129,-
+743968,61272972,KQK_RS02630,KQK_RS02630,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61272973,KQK_RS02635,KQK_RS02635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272974,KQK_RS02640,KQK_RS02640,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61272975,KQK_RS02645,KQK_RS02645,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272976,KQK_RS02660,KQK_RS02660,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61272977,KQK_RS02670,KQK_RS02670,-,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201227,-
+743968,61272978,KQK_RS02675,KQK_RS02675,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272979,KQK_RS02680,KQK_RS02680,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272980,KQK_RS02685,KQK_RS02685,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272981,KQK_RS02690,KQK_RS02690,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272982,KQK_RS02695,KQK_RS02695,-,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20201227,-
+743968,61272983,KQK_RS02700,KQK_RS02700,-,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20201227,-
+743968,61272984,KQK_RS02705,KQK_RS02705,-,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201227,-
+743968,61272985,KQK_RS02710,KQK_RS02710,-,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210505,-
+743968,61272986,KQK_RS02715,KQK_RS02715,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61272987,tsaB,KQK_RS02720,-,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210505,-
+743968,61272988,KQK_RS02725,KQK_RS02725,-,-,-,-,leucine-rich repeat domain-containing protein,protein-coding,-,-,-,leucine-rich repeat domain-containing protein,20201227,-
+743968,61272989,KQK_RS02730,KQK_RS02730,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61272990,KQK_RS02735,KQK_RS02735,-,-,-,-,spermidine/putrescine ABC transporter permease,protein-coding,-,-,-,spermidine/putrescine ABC transporter permease,20201227,-
+743968,61272991,KQK_RS02740,KQK_RS02740,-,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201227,-
+743968,61272992,KQK_RS02745,KQK_RS02745,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61272993,KQK_RS02755,KQK_RS02755,-,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20201230,-
+743968,61272994,KQK_RS02760,KQK_RS02760,-,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20201227,-
+743968,61272995,KQK_RS02765,KQK_RS02765,-,-,-,-,YhcH/YjgK/YiaL family protein,protein-coding,-,-,-,YhcH/YjgK/YiaL family protein,20201227,-
+743968,61272996,rpsT,KQK_RS02770,-,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210505,-
+743968,61272997,rplA,KQK_RS02775,-,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210505,-
+743968,61272998,rplK,KQK_RS02780,-,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20201227,-
+743968,61272999,rnpB,KQK_RS02785,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201227,-
+743968,61273000,rpsO,KQK_RS02790,-,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20201227,-
+743968,61273001,tpiA,KQK_RS02795,-,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210505,-
+743968,61273002,KQK_RS02800,KQK_RS02800,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201227,-
+743968,61273003,KQK_RS02805,KQK_RS02805,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273004,KQK_RS02810,KQK_RS02810,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273005,KQK_RS02815,KQK_RS02815,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273006,KQK_RS02820,KQK_RS02820,-,-,-,-,N-6 DNA methylase,protein-coding,-,-,-,N-6 DNA methylase,20201227,-
+743968,61273007,KQK_RS02825,KQK_RS02825,-,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210505,-
+743968,61273008,KQK_RS02835,KQK_RS02835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273009,KQK_RS02840,KQK_RS02840,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273010,KQK_RS02850,KQK_RS02850,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61273012,KQK_RS02860,KQK_RS02860,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273013,KQK_RS02865,KQK_RS02865,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273014,gyrA,KQK_RS02870,-,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20201227,-
+743968,61273015,KQK_RS02875,KQK_RS02875,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273016,KQK_RS02880,KQK_RS02880,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273017,KQK_RS02885,KQK_RS02885,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273018,KQK_RS02890,KQK_RS02890,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273019,KQK_RS02895,KQK_RS02895,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273020,KQK_RS02900,KQK_RS02900,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273021,KQK_RS02905,KQK_RS02905,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273022,KQK_RS02910,KQK_RS02910,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273023,KQK_RS02915,KQK_RS02915,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273024,KQK_RS02920,KQK_RS02920,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273025,ylqF,KQK_RS02925,-,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20201227,-
+743968,61273026,KQK_RS02930,KQK_RS02930,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273027,KQK_RS02935,KQK_RS02935,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273028,efp,KQK_RS02940,-,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201230,-
+743968,61273029,KQK_RS02945,KQK_RS02945,-,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201227,-
+743968,61273030,KQK_RS02950,KQK_RS02950,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273031,KQK_RS02960,KQK_RS02960,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61273032,KQK_RS02965,KQK_RS02965,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273033,KQK_RS02970,KQK_RS02970,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273034,KQK_RS02975,KQK_RS02975,-,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201227,-
+743968,61273035,rpsJ,KQK_RS02980,-,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201227,-
+743968,61273036,rplC,KQK_RS02985,-,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20201227,-
+743968,61273037,rplD,KQK_RS02990,-,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20201227,-
+743968,61273038,rplW,KQK_RS02995,-,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201227,-
+743968,61273039,rplB,KQK_RS03000,-,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20201227,-
+743968,61273040,rpsS,KQK_RS03005,-,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201230,-
+743968,61273041,rplV,KQK_RS03010,-,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210505,-
+743968,61273042,rpsC,KQK_RS03015,-,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20201230,-
+743968,61273043,rplP,KQK_RS03020,-,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201230,-
+743968,61273044,KQK_RS03025,KQK_RS03025,-,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201227,-
+743968,61273045,rpsQ,KQK_RS03030,-,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201227,-
+743968,61273046,rplN,KQK_RS03035,-,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201230,-
+743968,61273047,rplX,KQK_RS03040,-,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210505,-
+743968,61273048,rplE,KQK_RS03045,-,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201227,-
+743968,61273049,KQK_RS03050,KQK_RS03050,-,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20201230,-
+743968,61273050,rpsH,KQK_RS03055,-,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201227,-
+743968,61273051,rplF,KQK_RS03060,-,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20201227,-
+743968,61273052,rplR,KQK_RS03065,-,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210505,-
+743968,61273053,rpsE,KQK_RS03070,-,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20201227,-
+743968,61273054,rplO,KQK_RS03075,-,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210505,-
+743968,61273055,secY,KQK_RS03080,-,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201227,-
+743968,61273056,KQK_RS03085,KQK_RS03085,-,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20201227,-
+743968,61273057,map,KQK_RS03090,-,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20201227,-
+743968,61273058,infA,KQK_RS03095,-,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201230,-
+743968,61273059,rpmJ,KQK_RS03100,-,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201230,-
+743968,61273060,rpsM,KQK_RS03105,-,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201227,-
+743968,61273061,rpsK,KQK_RS03110,-,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201230,-
+743968,61273062,KQK_RS03115,KQK_RS03115,-,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20201227,-
+743968,61273063,rplQ,KQK_RS03120,-,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201230,-
+743968,61273064,KQK_RS03125,KQK_RS03125,-,-,-,-,trypsin-like peptidase domain-containing protein,protein-coding,-,-,-,trypsin-like peptidase domain-containing protein,20201227,-
+743968,61273065,KQK_RS03130,KQK_RS03130,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273066,KQK_RS03145,KQK_RS03145,-,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201230,-
+743968,61273067,proS,KQK_RS03150,-,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210505,-
+743968,61273068,KQK_RS03155,KQK_RS03155,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273069,KQK_RS03160,KQK_RS03160,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273070,KQK_RS03165,KQK_RS03165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273071,mraZ,KQK_RS03180,-,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20201227,-
+743968,61273072,rsmH,KQK_RS03185,-,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210505,-
+743968,61273073,KQK_RS03190,KQK_RS03190,-,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20201227,-
+743968,61273074,KQK_RS03195,KQK_RS03195,-,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20201227,-
+743968,61273075,KQK_RS03200,KQK_RS03200,-,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20201227,-
+743968,61273076,KQK_RS03205,KQK_RS03205,-,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201227,-
+743968,61273077,KQK_RS03210,KQK_RS03210,-,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201227,-
+743968,61273078,KQK_RS03215,KQK_RS03215,-,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20210116,-
+743968,61273079,rnc,KQK_RS03220,-,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20201227,-
+743968,61273080,KQK_RS03225,KQK_RS03225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61273081,KQK_RS03230,KQK_RS03230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273082,KQK_RS03235,KQK_RS03235,-,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20201227,-
+743968,61273083,KQK_RS03240,KQK_RS03240,-,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210505,-
+743968,61273084,KQK_RS03245,KQK_RS03245,-,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210505,-
+743968,61273085,KQK_RS03250,KQK_RS03250,-,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20201227,-
+743968,61273086,KQK_RS03255,KQK_RS03255,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61273087,KQK_RS03260,KQK_RS03260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273088,KQK_RS03265,KQK_RS03265,-,-,-,-,IS256 family transposase,protein-coding,-,-,-,IS256 family transposase,20201227,-
+743968,61273089,KQK_RS03270,KQK_RS03270,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273091,KQK_RS03280,KQK_RS03280,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,61273092,KQK_RS03285,KQK_RS03285,-,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20201227,-
+743968,61273093,KQK_RS03290,KQK_RS03290,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61273094,KQK_RS03295,KQK_RS03295,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210505,-
+743968,61273095,KQK_RS03300,KQK_RS03300,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273096,KQK_RS03305,KQK_RS03305,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273097,KQK_RS03310,KQK_RS03310,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273098,KQK_RS03315,KQK_RS03315,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273099,KQK_RS03320,KQK_RS03320,-,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20201227,-
+743968,61273100,KQK_RS03325,KQK_RS03325,-,-,-,-,adenylyltransferase/cytidyltransferase family protein,protein-coding,-,-,-,adenylyltransferase/cytidyltransferase family protein,20201227,-
+743968,61273101,KQK_RS03330,KQK_RS03330,-,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201227,-
+743968,61273102,truB,KQK_RS03335,-,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20201227,-
+743968,61273103,KQK_RS03340,KQK_RS03340,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273104,KQK_RS03345,KQK_RS03345,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273105,KQK_RS03350,KQK_RS03350,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273106,KQK_RS03355,KQK_RS03355,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273107,KQK_RS03360,KQK_RS03360,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273108,rpmF,KQK_RS03365,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201227,-
+743968,61273109,KQK_RS03370,KQK_RS03370,-,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20201227,-
+743968,61273110,KQK_RS03375,KQK_RS03375,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273111,KQK_RS03380,KQK_RS03380,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273112,KQK_RS03385,KQK_RS03385,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61273113,KQK_RS03390,KQK_RS03390,-,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201227,-
+743968,61273114,KQK_RS03400,KQK_RS03400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273115,KQK_RS03410,KQK_RS03410,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273116,KQK_RS03415,KQK_RS03415,-,-,-,-,ribosome biogenesis GTP-binding protein YihA/YsxC,protein-coding,-,-,-,ribosome biogenesis GTP-binding protein YihA/YsxC,20210505,-
+743968,61273117,KQK_RS03420,KQK_RS03420,-,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20201227,-
+743968,61273118,KQK_RS03425,KQK_RS03425,-,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20201227,-
+743968,61273119,smpB,KQK_RS03430,-,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20201227,-
+743968,61273120,KQK_RS03440,KQK_RS03440,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61273121,KQK_RS03445,KQK_RS03445,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273122,KQK_RS03450,KQK_RS03450,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273123,KQK_RS03455,KQK_RS03455,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273124,KQK_RS03460,KQK_RS03460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273125,nadE,KQK_RS03465,-,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20201227,-
+743968,61273126,KQK_RS03470,KQK_RS03470,-,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20201227,-
+743968,61273127,KQK_RS03480,KQK_RS03480,-,-,-,-,DUF3899 domain-containing protein,protein-coding,-,-,-,DUF3899 domain-containing protein,20210505,-
+743968,61273128,KQK_RS03485,KQK_RS03485,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61273129,mnmA,KQK_RS03490,-,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20201227,-
+743968,61273130,KQK_RS03505,KQK_RS03505,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20201227,-
+743968,61273131,KQK_RS03510,KQK_RS03510,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273132,KQK_RS03515,KQK_RS03515,-,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201227,-
+743968,61273133,KQK_RS03520,KQK_RS03520,-,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210505,-
+743968,61273134,KQK_RS03525,KQK_RS03525,-,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20201230,-
+743968,61273135,KQK_RS03530,KQK_RS03530,-,-,-,-,tRNA,tRNA,-,-,-,-,20201227,-
+743968,61273136,KQK_RS03535,KQK_RS03535,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273137,KQK_RS03540,KQK_RS03540,-,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,ribosome-binding factor A,20201227,-
+743968,61273138,KQK_RS03545,KQK_RS03545,-,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20201227,-
+743968,61273139,KQK_RS03550,KQK_RS03550,-,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20201230,-
+743968,61273140,nusA,KQK_RS03555,-,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201227,-
+743968,61273141,KQK_RS03560,KQK_RS03560,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+743968,61273142,KQK_RS03565,KQK_RS03565,-,-,-,-,pullulanase,protein-coding,-,-,-,pullulanase,20201227,-
+743968,61273143,KQK_RS03570,KQK_RS03570,-,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201227,-
+743968,61273144,KQK_RS03575,KQK_RS03575,-,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20201227,-
+743968,61273145,alaS,KQK_RS03580,-,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20201227,-
+743968,61273146,ruvX,KQK_RS03585,-,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210505,-
+743968,61273147,KQK_RS03590,KQK_RS03590,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273148,pth,KQK_RS03595,-,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20210505,-
+743968,61273149,tilS,KQK_RS03600,-,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201227,-
+743968,61273150,ftsH,KQK_RS03605,-,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210505,-
+743968,61273151,lysS,KQK_RS03610,-,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201227,-
+743968,61273152,KQK_RS03615,KQK_RS03615,-,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201227,-
+743968,61273153,KQK_RS03620,KQK_RS03620,-,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,protein-coding,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,20201227,-
+743968,61273154,KQK_RS03630,KQK_RS03630,-,-,-,-,N-acetylneuraminate lyase,protein-coding,-,-,-,N-acetylneuraminate lyase,20201227,-
+743968,61273155,KQK_RS03635,KQK_RS03635,-,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20201227,-
+743968,61273156,KQK_RS03640,KQK_RS03640,-,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201227,-
+743968,61273157,mnmE,KQK_RS03645,-,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210505,-
+743968,61273158,KQK_RS03650,KQK_RS03650,-,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201227,-
+743968,61273159,KQK_RS03655,KQK_RS03655,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273160,KQK_RS03660,KQK_RS03660,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273161,KQK_RS03670,KQK_RS03670,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273162,lepA,KQK_RS03675,-,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210505,-
+743968,61273163,KQK_RS03680,KQK_RS03680,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273164,KQK_RS03685,KQK_RS03685,-,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201227,-
+743968,61273165,der,KQK_RS03690,-,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210505,-
+743968,61273166,cmk,KQK_RS03695,-,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201227,-
+743968,61273167,KQK_RS03700,KQK_RS03700,-,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20201227,-
+743968,61273168,dnaK,KQK_RS03705,-,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201227,-
+743968,61273169,KQK_RS03710,KQK_RS03710,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+743968,61273170,KQK_RS03715,KQK_RS03715,-,-,-,-,GIY-YIG nuclease family protein,protein-coding,-,-,-,GIY-YIG nuclease family protein,20201227,-
+743968,61273171,KQK_RS03720,KQK_RS03720,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273172,KQK_RS03725,KQK_RS03725,-,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20201227,-
+743968,61273173,KQK_RS03730,KQK_RS03730,-,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201227,-
+743968,61273174,KQK_RS03735,KQK_RS03735,-,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20201227,-
+743968,61273175,KQK_RS03740,KQK_RS03740,-,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20201227,-
+743968,61273176,KQK_RS03745,KQK_RS03745,-,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20201227,-
+743968,61273177,dnaG,KQK_RS03750,-,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20201227,-
+743968,61273178,KQK_RS03755,KQK_RS03755,-,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201227,-
+743968,61273179,ffh,KQK_RS03760,-,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201227,-
+743968,61273180,KQK_RS03765,KQK_RS03765,-,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201227,-
+743968,61273181,rpsB,KQK_RS03770,-,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210505,-
+743968,61273182,recU,KQK_RS03775,-,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20210505,-
+743968,61273183,KQK_RS03780,KQK_RS03780,-,-,-,-,ATP synthase subunit epsilon,protein-coding,-,-,-,ATP synthase subunit epsilon,20201227,-
+743968,61273184,atpD,KQK_RS03785,-,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201227,-
+743968,61273185,atpG,KQK_RS03790,-,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20201227,-
+743968,61273186,atpA,KQK_RS03795,-,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20210505,-
+743968,61273187,KQK_RS03800,KQK_RS03800,-,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20201227,-
+743968,61273188,KQK_RS03805,KQK_RS03805,-,-,-,-,ATP synthase F0 subunit B,protein-coding,-,-,-,ATP synthase F0 subunit B,20201227,-
+743968,61273189,KQK_RS03810,KQK_RS03810,-,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20201227,-
+743968,61273190,KQK_RS03815,KQK_RS03815,-,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201227,-
+743968,61273191,KQK_RS03820,KQK_RS03820,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273192,KQK_RS03825,KQK_RS03825,-,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20201227,-
+743968,61273193,KQK_RS03830,KQK_RS03830,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273194,KQK_RS03835,KQK_RS03835,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273195,KQK_RS03840,KQK_RS03840,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201230,-
+743968,61273196,obgE,KQK_RS03845,-,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201227,-
+743968,61273197,KQK_RS03850,KQK_RS03850,-,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20201227,-
+743968,61273198,recA,KQK_RS03855,-,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201230,-
+743968,61273199,KQK_RS03860,KQK_RS03860,-,-,-,-,PLDc N-terminal domain-containing protein,protein-coding,-,-,-,PLDc N-terminal domain-containing protein,20201227,-
+743968,61273200,secG,KQK_RS03865,-,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20201230,-
+743968,61273201,rnr,KQK_RS03870,-,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20201227,-
+743968,61273202,KQK_RS03875,KQK_RS03875,-,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20201230,-
+743968,61273203,KQK_RS03880,KQK_RS03880,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273204,KQK_RS03885,KQK_RS03885,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273205,KQK_RS03890,KQK_RS03890,-,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210505,-
+743968,61273206,KQK_RS03895,KQK_RS03895,-,-,-,-,DnaD domain protein,protein-coding,-,-,-,DnaD domain protein,20201227,-
+743968,61273207,KQK_RS03900,KQK_RS03900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273208,KQK_RS03905,KQK_RS03905,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273209,KQK_RS03910,KQK_RS03910,-,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20201227,-
+743968,61273210,KQK_RS03915,KQK_RS03915,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61273211,KQK_RS03920,KQK_RS03920,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201227,-
+743968,61273212,KQK_RS03925,KQK_RS03925,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61273213,KQK_RS03930,KQK_RS03930,-,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201227,-
+743968,61273214,pgsA,KQK_RS03940,-,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20201227,-
+743968,61273215,KQK_RS03945,KQK_RS03945,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273216,topA,KQK_RS03950,-,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20201227,-
+743968,61273217,rplS,KQK_RS03955,-,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20201230,-
+743968,61273218,trmD,KQK_RS03960,-,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201230,-
+743968,61273219,rpsP,KQK_RS03965,-,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210505,-
+743968,61273220,KQK_RS03970,KQK_RS03970,-,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201227,-
+743968,61273221,KQK_RS03975,KQK_RS03975,-,-,-,-,PTS transporter subunit IIC,protein-coding,-,-,-,PTS transporter subunit IIC,20201227,-
+743968,61273222,KQK_RS03980,KQK_RS03980,-,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20201230,-
+743968,61273223,KQK_RS03985,KQK_RS03985,-,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201227,-
+743968,61273224,KQK_RS03990,KQK_RS03990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273225,KQK_RS03995,KQK_RS03995,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273226,KQK_RS04000,KQK_RS04000,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273227,KQK_RS04005,KQK_RS04005,-,-,-,-,ribulose phosphate epimerase,protein-coding,-,-,-,ribulose phosphate epimerase,20201227,-
+743968,61273228,KQK_RS04010,KQK_RS04010,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273229,KQK_RS04025,KQK_RS04025,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273230,KQK_RS04035,KQK_RS04035,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273231,KQK_RS04040,KQK_RS04040,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,61273232,KQK_RS04045,KQK_RS04045,-,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20201227,-
+743968,61273233,KQK_RS04050,KQK_RS04050,-,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20201227,-
+743968,61273235,KQK_RS04075,KQK_RS04075,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273238,cas9,KQK_RS04115,-,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,protein-coding,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,20201227,-
+743968,61273239,KQK_RS04120,KQK_RS04120,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273240,KQK_RS04125,KQK_RS04125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273241,KQK_RS04135,KQK_RS04135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273242,KQK_RS04140,KQK_RS04140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273243,KQK_RS04145,KQK_RS04145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273244,KQK_RS04150,KQK_RS04150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273245,KQK_RS04155,KQK_RS04155,-,-,-,-,pseudo,pseudo,-,-,-,-,20201227,-
+743968,61273246,KQK_RS04160,KQK_RS04160,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20201227,-
+743968,61273247,KQK_RS04165,KQK_RS04165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273248,KQK_RS04170,KQK_RS04170,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273249,KQK_RS04175,KQK_RS04175,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273250,KQK_RS04180,KQK_RS04180,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273251,KQK_RS04185,KQK_RS04185,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273252,KQK_RS04190,KQK_RS04190,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+743968,61273253,KQK_RS04195,KQK_RS04195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273254,KQK_RS04200,KQK_RS04200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273255,KQK_RS04205,KQK_RS04205,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273256,KQK_RS04210,KQK_RS04210,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273257,KQK_RS04215,KQK_RS04215,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+743968,61273258,KQK_RS04220,KQK_RS04220,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273259,KQK_RS04225,KQK_RS04225,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273260,KQK_RS04230,KQK_RS04230,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201227,-
+743968,61273261,KQK_RS04235,KQK_RS04235,-,-,-,-,P110/LppT family adhesin N-terminal domain,protein-coding,-,-,-,P110/LppT family adhesin N-terminal domain,20210116,-
+743968,61970092,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Mycoplasma ovipneumoniae Y98; Mycoplasma ovipneumoniae str. ATCC 29419; Mycoplasma ovipneumoniae strain ATCC 29419).,other,-,-,-,-,20201230,-
+743968,64571830,KQK_RS04250,KQK_RS04250,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,64571831,KQK_RS04255,KQK_RS04255,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,64571832,KQK_RS04260,KQK_RS04260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,64571833,KQK_RS04265,KQK_RS04265,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,64571834,KQK_RS04270,KQK_RS04270,-,-,-,-,pseudo,pseudo,-,-,-,-,20210505,-
+743968,64571835,KQK_RS04275,KQK_RS04275,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-
+743968,64571836,KQK_RS04280,KQK_RS04280,-,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210505,-
+743968,64571837,KQK_RS04285,KQK_RS04285,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210505,-

@@ -1,0 +1,49 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+430498,22908785,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Arthrobotrys haptotyla; Dactylaria haptotyla; Dactylaria sclerohypha; Dactylella sclerohypha; Monacrosporium haptotylum; Monacrosporium sclerohyphum).,other,-,-,-,-,20210222,-
+430498,39710820,trnT(tgt),E6U01_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710821,trnE(ttc),E6U01_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710822,trnM(cat),E6U01_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710823,trnM(cat),E6U01_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710824,trnL(taa),E6U01_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710825,trnA(tgc),E6U01_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710826,trnF(gaa),E6U01_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710827,trnL(tag),E6U01_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710828,trnQ(ttg),E6U01_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710829,trnR(tct),E6U01_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710830,nad1,E6U01_mgp19,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20190604,-
+430498,39710831,trnV(tac),E6U01_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710832,trnN(gtt),E6U01_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710833,trnC(gca),E6U01_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710834,cox1,E6U01_mgp18,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20190604,-
+430498,39710835,trnR(acg),E6U01_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710836,rnpB,E6U01_mgs01,-,-,MT,-,ncRNA,ncRNA,-,-,-,-,20200909,-
+430498,39710837,orf629,E6U01_mgp17,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20190411,-
+430498,39710838,rps3,E6U01_mgp16,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20190604,-
+430498,39710839,orf590,E6U01_mgp15,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20190411,-
+430498,39710840,atp6,E6U01_mgp14,-,-,MT,-,ATP synthase F0 subunit a,protein-coding,-,-,-,ATP synthase F0 subunit a,20190606,-
+430498,39710841,nad2,E6U01_mgp13,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20190606,-
+430498,39710842,nad3,E6U01_mgp12,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20190604,-
+430498,39710843,trnR(tcg),E6U01_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710844,cox3,E6U01_mgp11,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20190604,-
+430498,39710845,cob,E6U01_mgp10,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20190604,-
+430498,39710846,nad4L,E6U01_mgp09,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20190604,-
+430498,39710847,nad5,E6U01_mgp08,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20190604,-
+430498,39710848,nad6,E6U01_mgp07,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20190604,-
+430498,39710849,cox2,E6U01_mgp06,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20190604,-
+430498,39710850,atp8,E6U01_mgp05,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20190604,-
+430498,39710851,nad4,E6U01_mgp04,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20190606,-
+430498,39710852,trnH(gtg),E6U01_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710853,trnM(cat),E6U01_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710854,trnY(gta),E6U01_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710855,atp9,E6U01_mgp03,-,-,MT,-,ATP synthase F0 subunit c,protein-coding,-,-,-,ATP synthase F0 subunit c,20190604,-
+430498,39710856,orf387,E6U01_mgp02,-,-,MT,-,transient receptor potential cation channel subfamily M member 7,protein-coding,-,-,-,transient receptor potential cation channel subfamily M member 7,20190604,-
+430498,39710857,rns,E6U01_mgr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+430498,39710858,trnK(ttt),E6U01_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710859,trnG(tcc),E6U01_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710860,trnD(gtc),E6U01_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710861,trnS(gct),E6U01_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710862,trnW(tca),E6U01_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710863,trnI(gat),E6U01_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710864,trnS(tga),E6U01_mgt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710865,trnP(tgg),E6U01_mgt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+430498,39710866,orf454,E6U01_mgp01,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20190604,-

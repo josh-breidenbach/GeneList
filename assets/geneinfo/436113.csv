@@ -1,0 +1,899 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+436113,58110038,dnaA,MMCAP2_RS00005,MMCAP2_0001,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200804,-
+436113,58110039,MMCAP2_RS00010,MMCAP2_RS00010,MMCAP2_0002,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210124,-
+436113,58110040,rnmV,MMCAP2_RS00015,MMCAP2_0003,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20200805,-
+436113,58110041,rsmA,MMCAP2_RS00020,MMCAP2_0004,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210124,-
+436113,58110042,MMCAP2_RS00025,MMCAP2_RS00025,MMCAP2_0005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110043,gyrB,MMCAP2_RS00030,MMCAP2_0006,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200805,-
+436113,58110044,gyrA,MMCAP2_RS00035,MMCAP2_0007,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20210124,-
+436113,58110045,MMCAP2_RS00040,MMCAP2_RS00040,MMCAP2_0008,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+436113,58110046,MMCAP2_RS00045,MMCAP2_RS00045,MMCAP2_0009,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200804,-
+436113,58110047,MMCAP2_RS00050,MMCAP2_RS00050,MMCAP2_0010,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200804,-
+436113,58110048,MMCAP2_RS00055,MMCAP2_RS00055,MMCAP2_0011,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20200804,-
+436113,58110049,MMCAP2_RS00060,MMCAP2_RS00060,MMCAP2_0012,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20210124,-
+436113,58110050,MMCAP2_RS00065,MMCAP2_RS00065,MMCAP2_0013,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20200805,-
+436113,58110051,MMCAP2_RS00070,MMCAP2_RS00070,MMCAP2_0014,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20200805,-
+436113,58110052,MMCAP2_RS00075,MMCAP2_RS00075,MMCAP2_0015,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20200805,-
+436113,58110053,MMCAP2_RS00080,MMCAP2_RS00080,MMCAP2_0016,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20210124,-
+436113,58110054,MMCAP2_RS00085,MMCAP2_RS00085,MMCAP2_0914,-,-,-,class A broad-spectrum beta-lactamase TEM-116,protein-coding,-,-,-,class A broad-spectrum beta-lactamase TEM-116,20210124,-
+436113,58110055,MMCAP2_RS00090,MMCAP2_RS00090,MMCAP2_916,-,-,-,IS256-like element IS256 family transposase,protein-coding,-,-,-,IS256-like element IS256 family transposase,20200805,-
+436113,58110056,hisB,MMCAP2_RS00095,MMCAP2_917,-,-,-,imidazoleglycerol-phosphate dehydratase HisB,protein-coding,-,-,-,imidazoleglycerol-phosphate dehydratase HisB,20200804,-
+436113,58110057,tet(M),MMCAP2_RS00100,MMCAP2_0913,-,-,-,tetracycline resistance ribosomal protection protein Tet(M),protein-coding,-,-,-,tetracycline resistance ribosomal protection protein Tet(M),20210124,-
+436113,58110058,lacZ,MMCAP2_RS00105,MMCAP2_0915,-,-,-,beta-galactosidase,protein-coding,-,-,-,beta-galactosidase,20210124,-
+436113,58110059,MMCAP2_RS00120,MMCAP2_RS00120,MMCAP2_0019,-,-,-,mannitol-1-phosphate 5-dehydrogenase,protein-coding,-,-,-,mannitol-1-phosphate 5-dehydrogenase,20210124,-
+436113,58110060,MMCAP2_RS00125,MMCAP2_RS00125,MMCAP2_0020,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20210124,-
+436113,58110061,MMCAP2_RS00130,MMCAP2_RS00130,MMCAP2_0021,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210124,-
+436113,58110062,srlD,MMCAP2_RS00135,MMCAP2_0022,-,-,-,sorbitol-6-phosphate dehydrogenase,protein-coding,-,-,-,sorbitol-6-phosphate dehydrogenase,20200804,-
+436113,58110063,MMCAP2_RS00140,MMCAP2_RS00140,MMCAP2_0023,-,-,-,PTS mannitol transporter subunit IICB,protein-coding,-,-,-,PTS mannitol transporter subunit IICB,20200804,-
+436113,58110064,MMCAP2_RS00150,MMCAP2_RS00150,MMCAP2_0025,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210124,-
+436113,58110065,MMCAP2_RS00155,MMCAP2_RS00155,MMCAP2_0026,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210124,-
+436113,58110066,MMCAP2_RS00160,MMCAP2_RS00160,MMCAP2_0027,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200805,-
+436113,58110067,MMCAP2_RS00165,MMCAP2_RS00165,MMCAP2_0028,-,-,-,cold-shock protein,protein-coding,-,-,-,cold-shock protein,20210124,-
+436113,58110068,MMCAP2_RS00170,MMCAP2_RS00170,MMCAP2_0029,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210124,-
+436113,58110069,MMCAP2_RS00175,MMCAP2_RS00175,MMCAP2_0030,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210124,-
+436113,58110070,MMCAP2_RS00180,MMCAP2_RS00180,MMCAP2_0031,-,-,-,Hsp33 family molecular chaperone HslO,protein-coding,-,-,-,Hsp33 family molecular chaperone HslO,20200804,-
+436113,58110071,MMCAP2_RS00185,MMCAP2_RS00185,MMCAP2_0032,-,-,-,STREFT protein,protein-coding,-,-,-,STREFT protein,20200804,-
+436113,58110072,MMCAP2_RS00190,MMCAP2_RS00190,MMCAP2_0033,-,-,-,STREFT protein,protein-coding,-,-,-,STREFT protein,20210124,-
+436113,58110073,MMCAP2_RS00195,MMCAP2_RS00195,MMCAP2_0034,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+436113,58110074,MMCAP2_RS00200,MMCAP2_RS00200,MMCAP2_0035,-,-,-,Myrrcad domain-containing protein,protein-coding,-,-,-,Myrrcad domain-containing protein,20210124,-
+436113,58110075,MMCAP2_RS00205,MMCAP2_RS00205,MMCAP2_0036,-,-,-,lactate dehydrogenase,protein-coding,-,-,-,lactate dehydrogenase,20210124,-
+436113,58110076,MMCAP2_RS00210,MMCAP2_RS00210,MMCAP2_0037,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20210124,-
+436113,58110077,ftsH,MMCAP2_RS00220,MMCAP2_0039,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210124,-
+436113,58110078,MMCAP2_RS00225,MMCAP2_RS00225,MMCAP2_0041,-,-,-,DUF3800 domain-containing protein,protein-coding,-,-,-,DUF3800 domain-containing protein,20210124,-
+436113,58110079,tilS,MMCAP2_RS00230,MMCAP2_0040,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200804,-
+436113,58110080,MMCAP2_RS00235,MMCAP2_RS00235,MMCAP2_0042,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200805,-
+436113,58110081,MMCAP2_RS00240,MMCAP2_RS00240,MMCAP2_0043,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20200804,-
+436113,58110082,MMCAP2_RS00245,MMCAP2_RS00245,MMCAP2_0044,-,-,-,DNA polymerase III delta subunit,protein-coding,-,-,-,DNA polymerase III delta subunit,20210124,-
+436113,58110083,MMCAP2_RS00250,MMCAP2_RS00250,MMCAP2_0045,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210124,-
+436113,58110084,recR,MMCAP2_RS00255,MMCAP2_0046,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200804,-
+436113,58110085,dnaX,MMCAP2_RS00260,MMCAP2_0047,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210124,-
+436113,58110086,MMCAP2_RS00265,MMCAP2_RS00265,MMCAP2_0048,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20200804,-
+436113,58110087,MMCAP2_RS00270,MMCAP2_RS00270,MMCAP2_0050,-,-,-,GMP reductase,protein-coding,-,-,-,GMP reductase,20210124,-
+436113,58110088,MMCAP2_RS00275,MMCAP2_RS00275,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110089,MMCAP2_RS00280,MMCAP2_RS00280,MMCAP2_0052,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110090,MMCAP2_RS00285,MMCAP2_RS00285,MMCAP2_0053,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200804,-
+436113,58110091,MMCAP2_RS00290,MMCAP2_RS00290,MMCAP2_0054,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20210124,-
+436113,58110092,MMCAP2_RS00295,MMCAP2_RS00295,MMCAP2_0055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110093,MMCAP2_RS00300,MMCAP2_RS00300,MMCAP2_0056,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20200804,-
+436113,58110094,MMCAP2_RS00305,MMCAP2_RS00305,MMCAP2_0057,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110095,MMCAP2_RS00310,MMCAP2_RS00310,MMCAP2_0058,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110096,ald,MMCAP2_RS00315,MMCAP2_0059,-,-,-,alanine dehydrogenase,protein-coding,-,-,-,alanine dehydrogenase,20210124,-
+436113,58110097,MMCAP2_RS00320,MMCAP2_RS00320,MMCAP2_0060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110098,serS,MMCAP2_RS00325,MMCAP2_0061,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210124,-
+436113,58110099,MMCAP2_RS00330,MMCAP2_RS00330,MMCAP2_0062,-,-,-,DUF1904 family protein,protein-coding,-,-,-,DUF1904 family protein,20210424,-
+436113,58110100,dusB,MMCAP2_RS00335,MMCAP2_0063,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20210124,-
+436113,58110101,lysS,MMCAP2_RS00340,MMCAP2_0064,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210124,-
+436113,58110102,trxA,MMCAP2_RS00345,MMCAP2_0065,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200804,-
+436113,58110103,MMCAP2_RS00350,MMCAP2_RS00350,MMCAP2_0066,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210124,-
+436113,58110104,rrf,MMCAP2_RS00355,MMCAP2_0067,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110105,MMCAP2_RS00360,MMCAP2_RS00360,MMCAP2_0068,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110106,MMCAP2_RS00365,MMCAP2_RS00365,MMCAP2_0069,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110107,MMCAP2_RS00370,MMCAP2_RS00370,MMCAP2_0070,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110108,MMCAP2_RS00375,MMCAP2_RS00375,MMCAP2_0071,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110109,MMCAP2_RS00385,MMCAP2_RS00385,MMCAP2_0073,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210124,-
+436113,58110110,phnC,MMCAP2_RS00390,MMCAP2_0074,-,-,-,phosphonate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphonate ABC transporter ATP-binding protein,20200804,-
+436113,58110111,MMCAP2_RS00395,MMCAP2_RS00395,MMCAP2_0075,-,-,-,"phosphonate ABC transporter phosphonate-binding protein,",protein-coding,-,-,-,"phosphonate ABC transporter phosphonate-binding protein,",20200804,-
+436113,58110112,asnS,MMCAP2_RS00400,MMCAP2_0076,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20210124,-
+436113,58110113,MMCAP2_RS00405,MMCAP2_RS00405,MMCAP2_0077,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210124,-
+436113,58110114,MMCAP2_RS00410,MMCAP2_RS00410,MMCAP2_0078,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200804,-
+436113,58110115,tsaD,MMCAP2_RS00415,MMCAP2_0079,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210124,-
+436113,58110116,MMCAP2_RS00420,MMCAP2_RS00420,MMCAP2_0080,-,-,-,DUF2188 domain-containing protein,protein-coding,-,-,-,DUF2188 domain-containing protein,20200805,-
+436113,58110117,mnmE,MMCAP2_RS00425,MMCAP2_0081,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210124,-
+436113,58110118,MMCAP2_RS00430,MMCAP2_RS00430,MMCAP2_0082,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20210129,-
+436113,58110119,MMCAP2_RS00440,MMCAP2_RS00440,MMCAP2_0084,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110120,MMCAP2_RS00445,MMCAP2_RS00445,MMCAP2_0085,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110121,MMCAP2_RS00450,MMCAP2_RS00450,MMCAP2_0086,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110122,MMCAP2_RS00455,MMCAP2_RS00455,MMCAP2_0087,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110123,MMCAP2_RS00460,MMCAP2_RS00460,MMCAP2_0088,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110124,MMCAP2_RS00465,MMCAP2_RS00465,MMCAP2_0089,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110125,MMCAP2_RS00470,MMCAP2_RS00470,MMCAP2_0090,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110126,MMCAP2_RS00480,MMCAP2_RS00480,MMCAP2_0092,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110127,MMCAP2_RS00485,MMCAP2_RS00485,MMCAP2_0093,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110128,MMCAP2_RS00490,MMCAP2_RS00490,MMCAP2_0094,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110129,secA,MMCAP2_RS00495,MMCAP2_0095,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200804,-
+436113,58110130,MMCAP2_RS00500,MMCAP2_RS00500,MMCAP2_0096,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210124,-
+436113,58110131,MMCAP2_RS00505,MMCAP2_RS00505,MMCAP2_0097,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200805,-
+436113,58110132,MMCAP2_RS00510,MMCAP2_RS00510,MMCAP2_0098,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20210124,-
+436113,58110133,MMCAP2_RS00515,MMCAP2_RS00515,MMCAP2_0099,-,-,-,Dam family site-specific DNA-(adenine-N6)-methyltransferase,protein-coding,-,-,-,Dam family site-specific DNA-(adenine-N6)-methyltransferase,20210124,-
+436113,58110134,MMCAP2_RS00520,MMCAP2_RS00520,MMCAP2_0100,-,-,-,AlwI family type II restriction endonuclease,protein-coding,-,-,-,AlwI family type II restriction endonuclease,20200805,-
+436113,58110135,MMCAP2_RS00525,MMCAP2_RS00525,MMCAP2_0101,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200805,-
+436113,58110136,MMCAP2_RS00530,MMCAP2_RS00530,MMCAP2_0102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110137,coaE,MMCAP2_RS00535,MMCAP2_0103,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210124,-
+436113,58110138,MMCAP2_RS00540,MMCAP2_RS00540,MMCAP2_0104,-,-,-,TlyA family RNA methyltransferase,protein-coding,-,-,-,TlyA family RNA methyltransferase,20210124,-
+436113,58110139,xseB,MMCAP2_RS00545,MMCAP2_0105,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20200804,-
+436113,58110140,xseA,MMCAP2_RS00550,MMCAP2_0106,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20210124,-
+436113,58110141,nusB,MMCAP2_RS00555,MMCAP2_0107,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210124,-
+436113,58110142,MMCAP2_RS00560,MMCAP2_RS00560,MMCAP2_0108,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200803,-
+436113,58110143,MMCAP2_RS00565,MMCAP2_RS00565,MMCAP2_0109,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200804,-
+436113,58110144,MMCAP2_RS00570,MMCAP2_RS00570,MMCAP2_0110,-,-,-,riboflavin kinase,protein-coding,-,-,-,riboflavin kinase,20210124,-
+436113,58110145,MMCAP2_RS00575,MMCAP2_RS00575,MMCAP2_0111,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110146,MMCAP2_RS00580,MMCAP2_RS00580,MMCAP2_0112,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20200804,-
+436113,58110147,MMCAP2_RS00585,MMCAP2_RS00585,MMCAP2_0113,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20200804,-
+436113,58110148,MMCAP2_RS00590,MMCAP2_RS00590,MMCAP2_0114,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210124,-
+436113,58110149,MMCAP2_RS00595,MMCAP2_RS00595,MMCAP2_0115,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20210124,-
+436113,58110150,MMCAP2_RS00600,MMCAP2_RS00600,MMCAP2_0116,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110151,plsY,MMCAP2_RS00605,MMCAP2_0117,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20200804,-
+436113,58110152,MMCAP2_RS00610,MMCAP2_RS00610,MMCAP2_0118,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20210124,-
+436113,58110153,MMCAP2_RS00615,MMCAP2_RS00615,MMCAP2_0119,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200805,-
+436113,58110154,MMCAP2_RS00620,MMCAP2_RS00620,MMCAP2_0120,-,-,-,threonine ammonia-lyase,protein-coding,-,-,-,threonine ammonia-lyase,20200805,-
+436113,58110155,MMCAP2_RS00625,MMCAP2_RS00625,MMCAP2_0121,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110156,MMCAP2_RS00630,MMCAP2_RS00630,MMCAP2_0122,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210124,-
+436113,58110157,MMCAP2_RS00635,MMCAP2_RS00635,MMCAP2_0123,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110158,MMCAP2_RS00640,MMCAP2_RS00640,MMCAP2_0124,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200804,-
+436113,58110159,MMCAP2_RS00645,MMCAP2_RS00645,MMCAP2_0125,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200805,-
+436113,58110160,MMCAP2_RS00650,MMCAP2_RS00650,MMCAP2_0126,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+436113,58110161,MMCAP2_RS00655,MMCAP2_RS00655,MMCAP2_0127,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20210124,-
+436113,58110162,MMCAP2_RS00660,MMCAP2_RS00660,MMCAP2_0128,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20200805,-
+436113,58110163,MMCAP2_RS00665,MMCAP2_RS00665,MMCAP2_0129,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200805,-
+436113,58110164,MMCAP2_RS00670,MMCAP2_RS00670,MMCAP2_0130,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200805,-
+436113,58110165,fba,MMCAP2_RS00675,MMCAP2_0131,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200805,-
+436113,58110166,MMCAP2_RS00680,MMCAP2_RS00680,MMCAP2_0132,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200805,-
+436113,58110167,MMCAP2_RS00685,MMCAP2_RS00685,MMCAP2_0133,-,-,-,S8 family peptidase,protein-coding,-,-,-,S8 family peptidase,20210124,-
+436113,58110168,MMCAP2_RS00690,MMCAP2_RS00690,MMCAP2_0134,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210124,-
+436113,58110169,MMCAP2_RS00695,MMCAP2_RS00695,MMCAP2_0136,-,-,-,glycerophosphodiester phosphodiesterase,protein-coding,-,-,-,glycerophosphodiester phosphodiesterase,20210424,-
+436113,58110170,rpmE,MMCAP2_RS00700,MMCAP2_0137,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200805,-
+436113,58110171,MMCAP2_RS00705,MMCAP2_RS00705,MMCAP2_0138,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110172,MMCAP2_RS00710,MMCAP2_RS00710,MMCAP2_0139,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200805,-
+436113,58110173,MMCAP2_RS00715,MMCAP2_RS00715,MMCAP2_0140,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20200805,-
+436113,58110174,prfA,MMCAP2_RS00720,MMCAP2_0141,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200805,-
+436113,58110175,prmC,MMCAP2_RS00725,MMCAP2_0142,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200805,-
+436113,58110176,MMCAP2_RS00730,MMCAP2_RS00730,MMCAP2_0143,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110177,MMCAP2_RS00735,MMCAP2_RS00735,MMCAP2_0144,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20200805,-
+436113,58110178,MMCAP2_RS00740,MMCAP2_RS00740,MMCAP2_0145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110179,MMCAP2_RS00745,MMCAP2_RS00745,MMCAP2_0146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110180,cls,MMCAP2_RS00750,MMCAP2_0147,-,-,-,cardiolipin synthase,protein-coding,-,-,-,cardiolipin synthase,20200805,-
+436113,58110181,rpsL,MMCAP2_RS00755,MMCAP2_0148,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20210124,-
+436113,58110182,rpsG,MMCAP2_RS00760,MMCAP2_0149,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+436113,58110183,fusA,MMCAP2_RS00765,MMCAP2_0150,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210124,-
+436113,58110184,tuf,MMCAP2_RS00770,MMCAP2_0151,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210124,-
+436113,58110185,MMCAP2_RS00775,MMCAP2_RS00775,MMCAP2_0152,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200805,-
+436113,58110186,MMCAP2_RS00780,MMCAP2_RS00780,MMCAP2_0153,-,-,-,alpha-xylosidase,protein-coding,-,-,-,alpha-xylosidase,20210124,-
+436113,58110187,MMCAP2_RS00785,MMCAP2_RS00785,MMCAP2_0154,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210124,-
+436113,58110188,MMCAP2_RS00790,MMCAP2_RS00790,MMCAP2_0155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110189,trmB,MMCAP2_RS00795,MMCAP2_0156,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20210124,-
+436113,58110190,mgtE,MMCAP2_RS00800,MMCAP2_0157,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20210124,-
+436113,58110191,MMCAP2_RS00810,MMCAP2_RS00810,MMCAP2_0160,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110192,MMCAP2_RS00815,MMCAP2_RS00815,MMCAP2_0161,-,-,-,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein,protein-coding,-,-,-,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein,20210124,-
+436113,58110193,MMCAP2_RS00820,MMCAP2_RS00820,MMCAP2_0162,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110194,alaS,MMCAP2_RS00825,MMCAP2_0163,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200804,-
+436113,58110195,MMCAP2_RS00830,MMCAP2_RS00830,MMCAP2_0164,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110196,MMCAP2_RS00835,MMCAP2_RS00835,MMCAP2_0165,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+436113,58110197,MMCAP2_RS00840,MMCAP2_RS00840,MMCAP2_0166,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110198,MMCAP2_RS00845,MMCAP2_RS00845,MMCAP2_0167,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210124,-
+436113,58110199,MMCAP2_RS00850,MMCAP2_RS00850,MMCAP2_0168,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210124,-
+436113,58110200,MMCAP2_RS00855,MMCAP2_RS00855,MMCAP2_0169,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200805,-
+436113,58110201,MMCAP2_RS00860,MMCAP2_RS00860,MMCAP2_0170,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200804,-
+436113,58110202,MMCAP2_RS00865,MMCAP2_RS00865,MMCAP2_0171,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200804,-
+436113,58110203,MMCAP2_RS00870,MMCAP2_RS00870,MMCAP2_0172,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200805,-
+436113,58110204,MMCAP2_RS00875,MMCAP2_RS00875,MMCAP2_0173,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20210124,-
+436113,58110205,MMCAP2_RS00880,MMCAP2_RS00880,MMCAP2_0175,-,-,-,LppA family lipoprotein,protein-coding,-,-,-,LppA family lipoprotein,20210124,-
+436113,58110206,pgmB,MMCAP2_RS00885,MMCAP2_0176,-,-,-,beta-phosphoglucomutase,protein-coding,-,-,-,beta-phosphoglucomutase,20200804,-
+436113,58110207,MMCAP2_RS00890,MMCAP2_RS00890,MMCAP2_0177,-,-,-,alpha-glycosidase,protein-coding,-,-,-,alpha-glycosidase,20200804,-
+436113,58110208,MMCAP2_RS00895,MMCAP2_RS00895,MMCAP2_0178,-,-,-,alpha-glycosidase,protein-coding,-,-,-,alpha-glycosidase,20200804,-
+436113,58110209,MMCAP2_RS00900,MMCAP2_RS00900,MMCAP2_0179,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110210,MMCAP2_RS00905,MMCAP2_RS00905,MMCAP2_0180,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110211,MMCAP2_RS00910,MMCAP2_RS00910,MMCAP2_0181,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110212,MMCAP2_RS00915,MMCAP2_RS00915,MMCAP2_0182,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200804,-
+436113,58110213,MMCAP2_RS00920,MMCAP2_RS00920,MMCAP2_0183,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20200805,-
+436113,58110214,MMCAP2_RS00925,MMCAP2_RS00925,MMCAP2_0184,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110215,MMCAP2_RS00930,MMCAP2_RS00930,MMCAP2_0185,-,-,-,glycoside hydrolase family 65 protein,protein-coding,-,-,-,glycoside hydrolase family 65 protein,20200805,-
+436113,58110216,MMCAP2_RS00935,MMCAP2_RS00935,MMCAP2_0186,-,-,-,alpha-glucosidase,protein-coding,-,-,-,alpha-glucosidase,20210124,-
+436113,58110217,MMCAP2_RS00940,MMCAP2_RS00940,MMCAP2_0187,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20210124,-
+436113,58110218,pepF,MMCAP2_RS00945,MMCAP2_0188,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20200804,-
+436113,58110219,MMCAP2_RS00950,MMCAP2_RS00950,MMCAP2_0189,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110220,MMCAP2_RS00955,MMCAP2_RS00955,MMCAP2_0190,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210124,-
+436113,58110221,MMCAP2_RS00960,MMCAP2_RS00960,MMCAP2_0191,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110222,MMCAP2_RS00965,MMCAP2_RS00965,MMCAP2_0192,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20200805,-
+436113,58110223,MMCAP2_RS00970,MMCAP2_RS00970,MMCAP2_0193,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20200805,-
+436113,58110224,MMCAP2_RS00975,MMCAP2_RS00975,MMCAP2_0194,-,-,-,Abi family protein,protein-coding,-,-,-,Abi family protein,20210424,-
+436113,58110225,MMCAP2_RS00980,MMCAP2_RS00980,MMCAP2_0195,-,-,-,extracellular solute-binding protein,protein-coding,-,-,-,extracellular solute-binding protein,20200804,-
+436113,58110226,MMCAP2_RS00985,MMCAP2_RS00985,MMCAP2_0196,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200804,-
+436113,58110227,MMCAP2_RS00990,MMCAP2_RS00990,MMCAP2_0197,-,-,-,spermidine/putrescine ABC transporter ATP-binding protein,protein-coding,-,-,-,spermidine/putrescine ABC transporter ATP-binding protein,20210124,-
+436113,58110228,rplT,MMCAP2_RS00995,MMCAP2_0198,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20210124,-
+436113,58110229,rpmI,MMCAP2_RS01000,MMCAP2_0199,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20210124,-
+436113,58110230,MMCAP2_RS01005,MMCAP2_RS01005,MMCAP2_0200,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210124,-
+436113,58110231,def,MMCAP2_RS01010,MMCAP2_0201,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200804,-
+436113,58110232,rsmD,MMCAP2_RS01015,MMCAP2_0202,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20200804,-
+436113,58110233,gmk,MMCAP2_RS01020,MMCAP2_0203,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20210124,-
+436113,58110234,rsmB,MMCAP2_RS01025,MMCAP2_0204,-,-,-,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB,protein-coding,-,-,-,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB,20200804,-
+436113,58110235,typA,MMCAP2_RS01030,MMCAP2_0205,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20210124,-
+436113,58110236,MMCAP2_RS01035,MMCAP2_RS01035,MMCAP2_0206,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110237,MMCAP2_RS01040,MMCAP2_RS01040,MMCAP2_0207,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20200805,-
+436113,58110238,MMCAP2_RS01045,MMCAP2_RS01045,MMCAP2_0208,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20200805,-
+436113,58110239,murQ,MMCAP2_RS01050,MMCAP2_0209,-,-,-,N-acetylmuramic acid 6-phosphate etherase,protein-coding,-,-,-,N-acetylmuramic acid 6-phosphate etherase,20200804,-
+436113,58110240,MMCAP2_RS01055,MMCAP2_RS01055,MMCAP2_0210,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200804,-
+436113,58110241,MMCAP2_RS01060,MMCAP2_RS01060,MMCAP2_0211,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200804,-
+436113,58110242,eno,MMCAP2_RS01070,MMCAP2_0213,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200805,-
+436113,58110243,MMCAP2_RS01075,MMCAP2_RS01075,MMCAP2_0214,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20210124,-
+436113,58110244,ruvX,MMCAP2_RS01080,MMCAP2_0215,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210124,-
+436113,58110245,hpt,MMCAP2_RS01085,MMCAP2_0216,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200805,-
+436113,58110246,MMCAP2_RS01090,MMCAP2_RS01090,MMCAP2_0217,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20200804,-
+436113,58110247,glpK,MMCAP2_RS01095,MMCAP2_0218,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20200805,-
+436113,58110248,glpO,MMCAP2_RS01100,MMCAP2_0219,-,-,-,type 2 glycerol-3-phosphate oxidase,protein-coding,-,-,-,type 2 glycerol-3-phosphate oxidase,20200804,-
+436113,58110249,pfkA,MMCAP2_RS01105,MMCAP2_0220,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20210124,-
+436113,58110250,pyk,MMCAP2_RS01110,MMCAP2_0221,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20210124,-
+436113,58110251,thrS,MMCAP2_RS01115,MMCAP2_0222,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200805,-
+436113,58110252,MMCAP2_RS01120,MMCAP2_RS01120,MMCAP2_0223,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200912,-
+436113,58110253,MMCAP2_RS01125,MMCAP2_RS01125,MMCAP2_0224,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20200805,-
+436113,58110254,pdhA,MMCAP2_RS01130,MMCAP2_0225,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200805,-
+436113,58110255,MMCAP2_RS01135,MMCAP2_RS01135,MMCAP2_0226,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200805,-
+436113,58110256,MMCAP2_RS01140,MMCAP2_RS01140,MMCAP2_0227,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20210124,-
+436113,58110257,lpdA,MMCAP2_RS01145,MMCAP2_0228,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200805,-
+436113,58110258,pta,MMCAP2_RS01150,MMCAP2_0229,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20210124,-
+436113,58110259,MMCAP2_RS01155,MMCAP2_RS01155,MMCAP2_0230,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20200805,-
+436113,58110260,MMCAP2_RS01160,MMCAP2_RS01160,MMCAP2_0231,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110261,MMCAP2_RS01165,MMCAP2_RS01165,MMCAP2_0232,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20200805,-
+436113,58110262,ptsP,MMCAP2_RS01170,MMCAP2_0233,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200805,-
+436113,58110263,MMCAP2_RS01175,MMCAP2_RS01175,MMCAP2_0234,-,-,-,PTS glucose transporter subunit IIA,protein-coding,-,-,-,PTS glucose transporter subunit IIA,20210124,-
+436113,58110264,dhaL,MMCAP2_RS01185,MMCAP2_0236,-,-,-,dihydroxyacetone kinase subunit L,protein-coding,-,-,-,dihydroxyacetone kinase subunit L,20210124,-
+436113,58110265,MMCAP2_RS01190,MMCAP2_RS01190,MMCAP2_0237,-,-,-,PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM,protein-coding,-,-,-,PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM,20210124,-
+436113,58110266,rpsD,MMCAP2_RS01195,MMCAP2_0238,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200805,-
+436113,58110267,MMCAP2_RS01200,MMCAP2_RS01200,MMCAP2_0239,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110268,thiI,MMCAP2_RS01205,MMCAP2_0240,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20210124,-
+436113,58110269,MMCAP2_RS01210,MMCAP2_RS01210,MMCAP2_0241,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20200805,-
+436113,58110270,MMCAP2_RS01220,MMCAP2_RS01220,MMCAP2_0243,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210124,-
+436113,58110271,MMCAP2_RS01225,MMCAP2_RS01225,MMCAP2_0244,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210124,-
+436113,58110272,MMCAP2_RS01230,MMCAP2_RS01230,MMCAP2_0245,-,-,-,PTS sugar transporter subunit IIC,protein-coding,-,-,-,PTS sugar transporter subunit IIC,20200804,-
+436113,58110273,MMCAP2_RS01235,MMCAP2_RS01235,MMCAP2_0246,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20210124,-
+436113,58110274,MMCAP2_RS01240,MMCAP2_RS01240,MMCAP2_0247,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20210124,-
+436113,58110275,MMCAP2_RS01245,MMCAP2_RS01245,MMCAP2_0248,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110276,MMCAP2_RS01250,MMCAP2_RS01250,MMCAP2_0249,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110277,MMCAP2_RS01255,MMCAP2_RS01255,MMCAP2_0250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110278,MMCAP2_RS01260,MMCAP2_RS01260,MMCAP2_0251,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110279,MMCAP2_RS01265,MMCAP2_RS01265,MMCAP2_0252,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200804,-
+436113,58110280,greA,MMCAP2_RS01270,MMCAP2_0253,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200805,-
+436113,58110281,uvrC,MMCAP2_RS01275,MMCAP2_0254,-,-,-,excinuclease ABC subunit C,protein-coding,-,-,-,excinuclease ABC subunit C,20210124,-
+436113,58110282,MMCAP2_RS01280,MMCAP2_RS01280,MMCAP2_0255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110283,MMCAP2_RS01285,MMCAP2_RS01285,MMCAP2_0256,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200804,-
+436113,58110284,MMCAP2_RS01290,MMCAP2_RS01290,MMCAP2_0257,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20210124,-
+436113,58110285,MMCAP2_RS01295,MMCAP2_RS01295,MMCAP2_0258,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200804,-
+436113,58110286,MMCAP2_RS01300,MMCAP2_RS01300,MMCAP2_0259,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20200804,-
+436113,58110287,MMCAP2_RS01305,MMCAP2_RS01305,MMCAP2_0260,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20210124,-
+436113,58110288,MMCAP2_RS01310,MMCAP2_RS01310,MMCAP2_0261,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20210124,-
+436113,58110289,rpe,MMCAP2_RS01315,MMCAP2_0262,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200804,-
+436113,58110290,rsgA,MMCAP2_RS01320,MMCAP2_0263,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20200805,-
+436113,58110291,MMCAP2_RS01325,MMCAP2_RS01325,MMCAP2_0264,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200804,-
+436113,58110292,MMCAP2_RS01335,MMCAP2_RS01335,MMCAP2_0269,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110293,tsaE,MMCAP2_RS01340,MMCAP2_0270,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210403,-
+436113,58110294,tsaB,MMCAP2_RS01345,MMCAP2_0271,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200805,-
+436113,58110295,MMCAP2_RS01355,MMCAP2_RS01355,MMCAP2_0273,-,-,-,STREFT protein,protein-coding,-,-,-,STREFT protein,20210124,-
+436113,58110296,MMCAP2_RS01365,MMCAP2_RS01365,MMCAP2_0275,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110297,MMCAP2_RS01370,MMCAP2_RS01370,MMCAP2_0276,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200803,-
+436113,58110298,MMCAP2_RS01375,MMCAP2_RS01375,MMCAP2_0277,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110299,MMCAP2_RS01380,MMCAP2_RS01380,MMCAP2_0278,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200804,-
+436113,58110300,MMCAP2_RS01385,MMCAP2_RS01385,MMCAP2_0279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110301,MMCAP2_RS01390,MMCAP2_RS01390,MMCAP2_0280,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110302,MMCAP2_RS01395,MMCAP2_RS01395,MMCAP2_0281,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110303,MMCAP2_RS01400,MMCAP2_RS01400,MMCAP2_0282,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210124,-
+436113,58110304,MMCAP2_RS01405,MMCAP2_RS01405,MMCAP2_0283,-,-,-,viroplasmin family protein,protein-coding,-,-,-,viroplasmin family protein,20210124,-
+436113,58110305,MMCAP2_RS01410,MMCAP2_RS01410,MMCAP2_0284,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110306,lepA,MMCAP2_RS01415,MMCAP2_0285,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200805,-
+436113,58110307,MMCAP2_RS01420,MMCAP2_RS01420,MMCAP2_0286,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110308,aspS,MMCAP2_RS01425,MMCAP2_0287,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20210124,-
+436113,58110309,MMCAP2_RS01430,MMCAP2_RS01430,MMCAP2_0288,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210124,-
+436113,58110310,rbfA,MMCAP2_RS01435,MMCAP2_0289,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200805,-
+436113,58110311,truB,MMCAP2_RS01440,MMCAP2_0290,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210124,-
+436113,58110312,MMCAP2_RS01445,MMCAP2_RS01445,MMCAP2_0291,-,-,-,adenylyltransferase/cytidyltransferase family protein,protein-coding,-,-,-,adenylyltransferase/cytidyltransferase family protein,20210124,-
+436113,58110313,MMCAP2_RS01450,MMCAP2_RS01450,MMCAP2_0292,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20200804,-
+436113,58110314,rpsO,MMCAP2_RS01460,MMCAP2_0294,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+436113,58110315,MMCAP2_RS01465,MMCAP2_RS01465,MMCAP2_0295,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110316,MMCAP2_RS01470,MMCAP2_RS01470,MMCAP2_0296,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110317,MMCAP2_RS01475,MMCAP2_RS01475,MMCAP2_0297,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20210124,-
+436113,58110318,MMCAP2_RS01480,MMCAP2_RS01480,MMCAP2_0298,-,-,-,ribosomal L7Ae/L30e/S12e/Gadd45 family protein,protein-coding,-,-,-,ribosomal L7Ae/L30e/S12e/Gadd45 family protein,20210124,-
+436113,58110319,MMCAP2_RS01485,MMCAP2_RS01485,MMCAP2_0299,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20210417,-
+436113,58110320,nusA,MMCAP2_RS01490,MMCAP2_0300,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200804,-
+436113,58110321,rimP,MMCAP2_RS01495,MMCAP2_0301,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20210124,-
+436113,58110322,MMCAP2_RS01500,MMCAP2_RS01500,MMCAP2_0302,-,-,-,nitroreductase family protein,protein-coding,-,-,-,nitroreductase family protein,20210124,-
+436113,58110323,MMCAP2_RS01505,MMCAP2_RS01505,MMCAP2_0303,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20200804,-
+436113,58110324,MMCAP2_RS01510,MMCAP2_RS01510,MMCAP2_0304,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210124,-
+436113,58110325,MMCAP2_RS01515,MMCAP2_RS01515,MMCAP2_0305,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210403,-
+436113,58110326,trpS,MMCAP2_RS01530,MMCAP2_0308,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200805,-
+436113,58110327,MMCAP2_RS01535,MMCAP2_RS01535,MMCAP2_0309,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110328,MMCAP2_RS01540,MMCAP2_RS01540,MMCAP2_0310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110329,MMCAP2_RS01545,MMCAP2_RS01545,MMCAP2_0311,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20200804,-
+436113,58110330,trmFO,MMCAP2_RS01555,MMCAP2_0313,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,protein-coding,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,20200805,-
+436113,58110331,MMCAP2_RS01560,MMCAP2_RS01560,MMCAP2_0314,-,-,-,folate family ECF transporter S component,protein-coding,-,-,-,folate family ECF transporter S component,20210424,-
+436113,58110332,MMCAP2_RS01565,MMCAP2_RS01565,MMCAP2_0315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110333,tkt,MMCAP2_RS01570,MMCAP2_0316,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20210124,-
+436113,58110334,MMCAP2_RS01575,MMCAP2_RS01575,MMCAP2_0317,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20210124,-
+436113,58110335,MMCAP2_RS01580,MMCAP2_RS01580,MMCAP2_0318,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110336,MMCAP2_RS01590,MMCAP2_RS01590,MMCAP2_0320,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210124,-
+436113,58110337,MMCAP2_RS01605,MMCAP2_RS01605,MMCAP2_0323,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110338,MMCAP2_RS01610,MMCAP2_RS01610,MMCAP2_0324,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200926,-
+436113,58110339,MMCAP2_RS01615,MMCAP2_RS01615,MMCAP2_0325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110340,MMCAP2_RS01620,MMCAP2_RS01620,MMCAP2_0326,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110341,MMCAP2_RS01625,MMCAP2_RS01625,MMCAP2_0327,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20210124,-
+436113,58110342,scpB,MMCAP2_RS01630,MMCAP2_0328,-,-,-,SMC-Scp complex subunit ScpB,protein-coding,-,-,-,SMC-Scp complex subunit ScpB,20200805,-
+436113,58110343,MMCAP2_RS01635,MMCAP2_RS01635,MMCAP2_0329,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200805,-
+436113,58110344,MMCAP2_RS01640,MMCAP2_RS01640,MMCAP2_0330,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210124,-
+436113,58110345,MMCAP2_RS01645,MMCAP2_RS01645,MMCAP2_0331,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210124,-
+436113,58110346,MMCAP2_RS01650,MMCAP2_RS01650,MMCAP2_0332,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110347,MMCAP2_RS01655,MMCAP2_RS01655,MMCAP2_0333,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110348,MMCAP2_RS01660,MMCAP2_RS01660,MMCAP2_0334,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110349,MMCAP2_RS01665,MMCAP2_RS01665,MMCAP2_0335,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110350,MMCAP2_RS01670,MMCAP2_RS01670,MMCAP2_0336,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210124,-
+436113,58110351,MMCAP2_RS01675,MMCAP2_RS01675,MMCAP2_0337,-,-,-,PTS ascorbate-specific subunit IIBC,protein-coding,-,-,-,PTS ascorbate-specific subunit IIBC,20200805,-
+436113,58110352,MMCAP2_RS01680,MMCAP2_RS01680,MMCAP2_0338,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110353,MMCAP2_RS01685,MMCAP2_RS01685,MMCAP2_0339,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200804,-
+436113,58110354,MMCAP2_RS01690,MMCAP2_RS01690,MMCAP2_0340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110355,MMCAP2_RS01695,MMCAP2_RS01695,MMCAP2_0341,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110356,MMCAP2_RS01700,MMCAP2_RS01700,MMCAP2_0342,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110357,MMCAP2_RS01705,MMCAP2_RS01705,MMCAP2_0343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110358,MMCAP2_RS01710,MMCAP2_RS01710,MMCAP2_0344,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210124,-
+436113,58110359,MMCAP2_RS01715,MMCAP2_RS01715,MMCAP2_0345,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20210124,-
+436113,58110360,MMCAP2_RS01720,MMCAP2_RS01720,MMCAP2_0346,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110361,cmk,MMCAP2_RS01725,MMCAP2_0347,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+436113,58110362,der,MMCAP2_RS01730,MMCAP2_0348,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200805,-
+436113,58110363,MMCAP2_RS01735,MMCAP2_RS01735,MMCAP2_0349,-,-,-,glycerol-3-phosphate dehydrogenase (NAD(P)(+)),protein-coding,-,-,-,glycerol-3-phosphate dehydrogenase (NAD(P)(+)),20210124,-
+436113,58110364,MMCAP2_RS01740,MMCAP2_RS01740,MMCAP2_0350,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200805,-
+436113,58110365,MMCAP2_RS01745,MMCAP2_RS01745,MMCAP2_0352,-,-,-,DnaD family protein,protein-coding,-,-,-,DnaD family protein,20210124,-
+436113,58110366,MMCAP2_RS01750,MMCAP2_RS01750,MMCAP2_0351,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20200804,-
+436113,58110367,MMCAP2_RS01755,MMCAP2_RS01755,MMCAP2_0353,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20200805,-
+436113,58110368,MMCAP2_RS01760,MMCAP2_RS01760,MMCAP2_0354,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210403,-
+436113,58110369,MMCAP2_RS01765,MMCAP2_RS01765,MMCAP2_0355,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20200805,-
+436113,58110370,MMCAP2_RS01770,MMCAP2_RS01770,MMCAP2_0357,-,-,-,nicotinamide-nucleotide amidohydrolase family protein,protein-coding,-,-,-,nicotinamide-nucleotide amidohydrolase family protein,20200805,-
+436113,58110371,recA,MMCAP2_RS01775,MMCAP2_0358,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200805,-
+436113,58110372,rny,MMCAP2_RS01780,MMCAP2_0359,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20210124,-
+436113,58110373,ffh,MMCAP2_RS01785,MMCAP2_0360,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200805,-
+436113,58110374,MMCAP2_RS01790,MMCAP2_RS01790,MMCAP2_0361,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20210124,-
+436113,58110375,rpsP,MMCAP2_RS01795,MMCAP2_0362,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210124,-
+436113,58110376,rimM,MMCAP2_RS01800,MMCAP2_0363,-,-,-,16S rRNA processing protein RimM,protein-coding,-,-,-,16S rRNA processing protein RimM,20200805,-
+436113,58110377,trmD,MMCAP2_RS01805,MMCAP2_0364,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200805,-
+436113,58110378,rplS,MMCAP2_RS01810,MMCAP2_0365,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200805,-
+436113,58110379,ylqF,MMCAP2_RS01815,MMCAP2_0366,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200805,-
+436113,58110380,MMCAP2_RS01820,MMCAP2_RS01820,MMCAP2_0367,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20210124,-
+436113,58110381,MMCAP2_RS01825,MMCAP2_RS01825,MMCAP2_0368,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200804,-
+436113,58110382,MMCAP2_RS01830,MMCAP2_RS01830,MMCAP2_0369,-,-,-,YeeE/YedE family protein,protein-coding,-,-,-,YeeE/YedE family protein,20210124,-
+436113,58110383,MMCAP2_RS01835,MMCAP2_RS01835,MMCAP2_0370,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210124,-
+436113,58110384,MMCAP2_RS01840,MMCAP2_RS01840,MMCAP2_0371,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110385,MMCAP2_RS01845,MMCAP2_RS01845,MMCAP2_0372,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210124,-
+436113,58110386,MMCAP2_RS01850,MMCAP2_RS01850,MMCAP2_0373,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110387,MMCAP2_RS01855,MMCAP2_RS01855,MMCAP2_0374,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110388,MMCAP2_RS01860,MMCAP2_RS01860,MMCAP2_0375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110389,MMCAP2_RS01865,MMCAP2_RS01865,MMCAP2_0376,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110390,obgE,MMCAP2_RS01870,MMCAP2_0377,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200805,-
+436113,58110391,nadE,MMCAP2_RS01875,MMCAP2_0378,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20200804,-
+436113,58110392,MMCAP2_RS01880,MMCAP2_RS01880,MMCAP2_0379,-,-,-,TIGR04561 family membrane protein,protein-coding,-,-,-,TIGR04561 family membrane protein,20200805,-
+436113,58110393,MMCAP2_RS01885,MMCAP2_RS01885,MMCAP2_0380,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20210124,-
+436113,58110394,mtnN,MMCAP2_RS01890,MMCAP2_0381,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20200805,-
+436113,58110395,MMCAP2_RS01895,MMCAP2_RS01895,MMCAP2_0382,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200805,-
+436113,58110396,MMCAP2_RS01900,MMCAP2_RS01900,MMCAP2_0383,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110397,MMCAP2_RS01905,MMCAP2_RS01905,MMCAP2_0384,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110398,MMCAP2_RS01910,MMCAP2_RS01910,MMCAP2_0385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110399,MMCAP2_RS01915,MMCAP2_RS01915,MMCAP2_0386,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110400,mnmA,MMCAP2_RS01920,MMCAP2_0387,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200805,-
+436113,58110401,MMCAP2_RS01925,MMCAP2_RS01925,MMCAP2_0388,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110402,MMCAP2_RS01930,MMCAP2_RS01930,MMCAP2_0389,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20210124,-
+436113,58110403,MMCAP2_RS01935,MMCAP2_RS01935,MMCAP2_0390,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210124,-
+436113,58110404,efp,MMCAP2_RS01940,MMCAP2_0391,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+436113,58110405,MMCAP2_RS01945,MMCAP2_RS01945,MMCAP2_0392,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110406,tig,MMCAP2_RS01950,MMCAP2_0393,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200805,-
+436113,58110407,lon,MMCAP2_RS01955,MMCAP2_0394,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210124,-
+436113,58110408,MMCAP2_RS01960,MMCAP2_RS01960,MMCAP2_0395,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20210124,-
+436113,58110409,MMCAP2_RS01965,MMCAP2_RS01965,MMCAP2_0396,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110410,MMCAP2_RS01970,MMCAP2_RS01970,MMCAP2_0397,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110411,MMCAP2_RS01975,MMCAP2_RS01975,MMCAP2_0398,-,-,-,MOLPALP family lipoprotein,protein-coding,-,-,-,MOLPALP family lipoprotein,20200804,-
+436113,58110412,MMCAP2_RS01980,MMCAP2_RS01980,MMCAP2_0399,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200804,-
+436113,58110413,MMCAP2_RS01985,MMCAP2_RS01985,MMCAP2_0400,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20210124,-
+436113,58110414,MMCAP2_RS01990,MMCAP2_RS01990,MMCAP2_0401,-,-,-,peptidase C39,protein-coding,-,-,-,peptidase C39,20200804,-
+436113,58110415,ybeY,MMCAP2_RS01995,MMCAP2_0402,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210424,-
+436113,58110416,era,MMCAP2_RS02000,MMCAP2_0403,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20200805,-
+436113,58110417,recO,MMCAP2_RS02005,MMCAP2_0404,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200805,-
+436113,58110418,MMCAP2_RS02010,MMCAP2_RS02010,MMCAP2_0405,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210124,-
+436113,58110419,dnaG,MMCAP2_RS02015,MMCAP2_0406,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200805,-
+436113,58110420,MMCAP2_RS02020,MMCAP2_RS02020,MMCAP2_0407,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20200804,-
+436113,58110421,MMCAP2_RS02025,MMCAP2_RS02025,MMCAP2_0408,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20210124,-
+436113,58110422,MMCAP2_RS02030,MMCAP2_RS02030,MMCAP2_0409,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210124,-
+436113,58110423,MMCAP2_RS02035,MMCAP2_RS02035,MMCAP2_0410,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200805,-
+436113,58110424,MMCAP2_RS02040,MMCAP2_RS02040,MMCAP2_0411,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200805,-
+436113,58110425,MMCAP2_RS02050,MMCAP2_RS02050,MMCAP2_0413,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200805,-
+436113,58110426,MMCAP2_RS02055,MMCAP2_RS02055,MMCAP2_0414,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200805,-
+436113,58110427,MMCAP2_RS02060,MMCAP2_RS02060,MMCAP2_0415,-,-,-,chromosome segregation protein SMC,protein-coding,-,-,-,chromosome segregation protein SMC,20200805,-
+436113,58110428,MMCAP2_RS02065,MMCAP2_RS02065,MMCAP2_0416,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110429,MMCAP2_RS02070,MMCAP2_RS02070,MMCAP2_0417,-,-,-,DUF4065 domain-containing protein,protein-coding,-,-,-,DUF4065 domain-containing protein,20210124,-
+436113,58110430,rnc,MMCAP2_RS02075,MMCAP2_0418,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20210124,-
+436113,58110431,plsX,MMCAP2_RS02080,MMCAP2_0419,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200804,-
+436113,58110432,MMCAP2_RS02085,MMCAP2_RS02085,MMCAP2_0420,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20210124,-
+436113,58110433,MMCAP2_RS02090,MMCAP2_RS02090,MMCAP2_0421,-,-,-,Asp23/Gls24 family envelope stress response protein,protein-coding,-,-,-,Asp23/Gls24 family envelope stress response protein,20210124,-
+436113,58110434,MMCAP2_RS02095,MMCAP2_RS02095,MMCAP2_0422,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20210124,-
+436113,58110435,MMCAP2_RS02100,MMCAP2_RS02100,MMCAP2_0423,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110436,MMCAP2_RS02105,MMCAP2_RS02105,MMCAP2_0424,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110437,ptsS,MMCAP2_RS02110,MMCAP2_0425,-,-,-,phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,phosphate ABC transporter substrate-binding protein,20210124,-
+436113,58110438,pstA,MMCAP2_RS02115,MMCAP2_0426,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20210124,-
+436113,58110439,pstB,MMCAP2_RS02120,MMCAP2_0427,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20200804,-
+436113,58110440,phoU,MMCAP2_RS02125,MMCAP2_0428,-,-,-,phosphate signaling complex protein PhoU,protein-coding,-,-,-,phosphate signaling complex protein PhoU,20200805,-
+436113,58110441,ftsY,MMCAP2_RS02130,MMCAP2_0429,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200805,-
+436113,58110442,MMCAP2_RS02135,MMCAP2_RS02135,MMCAP2_0430,-,-,-,putative DNA-binding protein,protein-coding,-,-,-,putative DNA-binding protein,20210424,-
+436113,58110443,MMCAP2_RS02140,MMCAP2_RS02140,MMCAP2_0431,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200804,-
+436113,58110444,MMCAP2_RS02145,MMCAP2_RS02145,MMCAP2_0432,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200805,-
+436113,58110445,MMCAP2_RS02150,MMCAP2_RS02150,MMCAP2_0433,-,-,-,copper homeostasis protein CutC,protein-coding,-,-,-,copper homeostasis protein CutC,20210424,-
+436113,58110446,trmFO,MMCAP2_RS02155,MMCAP2_0434,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,protein-coding,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,20200805,-
+436113,58110447,MMCAP2_RS02160,MMCAP2_RS02160,MMCAP2_0435,-,-,-,phosphomannose isomerase type I,protein-coding,-,-,-,phosphomannose isomerase type I,20210124,-
+436113,58110448,MMCAP2_RS02165,MMCAP2_RS02165,MMCAP2_0436,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210124,-
+436113,58110449,MMCAP2_RS02170,MMCAP2_RS02170,MMCAP2_0437,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20210124,-
+436113,58110450,MMCAP2_RS02175,MMCAP2_RS02175,MMCAP2_0438,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200804,-
+436113,58110451,MMCAP2_RS02180,MMCAP2_RS02180,MMCAP2_0439,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110452,MMCAP2_RS02185,MMCAP2_RS02185,MMCAP2_0440,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200803,-
+436113,58110453,MMCAP2_RS02190,MMCAP2_RS02190,MMCAP2_0441,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210124,-
+436113,58110454,MMCAP2_RS02195,MMCAP2_RS02195,MMCAP2_0442,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200805,-
+436113,58110455,MMCAP2_RS02200,MMCAP2_RS02200,MMCAP2_0443,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200805,-
+436113,58110456,MMCAP2_RS02205,MMCAP2_RS02205,MMCAP2_0444,-,-,-,M13 family metallopeptidase,protein-coding,-,-,-,M13 family metallopeptidase,20210124,-
+436113,58110457,MMCAP2_RS02210,MMCAP2_RS02210,MMCAP2_0445,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200805,-
+436113,58110458,MMCAP2_RS02215,MMCAP2_RS02215,MMCAP2_0446,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110459,MMCAP2_RS02220,MMCAP2_RS02220,MMCAP2_0447,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210124,-
+436113,58110460,MMCAP2_RS02225,MMCAP2_RS02225,MMCAP2_0448,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20210124,-
+436113,58110461,MMCAP2_RS02240,MMCAP2_RS02240,MMCAP2_0451,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,20210124,-
+436113,58110462,parE,MMCAP2_RS02245,MMCAP2_0452,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20210124,-
+436113,58110463,parC,MMCAP2_RS02250,MMCAP2_0453,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20200805,-
+436113,58110464,MMCAP2_RS02255,MMCAP2_RS02255,MMCAP2_0454,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200804,-
+436113,58110465,MMCAP2_RS02265,MMCAP2_RS02265,MMCAP2_0456,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210124,-
+436113,58110466,MMCAP2_RS02270,MMCAP2_RS02270,MMCAP2_0457,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200804,-
+436113,58110467,MMCAP2_RS02275,MMCAP2_RS02275,MMCAP2_0458,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200805,-
+436113,58110468,MMCAP2_RS02280,MMCAP2_RS02280,MMCAP2_0459,-,-,-,glycerol ABC transporter glycerol-binding protein,protein-coding,-,-,-,glycerol ABC transporter glycerol-binding protein,20210124,-
+436113,58110469,MMCAP2_RS02285,MMCAP2_RS02285,MMCAP2_0460,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210424,-
+436113,58110470,MMCAP2_RS02300,MMCAP2_RS02300,MMCAP2_0463,-,-,-,NADH-dependent flavin oxidoreductase,protein-coding,-,-,-,NADH-dependent flavin oxidoreductase,20210124,-
+436113,58110471,MMCAP2_RS02305,MMCAP2_RS02305,MMCAP2_0464,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20210417,-
+436113,58110472,MMCAP2_RS02310,MMCAP2_RS02310,MMCAP2_0465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110473,MMCAP2_RS02315,MMCAP2_RS02315,MMCAP2_0466,-,-,-,glycine cleavage system protein H,protein-coding,-,-,-,glycine cleavage system protein H,20200804,-
+436113,58110474,MMCAP2_RS02320,MMCAP2_RS02320,MMCAP2_0467,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+436113,58110475,MMCAP2_RS02325,MMCAP2_RS02325,MMCAP2_0468,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210124,-
+436113,58110476,MMCAP2_RS02330,MMCAP2_RS02330,MMCAP2_0469,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200804,-
+436113,58110477,MMCAP2_RS02335,MMCAP2_RS02335,MMCAP2_0470,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200804,-
+436113,58110478,MMCAP2_RS02340,MMCAP2_RS02340,MMCAP2_0472,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110479,MMCAP2_RS02345,MMCAP2_RS02345,MMCAP2_0473,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110480,MMCAP2_RS02350,MMCAP2_RS02350,MMCAP2_0474,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+436113,58110481,MMCAP2_RS02355,MMCAP2_RS02355,MMCAP2_0475,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20210124,-
+436113,58110482,nagA,MMCAP2_RS02360,MMCAP2_0476,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,protein-coding,-,-,-,N-acetylglucosamine-6-phosphate deacetylase,20210124,-
+436113,58110483,MMCAP2_RS02365,MMCAP2_RS02365,MMCAP2_0477,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110484,MMCAP2_RS02370,MMCAP2_RS02370,MMCAP2_0478,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110485,MMCAP2_RS02380,MMCAP2_RS02380,MMCAP2_0480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110486,MMCAP2_RS02385,MMCAP2_RS02385,MMCAP2_0481,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110487,MMCAP2_RS02390,MMCAP2_RS02390,MMCAP2_0482,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20210124,-
+436113,58110488,MMCAP2_RS02395,MMCAP2_RS02395,MMCAP2_0483,-,-,-,Holliday junction DNA helicase RuvA,protein-coding,-,-,-,Holliday junction DNA helicase RuvA,20200805,-
+436113,58110489,ruvB,MMCAP2_RS02400,MMCAP2_0484,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200805,-
+436113,58110490,MMCAP2_RS02405,MMCAP2_RS02405,MMCAP2_0485,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210124,-
+436113,58110491,MMCAP2_RS02410,MMCAP2_RS02410,MMCAP2_0486,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110492,MMCAP2_RS02415,MMCAP2_RS02415,MMCAP2_0487,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110493,yqeH,MMCAP2_RS02420,MMCAP2_0488,-,-,-,ribosome biogenesis GTPase YqeH,protein-coding,-,-,-,ribosome biogenesis GTPase YqeH,20200805,-
+436113,58110494,MMCAP2_RS02425,MMCAP2_RS02425,MMCAP2_0489,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20210124,-
+436113,58110495,MMCAP2_RS02430,MMCAP2_RS02430,MMCAP2_0490,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200805,-
+436113,58110496,udk,MMCAP2_RS02435,MMCAP2_0491,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20210124,-
+436113,58110497,MMCAP2_RS02440,MMCAP2_RS02440,MMCAP2_0492,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110498,MMCAP2_RS02445,MMCAP2_RS02445,MMCAP2_0493,-,-,-,M20 family metallopeptidase,protein-coding,-,-,-,M20 family metallopeptidase,20200804,-
+436113,58110499,MMCAP2_RS02450,MMCAP2_RS02450,MMCAP2_0494,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,protein-coding,-,-,-,N-acetylmannosamine-6-phosphate 2-epimerase,20200804,-
+436113,58110500,MMCAP2_RS02455,MMCAP2_RS02455,MMCAP2_0495,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200804,-
+436113,58110501,MMCAP2_RS02460,MMCAP2_RS02460,MMCAP2_0496,-,-,-,YhcH/YjgK/YiaL family protein,protein-coding,-,-,-,YhcH/YjgK/YiaL family protein,20200804,-
+436113,58110502,MMCAP2_RS02465,MMCAP2_RS02465,MMCAP2_0497,-,-,-,sodium:solute symporter,protein-coding,-,-,-,sodium:solute symporter,20210124,-
+436113,58110503,MMCAP2_RS02470,MMCAP2_RS02470,MMCAP2_0498,-,-,-,N-acetylneuraminate lyase,protein-coding,-,-,-,N-acetylneuraminate lyase,20210124,-
+436113,58110504,rpmA,MMCAP2_RS02475,MMCAP2_0499,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200805,-
+436113,58110505,MMCAP2_RS02480,MMCAP2_RS02480,MMCAP2_0500,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20210124,-
+436113,58110506,rplU,MMCAP2_RS02485,MMCAP2_0501,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200805,-
+436113,58110507,MMCAP2_RS02490,MMCAP2_RS02490,MMCAP2_0503,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110508,rsmI,MMCAP2_RS02495,MMCAP2_0504,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200804,-
+436113,58110509,rpmG,MMCAP2_RS02500,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210124,-
+436113,58110510,MMCAP2_RS02505,MMCAP2_RS02505,MMCAP2_0505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110511,MMCAP2_RS02510,MMCAP2_RS02510,MMCAP2_0506,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110512,MMCAP2_RS02515,MMCAP2_RS02515,MMCAP2_0507,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110513,MMCAP2_RS02520,MMCAP2_RS02520,MMCAP2_0508,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110514,MMCAP2_RS02525,MMCAP2_RS02525,MMCAP2_0509,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110515,MMCAP2_RS02530,MMCAP2_RS02530,MMCAP2_0510,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110516,MMCAP2_RS02535,MMCAP2_RS02535,MMCAP2_0511,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110517,MMCAP2_RS02540,MMCAP2_RS02540,MMCAP2_0512,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200804,-
+436113,58110518,MMCAP2_RS02545,MMCAP2_RS02545,MMCAP2_0513,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20210417,-
+436113,58110519,MMCAP2_RS02550,MMCAP2_RS02550,MMCAP2_0514,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110520,MMCAP2_RS02555,MMCAP2_RS02555,MMCAP2_0515,-,-,-,dCMP deaminase family protein,protein-coding,-,-,-,dCMP deaminase family protein,20210124,-
+436113,58110521,MMCAP2_RS02560,MMCAP2_RS02560,MMCAP2_0516,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110522,MMCAP2_RS02565,MMCAP2_RS02565,MMCAP2_0517,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200804,-
+436113,58110523,MMCAP2_RS02570,MMCAP2_RS02570,MMCAP2_0518,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20200804,-
+436113,58110524,ileS,MMCAP2_RS02575,MMCAP2_0519,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200804,-
+436113,58110525,MMCAP2_RS02580,MMCAP2_RS02580,MMCAP2_0520,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200804,-
+436113,58110526,MMCAP2_RS02585,MMCAP2_RS02585,MMCAP2_0521,-,-,-,cell division protein SepF,protein-coding,-,-,-,cell division protein SepF,20210124,-
+436113,58110527,ftsZ,MMCAP2_RS02590,MMCAP2_0522,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200805,-
+436113,58110528,MMCAP2_RS02595,MMCAP2_RS02595,MMCAP2_0523,-,-,-,cell division FtsA domain-containing protein,protein-coding,-,-,-,cell division FtsA domain-containing protein,20200803,-
+436113,58110529,rsmH,MMCAP2_RS02600,MMCAP2_0524,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200804,-
+436113,58110530,mraZ,MMCAP2_RS02605,MMCAP2_0525,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20200804,-
+436113,58110531,rpmF,MMCAP2_RS02610,MMCAP2_0526,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20210124,-
+436113,58110532,MMCAP2_RS02615,MMCAP2_RS02615,MMCAP2_0527,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110533,MMCAP2_RS02620,MMCAP2_RS02620,MMCAP2_0528,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200804,-
+436113,58110534,pheS,MMCAP2_RS02625,MMCAP2_0529,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200804,-
+436113,58110535,MMCAP2_RS02630,MMCAP2_RS02630,MMCAP2_0530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110536,MMCAP2_RS02635,MMCAP2_RS02635,MMCAP2_0531,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110537,rrf,MMCAP2_RS02640,MMCAP2_0532,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110538,MMCAP2_RS02645,MMCAP2_RS02645,MMCAP2_0533,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110539,MMCAP2_RS02650,MMCAP2_RS02650,MMCAP2_0534,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210124,-
+436113,58110540,MMCAP2_RS02655,MMCAP2_RS02655,MMCAP2_0535,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200804,-
+436113,58110541,frr,MMCAP2_RS02660,MMCAP2_0536,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210124,-
+436113,58110542,pyrH,MMCAP2_RS02665,MMCAP2_0537,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20210124,-
+436113,58110543,MMCAP2_RS02670,MMCAP2_RS02670,MMCAP2_0538,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110544,MMCAP2_RS02675,MMCAP2_RS02675,MMCAP2_0539,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210124,-
+436113,58110545,rpsB,MMCAP2_RS02680,MMCAP2_0540,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210124,-
+436113,58110546,dnaJ,MMCAP2_RS02685,MMCAP2_0541,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210124,-
+436113,58110547,dnaK,MMCAP2_RS02690,MMCAP2_0542,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210124,-
+436113,58110548,MMCAP2_RS02695,MMCAP2_RS02695,MMCAP2_0543,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210124,-
+436113,58110549,hrcA,MMCAP2_RS02700,MMCAP2_0544,-,-,-,heat-inducible transcription repressor HrcA,protein-coding,-,-,-,heat-inducible transcription repressor HrcA,20200805,-
+436113,58110550,MMCAP2_RS02705,MMCAP2_RS02705,MMCAP2_0545,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210124,-
+436113,58110551,MMCAP2_RS02710,MMCAP2_RS02710,MMCAP2_0547,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110552,MMCAP2_RS02715,MMCAP2_RS02715,MMCAP2_0548,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20210124,-
+436113,58110553,rdgB,MMCAP2_RS02720,MMCAP2_0549,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20200804,-
+436113,58110554,MMCAP2_RS02725,MMCAP2_RS02725,MMCAP2_0550,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110555,MMCAP2_RS02730,MMCAP2_RS02730,MMCAP2_0551,-,-,-,MOLPALP family lipoprotein,protein-coding,-,-,-,MOLPALP family lipoprotein,20200805,-
+436113,58110556,MMCAP2_RS02735,MMCAP2_RS02735,MMCAP2_0552,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110557,MMCAP2_RS02740,MMCAP2_RS02740,MMCAP2_0553,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110558,MMCAP2_RS02745,MMCAP2_RS02745,MMCAP2_0554,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110559,MMCAP2_RS02750,MMCAP2_RS02750,MMCAP2_0555,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20210124,-
+436113,58110560,MMCAP2_RS02760,MMCAP2_RS02760,MMCAP2_0557,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210424,-
+436113,58110561,MMCAP2_RS02765,MMCAP2_RS02765,MMCAP2_0558,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200805,-
+436113,58110562,MMCAP2_RS02770,MMCAP2_RS02770,MMCAP2_0559,-,-,-,ImmA/IrrE family metallo-endopeptidase,protein-coding,-,-,-,ImmA/IrrE family metallo-endopeptidase,20200805,-
+436113,58110563,MMCAP2_RS02775,MMCAP2_RS02775,MMCAP2_0560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110564,MMCAP2_RS02780,MMCAP2_RS02780,MMCAP2_0561,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110565,MMCAP2_RS02785,MMCAP2_RS02785,MMCAP2_0562,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110566,MMCAP2_RS02790,MMCAP2_RS02790,MMCAP2_0563,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200805,-
+436113,58110567,MMCAP2_RS02795,MMCAP2_RS02795,MMCAP2_0564,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110568,MMCAP2_RS02800,MMCAP2_RS02800,MMCAP2_0565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110569,MMCAP2_RS02810,MMCAP2_RS02810,MMCAP2_0567,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200805,-
+436113,58110570,MMCAP2_RS02815,MMCAP2_RS02815,MMCAP2_0568,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110571,MMCAP2_RS02820,MMCAP2_RS02820,MMCAP2_0569,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110572,MMCAP2_RS02825,MMCAP2_RS02825,MMCAP2_0570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110573,MMCAP2_RS02830,MMCAP2_RS02830,MMCAP2_0571,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110574,MMCAP2_RS02835,MMCAP2_RS02835,MMCAP2_0572,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20210124,-
+436113,58110575,MMCAP2_RS02840,MMCAP2_RS02840,MMCAP2_0573,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110576,MMCAP2_RS02845,MMCAP2_RS02845,MMCAP2_0574,-,-,-,MOLPALP family lipoprotein,protein-coding,-,-,-,MOLPALP family lipoprotein,20200805,-
+436113,58110577,MMCAP2_RS02850,MMCAP2_RS02850,MMCAP2_0575,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210124,-
+436113,58110578,MMCAP2_RS02855,MMCAP2_RS02855,MMCAP2_0576,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20200804,-
+436113,58110579,MMCAP2_RS02860,MMCAP2_RS02860,MMCAP2_0577,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110580,MMCAP2_RS02865,MMCAP2_RS02865,MMCAP2_0578,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110581,MMCAP2_RS02870,MMCAP2_RS02870,MMCAP2_0579,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110582,MMCAP2_RS02875,MMCAP2_RS02875,MMCAP2_0580,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20200804,-
+436113,58110583,MMCAP2_RS02880,MMCAP2_RS02880,MMCAP2_0581,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110584,MMCAP2_RS02885,MMCAP2_RS02885,MMCAP2_0582,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200804,-
+436113,58110585,MMCAP2_RS02890,MMCAP2_RS02890,MMCAP2_0583,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200804,-
+436113,58110586,MMCAP2_RS02895,MMCAP2_RS02895,MMCAP2_0584,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110587,MMCAP2_RS02900,MMCAP2_RS02900,MMCAP2_0585,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20210124,-
+436113,58110588,MMCAP2_RS02910,MMCAP2_RS02910,MMCAP2_0587,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200804,-
+436113,58110589,MMCAP2_RS02915,MMCAP2_RS02915,MMCAP2_0588,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200804,-
+436113,58110590,MMCAP2_RS02920,MMCAP2_RS02920,MMCAP2_0589,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200804,-
+436113,58110591,MMCAP2_RS02925,MMCAP2_RS02925,MMCAP2_0590,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20200804,-
+436113,58110592,MMCAP2_RS02935,MMCAP2_RS02935,MMCAP2_0593,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110593,MMCAP2_RS02940,MMCAP2_RS02940,MMCAP2_0594,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200804,-
+436113,58110594,MMCAP2_RS02955,MMCAP2_RS02955,MMCAP2_0598,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210124,-
+436113,58110595,MMCAP2_RS02960,MMCAP2_RS02960,MMCAP2_0599,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110596,MMCAP2_RS02970,MMCAP2_RS02970,MMCAP2_0600,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200805,-
+436113,58110597,MMCAP2_RS02975,MMCAP2_RS02975,MMCAP2_0601,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110598,MMCAP2_RS02980,MMCAP2_RS02980,MMCAP2_0602,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110599,MMCAP2_RS02985,MMCAP2_RS02985,MMCAP2_0604,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20200805,-
+436113,58110600,MMCAP2_RS02990,MMCAP2_RS02990,MMCAP2_0605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110601,MMCAP2_RS02995,MMCAP2_RS02995,MMCAP2_0606,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200804,-
+436113,58110602,gap,MMCAP2_RS03000,MMCAP2_0607,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20210124,-
+436113,58110603,MMCAP2_RS03005,MMCAP2_RS03005,MMCAP2_0608,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200804,-
+436113,58110604,MMCAP2_RS03010,MMCAP2_RS03010,MMCAP2_0609,-,-,-,DnaD domain protein,protein-coding,-,-,-,DnaD domain protein,20200804,-
+436113,58110605,mutM,MMCAP2_RS03015,MMCAP2_0610,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20200804,-
+436113,58110606,polA,MMCAP2_RS03020,MMCAP2_0611,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20210124,-
+436113,58110607,MMCAP2_RS03025,MMCAP2_RS03025,MMCAP2_0612,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200804,-
+436113,58110608,MMCAP2_RS03030,MMCAP2_RS03030,MMCAP2_0613,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20210124,-
+436113,58110609,MMCAP2_RS03035,MMCAP2_RS03035,MMCAP2_0614,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20210124,-
+436113,58110610,MMCAP2_RS03040,MMCAP2_RS03040,MMCAP2_0615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110611,MMCAP2_RS03045,MMCAP2_RS03045,MMCAP2_0616,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200805,-
+436113,58110612,MMCAP2_RS03050,MMCAP2_RS03050,MMCAP2_0617,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20210124,-
+436113,58110613,MMCAP2_RS03055,MMCAP2_RS03055,MMCAP2_0618,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110614,MMCAP2_RS03060,MMCAP2_RS03060,MMCAP2_0619,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110615,MMCAP2_RS03065,MMCAP2_RS03065,MMCAP2_0620,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20210124,-
+436113,58110616,MMCAP2_RS03070,MMCAP2_RS03070,MMCAP2_0621,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210417,-
+436113,58110617,MMCAP2_RS03075,MMCAP2_RS03075,MMCAP2_0622,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110618,MMCAP2_RS03085,MMCAP2_RS03085,MMCAP2_0624,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110619,MMCAP2_RS03090,MMCAP2_RS03090,MMCAP2_0625,-,-,-,carbamate kinase,protein-coding,-,-,-,carbamate kinase,20200804,-
+436113,58110620,aguA,MMCAP2_RS03095,MMCAP2_0626,-,-,-,agmatine deiminase,protein-coding,-,-,-,agmatine deiminase,20210124,-
+436113,58110621,MMCAP2_RS03105,MMCAP2_RS03105,MMCAP2_0628,-,-,-,putrescine carbamoyltransferase,protein-coding,-,-,-,putrescine carbamoyltransferase,20210124,-
+436113,58110622,MMCAP2_RS03110,MMCAP2_RS03110,MMCAP2_0629,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110623,MMCAP2_RS03115,MMCAP2_RS03115,MMCAP2_0630,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110624,MMCAP2_RS03125,MMCAP2_RS03125,MMCAP2_0632,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110625,MMCAP2_RS03130,MMCAP2_RS03130,MMCAP2_0633,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200803,-
+436113,58110626,MMCAP2_RS03135,MMCAP2_RS03135,MMCAP2_0634,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200804,-
+436113,58110627,MMCAP2_RS03140,MMCAP2_RS03140,MMCAP2_0635,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110628,MMCAP2_RS03145,MMCAP2_RS03145,MMCAP2_0636,-,-,-,MOLPALP family lipoprotein,protein-coding,-,-,-,MOLPALP family lipoprotein,20200804,-
+436113,58110629,rpsI,MMCAP2_RS03150,MMCAP2_0637,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200805,-
+436113,58110630,rplM,MMCAP2_RS03155,MMCAP2_0638,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210124,-
+436113,58110631,MMCAP2_RS03160,MMCAP2_RS03160,MMCAP2_0639,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110632,MMCAP2_RS03165,MMCAP2_RS03165,MMCAP2_0640,-,-,-,tRNA pseudouridine synthase A,protein-coding,-,-,-,tRNA pseudouridine synthase A,20200804,-
+436113,58110633,MMCAP2_RS03170,MMCAP2_RS03170,MMCAP2_0641,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20200804,-
+436113,58110634,MMCAP2_RS03175,MMCAP2_RS03175,MMCAP2_0642,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200804,-
+436113,58110635,MMCAP2_RS03180,MMCAP2_RS03180,MMCAP2_0643,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20210124,-
+436113,58110636,rplQ,MMCAP2_RS03185,MMCAP2_0644,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210124,-
+436113,58110637,MMCAP2_RS03190,MMCAP2_RS03190,MMCAP2_0645,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210124,-
+436113,58110638,rpsK,MMCAP2_RS03195,MMCAP2_0646,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+436113,58110639,rpsM,MMCAP2_RS03200,MMCAP2_0647,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210124,-
+436113,58110640,infA,MMCAP2_RS03205,MMCAP2_0649,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210124,-
+436113,58110641,map,MMCAP2_RS03210,MMCAP2_0650,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200805,-
+436113,58110642,MMCAP2_RS03215,MMCAP2_RS03215,MMCAP2_0651,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20200805,-
+436113,58110643,secY,MMCAP2_RS03220,MMCAP2_0652,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200804,-
+436113,58110644,rplO,MMCAP2_RS03225,MMCAP2_0653,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210124,-
+436113,58110645,rpsE,MMCAP2_RS03230,MMCAP2_0654,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200804,-
+436113,58110646,rplR,MMCAP2_RS03235,MMCAP2_0655,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+436113,58110647,rplF,MMCAP2_RS03240,MMCAP2_0656,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210124,-
+436113,58110648,rpsH,MMCAP2_RS03245,MMCAP2_0657,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200804,-
+436113,58110649,MMCAP2_RS03250,MMCAP2_RS03250,MMCAP2_0658,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20210124,-
+436113,58110650,rplE,MMCAP2_RS03255,MMCAP2_0659,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+436113,58110651,MMCAP2_RS03260,MMCAP2_RS03260,MMCAP2_0660,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210124,-
+436113,58110652,rplN,MMCAP2_RS03265,MMCAP2_0661,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200805,-
+436113,58110653,rpsQ,MMCAP2_RS03270,MMCAP2_0662,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200804,-
+436113,58110654,MMCAP2_RS03275,MMCAP2_RS03275,MMCAP2_0663,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200805,-
+436113,58110655,rplP,MMCAP2_RS03280,MMCAP2_0664,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+436113,58110656,rpsC,MMCAP2_RS03285,MMCAP2_0665,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210124,-
+436113,58110657,rplV,MMCAP2_RS03290,MMCAP2_0666,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20210124,-
+436113,58110658,rpsS,MMCAP2_RS03295,MMCAP2_0667,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20210124,-
+436113,58110659,rplB,MMCAP2_RS03300,MMCAP2_0668,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200805,-
+436113,58110660,rplW,MMCAP2_RS03305,MMCAP2_0669,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210124,-
+436113,58110661,rplD,MMCAP2_RS03310,MMCAP2_0670,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200805,-
+436113,58110662,rplC,MMCAP2_RS03315,MMCAP2_0671,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20210124,-
+436113,58110663,rpsJ,MMCAP2_RS03320,MMCAP2_0672,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+436113,58110664,dhaK,MMCAP2_RS03325,MMCAP2_0673,-,-,-,dihydroxyacetone kinase subunit DhaK,protein-coding,-,-,-,dihydroxyacetone kinase subunit DhaK,20200804,-
+436113,58110665,MMCAP2_RS03330,MMCAP2_RS03330,MMCAP2_0674,-,-,-,"alpha,alpha-phosphotrehalase",protein-coding,-,-,-,"alpha,alpha-phosphotrehalase",20200804,-
+436113,58110666,MMCAP2_RS03335,MMCAP2_RS03335,MMCAP2_0675,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210124,-
+436113,58110667,MMCAP2_RS03340,MMCAP2_RS03340,MMCAP2_0676,-,-,-,LacI family DNA-binding transcriptional regulator,protein-coding,-,-,-,LacI family DNA-binding transcriptional regulator,20200804,-
+436113,58110668,MMCAP2_RS03345,MMCAP2_RS03345,-,-,-,-,TIGR04570 family membrane protein,protein-coding,-,-,-,TIGR04570 family membrane protein,20200804,-
+436113,58110669,MMCAP2_RS03350,MMCAP2_RS03350,MMCAP2_0677,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110670,MMCAP2_RS03355,MMCAP2_RS03355,MMCAP2_0678,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110671,MMCAP2_RS03360,MMCAP2_RS03360,MMCAP2_0679,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110672,MMCAP2_RS03365,MMCAP2_RS03365,MMCAP2_0680,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110673,MMCAP2_RS03370,MMCAP2_RS03370,MMCAP2_0681,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110674,MMCAP2_RS03380,MMCAP2_RS03380,MMCAP2_0683,-,-,-,tetraspanin family protein,protein-coding,-,-,-,tetraspanin family protein,20200804,-
+436113,58110675,MMCAP2_RS03385,MMCAP2_RS03385,MMCAP2_0684,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20210124,-
+436113,58110676,MMCAP2_RS03390,MMCAP2_RS03390,MMCAP2_0685,-,-,-,sodium transporter,protein-coding,-,-,-,sodium transporter,20210124,-
+436113,58110677,MMCAP2_RS03395,MMCAP2_RS03395,MMCAP2_0686,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200805,-
+436113,58110678,gatB,MMCAP2_RS03400,MMCAP2_0687,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200804,-
+436113,58110679,gatA,MMCAP2_RS03405,MMCAP2_0688,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200804,-
+436113,58110680,gatC,MMCAP2_RS03410,MMCAP2_0689,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210124,-
+436113,58110681,ligA,MMCAP2_RS03415,MMCAP2_0690,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200804,-
+436113,58110682,MMCAP2_RS03420,MMCAP2_RS03420,MMCAP2_0691,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110683,MMCAP2_RS03425,MMCAP2_RS03425,MMCAP2_0692,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210124,-
+436113,58110684,MMCAP2_RS03430,MMCAP2_RS03430,MMCAP2_0693,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20200804,-
+436113,58110685,MMCAP2_RS03435,MMCAP2_RS03435,MMCAP2_0694,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200804,-
+436113,58110686,MMCAP2_RS03440,MMCAP2_RS03440,MMCAP2_0695,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210124,-
+436113,58110687,MMCAP2_RS03445,MMCAP2_RS03445,MMCAP2_0696,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200804,-
+436113,58110688,MMCAP2_RS03450,MMCAP2_RS03450,MMCAP2_0697,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20200804,-
+436113,58110689,msrB,MMCAP2_RS03465,MMCAP2_0699,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,protein-coding,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,20210124,-
+436113,58110690,MMCAP2_RS03470,MMCAP2_RS03470,MMCAP2_0700,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110691,MMCAP2_RS03475,MMCAP2_RS03475,MMCAP2_0701,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110692,MMCAP2_RS03480,MMCAP2_RS03480,MMCAP2_0702,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110693,MMCAP2_RS03485,MMCAP2_RS03485,MMCAP2_0703,-,-,-,DUF262 domain-containing protein,protein-coding,-,-,-,DUF262 domain-containing protein,20200804,-
+436113,58110694,MMCAP2_RS03490,MMCAP2_RS03490,MMCAP2_0704,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110695,MMCAP2_RS03495,MMCAP2_RS03495,MMCAP2_0705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110696,MMCAP2_RS03500,MMCAP2_RS03500,MMCAP2_0706,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210124,-
+436113,58110697,MMCAP2_RS03505,MMCAP2_RS03505,MMCAP2_0707,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210124,-
+436113,58110698,MMCAP2_RS03510,MMCAP2_RS03510,MMCAP2_0708,-,-,-,alkylphosphonate ABC transporter substrate-bindin,protein-coding,-,-,-,alkylphosphonate ABC transporter substrate-bindin,20210124,-
+436113,58110699,MMCAP2_RS03515,MMCAP2_RS03515,MMCAP2_0710,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200804,-
+436113,58110700,MMCAP2_RS03520,MMCAP2_RS03520,MMCAP2_0711,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20200805,-
+436113,58110701,MMCAP2_RS03525,MMCAP2_RS03525,MMCAP2_0712,-,-,-,RidA family protein,protein-coding,-,-,-,RidA family protein,20210124,-
+436113,58110702,MMCAP2_RS03530,MMCAP2_RS03530,MMCAP2_0713,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210124,-
+436113,58110703,MMCAP2_RS03535,MMCAP2_RS03535,MMCAP2_0714,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210124,-
+436113,58110704,MMCAP2_RS03540,MMCAP2_RS03540,MMCAP2_0715,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20200912,-
+436113,58110705,MMCAP2_RS03545,MMCAP2_RS03545,MMCAP2_0716,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210124,-
+436113,58110706,MMCAP2_RS03550,MMCAP2_RS03550,MMCAP2_0717,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110707,MMCAP2_RS03555,MMCAP2_RS03555,MMCAP2_0718,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110708,MMCAP2_RS03560,MMCAP2_RS03560,MMCAP2_0719,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110709,MMCAP2_RS03565,MMCAP2_RS03565,MMCAP2_0720,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110710,MMCAP2_RS03570,MMCAP2_RS03570,MMCAP2_0721,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110711,MMCAP2_RS03575,MMCAP2_RS03575,MMCAP2_0722,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110712,MMCAP2_RS03580,MMCAP2_RS03580,MMCAP2_0723,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110713,MMCAP2_RS03585,MMCAP2_RS03585,MMCAP2_0724,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110714,MMCAP2_RS03590,MMCAP2_RS03590,MMCAP2_0725,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110715,nagB,MMCAP2_RS03595,MMCAP2_0726,-,-,-,glucosamine-6-phosphate deaminase,protein-coding,-,-,-,glucosamine-6-phosphate deaminase,20200805,-
+436113,58110716,MMCAP2_RS03600,MMCAP2_RS03600,MMCAP2_0727,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210124,-
+436113,58110717,MMCAP2_RS03605,MMCAP2_RS03605,MMCAP2_0728,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210124,-
+436113,58110718,MMCAP2_RS03610,MMCAP2_RS03610,MMCAP2_0729,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20210124,-
+436113,58110719,MMCAP2_RS03615,MMCAP2_RS03615,MMCAP2_0730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110720,MMCAP2_RS03620,MMCAP2_RS03620,MMCAP2_0731,-,-,-,nucleotidyl transferase AbiEii/AbiGii toxin family protein,protein-coding,-,-,-,nucleotidyl transferase AbiEii/AbiGii toxin family protein,20200805,-
+436113,58110721,deoC,MMCAP2_RS03625,MMCAP2_0732,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20210124,-
+436113,58110722,MMCAP2_RS03630,MMCAP2_RS03630,MMCAP2_0733,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20210124,-
+436113,58110723,MMCAP2_RS03635,MMCAP2_RS03635,MMCAP2_0734,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20210124,-
+436113,58110724,MMCAP2_RS03655,MMCAP2_RS03655,MMCAP2_0741,-,-,-,restriction endonuclease,protein-coding,-,-,-,restriction endonuclease,20210124,-
+436113,58110725,MMCAP2_RS03660,MMCAP2_RS03660,MMCAP2_0742,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20200805,-
+436113,58110726,MMCAP2_RS03665,MMCAP2_RS03665,MMCAP2_0743,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200804,-
+436113,58110727,MMCAP2_RS03670,MMCAP2_RS03670,MMCAP2_0744,-,-,-,1-phosphofructokinase family hexose kinase,protein-coding,-,-,-,1-phosphofructokinase family hexose kinase,20210124,-
+436113,58110728,MMCAP2_RS03675,MMCAP2_RS03675,MMCAP2_0745,-,-,-,DeoR/GlpR transcriptional regulator,protein-coding,-,-,-,DeoR/GlpR transcriptional regulator,20210124,-
+436113,58110729,MMCAP2_RS03680,MMCAP2_RS03680,MMCAP2_0746,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110730,MMCAP2_RS03685,MMCAP2_RS03685,MMCAP2_0747,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200805,-
+436113,58110731,MMCAP2_RS03690,MMCAP2_RS03690,MMCAP2_0748,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20210124,-
+436113,58110732,MMCAP2_RS03695,MMCAP2_RS03695,MMCAP2_0749,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210124,-
+436113,58110733,MMCAP2_RS03700,MMCAP2_RS03700,MMCAP2_0750,-,-,-,viral A-type inclusion protein,protein-coding,-,-,-,viral A-type inclusion protein,20210124,-
+436113,58110734,MMCAP2_RS03705,MMCAP2_RS03705,MMCAP2_0751,-,-,-,viral A-type inclusion protein,protein-coding,-,-,-,viral A-type inclusion protein,20210124,-
+436113,58110735,MMCAP2_RS03710,MMCAP2_RS03710,MMCAP2_0752,-,-,-,Fic family protein,protein-coding,-,-,-,Fic family protein,20210124,-
+436113,58110736,MMCAP2_RS03715,MMCAP2_RS03715,MMCAP2_0753,-,-,-,type II toxin-antitoxin system RelB/DinJ family antitoxin,protein-coding,-,-,-,type II toxin-antitoxin system RelB/DinJ family antitoxin,20200805,-
+436113,58110737,MMCAP2_RS03720,MMCAP2_RS03720,MMCAP2_0754,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20200804,-
+436113,58110738,MMCAP2_RS03725,MMCAP2_RS03725,MMCAP2_0755,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20210124,-
+436113,58110739,MMCAP2_RS03730,MMCAP2_RS03730,MMCAP2_0756,-,-,-,AlwI family type II restriction endonuclease,protein-coding,-,-,-,AlwI family type II restriction endonuclease,20210124,-
+436113,58110740,MMCAP2_RS03735,MMCAP2_RS03735,MMCAP2_0757,-,-,-,DUF871 domain-containing protein,protein-coding,-,-,-,DUF871 domain-containing protein,20210124,-
+436113,58110741,MMCAP2_RS03740,MMCAP2_RS03740,MMCAP2_0758,-,-,-,glycoside hydrolase family 1 protein,protein-coding,-,-,-,glycoside hydrolase family 1 protein,20200804,-
+436113,58110742,MMCAP2_RS03745,MMCAP2_RS03745,MMCAP2_0759,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200804,-
+436113,58110743,MMCAP2_RS03750,MMCAP2_RS03750,MMCAP2_0760,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210124,-
+436113,58110744,MMCAP2_RS03755,MMCAP2_RS03755,MMCAP2_0761,-,-,-,glycosyl hydrolase family 38,protein-coding,-,-,-,glycosyl hydrolase family 38,20200804,-
+436113,58110745,MMCAP2_RS03760,MMCAP2_RS03760,MMCAP2_0762,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200804,-
+436113,58110746,MMCAP2_RS03765,MMCAP2_RS03765,MMCAP2_0763,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110747,hpt,MMCAP2_RS03770,MMCAP2_0764,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20210124,-
+436113,58110748,MMCAP2_RS03775,MMCAP2_RS03775,MMCAP2_0765,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20200804,-
+436113,58110749,MMCAP2_RS03780,MMCAP2_RS03780,MMCAP2_0766,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20200804,-
+436113,58110750,MMCAP2_RS03785,MMCAP2_RS03785,MMCAP2_0768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110751,MMCAP2_RS03790,MMCAP2_RS03790,MMCAP2_0769,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210124,-
+436113,58110752,MMCAP2_RS03795,MMCAP2_RS03795,MMCAP2_0770,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200804,-
+436113,58110753,nrdE,MMCAP2_RS03805,MMCAP2_0771,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20200804,-
+436113,58110754,nrdI,MMCAP2_RS03810,MMCAP2_0772,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20210124,-
+436113,58110755,nrdF,MMCAP2_RS03815,MMCAP2_0773,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20200805,-
+436113,58110756,secG,MMCAP2_RS03820,MMCAP2_0774,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20210124,-
+436113,58110757,rnr,MMCAP2_RS03825,MMCAP2_0775,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200805,-
+436113,58110758,smpB,MMCAP2_RS03830,MMCAP2_0776,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200805,-
+436113,58110759,MMCAP2_RS03835,MMCAP2_RS03835,MMCAP2_0777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110760,MMCAP2_RS03840,MMCAP2_RS03840,MMCAP2_0778,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+436113,58110761,MMCAP2_RS03845,MMCAP2_RS03845,MMCAP2_0779,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20200805,-
+436113,58110762,MMCAP2_RS03860,MMCAP2_RS03860,MMCAP2_0782,-,-,-,serine hydrolase,protein-coding,-,-,-,serine hydrolase,20200804,-
+436113,58110763,MMCAP2_RS03865,MMCAP2_RS03865,MMCAP2_0783,-,-,-,ROK family protein,protein-coding,-,-,-,ROK family protein,20200805,-
+436113,58110764,MMCAP2_RS03870,MMCAP2_RS03870,MMCAP2_0784,-,-,-,carbamate kinase,protein-coding,-,-,-,carbamate kinase,20210124,-
+436113,58110765,argF,MMCAP2_RS03885,MMCAP2_0786,-,-,-,ornithine carbamoyltransferase,protein-coding,-,-,-,ornithine carbamoyltransferase,20200804,-
+436113,58110766,mgtA,MMCAP2_RS03890,MMCAP2_0787,-,-,-,magnesium-translocating P-type ATPase,protein-coding,-,-,-,magnesium-translocating P-type ATPase,20200804,-
+436113,58110767,MMCAP2_RS03895,MMCAP2_RS03895,MMCAP2_0788,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110768,MMCAP2_RS03900,MMCAP2_RS03900,MMCAP2_0789,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110769,atpD,MMCAP2_RS03905,MMCAP2_0790,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200805,-
+436113,58110770,MMCAP2_RS03910,MMCAP2_RS03910,MMCAP2_0791,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20210124,-
+436113,58110771,MMCAP2_RS03915,MMCAP2_RS03915,MMCAP2_0792,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20210124,-
+436113,58110772,MMCAP2_RS03920,MMCAP2_RS03920,MMCAP2_0793,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20210124,-
+436113,58110773,atpF,MMCAP2_RS03925,MMCAP2_0794,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20210124,-
+436113,58110774,MMCAP2_RS03930,MMCAP2_RS03930,MMCAP2_0795,-,-,-,ATP synthase c chain,protein-coding,-,-,-,ATP synthase c chain,20200804,-
+436113,58110775,MMCAP2_RS03935,MMCAP2_RS03935,MMCAP2_0796,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200805,-
+436113,58110776,MMCAP2_RS03940,MMCAP2_RS03940,-,-,-,-,MG406 family protein,protein-coding,-,-,-,MG406 family protein,20200803,-
+436113,58110777,upp,MMCAP2_RS03945,MMCAP2_0798,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200805,-
+436113,58110778,MMCAP2_RS03950,MMCAP2_RS03950,MMCAP2_0799,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20210124,-
+436113,58110779,rpiB,MMCAP2_RS03955,MMCAP2_0800,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20200804,-
+436113,58110780,MMCAP2_RS03960,MMCAP2_RS03960,MMCAP2_0801,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20210124,-
+436113,58110781,MMCAP2_RS03965,MMCAP2_RS03965,MMCAP2_0802,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110782,rpoC,MMCAP2_RS03970,MMCAP2_0803,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20210124,-
+436113,58110783,MMCAP2_RS03975,MMCAP2_RS03975,MMCAP2_0804,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210124,-
+436113,58110784,MMCAP2_RS03980,MMCAP2_RS03980,MMCAP2_0805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110785,rplL,MMCAP2_RS03985,MMCAP2_0806,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200805,-
+436113,58110786,MMCAP2_RS03990,MMCAP2_RS03990,MMCAP2_0807,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210124,-
+436113,58110787,MMCAP2_RS03995,MMCAP2_RS03995,MMCAP2_0809,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210124,-
+436113,58110788,rplK,MMCAP2_RS04000,MMCAP2_0810,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210124,-
+436113,58110789,MMCAP2_RS04005,MMCAP2_RS04005,MMCAP2_0811,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20200804,-
+436113,58110790,MMCAP2_RS04010,MMCAP2_RS04010,MMCAP2_0812,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20210124,-
+436113,58110791,galE,MMCAP2_RS04015,MMCAP2_0813,-,-,-,UDP-glucose 4-epimerase GalE,protein-coding,-,-,-,UDP-glucose 4-epimerase GalE,20210124,-
+436113,58110792,glf,MMCAP2_RS04020,MMCAP2_0814,-,-,-,UDP-galactopyranose mutase,protein-coding,-,-,-,UDP-galactopyranose mutase,20200805,-
+436113,58110793,whiA,MMCAP2_RS04035,MMCAP2_0817,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200804,-
+436113,58110794,MMCAP2_RS04040,MMCAP2_RS04040,MMCAP2_0818,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210124,-
+436113,58110795,trxB,MMCAP2_RS04045,MMCAP2_0819,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20210124,-
+436113,58110796,MMCAP2_RS04050,MMCAP2_RS04050,MMCAP2_0820,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210124,-
+436113,58110797,MMCAP2_RS04055,MMCAP2_RS04055,MMCAP2_0821,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20210124,-
+436113,58110798,MMCAP2_RS04060,MMCAP2_RS04060,MMCAP2_0822,-,-,-,folate family ECF transporter S component,protein-coding,-,-,-,folate family ECF transporter S component,20210124,-
+436113,58110799,MMCAP2_RS04065,MMCAP2_RS04065,MMCAP2_0823,-,-,-,folate synthetase-polyglutamyl folate synthetase,protein-coding,-,-,-,folate synthetase-polyglutamyl folate synthetase,20210124,-
+436113,58110800,uvrA,MMCAP2_RS04070,MMCAP2_0824,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20210124,-
+436113,58110801,uvrB,MMCAP2_RS04075,MMCAP2_0825,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20200804,-
+436113,58110802,MMCAP2_RS04080,MMCAP2_RS04080,MMCAP2_0826,-,-,-,"DNA polymerase III, delta subunit",protein-coding,-,-,-,"DNA polymerase III, delta subunit",20210124,-
+436113,58110803,MMCAP2_RS04085,MMCAP2_RS04085,MMCAP2_0827,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110804,MMCAP2_RS04090,MMCAP2_RS04090,MMCAP2_0828,-,-,-,tRNA,tRNA,-,-,-,-,20210124,-
+436113,58110805,MMCAP2_RS04095,MMCAP2_RS04095,MMCAP2_0829,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200805,-
+436113,58110806,MMCAP2_RS04100,MMCAP2_RS04100,MMCAP2_0830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110807,MMCAP2_RS04105,MMCAP2_RS04105,MMCAP2_0831,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20210124,-
+436113,58110808,MMCAP2_RS04115,MMCAP2_RS04115,MMCAP2_0832,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200805,-
+436113,58110809,MMCAP2_RS04120,MMCAP2_RS04120,MMCAP2_0833,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200805,-
+436113,58110810,dnaB,MMCAP2_RS04125,MMCAP2_0834,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20210124,-
+436113,58110811,MMCAP2_RS04130,MMCAP2_RS04130,MMCAP2_0835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110812,MMCAP2_RS04135,MMCAP2_RS04135,MMCAP2_0836,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20210124,-
+436113,58110813,MMCAP2_RS04140,MMCAP2_RS04140,MMCAP2_0837,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210124,-
+436113,58110814,rlmB,MMCAP2_RS04145,MMCAP2_0838,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200805,-
+436113,58110815,rpmG,MMCAP2_RS04150,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+436113,58110816,secE,MMCAP2_RS04155,MMCAP2_0839,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20210124,-
+436113,58110817,MMCAP2_RS04160,MMCAP2_RS04160,MMCAP2_0840,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200805,-
+436113,58110818,MMCAP2_RS04165,MMCAP2_RS04165,MMCAP2_0841,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20200805,-
+436113,58110819,MMCAP2_RS04170,MMCAP2_RS04170,MMCAP2_0842,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210124,-
+436113,58110820,MMCAP2_RS04175,MMCAP2_RS04175,MMCAP2_0843,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+436113,58110821,MMCAP2_RS04180,MMCAP2_RS04180,MMCAP2_0844,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110822,MMCAP2_RS04185,MMCAP2_RS04185,MMCAP2_0845,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110823,MMCAP2_RS04190,MMCAP2_RS04190,MMCAP2_0846,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+436113,58110824,MMCAP2_RS04205,MMCAP2_RS04205,MMCAP2_0849,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200803,-
+436113,58110825,MMCAP2_RS04210,MMCAP2_RS04210,MMCAP2_0850,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110826,MMCAP2_RS04215,MMCAP2_RS04215,MMCAP2_0852,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110827,MMCAP2_RS04220,MMCAP2_RS04220,MMCAP2_0853,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110828,MMCAP2_RS04225,MMCAP2_RS04225,MMCAP2_0854,-,-,-,dual specificity protein phosphatase family protein,protein-coding,-,-,-,dual specificity protein phosphatase family protein,20210124,-
+436113,58110829,MMCAP2_RS04230,MMCAP2_RS04230,MMCAP2_0855,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210124,-
+436113,58110830,MMCAP2_RS04235,MMCAP2_RS04235,MMCAP2_0856,-,-,-,PTS transporter subunit EIIC,protein-coding,-,-,-,PTS transporter subunit EIIC,20210124,-
+436113,58110831,MMCAP2_RS04240,MMCAP2_RS04240,MMCAP2_0858,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20200805,-
+436113,58110832,MMCAP2_RS04245,MMCAP2_RS04245,MMCAP2_0857,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20200804,-
+436113,58110833,topA,MMCAP2_RS04250,MMCAP2_0859,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200805,-
+436113,58110834,MMCAP2_RS04255,MMCAP2_RS04255,MMCAP2_0860,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110835,MMCAP2_RS04260,MMCAP2_RS04260,MMCAP2_0861,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110836,MMCAP2_RS04265,MMCAP2_RS04265,MMCAP2_0862,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110837,MMCAP2_RS04270,MMCAP2_RS04270,MMCAP2_0863,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110838,MMCAP2_RS04275,MMCAP2_RS04275,MMCAP2_0864,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210124,-
+436113,58110839,MMCAP2_RS04285,MMCAP2_RS04285,MMCAP2_0866,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110840,MMCAP2_RS04290,MMCAP2_RS04290,MMCAP2_0867,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110841,MMCAP2_RS04295,MMCAP2_RS04295,MMCAP2_0868,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110842,MMCAP2_RS04300,MMCAP2_RS04300,MMCAP2_0869,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110843,MMCAP2_RS04305,MMCAP2_RS04305,MMCAP2_0870,-,-,-,YfcC family protein,protein-coding,-,-,-,YfcC family protein,20200804,-
+436113,58110844,MMCAP2_RS04310,MMCAP2_RS04310,MMCAP2_0871,-,-,-,M48 family metallopeptidase,protein-coding,-,-,-,M48 family metallopeptidase,20210124,-
+436113,58110845,ychF,MMCAP2_RS04315,MMCAP2_0872,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200805,-
+436113,58110846,MMCAP2_RS04320,MMCAP2_RS04320,MMCAP2_0873,-,-,-,DUF951 domain-containing protein,protein-coding,-,-,-,DUF951 domain-containing protein,20200804,-
+436113,58110847,rsmG,MMCAP2_RS04325,MMCAP2_0874,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20210124,-
+436113,58110848,pgsA,MMCAP2_RS04330,MMCAP2_0875,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200804,-
+436113,58110849,MMCAP2_RS04335,MMCAP2_RS04335,MMCAP2_0876,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210124,-
+436113,58110850,MMCAP2_RS04340,MMCAP2_RS04340,MMCAP2_0877,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110851,MMCAP2_RS04345,MMCAP2_RS04345,MMCAP2_0878,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210124,-
+436113,58110852,MMCAP2_RS04350,MMCAP2_RS04350,MMCAP2_0879,-,-,-,HAD-IC family P-type ATPase,protein-coding,-,-,-,HAD-IC family P-type ATPase,20210124,-
+436113,58110853,MMCAP2_RS04355,MMCAP2_RS04355,MMCAP2_0880,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200804,-
+436113,58110854,MMCAP2_RS04360,MMCAP2_RS04360,MMCAP2_0881,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200804,-
+436113,58110855,MMCAP2_RS04370,MMCAP2_RS04370,MMCAP2_0883,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20200804,-
+436113,58110856,MMCAP2_RS04375,MMCAP2_RS04375,MMCAP2_0884,-,-,-,DUF3800 domain-containing protein,protein-coding,-,-,-,DUF3800 domain-containing protein,20200805,-
+436113,58110857,mnmG,MMCAP2_RS04380,MMCAP2_0885,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200804,-
+436113,58110858,MMCAP2_RS04385,MMCAP2_RS04385,MMCAP2_0886,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200804,-
+436113,58110859,MMCAP2_RS04390,MMCAP2_RS04390,MMCAP2_0887,-,-,-,CoA-disulfide reductase,protein-coding,-,-,-,CoA-disulfide reductase,20200804,-
+436113,58110860,MMCAP2_RS04395,MMCAP2_RS04395,MMCAP2_0888,-,-,-,isochorismatase family protein,protein-coding,-,-,-,isochorismatase family protein,20210124,-
+436113,58110861,MMCAP2_RS04400,MMCAP2_RS04400,MMCAP2_0889,-,-,-,nucleotidyl transferase AbiEii/AbiGii toxin family protein,protein-coding,-,-,-,nucleotidyl transferase AbiEii/AbiGii toxin family protein,20200804,-
+436113,58110862,MMCAP2_RS04405,MMCAP2_RS04405,MMCAP2_0890,-,-,-,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein,protein-coding,-,-,-,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein,20210124,-
+436113,58110863,MMCAP2_RS04410,MMCAP2_RS04410,MMCAP2_0891,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200805,-
+436113,58110864,MMCAP2_RS04420,MMCAP2_RS04420,MMCAP2_0893,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20200805,-
+436113,58110865,MMCAP2_RS04425,MMCAP2_RS04425,MMCAP2_0894,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20200804,-
+436113,58110866,MMCAP2_RS04430,MMCAP2_RS04430,MMCAP2_0895,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20210124,-
+436113,58110867,MMCAP2_RS04445,MMCAP2_RS04445,MMCAP2_0897,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20210124,-
+436113,58110868,MMCAP2_RS04450,MMCAP2_RS04450,MMCAP2_0898,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20200804,-
+436113,58110869,MMCAP2_RS04455,MMCAP2_RS04455,MMCAP2_0899,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20210124,-
+436113,58110870,MMCAP2_RS04470,MMCAP2_RS04470,MMCAP2_0902,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110871,MMCAP2_RS04475,MMCAP2_RS04475,MMCAP2_0903,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200805,-
+436113,58110872,MMCAP2_RS04490,MMCAP2_RS04490,MMCAP2_0906,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20200804,-
+436113,58110873,MMCAP2_RS04495,MMCAP2_RS04495,MMCAP2_0907,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200804,-
+436113,58110874,yidC,MMCAP2_RS04500,MMCAP2_0908,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210124,-
+436113,58110875,rnpA,MMCAP2_RS04505,MMCAP2_0909,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210406,-
+436113,58110876,rpmH,MMCAP2_RS04510,MMCAP2_0910,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210124,-
+436113,58110877,MMCAP2_RS04515,MMCAP2_RS04515,MMCAP2_0083,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110878,MMCAP2_RS04520,MMCAP2_RS04520,MMCAP2_0091,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110879,MMCAP2_RS04535,MMCAP2_RS04535,MMCAP2_0556,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20200804,-
+436113,58110880,MMCAP2_RS04540,MMCAP2_RS04540,MMCAP2_0566,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110881,ffs,MMCAP2_RS04555,MMCAP2_0049,-,-,-,ncRNA,ncRNA,-,-,-,-,20210124,-
+436113,58110882,ssrA,MMCAP2_RS04560,MMCAP2_0158,-,-,-,miscRNA,miscRNA,-,-,-,-,20210124,-
+436113,58110883,rnpB,MMCAP2_RS04565,MMCAP2_0356,-,-,-,ncRNA,ncRNA,-,-,-,-,20210124,-
+436113,58110884,MMCAP2_RS04570,MMCAP2_RS04570,MMCAP2_0901,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110885,MMCAP2_RS04630,MMCAP2_RS04630,-,-,-,-,type II toxin-antitoxin system RelB/DinJ family antitoxin,protein-coding,-,-,-,type II toxin-antitoxin system RelB/DinJ family antitoxin,20200804,-
+436113,58110886,MMCAP2_RS04635,MMCAP2_RS04635,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110887,MMCAP2_RS04705,MMCAP2_RS04705,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110888,MMCAP2_RS04710,MMCAP2_RS04710,MMCAP2_0322,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20210124,-
+436113,58110889,rpmJ,MMCAP2_RS04815,MMCAP2_0648,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210124,-
+436113,58110890,MMCAP2_RS04825,MMCAP2_RS04825,MMCAP2_0682,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20201217,-
+436113,58110891,MMCAP2_RS04840,MMCAP2_RS04840,MMCAP2_0767,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200804,-
+436113,58110892,MMCAP2_RS04845,MMCAP2_RS04845,MMCAP2_0785,-,-,-,YfcC family protein,protein-coding,-,-,-,YfcC family protein,20210124,-
+436113,58110893,MMCAP2_RS04885,MMCAP2_RS04885,MMCAP2_0896,-,-,-,helix-rich protein,protein-coding,-,-,-,helix-rich protein,20200804,-
+436113,58110894,MMCAP2_RS04905,MMCAP2_RS04905,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110895,MMCAP2_RS04910,MMCAP2_RS04910,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110896,MMCAP2_RS04915,MMCAP2_RS04915,MMCAP2_0018,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110897,MMCAP2_RS04920,MMCAP2_RS04920,MMCAP2_0038,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200804,-
+436113,58110898,MMCAP2_RS04940,MMCAP2_RS04940,MMCAP2_0307,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110899,MMCAP2_RS04950,MMCAP2_RS04950,MMCAP2_0450,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110900,MMCAP2_RS04955,MMCAP2_RS04955,MMCAP2_0455,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200804,-
+436113,58110901,MMCAP2_RS04960,MMCAP2_RS04960,MMCAP2_0461,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110902,MMCAP2_RS04980,MMCAP2_RS04980,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110903,MMCAP2_RS04985,MMCAP2_RS04985,MMCAP2_0627,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200804,-
+436113,58110904,MMCAP2_RS04990,MMCAP2_RS04990,MMCAP2_0698,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210124,-
+436113,58110905,MMCAP2_RS04995,MMCAP2_RS04995,MMCAP2_0735,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110906,MMCAP2_RS05000,MMCAP2_RS05000,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110907,MMCAP2_RS05005,MMCAP2_RS05005,MMCAP2_0781,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110908,MMCAP2_RS05010,MMCAP2_RS05010,MMCAP2_0816,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110909,MMCAP2_RS05015,MMCAP2_RS05015,MMCAP2_0847,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200804,-
+436113,58110910,MMCAP2_RS05025,MMCAP2_RS05025,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110911,MMCAP2_RS05035,MMCAP2_RS05035,MMCAP2_0900,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210403,-
+436113,58110912,MMCAP2_RS05040,MMCAP2_RS05040,MMCAP2_0904,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110913,MMCAP2_RS05045,MMCAP2_RS05045,MMCAP2_0024,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20200804,-
+436113,58110914,MMCAP2_RS05050,MMCAP2_RS05050,MMCAP2_0072,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200804,-
+436113,58110915,MMCAP2_RS05055,MMCAP2_RS05055,MMCAP2_0159,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110916,MMCAP2_RS05060,MMCAP2_RS05060,MMCAP2_0242,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110917,MMCAP2_RS05065,MMCAP2_RS05065,MMCAP2_0268,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110918,MMCAP2_RS05070,MMCAP2_RS05070,MMCAP2_0272,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200804,-
+436113,58110919,MMCAP2_RS05075,MMCAP2_RS05075,MMCAP2_0274,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110920,MMCAP2_RS05080,MMCAP2_RS05080,MMCAP2_0293,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20210124,-
+436113,58110921,MMCAP2_RS05085,MMCAP2_RS05085,MMCAP2_0312,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200804,-
+436113,58110922,MMCAP2_RS05090,MMCAP2_RS05090,MMCAP2_0319,-,-,-,lipoprotein,protein-coding,-,-,-,lipoprotein,20200804,-
+436113,58110923,MMCAP2_RS05095,MMCAP2_RS05095,MMCAP2_0412,-,-,-,protein translocase,protein-coding,-,-,-,protein translocase,20210124,-
+436113,58110924,MMCAP2_RS05100,MMCAP2_RS05100,MMCAP2_0479,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110925,MMCAP2_RS05105,MMCAP2_RS05105,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+436113,58110926,MMCAP2_RS05110,MMCAP2_RS05110,MMCAP2_0586,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+436113,58110927,MMCAP2_RS05115,MMCAP2_RS05115,MMCAP2_0592,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20200804,-
+436113,58110928,MMCAP2_RS05120,MMCAP2_RS05120,-,-,-,-,pseudo,pseudo,-,-,-,-,20210124,-
+436113,58110929,MMCAP2_RS05125,MMCAP2_RS05125,MMCAP2_0623,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110930,MMCAP2_RS05130,MMCAP2_RS05130,MMCAP2_0631,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+436113,58110931,MMCAP2_RS05135,MMCAP2_RS05135,MMCAP2_0865,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210124,-
+436113,58110932,MMCAP2_RS05140,MMCAP2_RS05140,MMCAP2_0882,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-
+436113,58110933,MMCAP2_RS05145,MMCAP2_RS05145,MMCAP2_0892,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20210124,-
+436113,58262682,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Mycoplasma mycoides subsp. capri GM12; Mycoplasma mycoides subsp. capri strain GM12; Mycoplasma mycoides subsp. mycoides LC str. GM12).,other,-,-,-,-,20200805,-
+436113,62368242,MMCAP2_RS05150,MMCAP2_RS05150,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210124,-

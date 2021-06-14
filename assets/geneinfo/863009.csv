@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+863009,20130000,matK,KP97_p083,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160827,-
+863009,20130001,rps16,KP97_p082,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160325,-
+863009,20130003,psbK,KP97_p081,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20151028,-
+863009,20130004,psbI,KP97_p080,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160325,-
+863009,20130006,psbD,KP97_p079,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160716,-
+863009,20130007,psbC,KP97_p078,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20160325,-
+863009,20130009,psbZ,KP97_p077,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20151028,-
+863009,20130017,psbM,KP97_p076,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+863009,20130018,petN,KP97_p075,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20151028,-
+863009,20130020,rpoB,KP97_p074,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20180203,-
+863009,20130021,rpoC1,KP97_p073,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160827,-
+863009,20130022,rpoC2,KP97_p072,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160827,-
+863009,20130023,rps2,KP97_p071,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160813,-
+863009,20130024,atpI,KP97_p070,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20160325,-
+863009,20130025,atpH,KP97_p069,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20151028,-
+863009,20130026,atpF,KP97_p068,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20180203,-
+863009,20130027,atpA,KP97_p067,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160827,-
+863009,20130030,rps14,KP97_p066,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20151028,-
+863009,20130031,psaB,KP97_p065,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20151028,-
+863009,20130032,psaA,KP97_p064,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20151028,-
+863009,20130033,ycf3,KP97_p063,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170906,-
+863009,20130035,rps4,KP97_p062,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20180203,-
+863009,20130039,ndhJ,KP97_p061,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20151028,-
+863009,20130040,ndhK,KP97_p060,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160813,-
+863009,20130041,ndhC,KP97_p059,-,-,-,-,NADH-plastoquinone oxidoreductase subunit C,protein-coding,-,-,-,-,20151028,-
+863009,20130044,atpE,KP97_p058,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+863009,20130045,atpB,KP97_p057,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160827,-
+863009,20130046,rbcL,KP97_p056,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20151028,-
+863009,20130047,psaI,KP97_p055,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20151028,-
+863009,20130048,ycf4,KP97_p054,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20151028,-
+863009,20130049,cemA,KP97_p053,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20151028,-
+863009,20130050,petA,KP97_p052,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20180203,-
+863009,20130051,psbJ,KP97_p051,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20151028,-
+863009,20130052,psbL,KP97_p050,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20151028,-
+863009,20130053,psbF,KP97_p049,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20151028,-
+863009,20130054,psbE,KP97_p048,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+863009,20130055,petL,KP97_p047,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20151028,-
+863009,20130056,petG,KP97_p046,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+863009,20130059,psaJ,KP97_p045,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20151028,-
+863009,20130060,rpl33,KP97_p044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20151028,-
+863009,20130061,rps18,KP97_p043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20151028,-
+863009,20130062,rpl20,KP97_p042,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160813,-
+863009,20130063,clpP,KP97_p040,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160813,-
+863009,20130064,psbA,KP97_p001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160813,-
+863009,20130065,psbB,KP97_p039,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20151028,-
+863009,20130066,psbT,KP97_p038,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20151028,-
+863009,20130067,psbN,KP97_p037,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160325,-
+863009,20130068,psbH,KP97_p036,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20151028,-
+863009,20130069,petB,KP97_p035,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20160827,-
+863009,20130070,petD,KP97_p034,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160827,-
+863009,20130071,rpoA,KP97_p033,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160827,-
+863009,20130072,rps11,KP97_p032,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20151028,-
+863009,20130073,rpl36,KP97_p031,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20210212,-
+863009,20130074,infA,KP97_p030,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160827,-
+863009,20130075,rps8,KP97_p029,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20151028,-
+863009,20130076,rpl14,KP97_p028,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20151028,-
+863009,20130077,rpl16,KP97_p027,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+863009,20130078,rps3,KP97_p026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20180203,-
+863009,20130079,rpl22,KP97_p025,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160813,-
+863009,20130080,rps19,KP97_p024,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20151028,-
+863009,20130082,rpl2,KP97_p023,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20180203,-
+863009,20130083,rpl23,KP97_p022,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20151028,-
+863009,20130086,ndhB,KP97_p021,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+863009,20130087,rps7,KP97_p020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+863009,20130091,ycf68,KP97_p019,-,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160813,-
+863009,20130098,rps15,KP97_p018,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160806,-
+863009,20130099,ndhF,KP97_p017,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160827,-
+863009,20130100,rpl32,KP97_p016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20151028,-
+863009,20130102,ccsA,KP97_p015,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20151028,-
+863009,20130103,ndhD,KP97_p014,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20170906,-
+863009,20130104,psaC,KP97_p013,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+863009,20130105,ndhE,KP97_p012,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20151028,-
+863009,20130106,ndhG,KP97_p011,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20151028,-
+863009,20130107,ndhI,KP97_p010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+863009,20130108,ndhA,KP97_p009,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20151028,-
+863009,20130109,ndhH,KP97_p008,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20170906,-
+863009,20130110,rps15,KP97_p007,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160806,-
+863009,20130120,rps7,KP97_p006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+863009,20130121,ndhB,KP97_p005,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170906,-
+863009,20130124,rpl23,KP97_p004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20151028,-
+863009,20130125,rpl2,KP97_p003,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20180203,-
+863009,20130127,rps19,KP97_p002,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20151028,-
+863009,20130128,rps12,KP97_p041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+863009,20169634,trnK-UUU,KP97_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169635,trnQ-UUG,KP97_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169636,trnS-GCU,KP97_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169637,trnS-UGA,KP97_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169638,trnG-UCC,KP97_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169639,trnfM-CAU,KP97_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169640,trnG-UCC,KP97_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169641,trnT-GGU,KP97_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169642,trnE-UUC,KP97_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169643,trnY-GUA,KP97_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169644,trnD-GUC,KP97_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169645,trnC-GCA,KP97_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169646,trnR-UCU,KP97_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169647,trnfM-CAU,KP97_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169648,trnS-GGA,KP97_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169649,trnT-UGU,KP97_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169650,trnL-UAA,KP97_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169651,trnF-GAA,KP97_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169652,trnV-UAC,KP97_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169653,trnM-CAU,KP97_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169654,trnW-CCA,KP97_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169655,trnP-UGG,KP97_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169656,trnH-GUG,KP97_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169657,trnI-CAU,KP97_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169658,trnL-CAA,KP97_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169659,trnV-GAC,KP97_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169660,rrn16,KP97_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169661,trnI-GAU,KP97_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169662,trnA-UGC,KP97_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169663,rrn23,KP97_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169664,rrn4.5,KP97_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169665,rrn5,KP97_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169666,trnR-ACG,KP97_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169667,trnN-GUU,KP97_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169668,trnL-UAG,KP97_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169669,trnN-GUU,KP97_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169670,trnR-ACG,KP97_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169671,rrn5,KP97_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169672,rrn4.5,KP97_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169673,rrn23,KP97_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169674,trnA-UGC,KP97_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169675,trnI-GAU,KP97_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169676,rrn16,KP97_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+863009,20169677,trnV-GAC,KP97_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169678,trnL-CAA,KP97_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169679,trnI-CAU,KP97_t038,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+863009,20169680,trnH-GUG,KP97_t039,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-

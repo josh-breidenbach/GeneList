@@ -1,0 +1,133 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+433880,26900005,trnK-UUU,AZ393_gt001,Hice_t02,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900006,matK,AZ393_gp085,Hice_g02,-,-,-,maturase K,protein-coding,-,-,-,-,20160730,-
+433880,26900007,rps16,AZ393_gp084,Hice_g03,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160603,-
+433880,26900008,trnQ-UUG,AZ393_gt002,Hice_t03,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900009,psbK,AZ393_gp083,Hice_g04,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160603,-
+433880,26900010,psbI,AZ393_gp082,Hice_g05,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160603,-
+433880,26900011,trnS-GCU,AZ393_gt003,Hice_t04,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900012,psbD,AZ393_gp081,Hice_g06,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160813,-
+433880,26900013,psbC,AZ393_gp080,Hice_g07,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20160603,-
+433880,26900014,trnS-UGA,AZ393_gt004,Hice_t05,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900015,psbZ,AZ393_gp079,Hice_g08,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160603,-
+433880,26900016,trnG-GCC,AZ393_gt005,Hice_t06,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900017,trnfM-CAU,AZ393_gt006,Hice_t07,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900018,trnG-UCC,AZ393_gt007,Hice_t09,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900019,trnM-CAU,AZ393_gt008,Hice_t10,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900020,trnE-UUC,AZ393_gt009,Hice_t12,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900021,trnY-GUA,AZ393_gt010,Hice_t13,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900022,trnD-GUC,AZ393_gt011,Hice_t14,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900023,psbM,AZ393_gp078,Hice_g09,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+433880,26900024,petN,AZ393_gp077,Hice_g10,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20160603,-
+433880,26900025,trnC-GCA,AZ393_gt012,Hice_t15,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900026,rpoB,AZ393_gp076,Hice_g11,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160730,-
+433880,26900027,rpoC1,AZ393_gp075,Hice_g12,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160730,-
+433880,26900028,rpoC2,AZ393_gp074,Hice_g13,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160730,-
+433880,26900029,rps2,AZ393_gp073,Hice_g14,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160730,-
+433880,26900030,atpI,AZ393_gp072,Hice_g15,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20160603,-
+433880,26900031,atpH,AZ393_gp071,Hice_g16,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20160603,-
+433880,26900032,atpF,AZ393_gp070,Hice_g17,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20160730,-
+433880,26900033,atpA,AZ393_gp069,Hice_g18,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160730,-
+433880,26900034,trnR-UCU,AZ393_gt013,Hice_t16,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900035,trnfM-CAU,AZ393_gt014,Hice_t17,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900036,rps14,AZ393_gp068,Hice_g19,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160603,-
+433880,26900037,psaB,AZ393_gp067,Hice_g20,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160603,-
+433880,26900038,psaA,AZ393_gp066,Hice_g21,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160603,-
+433880,26900039,ycf3,AZ393_gp065,Hice_g22,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170908,-
+433880,26900040,trnS-GGA,AZ393_gt015,Hice_t18,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900041,rps4,AZ393_gp064,Hice_g23,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+433880,26900042,trnT-UGU,AZ393_gt016,Hice_t19,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900043,trnL-UAA,AZ393_gt017,Hice_t20,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900044,trnF-GAA,AZ393_gt018,Hice_t22,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900045,ndhJ,AZ393_gp063,Hice_g24,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20160603,-
+433880,26900046,ndhK,AZ393_gp062,Hice_g25,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160730,-
+433880,26900047,ndhC,AZ393_gp061,Hice_g26,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20160603,-
+433880,26900048,trnV-UAC,AZ393_gt019,Hice_t24,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900049,trnM-CAU,AZ393_gt020,Hice_t25,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900050,atpE,AZ393_gp060,Hice_g27,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20180203,-
+433880,26900051,atpB,AZ393_gp059,Hice_g28,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20180203,-
+433880,26900052,rbcL,AZ393_gp058,Hice_g29,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenas",protein-coding,-,-,-,-,20160603,-
+433880,26900053,psaI,AZ393_gp057,Hice_g30,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20160603,-
+433880,26900054,ycf4,AZ393_gp056,Hice_g31,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160603,-
+433880,26900055,cemA,AZ393_gp055,Hice_g32,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160603,-
+433880,26900056,petA,AZ393_gp054,Hice_g33,-,-,-,cytochrome f,protein-coding,-,-,-,-,20160730,-
+433880,26900057,psbJ,AZ393_gp053,Hice_g34,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160603,-
+433880,26900058,psbL,AZ393_gp052,Hice_g35,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160603,-
+433880,26900059,psbF,AZ393_gp051,Hice_g36,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20160603,-
+433880,26900060,psbE,AZ393_gp050,Hice_g37,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+433880,26900061,petL,AZ393_gp049,Hice_g38,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160603,-
+433880,26900062,petG,AZ393_gp048,Hice_g39,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+433880,26900063,trnW-CCA,AZ393_gt021,Hice_t26,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900064,trnP-UGG,AZ393_gt022,Hice_t27,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900065,psaJ,AZ393_gp047,Hice_g40,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20160603,-
+433880,26900066,rpl33,AZ393_gp046,Hice_g41,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160603,-
+433880,26900067,rps18,AZ393_gp045,Hice_g42,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160603,-
+433880,26900068,rpl20,AZ393_gp044,Hice_g43,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160730,-
+433880,26900069,rps12,AZ393_gp042,Hice_g82,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-
+433880,26900070,clpP,AZ393_gp041,Hice_g46,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160730,-
+433880,26900071,psbA,AZ393_gp001,Hice_g01,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160827,-
+433880,26900072,psbB,AZ393_gp040,Hice_g47,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20160603,-
+433880,26900073,psbT,AZ393_gp039,Hice_g48,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160603,-
+433880,26900074,psbN,AZ393_gp038,Hice_g49,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160603,-
+433880,26900075,psbH,AZ393_gp037,Hice_g50,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20160603,-
+433880,26900076,petB,AZ393_gp036,Hice_g51,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+433880,26900077,petD,AZ393_gp035,Hice_g52,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160806,-
+433880,26900078,rpoA,AZ393_gp034,Hice_g53,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160730,-
+433880,26900079,rps11,AZ393_gp033,Hice_g54,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160603,-
+433880,26900080,rpl36,AZ393_gp032,Hice_g55,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20180203,-
+433880,26900081,infA,AZ393_gp031,Hice_g56,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160730,-
+433880,26900082,rps8,AZ393_gp030,Hice_g57,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160603,-
+433880,26900083,rpl14,AZ393_gp029,Hice_g58,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160603,-
+433880,26900084,rpl16,AZ393_gp028,Hice_g59,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160730,-
+433880,26900085,rps3,AZ393_gp027,Hice_g60,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20191025,-
+433880,26900086,rpl22,AZ393_gp026,Hice_g61,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160730,-
+433880,26900087,rps19,AZ393_gp025,Hice_g62,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160603,-
+433880,26900088,trnH-GUG,AZ393_gt023,Hice_t28,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900089,rpl2,AZ393_gp024,Hice_g63,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+433880,26900090,rpl23,AZ393_gp023,Hice_g64,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160603,-
+433880,26900091,trnI-CAU,AZ393_gt024,Hice_t29,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900092,trnL-CAA,AZ393_gt025,Hice_t30,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900093,ndhB,AZ393_gp022,Hice_g65,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20171014,-
+433880,26900094,rps7,AZ393_gp021,Hice_g66,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+433880,26900095,trnV-GAC,AZ393_gt026,Hice_t31,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900096,rrn16,AZ393_gr008,Hice_r1,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900097,trnI-GAU,AZ393_gt027,Hice_t32,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900098,ycf68,AZ393_gp020,Hice_g67,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160730,-
+433880,26900099,trnA-UGC,AZ393_gt028,Hice_t34,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900100,rrn23,AZ393_gr007,Hice_r2,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900101,rrn4.5,AZ393_gr006,Hice_r3,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900102,rrn5,AZ393_gr005,Hice_r4,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900103,trnR-ACG,AZ393_gt029,Hice_t36,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900104,trnN-GUU,AZ393_gt030,Hice_t37,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900105,rps15,AZ393_gp019,Hice_g68,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+433880,26900106,ndhF,AZ393_gp018,Hice_g69,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160730,-
+433880,26900107,rpl32,AZ393_gp017,Hice_g70,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160603,-
+433880,26900108,trnL-UAG,AZ393_gt031,Hice_t38,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900109,ccsA,AZ393_gp016,Hice_g71,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20160603,-
+433880,26900110,ndhD,AZ393_gp015,Hice_g72,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160730,-
+433880,26900111,psaC,AZ393_gp014,Hice_g73,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+433880,26900112,ndhE,AZ393_gp013,Hice_g74,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20160603,-
+433880,26900113,ndhG,AZ393_gp012,Hice_g75,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20160603,-
+433880,26900114,ndhI,AZ393_gp011,Hice_g76,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20160730,-
+433880,26900115,ndhA,AZ393_gp010,Hice_g77,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20160603,-
+433880,26900116,ndhH,AZ393_gp009,Hice_g78,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20160603,-
+433880,26900117,rps15,AZ393_gp008,Hice_g80,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160730,-
+433880,26900118,trnN-GUU,AZ393_gt032,Hice_t39,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900119,trnR-ACG,AZ393_gt033,Hice_t40,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900120,rrn5,AZ393_gr004,Hice_r5,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900121,rrn4.5,AZ393_gr003,Hice_r6,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900122,rrn23,AZ393_gr002,Hice_r7,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900123,trnA-UGC,AZ393_gt034,Hice_t41,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900124,trnI-GAU,AZ393_gt035,Hice_t42,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900125,ycf68,AZ393_gp007,Hice_g81,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160730,-
+433880,26900126,rrn16,AZ393_gr001,Hice_r8,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160304,-
+433880,26900127,trnV-GAC,AZ393_gt036,Hice_t43,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900128,rps7,AZ393_gp006,Hice_g83,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+433880,26900129,ndhB,AZ393_gp005,Hice_g84,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20171014,-
+433880,26900130,trnL-CAA,AZ393_gt037,Hice_t44,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900131,trnI-CAU,AZ393_gt038,Hice_t45,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900132,rpl23,AZ393_gp004,Hice_g85,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160603,-
+433880,26900133,rpl2,AZ393_gp003,Hice_g86,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+433880,26900134,trnH-GUG,AZ393_gt039,Hice_t46,-,-,-,tRNA,tRNA,-,-,-,-,20160304,-
+433880,26900135,rps19,AZ393_gp002,Hice_g87,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160603,-
+433880,26900136,rps12,AZ393_gp043,Hice_g44,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160730,-

@@ -1,0 +1,139 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+519246,26834349,rps19,AYB36_gp001,GaC_001,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160504,-
+519246,26834350,clpP,AYB36_gp046,GaC_073,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160806,-
+519246,26834351,psbA,AYB36_gp002,GaC_002,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160504,-
+519246,26834352,trnK-UUU,AYB36_gt001,GaC_003,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834353,matK,AYB36_gp091,GaC_004,-,-,-,maturase K,protein-coding,-,-,-,-,20160924,-
+519246,26834354,rps16,AYB36_gp090,GaC_005,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20160504,-
+519246,26834355,trnQ-UUG,AYB36_gt002,GaC_006,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834356,psbK,AYB36_gp089,GaC_007,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20160504,-
+519246,26834357,psbI,AYB36_gp088,GaC_008,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160504,-
+519246,26834358,trnS-GCU,AYB36_gt003,GaC_009,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834359,psbD,AYB36_gp087,GaC_010,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160716,-
+519246,26834360,psbC,AYB36_gp086,GaC_011,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20160504,-
+519246,26834361,trnS-UGA,AYB36_gt004,GaC_012,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834362,psbZ,AYB36_gp085,GaC_013,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20160504,-
+519246,26834363,trnG-GCC,AYB36_gt005,GaC_014,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834364,trnfM-CAU,AYB36_gt006,GaC_015,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834365,trnG-UCC,AYB36_gt007,GaC_016,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834366,rpl2,AYB36_gp084,GaC_017,-,-,-,ribosomal protein L2,pseudo,-,-,-,-,20160213,-
+519246,26834367,trnT-GGU,AYB36_gt008,GaC_018,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834368,trnE-UUC,AYB36_gt009,GaC_019,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834369,trnY-GUA,AYB36_gt010,GaC_020,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834370,trnD-GUC,AYB36_gt011,GaC_021,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834371,psbM,AYB36_gp083,GaC_022,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+519246,26834372,petN,AYB36_gp082,GaC_023,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20160504,-
+519246,26834373,trnC-GCA,AYB36_gt012,GaC_024,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834374,rpoB,AYB36_gp081,GaC_025,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160730,-
+519246,26834375,rpoC1,AYB36_gp080,GaC_026,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20160917,-
+519246,26834376,rpoC2,AYB36_gp079,GaC_027,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160716,-
+519246,26834377,rps2,AYB36_gp078,GaC_028,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160917,-
+519246,26834378,atpI,AYB36_gp077,GaC_029,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20160504,-
+519246,26834379,atpH,AYB36_gp076,GaC_030,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20160504,-
+519246,26834380,atpF,AYB36_gp075,GaC_031,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20180203,-
+519246,26834381,atpA,AYB36_gp074,GaC_032,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20160917,-
+519246,26834382,trnR-UCU,AYB36_gt013,GaC_033,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834383,trnfM-CAU,AYB36_gt014,GaC_034,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834384,rps14,AYB36_gp073,GaC_035,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160504,-
+519246,26834385,psaB,AYB36_gp072,GaC_036,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160504,-
+519246,26834386,psaA,AYB36_gp071,GaC_037,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20160504,-
+519246,26834387,ycf3,AYB36_gp070,GaC_038,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170908,-
+519246,26834388,trnS-GGA,AYB36_gt015,GaC_039,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834389,rps4,AYB36_gp069,GaC_040,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160917,-
+519246,26834390,trnT-UGU,AYB36_gt016,GaC_041,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834391,trnL-UAA,AYB36_gt017,GaC_042,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834392,trnF-GAA,AYB36_gt018,GaC_043,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834393,ndhJ,AYB36_gp068,GaC_044,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20160504,-
+519246,26834394,ndhK,AYB36_gp067,GaC_045,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160917,-
+519246,26834395,ndhC,AYB36_gp066,GaC_046,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20160504,-
+519246,26834396,trnV-UAC,AYB36_gt019,GaC_047,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834397,trnM-CAU,AYB36_gt020,GaC_048,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834398,atpE,AYB36_gp065,GaC_049,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+519246,26834399,atpB,AYB36_gp064,GaC_050,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20160924,-
+519246,26834400,rbcL,AYB36_gp063,GaC_051,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160504,-
+519246,26834401,psaI,AYB36_gp062,GaC_052,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20160504,-
+519246,26834402,ycf4,AYB36_gp061,GaC_053,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160504,-
+519246,26834403,cemA,AYB36_gp060,GaC_054,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160504,-
+519246,26834404,petA,AYB36_gp059,GaC_055,-,-,-,cytochrome f,protein-coding,-,-,-,-,20180203,-
+519246,26834405,psbJ,AYB36_gp058,GaC_056,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160504,-
+519246,26834406,psbL,AYB36_gp057,GaC_057,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20160504,-
+519246,26834407,psbF,AYB36_gp056,GaC_058,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20160504,-
+519246,26834408,psbE,AYB36_gp055,GaC_059,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+519246,26834409,petL,AYB36_gp054,GaC_060,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20160504,-
+519246,26834410,petG,AYB36_gp053,GaC_061,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+519246,26834411,trnW-CCA,AYB36_gt021,GaC_062,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834412,trnP-UGG,AYB36_gt022,GaC_063,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834413,psaJ,AYB36_gp052,GaC_064,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20160504,-
+519246,26834414,rpl33,AYB36_gp051,GaC_065,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160504,-
+519246,26834415,rps18,AYB36_gp050,GaC_066,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160504,-
+519246,26834416,rpl20,AYB36_gp049,GaC_067,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160806,-
+519246,26834417,rps12,AYB36_gp047,GaC_138,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160806,-
+519246,26834418,psbT,AYB36_gp044,GaC_074,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160504,-
+519246,26834419,trnV-GAC,AYB36_gt026,GaC_096,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834420,rps15,AYB36_gp022,GaC_106,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160806,-
+519246,26834421,trnN-GUU,AYB36_gt032,GaC_120,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834422,rps7,AYB36_gp006,GaC_130,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+519246,26834423,psbB,AYB36_gp045,GaC_068,-,-,-,PsbB,protein-coding,-,-,-,-,20160504,-
+519246,26834424,psbN,AYB36_gp043,GaC_075,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20160504,-
+519246,26834425,psbH,AYB36_gp042,GaC_076,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20160504,-
+519246,26834426,petB,AYB36_gp041,GaC_077,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+519246,26834427,petD,AYB36_gp040,GaC_078,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160924,-
+519246,26834428,rpoA,AYB36_gp039,GaC_079,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20160924,-
+519246,26834429,rps11,AYB36_gp038,GaC_080,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160504,-
+519246,26834430,rpl36,AYB36_gp037,GaC_081,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20210212,-
+519246,26834431,infA,AYB36_gp036,GaC_082,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160924,-
+519246,26834432,rps8,AYB36_gp035,GaC_083,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160504,-
+519246,26834433,rpl14,AYB36_gp034,GaC_084,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160504,-
+519246,26834434,rpl16,AYB36_gp033,GaC_085,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160917,-
+519246,26834435,rps3,AYB36_gp032,GaC_086,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20200912,-
+519246,26834436,rpl22,AYB36_gp031,GaC_087,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160917,-
+519246,26834437,rps19,AYB36_gp030,GaC_088,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160504,-
+519246,26834438,trnH-GUG,AYB36_gt023,GaC_089,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834439,rpl2,AYB36_gp029,GaC_090,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160730,-
+519246,26834440,rpl23,AYB36_gp028,GaC_091,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160504,-
+519246,26834441,trnI-CAU,AYB36_gt024,GaC_092,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834442,trnL-CAA,AYB36_gt025,GaC_093,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834443,ndhB,AYB36_gp027,GaC_094,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+519246,26834444,rps7,AYB36_gp026,GaC_095,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+519246,26834445,ycf15,AYB36_gp025,GaC_069,-,-,-,pseudo,pseudo,-,-,-,-,20160213,-
+519246,26834446,rrn16,AYB36_gr008,GaC_097,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834447,trnI-GAU,AYB36_gt027,GaC_098,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834448,ycf68,AYB36_gp024,GaC_099,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160813,-
+519246,26834449,trnA-UGC,AYB36_gt028,GaC_100,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834450,rrn23,AYB36_gr007,GaC_101,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834451,rrn4.5,AYB36_gr006,GaC_102,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834452,rrn5,AYB36_gr005,GaC_103,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834453,trnR-ACG,AYB36_gt029,GaC_104,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834454,trnN-GUU,AYB36_gt030,GaC_105,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834455,ycf1,AYB36_gp023,GaC_070,-,-,-,pseudo,pseudo,-,-,-,-,20160213,-
+519246,26834456,ndhH,AYB36_gp021,GaC_107,-,-,-,pseudo,pseudo,-,-,-,-,20160213,-
+519246,26834457,ndhF,AYB36_gp020,GaC_108,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160730,-
+519246,26834458,rpl32,AYB36_gp019,GaC_109,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160504,-
+519246,26834459,trnL-UAG,AYB36_gt031,GaC_110,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834460,ccsA,AYB36_gp018,GaC_111,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20160504,-
+519246,26834461,ndhD,AYB36_gp017,GaC_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20160924,-
+519246,26834462,psaC,AYB36_gp016,GaC_113,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+519246,26834463,ndhE,AYB36_gp015,GaC_114,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20160504,-
+519246,26834464,ndhG,AYB36_gp014,GaC_115,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20160504,-
+519246,26834465,ndhI,AYB36_gp013,GaC_116,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20160917,-
+519246,26834466,ndhA,AYB36_gp012,GaC_117,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20160504,-
+519246,26834467,ndhH,AYB36_gp011,GaC_118,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20180203,-
+519246,26834468,rps15,AYB36_gp010,GaC_119,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160806,-
+519246,26834469,ycf1,AYB36_gp009,GaC_071,-,-,-,pseudo,pseudo,-,-,-,-,20160213,-
+519246,26834470,trnR-ACG,AYB36_gt033,GaC_121,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834471,rrn5,AYB36_gr004,GaC_122,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834472,rrn4.5,AYB36_gr003,GaC_123,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834473,rrn23,AYB36_gr002,GaC_124,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834474,trnA-UGC,AYB36_gt034,GaC_125,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834475,trnI-GAU,AYB36_gt035,GaC_126,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834476,ycf68,AYB36_gp008,GaC_127,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160813,-
+519246,26834477,rrn16,AYB36_gr001,GaC_128,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+519246,26834478,trnV-GAC,AYB36_gt036,GaC_129,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834479,ycf15,AYB36_gp007,GaC_072,-,-,-,pseudo,pseudo,-,-,-,-,20160213,-
+519246,26834480,ndhB,AYB36_gp005,GaC_131,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+519246,26834481,trnL-CAA,AYB36_gt037,GaC_132,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834482,trnI-CAU,AYB36_gt038,GaC_133,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834483,rpl23,AYB36_gp004,GaC_134,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160504,-
+519246,26834484,rpl2,AYB36_gp003,GaC_135,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160730,-
+519246,26834485,trnH-GUG,AYB36_gt039,GaC_136,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+519246,26834486,rps12,AYB36_gp048,GaC_137,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160806,-

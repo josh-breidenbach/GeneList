@@ -1,0 +1,694 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+565575,6994063,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Ureaplasma urealyticum serovar 10 strain ATCC 33699).,other,-,-,-,-,20150218,-
+565575,45015557,UUR10_RS00005,UUR10_RS00005,UUR10_0001,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200403,-
+565575,45015558,rpmE,UUR10_RS00010,UUR10_0002,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200403,-
+565575,45015559,prfA,UUR10_RS00015,UUR10_0003,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20210402,-
+565575,45015560,UUR10_RS00020,UUR10_RS00020,UUR10_0004,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200403,-
+565575,45015561,UUR10_RS00025,UUR10_RS00025,UUR10_0005,-,-,-,L-threonylcarbamoyladenylate synthase,protein-coding,-,-,-,L-threonylcarbamoyladenylate synthase,20200403,-
+565575,45015562,UUR10_RS00030,UUR10_RS00030,UUR10_0006,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20200403,-
+565575,45015563,UUR10_RS00035,UUR10_RS00035,UUR10_0007,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015564,UUR10_RS00040,UUR10_RS00040,UUR10_0008,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45015565,mgtE,UUR10_RS00045,UUR10_0009,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200403,-
+565575,45015566,UUR10_RS00050,UUR10_RS00050,UUR10_0010,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200406,-
+565575,45015567,rplL,UUR10_RS00055,UUR10_0011,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20210402,-
+565575,45015568,UUR10_RS00060,UUR10_RS00060,UUR10_0012,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20201003,-
+565575,45015569,UUR10_RS00065,UUR10_RS00065,UUR10_0013,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015570,UUR10_RS00070,UUR10_RS00070,UUR10_0014,-,-,-,sugar ABC transporter,protein-coding,-,-,-,sugar ABC transporter,20200403,-
+565575,45015571,UUR10_RS00075,UUR10_RS00075,UUR10_0015,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015572,UUR10_RS00080,UUR10_RS00080,UUR10_0016,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20201003,-
+565575,45015573,UUR10_RS00085,UUR10_RS00085,UUR10_0017,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200403,-
+565575,45015574,mnmE,UUR10_RS00090,UUR10_0018,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20210402,-
+565575,45015575,UUR10_RS00095,UUR10_RS00095,UUR10_0019,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200403,-
+565575,45015576,tmk,UUR10_RS00100,UUR10_0020,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200403,-
+565575,45015577,UUR10_RS00105,UUR10_RS00105,UUR10_0021,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200403,-
+565575,45015578,UUR10_RS00110,UUR10_RS00110,UUR10_0022,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200403,-
+565575,45015579,UUR10_RS00115,UUR10_RS00115,UUR10_0023,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200403,-
+565575,45015580,UUR10_RS00120,UUR10_RS00120,UUR10_0024,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015581,UUR10_RS00125,UUR10_RS00125,UUR10_0025,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200403,-
+565575,45015582,rpsB,UUR10_RS00130,UUR10_0026,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20210402,-
+565575,45015583,UUR10_RS00135,UUR10_RS00135,UUR10_0027,-,-,-,iron ABC transporter substrate-binding protein,protein-coding,-,-,-,iron ABC transporter substrate-binding protein,20200403,-
+565575,45015584,UUR10_RS00140,UUR10_RS00140,UUR10_0028,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015585,UUR10_RS00145,UUR10_RS00145,UUR10_0029,-,-,-,RNA-binding transcriptional accessory protein,protein-coding,-,-,-,RNA-binding transcriptional accessory protein,20200403,-
+565575,45015586,UUR10_RS00150,UUR10_RS00150,UUR10_0030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015587,UUR10_RS00155,UUR10_RS00155,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,45015588,UUR10_RS00160,UUR10_RS00160,UUR10_0032,-,-,-,C39 family peptidase,protein-coding,-,-,-,C39 family peptidase,20210402,-
+565575,45015589,UUR10_RS00165,UUR10_RS00165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,45015590,UUR10_RS00170,UUR10_RS00170,UUR10_0034,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015591,UUR10_RS00175,UUR10_RS00175,UUR10_0035,-,-,-,SocA family protein,protein-coding,-,-,-,SocA family protein,20200403,-
+565575,45015592,UUR10_RS00180,UUR10_RS00180,UUR10_0036,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20200403,-
+565575,45015593,UUR10_RS00185,UUR10_RS00185,UUR10_0037,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20200403,-
+565575,45015594,UUR10_RS00190,UUR10_RS00190,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45015595,UUR10_RS00195,UUR10_RS00195,UUR10_0040,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210402,-
+565575,45015596,UUR10_RS00200,UUR10_RS00200,UUR10_0041,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210402,-
+565575,45015597,UUR10_RS00205,UUR10_RS00205,UUR10_0042,-,-,-,putative DNA binding domain-containing protein,protein-coding,-,-,-,putative DNA binding domain-containing protein,20210402,-
+565575,45015598,mnmG,UUR10_RS00210,UUR10_0043,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20210402,-
+565575,45015599,rsmG,UUR10_RS00215,UUR10_0044,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20200403,-
+565575,45015600,UUR10_RS00220,UUR10_RS00220,-,-,-,-,SemiSWEET family sugar transporter,protein-coding,-,-,-,SemiSWEET family sugar transporter,20210402,-
+565575,45015601,UUR10_RS00225,UUR10_RS00225,UUR10_0047,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+565575,45015602,UUR10_RS00230,UUR10_RS00230,UUR10_0048,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45015603,UUR10_RS00235,UUR10_RS00235,UUR10_0049,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200403,-
+565575,45015604,UUR10_RS00240,UUR10_RS00240,UUR10_0050,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45015605,UUR10_RS00245,UUR10_RS00245,UUR10_0051,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200403,-
+565575,45015606,UUR10_RS00250,UUR10_RS00250,UUR10_0052,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210402,-
+565575,45015607,UUR10_RS00255,UUR10_RS00255,UUR10_0053,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015608,UUR10_RS00260,UUR10_RS00260,UUR10_0054,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20200912,-
+565575,45015609,UUR10_RS00265,UUR10_RS00265,UUR10_0055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015610,UUR10_RS00270,UUR10_RS00270,UUR10_0056,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45015611,UUR10_RS00275,UUR10_RS00275,UUR10_0057,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015612,UUR10_RS00280,UUR10_RS00280,UUR10_0058,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20200403,-
+565575,45015613,UUR10_RS00285,UUR10_RS00285,UUR10_0059,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210402,-
+565575,45015614,UUR10_RS00290,UUR10_RS00290,UUR10_0060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015615,UUR10_RS00295,UUR10_RS00295,UUR10_0061,-,-,-,5'-nucleotidase C-terminal domain-containing protein,protein-coding,-,-,-,5'-nucleotidase C-terminal domain-containing protein,20210402,-
+565575,45015616,secG,UUR10_RS00300,UUR10_0062,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200403,-
+565575,45015617,rnr,UUR10_RS00305,UUR10_0063,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200403,-
+565575,45015618,UUR10_RS00310,UUR10_RS00310,UUR10_0064,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015619,smpB,UUR10_RS00315,UUR10_0065,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200912,-
+565575,45015620,UUR10_RS00320,UUR10_RS00320,UUR10_0066,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015621,UUR10_RS00325,UUR10_RS00325,UUR10_0067,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015622,UUR10_RS00330,UUR10_RS00330,UUR10_0068,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015623,lysS,UUR10_RS00335,UUR10_0069,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20210402,-
+565575,45015624,UUR10_RS00340,UUR10_RS00340,UUR10_0070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015625,pepF,UUR10_RS00345,UUR10_0071,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20200403,-
+565575,45015626,UUR10_RS00350,UUR10_RS00350,UUR10_0072,-,-,-,phosphotransacetylase,protein-coding,-,-,-,phosphotransacetylase,20200403,-
+565575,45015627,UUR10_RS00355,UUR10_RS00355,UUR10_0073,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20200905,-
+565575,45015628,UUR10_RS00360,UUR10_RS00360,UUR10_0074,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015629,UUR10_RS00365,UUR10_RS00365,UUR10_0075,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015630,UUR10_RS00370,UUR10_RS00370,UUR10_0076,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200912,-
+565575,45015631,UUR10_RS00375,UUR10_RS00375,UUR10_0077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015632,UUR10_RS00380,UUR10_RS00380,UUR10_0078,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200403,-
+565575,45015633,whiA,UUR10_RS00385,UUR10_0079,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200403,-
+565575,45015634,UUR10_RS00390,UUR10_RS00390,UUR10_0080,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200905,-
+565575,45015635,UUR10_RS00395,UUR10_RS00395,UUR10_0081,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20210402,-
+565575,45015636,UUR10_RS00400,UUR10_RS00400,UUR10_0082,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20210402,-
+565575,45015637,tilS,UUR10_RS00405,UUR10_0083,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200403,-
+565575,45015638,UUR10_RS00410,UUR10_RS00410,UUR10_0084,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200403,-
+565575,45015639,UUR10_RS00415,UUR10_RS00415,UUR10_0085,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200403,-
+565575,45015640,yaaA,UUR10_RS00420,UUR10_0086,-,-,-,S4 domain-containing protein YaaA,protein-coding,-,-,-,S4 domain-containing protein YaaA,20200401,-
+565575,45015641,gyrB,UUR10_RS00425,UUR10_0087,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200403,-
+565575,45015642,gyrA,UUR10_RS00430,UUR10_0088,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20200403,-
+565575,45015643,UUR10_RS00435,UUR10_RS00435,UUR10_0089,-,-,-,CinA family protein,protein-coding,-,-,-,CinA family protein,20200403,-
+565575,45015644,recA,UUR10_RS00440,UUR10_0090,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210402,-
+565575,45015645,UUR10_RS00445,UUR10_RS00445,UUR10_0091,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20200403,-
+565575,45015646,UUR10_RS00455,UUR10_RS00455,UUR10_0094,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015648,UUR10_RS00465,UUR10_RS00465,UUR10_0096,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015649,UUR10_RS00470,UUR10_RS00470,UUR10_0097,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015650,UUR10_RS00475,UUR10_RS00475,UUR10_0098,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200403,-
+565575,45015651,dnaX,UUR10_RS00480,UUR10_0099,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200403,-
+565575,45015652,UUR10_RS00485,UUR10_RS00485,UUR10_0100,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200905,-
+565575,45015653,recR,UUR10_RS00490,UUR10_0101,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20210402,-
+565575,45015654,UUR10_RS00495,UUR10_RS00495,UUR10_0102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015655,ffh,UUR10_RS00500,UUR10_0103,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200403,-
+565575,45015656,UUR10_RS00505,UUR10_RS00505,UUR10_0104,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015657,UUR10_RS00510,UUR10_RS00510,UUR10_0105,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015658,UUR10_RS00515,UUR10_RS00515,UUR10_0106,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015659,UUR10_RS00520,UUR10_RS00520,UUR10_0107,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20210402,-
+565575,45015660,UUR10_RS00525,UUR10_RS00525,UUR10_0108,-,-,-,type I restriction-modification system subunit M N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction-modification system subunit M N-terminal domain-containing protein,20210402,-
+565575,45015661,UUR10_RS00530,UUR10_RS00530,UUR10_0109,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015662,uvrA,UUR10_RS00535,UUR10_0110,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200403,-
+565575,45015663,UUR10_RS00540,UUR10_RS00540,UUR10_0111,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015664,hpt,UUR10_RS00545,UUR10_0112,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200403,-
+565575,45015665,ftsH,UUR10_RS00550,UUR10_0113,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210402,-
+565575,45015666,serS,UUR10_RS00555,UUR10_0114,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20210402,-
+565575,45015667,UUR10_RS00560,UUR10_RS00560,UUR10_0115,-,-,-,C10 family peptidase,protein-coding,-,-,-,C10 family peptidase,20210402,-
+565575,45015668,UUR10_RS00565,UUR10_RS00565,UUR10_0116,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015669,UUR10_RS00570,UUR10_RS00570,UUR10_0117,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200912,-
+565575,45015670,UUR10_RS00575,UUR10_RS00575,UUR10_0118,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015671,UUR10_RS00580,UUR10_RS00580,UUR10_0119,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015672,UUR10_RS00585,UUR10_RS00585,UUR10_0120,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45015673,UUR10_RS00590,UUR10_RS00590,UUR10_0121,-,-,-,suppressor of fused domain protein,protein-coding,-,-,-,suppressor of fused domain protein,20200912,-
+565575,45015674,UUR10_RS00595,UUR10_RS00595,UUR10_0122,-,-,-,3'-5' exonuclease,protein-coding,-,-,-,3'-5' exonuclease,20200912,-
+565575,45015675,UUR10_RS00600,UUR10_RS00600,UUR10_0123,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200403,-
+565575,45015676,UUR10_RS00605,UUR10_RS00605,UUR10_0124,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015677,UUR10_RS00610,UUR10_RS00610,UUR10_0125,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015678,rrf,UUR10_RS00615,UUR10_0126,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015679,UUR10_RS00620,UUR10_RS00620,UUR10_0127,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200403,-
+565575,45015680,UUR10_RS00625,UUR10_RS00625,UUR10_0128,-,-,-,HAD family hydrolase,protein-coding,-,-,-,HAD family hydrolase,20200403,-
+565575,45015681,UUR10_RS00630,UUR10_RS00630,UUR10_0129,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015682,upp,UUR10_RS00635,UUR10_0130,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20210605,-
+565575,45015683,UUR10_RS00640,UUR10_RS00640,UUR10_0132,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200403,-
+565575,45015684,UUR10_RS00645,UUR10_RS00645,UUR10_0133,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45015685,secA,UUR10_RS00650,UUR10_0134,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200403,-
+565575,45015686,uvrB,UUR10_RS00655,UUR10_0135,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210402,-
+565575,45015687,ligA,UUR10_RS00660,UUR10_0136,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20210402,-
+565575,45015688,UUR10_RS00665,UUR10_RS00665,UUR10_0137,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015689,cysS,UUR10_RS00670,UUR10_0138,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210402,-
+565575,45015690,rlmB,UUR10_RS00675,UUR10_0139,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200403,-
+565575,45015691,UUR10_RS00680,UUR10_RS00680,UUR10_0140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015692,UUR10_RS00685,UUR10_RS00685,UUR10_0141,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015693,UUR10_RS00690,UUR10_RS00690,UUR10_0142,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015694,atpC,UUR10_RS00695,UUR10_0143,-,-,-,ATP synthase F1 subunit epsilon,protein-coding,-,-,-,ATP synthase F1 subunit epsilon,20210402,-
+565575,45015695,atpD,UUR10_RS00700,UUR10_0144,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20210402,-
+565575,45015696,UUR10_RS00705,UUR10_RS00705,UUR10_0145,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200406,-
+565575,45015697,UUR10_RS00710,UUR10_RS00710,UUR10_0146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015698,atpA,UUR10_RS00715,UUR10_0147,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200403,-
+565575,45015699,UUR10_RS00720,UUR10_RS00720,UUR10_0148,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20210402,-
+565575,45015700,atpH,UUR10_RS00725,UUR10_0149,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20200403,-
+565575,45015702,UUR10_RS00735,UUR10_RS00735,UUR10_0152,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20200905,-
+565575,45015703,UUR10_RS00740,UUR10_RS00740,UUR10_0153,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200403,-
+565575,45015704,UUR10_RS00745,UUR10_RS00745,UUR10_0154,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015705,UUR10_RS00750,UUR10_RS00750,UUR10_0155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015706,UUR10_RS00755,UUR10_RS00755,UUR10_0156,-,-,-,chromosome segregation protein SMC,protein-coding,-,-,-,chromosome segregation protein SMC,20200403,-
+565575,45015707,ftsY,UUR10_RS00760,UUR10_0157,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20210402,-
+565575,45015708,UUR10_RS00765,UUR10_RS00765,UUR10_0158,-,-,-,putative DNA-binding protein,protein-coding,-,-,-,putative DNA-binding protein,20200403,-
+565575,45015709,UUR10_RS00770,UUR10_RS00770,UUR10_0159,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20210402,-
+565575,45015710,UUR10_RS00775,UUR10_RS00775,UUR10_0160,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015711,UUR10_RS00780,UUR10_RS00780,UUR10_0161,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015712,UUR10_RS00785,UUR10_RS00785,UUR10_0162,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45015713,UUR10_RS00790,UUR10_RS00790,UUR10_0163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015714,UUR10_RS00795,UUR10_RS00795,UUR10_0164,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20200403,-
+565575,45015715,UUR10_RS00800,UUR10_RS00800,UUR10_0165,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200912,-
+565575,45015716,trpS,UUR10_RS00805,UUR10_0166,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200403,-
+565575,45015717,UUR10_RS00810,UUR10_RS00810,UUR10_0167,-,-,-,Spx/MgsR family RNA polymerase-binding regulatory protein,protein-coding,-,-,-,Spx/MgsR family RNA polymerase-binding regulatory protein,20200905,-
+565575,45015718,UUR10_RS00815,UUR10_RS00815,UUR10_0168,-,-,-,NAD(+)/NADH kinase,protein-coding,-,-,-,NAD(+)/NADH kinase,20200403,-
+565575,45015719,UUR10_RS00820,UUR10_RS00820,UUR10_0169,-,-,-,DUF4234 domain-containing protein,protein-coding,-,-,-,DUF4234 domain-containing protein,20200905,-
+565575,45015720,UUR10_RS00825,UUR10_RS00825,UUR10_0170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015721,rlmH,UUR10_RS00830,UUR10_0171,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20210402,-
+565575,45015722,UUR10_RS00835,UUR10_RS00835,UUR10_0172,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20210402,-
+565575,45015723,UUR10_RS00840,UUR10_RS00840,UUR10_0173,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20200403,-
+565575,45015724,UUR10_RS00845,UUR10_RS00845,UUR10_0174,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015725,eno,UUR10_RS00850,UUR10_0175,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20210402,-
+565575,45015726,UUR10_RS00855,UUR10_RS00855,UUR10_0176,-,-,-,6-phosphofructokinase,protein-coding,-,-,-,6-phosphofructokinase,20210402,-
+565575,45015727,pyk,UUR10_RS00860,UUR10_0177,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200403,-
+565575,45015728,UUR10_RS00865,UUR10_RS00865,UUR10_0178,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210402,-
+565575,45015729,rpoC,UUR10_RS00870,UUR10_0179,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200406,-
+565575,45015730,UUR10_RS00875,UUR10_RS00875,UUR10_0180,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45015731,UUR10_RS00880,UUR10_RS00880,UUR10_0181,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200403,-
+565575,45015732,UUR10_RS00885,UUR10_RS00885,UUR10_0182,-,-,-,tRNA-binding protein,protein-coding,-,-,-,tRNA-binding protein,20200403,-
+565575,45015733,UUR10_RS00890,UUR10_RS00890,UUR10_0183,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20200403,-
+565575,45015734,rnmV,UUR10_RS00895,UUR10_0184,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20200912,-
+565575,45015735,rsmI,UUR10_RS00900,UUR10_0185,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200403,-
+565575,45015736,UUR10_RS00905,UUR10_RS00905,UUR10_0186,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20210402,-
+565575,45015737,UUR10_RS00910,UUR10_RS00910,UUR10_0187,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200912,-
+565575,45015738,UUR10_RS00915,UUR10_RS00915,UUR10_0188,-,-,-,PstS family phosphate ABC transporter substrate-binding protein,protein-coding,-,-,-,PstS family phosphate ABC transporter substrate-binding protein,20200403,-
+565575,45015739,pstA,UUR10_RS00920,UUR10_0189,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20200403,-
+565575,45015740,UUR10_RS00925,UUR10_RS00925,UUR10_0190,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20200403,-
+565575,45015741,UUR10_RS00930,UUR10_RS00930,UUR10_0191,-,-,-,phosphate uptake regulator PhoU,protein-coding,-,-,-,phosphate uptake regulator PhoU,20200912,-
+565575,45015742,UUR10_RS00935,UUR10_RS00935,UUR10_0192,-,-,-,heavy-metal-associated domain-containing protein,protein-coding,-,-,-,heavy-metal-associated domain-containing protein,20200403,-
+565575,45015743,UUR10_RS00940,UUR10_RS00940,UUR10_0193,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20200403,-
+565575,45015744,UUR10_RS00945,UUR10_RS00945,UUR10_0194,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,45015745,rpsO,UUR10_RS00950,UUR10_0195,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20210402,-
+565575,45015746,rnc,UUR10_RS00955,UUR10_0196,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200403,-
+565575,45015747,plsX,UUR10_RS00960,UUR10_0197,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20210402,-
+565575,45015748,UUR10_RS00965,UUR10_RS00965,UUR10_0198,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200403,-
+565575,45015749,UUR10_RS00970,UUR10_RS00970,UUR10_0199,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015750,UUR10_RS00975,UUR10_RS00975,UUR10_0200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015751,UUR10_RS00980,UUR10_RS00980,UUR10_0201,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200403,-
+565575,45015752,UUR10_RS00985,UUR10_RS00985,UUR10_0202,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015753,rpmA,UUR10_RS00990,UUR10_0203,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210402,-
+565575,45015754,UUR10_RS00995,UUR10_RS00995,UUR10_0204,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20200403,-
+565575,45015755,rplU,UUR10_RS01000,UUR10_0205,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200406,-
+565575,45015756,gmk,UUR10_RS01005,UUR10_0207,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200403,-
+565575,45015757,UUR10_RS01010,UUR10_RS01010,UUR10_0208,-,-,-,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,protein-coding,-,-,-,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,20200403,-
+565575,45015758,UUR10_RS01015,UUR10_RS01015,UUR10_0209,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20200403,-
+565575,45015759,UUR10_RS01020,UUR10_RS01020,UUR10_0210,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200403,-
+565575,45015760,rsgA,UUR10_RS01025,UUR10_0211,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20200406,-
+565575,45015761,UUR10_RS01030,UUR10_RS01030,UUR10_0212,-,-,-,ammonium transporter,protein-coding,-,-,-,ammonium transporter,20200403,-
+565575,45015762,UUR10_RS01035,UUR10_RS01035,UUR10_0213,-,-,-,ammonium transporter,protein-coding,-,-,-,ammonium transporter,20200403,-
+565575,45015763,UUR10_RS01040,UUR10_RS01040,UUR10_0214,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45015764,UUR10_RS01045,UUR10_RS01045,UUR10_0215,-,-,-,formate--tetrahydrofolate ligase,protein-coding,-,-,-,formate--tetrahydrofolate ligase,20210402,-
+565575,45015765,UUR10_RS01050,UUR10_RS01050,UUR10_0216,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20200403,-
+565575,45015766,UUR10_RS01055,UUR10_RS01055,UUR10_0217,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20201003,-
+565575,45015767,UUR10_RS01060,UUR10_RS01060,UUR10_0218,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015768,UUR10_RS01065,UUR10_RS01065,UUR10_0219,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015769,UUR10_RS01070,UUR10_RS01070,UUR10_0220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015770,UUR10_RS01075,UUR10_RS01075,UUR10_0221,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20201003,-
+565575,45015771,infC,UUR10_RS01080,UUR10_0222,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20210402,-
+565575,45015772,rpmI,UUR10_RS01085,UUR10_0223,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200406,-
+565575,45015773,rplT,UUR10_RS01090,UUR10_0224,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200406,-
+565575,45015774,rpsJ,UUR10_RS01095,UUR10_0225,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200406,-
+565575,45015775,rplC,UUR10_RS01100,UUR10_0226,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200406,-
+565575,45015776,rplD,UUR10_RS01105,UUR10_0227,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20210402,-
+565575,45015777,UUR10_RS01110,UUR10_RS01110,UUR10_0228,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210402,-
+565575,45015778,rplB,UUR10_RS01115,UUR10_0229,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200406,-
+565575,45015779,rpsS,UUR10_RS01120,UUR10_0230,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200403,-
+565575,45015780,rplV,UUR10_RS01125,UUR10_0231,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200403,-
+565575,45015781,rpsC,UUR10_RS01130,UUR10_0232,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20210402,-
+565575,45015782,rplP,UUR10_RS01135,UUR10_0233,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20210402,-
+565575,45015783,UUR10_RS01140,UUR10_RS01140,UUR10_0234,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200406,-
+565575,45015784,rpsQ,UUR10_RS01145,UUR10_0235,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20210402,-
+565575,45015785,rplN,UUR10_RS01150,UUR10_0236,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200403,-
+565575,45015786,rplX,UUR10_RS01155,UUR10_0237,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20210402,-
+565575,45015787,rplE,UUR10_RS01160,UUR10_0238,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20210402,-
+565575,45015788,UUR10_RS01165,UUR10_RS01165,UUR10_0239,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20201010,-
+565575,45015789,rpsH,UUR10_RS01170,UUR10_0240,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200406,-
+565575,45015790,rplF,UUR10_RS01175,UUR10_0241,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200403,-
+565575,45015791,UUR10_RS01180,UUR10_RS01180,UUR10_0242,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20210402,-
+565575,45015792,rpsE,UUR10_RS01185,UUR10_0243,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200403,-
+565575,45015793,rplO,UUR10_RS01190,UUR10_0244,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210402,-
+565575,45015794,secY,UUR10_RS01195,UUR10_0245,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200403,-
+565575,45015795,UUR10_RS01200,UUR10_RS01200,UUR10_0246,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200406,-
+565575,45015796,map,UUR10_RS01205,UUR10_0247,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200403,-
+565575,45015797,infA,UUR10_RS01210,UUR10_0248,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200403,-
+565575,45015798,rpmJ,UUR10_RS01215,UUR10_0249,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210402,-
+565575,45015799,rpsM,UUR10_RS01220,UUR10_0250,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210402,-
+565575,45015800,rpsK,UUR10_RS01225,UUR10_0251,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20210402,-
+565575,45015801,rpoA,UUR10_RS01230,UUR10_0252,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200403,-
+565575,45015802,rplQ,UUR10_RS01235,UUR10_0253,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20210402,-
+565575,45015803,UUR10_RS01240,UUR10_RS01240,UUR10_0254,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015804,UUR10_RS01245,UUR10_RS01245,UUR10_0255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015805,UUR10_RS01250,UUR10_RS01250,UUR10_0256,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45015806,UUR10_RS01255,UUR10_RS01255,UUR10_0257,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015807,UUR10_RS01260,UUR10_RS01260,UUR10_0258,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20200403,-
+565575,45015808,UUR10_RS01265,UUR10_RS01265,UUR10_0259,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015809,UUR10_RS01270,UUR10_RS01270,UUR10_0260,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20200403,-
+565575,45015810,UUR10_RS01280,UUR10_RS01280,UUR10_0262,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20210402,-
+565575,45015811,UUR10_RS01285,UUR10_RS01285,UUR10_0263,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200403,-
+565575,45015812,UUR10_RS01290,UUR10_RS01290,UUR10_0264,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20200403,-
+565575,45015813,trmB,UUR10_RS01295,UUR10_0265,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20210402,-
+565575,45015814,UUR10_RS01300,UUR10_RS01300,UUR10_0266,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015815,UUR10_RS01305,UUR10_RS01305,UUR10_0267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015816,UUR10_RS01310,UUR10_RS01310,UUR10_0268,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015817,UUR10_RS01315,UUR10_RS01315,UUR10_0269,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200403,-
+565575,45015818,UUR10_RS01320,UUR10_RS01320,UUR10_0271,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015819,UUR10_RS01325,UUR10_RS01325,UUR10_0270,-,-,-,coproporphyrinogen III oxidase family protein,protein-coding,-,-,-,coproporphyrinogen III oxidase family protein,20200403,-
+565575,45015820,UUR10_RS01330,UUR10_RS01330,UUR10_0272,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015821,UUR10_RS01335,UUR10_RS01335,UUR10_0273,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015822,UUR10_RS01340,UUR10_RS01340,UUR10_0274,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200403,-
+565575,45015823,UUR10_RS01345,UUR10_RS01345,UUR10_0275,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200403,-
+565575,45015824,UUR10_RS01350,UUR10_RS01350,UUR10_0276,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20210402,-
+565575,45015825,pgk,UUR10_RS01355,UUR10_0277,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200403,-
+565575,45015826,UUR10_RS01360,UUR10_RS01360,UUR10_0278,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20200403,-
+565575,45015827,deoD,UUR10_RS01365,UUR10_0279,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200905,-
+565575,45015828,UUR10_RS01370,UUR10_RS01370,UUR10_0280,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200403,-
+565575,45015829,UUR10_RS01375,UUR10_RS01375,UUR10_0281,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200403,-
+565575,45015830,UUR10_RS01380,UUR10_RS01380,UUR10_0282,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200912,-
+565575,45015831,UUR10_RS01385,UUR10_RS01385,UUR10_0283,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210402,-
+565575,45015832,aspS,UUR10_RS01390,UUR10_0284,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200912,-
+565575,45015833,UUR10_RS01395,UUR10_RS01395,UUR10_0285,-,-,-,DUF1266 domain-containing protein,protein-coding,-,-,-,DUF1266 domain-containing protein,20200912,-
+565575,45015834,msrA,UUR10_RS01400,UUR10_0286,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,protein-coding,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,20200912,-
+565575,45015835,UUR10_RS01405,UUR10_RS01405,UUR10_0287,-,-,-,TetR/AcrR family transcriptional regulator,protein-coding,-,-,-,TetR/AcrR family transcriptional regulator,20200403,-
+565575,45015836,UUR10_RS01410,UUR10_RS01410,UUR10_0288,-,-,-,glutathione peroxidase,protein-coding,-,-,-,glutathione peroxidase,20200403,-
+565575,45015837,UUR10_RS01415,UUR10_RS01415,UUR10_0289,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015838,UUR10_RS01420,UUR10_RS01420,UUR10_0290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015839,UUR10_RS01425,UUR10_RS01425,UUR10_0291,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015840,UUR10_RS01430,UUR10_RS01430,UUR10_0292,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210402,-
+565575,45015841,UUR10_RS01435,UUR10_RS01435,UUR10_0294,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015842,UUR10_RS01440,UUR10_RS01440,UUR10_0293,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45015843,efp,UUR10_RS01445,UUR10_0295,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20210402,-
+565575,45015844,UUR10_RS01450,UUR10_RS01450,UUR10_0296,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015845,UUR10_RS01455,UUR10_RS01455,UUR10_0297,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20200403,-
+565575,45015846,UUR10_RS01460,UUR10_RS01460,UUR10_0298,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20200403,-
+565575,45015847,UUR10_RS01465,UUR10_RS01465,UUR10_0299,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015848,UUR10_RS01470,UUR10_RS01470,UUR10_0300,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015849,UUR10_RS01475,UUR10_RS01475,UUR10_0301,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015850,rrf,UUR10_RS01480,UUR10_0302,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210402,-
+565575,45015851,greA,UUR10_RS01485,UUR10_0303,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20210402,-
+565575,45015852,UUR10_RS01490,UUR10_RS01490,UUR10_0304,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015853,UUR10_RS01495,UUR10_RS01495,UUR10_0305,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015854,UUR10_RS01500,UUR10_RS01500,UUR10_0306,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015855,UUR10_RS01505,UUR10_RS01505,UUR10_0307,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015856,UUR10_RS01510,UUR10_RS01510,UUR10_0308,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45015857,UUR10_RS01515,UUR10_RS01515,UUR10_0309,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20200403,-
+565575,45015858,UUR10_RS01520,UUR10_RS01520,UUR10_0310,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20210402,-
+565575,45015859,UUR10_RS01525,UUR10_RS01525,UUR10_0311,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200912,-
+565575,45015860,UUR10_RS01530,UUR10_RS01530,UUR10_0312,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015861,UUR10_RS01535,UUR10_RS01535,UUR10_0313,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015862,UUR10_RS01540,UUR10_RS01540,UUR10_0314,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200406,-
+565575,45015863,UUR10_RS01545,UUR10_RS01545,UUR10_0316,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200403,-
+565575,45015864,tsaB,UUR10_RS01550,UUR10_0317,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20210402,-
+565575,45015865,UUR10_RS01555,UUR10_RS01555,UUR10_0318,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200403,-
+565575,45015866,UUR10_RS01560,UUR10_RS01560,UUR10_0319,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20210402,-
+565575,45015867,UUR10_RS01565,UUR10_RS01565,UUR10_0320,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200403,-
+565575,45015868,UUR10_RS01570,UUR10_RS01570,UUR10_0321,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015869,UUR10_RS01575,UUR10_RS01575,UUR10_0322,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+565575,45015870,UUR10_RS01580,UUR10_RS01580,UUR10_0323,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015871,nusA,UUR10_RS01585,UUR10_0324,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200403,-
+565575,45015872,UUR10_RS01590,UUR10_RS01590,UUR10_0325,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20200403,-
+565575,45015873,UUR10_RS01595,UUR10_RS01595,UUR10_0326,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200403,-
+565575,45015874,rbfA,UUR10_RS01600,UUR10_0327,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210402,-
+565575,45015875,UUR10_RS01605,UUR10_RS01605,UUR10_0328,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015876,UUR10_RS01610,UUR10_RS01610,UUR10_0329,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015877,UUR10_RS01615,UUR10_RS01615,UUR10_0330,-,-,-,M48 family metallopeptidase,protein-coding,-,-,-,M48 family metallopeptidase,20200403,-
+565575,45015878,lepA,UUR10_RS01620,UUR10_0331,-,-,-,translation elongation factor 4,protein-coding,-,-,-,translation elongation factor 4,20210402,-
+565575,45015879,UUR10_RS01625,UUR10_RS01625,UUR10_0332,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20200403,-
+565575,45015880,UUR10_RS01630,UUR10_RS01630,UUR10_0333,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015881,UUR10_RS01635,UUR10_RS01635,UUR10_0334,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200905,-
+565575,45015882,UUR10_RS01640,UUR10_RS01640,UUR10_0335,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200401,-
+565575,45015883,UUR10_RS01645,UUR10_RS01645,UUR10_0336,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015884,UUR10_RS01650,UUR10_RS01650,UUR10_0337,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200403,-
+565575,45015885,UUR10_RS01655,UUR10_RS01655,UUR10_0338,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015886,udk,UUR10_RS01660,UUR10_0339,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20200406,-
+565575,45015887,rpmF,UUR10_RS01665,UUR10_0340,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200403,-
+565575,45015888,UUR10_RS01670,UUR10_RS01670,UUR10_0341,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015889,UUR10_RS01675,UUR10_RS01675,UUR10_0342,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015890,UUR10_RS01680,UUR10_RS01680,UUR10_0343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015891,UUR10_RS01685,UUR10_RS01685,UUR10_0344,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20200403,-
+565575,45015892,UUR10_RS01690,UUR10_RS01690,UUR10_0345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015893,dnaK,UUR10_RS01695,UUR10_0346,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210402,-
+565575,45015894,UUR10_RS01700,UUR10_RS01700,UUR10_0347,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20200403,-
+565575,45015895,UUR10_RS01705,UUR10_RS01705,UUR10_0348,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015896,UUR10_RS01710,UUR10_RS01710,UUR10_0349,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20210402,-
+565575,45015897,UUR10_RS01715,UUR10_RS01715,UUR10_0350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015898,UUR10_RS01720,UUR10_RS01720,UUR10_0351,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200403,-
+565575,45015899,UUR10_RS01725,UUR10_RS01725,UUR10_0352,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200403,-
+565575,45015900,UUR10_RS01730,UUR10_RS01730,UUR10_0353,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20200403,-
+565575,45015901,tig,UUR10_RS01735,UUR10_0354,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200403,-
+565575,45015902,lon,UUR10_RS01740,UUR10_0355,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200912,-
+565575,45015903,UUR10_RS01745,UUR10_RS01745,UUR10_0356,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200403,-
+565575,45015904,UUR10_RS01750,UUR10_RS01750,UUR10_0357,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,protein-coding,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,20210402,-
+565575,45015905,UUR10_RS01755,UUR10_RS01755,UUR10_0358,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200403,-
+565575,45015906,UUR10_RS01760,UUR10_RS01760,UUR10_0359,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015907,UUR10_RS01765,UUR10_RS01765,UUR10_0360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015908,truB,UUR10_RS01770,UUR10_0361,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20210402,-
+565575,45015909,ribF,UUR10_RS01775,UUR10_0362,-,-,-,riboflavin biosynthesis protein RibF,protein-coding,-,-,-,riboflavin biosynthesis protein RibF,20200403,-
+565575,45015910,UUR10_RS01780,UUR10_RS01780,UUR10_0363,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015911,UUR10_RS01785,UUR10_RS01785,UUR10_0364,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200912,-
+565575,45015912,UUR10_RS01790,UUR10_RS01790,UUR10_0365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015913,UUR10_RS01795,UUR10_RS01795,UUR10_0366,-,-,-,iron chelate uptake ABC transporter family permease subunit,protein-coding,-,-,-,iron chelate uptake ABC transporter family permease subunit,20200403,-
+565575,45015914,UUR10_RS01800,UUR10_RS01800,UUR10_0367,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200403,-
+565575,45015915,UUR10_RS01805,UUR10_RS01805,UUR10_0368,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015916,UUR10_RS01810,UUR10_RS01810,UUR10_0369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015917,UUR10_RS01815,UUR10_RS01815,UUR10_0370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015918,UUR10_RS01820,UUR10_RS01820,UUR10_0371,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,20200403,-
+565575,45015919,UUR10_RS01825,UUR10_RS01825,UUR10_0372,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20210402,-
+565575,45015920,pgsA,UUR10_RS01830,UUR10_0373,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200912,-
+565575,45015921,asnS,UUR10_RS01835,UUR10_0374,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20210402,-
+565575,45015922,UUR10_RS01840,UUR10_RS01840,UUR10_0375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015923,UUR10_RS01845,UUR10_RS01845,UUR10_0376,-,-,-,DUF2130 domain-containing protein,protein-coding,-,-,-,DUF2130 domain-containing protein,20200403,-
+565575,45015924,UUR10_RS01850,UUR10_RS01850,UUR10_0377,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20200403,-
+565575,45015925,alaS,UUR10_RS01855,UUR10_0378,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200403,-
+565575,45015926,ruvX,UUR10_RS01860,UUR10_0379,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210402,-
+565575,45015927,UUR10_RS01865,UUR10_RS01865,UUR10_0380,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20210402,-
+565575,45015928,UUR10_RS01870,UUR10_RS01870,UUR10_0381,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45015929,UUR10_RS01875,UUR10_RS01875,UUR10_0383,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015930,UUR10_RS01880,UUR10_RS01880,UUR10_0384,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015931,UUR10_RS01885,UUR10_RS01885,UUR10_0385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015932,UUR10_RS01890,UUR10_RS01890,UUR10_0386,-,-,-,PBSX family phage terminase large subunit,protein-coding,-,-,-,PBSX family phage terminase large subunit,20200403,-
+565575,45015933,UUR10_RS01895,UUR10_RS01895,UUR10_0387,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015934,UUR10_RS01900,UUR10_RS01900,UUR10_0388,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015935,UUR10_RS01905,UUR10_RS01905,UUR10_0389,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015936,UUR10_RS01910,UUR10_RS01910,UUR10_0390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015937,UUR10_RS01915,UUR10_RS01915,UUR10_0391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015938,UUR10_RS01920,UUR10_RS01920,UUR10_0392,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015939,UUR10_RS01925,UUR10_RS01925,UUR10_0393,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015940,UUR10_RS01930,UUR10_RS01930,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015941,UUR10_RS01935,UUR10_RS01935,UUR10_0394,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015942,UUR10_RS01940,UUR10_RS01940,UUR10_0395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015943,UUR10_RS01945,UUR10_RS01945,UUR10_0396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015944,UUR10_RS01950,UUR10_RS01950,UUR10_0397,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015945,UUR10_RS01955,UUR10_RS01955,UUR10_0398,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015946,bet,UUR10_RS01960,UUR10_0399,-,-,-,phage recombination protein Bet,protein-coding,-,-,-,phage recombination protein Bet,20200403,-
+565575,45015947,UUR10_RS01965,UUR10_RS01965,UUR10_0400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015948,UUR10_RS01970,UUR10_RS01970,UUR10_0401,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015949,UUR10_RS01975,UUR10_RS01975,UUR10_0402,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015950,UUR10_RS01980,UUR10_RS01980,UUR10_0403,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,45015951,UUR10_RS01985,UUR10_RS01985,UUR10_0404,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015952,UUR10_RS01990,UUR10_RS01990,UUR10_0405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015953,UUR10_RS01995,UUR10_RS01995,UUR10_0407,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015954,UUR10_RS02000,UUR10_RS02000,UUR10_0408,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20200912,-
+565575,45015955,UUR10_RS02005,UUR10_RS02005,UUR10_0410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015956,UUR10_RS02010,UUR10_RS02010,UUR10_0411,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015957,UUR10_RS02015,UUR10_RS02015,UUR10_0412,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015958,UUR10_RS02020,UUR10_RS02020,UUR10_0413,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015959,UUR10_RS02025,UUR10_RS02025,UUR10_0414,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200401,-
+565575,45015960,UUR10_RS02035,UUR10_RS02035,UUR10_0416,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45015961,UUR10_RS02040,UUR10_RS02040,UUR10_0417,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45015962,UUR10_RS02050,UUR10_RS02050,UUR10_0419,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015963,polC,UUR10_RS02055,UUR10_0420,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200403,-
+565575,45015964,UUR10_RS02060,UUR10_RS02060,UUR10_0421,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015965,UUR10_RS02065,UUR10_RS02065,UUR10_0422,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45015966,UUR10_RS02070,UUR10_RS02070,UUR10_0423,-,-,-,NAD(P)H-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)H-dependent oxidoreductase,20210402,-
+565575,45015967,uvrC,UUR10_RS02075,UUR10_0424,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20210402,-
+565575,45015968,UUR10_RS02080,UUR10_RS02080,UUR10_0425,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20200403,-
+565575,45015969,der,UUR10_RS02085,UUR10_0426,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210402,-
+565575,45015970,UUR10_RS02090,UUR10_RS02090,UUR10_0427,-,-,-,ComEC family DNA internalization-related competence protein,protein-coding,-,-,-,ComEC family DNA internalization-related competence protein,20200403,-
+565575,45015971,mraZ,UUR10_RS02095,UUR10_0428,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20210402,-
+565575,45015972,rsmH,UUR10_RS02100,UUR10_0429,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20210402,-
+565575,45015973,UUR10_RS02105,UUR10_RS02105,UUR10_0430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015974,UUR10_RS02110,UUR10_RS02110,UUR10_0431,-,-,-,Abi family protein,protein-coding,-,-,-,Abi family protein,20200912,-
+565575,45015975,UUR10_RS02115,UUR10_RS02115,UUR10_0432,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20200403,-
+565575,45015976,UUR10_RS02120,UUR10_RS02120,UUR10_0433,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015977,UUR10_RS02125,UUR10_RS02125,UUR10_0434,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210402,-
+565575,45015978,UUR10_RS02130,UUR10_RS02130,UUR10_0435,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45015979,UUR10_RS02135,UUR10_RS02135,UUR10_0436,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200912,-
+565575,45015980,UUR10_RS02140,UUR10_RS02140,UUR10_0437,-,-,-,DivIVA domain-containing protein,protein-coding,-,-,-,DivIVA domain-containing protein,20210402,-
+565575,45015981,UUR10_RS02145,UUR10_RS02145,UUR10_0438,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015982,UUR10_RS02150,UUR10_RS02150,UUR10_0439,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015983,UUR10_RS02155,UUR10_RS02155,UUR10_0440,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20200403,-
+565575,45015984,UUR10_RS02160,UUR10_RS02160,UUR10_0441,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015985,UUR10_RS02165,UUR10_RS02165,UUR10_0442,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200403,-
+565575,45015986,UUR10_RS02170,UUR10_RS02170,UUR10_0443,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200912,-
+565575,45015987,UUR10_RS02175,UUR10_RS02175,UUR10_0444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015988,mnmA,UUR10_RS02180,UUR10_0445,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210402,-
+565575,45015989,UUR10_RS02185,UUR10_RS02185,UUR10_0446,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45015990,UUR10_RS02190,UUR10_RS02190,UUR10_0447,-,-,-,transposase,protein-coding,-,-,-,transposase,20200403,-
+565575,45015991,UUR10_RS02195,UUR10_RS02195,UUR10_0448,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,glycerol-3-phosphate acyltransferase,20210402,-
+565575,45015992,UUR10_RS02200,UUR10_RS02200,UUR10_0449,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200403,-
+565575,45015993,grpE,UUR10_RS02205,UUR10_0450,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200905,-
+565575,45015994,dnaJ,UUR10_RS02210,UUR10_0451,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20210402,-
+565575,45015995,UUR10_RS02215,UUR10_RS02215,UUR10_0452,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20200912,-
+565575,45015996,UUR10_RS02220,UUR10_RS02220,UUR10_0453,-,-,-,DUF5378 family protein,protein-coding,-,-,-,DUF5378 family protein,20200912,-
+565575,45015997,UUR10_RS02225,UUR10_RS02225,UUR10_0454,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200403,-
+565575,45015998,tsaD,UUR10_RS02230,UUR10_0455,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20210402,-
+565575,45015999,metK,UUR10_RS02235,UUR10_0456,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20210402,-
+565575,45016000,UUR10_RS02240,UUR10_RS02240,UUR10_0457,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016001,mutM,UUR10_RS02245,UUR10_0458,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20200912,-
+565575,45016002,UUR10_RS02250,UUR10_RS02250,UUR10_0459,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200403,-
+565575,45016003,UUR10_RS02255,UUR10_RS02255,UUR10_0460,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200403,-
+565575,45016004,UUR10_RS02260,UUR10_RS02260,UUR10_0461,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016005,UUR10_RS02265,UUR10_RS02265,UUR10_0462,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200403,-
+565575,45016006,thiI,UUR10_RS02270,UUR10_0463,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20210402,-
+565575,45016007,UUR10_RS02275,UUR10_RS02275,UUR10_0464,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016008,UUR10_RS02280,UUR10_RS02280,UUR10_0465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016009,hrcA,UUR10_RS02285,UUR10_0466,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200406,-
+565575,45016010,UUR10_RS02290,UUR10_RS02290,UUR10_0467,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016011,UUR10_RS02295,UUR10_RS02295,UUR10_0468,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20200403,-
+565575,45016012,UUR10_RS02300,UUR10_RS02300,UUR10_0469,-,-,-,DUF3196 family protein,protein-coding,-,-,-,DUF3196 family protein,20200905,-
+565575,45016013,UUR10_RS02305,UUR10_RS02305,UUR10_0470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016014,UUR10_RS02310,UUR10_RS02310,UUR10_0471,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016015,UUR10_RS02315,UUR10_RS02315,UUR10_0472,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016016,UUR10_RS02320,UUR10_RS02320,UUR10_0473,-,-,-,urease accessory protein UreD,protein-coding,-,-,-,urease accessory protein UreD,20210402,-
+565575,45016017,ureG,UUR10_RS02325,UUR10_0474,-,-,-,urease accessory protein UreG,protein-coding,-,-,-,urease accessory protein UreG,20201003,-
+565575,45016018,UUR10_RS02330,UUR10_RS02330,UUR10_0475,-,-,-,urease accessory protein UreF,protein-coding,-,-,-,urease accessory protein UreF,20200406,-
+565575,45016019,UUR10_RS02335,UUR10_RS02335,UUR10_0476,-,-,-,urease accessory protein UreE,protein-coding,-,-,-,urease accessory protein UreE,20210402,-
+565575,45016020,ureC,UUR10_RS02340,UUR10_0477,-,-,-,urease subunit alpha,protein-coding,-,-,-,urease subunit alpha,20210402,-
+565575,45016021,ureB,UUR10_RS02345,UUR10_0478,-,-,-,urease subunit beta,protein-coding,-,-,-,urease subunit beta,20210402,-
+565575,45016022,UUR10_RS02350,UUR10_RS02350,UUR10_0479,-,-,-,urease subunit gamma,protein-coding,-,-,-,urease subunit gamma,20200403,-
+565575,45016023,UUR10_RS02355,UUR10_RS02355,UUR10_0480,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45016024,UUR10_RS02360,UUR10_RS02360,UUR10_0481,-,-,-,TlyA family RNA methyltransferase,protein-coding,-,-,-,TlyA family RNA methyltransferase,20200403,-
+565575,45016025,dinB,UUR10_RS02365,UUR10_0483,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20200403,-
+565575,45016026,ruvB,UUR10_RS02370,UUR10_0482,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200403,-
+565575,45016027,UUR10_RS02375,UUR10_RS02375,UUR10_0484,-,-,-,Holliday junction DNA helicase RuvA,protein-coding,-,-,-,Holliday junction DNA helicase RuvA,20210402,-
+565575,45016028,UUR10_RS02380,UUR10_RS02380,UUR10_0485,-,-,-,UPF0104 family protein,protein-coding,-,-,-,UPF0104 family protein,20200403,-
+565575,45016029,UUR10_RS02385,UUR10_RS02385,UUR10_0486,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016030,UUR10_RS02390,UUR10_RS02390,UUR10_0487,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210402,-
+565575,45016031,UUR10_RS02395,UUR10_RS02395,UUR10_0488,-,-,-,SUF system NifU family Fe-S cluster assembly protein,protein-coding,-,-,-,SUF system NifU family Fe-S cluster assembly protein,20200403,-
+565575,45016032,UUR10_RS02400,UUR10_RS02400,UUR10_0489,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20200403,-
+565575,45016033,UUR10_RS02405,UUR10_RS02405,UUR10_0490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016034,UUR10_RS02410,UUR10_RS02410,UUR10_0491,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210402,-
+565575,45016035,UUR10_RS02415,UUR10_RS02415,UUR10_0492,-,-,-,EndoU domain-containing protein,protein-coding,-,-,-,EndoU domain-containing protein,20200912,-
+565575,45016036,UUR10_RS02420,UUR10_RS02420,UUR10_0493,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210402,-
+565575,45016037,UUR10_RS02425,UUR10_RS02425,UUR10_0494,-,-,-,EndoU domain-containing protein,protein-coding,-,-,-,EndoU domain-containing protein,20201003,-
+565575,45016038,UUR10_RS02430,UUR10_RS02430,UUR10_0496,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016039,UUR10_RS02435,UUR10_RS02435,UUR10_0497,-,-,-,DUF4417 domain-containing protein,protein-coding,-,-,-,DUF4417 domain-containing protein,20200403,-
+565575,45016040,UUR10_RS02440,UUR10_RS02440,UUR10_0498,-,-,-,DUF4417 domain-containing protein,protein-coding,-,-,-,DUF4417 domain-containing protein,20200912,-
+565575,45016041,UUR10_RS02445,UUR10_RS02445,UUR10_0499,-,-,-,S8 family peptidase,protein-coding,-,-,-,S8 family peptidase,20200403,-
+565575,45016042,UUR10_RS02450,UUR10_RS02450,UUR10_0500,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200912,-
+565575,45016043,UUR10_RS02455,UUR10_RS02455,UUR10_0501,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200403,-
+565575,45016044,pheS,UUR10_RS02460,UUR10_0502,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200403,-
+565575,45016045,UUR10_RS02465,UUR10_RS02465,UUR10_0503,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016046,nadE,UUR10_RS02470,UUR10_0504,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20200403,-
+565575,45016047,obgE,UUR10_RS02475,UUR10_0505,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20210402,-
+565575,45016048,UUR10_RS02480,UUR10_RS02480,UUR10_0506,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016049,fmt,UUR10_RS02485,UUR10_0508,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20210402,-
+565575,45016050,UUR10_RS02490,UUR10_RS02490,UUR10_0509,-,-,-,DUF5385 domain-containing protein,protein-coding,-,-,-,DUF5385 domain-containing protein,20200912,-
+565575,45016051,UUR10_RS02495,UUR10_RS02495,UUR10_0510,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200403,-
+565575,45016052,parE,UUR10_RS02500,UUR10_0513,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016053,parC,UUR10_RS02505,UUR10_0514,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20200403,-
+565575,45016054,yqeH,UUR10_RS02510,UUR10_0515,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016055,UUR10_RS02515,UUR10_RS02515,UUR10_0517,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016056,UUR10_RS02520,UUR10_RS02520,UUR10_0519,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016057,UUR10_RS02525,UUR10_RS02525,UUR10_0520,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016058,UUR10_RS02530,UUR10_RS02530,UUR10_0521,-,-,-,nucleosidase,protein-coding,-,-,-,nucleosidase,20200829,-
+565575,45016059,UUR10_RS02535,UUR10_RS02535,UUR10_0522,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200403,-
+565575,45016060,parE,UUR10_RS02540,UUR10_0523,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200912,-
+565575,45016061,parC,UUR10_RS02545,UUR10_0524,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20200912,-
+565575,45016062,yqeH,UUR10_RS02550,UUR10_0525,-,-,-,ribosome biogenesis GTPase YqeH,protein-coding,-,-,-,ribosome biogenesis GTPase YqeH,20200403,-
+565575,45016063,UUR10_RS02555,UUR10_RS02555,UUR10_0526,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20200403,-
+565575,45016064,mtnN,UUR10_RS02560,UUR10_0527,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20200403,-
+565575,45016065,UUR10_RS02565,UUR10_RS02565,UUR10_0528,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016066,UUR10_RS02570,UUR10_RS02570,UUR10_0529,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20201010,-
+565575,45016067,UUR10_RS02575,UUR10_RS02575,UUR10_0531,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016068,UUR10_RS02580,UUR10_RS02580,UUR10_0532,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016069,UUR10_RS02585,UUR10_RS02585,UUR10_0533,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20200403,-
+565575,45016070,UUR10_RS02590,UUR10_RS02590,UUR10_0534,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210402,-
+565575,45016071,UUR10_RS02595,UUR10_RS02595,UUR10_0535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016072,UUR10_RS02610,UUR10_RS02610,UUR10_0538,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20201003,-
+565575,45016073,UUR10_RS02615,UUR10_RS02615,UUR10_0539,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016074,UUR10_RS02620,UUR10_RS02620,UUR10_0540,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016075,UUR10_RS02625,UUR10_RS02625,UUR10_0541,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20210402,-
+565575,45016076,UUR10_RS02630,UUR10_RS02630,UUR10_0542,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016077,UUR10_RS02635,UUR10_RS02635,UUR10_0543,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20200403,-
+565575,45016078,UUR10_RS02640,UUR10_RS02640,UUR10_0544,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016079,UUR10_RS02645,UUR10_RS02645,UUR10_0545,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200403,-
+565575,45016080,UUR10_RS02650,UUR10_RS02650,UUR10_0546,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016081,UUR10_RS02655,UUR10_RS02655,UUR10_0547,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016082,UUR10_RS02675,UUR10_RS02675,UUR10_0551,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016083,UUR10_RS02680,UUR10_RS02680,UUR10_0552,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016084,UUR10_RS02685,UUR10_RS02685,UUR10_0553,-,-,-,transposase,protein-coding,-,-,-,transposase,20210402,-
+565575,45016085,UUR10_RS02690,UUR10_RS02690,UUR10_0554,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016086,UUR10_RS02695,UUR10_RS02695,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016087,UUR10_RS02700,UUR10_RS02700,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016088,UUR10_RS02710,UUR10_RS02710,UUR10_0558,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200403,-
+565575,45016089,UUR10_RS02715,UUR10_RS02715,UUR10_0559,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45016090,UUR10_RS02720,UUR10_RS02720,UUR10_0560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016091,ybeY,UUR10_RS02725,UUR10_0561,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200905,-
+565575,45016092,era,UUR10_RS02730,UUR10_0562,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210402,-
+565575,45016093,recO,UUR10_RS02735,UUR10_0563,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200912,-
+565575,45016094,UUR10_RS02740,UUR10_RS02740,UUR10_0564,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20210402,-
+565575,45016095,dnaG,UUR10_RS02745,UUR10_0565,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200403,-
+565575,45016096,rpsD,UUR10_RS02750,UUR10_0566,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210402,-
+565575,45016097,UUR10_RS02755,UUR10_RS02755,UUR10_0567,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016098,UUR10_RS02760,UUR10_RS02760,UUR10_0568,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016099,UUR10_RS02765,UUR10_RS02765,UUR10_t03,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016100,UUR10_RS02770,UUR10_RS02770,UUR10_0569,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016101,UUR10_RS02775,UUR10_RS02775,UUR10_0570,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016102,UUR10_RS02780,UUR10_RS02780,UUR10_0571,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016103,UUR10_RS02785,UUR10_RS02785,UUR10_0572,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016104,UUR10_RS02790,UUR10_RS02790,UUR10_0573,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016105,UUR10_RS02795,UUR10_RS02795,UUR10_0574,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016106,UUR10_RS02800,UUR10_RS02800,UUR10_0575,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016107,UUR10_RS02805,UUR10_RS02805,UUR10_0576,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200403,-
+565575,45016108,UUR10_RS02810,UUR10_RS02810,UUR10_0577,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200912,-
+565575,45016109,UUR10_RS02815,UUR10_RS02815,UUR10_0578,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200912,-
+565575,45016110,UUR10_RS02820,UUR10_RS02820,UUR10_0579,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20210402,-
+565575,45016111,UUR10_RS02825,UUR10_RS02825,UUR10_0580,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016112,UUR10_RS02830,UUR10_RS02830,UUR10_0581,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016113,UUR10_RS02835,UUR10_RS02835,UUR10_0582,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016114,UUR10_RS02840,UUR10_RS02840,UUR10_0583,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016115,UUR10_RS02845,UUR10_RS02845,UUR10_0584,-,-,-,DUF5452 domain-containing protein,protein-coding,-,-,-,DUF5452 domain-containing protein,20200403,-
+565575,45016116,UUR10_RS02850,UUR10_RS02850,UUR10_0585,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200403,-
+565575,45016117,UUR10_RS02855,UUR10_RS02855,UUR10_0586,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016118,UUR10_RS02860,UUR10_RS02860,-,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200912,-
+565575,45016119,UUR10_RS02865,UUR10_RS02865,UUR10_0587,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20200403,-
+565575,45016120,UUR10_RS02870,UUR10_RS02870,UUR10_0588,-,-,-,Bsp6I family type II restriction endonuclease,protein-coding,-,-,-,Bsp6I family type II restriction endonuclease,20210402,-
+565575,45016121,UUR10_RS02875,UUR10_RS02875,UUR10_0589,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200403,-
+565575,45016122,UUR10_RS02880,UUR10_RS02880,UUR10_0590,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20200403,-
+565575,45016123,UUR10_RS02885,UUR10_RS02885,UUR10_0591,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200912,-
+565575,45016124,UUR10_RS02890,UUR10_RS02890,UUR10_0592,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200912,-
+565575,45016125,UUR10_RS02895,UUR10_RS02895,UUR10_0594,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016126,UUR10_RS02900,UUR10_RS02900,UUR10_0593,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200403,-
+565575,45016127,frr,UUR10_RS02905,UUR10_0595,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210402,-
+565575,45016128,pyrH,UUR10_RS02910,UUR10_0596,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200403,-
+565575,45016129,UUR10_RS02915,UUR10_RS02915,UUR10_0597,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20210402,-
+565575,45016130,UUR10_RS02920,UUR10_RS02920,UUR10_0598,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016131,UUR10_RS02925,UUR10_RS02925,UUR10_0599,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016132,UUR10_RS02930,UUR10_RS02930,UUR10_0600,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016133,UUR10_RS02935,UUR10_RS02935,UUR10_t02,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016134,UUR10_RS02940,UUR10_RS02940,UUR10_0601,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016135,UUR10_RS02945,UUR10_RS02945,UUR10_t01,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016136,UUR10_RS02950,UUR10_RS02950,UUR10_0602,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200912,-
+565575,45016137,UUR10_RS02955,UUR10_RS02955,UUR10_0603,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200912,-
+565575,45016138,UUR10_RS02960,UUR10_RS02960,UUR10_0604,-,-,-,trypsin-like peptidase domain-containing protein,protein-coding,-,-,-,trypsin-like peptidase domain-containing protein,20210402,-
+565575,45016139,UUR10_RS02965,UUR10_RS02965,UUR10_0605,-,-,-,DUF2188 domain-containing protein,protein-coding,-,-,-,DUF2188 domain-containing protein,20200912,-
+565575,45016140,UUR10_RS02970,UUR10_RS02970,UUR10_0607,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016141,UUR10_RS02975,UUR10_RS02975,UUR10_0608,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016142,UUR10_RS02980,UUR10_RS02980,UUR10_0609,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016143,pepF,UUR10_RS02985,UUR10_0610,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20200912,-
+565575,45016144,tuf,UUR10_RS02990,UUR10_0611,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210402,-
+565575,45016145,fusA,UUR10_RS02995,UUR10_0612,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210402,-
+565575,45016146,rpsG,UUR10_RS03000,UUR10_0613,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200403,-
+565575,45016147,rpsL,UUR10_RS03005,UUR10_0614,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200406,-
+565575,45016148,UUR10_RS03010,UUR10_RS03010,UUR10_0615,-,-,-,"5'-nucleotidase, lipoprotein e(P4) family",protein-coding,-,-,-,"5'-nucleotidase, lipoprotein e(P4) family",20200403,-
+565575,45016149,UUR10_RS03030,UUR10_RS03030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016150,UUR10_RS03035,UUR10_RS03035,UUR10_0621,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20200403,-
+565575,45016151,cdd,UUR10_RS03040,UUR10_0622,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20200403,-
+565575,45016152,UUR10_RS03045,UUR10_RS03045,UUR10_0623,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016153,UUR10_RS03050,UUR10_RS03050,UUR10_0624,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200912,-
+565575,45016154,rpmG,UUR10_RS03055,UUR10_0625,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200905,-
+565575,45016155,UUR10_RS03060,UUR10_RS03060,UUR10_0626,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20210402,-
+565575,45016156,UUR10_RS03065,UUR10_RS03065,UUR10_0628,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200912,-
+565575,45016157,truA,UUR10_RS03070,UUR10_0627,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20210402,-
+565575,45016158,UUR10_RS03075,UUR10_RS03075,UUR10_0629,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20200403,-
+565575,45016159,UUR10_RS03080,UUR10_RS03080,UUR10_0630,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200403,-
+565575,45016160,UUR10_RS03085,UUR10_RS03085,UUR10_0631,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200403,-
+565575,45016161,UUR10_RS03090,UUR10_RS03090,UUR10_0632,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20210402,-
+565575,45016162,rplK,UUR10_RS03095,UUR10_0633,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210522,-
+565575,45016163,UUR10_RS03100,UUR10_RS03100,UUR10_0634,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45016164,gatB,UUR10_RS03105,UUR10_0635,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200403,-
+565575,45016165,UUR10_RS03110,UUR10_RS03110,UUR10_0636,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit A,protein-coding,-,-,-,aspartyl/glutamyl-tRNA amidotransferase subunit A,20210402,-
+565575,45016166,UUR10_RS03115,UUR10_RS03115,UUR10_0637,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016167,UUR10_RS03120,UUR10_RS03120,UUR10_0638,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200403,-
+565575,45016168,UUR10_RS03125,UUR10_RS03125,UUR10_0639,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200912,-
+565575,45016169,UUR10_RS03130,UUR10_RS03130,UUR10_0640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016170,UUR10_RS03135,UUR10_RS03135,UUR10_0641,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200403,-
+565575,45016171,rplI,UUR10_RS03140,UUR10_0642,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20210402,-
+565575,45016172,UUR10_RS03145,UUR10_RS03145,UUR10_0643,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210402,-
+565575,45016173,UUR10_RS03150,UUR10_RS03150,UUR10_0644,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200912,-
+565575,45016174,UUR10_RS03155,UUR10_RS03155,UUR10_0645,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200406,-
+565575,45016175,UUR10_RS03160,UUR10_RS03160,UUR10_0646,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200912,-
+565575,45016176,UUR10_RS03165,UUR10_RS03165,UUR10_0649,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016177,UUR10_RS03170,UUR10_RS03170,UUR10_0650,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20201003,-
+565575,45016178,UUR10_RS03175,UUR10_RS03175,UUR10_0651,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201003,-
+565575,45016179,UUR10_RS03180,UUR10_RS03180,UUR10_0652,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016180,UUR10_RS03185,UUR10_RS03185,UUR10_0653,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200912,-
+565575,45016181,UUR10_RS03190,UUR10_RS03190,UUR10_0654,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20200912,-
+565575,45016182,UUR10_RS03195,UUR10_RS03195,UUR10_0655,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45016183,UUR10_RS03200,UUR10_RS03200,UUR10_0656,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200403,-
+565575,45016184,UUR10_RS03205,UUR10_RS03205,UUR10_0657,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45016185,UUR10_RS03210,UUR10_RS03210,UUR10_0658,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200403,-
+565575,45016186,UUR10_RS03215,UUR10_RS03215,UUR10_0659,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016187,UUR10_RS03220,UUR10_RS03220,UUR10_0660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016189,UUR10_RS03230,UUR10_RS03230,UUR10_0662,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200403,-
+565575,45016190,rplS,UUR10_RS03235,UUR10_0663,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200905,-
+565575,45016191,trmD,UUR10_RS03240,UUR10_0664,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200403,-
+565575,45016192,rpsP,UUR10_RS03245,UUR10_0665,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20210327,-
+565575,45016193,UUR10_RS03250,UUR10_RS03250,UUR10_0666,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200912,-
+565575,45016194,UUR10_RS03255,UUR10_RS03255,UUR10_0667,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200403,-
+565575,45016195,UUR10_RS03260,UUR10_RS03260,UUR10_0668,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016196,UUR10_RS03265,UUR10_RS03265,UUR10_0669,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016197,UUR10_RS03270,UUR10_RS03270,UUR10_0670,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200403,-
+565575,45016198,UUR10_RS03275,UUR10_RS03275,UUR10_0671,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20200912,-
+565575,45016199,UUR10_RS03280,UUR10_RS03280,UUR10_0672,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016200,UUR10_RS03285,UUR10_RS03285,UUR10_0673,-,-,-,two pore domain potassium channel family protein,protein-coding,-,-,-,two pore domain potassium channel family protein,20200912,-
+565575,45016201,UUR10_RS03290,UUR10_RS03290,UUR10_0674,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,45016202,UUR10_RS03295,UUR10_RS03295,UUR10_0675,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+565575,45016203,rpsI,UUR10_RS03300,UUR10_0676,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200403,-
+565575,45016204,rplM,UUR10_RS03305,UUR10_0677,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20210402,-
+565575,45016205,UUR10_RS03310,UUR10_RS03310,UUR10_0679,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016206,UUR10_RS03315,UUR10_RS03315,UUR10_0680,-,-,-,GUMAP protein,protein-coding,-,-,-,GUMAP protein,20200403,-
+565575,45016207,UUR10_RS03320,UUR10_RS03320,UUR10_0681,-,-,-,GUMAP protein,protein-coding,-,-,-,GUMAP protein,20200403,-
+565575,45016208,UUR10_RS03325,UUR10_RS03325,UUR10_0683,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20200403,-
+565575,45016209,secE,UUR10_RS03330,UUR10_0684,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200403,-
+565575,45016210,nusG,UUR10_RS03335,UUR10_0685,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200403,-
+565575,45016211,UUR10_RS03340,UUR10_RS03340,UUR10_0686,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200403,-
+565575,45016212,UUR10_RS03345,UUR10_RS03345,UUR10_0687,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200403,-
+565575,45016213,UUR10_RS03350,UUR10_RS03350,UUR10_0688,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200403,-
+565575,45016214,deoC,UUR10_RS03355,UUR10_0689,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20200403,-
+565575,45016215,UUR10_RS03360,UUR10_RS03360,UUR10_0690,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200403,-
+565575,45016216,UUR10_RS03365,UUR10_RS03365,UUR10_0691,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200403,-
+565575,45016217,UUR10_RS03370,UUR10_RS03370,UUR10_0692,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20200403,-
+565575,45016218,UUR10_RS03375,UUR10_RS03375,UUR10_0693,-,-,-,tRNA,tRNA,-,-,-,-,20210402,-
+565575,45016219,trxA,UUR10_RS03380,UUR10_0694,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200912,-
+565575,45016220,topA,UUR10_RS03385,UUR10_0695,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200403,-
+565575,45016221,UUR10_RS03390,UUR10_RS03390,UUR10_0696,-,-,-,DNA-protecting protein DprA,protein-coding,-,-,-,DNA-protecting protein DprA,20210402,-
+565575,45016222,ylqF,UUR10_RS03395,UUR10_0697,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200912,-
+565575,45016223,UUR10_RS03400,UUR10_RS03400,UUR10_0698,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200403,-
+565575,45016224,UUR10_RS03405,UUR10_RS03405,UUR10_0699,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20200406,-
+565575,45016225,ychF,UUR10_RS03410,UUR10_0700,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20210402,-
+565575,45016226,fba,UUR10_RS03415,UUR10_0701,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200912,-
+565575,45016227,UUR10_RS03420,UUR10_RS03420,UUR10_0702,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20210402,-
+565575,45016228,UUR10_RS03425,UUR10_RS03425,UUR10_0703,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20200403,-
+565575,45016229,UUR10_RS03430,UUR10_RS03430,UUR10_0704,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200406,-
+565575,45016230,UUR10_RS03435,UUR10_RS03435,UUR10_0705,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20200912,-
+565575,45016231,rsmA,UUR10_RS03440,UUR10_0706,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20210402,-
+565575,45016232,yidC,UUR10_RS03445,UUR10_0707,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200403,-
+565575,45016233,rnpA,UUR10_RS03450,UUR10_0708,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210402,-
+565575,45016234,rpmH,UUR10_RS03455,UUR10_0709,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200905,-
+565575,45016235,ffs,UUR10_RS03465,UUR10_0131,-,-,-,ncRNA,ncRNA,-,-,-,-,20210402,-
+565575,45016236,UUR10_RS03470,UUR10_RS03470,UUR10_0261,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20200403,-
+565575,45016237,UUR10_RS03480,UUR10_RS03480,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016239,rnpB,UUR10_RS03495,UUR10_0315,-,-,-,ncRNA,ncRNA,-,-,-,-,20210402,-
+565575,45016241,UUR10_RS03515,UUR10_RS03515,UUR10_0536,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016242,dnaG,UUR10_RS03520,UUR10_0548,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016243,ssrA,UUR10_RS03530,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20210402,-
+565575,45016244,rpmG,UUR10_RS03535,-,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20210605,-
+565575,45016246,UUR10_RS03555,UUR10_RS03555,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016247,UUR10_RS03560,UUR10_RS03560,-,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20201010,-
+565575,45016248,UUR10_RS03565,UUR10_RS03565,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016249,UUR10_RS03570,UUR10_RS03570,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016250,UUR10_RS03575,UUR10_RS03575,-,-,-,-,DUF1410 domain-containing protein,protein-coding,-,-,-,DUF1410 domain-containing protein,20200401,-
+565575,45016251,UUR10_RS03580,UUR10_RS03580,UUR10_0418,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,45016252,UUR10_RS03585,UUR10_RS03585,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200401,-
+565575,63510138,UUR10_RS03590,UUR10_RS03590,-,-,-,-,pseudo,pseudo,-,-,-,-,20210402,-
+565575,63510139,atpF,UUR10_RS03595,-,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20210403,-

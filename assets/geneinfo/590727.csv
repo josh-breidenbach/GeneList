@@ -1,0 +1,239 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+590727,20004063,trnK(uuu),SarfuMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004064,trnV(uac),SarfuMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004065,atp9,SarfuMp01,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,ATP synthase F0 subunit 9,20200909,-
+590727,20004066,trnM(cau),SarfuMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004067,trnL(uaa),SarfuMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004068,trnH(gug),SarfuMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004069,trnC(gca),SarfuMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004070,trnN(guu),SarfuMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004071,trnF(gaa),SarfuMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004072,rps8,SarfuMp02,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210123,-
+590727,20004073,orf41,SarfuMp08,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200909,-
+590727,20004074,trnQ(uug),SarfuMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004075,trnL(uag),SarfuMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004076,rps12,SarfuMp09,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200909,-
+590727,20004077,rpl14,SarfuMp12,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210123,-
+590727,20004078,orf129,SarfuMp14,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200909,-
+590727,20004079,cox3,SarfuMp21,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210123,-
+590727,20004080,nad2,SarfuMp23,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210123,-
+590727,20004081,trnE(uuc),SarfuMt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004082,nad9,SarfuMp25,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,NADH dehydrogenase subunit 9,20200909,-
+590727,20004083,nad5,SarfuMp29,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210123,-
+590727,20004084,trnD(guc),SarfuMt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004085,trnA(ugc),SarfuMt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004086,rps10,SarfuMp35,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20210123,-
+590727,20004087,rrn5,SarfuMr03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,20004088,trnM(cau),SarfuMt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004089,rpl31,SarfuMp36,-,-,MT,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20200909,-
+590727,20004090,nad7,SarfuMp37,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20210123,-
+590727,20004091,rnl,SarfuMr01,-,-,MT,-,23S large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,20004092,rpl16,SarfuMp03,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210123,-
+590727,20004093,rps2,SarfuMp04,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200909,-
+590727,20004094,rps4,SarfuMp05,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210123,-
+590727,20004095,nad1,SarfuMp06,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210123,-
+590727,20004096,tatC,SarfuMp07,-,-,MT,-,SecY-independent protein translocase component TatC,protein-coding,-,-,-,SecY-independent protein translocase component TatC,20210123,-
+590727,20004097,trnW(cca),SarfuMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004098,rps7,SarfuMp10,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210123,-
+590727,20004099,nad4L,SarfuMp11,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210123,-
+590727,20004100,trnL(caa),SarfuMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004101,rpl5,SarfuMp13,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210123,-
+590727,20004102,trnG(gcc),SarfuMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004103,rpl16,SarfuMp15,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210123,-
+590727,20004104,rps3,SarfuMp16,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200909,-
+590727,20004105,rps19,SarfuMp17,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210123,-
+590727,20004106,rpl2,SarfuMp18,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210123,-
+590727,20004107,rps13,SarfuMp19,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210123,-
+590727,20004108,rps11,SarfuMp20,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210123,-
+590727,20004109,trnY(gua),SarfuMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004110,atp6,SarfuMp22,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,ATP synthase F0 subunit 6,20200909,-
+590727,20004111,trnR(ucu),SarfuMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004112,cox1,SarfuMp24,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20210123,-
+590727,20004113,trnI(gau),SarfuMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004114,cob,SarfuMp26,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,apocytochrome b,20210123,-
+590727,20004115,cox2,SarfuMp27,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20200909,-
+590727,20004116,nad4,SarfuMp28,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210123,-
+590727,20004117,trnI(uau),SarfuMt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004118,nad6,SarfuMp30,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210123,-
+590727,20004119,trnM(cau),SarfuMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004120,nad11,SarfuMp31,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,NADH dehydrogenase subunit 11,20210123,-
+590727,20004121,nad3,SarfuMp32,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210123,-
+590727,20004122,rps14,SarfuMp33,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210123,-
+590727,20004123,atp8,SarfuMp34,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,ATP synthase F0 subunit 8,20210123,-
+590727,20004124,trnS(gcu),SarfuMt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004125,trnS(uga),SarfuMt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004126,trnP(ugg),SarfuMt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,20004127,rns,SarfuMr02,-,-,MT,-,16S small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291750,rnl,HRV13_pgr005,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291751,trnA(tgc),HRV13_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291752,trnI(gat),HRV13_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291753,rns,HRV13_pgr006,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291754,ycf37,HRV13_pgp139,-,-,-,-,Ycf37,protein-coding,-,-,-,Ycf37,20210123,-
+590727,55291755,psaM,HRV13_pgp138,-,-,-,-,PsaM,protein-coding,-,-,-,PsaM,20210327,-
+590727,55291756,chlI,HRV13_pgp137,-,-,-,-,ChlI,protein-coding,-,-,-,ChlI,20210123,-
+590727,55291757,trnF(gaa),HRV13_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291758,petB,HRV13_pgp136,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20210123,-
+590727,55291759,petD,HRV13_pgp135,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20210327,-
+590727,55291760,petN,HRV13_pgp134,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200909,-
+590727,55291761,petM,HRV13_pgp133,-,-,-,-,PetM,protein-coding,-,-,-,PetM,20210327,-
+590727,55291762,ycf47,HRV13_pgp132,-,-,-,-,Ycf47,protein-coding,-,-,-,Ycf47,20200602,-
+590727,55291763,trnM(cat),HRV13_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291764,rpl19,HRV13_pgp131,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,ribosomal protein L19,20210123,-
+590727,55291765,rpl27,HRV13_pgp130,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,ribosomal protein L27,20210123,-
+590727,55291766,psbX,HRV13_pgp129,-,-,-,-,PsbX,protein-coding,-,-,-,PsbX,20210123,-
+590727,55291767,ycf66,HRV13_pgp128,-,-,-,-,Ycf66,protein-coding,-,-,-,Ycf66,20210403,-
+590727,55291768,psbV,HRV13_pgp127,-,-,-,-,PsbV,protein-coding,-,-,-,PsbV,20210123,-
+590727,55291769,petJ,HRV13_pgp126,-,-,-,-,PetJ,protein-coding,-,-,-,PetJ,20210123,-
+590727,55291770,groEL,HRV13_pgp125,-,-,-,-,GroEL,protein-coding,-,-,-,GroEL,20210123,-
+590727,55291771,trnD(gtc),HRV13_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291772,trnM(cat),HRV13_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291773,trnS(gct),HRV13_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291774,dnaK,HRV13_pgp124,-,-,-,-,DnaK,protein-coding,-,-,-,DnaK,20210123,-
+590727,55291775,psbI,HRV13_pgp123,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200919,-
+590727,55291776,trnG(gcc),HRV13_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291777,thiG,HRV13_pgp122,-,-,-,-,ThiG,protein-coding,-,-,-,ThiG,20210123,-
+590727,55291778,ycf54,HRV13_pgp121,-,-,-,-,Ycf54,protein-coding,-,-,-,Ycf54,20210123,-
+590727,55291779,secA,HRV13_pgp120,-,-,-,-,SecA,protein-coding,-,-,-,SecA,20210123,-
+590727,55291780,rpl34,HRV13_pgp119,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,ribosomal protein L34,20210123,-
+590727,55291781,ycf46,HRV13_pgp118,-,-,-,-,Ycf46,protein-coding,-,-,-,Ycf46,20210123,-
+590727,55291782,ccs1,HRV13_pgp117,-,-,-,-,Ccs1,protein-coding,-,-,-,Ccs1,20210123,-
+590727,55291783,ORF219,HRV13_pgp116,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200909,-
+590727,55291784,trnY(gta),HRV13_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291785,chlB,HRV13_pgp115,-,-,-,-,ChlB,protein-coding,-,-,-,ChlB,20210123,-
+590727,55291786,trnP(tgg),HRV13_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291787,trnM(cat),HRV13_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291788,psaD,HRV13_pgp114,-,-,-,-,PsaD,protein-coding,-,-,-,PsaD,20210327,-
+590727,55291789,trnS(tga),HRV13_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291790,rps20,HRV13_pgp113,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,ribosomal protein S20,20210123,-
+590727,55291791,rpoB,HRV13_pgp112,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20210123,-
+590727,55291792,rpoC1,HRV13_pgp111,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,RNA polymerase beta' subunit,20210123,-
+590727,55291793,rpoC2,HRV13_pgp110,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,RNA polymerase beta'' subunit,20210327,-
+590727,55291794,rps2,HRV13_pgp109,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20210123,-
+590727,55291795,tsf,HRV13_pgp108,-,-,-,-,tsf,protein-coding,-,-,-,tsf,20210123,-
+590727,55291796,atpI,HRV13_pgp107,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20210123,-
+590727,55291797,atpH,HRV13_pgp106,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20210327,-
+590727,55291798,atpG,HRV13_pgp105,-,-,-,-,AtpG,protein-coding,-,-,-,AtpG,20210123,-
+590727,55291799,atpF,HRV13_pgp104,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20210123,-
+590727,55291800,atpD,HRV13_pgp103,-,-,-,-,AtpD,protein-coding,-,-,-,AtpD,20210123,-
+590727,55291801,atpA,HRV13_pgp102,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20210123,-
+590727,55291802,acsF,HRV13_pgp101,-,-,-,-,AcsF,protein-coding,-,-,-,AcsF,20210123,-
+590727,55291803,ycf42,HRV13_pgp100,-,-,-,-,Ycf42,protein-coding,-,-,-,Ycf42,20210123,-
+590727,55291804,rpl35,HRV13_pgp099,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,ribosomal protein L35,20210123,-
+590727,55291805,rpl20,HRV13_pgp098,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20210123,-
+590727,55291806,ilvH,HRV13_pgp097,-,-,-,-,IlvH,protein-coding,-,-,-,IlvH,20210123,-
+590727,55291807,ycf34,HRV13_pgp096,-,-,-,-,Ycf34,protein-coding,-,-,-,Ycf34,20200909,-
+590727,55291808,trnL(taa),HRV13_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291809,trnC(gca),HRV13_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291810,rbcL,HRV13_pgp095,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20210123,-
+590727,55291811,rbcS,HRV13_pgp094,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",20210123,-
+590727,55291812,trnE(ttc),HRV13_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291813,psaA,HRV13_pgp093,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20210123,-
+590727,55291814,psaB,HRV13_pgp092,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20210327,-
+590727,55291815,rps14,HRV13_pgp091,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20210123,-
+590727,55291816,petG,HRV13_pgp090,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210327,-
+590727,55291817,psbK,HRV13_pgp089,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20210327,-
+590727,55291818,psbA,HRV13_pgp088,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20210123,-
+590727,55291819,psaC,HRV13_pgp087,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20210327,-
+590727,55291820,trnK(ttt),HRV13_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291821,clpC,HRV13_pgp086,-,-,-,-,ClpC,protein-coding,-,-,-,ClpC,20210123,-
+590727,55291822,rpl33,HRV13_pgp085,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20210123,-
+590727,55291823,rps18,HRV13_pgp084,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20210123,-
+590727,55291824,ycf3,HRV13_pgp083,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20210123,-
+590727,55291825,atpB,HRV13_pgp082,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20210123,-
+590727,55291826,atpE,HRV13_pgp081,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20210123,-
+590727,55291827,tatC,HRV13_pgp080,-,-,-,-,TatC,protein-coding,-,-,-,TatC,20210123,-
+590727,55291828,petA,HRV13_pgp079,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20210123,-
+590727,55291829,ORF470,HRV13_pgp078,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200909,-
+590727,55291830,psaJ,HRV13_pgp077,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20210123,-
+590727,55291831,psaF,HRV13_pgp076,-,-,-,-,PsaF,protein-coding,-,-,-,PsaF,20210327,-
+590727,55291832,chlN,HRV13_pgp075,-,-,-,-,ChlN,protein-coding,-,-,-,ChlN,20210123,-
+590727,55291833,chlL,HRV13_pgp074,-,-,-,-,ChlL,protein-coding,-,-,-,ChlL,20210123,-
+590727,55291834,ccsA,HRV13_pgp073,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20210123,-
+590727,55291835,trnL(tag),HRV13_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291836,rpl32,HRV13_pgp072,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20210123,-
+590727,55291837,psbY,HRV13_pgp071,-,-,-,-,PsbY,protein-coding,-,-,-,PsbY,20210327,-
+590727,55291838,rbcR,HRV13_pgp070,-,-,-,-,RbcR,protein-coding,-,-,-,RbcR,20210123,-
+590727,55291839,psaL,HRV13_pgp069,-,-,-,-,PsaL,protein-coding,-,-,-,PsaL,20210327,-
+590727,55291840,petL,HRV13_pgp068,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200909,-
+590727,55291841,ycf4,HRV13_pgp067,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20210327,-
+590727,55291842,trnG(tcc),HRV13_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291843,psbE,HRV13_pgp066,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20210123,-
+590727,55291844,psbF,HRV13_pgp065,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20210123,-
+590727,55291845,psbL,HRV13_pgp064,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200905,-
+590727,55291846,psbJ,HRV13_pgp063,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20210123,-
+590727,55291847,psaI,HRV13_pgp062,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200909,-
+590727,55291848,ftrB,HRV13_pgp061,-,-,-,-,FtrB,protein-coding,-,-,-,FtrB,20210123,-
+590727,55291849,ycf12,HRV13_pgp060,-,-,-,-,Ycf12,protein-coding,-,-,-,Ycf12,20210327,-
+590727,55291850,cbbx,HRV13_pgp059,-,-,-,-,Cbbx,protein-coding,-,-,-,Cbbx,20210327,-
+590727,55291851,rns,HRV13_pgr003,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291852,trnI(gat),HRV13_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291853,trnA(tgc),HRV13_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291854,rnl,HRV13_pgr002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291855,rrn5,HRV13_pgr001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291856,ycf19,HRV13_pgp058,-,-,-,-,Ycf19,protein-coding,-,-,-,Ycf19,20210123,-
+590727,55291857,rps16,HRV13_pgp057,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20210327,-
+590727,55291858,ycf65,HRV13_pgp056,-,-,-,-,Ycf65,protein-coding,-,-,-,Ycf65,20210123,-
+590727,55291859,trnQ(ttg),HRV13_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291860,trnR(acg),HRV13_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291861,rps4,HRV13_pgp055,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20210327,-
+590727,55291862,ilvB,HRV13_pgp054,-,-,-,-,IlvB,protein-coding,-,-,-,IlvB,20210123,-
+590727,55291863,ycf33,HRV13_pgp053,-,-,-,-,Ycf33,protein-coding,-,-,-,Ycf33,20210123,-
+590727,55291864,ycf39,HRV13_pgp052,-,-,-,-,Ycf39,protein-coding,-,-,-,Ycf39,20210123,-
+590727,55291865,ycf41,HRV13_pgp051,-,-,-,-,Ycf41,protein-coding,-,-,-,Ycf41,20200909,-
+590727,55291866,sufC,HRV13_pgp050,-,-,-,-,SufC,protein-coding,-,-,-,SufC,20210123,-
+590727,55291867,sufB,HRV13_pgp049,-,-,-,-,SufB,protein-coding,-,-,-,SufB,20210123,-
+590727,55291868,ycf35,HRV13_pgp048,-,-,-,-,Ycf35,protein-coding,-,-,-,Ycf35,20210123,-
+590727,55291869,trnR(tct),HRV13_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291870,trnV(tac),HRV13_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291871,psb28,HRV13_pgp047,-,-,-,-,Psb28,protein-coding,-,-,-,Psb28,20210123,-
+590727,55291872,rps1,HRV13_pgp046,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,ribosomal protein S1,20210123,-
+590727,55291873,thiS,HRV13_pgp045,-,-,-,-,thiamine biosynthesis protein,protein-coding,-,-,-,thiamine biosynthesis protein,20210327,-
+590727,55291874,trnH(gtg),HRV13_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291875,trnT(tgt),HRV13_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291876,psbC,HRV13_pgp044,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20210327,-
+590727,55291877,psbD,HRV13_pgp043,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20210123,-
+590727,55291878,trnN(gtt),HRV13_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291879,rpl9,HRV13_pgp042,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,ribosomal protein L9,20210123,-
+590727,55291880,dnaB,HRV13_pgp041,-,-,-,-,DnaB,protein-coding,-,-,-,DnaB,20210123,-
+590727,55291881,trnW(cca),HRV13_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200909,-
+590727,55291882,rpl11,HRV13_pgp040,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,ribosomal protein L11,20210123,-
+590727,55291883,rrn5,HRV13_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200909,-
+590727,55291884,rpl1,HRV13_pgp039,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,ribosomal protein L1,20210123,-
+590727,55291885,rpl12,HRV13_pgp038,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,ribosomal protein L12,20210123,-
+590727,55291886,petF,HRV13_pgp037,-,-,-,-,PetF,protein-coding,-,-,-,PetF,20210123,-
+590727,55291887,psbB,HRV13_pgp036,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20210123,-
+590727,55291888,psbT,HRV13_pgp035,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20210327,-
+590727,55291889,psbN,HRV13_pgp034,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20210327,-
+590727,55291890,psbH,HRV13_pgp033,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20210123,-
+590727,55291891,ftsH,HRV13_pgp032,-,-,-,-,FtsH,protein-coding,-,-,-,FtsH,20210123,-
+590727,55291892,psaE,HRV13_pgp031,-,-,-,-,PsaE,protein-coding,-,-,-,PsaE,20210123,-
+590727,55291893,rps10,HRV13_pgp030,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,ribosomal protein S10,20210327,-
+590727,55291894,tufA,HRV13_pgp029,-,-,-,-,TufA,protein-coding,-,-,-,TufA,20210327,-
+590727,55291895,rps7,HRV13_pgp028,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20210123,-
+590727,55291896,rps12,HRV13_pgp027,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20210123,-
+590727,55291897,rpl31,HRV13_pgp026,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,ribosomal protein L31,20210123,-
+590727,55291898,rps9,HRV13_pgp025,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,ribosomal protein S9,20210123,-
+590727,55291899,rpl13,HRV13_pgp024,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,ribosomal protein L13,20210123,-
+590727,55291900,rpoA,HRV13_pgp023,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20210123,-
+590727,55291901,rps11,HRV13_pgp022,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20210123,-
+590727,55291902,rps13,HRV13_pgp021,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,ribosomal protein S13,20210123,-
+590727,55291903,rpl36,HRV13_pgp020,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20210327,-
+590727,55291904,secY,HRV13_pgp019,-,-,-,-,SecY,protein-coding,-,-,-,SecY,20210123,-
+590727,55291905,rps5,HRV13_pgp018,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,ribosomal protein S5,20210123,-
+590727,55291906,rpl18,HRV13_pgp017,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,ribosomal protein L18,20210123,-
+590727,55291907,rpl6,HRV13_pgp016,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,ribosomal protein L6,20210123,-
+590727,55291908,rps8,HRV13_pgp015,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20210123,-
+590727,55291909,rpl5,HRV13_pgp014,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,ribosomal protein L5,20210123,-
+590727,55291910,rpl24,HRV13_pgp013,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,ribosomal protein L24,20210123,-
+590727,55291911,rpl14,HRV13_pgp012,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20210327,-
+590727,55291912,rps17,HRV13_pgp011,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,ribosomal protein S17,20210327,-
+590727,55291913,rpl29,HRV13_pgp010,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,ribosomal protein L29,20210327,-
+590727,55291914,rpl16,HRV13_pgp009,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20210123,-
+590727,55291915,rps3,HRV13_pgp008,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20210327,-
+590727,55291916,rpl22,HRV13_pgp007,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20210327,-
+590727,55291917,rps19,HRV13_pgp006,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20210327,-
+590727,55291918,rpl2,HRV13_pgp005,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20210123,-
+590727,55291919,rpl23,HRV13_pgp004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20210123,-
+590727,55291920,rpl4,HRV13_pgp003,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,ribosomal protein L4,20210123,-
+590727,55291921,rpl3,HRV13_pgp002,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,ribosomal protein L3,20210327,-
+590727,55291922,rpl21,HRV13_pgp001,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,ribosomal protein L21,20210123,-

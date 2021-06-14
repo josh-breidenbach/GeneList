@@ -1,0 +1,600 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+464988,5739337,HAN_1g98,HAN_1g98,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739338,HAN_1g119,HAN_1g119,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739339,HAN_1g11,HAN_1g11,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739340,HAN_1g160,HAN_1g160,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739341,HAN_1g162,HAN_1g162,-,-,1,-,cdc48b,protein-coding,-,-,-,-,20160924,-
+464988,5739342,HAN_1g67,HAN_1g67,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739343,HAN_1g142,HAN_1g142,-,-,1,-,nop56,protein-coding,-,-,-,-,20160924,-
+464988,5739344,HAN_1g94,HAN_1g94,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739345,HAN_1g77,HAN_1g77,-,-,1,-,rpabc5,protein-coding,-,-,-,-,20160924,-
+464988,5739346,HAN_2g305,HAN_2g305,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739347,HAN_2g306,HAN_2g306,-,-,2,-,rfc2,protein-coding,-,-,-,-,20150626,-
+464988,5739348,HAN_2g297,HAN_2g297,-,-,2,-,rpl18,protein-coding,-,-,-,-,20160924,-
+464988,5739349,HAN_2g298,HAN_2g298,-,-,2,-,rpl7A,protein-coding,-,-,-,-,20160924,-
+464988,5739350,HAN_2g237,HAN_2g237,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739351,HAN_2g238,HAN_2g238,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739352,HAN_2g239,HAN_2g239,-,-,2,-,prsS7,protein-coding,-,-,-,-,20160924,-
+464988,5739353,HAN_2g287,HAN_2g287,-,-,2,-,rub,protein-coding,-,-,-,-,20160924,-
+464988,5739354,HAN_2g288,HAN_2g288,-,-,2,-,rps3A,protein-coding,-,-,-,-,20160924,-
+464988,5739355,HAN_2g207,HAN_2g207,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739356,HAN_2g208,HAN_2g208,-,-,2,-,rpl5,protein-coding,-,-,-,-,20160924,-
+464988,5739357,HAN_2g209,HAN_2g209,-,-,2,-,rpl37A,protein-coding,-,-,-,-,20150626,-
+464988,5739358,HAN_2g240,HAN_2g240,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739359,HAN_2g241,HAN_2g241,-,-,2,-,rps15A,protein-coding,-,-,-,-,20150626,-
+464988,5739360,HAN_2g242,HAN_2g242,-,-,2,-,tfIIE,protein-coding,-,-,-,-,20160924,-
+464988,5739361,HAN_2g347,HAN_2g347,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739362,HAN_2g348,HAN_2g348,-,-,2,-,rip1,protein-coding,-,-,-,-,20150801,-
+464988,5739363,HAN_2g185,HAN_2g185,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739364,HAN_2g186,HAN_2g186,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739365,HAN_2g254,HAN_2g254,-,-,2,-,rps10b,protein-coding,-,-,-,-,20160924,-
+464988,5739366,HAN_2g255,HAN_2g255,-,-,2,-,rpl26,protein-coding,-,-,-,-,20160924,-
+464988,5739367,HAN_2g256,HAN_2g256,-,-,2,-,fet5,protein-coding,-,-,-,-,20160924,-
+464988,5739368,HAN_2g292,HAN_2g292,-,-,2,-,cdc48,protein-coding,-,-,-,-,20160924,-
+464988,5739369,HAN_2g293,HAN_2g293,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739370,HAN_2g279,HAN_2g279,-,-,2,-,rla0,protein-coding,-,-,-,-,20150626,-
+464988,5739371,HAN_2g280,HAN_2g280,-,-,2,-,prsB1,protein-coding,-,-,-,-,20160924,-
+464988,5739372,HAN_2g281,HAN_2g281,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739373,HAN_2g198,HAN_2g198,-,-,2,-,sen34,protein-coding,-,-,-,-,20160924,-
+464988,5739374,HAN_2g199,HAN_2g199,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739375,HAN_2g200,HAN_2g200,-,-,2,-,tubA,protein-coding,-,-,-,-,20150801,-
+464988,5739376,HAN_2g262,HAN_2g262,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739377,HAN_2g263,HAN_2g263,-,-,2,-,rpa5,protein-coding,-,-,-,-,20160924,-
+464988,5739378,HAN_2g322,HAN_2g322,-,-,2,-,kin,protein-coding,-,-,-,-,20150626,-
+464988,5739379,HAN_2g323,HAN_2g323,-,-,2,-,pcna,protein-coding,-,-,-,-,20150626,-
+464988,5739380,HAN_2g222,HAN_2g222,-,-,2,-,sui1,protein-coding,-,-,-,-,20160325,-
+464988,5739381,HAN_2g223,HAN_2g223,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739382,HAN_2g224,HAN_2g224,-,-,2,-,prsS13,protein-coding,-,-,-,-,20150626,-
+464988,5739383,HAN_2g190,HAN_2g190,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739384,HAN_2g289,HAN_2g289,-,-,2,-,ranbpm,protein-coding,-,-,-,-,20160924,-
+464988,5739385,HAN_2g290,HAN_2g290,-,-,2,-,taf13,protein-coding,-,-,-,-,20150626,-
+464988,5739386,HAN_2g291,HAN_2g291,-,-,2,-,rpl19,protein-coding,-,-,-,-,20160924,-
+464988,5739387,HAN_2g228,HAN_2g228,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739388,HAN_2g229,HAN_2g229,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739389,HAN_2g230,HAN_2g230,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739390,HAN_2g294,HAN_2g294,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739391,HAN_2g295,HAN_2g295,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739392,HAN_2g296,HAN_2g296,-,-,2,-,clpP2,protein-coding,-,-,-,-,20160924,-
+464988,5739393,HAN_2g191,HAN_2g191,-,-,2,-,eif6,protein-coding,-,-,-,-,20160924,-
+464988,5739394,HAN_2g312,HAN_2g312,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739395,HAN_2g313,HAN_2g313,-,-,2,-,rpb11,protein-coding,-,-,-,-,20150626,-
+464988,5739396,HAN_2g299,HAN_2g299,-,-,2,-,eif4E,protein-coding,-,-,-,-,20160924,-
+464988,5739397,HAN_2g300,HAN_2g300,-,-,2,-,ATP/GTPbp,protein-coding,-,-,-,-,20160924,-
+464988,5739398,HAN_2g301,HAN_2g301,-,-,2,-,dhm,protein-coding,-,-,-,-,20160924,-
+464988,5739399,HAN_2g339,HAN_2g339,-,-,2,-,pab2,protein-coding,-,-,-,-,20160924,-
+464988,5739400,HAN_2g340,HAN_2g340,-,-,2,-,nol10,protein-coding,-,-,-,-,20160924,-
+464988,5739401,HAN_2g341,HAN_2g341,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739402,HAN_3g366,HAN_3g366,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739403,HAN_3g479,HAN_3g479,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739404,HAN_3g480,HAN_3g480,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739405,HAN_3g481,HAN_3g481,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739406,HAN_3g482,HAN_3g482,-,-,3,-,nat10,protein-coding,-,-,-,-,20160924,-
+464988,5739407,HAN_3g483,HAN_3g483,-,-,3,-,prsA2,protein-coding,-,-,-,-,20160924,-
+464988,5739408,HAN_3g434,HAN_3g434,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739409,HAN_3g435,HAN_3g435,-,-,3,-,prsB7,protein-coding,-,-,-,-,20150801,-
+464988,5739410,HAN_3g436,HAN_3g436,-,-,3,-,prsA7,protein-coding,-,-,-,-,20160924,-
+464988,5739411,HAN_3g437,HAN_3g437,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739412,HAN_3g438,HAN_3g438,-,-,3,-,rps3,protein-coding,-,-,-,-,20160924,-
+464988,5739413,HAN_3g372,HAN_3g372,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739414,HAN_3g469,HAN_3g469,-,-,3,-,rps15,protein-coding,-,-,-,-,20160924,-
+464988,5739415,HAN_3g470,HAN_3g470,-,-,3,-,smc1,protein-coding,-,-,-,-,20160924,-
+464988,5739416,HAN_3g471,HAN_3g471,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739417,HAN_3g472,HAN_3g472,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739418,HAN_3g473,HAN_3g473,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739419,HAN_3g428,HAN_3g428,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739420,HAN_3g429,HAN_3g429,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739421,HAN_3g430,HAN_3g430,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739422,HAN_3g494,HAN_3g494,-,-,3,-,cycB,protein-coding,-,-,-,-,20160924,-
+464988,5739423,HAN_1g161,HAN_1g161,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739424,HAN_1g17,HAN_1g17,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739425,HAN_1g14,HAN_1g14,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739426,HAN_3g432,HAN_3g432,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739427,HAN_3g433,HAN_3g433,-,-,3,-,kin(mps1),protein-coding,-,-,-,-,20150626,-
+464988,5739428,HAN_3g439,HAN_3g439,-,-,3,-,ebi,protein-coding,-,-,-,-,20160924,-
+464988,5739429,HAN_3g440,HAN_3g440,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739430,HAN_3g441,HAN_3g441,-,-,3,-,prsS8,protein-coding,-,-,-,-,20160924,-
+464988,5739431,HAN_3g442,HAN_3g442,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739432,HAN_3g443,HAN_3g443,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739433,HAN_3g444,HAN_3g444,-,-,3,-,prsS1,protein-coding,-,-,-,-,20160924,-
+464988,5739434,HAN_3g384,HAN_3g384,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739435,HAN_3g385,HAN_3g385,-,-,3,-,fkbp-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739436,HAN_3g386,HAN_3g386,-,-,3,-,rpl35A,protein-coding,-,-,-,-,20160924,-
+464988,5739437,HAN_3g387,HAN_3g387,-,-,3,-,brx1,protein-coding,-,-,-,-,20160924,-
+464988,5739438,HAN_3g388,HAN_3g388,-,-,3,-,tfIIB,protein-coding,-,-,-,-,20160924,-
+464988,5739439,HAN_3g389,HAN_3g389,-,-,3,-,rpl1,protein-coding,-,-,-,-,20160924,-
+464988,5739440,HAN_3g474,HAN_3g474,-,-,3,-,prsB6,protein-coding,-,-,-,-,20160924,-
+464988,5739441,HAN_3g475,HAN_3g475,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739442,HAN_3g476,HAN_3g476,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739443,HAN_3g477,HAN_3g477,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739444,HAN_3g478,HAN_3g478,-,-,3,-,hsp90,protein-coding,-,-,-,-,20160924,-
+464988,5739445,HAN_3g508,HAN_3g508,-,-,3,-,prsA1,protein-coding,-,-,-,-,20160924,-
+464988,5739446,HAN_3g509,HAN_3g509,-,-,3,-,tcpG,protein-coding,-,-,-,-,20160924,-
+464988,5739447,HAN_3g510,HAN_3g510,-,-,3,-,tfIIA-S,protein-coding,-,-,-,-,20150626,-
+464988,5739448,HAN_3g511,HAN_3g511,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150801,-
+464988,5739449,HAN_3g512,HAN_3g512,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739450,HAN_3g390,HAN_3g390,-,-,3,-,kin(aab),protein-coding,-,-,-,-,20160924,-
+464988,5739451,HAN_3g391,HAN_3g391,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739452,HAN_3g392,HAN_3g392,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739453,HAN_3g393,HAN_3g393,-,-,3,-,kin(cdc2),protein-coding,-,-,-,-,20150626,-
+464988,5739454,HAN_3g394,HAN_3g394,-,-,3,-,eif2G,protein-coding,-,-,-,-,20160924,-
+464988,5739455,HAN_3g367,HAN_3g367,-,-,3,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739456,HAN_3g368,HAN_3g368,-,-,3,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739457,HAN_3g369,HAN_3g369,-,-,3,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739458,HAN_3g370,HAN_3g370,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739459,HAN_3g371,HAN_3g371,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739460,HAN_3g518,HAN_3g518,-,-,3,-,snrpD,protein-coding,-,-,-,-,20160924,-
+464988,5739461,HAN_3g519,HAN_3g519,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739462,HAN_3g520,HAN_3g520,-,-,3,-,rpl6B,protein-coding,-,-,-,-,20160924,-
+464988,5739463,HAN_3g521,HAN_3g521,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739464,HAN_3g499,HAN_3g499,-,-,3,-,gtp-bp,protein-coding,-,-,-,-,20160924,-
+464988,5739465,HAN_3g500,HAN_3g500,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739466,HAN_3g501,HAN_3g501,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739467,HAN_3g502,HAN_3g502,-,-,3,-,tfIID,protein-coding,-,-,-,-,20150626,-
+464988,5739468,HAN_3g395,HAN_3g395,-,-,3,-,rrp3,protein-coding,-,-,-,-,20160924,-
+464988,5739469,HAN_3g396,HAN_3g396,-,-,3,-,nmt1,protein-coding,-,-,-,-,20160924,-
+464988,5739470,HAN_3g397,HAN_3g397,-,-,3,-,cpn60,protein-coding,-,-,-,-,20150626,-
+464988,5739471,HAN_3g398,HAN_3g398,-,-,3,-,rpl27A,protein-coding,-,-,-,-,20160924,-
+464988,5739472,HAN_3g399,HAN_3g399,-,-,3,-,sys1,protein-coding,-,-,-,-,20160924,-
+464988,5739473,HAN_3g400,HAN_3g400,-,-,3,-,gidA,protein-coding,-,-,-,-,20160924,-
+464988,5739474,HAN_3g464,HAN_3g464,-,-,3,-,rpl36,protein-coding,-,-,-,-,20160924,-
+464988,5739475,HAN_3g465,HAN_3g465,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739476,HAN_3g466,HAN_3g466,-,-,3,-,kin(snf1),protein-coding,-,-,-,-,20150626,-
+464988,5739477,HAN_3g467,HAN_3g467,-,-,3,-,pi4K,protein-coding,-,-,-,-,20160924,-
+464988,5739478,HAN_3g468,HAN_3g468,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739479,HAN_3g495,HAN_3g495,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739480,HAN_3g496,HAN_3g496,-,-,3,-,rpl23A,protein-coding,-,-,-,-,20160924,-
+464988,5739481,HAN_3g497,HAN_3g497,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739482,HAN_3g498,HAN_3g498,-,-,3,-,rpb1,protein-coding,-,-,-,-,20160924,-
+464988,5739483,HAN_3g522,HAN_3g522,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739484,HAN_3g523,HAN_3g523,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739485,HAN_3g524,HAN_3g524,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739486,HAN_3g525,HAN_3g525,-,-,3,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739487,HAN_3g423,HAN_3g423,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739488,HAN_3g424,HAN_3g424,-,-,3,-,rpl27,protein-coding,-,-,-,-,20160924,-
+464988,5739489,HAN_3g425,HAN_3g425,-,-,3,-,rpc9,protein-coding,-,-,-,-,20150626,-
+464988,5739490,HAN_3g426,HAN_3g426,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739491,HAN_3g427,HAN_3g427,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739492,HAN_3g459,HAN_3g459,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739493,HAN_3g460,HAN_3g460,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739494,HAN_3g461,HAN_3g461,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739495,HAN_3g462,HAN_3g462,-,-,3,-,dnaG,protein-coding,-,-,-,-,20160924,-
+464988,5739496,HAN_3g463,HAN_3g463,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739497,HAN_3g454,HAN_3g454,-,-,3,-,rpb3,protein-coding,-,-,-,-,20160924,-
+464988,5739498,HAN_3g455,HAN_3g455,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739499,HAN_3g456,HAN_3g456,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739500,HAN_3g457,HAN_3g457,-,-,3,-,rps8,protein-coding,-,-,-,-,20150626,-
+464988,5739501,HAN_3g458,HAN_3g458,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739502,HAN_3g449,HAN_3g449,-,-,3,-,rpl21,protein-coding,-,-,-,-,20160924,-
+464988,5739503,HAN_3g450,HAN_3g450,-,-,3,-,rps17,protein-coding,-,-,-,-,20160924,-
+464988,5739504,HAN_3g451,HAN_3g451,-,-,3,-,prsS12,protein-coding,-,-,-,-,20150626,-
+464988,5739505,HAN_3g452,HAN_3g452,-,-,3,-,prsB4,protein-coding,-,-,-,-,20160924,-
+464988,5739506,HAN_3g453,HAN_3g453,-,-,3,-,prsS4,protein-coding,-,-,-,-,20160924,-
+464988,5739507,HAN_3g513,HAN_3g513,-,-,3,-,ubiquitin,protein-coding,-,-,-,-,20150801,-
+464988,5739508,HAN_3g514,HAN_3g514,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739509,HAN_3g515,HAN_3g515,-,-,3,-,hda,protein-coding,-,-,-,-,20160325,-
+464988,5739510,HAN_3g516,HAN_3g516,-,-,3,-,smc4,protein-coding,-,-,-,-,20160924,-
+464988,5739511,HAN_3g517,HAN_3g517,-,-,3,-,ggt,protein-coding,-,-,-,-,20160924,-
+464988,5739512,HAN_3g412,HAN_3g412,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739513,HAN_3g413,HAN_3g413,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739514,HAN_3g414,HAN_3g414,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739515,HAN_3g415,HAN_3g415,-,-,3,-,rpl40,protein-coding,-,-,-,-,20160924,-
+464988,5739516,HAN_3g416,HAN_3g416,-,-,3,-,rps21,protein-coding,-,-,-,-,20160924,-
+464988,5739517,HAN_3g484,HAN_3g484,-,-,3,-,bsm1-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739518,HAN_3g485,HAN_3g485,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739519,HAN_3g486,HAN_3g486,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150801,-
+464988,5739520,HAN_3g487,HAN_3g487,-,-,3,-,tic22,protein-coding,-,-,-,-,20160924,-
+464988,5739521,HAN_3g488,HAN_3g488,-,-,3,-,clpP1,protein-coding,-,-,-,-,20160924,-
+464988,5739522,HAN_3g503,HAN_3g503,-,-,3,-,mcm3,protein-coding,-,-,-,-,20160924,-
+464988,5739523,HAN_3g504,HAN_3g504,-,-,3,-,snrpD2,protein-coding,-,-,-,-,20160924,-
+464988,5739524,HAN_3g505,HAN_3g505,-,-,3,-,rps4,protein-coding,-,-,-,-,20160924,-
+464988,5739525,HAN_3g506,HAN_3g506,-,-,3,-,ftsZ,protein-coding,-,-,-,-,20150801,-
+464988,5739526,HAN_3g507,HAN_3g507,-,-,3,-,tif211,protein-coding,-,-,-,-,20160924,-
+464988,5739527,HAN_3g489,HAN_3g489,-,-,3,-,mcm4,protein-coding,-,-,-,-,20160924,-
+464988,5739528,HAN_3g490,HAN_3g490,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739529,HAN_3g491,HAN_3g491,-,-,3,-,prsA5,protein-coding,-,-,-,-,20160924,-
+464988,5739530,HAN_3g492,HAN_3g492,-,-,3,-,rps5,protein-coding,-,-,-,-,20150626,-
+464988,5739531,HAN_3g493,HAN_3g493,-,-,3,-,tfIIIC,protein-coding,-,-,-,-,20150626,-
+464988,5739532,HAN_3g373,HAN_3g373,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739533,HAN_3g374,HAN_3g374,-,-,3,-,ubc4,protein-coding,-,-,-,-,20160924,-
+464988,5739534,HAN_3g375,HAN_3g375,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739535,HAN_3g376,HAN_3g376,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739536,HAN_3g377,HAN_3g377,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739537,HAN_3g378,HAN_3g378,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739538,HAN_3g445,HAN_3g445,-,-,3,-,taf90,protein-coding,-,-,-,-,20160924,-
+464988,5739539,HAN_3g446,HAN_3g446,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739540,HAN_3g447,HAN_3g447,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739541,HAN_3g448,HAN_3g448,-,-,3,-,rps19,protein-coding,-,-,-,-,20160924,-
+464988,5739542,HAN_3g417,HAN_3g417,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739543,HAN_3g418,HAN_3g418,-,-,3,-,rfc3,protein-coding,-,-,-,-,20160924,-
+464988,5739544,HAN_3g419,HAN_3g419,-,-,3,-,kin(snf2),protein-coding,-,-,-,-,20160924,-
+464988,5739545,HAN_3g420,HAN_3g420,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739546,HAN_3g421,HAN_3g421,-,-,3,-,rps29A,protein-coding,-,-,-,-,20160924,-
+464988,5739547,HAN_3g422,HAN_3g422,-,-,3,-,cenp-A,protein-coding,-,-,-,-,20160924,-
+464988,5739548,HAN_3g379,HAN_3g379,-,-,3,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739549,HAN_3g380,HAN_3g380,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739550,HAN_3g381,HAN_3g381,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739551,HAN_3g382,HAN_3g382,-,-,3,-,rps30,protein-coding,-,-,-,-,20160924,-
+464988,5739552,HAN_3g383,HAN_3g383,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739553,HAN_3g406,HAN_3g406,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739554,HAN_3g407,HAN_3g407,-,-,3,-,rbp1,protein-coding,-,-,-,-,20160924,-
+464988,5739555,HAN_3g408,HAN_3g408,-,-,3,-,sof1,protein-coding,-,-,-,-,20160924,-
+464988,5739556,HAN_3g409,HAN_3g409,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739557,HAN_3g410,HAN_3g410,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739558,HAN_3g411,HAN_3g411,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739559,HAN_3g401,HAN_3g401,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739560,HAN_1g102,HAN_1g102,-,-,1,-,ATPbp,protein-coding,-,-,-,-,20160924,-
+464988,5739561,HAN_1g173,HAN_1g173,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739562,HAN_1g60,HAN_1g60,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739563,HAN_1g143,HAN_1g143,-,-,1,-,tcpB,protein-coding,-,-,-,-,20160924,-
+464988,5739564,HAN_1g34,HAN_1g34,-,-,1,-,tcpH,protein-coding,-,-,-,-,20160924,-
+464988,5739565,HAN_1g104,HAN_1g104,-,-,1,-,rps24,protein-coding,-,-,-,-,20150626,-
+464988,5739566,HAN_1g117,HAN_1g117,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739567,HAN_1g169,HAN_1g169,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739568,HAN_1g163,HAN_1g163,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739569,HAN_1g25,HAN_1g25,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739570,HAN_1g139,HAN_1g139,-,-,1,-,smc2,protein-coding,-,-,-,-,20160924,-
+464988,5739571,HAN_1g165,HAN_1g165,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739572,HAN_1g53,HAN_1g53,-,-,1,-,h4,protein-coding,-,-,-,-,20160325,-
+464988,5739573,HAN_1g49,HAN_1g49,-,-,1,-,rpl23,protein-coding,-,-,-,-,20150626,-
+464988,5739574,HAN_1g8,HAN_1g8,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739575,HAN_1g121,HAN_1g121,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739576,HAN_1g66,HAN_1g66,-,-,1,-,tbl3,protein-coding,-,-,-,-,20160924,-
+464988,5739577,HAN_1g148,HAN_1g148,-,-,1,-,mak16,protein-coding,-,-,-,-,20160924,-
+464988,5739578,HAN_1g172,HAN_1g172,-,-,1,-,ufd,protein-coding,-,-,-,-,20160924,-
+464988,5739579,HAN_1g35,HAN_1g35,-,-,1,-,rpl13A,protein-coding,-,-,-,-,20160924,-
+464988,5739580,HAN_1g22,HAN_1g22,-,-,1,-,gps2,protein-coding,-,-,-,-,20150626,-
+464988,5739581,HAN_1g129,HAN_1g129,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739582,HAN_1g132,HAN_1g132,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739583,HAN_1g37,HAN_1g37,-,-,1,-,dbx-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739584,HAN_1g2,HAN_1g2,-,-,1,-,28S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739585,HAN_1g68,HAN_1g68,-,-,1,-,imp4,protein-coding,-,-,-,-,20160924,-
+464988,5739586,HAN_1g28,HAN_1g28,-,-,1,-,reb1,protein-coding,-,-,-,-,20160924,-
+464988,5739587,HAN_1g57,HAN_1g57,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739588,HAN_1g69,HAN_1g69,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739589,HAN_1g136,HAN_1g136,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739590,HAN_1g50,HAN_1g50,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739591,HAN_1g84,HAN_1g84,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739592,HAN_1g168,HAN_1g168,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739593,HAN_1g131,HAN_1g131,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739594,HAN_1g6,HAN_1g6,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739595,HAN_1g80,HAN_1g80,-,-,1,-,sufD,protein-coding,-,-,-,-,20160924,-
+464988,5739596,HAN_1g30,HAN_1g30,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739597,HAN_1g59,HAN_1g59,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739598,HAN_1g40,HAN_1g40,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739599,HAN_1g150,HAN_1g150,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739600,HAN_1g74,HAN_1g74,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739601,HAN_1g120,HAN_1g120,-,-,1,-,prsB5,protein-coding,-,-,-,-,20150626,-
+464988,5739602,HAN_1g52,HAN_1g52,-,-,1,-,h3,protein-coding,-,-,-,-,20160924,-
+464988,5739603,HAN_1g164,HAN_1g164,-,-,1,-,tubB,protein-coding,-,-,-,-,20150801,-
+464988,5739604,HAN_1g106,HAN_1g106,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739605,HAN_1g157,HAN_1g157,-,-,1,-,nop2,protein-coding,-,-,-,-,20160924,-
+464988,5739606,HAN_1g61,HAN_1g61,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739607,HAN_1g51,HAN_1g51,-,-,1,-,rpb2,protein-coding,-,-,-,-,20160924,-
+464988,5739608,HAN_1g79,HAN_1g79,-,-,1,-,smc3,protein-coding,-,-,-,-,20160924,-
+464988,5739609,HAN_1g62,HAN_1g62,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739610,HAN_1g31,HAN_1g31,-,-,1,-,rpb7,protein-coding,-,-,-,-,20160924,-
+464988,5739611,HAN_1g21,HAN_1g21,-,-,1,-,h2B,protein-coding,-,-,-,-,20160924,-
+464988,5739612,HAN_1g154,HAN_1g154,-,-,1,-,rpl10A,protein-coding,-,-,-,-,20160924,-
+464988,5739613,HAN_1g78,HAN_1g78,-,-,1,-,met,protein-coding,-,-,-,-,20160924,-
+464988,5739614,HAN_1g12,HAN_1g12,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739615,HAN_1g41,HAN_1g41,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739616,HAN_1g33,HAN_1g33,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739617,HAN_1g167,HAN_1g167,-,-,1,-,U3snoRNP,protein-coding,-,-,-,-,20160924,-
+464988,5739618,HAN_1g155,HAN_1g155,-,-,1,-,rpl17,protein-coding,-,-,-,-,20160924,-
+464988,5739619,HAN_1g32,HAN_1g32,-,-,1,-,rpc2,protein-coding,-,-,-,-,20160924,-
+464988,5739620,HAN_1g178,HAN_1g178,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739621,HAN_1g1,HAN_1g1,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739622,HAN_1g170,HAN_1g170,-,-,1,-,sut,protein-coding,-,-,-,-,20160924,-
+464988,5739623,HAN_1g56,HAN_1g56,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739624,HAN_1g13,HAN_1g13,-,-,1,-,nop1,protein-coding,-,-,-,-,20160924,-
+464988,5739625,HAN_1g151,HAN_1g151,-,-,1,-,rps9,protein-coding,-,-,-,-,20160924,-
+464988,5739626,HAN_1g166,HAN_1g166,-,-,1,-,rpl32,protein-coding,-,-,-,-,20160924,-
+464988,5739627,HAN_1g156,HAN_1g156,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739628,HAN_1g95,HAN_1g95,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739629,HAN_1g7,HAN_1g7,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739630,HAN_1g55,HAN_1g55,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739631,HAN_1g10,HAN_1g10,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739632,HAN_1g133,HAN_1g133,-,-,1,-,hsf,protein-coding,-,-,-,-,20160924,-
+464988,5739633,HAN_1g38,HAN_1g38,-,-,1,-,pab1,protein-coding,-,-,-,-,20160924,-
+464988,5739634,HAN_1g113,HAN_1g113,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739635,HAN_1g125,HAN_1g125,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739636,HAN_1g82,HAN_1g82,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739637,HAN_1g54,HAN_1g54,-,-,1,-,mcm5,protein-coding,-,-,-,-,20160924,-
+464988,5739638,HAN_1g36,HAN_1g36,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739639,HAN_1g16,HAN_1g16,-,-,1,-,prsA3,protein-coding,-,-,-,-,20160924,-
+464988,5739640,HAN_1g123,HAN_1g123,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739641,HAN_1g149,HAN_1g149,-,-,1,-,rpl3,protein-coding,-,-,-,-,20160924,-
+464988,5739642,HAN_1g18,HAN_1g18,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739643,HAN_1g159,HAN_1g159,-,-,1,-,prsS6,protein-coding,-,-,-,-,20160924,-
+464988,5739644,HAN_1g70,HAN_1g70,-,-,1,-,hsp70,protein-coding,-,-,-,-,20160924,-
+464988,5739645,HAN_1g114,HAN_1g114,-,-,1,-,gblp,protein-coding,-,-,-,-,20160924,-
+464988,5739646,HAN_1g118,HAN_1g118,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739647,HAN_1g93,HAN_1g93,-,-,1,-,mcm7,protein-coding,-,-,-,-,20160924,-
+464988,5739648,HAN_1g96,HAN_1g96,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739649,HAN_1g109,HAN_1g109,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739650,HAN_1g108,HAN_1g108,-,-,1,-,rpl8,protein-coding,-,-,-,-,20160924,-
+464988,5739651,HAN_1g3,HAN_1g3,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739652,HAN_1g174,HAN_1g174,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739653,HAN_1g107,HAN_1g107,-,-,1,-,uceE2,protein-coding,-,-,-,-,20160924,-
+464988,5739654,HAN_2g337,HAN_2g337,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739655,HAN_2g338,HAN_2g338,-,-,2,-,trf,protein-coding,-,-,-,-,20160924,-
+464988,5739656,HAN_2g210,HAN_2g210,-,-,2,-,ruvb-like 1,protein-coding,-,-,-,-,20160924,-
+464988,5739657,HAN_2g211,HAN_2g211,-,-,2,-,rps26,protein-coding,-,-,-,-,20150626,-
+464988,5739658,HAN_2g212,HAN_2g212,-,-,2,-,snu13,protein-coding,-,-,-,-,20160924,-
+464988,5739659,HAN_2g193,HAN_2g193,-,-,2,-,rps15,protein-coding,-,-,-,-,20150626,-
+464988,5739660,HAN_2g314,HAN_2g314,-,-,2,-,ruvb-like 2,protein-coding,-,-,-,-,20160924,-
+464988,5739661,HAN_2g315,HAN_2g315,-,-,2,-,rpb8,protein-coding,-,-,-,-,20160924,-
+464988,5739662,HAN_2g316,HAN_2g316,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739663,HAN_2g344,HAN_2g344,-,-,2,-,nop5,protein-coding,-,-,-,-,20160924,-
+464988,5739664,HAN_2g345,HAN_2g345,-,-,2,-,has1,protein-coding,-,-,-,-,20160924,-
+464988,5739665,HAN_2g346,HAN_2g346,-,-,2,-,Yrpl24,protein-coding,-,-,-,-,20160924,-
+464988,5739666,HAN_2g189,HAN_2g189,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739667,HAN_2g362,HAN_2g362,-,-,2,-,rpl9,protein-coding,-,-,-,-,20160924,-
+464988,5739668,HAN_2g363,HAN_2g363,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739669,HAN_2g246,HAN_2g246,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739670,HAN_2g247,HAN_2g247,-,-,2,-,bystin-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739671,HAN_2g248,HAN_2g248,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739672,HAN_2g187,HAN_2g187,-,-,2,-,rpl9,protein-coding,-,-,-,-,20160924,-
+464988,5739673,HAN_2g272,HAN_2g272,-,-,2,-,rps2,protein-coding,-,-,-,-,20160924,-
+464988,5739674,HAN_2g273,HAN_2g273,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739675,HAN_2g269,HAN_2g269,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739676,HAN_2g270,HAN_2g270,-,-,2,-,rpa2,protein-coding,-,-,-,-,20150626,-
+464988,5739677,HAN_2g271,HAN_2g271,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739678,HAN_2g324,HAN_2g324,-,-,2,-,rad25,protein-coding,-,-,-,-,20160924,-
+464988,5739679,HAN_2g325,HAN_2g325,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739680,HAN_2g326,HAN_2g326,-,-,2,-,rad51,protein-coding,-,-,-,-,20160924,-
+464988,5739681,HAN_2g284,HAN_2g284,-,-,2,-,rpl10,protein-coding,-,-,-,-,20160924,-
+464988,5739682,HAN_2g285,HAN_2g285,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150801,-
+464988,5739683,HAN_2g286,HAN_2g286,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739684,HAN_2g216,HAN_2g216,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739685,HAN_2g217,HAN_2g217,-,-,2,-,prsS10B,protein-coding,-,-,-,-,20160924,-
+464988,5739686,HAN_2g218,HAN_2g218,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739687,HAN_2g327,HAN_2g327,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739688,HAN_2g328,HAN_2g328,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739689,HAN_2g204,HAN_2g204,-,-,2,-,rpl24,protein-coding,-,-,-,-,20150626,-
+464988,5739690,HAN_2g205,HAN_2g205,-,-,2,-,gblp,protein-coding,-,-,-,-,20160924,-
+464988,5739691,HAN_2g206,HAN_2g206,-,-,2,-,mce,protein-coding,-,-,-,-,20160924,-
+464988,5739692,HAN_2g302,HAN_2g302,-,-,2,-,rcl1,protein-coding,-,-,-,-,20160325,-
+464988,5739693,HAN_2g303,HAN_2g303,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739694,HAN_2g264,HAN_2g264,-,-,2,-,ubc2,protein-coding,-,-,-,-,20150801,-
+464988,5739695,HAN_2g265,HAN_2g265,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739696,HAN_2g266,HAN_2g266,-,-,2,-,fkbp,protein-coding,-,-,-,-,20160924,-
+464988,5739697,HAN_2g231,HAN_2g231,-,-,2,-,pp1,protein-coding,-,-,-,-,20150801,-
+464988,5739698,HAN_2g232,HAN_2g232,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739699,HAN_2g233,HAN_2g233,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739700,HAN_2g357,HAN_2g357,-,-,2,-,taf,protein-coding,-,-,-,-,20160924,-
+464988,5739701,HAN_2g358,HAN_2g358,-,-,2,-,imb1,protein-coding,-,-,-,-,20160924,-
+464988,5739702,HAN_2g349,HAN_2g349,-,-,2,-,secE,protein-coding,-,-,-,-,20160924,-
+464988,5739703,HAN_2g350,HAN_2g350,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739704,HAN_2g351,HAN_2g351,-,-,2,-,engA,protein-coding,-,-,-,-,20160924,-
+464988,5739705,HAN_2g213,HAN_2g213,-,-,2,-,rpa1,protein-coding,-,-,-,-,20150801,-
+464988,5739706,HAN_2g214,HAN_2g214,-,-,2,-,rps27,protein-coding,-,-,-,-,20150626,-
+464988,5739707,HAN_2g215,HAN_2g215,-,-,2,-,cbbx,protein-coding,-,-,-,-,20160924,-
+464988,5739708,HAN_2g329,HAN_2g329,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739709,HAN_2g330,HAN_2g330,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739710,HAN_2g331,HAN_2g331,-,-,2,-,eif1A,protein-coding,-,-,-,-,20160924,-
+464988,5739711,HAN_2g252,HAN_2g252,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739712,HAN_2g253,HAN_2g253,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739713,HAN_2g188,HAN_2g188,-,-,2,-,tcpZ,protein-coding,-,-,-,-,20160924,-
+464988,5739714,HAN_2g317,HAN_2g317,-,-,2,-,dpb4,protein-coding,-,-,-,-,20160924,-
+464988,5739715,HAN_2g318,HAN_2g318,-,-,2,-,cbf5,protein-coding,-,-,-,-,20160924,-
+464988,5739716,HAN_2g364,HAN_2g364,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739717,HAN_2g365,HAN_2g365,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739718,HAN_2g319,HAN_2g319,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739719,HAN_2g320,HAN_2g320,-,-,2,-,rli1,protein-coding,-,-,-,-,20160924,-
+464988,5739720,HAN_2g321,HAN_2g321,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739721,HAN_2g192,HAN_2g192,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739722,HAN_2g354,HAN_2g354,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739723,HAN_2g355,HAN_2g355,-,-,2,-,rsp4,protein-coding,-,-,-,-,20160924,-
+464988,5739724,HAN_2g356,HAN_2g356,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739725,HAN_2g332,HAN_2g332,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739726,HAN_3g402,HAN_3g402,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739727,HAN_1g43,HAN_1g43,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739728,HAN_1g127,HAN_1g127,-,-,1,-,eif2B,protein-coding,-,-,-,-,20160924,-
+464988,5739729,HAN_1g19,HAN_1g19,-,-,1,-,ef2,protein-coding,-,-,-,-,20160924,-
+464988,5739730,HAN_1g183,HAN_1g183,-,-,1,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739731,HAN_1g20,HAN_1g20,-,-,1,-,nop-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739732,HAN_1g140,HAN_1g140,-,-,1,-,prsB3,protein-coding,-,-,-,-,20160924,-
+464988,5739733,HAN_1g134,HAN_1g134,-,-,1,-,cpeT-like protein,protein-coding,-,-,-,-,20160924,-
+464988,5739734,HAN_1g81,HAN_1g81,-,-,1,-,tubG,protein-coding,-,-,-,-,20150801,-
+464988,5739735,HAN_1g58,HAN_1g58,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739736,HAN_1g110,HAN_1g110,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739737,HAN_1g83,HAN_1g83,-,-,1,-,tcpE,protein-coding,-,-,-,-,20160924,-
+464988,5739738,HAN_1g9,HAN_1g9,-,-,1,-,ubc4,protein-coding,-,-,-,-,20160924,-
+464988,5739739,HAN_1g128,HAN_1g128,-,-,1,-,gyrB,protein-coding,-,-,-,-,20160924,-
+464988,5739740,HAN_1g179,HAN_1g179,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739741,HAN_1g116,HAN_1g116,-,-,1,-,rpl11B,protein-coding,-,-,-,-,20160924,-
+464988,5739742,HAN_1g111,HAN_1g111,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739743,HAN_1g5,HAN_1g5,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739744,HAN_1g45,HAN_1g45,-,-,1,-,kea1,protein-coding,-,-,-,-,20160924,-
+464988,5739745,HAN_1g72,HAN_1g72,-,-,1,-,rpc1,protein-coding,-,-,-,-,20150801,-
+464988,5739746,HAN_1g115,HAN_1g115,-,-,1,-,rpl31,protein-coding,-,-,-,-,20160924,-
+464988,5739747,HAN_1g101,HAN_1g101,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739748,HAN_1g46,HAN_1g46,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739749,HAN_1g181,HAN_1g181,-,-,1,-,5.8S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739750,HAN_1g15,HAN_1g15,-,-,1,-,rpb10,protein-coding,-,-,-,-,20150626,-
+464988,5739751,HAN_1g171,HAN_1g171,-,-,1,-,eif4A,protein-coding,-,-,-,-,20150626,-
+464988,5739752,HAN_1g86,HAN_1g86,-,-,1,-,erf1,protein-coding,-,-,-,-,20160924,-
+464988,5739753,HAN_1g91,HAN_1g91,-,-,1,-,asf,protein-coding,-,-,-,-,20160924,-
+464988,5739754,HAN_1g92,HAN_1g92,-,-,1,-,dph1,protein-coding,-,-,-,-,20150801,-
+464988,5739755,HAN_1g76,HAN_1g76,-,-,1,-,rpabc6,protein-coding,-,-,-,-,20160325,-
+464988,5739756,HAN_1g27,HAN_1g27,-,-,1,-,rps27A,protein-coding,-,-,-,-,20160924,-
+464988,5739757,HAN_1g126,HAN_1g126,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739758,HAN_1g4,HAN_1g4,-,-,1,-,18S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739759,HAN_1g130,HAN_1g130,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739760,HAN_1g87,HAN_1g87,-,-,1,-,hat,protein-coding,-,-,-,-,20160924,-
+464988,5739761,HAN_1g88,HAN_1g88,-,-,1,-,impA,protein-coding,-,-,-,-,20160924,-
+464988,5739762,HAN_1g137,HAN_1g137,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739763,HAN_1g158,HAN_1g158,-,-,1,-,sbp1,protein-coding,-,-,-,-,20150801,-
+464988,5739764,HAN_1g145,HAN_1g145,-,-,1,-,rps20,protein-coding,-,-,-,-,20160924,-
+464988,5739765,HAN_1g75,HAN_1g75,-,-,1,-,tha4,protein-coding,-,-,-,-,20160924,-
+464988,5739766,HAN_1g180,HAN_1g180,-,-,1,-,18S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739767,HAN_1g26,HAN_1g26,-,-,1,-,Rpf1,protein-coding,-,-,-,-,20160924,-
+464988,5739768,HAN_1g64,HAN_1g64,-,-,1,-,rpl18A,protein-coding,-,-,-,-,20150801,-
+464988,5739769,HAN_1g141,HAN_1g141,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739770,HAN_1g71,HAN_1g71,-,-,1,-,pseudo,pseudo,-,-,-,-,20121126,-
+464988,5739771,HAN_1g100,HAN_1g100,-,-,1,-,hfc136,protein-coding,-,-,-,-,20160924,-
+464988,5739772,HAN_1g63,HAN_1g63,-,-,1,-,rps11,protein-coding,-,-,-,-,20160924,-
+464988,5739773,HAN_1g103,HAN_1g103,-,-,1,-,ncbP2,protein-coding,-,-,-,-,20160924,-
+464988,5739774,HAN_1g85,HAN_1g85,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739775,HAN_1g153,HAN_1g153,-,-,1,-,mcm2,protein-coding,-,-,-,-,20160924,-
+464988,5739776,HAN_1g112,HAN_1g112,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739777,HAN_1g177,HAN_1g177,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739778,HAN_1g99,HAN_1g99,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739779,HAN_1g122,HAN_1g122,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739780,HAN_1g147,HAN_1g147,-,-,1,-,rps16,protein-coding,-,-,-,-,20150626,-
+464988,5739781,HAN_1g175,HAN_1g175,-,-,1,-,ubc4,protein-coding,-,-,-,-,20160924,-
+464988,5739782,HAN_1g29,HAN_1g29,-,-,1,-,rad3,protein-coding,-,-,-,-,20160924,-
+464988,5739783,HAN_1g47,HAN_1g47,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739784,HAN_1g65,HAN_1g65,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739785,HAN_1g48,HAN_1g48,-,-,1,-,eif5A,protein-coding,-,-,-,-,20160924,-
+464988,5739786,HAN_1g42,HAN_1g42,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739787,HAN_1g176,HAN_1g176,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739788,HAN_1g146,HAN_1g146,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739789,HAN_1g182,HAN_1g182,-,-,1,-,28S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739790,HAN_1g44,HAN_1g44,-,-,1,-,rpoD,protein-coding,-,-,-,-,20160924,-
+464988,5739791,HAN_1g135,HAN_1g135,-,-,1,-,hlip,protein-coding,-,-,-,-,20150626,-
+464988,5739792,HAN_1g90,HAN_1g90,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739793,HAN_1g39,HAN_1g39,-,-,1,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739794,HAN_1g124,HAN_1g124,-,-,1,-,rps25,protein-coding,-,-,-,-,20160924,-
+464988,5739795,HAN_1g105,HAN_1g105,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739796,HAN_1g152,HAN_1g152,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739797,HAN_1g73,HAN_1g73,-,-,1,-,prsA6,protein-coding,-,-,-,-,20160924,-
+464988,5739798,HAN_1g23,HAN_1g23,-,-,1,-,rpl30,protein-coding,-,-,-,-,20160325,-
+464988,5739799,HAN_1g138,HAN_1g138,-,-,1,-,rpl7,protein-coding,-,-,-,-,20160924,-
+464988,5739800,HAN_1g144,HAN_1g144,-,-,1,-,rps14,protein-coding,-,-,-,-,20150626,-
+464988,5739801,HAN_1g97,HAN_1g97,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160325,-
+464988,5739802,HAN_1g89,HAN_1g89,-,-,1,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739803,HAN_1g24,HAN_1g24,-,-,1,-,rpc10,protein-coding,-,-,-,-,20160924,-
+464988,5739804,HAN_3g431,HAN_3g431,-,-,3,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739805,HAN_2g333,HAN_2g333,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739806,HAN_2g307,HAN_2g307,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739807,HAN_2g308,HAN_2g308,-,-,2,-,rpl12,protein-coding,-,-,-,-,20150626,-
+464988,5739808,HAN_2g219,HAN_2g219,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739809,HAN_2g220,HAN_2g220,-,-,2,-,taf30,protein-coding,-,-,-,-,20150626,-
+464988,5739810,HAN_2g221,HAN_2g221,-,-,2,-,tcpT,protein-coding,-,-,-,-,20160924,-
+464988,5739811,HAN_2g277,HAN_2g277,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739812,HAN_2g278,HAN_2g278,-,-,2,-,mrs2,protein-coding,-,-,-,-,20150626,-
+464988,5739813,HAN_2g257,HAN_2g257,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739814,HAN_2g258,HAN_2g258,-,-,2,-,hira,protein-coding,-,-,-,-,20160924,-
+464988,5739815,HAN_2g334,HAN_2g334,-,-,2,-,pop2,protein-coding,-,-,-,-,20160924,-
+464988,5739816,HAN_2g335,HAN_2g335,-,-,2,-,nog1,protein-coding,-,-,-,-,20160924,-
+464988,5739817,HAN_2g336,HAN_2g336,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739818,HAN_2g201,HAN_2g201,-,-,2,-,rps13,protein-coding,-,-,-,-,20160924,-
+464988,5739819,HAN_2g202,HAN_2g202,-,-,2,-,rps28,protein-coding,-,-,-,-,20150626,-
+464988,5739820,HAN_2g203,HAN_2g203,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739821,HAN_2g274,HAN_2g274,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739822,HAN_2g275,HAN_2g275,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739823,HAN_2g276,HAN_2g276,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739824,HAN_2g225,HAN_2g225,-,-,2,-,gyrA,protein-coding,-,-,-,-,20160924,-
+464988,5739825,HAN_2g226,HAN_2g226,-,-,2,-,tcpD,protein-coding,-,-,-,-,20160924,-
+464988,5739826,HAN_2g227,HAN_2g227,-,-,2,-,crm,protein-coding,-,-,-,-,20160924,-
+464988,5739827,HAN_2g195,HAN_2g195,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739828,HAN_2g196,HAN_2g196,-,-,2,-,cdc28,protein-coding,-,-,-,-,20160924,-
+464988,5739829,HAN_2g197,HAN_2g197,-,-,2,-,rpl13,protein-coding,-,-,-,-,20160924,-
+464988,5739830,HAN_2g234,HAN_2g234,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739831,HAN_2g235,HAN_2g235,-,-,2,-,kin(cdc),protein-coding,-,-,-,-,20150626,-
+464988,5739832,HAN_2g236,HAN_2g236,-,-,2,-,tcpA,protein-coding,-,-,-,-,20160924,-
+464988,5739833,HAN_2g309,HAN_2g309,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739834,HAN_2g310,HAN_2g310,-,-,2,-,mcm6,protein-coding,-,-,-,-,20160924,-
+464988,5739835,HAN_2g311,HAN_2g311,-,-,2,-,rpl34,protein-coding,-,-,-,-,20160924,-
+464988,5739836,HAN_2g267,HAN_2g267,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739837,HAN_2g268,HAN_2g268,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739838,HAN_2g243,HAN_2g243,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739839,HAN_2g244,HAN_2g244,-,-,2,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,5739840,HAN_2g245,HAN_2g245,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739841,HAN_2g359,HAN_2g359,-,-,2,-,iap100,protein-coding,-,-,-,-,20160924,-
+464988,5739842,HAN_2g360,HAN_2g360,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739843,HAN_2g361,HAN_2g361,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739844,HAN_2g259,HAN_2g259,-,-,2,-,rps6,protein-coding,-,-,-,-,20160924,-
+464988,5739845,HAN_2g260,HAN_2g260,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739846,HAN_2g261,HAN_2g261,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+464988,5739847,HAN_2g249,HAN_2g249,-,-,2,-,tfIIB-brf,protein-coding,-,-,-,-,20160924,-
+464988,5739848,HAN_2g250,HAN_2g250,-,-,2,-,prsS6A,protein-coding,-,-,-,-,20160924,-
+464988,5739849,HAN_2g251,HAN_2g251,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739850,HAN_2g342,HAN_2g342,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739851,HAN_2g343,HAN_2g343,-,-,2,-,rpl14,protein-coding,-,-,-,-,20160924,-
+464988,5739852,HAN_2g282,HAN_2g282,-,-,2,-,rps23,protein-coding,-,-,-,-,20160924,-
+464988,5739853,HAN_2g283,HAN_2g283,-,-,2,-,rpl15,protein-coding,-,-,-,-,20150626,-
+464988,5739854,HAN_2g352,HAN_2g352,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739855,HAN_2g353,HAN_2g353,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739856,HAN_2g194,HAN_2g194,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739857,HAN_2g184,HAN_2g184,-,-,2,-,5S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,5739858,HAN_2g304,HAN_2g304,-,-,2,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,5739859,HAN_3g403,HAN_3g403,-,-,3,-,sen1,protein-coding,-,-,-,-,20160924,-
+464988,5739860,HAN_3g404,HAN_3g404,-,-,3,-,kin(ABC1),protein-coding,-,-,-,-,20160924,-
+464988,5739861,HAN_3g405,HAN_3g405,-,-,3,-,cdc2,protein-coding,-,-,-,-,20150626,-
+464988,6261965,HAM_015,HAM_015,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+464988,6261966,trnH(gug),HAM_016,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261967,HAM_017,HAM_017,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,6261968,HAM_018,HAM_018,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+464988,6261969,trnM(cau)e,HAM_019,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261970,rps8,HAM_020,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20160716,-
+464988,6261971,rpl6,HAM_021,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160716,-
+464988,6261972,rps13,HAM_022,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160716,-
+464988,6261973,rps11,HAM_023,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160716,-
+464988,6261974,trnC(gca),HAM_024,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261975,atp6,HAM_025,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20150626,-
+464988,6261976,trnI(gau),HAM_026,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261977,trnQ(uug),HAM_027,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261978,trnR(gcg),HAM_028,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261979,trnE(uuc),HAM_029,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261980,trnW(cca),HAM_030,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261981,nad10,HAM_031,-,-,MT,-,NADH dehydrogenase subunit 10,protein-coding,-,-,-,-,20160325,-
+464988,6261982,nad9,HAM_032,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20150626,-
+464988,6261983,nad2,HAM_042,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160716,-
+464988,6261984,nad6,HAM_043,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160716,-
+464988,6261985,trnR(ucg),HAM_044,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261986,trnN(guu),HAM_045,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261987,trnG(gcc),HAM_046,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261988,trnR(ucu),HAM_047,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261989,trnG(ucc),HAM_048,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261990,rps4,HAM_049,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20150626,-
+464988,6261991,trnF(gaa),HAM_050,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261992,trnL(uaa),HAM_051,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261993,atp9,HAM_052,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20160716,-
+464988,6261994,trnM(cau)f,HAM_053,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261995,trnS(uga),HAM_054,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261996,trnY(gua),HAM_055,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261997,trnL(uag),HAM_056,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6261998,cox1,HAM_002,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160716,-
+464988,6261999,cob,HAM_003,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20150626,-
+464988,6262000,nad11,HAM_004,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,-,20160716,-
+464988,6262001,nad4L,HAM_005,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20160325,-
+464988,6262002,nad5,HAM_006,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160716,-
+464988,6262003,HAM_007,HAM_007,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160716,-
+464988,6262004,sdh3,HAM_008,-,-,MT,-,succinate:cytochrome c oxidoreductase subunit 4,protein-coding,-,-,-,-,20160325,-
+464988,6262005,atp8,HAM_009,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160716,-
+464988,6262006,HAM_010,HAM_010,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,6262007,trnT(ugu),HAM_011,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262008,rnl,HAM_012,-,-,MT,-,23S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,6262009,atp1,HAM_013,-,-,MT,-,ATP synthase F0 subunit 1,protein-coding,-,-,-,-,20160716,-
+464988,6262010,trnP(ugg),HAM_014,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262011,HAM_033,HAM_033,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,6262012,trnL(gag),HAM_034,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262013,trnA(ugc),HAM_035,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262014,nad3,HAM_036,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160716,-
+464988,6262015,rps2,HAM_037,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20150626,-
+464988,6262016,trnD(guc),HAM_038,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262017,nad8,HAM_039,-,-,MT,-,NADH dehydrogenase subunit 8,protein-coding,-,-,-,-,20160716,-
+464988,6262018,nad1,HAM_040,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150626,-
+464988,6262019,nad4,HAM_041,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160716,-
+464988,6262020,tatC,HAM_057,-,-,MT,-,sec-independent protein translocase protein TatC,protein-coding,-,-,-,-,20160716,-
+464988,6262021,HAM_058,HAM_058,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262022,nad7,HAM_059,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20150626,-
+464988,6262023,HAM_060,HAM_060,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,6262024,cox3,HAM_061,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160716,-
+464988,6262025,rps12,HAM_062,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160716,-
+464988,6262026,rps7,HAM_063,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20150626,-
+464988,6262027,rps19,HAM_064,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160716,-
+464988,6262028,rps3,HAM_065,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160716,-
+464988,6262029,rpl16,HAM_066,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160716,-
+464988,6262030,rpl14,HAM_067,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20160716,-
+464988,6262031,rpl5,HAM_068,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160716,-
+464988,6262032,rps14,HAM_069,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160716,-
+464988,6262033,trnV(uac),HAM_070,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262034,trnI(cau),HAM_071,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262035,HAM_072,HAM_072,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20150626,-
+464988,6262036,rns,HAM_073,-,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20121126,-
+464988,6262037,trnS(gcu),HAM_074,-,-,MT,-,tRNA,tRNA,-,-,-,-,20121126,-
+464988,6262038,cox2,HAM_001,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160716,-

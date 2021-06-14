@@ -1,0 +1,132 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+587511,32950185,psbA,CDC65_pgp087,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20170908,-
+587511,32950186,trnK-UUU,CDC65_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950187,matK,CDC65_pgp086,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+587511,32950188,rps16,CDC65_pgp085,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+587511,32950189,trnQ-UUG,CDC65_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950190,psbK,CDC65_pgp084,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20170908,-
+587511,32950191,psbI,CDC65_pgp083,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20170908,-
+587511,32950192,trnS-GCU,CDC65_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950193,trnC-GCA,CDC65_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950194,petN,CDC65_pgp082,-,-,-,-,cytochrome b6f complex subunit VIII,protein-coding,-,-,-,-,20170908,-
+587511,32950195,psbM,CDC65_pgp081,-,-,-,-,PsbM,protein-coding,-,-,-,-,20190608,-
+587511,32950196,trnD-GUC,CDC65_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950197,trnY-GUA,CDC65_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950198,rpoB,CDC65_pgp080,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20200912,-
+587511,32950199,rpoC1,CDC65_pgp079,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950200,rpoC2,CDC65_pgp078,-,-,-,-,RNA polymerase beta subunit-2,protein-coding,-,-,-,-,20200912,-
+587511,32950201,rps2,CDC65_pgp077,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+587511,32950202,atpI,CDC65_pgp076,-,-,-,-,ATP synthase CF0 A chain,protein-coding,-,-,-,-,20170908,-
+587511,32950203,atpH,CDC65_pgp075,-,-,-,-,ATP synthase CF0 C chain,protein-coding,-,-,-,-,20170908,-
+587511,32950204,atpF,CDC65_pgp074,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950205,atpA,CDC65_pgp073,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950206,trnR-UCU,CDC65_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950207,trnG-UCC,CDC65_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950208,trnT-GGU,CDC65_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950209,psbD,CDC65_pgp072,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20170908,-
+587511,32950210,psbC,CDC65_pgp071,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20170908,-
+587511,32950211,trnS-UGA,CDC65_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950212,psbZ,CDC65_pgp070,-,-,-,-,photosystem II protein z,protein-coding,-,-,-,-,20170908,-
+587511,32950213,trnG-UCC,CDC65_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950214,trnfM-CAU,CDC65_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950215,rps14,CDC65_pgp069,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+587511,32950216,psaB,CDC65_pgp068,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20170908,-
+587511,32950217,psaA,CDC65_pgp067,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20170908,-
+587511,32950218,ycf3,CDC65_pgp066,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170908,-
+587511,32950219,trnS-GCU,CDC65_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950220,rps4,CDC65_pgp065,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+587511,32950221,trnT-UGU,CDC65_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950222,trnL-UAA,CDC65_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950223,trnF-GAA,CDC65_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950224,ndhJ,CDC65_pgp064,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20170908,-
+587511,32950225,ndhK,CDC65_pgp063,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20170908,-
+587511,32950226,ndhC,CDC65_pgp062,-,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20170908,-
+587511,32950227,trnV-UAC,CDC65_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950228,trnM-CAU,CDC65_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950229,atpE,CDC65_pgp061,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950230,atpB,CDC65_pgp060,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950231,rbcL,CDC65_pgp059,-,-,-,-,"ribulose-1,5-bisphosphate carboxylaseoxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+587511,32950232,accD,CDC65_pgp058,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950233,psaI,CDC65_pgp057,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20170908,-
+587511,32950234,ycf4,CDC65_pgp056,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20170908,-
+587511,32950235,cemA,CDC65_pgp055,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+587511,32950236,petA,CDC65_pgp054,-,-,-,-,component of cytochrome b6f complex,protein-coding,-,-,-,-,20170908,-
+587511,32950237,psbJ,CDC65_pgp053,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20170908,-
+587511,32950238,psbL,CDC65_pgp052,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20170908,-
+587511,32950239,psbF,CDC65_pgp051,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20170908,-
+587511,32950240,psbE,CDC65_pgp050,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170908,-
+587511,32950241,petL,CDC65_pgp049,-,-,-,-,cytochrome bf complex 3.5 kDa subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950242,petG,CDC65_pgp048,-,-,-,-,cytochrome b6f complex subunit V,protein-coding,-,-,-,-,20210212,-
+587511,32950243,trnW-CCA,CDC65_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950244,trnP-UGG,CDC65_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950245,psaJ,CDC65_pgp047,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20170908,-
+587511,32950246,rpl33,CDC65_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+587511,32950247,rps18,CDC65_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+587511,32950248,rpl20,CDC65_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+587511,32950249,rps12,CDC65_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+587511,32950250,clpP,CDC65_pgp041,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950251,trnH-GUG,CDC65_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950252,psbB,CDC65_pgp040,-,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,-,20170908,-
+587511,32950253,psbT,CDC65_pgp039,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20170908,-
+587511,32950254,psbN,CDC65_pgp038,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20170908,-
+587511,32950255,psbH,CDC65_pgp037,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20170908,-
+587511,32950256,petB,CDC65_pgp036,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+587511,32950257,petD,CDC65_pgp035,-,-,-,-,cytochrome b6f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+587511,32950258,rpoA,CDC65_pgp034,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+587511,32950259,rps11,CDC65_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+587511,32950260,rpl36,CDC65_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+587511,32950261,infA,CDC65_pgp031,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20170908,-
+587511,32950262,rps8,CDC65_pgp030,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+587511,32950263,rpl14,CDC65_pgp029,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+587511,32950264,rpl16,CDC65_pgp028,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+587511,32950265,rps3,CDC65_pgp027,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+587511,32950266,rpl22,CDC65_pgp026,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+587511,32950267,rps19,CDC65_pgp025,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+587511,32950268,rpl2,CDC65_pgp024,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+587511,32950269,rpl23,CDC65_pgp023,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+587511,32950270,trnI-CAU,CDC65_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950271,ycf2,CDC65_pgp022,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20170908,-
+587511,32950272,trnL-CAA,CDC65_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950273,ndhB,CDC65_pgp021,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+587511,32950274,rps7,CDC65_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+587511,32950275,trnV-GAC,CDC65_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950276,rrn16,CDC65_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950277,trnI-GAU,CDC65_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950278,trnA-UGC,CDC65_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950279,rrn23,CDC65_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950280,rrn4.5,CDC65_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950281,rrn5,CDC65_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950282,trnR-ACG,CDC65_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950283,trnN-GUU,CDC65_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950284,ycf1,CDC65_pgp019,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20200912,-
+587511,32950285,rps15,CDC65_pgp018,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+587511,32950286,ndhH,CDC65_pgp017,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170908,-
+587511,32950287,ndhA,CDC65_pgp016,-,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20170908,-
+587511,32950288,ndhI,CDC65_pgp015,-,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20170908,-
+587511,32950289,ndhG,CDC65_pgp014,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20170908,-
+587511,32950290,ndhE,CDC65_pgp013,-,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20170908,-
+587511,32950291,psaC,CDC65_pgp012,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+587511,32950292,ndhD,CDC65_pgp011,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20170908,-
+587511,32950293,ccsA,CDC65_pgp010,-,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+587511,32950294,trnL-UAG,CDC65_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950295,rpl32,CDC65_pgp009,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+587511,32950296,ndhF,CDC65_pgp008,-,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20170908,-
+587511,32950297,ycf1,CDC65_pgp007,-,-,-,-,pseudo,pseudo,-,-,-,-,20170603,-
+587511,32950298,trnN-GUU,CDC65_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950299,trnR-ACG,CDC65_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950300,rrn5,CDC65_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950301,rrn4.5,CDC65_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950302,rrn23,CDC65_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950303,trnA-UGC,CDC65_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950304,trnI-GAU,CDC65_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950305,rrn16,CDC65_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170603,-
+587511,32950306,trnV-GAC,CDC65_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950307,rps7,CDC65_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+587511,32950308,ndhB,CDC65_pgp005,-,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170908,-
+587511,32950309,trnL-CAA,CDC65_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950310,ycf2,CDC65_pgp004,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20170908,-
+587511,32950311,trnI-CAU,CDC65_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20170603,-
+587511,32950312,rps12,CDC65_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+587511,32950313,rpl23,CDC65_pgp003,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170908,-
+587511,32950314,rpl2,CDC65_pgp002,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+587511,32950315,rps19,CDC65_pgp001,-,-,-,-,pseudo,pseudo,-,-,-,-,20170603,-
