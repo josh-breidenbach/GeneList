@@ -1,0 +1,787 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1159197,13468416,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene.,other,-,-,-,-,20150212,-
+1159197,57203277,HFMG94VAA_RS00005,HFMG94VAA_RS00005,HFMG94VAA_0005,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200805,-
+1159197,57203278,HFMG94VAA_RS00010,HFMG94VAA_RS00010,HFMG94VAA_0007,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203279,HFMG94VAA_RS00015,HFMG94VAA_RS00015,HFMG94VAA_0010,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20200919,-
+1159197,57203280,HFMG94VAA_RS00020,HFMG94VAA_RS00020,HFMG94VAA_0016,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200803,-
+1159197,57203281,HFMG94VAA_RS00025,HFMG94VAA_RS00025,HFMG94VAA_0020,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203282,HFMG94VAA_RS00030,HFMG94VAA_RS00030,HFMG94VAA_0024,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203283,HFMG94VAA_RS00035,HFMG94VAA_RS00035,HFMG94VAA_0029,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203284,rpmH,HFMG94VAA_RS00040,HFMG94VAA_0043,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210417,-
+1159197,57203285,rnpA,HFMG94VAA_RS00045,HFMG94VAA_0046,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200805,-
+1159197,57203286,yidC,HFMG94VAA_RS00050,HFMG94VAA_0048,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200805,-
+1159197,57203287,rsmA,HFMG94VAA_RS00055,HFMG94VAA_0057,-,-,-,ribosomal RNA small subunit methyltransferase A,protein-coding,-,-,-,ribosomal RNA small subunit methyltransferase A,20200905,-
+1159197,57203288,HFMG94VAA_RS00060,HFMG94VAA_RS00060,HFMG94VAA_0063,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20200805,-
+1159197,57203289,HFMG94VAA_RS00065,HFMG94VAA_RS00065,HFMG94VAA_0067,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200805,-
+1159197,57203290,HFMG94VAA_RS00070,HFMG94VAA_RS00070,HFMG94VAA_0074,-,-,-,nuclease,protein-coding,-,-,-,nuclease,20200805,-
+1159197,57203291,HFMG94VAA_RS00075,HFMG94VAA_RS00075,HFMG94VAA_0082,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20200805,-
+1159197,57203292,glpK,HFMG94VAA_RS00080,HFMG94VAA_0093,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20200803,-
+1159197,57203293,glpO,HFMG94VAA_RS00085,HFMG94VAA_0098,-,-,-,type 2 glycerol-3-phosphate oxidase,protein-coding,-,-,-,type 2 glycerol-3-phosphate oxidase,20200805,-
+1159197,57203294,HFMG94VAA_RS00090,HFMG94VAA_RS00090,HFMG94VAA_0109,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200805,-
+1159197,57203295,HFMG94VAA_RS00095,HFMG94VAA_RS00095,HFMG94VAA_0112,-,-,-,ferritin,protein-coding,-,-,-,ferritin,20200905,-
+1159197,57203296,HFMG94VAA_RS00100,HFMG94VAA_RS00100,HFMG94VAA_0113,-,-,-,GMP synthase,protein-coding,-,-,-,GMP synthase,20200805,-
+1159197,57203297,HFMG94VAA_RS00105,HFMG94VAA_RS00105,HFMG94VAA_0133,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200905,-
+1159197,57203298,HFMG94VAA_RS00110,HFMG94VAA_RS00110,HFMG94VAA_0137,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1159197,57203299,HFMG94VAA_RS00115,HFMG94VAA_RS00115,HFMG94VAA_0152,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203300,HFMG94VAA_RS00120,HFMG94VAA_RS00120,HFMG94VAA_0164,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203301,HFMG94VAA_RS00125,HFMG94VAA_RS00125,HFMG94VAA_0170,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200805,-
+1159197,57203302,hpt,HFMG94VAA_RS00130,HFMG94VAA_0173,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20200805,-
+1159197,57203303,ftsH,HFMG94VAA_RS00135,HFMG94VAA_0177,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20200919,-
+1159197,57203304,HFMG94VAA_RS00140,HFMG94VAA_RS00140,HFMG94VAA_0194,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200905,-
+1159197,57203305,HFMG94VAA_RS00145,HFMG94VAA_RS00145,HFMG94VAA_0195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203306,HFMG94VAA_RS00150,HFMG94VAA_RS00150,HFMG94VAA_0198,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200805,-
+1159197,57203307,HFMG94VAA_RS00155,HFMG94VAA_RS00155,HFMG94VAA_0201,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200805,-
+1159197,57203308,secA,HFMG94VAA_RS00160,HFMG94VAA_0211,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200805,-
+1159197,57203309,HFMG94VAA_RS00165,HFMG94VAA_RS00165,HFMG94VAA_0226,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20200905,-
+1159197,57203310,HFMG94VAA_RS00170,HFMG94VAA_RS00170,HFMG94VAA_0237,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20200805,-
+1159197,57203311,HFMG94VAA_RS00175,HFMG94VAA_RS00175,HFMG94VAA_0243,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203312,HFMG94VAA_RS00180,HFMG94VAA_RS00180,HFMG94VAA_0253,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200805,-
+1159197,57203313,HFMG94VAA_RS00185,HFMG94VAA_RS00185,HFMG94VAA_0260,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200905,-
+1159197,57203314,HFMG94VAA_RS00190,HFMG94VAA_RS00190,HFMG94VAA_0266,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200805,-
+1159197,57203315,uvrB,HFMG94VAA_RS00195,HFMG94VAA_0277,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210424,-
+1159197,57203316,HFMG94VAA_RS00200,HFMG94VAA_RS00200,HFMG94VAA_0288,-,-,-,phosphate ABC transporter substrate-binding protein PstS,protein-coding,-,-,-,phosphate ABC transporter substrate-binding protein PstS,20200803,-
+1159197,57203317,pstA,HFMG94VAA_RS00205,HFMG94VAA_0297,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20200805,-
+1159197,57203318,pstB,HFMG94VAA_RS00210,HFMG94VAA_0303,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20200919,-
+1159197,57203319,HFMG94VAA_RS00215,HFMG94VAA_RS00215,HFMG94VAA_0309,-,-,-,phosphate ABC transporter,protein-coding,-,-,-,phosphate ABC transporter,20200919,-
+1159197,57203320,nrdE,HFMG94VAA_RS00220,HFMG94VAA_0330,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit alpha,20200805,-
+1159197,57203321,nrdI,HFMG94VAA_RS00225,HFMG94VAA_0333,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,protein-coding,-,-,-,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,20201010,-
+1159197,57203322,nrdF,HFMG94VAA_RS00230,HFMG94VAA_0342,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,protein-coding,-,-,-,class 1b ribonucleoside-diphosphate reductase subunit beta,20201003,-
+1159197,57203323,HFMG94VAA_RS00235,HFMG94VAA_RS00235,HFMG94VAA_0346,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20200926,-
+1159197,57203324,HFMG94VAA_RS00240,HFMG94VAA_RS00240,HFMG94VAA_0350,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200805,-
+1159197,57203325,HFMG94VAA_RS00250,HFMG94VAA_RS00250,HFMG94VAA_0370,-,-,-,DUF5378 domain-containing protein,protein-coding,-,-,-,DUF5378 domain-containing protein,20200919,-
+1159197,57203326,rpsJ,HFMG94VAA_RS00255,HFMG94VAA_0372,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+1159197,57203327,rplC,HFMG94VAA_RS00260,HFMG94VAA_0376,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200805,-
+1159197,57203328,rplD,HFMG94VAA_RS00265,HFMG94VAA_0383,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200805,-
+1159197,57203329,HFMG94VAA_RS00270,HFMG94VAA_RS00270,HFMG94VAA_0387,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200805,-
+1159197,57203330,rplB,HFMG94VAA_RS00275,HFMG94VAA_0391,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200926,-
+1159197,57203331,rpsS,HFMG94VAA_RS00280,HFMG94VAA_0399,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200805,-
+1159197,57203332,rplV,HFMG94VAA_RS00285,HFMG94VAA_0402,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200805,-
+1159197,57203333,rpsC,HFMG94VAA_RS00290,HFMG94VAA_0406,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200803,-
+1159197,57203334,rplP,HFMG94VAA_RS00295,HFMG94VAA_0412,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+1159197,57203335,HFMG94VAA_RS00300,HFMG94VAA_RS00300,HFMG94VAA_0417,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200805,-
+1159197,57203336,rpsQ,HFMG94VAA_RS00305,HFMG94VAA_0420,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200830,-
+1159197,57203337,rplN,HFMG94VAA_RS00310,HFMG94VAA_0423,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200830,-
+1159197,57203338,HFMG94VAA_RS00315,HFMG94VAA_RS00315,HFMG94VAA_0425,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200805,-
+1159197,57203339,rplE,HFMG94VAA_RS00320,HFMG94VAA_0429,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+1159197,57203340,HFMG94VAA_RS00325,HFMG94VAA_RS00325,HFMG94VAA_0431,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20200905,-
+1159197,57203341,rpsH,HFMG94VAA_RS00330,HFMG94VAA_0433,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200805,-
+1159197,57203342,rplF,HFMG94VAA_RS00335,HFMG94VAA_0436,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200926,-
+1159197,57203343,rplR,HFMG94VAA_RS00340,HFMG94VAA_0440,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+1159197,57203344,rpsE,HFMG94VAA_RS00345,HFMG94VAA_0443,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200905,-
+1159197,57203345,rplO,HFMG94VAA_RS00350,HFMG94VAA_0450,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200805,-
+1159197,57203346,secY,HFMG94VAA_RS00355,HFMG94VAA_0454,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200926,-
+1159197,57203347,HFMG94VAA_RS00360,HFMG94VAA_RS00360,HFMG94VAA_0462,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200805,-
+1159197,57203348,map,HFMG94VAA_RS00365,HFMG94VAA_0469,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200805,-
+1159197,57203349,HFMG94VAA_RS00370,HFMG94VAA_RS00370,HFMG94VAA_0475,-,-,-,L-lactate dehydrogenase,protein-coding,-,-,-,L-lactate dehydrogenase,20200905,-
+1159197,57203350,HFMG94VAA_RS00375,HFMG94VAA_RS00375,HFMG94VAA_r01,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203351,rrf,HFMG94VAA_RS00380,HFMG94VAA_r02,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203352,HFMG94VAA_RS00385,HFMG94VAA_RS00385,HFMG94VAA_0539,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203353,lysS,HFMG94VAA_RS00390,HFMG94VAA_0540,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200905,-
+1159197,57203354,HFMG94VAA_RS00395,HFMG94VAA_RS00395,HFMG94VAA_0550,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200905,-
+1159197,57203355,HFMG94VAA_RS00400,HFMG94VAA_RS00400,HFMG94VAA_0559,-,-,-,DUF2470 domain-containing protein,protein-coding,-,-,-,DUF2470 domain-containing protein,20200905,-
+1159197,57203356,HFMG94VAA_RS00405,HFMG94VAA_RS00405,HFMG94VAA_0564,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203357,HFMG94VAA_RS00410,HFMG94VAA_RS00410,HFMG94VAA_0575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203358,ptsP,HFMG94VAA_RS00415,HFMG94VAA_0576,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200805,-
+1159197,57203359,HFMG94VAA_RS00420,HFMG94VAA_RS00420,HFMG94VAA_0586,-,-,-,sigma-70 family RNA polymerase sigma factor,protein-coding,-,-,-,sigma-70 family RNA polymerase sigma factor,20200805,-
+1159197,57203360,rpsO,HFMG94VAA_RS00425,HFMG94VAA_0590,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+1159197,57203361,HFMG94VAA_RS00430,HFMG94VAA_RS00430,HFMG94VAA_0592,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200919,-
+1159197,57203362,HFMG94VAA_RS00435,HFMG94VAA_RS00435,HFMG94VAA_0605,-,-,-,cell division protein FtsK,protein-coding,-,-,-,cell division protein FtsK,20200805,-
+1159197,57203363,HFMG94VAA_RS00440,HFMG94VAA_RS00440,HFMG94VAA_0613,-,-,-,thiol reductase thioredoxin,protein-coding,-,-,-,thiol reductase thioredoxin,20200805,-
+1159197,57203364,HFMG94VAA_RS00445,HFMG94VAA_RS00445,HFMG94VAA_0617,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203365,uvrA,HFMG94VAA_RS00450,HFMG94VAA_0627,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200805,-
+1159197,57203366,HFMG94VAA_RS00455,HFMG94VAA_RS00455,HFMG94VAA_0643,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200805,-
+1159197,57203367,pyrH,HFMG94VAA_RS00460,HFMG94VAA_0648,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200805,-
+1159197,57203368,frr,HFMG94VAA_RS00465,HFMG94VAA_0654,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200805,-
+1159197,57203369,HFMG94VAA_RS00470,HFMG94VAA_RS00470,HFMG94VAA_0656,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200805,-
+1159197,57203370,HFMG94VAA_RS00475,HFMG94VAA_RS00475,HFMG94VAA_0663,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20200805,-
+1159197,57203371,HFMG94VAA_RS00480,HFMG94VAA_RS00480,HFMG94VAA_0669,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20200905,-
+1159197,57203372,HFMG94VAA_RS00485,HFMG94VAA_RS00485,HFMG94VAA_0675,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20200805,-
+1159197,57203373,HFMG94VAA_RS00490,HFMG94VAA_RS00490,HFMG94VAA_0697,-,-,-,heavy metal transporter CzcA,protein-coding,-,-,-,heavy metal transporter CzcA,20200805,-
+1159197,57203374,HFMG94VAA_RS00495,HFMG94VAA_RS00495,HFMG94VAA_0722,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203375,HFMG94VAA_RS00500,HFMG94VAA_RS00500,HFMG94VAA_0732,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200905,-
+1159197,57203376,HFMG94VAA_RS00505,HFMG94VAA_RS00505,HFMG94VAA_0743,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203377,HFMG94VAA_RS00510,HFMG94VAA_RS00510,HFMG94VAA_0744,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203378,HFMG94VAA_RS00515,HFMG94VAA_RS00515,HFMG94VAA_0751,-,-,-,transposase,protein-coding,-,-,-,transposase,20210313,-
+1159197,57203379,HFMG94VAA_RS00520,HFMG94VAA_RS00520,HFMG94VAA_0756,-,-,-,transposase,protein-coding,-,-,-,transposase,20200805,-
+1159197,57203380,HFMG94VAA_RS00525,HFMG94VAA_RS00525,HFMG94VAA_0758,-,-,-,ABC-2 transporter permease,protein-coding,-,-,-,ABC-2 transporter permease,20200805,-
+1159197,57203381,HFMG94VAA_RS00530,HFMG94VAA_RS00530,HFMG94VAA_0769,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200905,-
+1159197,57203382,HFMG94VAA_RS00535,HFMG94VAA_RS00535,HFMG94VAA_0775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203383,HFMG94VAA_RS00540,HFMG94VAA_RS00540,HFMG94VAA_0777,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203384,HFMG94VAA_RS00545,HFMG94VAA_RS00545,HFMG94VAA_0780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203385,HFMG94VAA_RS00550,HFMG94VAA_RS00550,HFMG94VAA_0785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203386,HFMG94VAA_RS00555,HFMG94VAA_RS00555,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203387,HFMG94VAA_RS00560,HFMG94VAA_RS00560,HFMG94VAA_0793,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203388,HFMG94VAA_RS00570,HFMG94VAA_RS00570,HFMG94VAA_0806,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203389,HFMG94VAA_RS00575,HFMG94VAA_RS00575,HFMG94VAA_0815,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200905,-
+1159197,57203390,HFMG94VAA_RS00580,HFMG94VAA_RS00580,HFMG94VAA_0829,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203391,nusA,HFMG94VAA_RS00585,HFMG94VAA_0838,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200805,-
+1159197,57203392,HFMG94VAA_RS00590,HFMG94VAA_RS00590,HFMG94VAA_0852,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20200926,-
+1159197,57203393,HFMG94VAA_RS00595,HFMG94VAA_RS00595,HFMG94VAA_0854,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200919,-
+1159197,57203394,rbfA,HFMG94VAA_RS00600,HFMG94VAA_0866,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200805,-
+1159197,57203395,HFMG94VAA_RS00620,HFMG94VAA_RS00620,HFMG94VAA_0892,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203396,HFMG94VAA_RS00625,HFMG94VAA_RS00625,HFMG94VAA_0897,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203397,truB,HFMG94VAA_RS00630,HFMG94VAA_0899,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200805,-
+1159197,57203398,mnmA,HFMG94VAA_RS00635,HFMG94VAA_0901,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200805,-
+1159197,57203399,HFMG94VAA_RS00640,HFMG94VAA_RS00640,HFMG94VAA_0919,-,-,-,acetyl-CoA hydrolase/transferase family protein,protein-coding,-,-,-,acetyl-CoA hydrolase/transferase family protein,20200805,-
+1159197,57203400,alaS,HFMG94VAA_RS00645,HFMG94VAA_0922,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20210417,-
+1159197,57203401,ruvX,HFMG94VAA_RS00650,HFMG94VAA_0936,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200805,-
+1159197,57203402,HFMG94VAA_RS00655,HFMG94VAA_RS00655,HFMG94VAA_0937,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20200926,-
+1159197,57203403,HFMG94VAA_RS00660,HFMG94VAA_RS00660,HFMG94VAA_0940,-,-,-,U32 family peptidase,protein-coding,-,-,-,U32 family peptidase,20200805,-
+1159197,57203404,HFMG94VAA_RS00665,HFMG94VAA_RS00665,HFMG94VAA_0944,-,-,-,U32 family peptidase,protein-coding,-,-,-,U32 family peptidase,20200805,-
+1159197,57203405,HFMG94VAA_RS00670,HFMG94VAA_RS00670,HFMG94VAA_0955,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200805,-
+1159197,57203406,HFMG94VAA_RS00675,HFMG94VAA_RS00675,HFMG94VAA_0956,-,-,-,DUF5385 domain-containing protein,protein-coding,-,-,-,DUF5385 domain-containing protein,20200905,-
+1159197,57203407,HFMG94VAA_RS00680,HFMG94VAA_RS00680,HFMG94VAA_0960,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200905,-
+1159197,57203408,HFMG94VAA_RS00685,HFMG94VAA_RS00685,HFMG94VAA_0962,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20200805,-
+1159197,57203409,HFMG94VAA_RS00690,HFMG94VAA_RS00690,HFMG94VAA_0971,-,-,-,YhcH/YjgK/YiaL family protein,protein-coding,-,-,-,YhcH/YjgK/YiaL family protein,20200926,-
+1159197,57203410,HFMG94VAA_RS00695,HFMG94VAA_RS00695,HFMG94VAA_0975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203411,HFMG94VAA_RS00700,HFMG94VAA_RS00700,HFMG94VAA_0985,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210320,-
+1159197,57203412,HFMG94VAA_RS00705,HFMG94VAA_RS00705,HFMG94VAA_trna01,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203413,HFMG94VAA_RS00710,HFMG94VAA_RS00710,HFMG94VAA_trna02,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203414,HFMG94VAA_RS00715,HFMG94VAA_RS00715,HFMG94VAA_trna03,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203415,HFMG94VAA_RS00720,HFMG94VAA_RS00720,HFMG94VAA_trna04,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203416,HFMG94VAA_RS00725,HFMG94VAA_RS00725,HFMG94VAA_trna05,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203417,HFMG94VAA_RS00730,HFMG94VAA_RS00730,HFMG94VAA_trna06,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203418,HFMG94VAA_RS00735,HFMG94VAA_RS00735,HFMG94VAA_0997,-,-,-,PTS transporter subunit IIABC,protein-coding,-,-,-,PTS transporter subunit IIABC,20200830,-
+1159197,57203419,HFMG94VAA_RS00740,HFMG94VAA_RS00740,HFMG94VAA_1016,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,20200805,-
+1159197,57203420,rpmE,HFMG94VAA_RS00745,HFMG94VAA_1028,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200805,-
+1159197,57203421,prfA,HFMG94VAA_RS00750,HFMG94VAA_1032,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201010,-
+1159197,57203422,prmC,HFMG94VAA_RS00755,HFMG94VAA_1043,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200905,-
+1159197,57203423,HFMG94VAA_RS00760,HFMG94VAA_RS00760,HFMG94VAA_1046,-,-,-,L-threonylcarbamoyladenylate synthase,protein-coding,-,-,-,L-threonylcarbamoyladenylate synthase,20200805,-
+1159197,57203424,HFMG94VAA_RS00765,HFMG94VAA_RS00765,HFMG94VAA_1049,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20200805,-
+1159197,57203425,HFMG94VAA_RS00770,HFMG94VAA_RS00770,HFMG94VAA_1051,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203426,HFMG94VAA_RS00775,HFMG94VAA_RS00775,HFMG94VAA_1053,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20200805,-
+1159197,57203427,HFMG94VAA_RS00780,HFMG94VAA_RS00780,HFMG94VAA_1058,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200919,-
+1159197,57203428,HFMG94VAA_RS00785,HFMG94VAA_RS00785,HFMG94VAA_1060,-,-,-,DUF1951 domain-containing protein,protein-coding,-,-,-,DUF1951 domain-containing protein,20200805,-
+1159197,57203429,HFMG94VAA_RS00790,HFMG94VAA_RS00790,HFMG94VAA_1062,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203430,HFMG94VAA_RS00795,HFMG94VAA_RS00795,HFMG94VAA_1064,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200805,-
+1159197,57203431,rplL,HFMG94VAA_RS00800,HFMG94VAA_1067,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200905,-
+1159197,57203432,HFMG94VAA_RS00805,HFMG94VAA_RS00805,HFMG94VAA_1071,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+1159197,57203433,HFMG94VAA_RS00810,HFMG94VAA_RS00810,HFMG94VAA_1082,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200905,-
+1159197,57203434,HFMG94VAA_RS00815,HFMG94VAA_RS00815,HFMG94VAA_1084,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203435,HFMG94VAA_RS00820,HFMG94VAA_RS00820,HFMG94VAA_1093,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203436,HFMG94VAA_RS00825,HFMG94VAA_RS00825,HFMG94VAA_1106,-,-,-,methionyl-tRNA synthetase,protein-coding,-,-,-,methionyl-tRNA synthetase,20200805,-
+1159197,57203439,HFMG94VAA_RS00840,HFMG94VAA_RS00840,HFMG94VAA_1120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203440,HFMG94VAA_RS00845,HFMG94VAA_RS00845,HFMG94VAA_1127,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203441,HFMG94VAA_RS00850,HFMG94VAA_RS00850,HFMG94VAA_1144,-,-,-,methionyl-tRNA synthetase,protein-coding,-,-,-,methionyl-tRNA synthetase,20200803,-
+1159197,57203444,HFMG94VAA_RS00865,HFMG94VAA_RS00865,HFMG94VAA_1158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203445,HFMG94VAA_RS00870,HFMG94VAA_RS00870,HFMG94VAA_1165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203446,HFMG94VAA_RS00875,HFMG94VAA_RS00875,HFMG94VAA_1182,-,-,-,methionyl-tRNA synthetase,protein-coding,-,-,-,methionyl-tRNA synthetase,20200803,-
+1159197,57203449,HFMG94VAA_RS00890,HFMG94VAA_RS00890,HFMG94VAA_1196,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203450,HFMG94VAA_RS00895,HFMG94VAA_RS00895,HFMG94VAA_1203,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203451,HFMG94VAA_RS00900,HFMG94VAA_RS00900,HFMG94VAA_1220,-,-,-,methionyl-tRNA synthetase,protein-coding,-,-,-,methionyl-tRNA synthetase,20200803,-
+1159197,57203454,HFMG94VAA_RS00915,HFMG94VAA_RS00915,HFMG94VAA_1234,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203455,HFMG94VAA_RS00920,HFMG94VAA_RS00920,HFMG94VAA_1241,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203456,HFMG94VAA_RS00925,HFMG94VAA_RS00925,HFMG94VAA_1258,-,-,-,methionyl-tRNA synthetase,protein-coding,-,-,-,methionyl-tRNA synthetase,20200803,-
+1159197,57203459,HFMG94VAA_RS00940,HFMG94VAA_RS00940,HFMG94VAA_1272,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203460,HFMG94VAA_RS00945,HFMG94VAA_RS00945,HFMG94VAA_1279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203461,der,HFMG94VAA_RS00955,HFMG94VAA_1311,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200805,-
+1159197,57203462,cmk,HFMG94VAA_RS00960,HFMG94VAA_1314,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+1159197,57203463,HFMG94VAA_RS00965,HFMG94VAA_RS00965,HFMG94VAA_1317,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203464,HFMG94VAA_RS00970,HFMG94VAA_RS00970,HFMG94VAA_1318,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200919,-
+1159197,57203465,HFMG94VAA_RS00975,HFMG94VAA_RS00975,HFMG94VAA_trna07,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203466,HFMG94VAA_RS00980,HFMG94VAA_RS00980,HFMG94VAA_trna08,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203467,HFMG94VAA_RS00985,HFMG94VAA_RS00985,HFMG94VAA_trna09,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203468,HFMG94VAA_RS00990,HFMG94VAA_RS00990,HFMG94VAA_trna10,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203469,HFMG94VAA_RS00995,HFMG94VAA_RS00995,HFMG94VAA_trna11,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203470,HFMG94VAA_RS01000,HFMG94VAA_RS01000,HFMG94VAA_trna12,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203471,HFMG94VAA_RS01005,HFMG94VAA_RS01005,HFMG94VAA_trna13,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203472,HFMG94VAA_RS01010,HFMG94VAA_RS01010,HFMG94VAA_trna15,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203473,HFMG94VAA_RS01015,HFMG94VAA_RS01015,HFMG94VAA_trna16,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203474,HFMG94VAA_RS01020,HFMG94VAA_RS01020,HFMG94VAA_1336,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200905,-
+1159197,57203475,HFMG94VAA_RS01025,HFMG94VAA_RS01025,HFMG94VAA_1351,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203476,HFMG94VAA_RS01030,HFMG94VAA_RS01030,HFMG94VAA_trna17,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203477,HFMG94VAA_RS01035,HFMG94VAA_RS01035,HFMG94VAA_1364,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203478,HFMG94VAA_RS01040,HFMG94VAA_RS01040,HFMG94VAA_1376,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203479,HFMG94VAA_RS01045,HFMG94VAA_RS01045,HFMG94VAA_1377,-,-,-,tRNA dimethylallyltransferase,protein-coding,-,-,-,tRNA dimethylallyltransferase,20200805,-
+1159197,57203480,hemW,HFMG94VAA_RS01050,HFMG94VAA_1384,-,-,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20200805,-
+1159197,57203481,HFMG94VAA_RS01055,HFMG94VAA_RS01055,HFMG94VAA_1390,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200905,-
+1159197,57203482,ftsY,HFMG94VAA_RS01060,HFMG94VAA_1405,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200805,-
+1159197,57203483,HFMG94VAA_RS01065,HFMG94VAA_RS01065,HFMG94VAA_1409,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1159197,57203484,HFMG94VAA_RS01070,HFMG94VAA_RS01070,HFMG94VAA_1412,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203485,HFMG94VAA_RS01075,HFMG94VAA_RS01075,HFMG94VAA_1420,-,-,-,DUF3217 domain-containing protein,protein-coding,-,-,-,DUF3217 domain-containing protein,20200919,-
+1159197,57203486,thrS,HFMG94VAA_RS01080,HFMG94VAA_1422,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200926,-
+1159197,57203487,HFMG94VAA_RS01085,HFMG94VAA_RS01085,HFMG94VAA_1427,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203488,hlp3,HFMG94VAA_RS01090,HFMG94VAA_1430,-,-,-,cytadherence protein Hlp3,protein-coding,-,-,-,cytadherence protein Hlp3,20200830,-
+1159197,57203489,HFMG94VAA_RS01095,HFMG94VAA_RS01095,HFMG94VAA_1447,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20200905,-
+1159197,57203490,HFMG94VAA_RS01100,HFMG94VAA_RS01100,HFMG94VAA_1453,-,-,-,cytadhesin protein MGC2,protein-coding,-,-,-,cytadhesin protein MGC2,20200805,-
+1159197,57203491,mgpA,HFMG94VAA_RS01105,HFMG94VAA_1462,-,-,-,adhesin P1,protein-coding,-,-,-,adhesin P1,20200805,-
+1159197,57203492,HFMG94VAA_RS01110,HFMG94VAA_RS01110,HFMG94VAA_1484,-,-,-,cytadherence related molecule A (CrmA),protein-coding,-,-,-,cytadherence related molecule A (CrmA),20200803,-
+1159197,57203493,HFMG94VAA_RS01115,HFMG94VAA_RS01115,HFMG94VAA_1505,-,-,-,cytadherence related molecule B (CrmB),protein-coding,-,-,-,cytadherence related molecule B (CrmB),20200805,-
+1159197,57203494,HFMG94VAA_RS01120,HFMG94VAA_RS01120,HFMG94VAA_1519,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203495,HFMG94VAA_RS01125,HFMG94VAA_RS01125,HFMG94VAA_1537,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200805,-
+1159197,57203496,aspS,HFMG94VAA_RS01130,HFMG94VAA_1542,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200805,-
+1159197,57203497,HFMG94VAA_RS01135,HFMG94VAA_RS01135,HFMG94VAA_1557,-,-,-,RelA/SpoT family protein,protein-coding,-,-,-,RelA/SpoT family protein,20200803,-
+1159197,57203498,HFMG94VAA_RS01140,HFMG94VAA_RS01140,HFMG94VAA_1567,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200803,-
+1159197,57203499,HFMG94VAA_RS01145,HFMG94VAA_RS01145,HFMG94VAA_1576,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203500,HFMG94VAA_RS01150,HFMG94VAA_RS01150,HFMG94VAA_1593,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20200805,-
+1159197,57203501,HFMG94VAA_RS01155,HFMG94VAA_RS01155,HFMG94VAA_1597,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203502,HFMG94VAA_RS01160,HFMG94VAA_RS01160,HFMG94VAA_1601,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203503,greA,HFMG94VAA_RS01165,HFMG94VAA_1603,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200805,-
+1159197,57203504,HFMG94VAA_RS01170,HFMG94VAA_RS01170,HFMG94VAA_trna18,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203505,HFMG94VAA_RS01175,HFMG94VAA_RS01175,HFMG94VAA_trna19,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203506,HFMG94VAA_RS01180,HFMG94VAA_RS01180,HFMG94VAA_trna20,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203507,HFMG94VAA_RS01185,HFMG94VAA_RS01185,HFMG94VAA_trna21,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203508,HFMG94VAA_RS01190,HFMG94VAA_RS01190,HFMG94VAA_trna22,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203509,HFMG94VAA_RS01195,HFMG94VAA_RS01195,HFMG94VAA_1614,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200805,-
+1159197,57203510,HFMG94VAA_RS01200,HFMG94VAA_RS01200,HFMG94VAA_1621,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20200805,-
+1159197,57203511,HFMG94VAA_RS01205,HFMG94VAA_RS01205,HFMG94VAA_1628,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203512,HFMG94VAA_RS01210,HFMG94VAA_RS01210,HFMG94VAA_1644,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203513,HFMG94VAA_RS01215,HFMG94VAA_RS01215,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203514,HFMG94VAA_RS01220,HFMG94VAA_RS01220,HFMG94VAA_1655,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203515,HFMG94VAA_RS01225,HFMG94VAA_RS01225,HFMG94VAA_1670,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203516,HFMG94VAA_RS01230,HFMG94VAA_RS01230,HFMG94VAA_1683,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203517,HFMG94VAA_RS01235,HFMG94VAA_RS01235,HFMG94VAA_1692,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200803,-
+1159197,57203518,HFMG94VAA_RS01240,HFMG94VAA_RS01240,HFMG94VAA_1704,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203519,HFMG94VAA_RS01245,HFMG94VAA_RS01245,HFMG94VAA_1720,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203520,HFMG94VAA_RS01260,HFMG94VAA_RS01260,HFMG94VAA_1758,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203521,HFMG94VAA_RS01265,HFMG94VAA_RS01265,HFMG94VAA_1767,-,-,-,deoxyuridine 5'-triphosphate nucleotidohydrolase,protein-coding,-,-,-,deoxyuridine 5'-triphosphate nucleotidohydrolase,20200805,-
+1159197,57203522,tsaB,HFMG94VAA_RS01270,HFMG94VAA_1775,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200805,-
+1159197,57203523,HFMG94VAA_RS01275,HFMG94VAA_RS01275,HFMG94VAA_1781,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1159197,57203524,HFMG94VAA_RS01280,HFMG94VAA_RS01280,HFMG94VAA_1785,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20200805,-
+1159197,57203525,HFMG94VAA_RS01285,HFMG94VAA_RS01285,HFMG94VAA_1786,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20200805,-
+1159197,57203526,HFMG94VAA_RS01290,HFMG94VAA_RS01290,HFMG94VAA_1802,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1159197,57203527,HFMG94VAA_RS01295,HFMG94VAA_RS01295,HFMG94VAA_1803,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200926,-
+1159197,57203528,rpoC,HFMG94VAA_RS01300,HFMG94VAA_1825,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200805,-
+1159197,57203529,HFMG94VAA_RS01305,HFMG94VAA_RS01305,HFMG94VAA_1848,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203530,HFMG94VAA_RS01310,HFMG94VAA_RS01310,HFMG94VAA_1863,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203531,HFMG94VAA_RS01315,HFMG94VAA_RS01315,HFMG94VAA_1877,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203532,HFMG94VAA_RS01320,HFMG94VAA_RS01320,HFMG94VAA_trna23,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203533,HFMG94VAA_RS01325,HFMG94VAA_RS01325,HFMG94VAA_1897,-,-,-,DNA repair protein HhH-GPD,protein-coding,-,-,-,DNA repair protein HhH-GPD,20200805,-
+1159197,57203534,HFMG94VAA_RS01330,HFMG94VAA_RS01330,HFMG94VAA_1904,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200926,-
+1159197,57203535,HFMG94VAA_RS01335,HFMG94VAA_RS01335,HFMG94VAA_1908,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200905,-
+1159197,57203536,HFMG94VAA_RS01340,HFMG94VAA_RS01340,HFMG94VAA_1916,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200905,-
+1159197,57203537,HFMG94VAA_RS01345,HFMG94VAA_RS01345,HFMG94VAA_1925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203538,HFMG94VAA_RS01350,HFMG94VAA_RS01350,HFMG94VAA_1929,-,-,-,DUF5443 family protein,protein-coding,-,-,-,DUF5443 family protein,20200805,-
+1159197,57203539,HFMG94VAA_RS01355,HFMG94VAA_RS01355,HFMG94VAA_1937,-,-,-,DUF5452 family protein,protein-coding,-,-,-,DUF5452 family protein,20200805,-
+1159197,57203540,HFMG94VAA_RS01360,HFMG94VAA_RS01360,HFMG94VAA_1943,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200919,-
+1159197,57203541,HFMG94VAA_RS01365,HFMG94VAA_RS01365,HFMG94VAA_trna24,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203542,tuf,HFMG94VAA_RS01370,HFMG94VAA_1946,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200905,-
+1159197,57203543,HFMG94VAA_RS01375,HFMG94VAA_RS01375,HFMG94VAA_1953,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200905,-
+1159197,57203544,HFMG94VAA_RS01380,HFMG94VAA_RS01380,HFMG94VAA_1955,-,-,-,DUF4479 domain-containing protein,protein-coding,-,-,-,DUF4479 domain-containing protein,20200905,-
+1159197,57203545,HFMG94VAA_RS01385,HFMG94VAA_RS01385,HFMG94VAA_1959,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200805,-
+1159197,57203546,HFMG94VAA_RS01390,HFMG94VAA_RS01390,HFMG94VAA_r03,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203547,HFMG94VAA_RS01395,HFMG94VAA_RS01395,HFMG94VAA_r04,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203548,rrf,HFMG94VAA_RS01400,HFMG94VAA_r05,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203549,HFMG94VAA_RS01405,HFMG94VAA_RS01405,HFMG94VAA_2029,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203550,HFMG94VAA_RS01410,HFMG94VAA_RS01410,HFMG94VAA_2036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203551,HFMG94VAA_RS01415,HFMG94VAA_RS01415,HFMG94VAA_2037,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200905,-
+1159197,57203552,HFMG94VAA_RS01420,HFMG94VAA_RS01420,HFMG94VAA_2050,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20200805,-
+1159197,57203553,mutM,HFMG94VAA_RS01425,HFMG94VAA_2056,-,-,-,DNA-formamidopyrimidine glycosylase,protein-coding,-,-,-,DNA-formamidopyrimidine glycosylase,20200805,-
+1159197,57203554,coaE,HFMG94VAA_RS01430,HFMG94VAA_2060,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200805,-
+1159197,57203555,HFMG94VAA_RS01435,HFMG94VAA_RS01435,HFMG94VAA_2062,-,-,-,helicase DnaB,protein-coding,-,-,-,helicase DnaB,20200805,-
+1159197,57203556,HFMG94VAA_RS01440,HFMG94VAA_RS01440,HFMG94VAA_2068,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203557,HFMG94VAA_RS01445,HFMG94VAA_RS01445,HFMG94VAA_2074,-,-,-,cation-transporting P-type ATPase,protein-coding,-,-,-,cation-transporting P-type ATPase,20200805,-
+1159197,57203558,asnS,HFMG94VAA_RS01450,HFMG94VAA_2092,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20200805,-
+1159197,57203559,pgsA,HFMG94VAA_RS01455,HFMG94VAA_2099,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200805,-
+1159197,57203560,HFMG94VAA_RS01460,HFMG94VAA_RS01460,HFMG94VAA_2103,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203561,HFMG94VAA_RS01465,HFMG94VAA_RS01465,HFMG94VAA_2106,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20200805,-
+1159197,57203562,HFMG94VAA_RS01470,HFMG94VAA_RS01470,HFMG94VAA_2110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203563,HFMG94VAA_RS01475,HFMG94VAA_RS01475,HFMG94VAA_2113,-,-,-,IgG-blocking protein M,protein-coding,-,-,-,IgG-blocking protein M,20200805,-
+1159197,57203564,HFMG94VAA_RS01480,HFMG94VAA_RS01480,HFMG94VAA_2123,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203565,HFMG94VAA_RS01485,HFMG94VAA_RS01485,HFMG94VAA_2133,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200926,-
+1159197,57203566,HFMG94VAA_RS01490,HFMG94VAA_RS01490,HFMG94VAA_2138,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20200803,-
+1159197,57203567,HFMG94VAA_RS01495,HFMG94VAA_RS01495,HFMG94VAA_2141,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20200805,-
+1159197,57203568,HFMG94VAA_RS01505,HFMG94VAA_RS01505,HFMG94VAA_2147,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203569,HFMG94VAA_RS01515,HFMG94VAA_RS01515,HFMG94VAA_2168,-,-,-,NAD(P)H-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)H-dependent oxidoreductase,20200805,-
+1159197,57203570,HFMG94VAA_RS01520,HFMG94VAA_RS01520,HFMG94VAA_2172,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203571,HFMG94VAA_RS01525,HFMG94VAA_RS01525,HFMG94VAA_2182,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203572,HFMG94VAA_RS01530,HFMG94VAA_RS01530,HFMG94VAA_2185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203573,HFMG94VAA_RS01535,HFMG94VAA_RS01535,HFMG94VAA_2190,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200805,-
+1159197,57203574,HFMG94VAA_RS01540,HFMG94VAA_RS01540,HFMG94VAA_2191,-,-,-,arsenic metallochaperone ArsD family protein,protein-coding,-,-,-,arsenic metallochaperone ArsD family protein,20200805,-
+1159197,57203575,HFMG94VAA_RS01545,HFMG94VAA_RS01545,HFMG94VAA_trna25,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203577,HFMG94VAA_RS01555,HFMG94VAA_RS01555,HFMG94VAA_2207,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200805,-
+1159197,57203578,HFMG94VAA_RS01560,HFMG94VAA_RS01560,HFMG94VAA_2210,-,-,-,M48 family metallopeptidase,protein-coding,-,-,-,M48 family metallopeptidase,20200805,-
+1159197,57203579,sufC,HFMG94VAA_RS01565,HFMG94VAA_2212,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20200926,-
+1159197,57203580,HFMG94VAA_RS01570,HFMG94VAA_RS01570,HFMG94VAA_2216,-,-,-,SufD family Fe-S cluster assembly protein,protein-coding,-,-,-,SufD family Fe-S cluster assembly protein,20200905,-
+1159197,57203581,HFMG94VAA_RS01575,HFMG94VAA_RS01575,HFMG94VAA_2221,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20200905,-
+1159197,57203582,HFMG94VAA_RS01580,HFMG94VAA_RS01580,HFMG94VAA_2225,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20200805,-
+1159197,57203583,sufB,HFMG94VAA_RS01585,HFMG94VAA_2228,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20200905,-
+1159197,57203584,HFMG94VAA_RS01590,HFMG94VAA_RS01590,HFMG94VAA_2237,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200905,-
+1159197,57203585,HFMG94VAA_RS01595,HFMG94VAA_RS01595,HFMG94VAA_2245,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20200805,-
+1159197,57203586,HFMG94VAA_RS01600,HFMG94VAA_RS01600,HFMG94VAA_2251,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200905,-
+1159197,57203587,HFMG94VAA_RS01605,HFMG94VAA_RS01605,HFMG94VAA_2259,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203588,HFMG94VAA_RS01610,HFMG94VAA_RS01610,HFMG94VAA_2264,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200919,-
+1159197,57203589,HFMG94VAA_RS01615,HFMG94VAA_RS01615,HFMG94VAA_2271,-,-,-,Ohr family peroxiredoxin,protein-coding,-,-,-,Ohr family peroxiredoxin,20200919,-
+1159197,57203590,ffh,HFMG94VAA_RS01620,HFMG94VAA_2278,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20210424,-
+1159197,57203591,HFMG94VAA_RS01625,HFMG94VAA_RS01625,HFMG94VAA_2284,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200805,-
+1159197,57203592,HFMG94VAA_RS01630,HFMG94VAA_RS01630,HFMG94VAA_2290,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200919,-
+1159197,57203593,HFMG94VAA_RS01635,HFMG94VAA_RS01635,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203594,HFMG94VAA_RS01640,HFMG94VAA_RS01640,HFMG94VAA_2301,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1159197,57203595,HFMG94VAA_RS01645,HFMG94VAA_RS01645,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+1159197,57203596,HFMG94VAA_RS01650,HFMG94VAA_RS01650,HFMG94VAA_2327,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200905,-
+1159197,57203597,rplM,HFMG94VAA_RS01655,HFMG94VAA_2330,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200805,-
+1159197,57203598,rpsI,HFMG94VAA_RS01660,HFMG94VAA_2332,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200805,-
+1159197,57203599,ispG,HFMG94VAA_RS01665,HFMG94VAA_2335|gcpE,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20200805,-
+1159197,57203600,upp,HFMG94VAA_RS01670,HFMG94VAA_2343,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20200803,-
+1159197,57203601,HFMG94VAA_RS01675,HFMG94VAA_RS01675,HFMG94VAA_2349,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203602,HFMG94VAA_RS01680,HFMG94VAA_RS01680,HFMG94VAA_2356,-,-,-,MG406 family protein,protein-coding,-,-,-,MG406 family protein,20200805,-
+1159197,57203603,HFMG94VAA_RS01685,HFMG94VAA_RS01685,HFMG94VAA_2361,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200805,-
+1159197,57203604,HFMG94VAA_RS01690,HFMG94VAA_RS01690,HFMG94VAA_2368,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20200926,-
+1159197,57203605,HFMG94VAA_RS01695,HFMG94VAA_RS01695,HFMG94VAA_2369,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200905,-
+1159197,57203606,HFMG94VAA_RS01700,HFMG94VAA_RS01700,HFMG94VAA_2373,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200805,-
+1159197,57203607,atpA,HFMG94VAA_RS01705,HFMG94VAA_2378,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200926,-
+1159197,57203608,atpG,HFMG94VAA_RS01710,HFMG94VAA_2387,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20200805,-
+1159197,57203609,atpD,HFMG94VAA_RS01715,HFMG94VAA_2396,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200805,-
+1159197,57203610,HFMG94VAA_RS01720,HFMG94VAA_RS01720,HFMG94VAA_2409,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20200926,-
+1159197,57203611,HFMG94VAA_RS01725,HFMG94VAA_RS01725,HFMG94VAA_2411,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1159197,57203612,HFMG94VAA_RS01730,HFMG94VAA_RS01730,HFMG94VAA_2420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203613,HFMG94VAA_RS01735,HFMG94VAA_RS01735,HFMG94VAA_trna26,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203614,HFMG94VAA_RS01740,HFMG94VAA_RS01740,HFMG94VAA_trna27,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203615,HFMG94VAA_RS01745,HFMG94VAA_RS01745,HFMG94VAA_2424,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20200805,-
+1159197,57203616,gap,HFMG94VAA_RS01750,HFMG94VAA_2428,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200805,-
+1159197,57203617,HFMG94VAA_RS01755,HFMG94VAA_RS01755,HFMG94VAA_2433,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200805,-
+1159197,57203618,HFMG94VAA_RS01760,HFMG94VAA_RS01760,HFMG94VAA_2441,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200805,-
+1159197,57203619,HFMG94VAA_RS01765,HFMG94VAA_RS01765,HFMG94VAA_2455,-,-,-,DUF5454 family protein,protein-coding,-,-,-,DUF5454 family protein,20200805,-
+1159197,57203620,HFMG94VAA_RS01770,HFMG94VAA_RS01770,HFMG94VAA_2461,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200805,-
+1159197,57203621,HFMG94VAA_RS01775,HFMG94VAA_RS01775,HFMG94VAA_trna28,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203622,HFMG94VAA_RS01780,HFMG94VAA_RS01780,HFMG94VAA_2466,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203623,trmB,HFMG94VAA_RS01785,HFMG94VAA_2483,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200805,-
+1159197,57203624,HFMG94VAA_RS01790,HFMG94VAA_RS01790,HFMG94VAA_2486,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20200805,-
+1159197,57203625,ileS,HFMG94VAA_RS01795,HFMG94VAA_2487,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200803,-
+1159197,57203626,HFMG94VAA_RS01800,HFMG94VAA_RS01800,HFMG94VAA_2499,-,-,-,flavodoxin domain-containing protein,protein-coding,-,-,-,flavodoxin domain-containing protein,20200805,-
+1159197,57203627,HFMG94VAA_RS01805,HFMG94VAA_RS01805,HFMG94VAA_2506,-,-,-,fibronectin-binding protein,protein-coding,-,-,-,fibronectin-binding protein,20200803,-
+1159197,57203628,hmw2,HFMG94VAA_RS01810,HFMG94VAA_2525,-,-,-,terminal organelle tip protein HMW2,protein-coding,-,-,-,terminal organelle tip protein HMW2,20200905,-
+1159197,57203629,HFMG94VAA_RS01815,HFMG94VAA_RS01815,HFMG94VAA_2559,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203630,HFMG94VAA_RS01820,HFMG94VAA_RS01820,HFMG94VAA_2575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203631,HFMG94VAA_RS01825,HFMG94VAA_RS01825,HFMG94VAA_2583,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203632,HFMG94VAA_RS01830,HFMG94VAA_RS01830,HFMG94VAA_2606,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203633,HFMG94VAA_RS01835,HFMG94VAA_RS01835,HFMG94VAA_2609,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203634,HFMG94VAA_RS01840,HFMG94VAA_RS01840,HFMG94VAA_2617,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203635,HFMG94VAA_RS01845,HFMG94VAA_RS01845,HFMG94VAA_2622,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203636,HFMG94VAA_RS01855,HFMG94VAA_RS01855,HFMG94VAA_2625,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203637,HFMG94VAA_RS01860,HFMG94VAA_RS01860,HFMG94VAA_2638,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1159197,57203638,HFMG94VAA_RS01865,HFMG94VAA_RS01865,HFMG94VAA_2642,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20200805,-
+1159197,57203639,HFMG94VAA_RS01870,HFMG94VAA_RS01870,HFMG94VAA_2643,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200926,-
+1159197,57203640,HFMG94VAA_RS01875,HFMG94VAA_RS01875,HFMG94VAA_2649,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1159197,57203641,HFMG94VAA_RS01880,HFMG94VAA_RS01880,HFMG94VAA_2666,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200919,-
+1159197,57203642,topJ,HFMG94VAA_RS01885,HFMG94VAA_2672,-,-,-,terminal organelle assembly protein TopJ,protein-coding,-,-,-,terminal organelle assembly protein TopJ,20200905,-
+1159197,57203643,grpE,HFMG94VAA_RS01890,HFMG94VAA_2694,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200926,-
+1159197,57203644,HFMG94VAA_RS01895,HFMG94VAA_RS01895,HFMG94VAA_2703,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203645,HFMG94VAA_RS01900,HFMG94VAA_RS01900,HFMG94VAA_2706,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203646,HFMG94VAA_RS01905,HFMG94VAA_RS01905,HFMG94VAA_2709,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203647,HFMG94VAA_RS01925,HFMG94VAA_RS01925,HFMG94VAA_2730,-,-,-,maltose phosphorylase,protein-coding,-,-,-,maltose phosphorylase,20200805,-
+1159197,57203648,HFMG94VAA_RS01930,HFMG94VAA_RS01930,HFMG94VAA_2731,-,-,-,maltose phosphorylase,protein-coding,-,-,-,maltose phosphorylase,20200905,-
+1159197,57203649,HFMG94VAA_RS01935,HFMG94VAA_RS01935,HFMG94VAA_2735,-,-,-,maltose phosphorylase,protein-coding,-,-,-,maltose phosphorylase,20200905,-
+1159197,57203650,HFMG94VAA_RS01940,HFMG94VAA_RS01940,HFMG94VAA_2741,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203651,HFMG94VAA_RS01945,HFMG94VAA_RS01945,HFMG94VAA_2743,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203652,HFMG94VAA_RS01950,HFMG94VAA_RS01950,HFMG94VAA_2760,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20200805,-
+1159197,57203653,hrcA,HFMG94VAA_RS01955,HFMG94VAA_2770,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20200803,-
+1159197,57203654,uvrC,HFMG94VAA_RS01960,HFMG94VAA_2769,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20200805,-
+1159197,57203655,HFMG94VAA_RS01965,HFMG94VAA_RS01965,HFMG94VAA_2781,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20200805,-
+1159197,57203656,HFMG94VAA_RS01970,HFMG94VAA_RS01970,HFMG94VAA_2784,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200805,-
+1159197,57203657,rpmI,HFMG94VAA_RS01975,HFMG94VAA_2791,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200830,-
+1159197,57203658,rplT,HFMG94VAA_RS01980,HFMG94VAA_2793,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200830,-
+1159197,57203659,HFMG94VAA_RS01985,HFMG94VAA_RS01985,HFMG94VAA_2798,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20200805,-
+1159197,57203660,pheS,HFMG94VAA_RS01990,HFMG94VAA_2803,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200805,-
+1159197,57203661,HFMG94VAA_RS01995,HFMG94VAA_RS01995,HFMG94VAA_2813,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200805,-
+1159197,57203662,HFMG94VAA_RS02000,HFMG94VAA_RS02000,HFMG94VAA_2837,-,-,-,PTS mannose transporter,protein-coding,-,-,-,PTS mannose transporter,20200805,-
+1159197,57203663,HFMG94VAA_RS02005,HFMG94VAA_RS02005,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203664,HFMG94VAA_RS02020,HFMG94VAA_RS02020,HFMG94VAA_2847,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203665,rplU,HFMG94VAA_RS02025,HFMG94VAA_2855,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200926,-
+1159197,57203666,HFMG94VAA_RS02030,HFMG94VAA_RS02030,HFMG94VAA_2859,-,-,-,ribosomal-processing cysteine protease Prp,protein-coding,-,-,-,ribosomal-processing cysteine protease Prp,20200805,-
+1159197,57203667,rpmA,HFMG94VAA_RS02035,HFMG94VAA_2863,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20210529,-
+1159197,57203668,HFMG94VAA_RS02040,HFMG94VAA_RS02040,HFMG94VAA_2865,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200805,-
+1159197,57203669,HFMG94VAA_RS02045,HFMG94VAA_RS02045,HFMG94VAA_2870,-,-,-,transcriptional repressor,protein-coding,-,-,-,transcriptional repressor,20200805,-
+1159197,57203670,HFMG94VAA_RS02050,HFMG94VAA_RS02050,HFMG94VAA_2874,-,-,-,DUF3196 family protein,protein-coding,-,-,-,DUF3196 family protein,20200805,-
+1159197,57203671,tig,HFMG94VAA_RS02055,HFMG94VAA_2877,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200805,-
+1159197,57203672,lon,HFMG94VAA_RS02060,HFMG94VAA_2886,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200805,-
+1159197,57203673,HFMG94VAA_RS02065,HFMG94VAA_RS02065,HFMG94VAA_2905,-,-,-,ABC-2 transporter permease,protein-coding,-,-,-,ABC-2 transporter permease,20200805,-
+1159197,57203674,HFMG94VAA_RS02070,HFMG94VAA_RS02070,HFMG94VAA_2916,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203675,HFMG94VAA_RS02080,HFMG94VAA_RS02080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203676,HFMG94VAA_RS02085,HFMG94VAA_RS02085,HFMG94VAA_2932,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203677,HFMG94VAA_RS02095,HFMG94VAA_RS02095,HFMG94VAA_2944,-,-,-,acetyl-CoA hydrolase/transferase family protein,protein-coding,-,-,-,acetyl-CoA hydrolase/transferase family protein,20200803,-
+1159197,57203678,HFMG94VAA_RS02100,HFMG94VAA_RS02100,HFMG94VAA_2953,-,-,-,TIGR00282 family metallophosphoesterase,protein-coding,-,-,-,TIGR00282 family metallophosphoesterase,20200805,-
+1159197,57203679,HFMG94VAA_RS02105,HFMG94VAA_RS02105,HFMG94VAA_2955,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200805,-
+1159197,57203680,HFMG94VAA_RS02110,HFMG94VAA_RS02110,HFMG94VAA_2966,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200905,-
+1159197,57203681,HFMG94VAA_RS02115,HFMG94VAA_RS02115,HFMG94VAA_2970,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200805,-
+1159197,57203682,HFMG94VAA_RS02120,HFMG94VAA_RS02120,HFMG94VAA_2974,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200805,-
+1159197,57203683,HFMG94VAA_RS02125,HFMG94VAA_RS02125,HFMG94VAA_2975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203684,HFMG94VAA_RS02130,HFMG94VAA_RS02130,HFMG94VAA_2984,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203685,HFMG94VAA_RS02135,HFMG94VAA_RS02135,HFMG94VAA_2994,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20200919,-
+1159197,57203686,plsY,HFMG94VAA_RS02140,HFMG94VAA_2997,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,protein-coding,-,-,-,glycerol-3-phosphate 1-O-acyltransferase PlsY,20200919,-
+1159197,57203687,HFMG94VAA_RS02145,HFMG94VAA_RS02145,HFMG94VAA_3000,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200905,-
+1159197,57203688,HFMG94VAA_RS02150,HFMG94VAA_RS02150,HFMG94VAA_3003,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,protein-coding,-,-,-,tRNA (adenine(22)-N(1))-methyltransferase TrmK,20200805,-
+1159197,57203689,HFMG94VAA_RS02155,HFMG94VAA_RS02155,HFMG94VAA_3014,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20200805,-
+1159197,57203690,dnaG,HFMG94VAA_RS02160,HFMG94VAA_3025,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200905,-
+1159197,57203691,HFMG94VAA_RS02165,HFMG94VAA_RS02165,HFMG94VAA_3032,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200805,-
+1159197,57203692,recO,HFMG94VAA_RS02170,HFMG94VAA_3035,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200926,-
+1159197,57203693,era,HFMG94VAA_RS02175,HFMG94VAA_3040,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20200805,-
+1159197,57203694,ybeY,HFMG94VAA_RS02180,HFMG94VAA_3043,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200919,-
+1159197,57203695,HFMG94VAA_RS02185,HFMG94VAA_RS02185,HFMG94VAA_3047,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203696,HFMG94VAA_RS02190,HFMG94VAA_RS02190,HFMG94VAA_3053,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1159197,57203697,HFMG94VAA_RS02195,HFMG94VAA_RS02195,HFMG94VAA_3065,-,-,-,IS256 family transposase,protein-coding,-,-,-,IS256 family transposase,20200803,-
+1159197,57203698,HFMG94VAA_RS02200,HFMG94VAA_RS02200,HFMG94VAA_3067,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203699,HFMG94VAA_RS02205,HFMG94VAA_RS02205,HFMG94VAA_3079,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203700,HFMG94VAA_RS02210,HFMG94VAA_RS02210,HFMG94VAA_3086,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203701,rsmH,HFMG94VAA_RS02215,HFMG94VAA_3090,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200905,-
+1159197,57203702,mraZ,HFMG94VAA_RS02220,HFMG94VAA_3093,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20200905,-
+1159197,57203703,scpB,HFMG94VAA_RS02225,HFMG94VAA_3102,-,-,-,SMC-Scp complex subunit ScpB,protein-coding,-,-,-,SMC-Scp complex subunit ScpB,20200805,-
+1159197,57203704,scpA,HFMG94VAA_RS02230,HFMG94VAA_3116,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20200803,-
+1159197,57203705,HFMG94VAA_RS02235,HFMG94VAA_RS02235,HFMG94VAA_3119,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200805,-
+1159197,57203706,HFMG94VAA_RS02240,HFMG94VAA_RS02240,HFMG94VAA_3122,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200805,-
+1159197,57203707,HFMG94VAA_RS02245,HFMG94VAA_RS02245,HFMG94VAA_3124,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1159197,57203708,HFMG94VAA_RS02250,HFMG94VAA_RS02250,HFMG94VAA_3125,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20200905,-
+1159197,57203709,HFMG94VAA_RS02255,HFMG94VAA_RS02255,HFMG94VAA_3137,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203710,HFMG94VAA_RS02260,HFMG94VAA_RS02260,HFMG94VAA_3141,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203711,HFMG94VAA_RS02265,HFMG94VAA_RS02265,HFMG94VAA_3147,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20200905,-
+1159197,57203712,HFMG94VAA_RS02270,HFMG94VAA_RS02270,HFMG94VAA_3157,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203713,HFMG94VAA_RS02280,HFMG94VAA_RS02280,HFMG94VAA_3161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203714,HFMG94VAA_RS02285,HFMG94VAA_RS02285,HFMG94VAA_3163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203715,HFMG94VAA_RS02290,HFMG94VAA_RS02290,HFMG94VAA_3167,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,protein-coding,-,-,-,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,20200905,-
+1159197,57203716,HFMG94VAA_RS02295,HFMG94VAA_RS02295,HFMG94VAA_3174,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20200805,-
+1159197,57203717,yqeH,HFMG94VAA_RS02300,HFMG94VAA_3178,-,-,-,ribosome biogenesis GTPase YqeH,protein-coding,-,-,-,ribosome biogenesis GTPase YqeH,20200805,-
+1159197,57203718,parC,HFMG94VAA_RS02305,HFMG94VAA_3196,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20200805,-
+1159197,57203719,parE,HFMG94VAA_RS02310,HFMG94VAA_3205,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200805,-
+1159197,57203720,HFMG94VAA_RS02315,HFMG94VAA_RS02315,HFMG94VAA_3207,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200805,-
+1159197,57203721,HFMG94VAA_RS02320,HFMG94VAA_RS02320,HFMG94VAA_3216,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203722,HFMG94VAA_RS02325,HFMG94VAA_RS02325,HFMG94VAA_trna29,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203723,HFMG94VAA_RS02335,HFMG94VAA_RS02335,HFMG94VAA_3233,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203724,HFMG94VAA_RS02340,HFMG94VAA_RS02340,HFMG94VAA_3247,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203725,HFMG94VAA_RS02345,HFMG94VAA_RS02345,HFMG94VAA_3259,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203726,HFMG94VAA_RS02350,HFMG94VAA_RS02350,HFMG94VAA_3274,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200905,-
+1159197,57203727,HFMG94VAA_RS02355,HFMG94VAA_RS02355,HFMG94VAA_3284,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203728,HFMG94VAA_RS02360,HFMG94VAA_RS02360,HFMG94VAA_3296,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203729,HFMG94VAA_RS02365,HFMG94VAA_RS02365,HFMG94VAA_3313,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200803,-
+1159197,57203730,HFMG94VAA_RS02370,HFMG94VAA_RS02370,HFMG94VAA_3325,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203731,HFMG94VAA_RS02375,HFMG94VAA_RS02375,HFMG94VAA_3338,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200830,-
+1159197,57203732,HFMG94VAA_RS02380,HFMG94VAA_RS02380,HFMG94VAA_3351,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203733,HFMG94VAA_RS02385,HFMG94VAA_RS02385,HFMG94VAA_3361,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203734,HFMG94VAA_RS02395,HFMG94VAA_RS02395,HFMG94VAA_3366,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203735,HFMG94VAA_RS02400,HFMG94VAA_RS02400,HFMG94VAA_3369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203736,HFMG94VAA_RS02405,HFMG94VAA_RS02405,HFMG94VAA_3370,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200805,-
+1159197,57203737,HFMG94VAA_RS02410,HFMG94VAA_RS02410,HFMG94VAA_3372,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200805,-
+1159197,57203738,HFMG94VAA_RS02415,HFMG94VAA_RS02415,HFMG94VAA_3391,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20200805,-
+1159197,57203739,HFMG94VAA_RS02420,HFMG94VAA_RS02420,HFMG94VAA_3394,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20200805,-
+1159197,57203740,HFMG94VAA_RS02425,HFMG94VAA_RS02425,HFMG94VAA_3398,-,-,-,aldo/keto reductase,protein-coding,-,-,-,aldo/keto reductase,20200905,-
+1159197,57203741,HFMG94VAA_RS02430,HFMG94VAA_RS02430,HFMG94VAA_3399,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203742,HFMG94VAA_RS02435,HFMG94VAA_RS02435,HFMG94VAA_3403,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203743,HFMG94VAA_RS02440,HFMG94VAA_RS02440,HFMG94VAA_3409,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203744,HFMG94VAA_RS02445,HFMG94VAA_RS02445,HFMG94VAA_3415,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200805,-
+1159197,57203745,HFMG94VAA_RS02450,HFMG94VAA_RS02450,HFMG94VAA_3423,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20200805,-
+1159197,57203746,smpB,HFMG94VAA_RS02455,HFMG94VAA_3427,-,-,-,SsrA-binding protein,protein-coding,-,-,-,SsrA-binding protein,20200919,-
+1159197,57203747,HFMG94VAA_RS02460,HFMG94VAA_RS02460,HFMG94VAA_3429,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203748,HFMG94VAA_RS02465,HFMG94VAA_RS02465,HFMG94VAA_3439,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200905,-
+1159197,57203749,HFMG94VAA_RS02475,HFMG94VAA_RS02475,HFMG94VAA_trna30,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203750,HFMG94VAA_RS02480,HFMG94VAA_RS02480,HFMG94VAA_3451,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203751,udk,HFMG94VAA_RS02485,HFMG94VAA_3452,-,-,-,uridine kinase,protein-coding,-,-,-,uridine kinase,20200805,-
+1159197,57203752,HFMG94VAA_RS02490,HFMG94VAA_RS02490,HFMG94VAA_3457,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203753,obgE,HFMG94VAA_RS02495,HFMG94VAA_3475,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200805,-
+1159197,57203754,HFMG94VAA_RS02500,HFMG94VAA_RS02500,HFMG94VAA_3479,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57203755,HFMG94VAA_RS02505,HFMG94VAA_RS02505,HFMG94VAA_3482,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203756,HFMG94VAA_RS02510,HFMG94VAA_RS02510,HFMG94VAA_3493,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200805,-
+1159197,57203757,HFMG94VAA_RS02515,HFMG94VAA_RS02515,HFMG94VAA_3494,-,-,-,permease,protein-coding,-,-,-,permease,20200805,-
+1159197,57203758,HFMG94VAA_RS02520,HFMG94VAA_RS02520,HFMG94VAA_3508,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203759,HFMG94VAA_RS02525,HFMG94VAA_RS02525,HFMG94VAA_3519,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203760,HFMG94VAA_RS02530,HFMG94VAA_RS02530,HFMG94VAA_3527,-,-,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20200905,-
+1159197,57203761,rnr,HFMG94VAA_RS02535,HFMG94VAA_3539,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200805,-
+1159197,57203762,secG,HFMG94VAA_RS02540,HFMG94VAA_3541,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200805,-
+1159197,57203763,whiA,HFMG94VAA_RS02545,HFMG94VAA_3547,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20200926,-
+1159197,57203764,trxB,HFMG94VAA_RS02550,HFMG94VAA_3550,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200905,-
+1159197,57203765,HFMG94VAA_RS02555,HFMG94VAA_RS02555,HFMG94VAA_3555,-,-,-,GntR family transcriptional regulator,protein-coding,-,-,-,GntR family transcriptional regulator,20200905,-
+1159197,57203766,HFMG94VAA_RS02560,HFMG94VAA_RS02560,HFMG94VAA_3556,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203767,metK,HFMG94VAA_RS02565,HFMG94VAA_3570,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200905,-
+1159197,57203768,tsaD,HFMG94VAA_RS02570,HFMG94VAA_3579,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200805,-
+1159197,57203769,HFMG94VAA_RS02575,HFMG94VAA_RS02575,HFMG94VAA_3587,-,-,-,spermidine/putrescine ABC transporter substrate-binding protein,protein-coding,-,-,-,spermidine/putrescine ABC transporter substrate-binding protein,20200919,-
+1159197,57203770,HFMG94VAA_RS02580,HFMG94VAA_RS02580,HFMG94VAA_3592,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200919,-
+1159197,57203771,HFMG94VAA_RS02585,HFMG94VAA_RS02585,HFMG94VAA_3599,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210529,-
+1159197,57203772,HFMG94VAA_RS02590,HFMG94VAA_RS02590,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203773,HFMG94VAA_RS02595,HFMG94VAA_RS02595,HFMG94VAA_3618,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203774,HFMG94VAA_RS02600,HFMG94VAA_RS02600,HFMG94VAA_3629,-,-,-,HDIG domain-containing protein,protein-coding,-,-,-,HDIG domain-containing protein,20200803,-
+1159197,57203775,recA,HFMG94VAA_RS02605,HFMG94VAA_3636,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200805,-
+1159197,57203776,msrB,HFMG94VAA_RS02615,HFMG94VAA_3645,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,protein-coding,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,20200805,-
+1159197,57203777,groL,HFMG94VAA_RS02620,HFMG94VAA_3650,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200805,-
+1159197,57203778,groES,HFMG94VAA_RS02625,HFMG94VAA_3652,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200830,-
+1159197,57203779,pyk,HFMG94VAA_RS02630,HFMG94VAA_3662,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200805,-
+1159197,57203780,HFMG94VAA_RS02635,HFMG94VAA_RS02635,HFMG94VAA_3665,-,-,-,ATP-dependent 6-phosphofructokinase,protein-coding,-,-,-,ATP-dependent 6-phosphofructokinase,20200805,-
+1159197,57203781,HFMG94VAA_RS02640,HFMG94VAA_RS02640,HFMG94VAA_3669,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20200805,-
+1159197,57203782,lpdA,HFMG94VAA_RS02645,HFMG94VAA_3678,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210424,-
+1159197,57203783,HFMG94VAA_RS02650,HFMG94VAA_RS02650,HFMG94VAA_3682,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200805,-
+1159197,57203784,HFMG94VAA_RS02655,HFMG94VAA_RS02655,HFMG94VAA_3688,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200905,-
+1159197,57203785,pdhA,HFMG94VAA_RS02660,HFMG94VAA_3694,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200805,-
+1159197,57203786,HFMG94VAA_RS02665,HFMG94VAA_RS02665,HFMG94VAA_3700,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200905,-
+1159197,57203787,HFMG94VAA_RS02670,HFMG94VAA_RS02670,HFMG94VAA_3706,-,-,-,acetate kinase,protein-coding,-,-,-,acetate kinase,20200805,-
+1159197,57203788,HFMG94VAA_RS02675,HFMG94VAA_RS02675,HFMG94VAA_3721,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200805,-
+1159197,57203789,HFMG94VAA_RS02680,HFMG94VAA_RS02680,HFMG94VAA_3726,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200905,-
+1159197,57203790,HFMG94VAA_RS02685,HFMG94VAA_RS02685,HFMG94VAA_3729,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200805,-
+1159197,57203791,HFMG94VAA_RS02690,HFMG94VAA_RS02690,HFMG94VAA_3736,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20200805,-
+1159197,57203792,HFMG94VAA_RS02695,HFMG94VAA_RS02695,HFMG94VAA_3749,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200905,-
+1159197,57203793,rnc,HFMG94VAA_RS02700,HFMG94VAA_3764,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200805,-
+1159197,57203794,plsX,HFMG94VAA_RS02705,HFMG94VAA_3769,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200803,-
+1159197,57203795,HFMG94VAA_RS02710,HFMG94VAA_RS02710,HFMG94VAA_3778,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20200805,-
+1159197,57203796,HFMG94VAA_RS02715,HFMG94VAA_RS02715,HFMG94VAA_3781,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203797,HFMG94VAA_RS02720,HFMG94VAA_RS02720,HFMG94VAA_3784,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200905,-
+1159197,57203798,HFMG94VAA_RS02725,HFMG94VAA_RS02725,HFMG94VAA_3792,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200805,-
+1159197,57203799,HFMG94VAA_RS02730,HFMG94VAA_RS02730,HFMG94VAA_3801,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200805,-
+1159197,57203800,thiI,HFMG94VAA_RS02735,HFMG94VAA_3811,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20200805,-
+1159197,57203801,HFMG94VAA_RS02740,HFMG94VAA_RS02740,HFMG94VAA_3822,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1159197,57203802,HFMG94VAA_RS02745,HFMG94VAA_RS02745,HFMG94VAA_3821,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203803,HFMG94VAA_RS02750,HFMG94VAA_RS02750,HFMG94VAA_trna31,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203804,HFMG94VAA_RS02755,HFMG94VAA_RS02755,HFMG94VAA_3869,-,-,-,EAGR box-containing protein,protein-coding,-,-,-,EAGR box-containing protein,20200803,-
+1159197,57203805,HFMG94VAA_RS02760,HFMG94VAA_RS02760,HFMG94VAA_3882,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200805,-
+1159197,57203806,eno,HFMG94VAA_RS02765,HFMG94VAA_3891,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200805,-
+1159197,57203807,HFMG94VAA_RS02770,HFMG94VAA_RS02770,HFMG94VAA_3901,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200805,-
+1159197,57203808,HFMG94VAA_RS02775,HFMG94VAA_RS02775,HFMG94VAA_3902,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20200805,-
+1159197,57203809,HFMG94VAA_RS02780,HFMG94VAA_RS02780,HFMG94VAA_3909,-,-,-,DUF5453 family protein,protein-coding,-,-,-,DUF5453 family protein,20200926,-
+1159197,57203810,HFMG94VAA_RS02785,HFMG94VAA_RS02785,HFMG94VAA_3911,-,-,-,transcription termination factor NusB,protein-coding,-,-,-,transcription termination factor NusB,20200805,-
+1159197,57203811,HFMG94VAA_RS02790,HFMG94VAA_RS02790,HFMG94VAA_3913,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203812,efp,HFMG94VAA_RS02795,HFMG94VAA_3917,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+1159197,57203813,HFMG94VAA_RS02800,HFMG94VAA_RS02800,HFMG94VAA_trna32,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57203814,HFMG94VAA_RS02805,HFMG94VAA_RS02805,HFMG94VAA_3923,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203815,HFMG94VAA_RS02810,HFMG94VAA_RS02810,HFMG94VAA_3935,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1159197,57203816,HFMG94VAA_RS02815,HFMG94VAA_RS02815,HFMG94VAA_3944,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203817,HFMG94VAA_RS02820,HFMG94VAA_RS02820,HFMG94VAA_3949,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1159197,57203818,HFMG94VAA_RS02825,HFMG94VAA_RS02825,HFMG94VAA_3958,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1159197,57203819,HFMG94VAA_RS02830,HFMG94VAA_RS02830,HFMG94VAA_3971,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203820,HFMG94VAA_RS02835,HFMG94VAA_RS02835,HFMG94VAA_3983,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203821,HFMG94VAA_RS02840,HFMG94VAA_RS02840,HFMG94VAA_3996,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1159197,57203822,HFMG94VAA_RS02845,HFMG94VAA_RS02845,HFMG94VAA_4006,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1159197,57203823,HFMG94VAA_RS02850,HFMG94VAA_RS02850,HFMG94VAA_4014,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200905,-
+1159197,57203824,HFMG94VAA_RS02855,HFMG94VAA_RS02855,HFMG94VAA_4028,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20200805,-
+1159197,57203825,HFMG94VAA_RS02860,HFMG94VAA_RS02860,HFMG94VAA_4060,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20200802,-
+1159197,57203826,rpsB,HFMG94VAA_RS02865,HFMG94VAA_4072,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200803,-
+1159197,57203827,HFMG94VAA_RS02870,HFMG94VAA_RS02870,HFMG94VAA_4075,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20200805,-
+1159197,57203828,HFMG94VAA_RS02875,HFMG94VAA_RS02875,HFMG94VAA_4077,-,-,-,MG_279/MG_280 family protein,protein-coding,-,-,-,MG_279/MG_280 family protein,20200805,-
+1159197,57203829,HFMG94VAA_RS02880,HFMG94VAA_RS02880,HFMG94VAA_4085,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20200805,-
+1159197,57203830,rsmI,HFMG94VAA_RS02885,HFMG94VAA_4089,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200805,-
+1159197,57203831,HFMG94VAA_RS02890,HFMG94VAA_RS02890,HFMG94VAA_4090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203832,HFMG94VAA_RS02895,HFMG94VAA_RS02895,HFMG94VAA_4099,-,-,-,OsmC family protein,protein-coding,-,-,-,OsmC family protein,20200905,-
+1159197,57203833,HFMG94VAA_RS02900,HFMG94VAA_RS02900,HFMG94VAA_4101,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200830,-
+1159197,57203834,HFMG94VAA_RS02905,HFMG94VAA_RS02905,HFMG94VAA_4102,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203835,HFMG94VAA_RS02910,HFMG94VAA_RS02910,HFMG94VAA_4114,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1159197,57203836,fusA,HFMG94VAA_RS02915,HFMG94VAA_4131,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200805,-
+1159197,57203837,rpsG,HFMG94VAA_RS02920,HFMG94VAA_4135,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+1159197,57203838,rpsL,HFMG94VAA_RS02925,HFMG94VAA_4140,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200805,-
+1159197,57203839,rpsD,HFMG94VAA_RS02930,HFMG94VAA_4144,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200926,-
+1159197,57203840,HFMG94VAA_RS02935,HFMG94VAA_RS02935,HFMG94VAA_4153,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203841,HFMG94VAA_RS02940,HFMG94VAA_RS02940,HFMG94VAA_4157,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203842,HFMG94VAA_RS02945,HFMG94VAA_RS02945,HFMG94VAA_4162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203843,HFMG94VAA_RS02950,HFMG94VAA_RS02950,HFMG94VAA_4165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203844,HFMG94VAA_RS02955,HFMG94VAA_RS02955,HFMG94VAA_4169,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203845,HFMG94VAA_RS02960,HFMG94VAA_RS02960,HFMG94VAA_4186,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1159197,57203846,dnaK,HFMG94VAA_RS02965,HFMG94VAA_4195,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200805,-
+1159197,57203847,HFMG94VAA_RS02970,HFMG94VAA_RS02970,HFMG94VAA_4196,-,-,-,UPF0104 family protein,protein-coding,-,-,-,UPF0104 family protein,20200805,-
+1159197,57203848,HFMG94VAA_RS02975,HFMG94VAA_RS02975,HFMG94VAA_4201,-,-,-,two pore domain potassium channel family protein,protein-coding,-,-,-,two pore domain potassium channel family protein,20200805,-
+1159197,57203849,HFMG94VAA_RS02980,HFMG94VAA_RS02980,HFMG94VAA_4207,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20200805,-
+1159197,57203850,HFMG94VAA_RS02985,HFMG94VAA_RS02985,HFMG94VAA_4219,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200805,-
+1159197,57203851,HFMG94VAA_RS02990,HFMG94VAA_RS02990,HFMG94VAA_4222,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200926,-
+1159197,57203852,HFMG94VAA_RS02995,HFMG94VAA_RS02995,HFMG94VAA_4229,-,-,-,NAD(+) kinase,protein-coding,-,-,-,NAD(+) kinase,20200805,-
+1159197,57203853,HFMG94VAA_RS03000,HFMG94VAA_RS03000,HFMG94VAA_4234,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203854,trpS,HFMG94VAA_RS03005,HFMG94VAA_4233,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200803,-
+1159197,57203855,HFMG94VAA_RS03010,HFMG94VAA_RS03010,HFMG94VAA_4240,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200805,-
+1159197,57203856,HFMG94VAA_RS03015,HFMG94VAA_RS03015,HFMG94VAA_4252,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200805,-
+1159197,57203857,HFMG94VAA_RS03020,HFMG94VAA_RS03020,HFMG94VAA_4257,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203858,HFMG94VAA_RS03025,HFMG94VAA_RS03025,HFMG94VAA_4294,-,-,-,EAGR box-containing protein,protein-coding,-,-,-,EAGR box-containing protein,20200805,-
+1159197,57203859,HFMG94VAA_RS03030,HFMG94VAA_RS03030,HFMG94VAA_4306,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1159197,57203860,lepA,HFMG94VAA_RS03035,HFMG94VAA_4316,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200805,-
+1159197,57203861,HFMG94VAA_RS03040,HFMG94VAA_RS03040,HFMG94VAA_4319,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200805,-
+1159197,57203862,HFMG94VAA_RS03045,HFMG94VAA_RS03045,HFMG94VAA_4325,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200805,-
+1159197,57203863,HFMG94VAA_RS03050,HFMG94VAA_RS03050,HFMG94VAA_4332,-,-,-,DUF1600 domain-containing protein,protein-coding,-,-,-,DUF1600 domain-containing protein,20200805,-
+1159197,57203864,HFMG94VAA_RS03055,HFMG94VAA_RS03055,HFMG94VAA_4348,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200805,-
+1159197,57203865,HFMG94VAA_RS03060,HFMG94VAA_RS03060,HFMG94VAA_4364,-,-,-,DUF3713 domain-containing protein,protein-coding,-,-,-,DUF3713 domain-containing protein,20200805,-
+1159197,57203866,HFMG94VAA_RS03065,HFMG94VAA_RS03065,HFMG94VAA_4372,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203867,HFMG94VAA_RS03070,HFMG94VAA_RS03070,HFMG94VAA_4386,-,-,-,exo-alpha-sialidase,protein-coding,-,-,-,exo-alpha-sialidase,20200805,-
+1159197,57203868,HFMG94VAA_RS03075,HFMG94VAA_RS03075,HFMG94VAA_4390,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203869,HFMG94VAA_RS03080,HFMG94VAA_RS03080,HFMG94VAA_4397,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203870,HFMG94VAA_RS03085,HFMG94VAA_RS03085,HFMG94VAA_4404,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20200805,-
+1159197,57203871,HFMG94VAA_RS03090,HFMG94VAA_RS03090,HFMG94VAA_4412,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203872,HFMG94VAA_RS03095,HFMG94VAA_RS03095,HFMG94VAA_4416,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203873,valS,HFMG94VAA_RS03100,HFMG94VAA_4434,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200805,-
+1159197,57203874,HFMG94VAA_RS03105,HFMG94VAA_RS03105,HFMG94VAA_4437,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200805,-
+1159197,57203875,HFMG94VAA_RS03110,HFMG94VAA_RS03110,HFMG94VAA_4440,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20200805,-
+1159197,57203876,HFMG94VAA_RS03115,HFMG94VAA_RS03115,HFMG94VAA_4450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203877,HFMG94VAA_RS03120,HFMG94VAA_RS03120,HFMG94VAA_4456,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20200805,-
+1159197,57203878,HFMG94VAA_RS03125,HFMG94VAA_RS03125,HFMG94VAA_4457,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20200805,-
+1159197,57203879,rnmV,HFMG94VAA_RS03130,HFMG94VAA_4466,-,-,-,ribonuclease M5,protein-coding,-,-,-,ribonuclease M5,20200919,-
+1159197,57203880,HFMG94VAA_RS03135,HFMG94VAA_RS03135,HFMG94VAA_4472,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20200830,-
+1159197,57203881,truA,HFMG94VAA_RS03140,HFMG94VAA_4478,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200805,-
+1159197,57203882,HFMG94VAA_RS03145,HFMG94VAA_RS03145,HFMG94VAA_4485,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20200805,-
+1159197,57203883,HFMG94VAA_RS03150,HFMG94VAA_RS03150,HFMG94VAA_4493,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200926,-
+1159197,57203884,HFMG94VAA_RS03155,HFMG94VAA_RS03155,HFMG94VAA_4498,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20200805,-
+1159197,57203885,HFMG94VAA_RS03160,HFMG94VAA_RS03160,HFMG94VAA_4505,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20200926,-
+1159197,57203886,HFMG94VAA_RS03165,HFMG94VAA_RS03165,HFMG94VAA_4511,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200919,-
+1159197,57203887,HFMG94VAA_RS03170,HFMG94VAA_RS03170,HFMG94VAA_4521,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20200919,-
+1159197,57203888,cdd,HFMG94VAA_RS03175,HFMG94VAA_4525,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20200805,-
+1159197,57203889,HFMG94VAA_RS03180,HFMG94VAA_RS03180,HFMG94VAA_4535,-,-,-,thymidine phosphorylase,protein-coding,-,-,-,thymidine phosphorylase,20200805,-
+1159197,57203890,deoC,HFMG94VAA_RS03185,HFMG94VAA_4537,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20200805,-
+1159197,57203891,deoD,HFMG94VAA_RS03190,HFMG94VAA_4538,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200919,-
+1159197,57203892,HFMG94VAA_RS03195,HFMG94VAA_RS03195,HFMG94VAA_4544,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1159197,57203893,HFMG94VAA_RS03200,HFMG94VAA_RS03200,HFMG94VAA_4555,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200905,-
+1159197,57203894,HFMG94VAA_RS03205,HFMG94VAA_RS03205,HFMG94VAA_4564,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200803,-
+1159197,57203895,HFMG94VAA_RS03210,HFMG94VAA_RS03210,HFMG94VAA_4581,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203896,HFMG94VAA_RS03215,HFMG94VAA_RS03215,HFMG94VAA_4600,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203897,HFMG94VAA_RS03220,HFMG94VAA_RS03220,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203898,HFMG94VAA_RS03225,HFMG94VAA_RS03225,HFMG94VAA_4625,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203899,HFMG94VAA_RS03230,HFMG94VAA_RS03230,HFMG94VAA_4640,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203900,HFMG94VAA_RS03235,HFMG94VAA_RS03235,HFMG94VAA_4650,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203901,HFMG94VAA_RS03240,HFMG94VAA_RS03240,HFMG94VAA_4667,-,-,-,GA module-containing protein,protein-coding,-,-,-,GA module-containing protein,20200803,-
+1159197,57203902,HFMG94VAA_RS03245,HFMG94VAA_RS03245,HFMG94VAA_4679,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200805,-
+1159197,57203903,HFMG94VAA_RS03250,HFMG94VAA_RS03250,HFMG94VAA_4692,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200830,-
+1159197,57203904,HFMG94VAA_RS03260,HFMG94VAA_RS03260,HFMG94VAA_4705,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203905,HFMG94VAA_RS03265,HFMG94VAA_RS03265,HFMG94VAA_4715,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200803,-
+1159197,57203906,HFMG94VAA_RS03270,HFMG94VAA_RS03270,HFMG94VAA_4719,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203907,HFMG94VAA_RS03275,HFMG94VAA_RS03275,HFMG94VAA_4725,-,-,-,FIVAR domain-containing protein,protein-coding,-,-,-,FIVAR domain-containing protein,20200802,-
+1159197,57203908,HFMG94VAA_RS03285,HFMG94VAA_RS03285,HFMG94VAA_4738,-,-,-,BMP family protein,protein-coding,-,-,-,BMP family protein,20200905,-
+1159197,57203909,recR,HFMG94VAA_RS03290,HFMG94VAA_4742,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200905,-
+1159197,57203910,HFMG94VAA_RS03295,HFMG94VAA_RS03295,HFMG94VAA_4745,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200905,-
+1159197,57203911,dnaX,HFMG94VAA_RS03300,HFMG94VAA_4753,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210529,-
+1159197,57203912,HFMG94VAA_RS03305,HFMG94VAA_RS03305,HFMG94VAA_4761,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203913,ruvB,HFMG94VAA_RS03310,HFMG94VAA_4765,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200905,-
+1159197,57203914,ruvA,HFMG94VAA_RS03315,HFMG94VAA_4771,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20200926,-
+1159197,57203915,HFMG94VAA_RS03320,HFMG94VAA_RS03320,HFMG94VAA_4782,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203916,gatB,HFMG94VAA_RS03325,HFMG94VAA_4793,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200905,-
+1159197,57203917,gatA,HFMG94VAA_RS03330,HFMG94VAA_4801,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200905,-
+1159197,57203918,gatC,HFMG94VAA_RS03335,HFMG94VAA_4807,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20200905,-
+1159197,57203919,HFMG94VAA_RS03340,HFMG94VAA_RS03340,HFMG94VAA_4813,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200805,-
+1159197,57203920,HFMG94VAA_RS03345,HFMG94VAA_RS03345,HFMG94VAA_4818,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203921,HFMG94VAA_RS03350,HFMG94VAA_RS03350,HFMG94VAA_4828,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200905,-
+1159197,57203922,HFMG94VAA_RS03355,HFMG94VAA_RS03355,HFMG94VAA_4829,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200805,-
+1159197,57203923,HFMG94VAA_RS03360,HFMG94VAA_RS03360,HFMG94VAA_4832,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200830,-
+1159197,57203924,HFMG94VAA_RS03365,HFMG94VAA_RS03365,HFMG94VAA_4839,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20200905,-
+1159197,57203925,HFMG94VAA_RS03370,HFMG94VAA_RS03370,HFMG94VAA_4843,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200805,-
+1159197,57203926,HFMG94VAA_RS03375,HFMG94VAA_RS03375,HFMG94VAA_4844,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20200805,-
+1159197,57203927,HFMG94VAA_RS03380,HFMG94VAA_RS03380,HFMG94VAA_4856,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200905,-
+1159197,57203928,HFMG94VAA_RS03385,HFMG94VAA_RS03385,HFMG94VAA_4855,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1159197,57203929,HFMG94VAA_RS03390,HFMG94VAA_RS03390,HFMG94VAA_4861,-,-,-,MG296/MPN423 family protein,protein-coding,-,-,-,MG296/MPN423 family protein,20200805,-
+1159197,57203930,HFMG94VAA_RS03395,HFMG94VAA_RS03395,HFMG94VAA_4864,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20200805,-
+1159197,57203931,pta,HFMG94VAA_RS03400,HFMG94VAA_4867,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20200805,-
+1159197,57203932,ylqF,HFMG94VAA_RS03405,HFMG94VAA_4870,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20200805,-
+1159197,57203933,HFMG94VAA_RS03410,HFMG94VAA_RS03410,HFMG94VAA_4878,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200805,-
+1159197,57203934,rplS,HFMG94VAA_RS03415,HFMG94VAA_4881,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20201003,-
+1159197,57203935,trmD,HFMG94VAA_RS03420,HFMG94VAA_4885,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200805,-
+1159197,57203936,rpsP,HFMG94VAA_RS03425,HFMG94VAA_4887,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200830,-
+1159197,57203937,rplQ,HFMG94VAA_RS03430,HFMG94VAA_4891,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200919,-
+1159197,57203938,HFMG94VAA_RS03435,HFMG94VAA_RS03435,HFMG94VAA_4898,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200805,-
+1159197,57203939,rpsK,HFMG94VAA_RS03440,HFMG94VAA_4901,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+1159197,57203940,rpsM,HFMG94VAA_RS03445,HFMG94VAA_4905,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200805,-
+1159197,57203941,infA,HFMG94VAA_RS03450,HFMG94VAA_4910,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200830,-
+1159197,57203942,HFMG94VAA_RS03455,HFMG94VAA_RS03455,HFMG94VAA_r06,-,-,-,-,rRNA,-,-,-,-,20200802,-
+1159197,57203943,trxA,HFMG94VAA_RS03460,HFMG94VAA_4933,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200805,-
+1159197,57203944,topA,HFMG94VAA_RS03465,HFMG94VAA_4950,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200805,-
+1159197,57203945,HFMG94VAA_RS03470,HFMG94VAA_RS03470,HFMG94VAA_4951,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200805,-
+1159197,57203946,HFMG94VAA_RS03475,HFMG94VAA_RS03475,HFMG94VAA_4957,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200805,-
+1159197,57203947,rsgA,HFMG94VAA_RS03480,HFMG94VAA_4961,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20200805,-
+1159197,57203948,HFMG94VAA_RS03485,HFMG94VAA_RS03485,HFMG94VAA_4969,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200905,-
+1159197,57203949,HFMG94VAA_RS03490,HFMG94VAA_RS03490,HFMG94VAA_4978,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20200805,-
+1159197,57203950,gmk,HFMG94VAA_RS03495,HFMG94VAA_4981,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200905,-
+1159197,57203951,HFMG94VAA_RS03500,HFMG94VAA_RS03500,HFMG94VAA_4982,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200805,-
+1159197,57203952,HFMG94VAA_RS03505,HFMG94VAA_RS03505,HFMG94VAA_4996,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200803,-
+1159197,57203953,mnmG,HFMG94VAA_RS03510,HFMG94VAA_4997,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200805,-
+1159197,57203954,rsmG,HFMG94VAA_RS03515,HFMG94VAA_5003,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20200805,-
+1159197,57203955,HFMG94VAA_RS03520,HFMG94VAA_RS03520,HFMG94VAA_5006,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201003,-
+1159197,57203956,HFMG94VAA_RS03525,HFMG94VAA_RS03525,HFMG94VAA_5012,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203957,nusG,HFMG94VAA_RS03530,HFMG94VAA_5018,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20201003,-
+1159197,57203958,secE,HFMG94VAA_RS03535,HFMG94VAA_5021,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200805,-
+1159197,57203959,HFMG94VAA_RS03540,HFMG94VAA_RS03540,HFMG94VAA_5023,-,-,-,transposase,protein-coding,-,-,-,transposase,20200905,-
+1159197,57203960,HFMG94VAA_RS03545,HFMG94VAA_RS03545,HFMG94VAA_5030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203961,HFMG94VAA_RS03550,HFMG94VAA_RS03550,HFMG94VAA_5038,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20200919,-
+1159197,57203962,HFMG94VAA_RS03555,HFMG94VAA_RS03555,HFMG94VAA_5042,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203963,HFMG94VAA_RS03560,HFMG94VAA_RS03560,HFMG94VAA_5048,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203964,HFMG94VAA_RS03565,HFMG94VAA_RS03565,HFMG94VAA_5052,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203965,HFMG94VAA_RS03570,HFMG94VAA_RS03570,HFMG94VAA_5067,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20200805,-
+1159197,57203966,HFMG94VAA_RS03575,HFMG94VAA_RS03575,-,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200803,-
+1159197,57203967,HFMG94VAA_RS03580,HFMG94VAA_RS03580,HFMG94VAA_5086,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200805,-
+1159197,57203968,HFMG94VAA_RS03585,HFMG94VAA_RS03585,HFMG94VAA_5096,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200805,-
+1159197,57203969,HFMG94VAA_RS03590,HFMG94VAA_RS03590,HFMG94VAA_5105,-,-,-,DNA-directed RNA polymerase subunit delta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit delta,20200805,-
+1159197,57203970,fba,HFMG94VAA_RS03595,HFMG94VAA_5108,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20200805,-
+1159197,57203971,ychF,HFMG94VAA_RS03600,HFMG94VAA_5111,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200805,-
+1159197,57203972,HFMG94VAA_RS03605,HFMG94VAA_RS03605,HFMG94VAA_5117,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20200805,-
+1159197,57203973,rplK,HFMG94VAA_RS03610,HFMG94VAA_5124,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20210116,-
+1159197,57203974,HFMG94VAA_RS03615,HFMG94VAA_RS03615,HFMG94VAA_5126,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200805,-
+1159197,57203975,HFMG94VAA_RS03620,HFMG94VAA_RS03620,HFMG94VAA_5131,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200805,-
+1159197,57203976,tilS,HFMG94VAA_RS03625,HFMG94VAA_5133,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200805,-
+1159197,57203977,HFMG94VAA_RS03630,HFMG94VAA_RS03630,HFMG94VAA_5136,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200919,-
+1159197,57203978,HFMG94VAA_RS03635,HFMG94VAA_RS03635,HFMG94VAA_5146,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203979,HFMG94VAA_RS03640,HFMG94VAA_RS03640,HFMG94VAA_5149,-,-,-,class I mannose-6-phosphate isomerase,protein-coding,-,-,-,class I mannose-6-phosphate isomerase,20200805,-
+1159197,57203980,HFMG94VAA_RS03645,HFMG94VAA_RS03645,HFMG94VAA_5165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203981,HFMG94VAA_RS03650,HFMG94VAA_RS03650,HFMG94VAA_5175,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20200905,-
+1159197,57203982,cas9,HFMG94VAA_RS03655,-,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,protein-coding,-,-,-,type II CRISPR RNA-guided endonuclease Cas9,20200805,-
+1159197,57203983,cas1,HFMG94VAA_RS03660,HFMG94VAA_5204,-,-,-,type II CRISPR-associated endonuclease Cas1,protein-coding,-,-,-,type II CRISPR-associated endonuclease Cas1,20200805,-
+1159197,57203984,cas2,HFMG94VAA_RS03665,HFMG94VAA_5209,-,-,-,CRISPR-associated endonuclease Cas2,protein-coding,-,-,-,CRISPR-associated endonuclease Cas2,20200919,-
+1159197,57203985,HFMG94VAA_RS03670,HFMG94VAA_RS03670,HFMG94VAA_5210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203986,rlmB,HFMG94VAA_RS03675,HFMG94VAA_5236,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200805,-
+1159197,57203987,cysS,HFMG94VAA_RS03680,HFMG94VAA_5244,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200805,-
+1159197,57203988,HFMG94VAA_RS03685,HFMG94VAA_RS03685,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203989,HFMG94VAA_RS03690,HFMG94VAA_RS03690,HFMG94VAA_5266,-,-,-,S8 family peptidase,protein-coding,-,-,-,S8 family peptidase,20200805,-
+1159197,57203990,HFMG94VAA_RS03695,HFMG94VAA_RS03695,HFMG94VAA_5271,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200805,-
+1159197,57203991,HFMG94VAA_RS03700,HFMG94VAA_RS03700,HFMG94VAA_5273,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57203992,HFMG94VAA_RS03705,HFMG94VAA_RS03705,HFMG94VAA_5288,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203993,HFMG94VAA_RS03710,HFMG94VAA_RS03710,HFMG94VAA_5292,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203994,HFMG94VAA_RS03715,HFMG94VAA_RS03715,HFMG94VAA_5302,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203995,HFMG94VAA_RS03720,HFMG94VAA_RS03720,HFMG94VAA_5315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57203996,HFMG94VAA_RS03725,HFMG94VAA_RS03725,HFMG94VAA_5328,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203997,HFMG94VAA_RS03730,HFMG94VAA_RS03730,HFMG94VAA_5339,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57203998,HFMG94VAA_RS03735,HFMG94VAA_RS03735,HFMG94VAA_5346,-,-,-,DUF308 domain-containing protein,protein-coding,-,-,-,DUF308 domain-containing protein,20200805,-
+1159197,57203999,HFMG94VAA_RS03740,HFMG94VAA_RS03740,HFMG94VAA_5348,-,-,-,rRNA methyltransferase,protein-coding,-,-,-,rRNA methyltransferase,20200805,-
+1159197,57204001,HFMG94VAA_RS03750,HFMG94VAA_RS03750,HFMG94VAA_5354,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20200805,-
+1159197,57204002,HFMG94VAA_RS03755,HFMG94VAA_RS03755,HFMG94VAA_5357,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200805,-
+1159197,57204004,HFMG94VAA_RS03765,HFMG94VAA_RS03765,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204005,HFMG94VAA_RS03770,HFMG94VAA_RS03770,HFMG94VAA_5372,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210424,-
+1159197,57204006,HFMG94VAA_RS03775,HFMG94VAA_RS03775,HFMG94VAA_5386,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57204007,ligA,HFMG94VAA_RS03780,HFMG94VAA_5400,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200805,-
+1159197,57204008,HFMG94VAA_RS03785,HFMG94VAA_RS03785,HFMG94VAA_trna33,-,-,-,-,tRNA,-,-,-,-,20200802,-
+1159197,57204009,msrA,HFMG94VAA_RS03790,HFMG94VAA_5406,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,protein-coding,-,-,-,peptide-methionine (S)-S-oxide reductase MsrA,20200905,-
+1159197,57204010,HFMG94VAA_RS03795,HFMG94VAA_RS03795,HFMG94VAA_5407,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200805,-
+1159197,57204011,HFMG94VAA_RS03800,HFMG94VAA_RS03800,HFMG94VAA_5422,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57204012,HFMG94VAA_RS03805,HFMG94VAA_RS03805,HFMG94VAA_5438,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200803,-
+1159197,57204013,HFMG94VAA_RS03810,HFMG94VAA_RS03810,HFMG94VAA_5441,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57204014,HFMG94VAA_RS03820,HFMG94VAA_RS03820,HFMG94VAA_5455,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20200805,-
+1159197,57204015,HFMG94VAA_RS03825,HFMG94VAA_RS03825,HFMG94VAA_5463,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57204016,HFMG94VAA_RS03830,HFMG94VAA_RS03830,HFMG94VAA_5473,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200803,-
+1159197,57204017,HFMG94VAA_RS03835,HFMG94VAA_RS03835,HFMG94VAA_5487,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200805,-
+1159197,57204018,HFMG94VAA_RS03840,HFMG94VAA_RS03840,HFMG94VAA_5501,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20200805,-
+1159197,57204019,HFMG94VAA_RS03845,HFMG94VAA_RS03845,HFMG94VAA_5511,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20200805,-
+1159197,57204020,HFMG94VAA_RS03850,HFMG94VAA_RS03850,HFMG94VAA_5517,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20200905,-
+1159197,57204021,HFMG94VAA_RS03855,HFMG94VAA_RS03855,HFMG94VAA_5528,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+1159197,57204022,HFMG94VAA_RS03860,HFMG94VAA_RS03860,HFMG94VAA_5535,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,20200905,-
+1159197,57204023,HFMG94VAA_RS03865,HFMG94VAA_RS03865,HFMG94VAA_5543,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200905,-
+1159197,57204024,HFMG94VAA_RS03870,HFMG94VAA_RS03870,HFMG94VAA_5552,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20200805,-
+1159197,57204025,HFMG94VAA_RS03875,HFMG94VAA_RS03875,HFMG94VAA_5554,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1159197,57204026,HFMG94VAA_RS03880,HFMG94VAA_RS03880,HFMG94VAA_5569,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200805,-
+1159197,57204027,mnmE,HFMG94VAA_RS03885,HFMG94VAA_5574,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200805,-
+1159197,57204028,HFMG94VAA_RS03890,HFMG94VAA_RS03890,HFMG94VAA_5576,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20200805,-
+1159197,57204029,tmk,HFMG94VAA_RS03895,HFMG94VAA_5583,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200905,-
+1159197,57204030,serS,HFMG94VAA_RS03900,HFMG94VAA_5589,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200905,-
+1159197,57204031,gyrA,HFMG94VAA_RS03905,HFMG94VAA_5606,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20200805,-
+1159197,57204032,gyrB,HFMG94VAA_RS03910,HFMG94VAA_5621,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200805,-
+1159197,57204033,HFMG94VAA_RS03915,HFMG94VAA_RS03915,HFMG94VAA_5629,-,-,-,J domain-containing protein,protein-coding,-,-,-,J domain-containing protein,20200919,-
+1159197,57204034,HFMG94VAA_RS03920,HFMG94VAA_RS03920,HFMG94VAA_5637,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200805,-
+1159197,57204038,HFMG94VAA_RS03940,HFMG94VAA_RS03940,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204040,HFMG94VAA_RS03950,HFMG94VAA_RS03950,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204042,rpmF,HFMG94VAA_RS03960,HFMG94VAA_1068,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200830,-
+1159197,57204043,HFMG94VAA_RS03965,HFMG94VAA_RS03965,HFMG94VAA_1300,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200803,-
+1159197,57204044,HFMG94VAA_RS03970,HFMG94VAA_RS03970,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204047,rnpB,HFMG94VAA_RS03990,-,-,-,-,-,ncRNA,-,-,-,-,20200802,-
+1159197,57204048,HFMG94VAA_RS03995,HFMG94VAA_RS03995,HFMG94VAA_2164,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,57204050,ffs,HFMG94VAA_RS04005,-,-,-,-,-,ncRNA,-,-,-,-,20200802,-
+1159197,57204051,HFMG94VAA_RS04010,HFMG94VAA_RS04010,-,-,-,-,HAD-IA family hydrolase,protein-coding,-,-,-,HAD-IA family hydrolase,20201119,-
+1159197,57204052,ssrA,HFMG94VAA_RS04015,-,-,-,-,-,miscRNA,-,-,-,-,20200802,-
+1159197,57204053,HFMG94VAA_RS04020,HFMG94VAA_RS04020,HFMG94VAA_2843,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200905,-
+1159197,57204055,rpmG,HFMG94VAA_RS04035,HFMG94VAA_3440,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+1159197,57204057,HFMG94VAA_RS04045,HFMG94VAA_RS04045,HFMG94VAA_4373,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204058,HFMG94VAA_RS04050,HFMG94VAA_RS04050,HFMG94VAA_4419,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20200803,-
+1159197,57204059,rpmJ,HFMG94VAA_RS04055,HFMG94VAA_4907,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210417,-
+1159197,57204061,rpmG,HFMG94VAA_RS04065,HFMG94VAA_5022,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200830,-
+1159197,57204063,HFMG94VAA_RS04075,HFMG94VAA_RS04075,HFMG94VAA_5351,-,-,-,rRNA methyltransferase,protein-coding,-,-,-,rRNA methyltransferase,20200805,-
+1159197,57204065,HFMG94VAA_RS04085,HFMG94VAA_RS04085,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204067,HFMG94VAA_RS04095,HFMG94VAA_RS04095,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204068,HFMG94VAA_RS04105,HFMG94VAA_RS04105,HFMG94VAA_1752,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,57204069,HFMG94VAA_RS04110,HFMG94VAA_RS04110,HFMG94VAA_2727,-,-,-,beta-phosphoglucomutase,protein-coding,-,-,-,beta-phosphoglucomutase,20200905,-
+1159197,57204070,HFMG94VAA_RS04115,HFMG94VAA_RS04115,-,-,-,-,-,pseudo,-,-,-,-,20200802,-
+1159197,57204071,HFMG94VAA_RS04125,HFMG94VAA_RS04125,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204072,HFMG94VAA_RS04130,HFMG94VAA_RS04130,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204073,HFMG94VAA_RS04135,HFMG94VAA_RS04135,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204074,HFMG94VAA_RS04140,HFMG94VAA_RS04140,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1159197,57204075,HFMG94VAA_RS04145,HFMG94VAA_RS04145,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210313,-
+1159197,58789717,HFMG94VAA_RS04150,HFMG94VAA_RS04150,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789718,HFMG94VAA_RS04155,HFMG94VAA_RS04155,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789719,HFMG94VAA_RS04160,HFMG94VAA_RS04160,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789720,HFMG94VAA_RS04165,HFMG94VAA_RS04165,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789721,HFMG94VAA_RS04170,HFMG94VAA_RS04170,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789722,HFMG94VAA_RS04175,HFMG94VAA_RS04175,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789723,HFMG94VAA_RS04180,HFMG94VAA_RS04180,HFMG94VAA_2623,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789724,HFMG94VAA_RS04185,HFMG94VAA_RS04185,HFMG94VAA_3158,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789725,HFMG94VAA_RS04190,HFMG94VAA_RS04190,HFMG94VAA_3973,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789726,HFMG94VAA_RS04195,HFMG94VAA_RS04195,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789727,HFMG94VAA_RS04200,HFMG94VAA_RS04200,HFMG94VAA_5391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-
+1159197,58789728,HFMG94VAA_RS04205,HFMG94VAA_RS04205,-,-,-,-,-,pseudo,-,-,-,-,20200830,-
+1159197,58789729,HFMG94VAA_RS04210,HFMG94VAA_RS04210,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200830,-

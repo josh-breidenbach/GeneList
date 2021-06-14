@@ -1,0 +1,818 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1316930,57161502,dnaA,K668_RS00005,K668_00005,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20201228,-
+1316930,57161503,K668_RS00010,K668_RS00010,K668_00010,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20210123,-
+1316930,57161504,K668_RS00015,K668_RS00015,K668_00015,-,-,-,RNA-binding S4 domain-containing protein,protein-coding,-,-,-,RNA-binding S4 domain-containing protein,20201228,-
+1316930,57161505,K668_RS00020,K668_RS00020,K668_t04012,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161506,K668_RS00025,K668_RS00025,K668_t04014,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161507,K668_RS00030,K668_RS00030,K668_00025,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20210123,-
+1316930,57161508,K668_RS00035,K668_RS00035,K668_00030,-,-,-,IS1634 family transposase,protein-coding,-,-,-,IS1634 family transposase,20201228,-
+1316930,57161509,K668_RS00040,K668_RS00040,K668_00035,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57161510,K668_RS00045,K668_RS00045,K668_00040,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57161511,K668_RS00050,K668_RS00050,K668_00045,-,-,-,NADH-dependent flavin oxidoreductase,protein-coding,-,-,-,NADH-dependent flavin oxidoreductase,20201228,-
+1316930,57161512,K668_RS00055,K668_RS00055,K668_00050,-,-,-,lipoate--protein ligase A,protein-coding,-,-,-,lipoate--protein ligase A,20201228,-
+1316930,57161513,K668_RS00060,K668_RS00060,K668_00055,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20201228,-
+1316930,57161514,K668_RS00065,K668_RS00065,K668_00060,-,-,-,deacetylase SIR2,protein-coding,-,-,-,deacetylase SIR2,20210123,-
+1316930,57161515,K668_RS00070,K668_RS00070,K668_00065,-,-,-,calcium-binding protein,protein-coding,-,-,-,calcium-binding protein,20210123,-
+1316930,57161516,K668_RS00075,K668_RS00075,K668_00070,-,-,-,LLM class flavin-dependent oxidoreductase,protein-coding,-,-,-,LLM class flavin-dependent oxidoreductase,20210123,-
+1316930,57161517,K668_RS00080,K668_RS00080,K668_00075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161518,K668_RS00085,K668_RS00085,K668_00080,-,-,-,BMP family ABC transporter substrate-binding protein,protein-coding,-,-,-,BMP family ABC transporter substrate-binding protein,20210129,-
+1316930,57161519,K668_RS00090,K668_RS00090,K668_00085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161520,K668_RS00095,K668_RS00095,K668_00090,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161521,K668_RS00100,K668_RS00100,K668_00095,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20210123,-
+1316930,57161522,K668_RS00105,K668_RS00105,K668_00100,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161523,K668_RS00110,K668_RS00110,K668_00105,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210123,-
+1316930,57161524,K668_RS00115,K668_RS00115,K668_00110,-,-,-,deoxynucleoside kinase,protein-coding,-,-,-,deoxynucleoside kinase,20210123,-
+1316930,57161525,K668_RS00120,K668_RS00120,K668_00115,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20210123,-
+1316930,57161526,K668_RS00130,K668_RS00130,K668_00120,-,-,-,pseudouridine-5'-phosphate glycosidase,protein-coding,-,-,-,pseudouridine-5'-phosphate glycosidase,20210123,-
+1316930,57161527,K668_RS00135,K668_RS00135,K668_00125,-,-,-,carbohydrate kinase family protein,protein-coding,-,-,-,carbohydrate kinase family protein,20201228,-
+1316930,57161528,K668_RS00140,K668_RS00140,K668_00130,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20201228,-
+1316930,57161529,K668_RS00145,K668_RS00145,K668_00135,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161530,K668_RS00150,K668_RS00150,K668_00140,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161531,K668_RS00155,K668_RS00155,K668_00145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161532,K668_RS00160,K668_RS00160,K668_00150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161533,K668_RS00165,K668_RS00165,K668_00155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161534,K668_RS00170,K668_RS00170,K668_00160,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161535,K668_RS00175,K668_RS00175,K668_00165,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161536,K668_RS00180,K668_RS00180,K668_00170,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161537,K668_RS00185,K668_RS00185,K668_00175,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161538,K668_RS00190,K668_RS00190,K668_00180,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161539,K668_RS00195,K668_RS00195,K668_00185,-,-,-,PDxFFG protein,protein-coding,-,-,-,PDxFFG protein,20210406,-
+1316930,57161540,K668_RS00200,K668_RS00200,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161541,K668_RS00205,K668_RS00205,K668_00200,-,-,-,class I tRNA ligase family protein,protein-coding,-,-,-,class I tRNA ligase family protein,20201228,-
+1316930,57161542,rlmB,K668_RS00210,K668_00205,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20201228,-
+1316930,57161543,K668_RS00215,K668_RS00215,K668_00210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161544,secE,K668_RS00220,K668_00220,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20201228,-
+1316930,57161545,nusG,K668_RS00225,K668_00225,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20201228,-
+1316930,57161546,K668_RS00230,K668_RS00230,K668_00230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161547,K668_RS00235,K668_RS00235,K668_00235,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20210123,-
+1316930,57161548,K668_RS00240,K668_RS00240,K668_00240,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20201228,-
+1316930,57161549,frr,K668_RS00245,K668_00245,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201228,-
+1316930,57161550,K668_RS00250,K668_RS00250,K668_t04016,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161551,K668_RS00255,K668_RS00255,K668_t04018,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161552,K668_RS00260,K668_RS00260,K668_00250,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20210123,-
+1316930,57161553,K668_RS00265,K668_RS00265,K668_00255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161554,K668_RS00270,K668_RS00270,K668_00260,-,-,-,NAD(P)-binding domain-containing protein,protein-coding,-,-,-,NAD(P)-binding domain-containing protein,20201228,-
+1316930,57161555,rsmA,K668_RS00275,K668_00265,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20201228,-
+1316930,57161556,K668_RS00280,K668_RS00280,K668_00270,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201228,-
+1316930,57161557,mnmE,K668_RS00285,K668_00275,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201228,-
+1316930,57161558,K668_RS00290,K668_RS00290,K668_00280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161559,gap,K668_RS00295,K668_00285,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201228,-
+1316930,57161560,serS,K668_RS00300,K668_00290,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201228,-
+1316930,57161561,K668_RS00305,K668_RS00305,K668_00295,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20201228,-
+1316930,57161562,rpmH,K668_RS00310,K668_00300,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20210129,-
+1316930,57161563,rnpA,K668_RS00315,K668_00305,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210123,-
+1316930,57161564,yidC,K668_RS00320,K668_00310,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20210123,-
+1316930,57161565,K668_RS00325,K668_RS00325,K668_00315,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20210123,-
+1316930,57161566,K668_RS00330,K668_RS00330,K668_00320,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57161567,K668_RS00335,K668_RS00335,K668_00325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161568,K668_RS00340,K668_RS00340,K668_00330,-,-,-,aspartate--ammonia ligase,protein-coding,-,-,-,aspartate--ammonia ligase,20201228,-
+1316930,57161569,K668_RS00345,K668_RS00345,K668_00335,-,-,-,PolC-type DNA polymerase III,protein-coding,-,-,-,PolC-type DNA polymerase III,20201228,-
+1316930,57161570,K668_RS00350,K668_RS00350,K668_t04020,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161571,K668_RS00355,K668_RS00355,K668_t04022,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161572,K668_RS00360,K668_RS00360,K668_00340,-,-,-,replication-associated recombination protein A,protein-coding,-,-,-,replication-associated recombination protein A,20201228,-
+1316930,57161573,pheS,K668_RS00365,K668_00345,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20201228,-
+1316930,57161574,K668_RS00370,K668_RS00370,K668_00350,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20210123,-
+1316930,57161575,K668_RS00375,K668_RS00375,K668_00355,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20201228,-
+1316930,57161576,K668_RS00380,K668_RS00380,K668_00360,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20201228,-
+1316930,57161577,pip,K668_RS00385,K668_00365,-,-,-,prolyl aminopeptidase,protein-coding,-,-,-,prolyl aminopeptidase,20210123,-
+1316930,57161578,K668_RS00390,K668_RS00390,K668_00370,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20201228,-
+1316930,57161579,K668_RS00395,K668_RS00395,K668_00375,-,-,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20201228,-
+1316930,57161580,K668_RS00400,K668_RS00400,K668_00380,-,-,-,DNA polymerase IV,protein-coding,-,-,-,DNA polymerase IV,20201228,-
+1316930,57161581,K668_RS00405,K668_RS00405,K668_00385,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20201228,-
+1316930,57161582,K668_RS00410,K668_RS00410,K668_00390,-,-,-,pseudouridine synthase,protein-coding,-,-,-,pseudouridine synthase,20210522,-
+1316930,57161583,K668_RS00415,K668_RS00415,K668_00395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161584,K668_RS00420,K668_RS00420,K668_00400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161585,fba,K668_RS00425,K668_00405,-,-,-,"class II fructose-1,6-bisphosphate aldolase",protein-coding,-,-,-,"class II fructose-1,6-bisphosphate aldolase",20201228,-
+1316930,57161586,K668_RS00430,K668_RS00430,K668_00410,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20210123,-
+1316930,57161587,rplK,K668_RS00435,K668_00415,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20201228,-
+1316930,57161588,K668_RS00440,K668_RS00440,K668_00420,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20201228,-
+1316930,57161589,K668_RS00445,K668_RS00445,K668_00425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161590,K668_RS00450,K668_RS00450,K668_00430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161591,K668_RS00455,K668_RS00455,K668_00435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161592,K668_RS00460,K668_RS00460,K668_00440,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20201228,-
+1316930,57161593,K668_RS00465,K668_RS00465,K668_00445,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20201228,-
+1316930,57161594,K668_RS00470,K668_RS00470,K668_00450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161595,ylqF,K668_RS00475,K668_00455,-,-,-,ribosome biogenesis GTPase YlqF,protein-coding,-,-,-,ribosome biogenesis GTPase YlqF,20201228,-
+1316930,57161596,K668_RS00480,K668_RS00480,K668_00460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161597,K668_RS00485,K668_RS00485,K668_00465,-,-,-,HPr kinase/phosphorylase,protein-coding,-,-,-,HPr kinase/phosphorylase,20201228,-
+1316930,57161598,K668_RS00490,K668_RS00490,K668_00470,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20201228,-
+1316930,57161599,K668_RS00495,K668_RS00495,K668_00475,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201228,-
+1316930,57161600,K668_RS00500,K668_RS00500,K668_00480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161601,K668_RS00505,K668_RS00505,K668_00485,-,-,-,pyruvate dehydrogenase E1 subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase E1 subunit alpha,20210123,-
+1316930,57161602,K668_RS00510,K668_RS00510,K668_00490,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20201228,-
+1316930,57161603,K668_RS00515,K668_RS00515,K668_00495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161604,K668_RS00520,K668_RS00520,K668_00500,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20210123,-
+1316930,57161605,lpdA,K668_RS00525,K668_00505,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20210123,-
+1316930,57161606,K668_RS00530,K668_RS00530,K668_00510,-,-,-,IS30-like element ISMbov1 family transposase,protein-coding,-,-,-,IS30-like element ISMbov1 family transposase,20210123,-
+1316930,57161607,K668_RS00535,K668_RS00535,K668_00515,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20201228,-
+1316930,57161608,K668_RS00540,K668_RS00540,K668_00520,-,-,-,DJ-1/PfpI family protein,protein-coding,-,-,-,DJ-1/PfpI family protein,20201228,-
+1316930,57161609,K668_RS00545,K668_RS00545,K668_00525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161610,K668_RS00550,K668_RS00550,K668_00530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161611,K668_RS00555,K668_RS00555,K668_00535,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161612,K668_RS00560,K668_RS00560,K668_00540,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161613,K668_RS00565,K668_RS00565,K668_00545,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161614,K668_RS00570,K668_RS00570,K668_00550,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210123,-
+1316930,57161615,K668_RS00575,K668_RS00575,K668_00555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161616,K668_RS00580,K668_RS00580,K668_00560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161617,K668_RS00585,K668_RS00585,K668_00565,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201228,-
+1316930,57161618,K668_RS00590,K668_RS00590,K668_00570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161619,K668_RS00595,K668_RS00595,K668_00575,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20201228,-
+1316930,57161620,K668_RS00600,K668_RS00600,K668_00580,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201228,-
+1316930,57161621,K668_RS00605,K668_RS00605,K668_00585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161622,ybeY,K668_RS00610,K668_00590,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20210123,-
+1316930,57161623,cdd,K668_RS00615,K668_00595,-,-,-,cytidine deaminase,protein-coding,-,-,-,cytidine deaminase,20201228,-
+1316930,57161624,era,K668_RS00620,K668_00600,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20201228,-
+1316930,57161625,K668_RS00625,K668_RS00625,K668_00605,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20210123,-
+1316930,57161626,K668_RS00630,K668_RS00630,K668_00610,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20201228,-
+1316930,57161627,K668_RS00635,K668_RS00635,K668_00615,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161628,K668_RS00640,K668_RS00640,K668_00620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161629,K668_RS00645,K668_RS00645,K668_00625,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20210123,-
+1316930,57161630,K668_RS00650,K668_RS00650,K668_00630,-,-,-,phosphoketolase family protein,protein-coding,-,-,-,phosphoketolase family protein,20201228,-
+1316930,57161631,K668_RS00655,K668_RS00655,K668_00635,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201228,-
+1316930,57161632,pepF,K668_RS00660,K668_00640,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161633,K668_RS00665,K668_RS00665,K668_00645,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161634,K668_RS00670,K668_RS00670,K668_00650,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161635,K668_RS00675,K668_RS00675,K668_00655,-,-,-,spermidine/putrescine ABC transporter permease,protein-coding,-,-,-,spermidine/putrescine ABC transporter permease,20201228,-
+1316930,57161636,K668_RS00680,K668_RS00680,K668_00660,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210123,-
+1316930,57161637,K668_RS00685,K668_RS00685,K668_00665,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201228,-
+1316930,57161638,rpmF,K668_RS00690,K668_00670,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201228,-
+1316930,57161639,K668_RS00695,K668_RS00695,K668_00675,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57161640,thiI,K668_RS00700,K668_00680,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,protein-coding,-,-,-,tRNA 4-thiouridine(8) synthase ThiI,20201228,-
+1316930,57161641,K668_RS00705,K668_RS00705,K668_00685,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161642,K668_RS00710,K668_RS00710,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161643,K668_RS00715,K668_RS00715,K668_00700,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210123,-
+1316930,57161644,K668_RS00720,K668_RS00720,K668_00705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161645,K668_RS00725,K668_RS00725,K668_00710,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201228,-
+1316930,57161646,K668_RS00730,K668_RS00730,K668_00715,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20201228,-
+1316930,57161647,K668_RS00735,K668_RS00735,K668_00720,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20201228,-
+1316930,57161648,K668_RS00740,K668_RS00740,K668_00725,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20201228,-
+1316930,57161649,K668_RS00745,K668_RS00745,K668_00730,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20201228,-
+1316930,57161650,K668_RS00750,K668_RS00750,K668_00735,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20201228,-
+1316930,57161651,K668_RS00755,K668_RS00755,K668_00740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161652,pyk,K668_RS00760,K668_00745,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20201228,-
+1316930,57161653,K668_RS00765,K668_RS00765,K668_00750,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161654,dnaK,K668_RS00770,K668_00755,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201228,-
+1316930,57161655,trmFO,K668_RS00775,K668_00760,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,protein-coding,-,-,-,methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,20210123,-
+1316930,57161656,K668_RS00780,K668_RS00780,K668_00765,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57161657,K668_RS00785,K668_RS00785,K668_00770,-,-,-,lactate dehydrogenase,protein-coding,-,-,-,lactate dehydrogenase,20201228,-
+1316930,57161658,K668_RS00790,K668_RS00790,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161659,K668_RS00795,K668_RS00795,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161660,K668_RS00800,K668_RS00800,K668_00795,-,-,-,DEAD/DEAH box helicase family protein,protein-coding,-,-,-,DEAD/DEAH box helicase family protein,20210123,-
+1316930,57161661,K668_RS00805,K668_RS00805,K668_00800,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201228,-
+1316930,57161662,K668_RS00810,K668_RS00810,K668_00805,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201228,-
+1316930,57161663,tig,K668_RS00820,K668_00815,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20201228,-
+1316930,57161664,K668_RS00825,K668_RS00825,K668_00825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161665,K668_RS00830,K668_RS00830,K668_00830,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161666,K668_RS00835,K668_RS00835,K668_00835,-,-,-,IS30-like element ISMbov1 family transposase,protein-coding,-,-,-,IS30-like element ISMbov1 family transposase,20210123,-
+1316930,57161667,K668_RS00840,K668_RS00840,K668_00840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161668,K668_RS00855,K668_RS00855,K668_00855,-,-,-,5'-3' exonuclease,protein-coding,-,-,-,5'-3' exonuclease,20201228,-
+1316930,57161669,dnaE,K668_RS00860,K668_00860,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20201228,-
+1316930,57161670,K668_RS00865,K668_RS00865,K668_00865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161671,K668_RS00870,K668_RS00870,K668_00875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161672,K668_RS00875,K668_RS00875,K668_00880,-,-,-,S8 family serine peptidase,protein-coding,-,-,-,S8 family serine peptidase,20201228,-
+1316930,57161673,K668_RS00880,K668_RS00880,K668_00885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161674,mnmG,K668_RS00885,K668_00890,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20201228,-
+1316930,57161675,K668_RS00890,K668_RS00890,K668_00895,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,protein-coding,-,-,-,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,20201228,-
+1316930,57161676,K668_RS00895,K668_RS00895,K668_00900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161677,K668_RS00900,K668_RS00900,K668_00905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161678,rsmD,K668_RS00905,K668_00910,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20201228,-
+1316930,57161679,def,K668_RS00910,K668_00915,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201228,-
+1316930,57161680,K668_RS00915,K668_RS00915,K668_00920,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210123,-
+1316930,57161681,parE,K668_RS00920,K668_00925,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20210123,-
+1316930,57161682,parC,K668_RS00925,K668_00930,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20201228,-
+1316930,57161683,K668_RS00930,K668_RS00930,K668_00935,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201228,-
+1316930,57161684,K668_RS00935,K668_RS00935,K668_00940,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20201228,-
+1316930,57161685,K668_RS00940,K668_RS00940,K668_00945,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20201228,-
+1316930,57161686,K668_RS00945,K668_RS00945,K668_00950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161687,rrf,K668_RS00950,K668_r04086,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201228,-
+1316930,57161688,K668_RS00955,K668_RS00955,K668_00955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161689,rrf,K668_RS00960,K668_r04084,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201228,-
+1316930,57161690,rsmG,K668_RS00965,K668_00960,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20201228,-
+1316930,57161691,K668_RS00970,K668_RS00970,K668_00970,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161692,K668_RS00975,K668_RS00975,K668_00975,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20201228,-
+1316930,57161693,K668_RS00980,K668_RS00980,K668_00980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161694,K668_RS00985,K668_RS00985,K668_00985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161695,K668_RS00990,K668_RS00990,K668_00995,-,-,-,endonuclease,protein-coding,-,-,-,endonuclease,20210123,-
+1316930,57161696,K668_RS00995,K668_RS00995,K668_01000,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201228,-
+1316930,57161697,K668_RS01000,K668_RS01000,K668_01005,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20201228,-
+1316930,57161698,K668_RS01005,K668_RS01005,K668_01010,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201228,-
+1316930,57161699,K668_RS01010,K668_RS01010,K668_01015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161700,K668_RS01015,K668_RS01015,K668_01020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161701,K668_RS01020,K668_RS01020,K668_01025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161702,K668_RS01025,K668_RS01025,K668_01030,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20201228,-
+1316930,57161703,K668_RS01030,K668_RS01030,K668_01035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161704,rpmG,K668_RS01035,K668_01040,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201228,-
+1316930,57161705,tpx,K668_RS01040,K668_01050,-,-,-,thiol peroxidase,protein-coding,-,-,-,thiol peroxidase,20210123,-
+1316930,57161706,K668_RS01045,K668_RS01045,K668_01055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161707,ftsY,K668_RS01050,K668_01060,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20201228,-
+1316930,57161708,K668_RS01055,K668_RS01055,K668_01065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161709,K668_RS01060,K668_RS01060,K668_01070,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201228,-
+1316930,57161710,K668_RS01065,K668_RS01065,K668_01075,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,protein-coding,-,-,-,tRNA1(Val) (adenine(37)-N6)-methyltransferase,20210424,-
+1316930,57161711,rnr,K668_RS01070,K668_01080,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20210123,-
+1316930,57161712,secG,K668_RS01075,K668_01085,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20201228,-
+1316930,57161713,gmk,K668_RS01080,K668_01090,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201228,-
+1316930,57161714,K668_RS01085,K668_RS01085,K668_01095,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20201228,-
+1316930,57161715,K668_RS01090,K668_RS01090,K668_01100,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20201228,-
+1316930,57161716,rsgA,K668_RS01095,K668_01105,-,-,-,ribosome small subunit-dependent GTPase A,protein-coding,-,-,-,ribosome small subunit-dependent GTPase A,20201228,-
+1316930,57161717,K668_RS01100,K668_RS01100,K668_01110,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201228,-
+1316930,57161718,K668_RS01115,K668_RS01115,K668_01130,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201228,-
+1316930,57161719,K668_RS01120,K668_RS01120,K668_01135,-,-,-,transposase,protein-coding,-,-,-,transposase,20210123,-
+1316930,57161720,K668_RS01125,K668_RS01125,K668_01140,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210123,-
+1316930,57161721,K668_RS01130,K668_RS01130,K668_01145,-,-,-,S8 family peptidase,protein-coding,-,-,-,S8 family peptidase,20201228,-
+1316930,57161722,K668_RS01135,K668_RS01135,K668_01150,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20201228,-
+1316930,57161723,K668_RS01140,K668_RS01140,K668_01155,-,-,-,SAM-dependent DNA methyltransferase,protein-coding,-,-,-,SAM-dependent DNA methyltransferase,20201228,-
+1316930,57161724,K668_RS01145,K668_RS01145,K668_01160,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20201228,-
+1316930,57161725,K668_RS01150,K668_RS01150,K668_01165,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20201228,-
+1316930,57161726,K668_RS01155,K668_RS01155,K668_01170,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20201228,-
+1316930,57161727,K668_RS01160,K668_RS01160,K668_01175,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20210123,-
+1316930,57161728,K668_RS01170,K668_RS01170,K668_01185,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20201228,-
+1316930,57161729,K668_RS01175,K668_RS01175,K668_t04024,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161730,K668_RS01180,K668_RS01180,K668_t04026,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161731,K668_RS01185,K668_RS01185,K668_t04028,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161732,K668_RS01190,K668_RS01190,K668_t04030,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161733,K668_RS01195,K668_RS01195,K668_t04032,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161734,K668_RS01200,K668_RS01200,K668_t04034,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161735,K668_RS01205,K668_RS01205,K668_t04036,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161736,K668_RS01210,K668_RS01210,K668_t04038,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161737,K668_RS01215,K668_RS01215,K668_01190,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20201228,-
+1316930,57161738,ileS,K668_RS01220,K668_01195,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20201228,-
+1316930,57161739,K668_RS01225,K668_RS01225,K668_01200,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20210123,-
+1316930,57161740,K668_RS01230,K668_RS01230,K668_01205,-,-,-,transposase,protein-coding,-,-,-,transposase,20210123,-
+1316930,57161741,K668_RS01235,K668_RS01235,K668_01210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161742,K668_RS01240,K668_RS01240,K668_t04040,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161743,K668_RS01245,K668_RS01245,K668_t04042,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161744,K668_RS01250,K668_RS01250,K668_t04044,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161745,K668_RS01255,K668_RS01255,K668_t04046,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161746,K668_RS01260,K668_RS01260,K668_t04048,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161747,ruvA,K668_RS01265,K668_01220,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20201228,-
+1316930,57161748,ruvB,K668_RS01270,K668_01225,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20201228,-
+1316930,57161749,K668_RS01275,K668_RS01275,K668_01230,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57161750,truB,K668_RS01280,K668_01235,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20201228,-
+1316930,57161751,K668_RS01285,K668_RS01285,K668_01240,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20201228,-
+1316930,57161752,K668_RS01290,K668_RS01290,K668_01245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161753,rpsO,K668_RS01295,K668_01250,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20201228,-
+1316930,57161754,K668_RS01300,K668_RS01300,K668_01255,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57161755,K668_RS01305,K668_RS01305,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161756,K668_RS01310,K668_RS01310,K668_01270,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201228,-
+1316930,57161757,K668_RS01315,K668_RS01315,K668_01275,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201228,-
+1316930,57161758,K668_RS01320,K668_RS01320,K668_01280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161759,K668_RS01325,K668_RS01325,K668_01285,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161760,K668_RS01330,K668_RS01330,K668_01290,-,-,-,DHH family phosphoesterase,protein-coding,-,-,-,DHH family phosphoesterase,20201228,-
+1316930,57161761,K668_RS01335,K668_RS01335,K668_01295,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201228,-
+1316930,57161762,dnaB,K668_RS01340,K668_01300,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20201228,-
+1316930,57161763,K668_RS01345,K668_RS01345,K668_01305,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20201228,-
+1316930,57161764,K668_RS01350,K668_RS01350,K668_t04050,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161765,K668_RS01355,K668_RS01355,K668_01310,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161766,K668_RS01360,K668_RS01360,K668_01315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161767,K668_RS01365,K668_RS01365,K668_01320,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161768,K668_RS01370,K668_RS01370,K668_01325,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20201228,-
+1316930,57161769,K668_RS01375,K668_RS01375,K668_01330,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161770,K668_RS01380,K668_RS01380,K668_01335,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20201228,-
+1316930,57161771,K668_RS01385,K668_RS01385,K668_01340,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210123,-
+1316930,57161772,K668_RS01390,K668_RS01390,K668_01345,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20210123,-
+1316930,57161773,rmuC,K668_RS01395,K668_01350,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210123,-
+1316930,57161774,K668_RS01400,K668_RS01400,K668_01355,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20210123,-
+1316930,57161775,K668_RS01405,K668_RS01405,K668_01360,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20210123,-
+1316930,57161776,K668_RS01410,K668_RS01410,K668_01365,-,-,-,leucine-rich repeat protein,protein-coding,-,-,-,leucine-rich repeat protein,20201228,-
+1316930,57161777,K668_RS01415,K668_RS01415,K668_01370,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20201228,-
+1316930,57161778,K668_RS01420,K668_RS01420,K668_01375,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20201228,-
+1316930,57161779,rpsB,K668_RS01425,K668_01380,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20201228,-
+1316930,57161780,K668_RS01430,K668_RS01430,K668_01385,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201228,-
+1316930,57161781,K668_RS01435,K668_RS01435,K668_01390,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20201228,-
+1316930,57161782,K668_RS01440,K668_RS01440,K668_01395,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20210123,-
+1316930,57161783,K668_RS01445,K668_RS01445,K668_01400,-,-,-,IS1634-like element ISMbov3 family transposase,protein-coding,-,-,-,IS1634-like element ISMbov3 family transposase,20210123,-
+1316930,57161784,K668_RS01450,K668_RS01450,K668_01405,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20210123,-
+1316930,57161785,K668_RS01455,K668_RS01455,K668_01410,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20210123,-
+1316930,57161786,K668_RS01460,K668_RS01460,K668_01415,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20201228,-
+1316930,57161787,dnaG,K668_RS01465,K668_01420,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20201228,-
+1316930,57161788,K668_RS01470,K668_RS01470,K668_01425,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201228,-
+1316930,57161789,K668_RS01475,K668_RS01475,K668_01430,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210123,-
+1316930,57161790,K668_RS01480,K668_RS01480,K668_01435,-,-,-,alkylphosphonate ABC transporter substrate-binding protein,protein-coding,-,-,-,alkylphosphonate ABC transporter substrate-binding protein,20201228,-
+1316930,57161791,K668_RS01485,K668_RS01485,K668_01440,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201228,-
+1316930,57161792,K668_RS01490,K668_RS01490,K668_01445,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210123,-
+1316930,57161793,K668_RS01495,K668_RS01495,K668_01450,-,-,-,DUF2188 domain-containing protein,protein-coding,-,-,-,DUF2188 domain-containing protein,20201228,-
+1316930,57161794,secA,K668_RS01500,K668_01455,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20201228,-
+1316930,57161795,K668_RS01505,K668_RS01505,K668_01460,-,-,-,zinc-dependent alcohol dehydrogenase family protein,protein-coding,-,-,-,zinc-dependent alcohol dehydrogenase family protein,20201228,-
+1316930,57161796,topA,K668_RS01510,K668_01465,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20210424,-
+1316930,57161797,rpsF,K668_RS01515,K668_01470,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20201228,-
+1316930,57161798,K668_RS01520,K668_RS01520,K668_01475,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210123,-
+1316930,57161799,K668_RS01525,K668_RS01525,K668_01480,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201228,-
+1316930,57161800,K668_RS01530,K668_RS01530,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161801,K668_RS01535,K668_RS01535,K668_01495,-,-,-,IS30-like element ISMbov1 family transposase,protein-coding,-,-,-,IS30-like element ISMbov1 family transposase,20210123,-
+1316930,57161802,K668_RS01540,K668_RS01540,K668_01500,-,-,-,Sua5/YciO/YrdC/YwlC family protein,protein-coding,-,-,-,Sua5/YciO/YrdC/YwlC family protein,20210123,-
+1316930,57161803,K668_RS01545,K668_RS01545,K668_01505,-,-,-,APC family permease,protein-coding,-,-,-,APC family permease,20210123,-
+1316930,57161804,K668_RS01550,K668_RS01550,K668_01510,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20201228,-
+1316930,57161805,aspS,K668_RS01555,K668_01515,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20201228,-
+1316930,57161806,K668_RS01565,K668_RS01565,K668_01525,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20201228,-
+1316930,57161807,glpK,K668_RS01570,K668_01530,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20201228,-
+1316930,57161808,K668_RS01575,K668_RS01575,K668_01535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161809,K668_RS01580,K668_RS01580,K668_01540,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201228,-
+1316930,57161810,K668_RS01585,K668_RS01585,K668_01545,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201228,-
+1316930,57161811,recO,K668_RS01590,K668_01550,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20210123,-
+1316930,57161812,K668_RS01595,K668_RS01595,K668_01555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161813,K668_RS01600,K668_RS01600,K668_01560,-,-,-,DAK2 domain-containing protein,protein-coding,-,-,-,DAK2 domain-containing protein,20201228,-
+1316930,57161814,plsX,K668_RS01605,K668_01565,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20201228,-
+1316930,57161815,rnc,K668_RS01610,K668_01570,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20201228,-
+1316930,57161816,K668_RS01615,K668_RS01615,K668_01575,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201228,-
+1316930,57161817,K668_RS01620,K668_RS01620,K668_01580,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201228,-
+1316930,57161818,K668_RS01625,K668_RS01625,K668_01585,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20210123,-
+1316930,57161819,K668_RS01630,K668_RS01630,K668_01590,-,-,-,DNA-processing protein DprA,protein-coding,-,-,-,DNA-processing protein DprA,20201228,-
+1316930,57161820,K668_RS01635,K668_RS01635,K668_01595,-,-,-,zinc-dependent alcohol dehydrogenase,protein-coding,-,-,-,zinc-dependent alcohol dehydrogenase,20201228,-
+1316930,57161821,K668_RS01640,K668_RS01640,K668_01600,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210116,-
+1316930,57161822,K668_RS01645,K668_RS01645,K668_01605,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20201228,-
+1316930,57161823,K668_RS01650,K668_RS01650,K668_01610,-,-,-,multifunctional lipase MilA,protein-coding,-,-,-,multifunctional lipase MilA,20210123,-
+1316930,57161824,K668_RS01655,K668_RS01655,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161825,K668_RS01665,K668_RS01665,K668_01635,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210116,-
+1316930,57161826,K668_RS01670,K668_RS01670,K668_01645,-,-,-,IS30-like element ISMbov1 family transposase,protein-coding,-,-,-,IS30-like element ISMbov1 family transposase,20210123,-
+1316930,57161827,K668_RS01675,K668_RS01675,K668_01650,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161828,K668_RS01680,K668_RS01680,K668_01655,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161829,K668_RS01685,K668_RS01685,K668_01660,-,-,-,zinc-dependent alcohol dehydrogenase,protein-coding,-,-,-,zinc-dependent alcohol dehydrogenase,20201228,-
+1316930,57161830,K668_RS01690,K668_RS01690,K668_01665,-,-,-,HNH endonuclease,protein-coding,-,-,-,HNH endonuclease,20201228,-
+1316930,57161831,K668_RS01695,K668_RS01695,K668_01670,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20201228,-
+1316930,57161832,K668_RS01700,K668_RS01700,K668_01675,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161833,K668_RS01730,K668_RS01730,K668_01705,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201228,-
+1316930,57161834,K668_RS01735,K668_RS01735,K668_01710,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210123,-
+1316930,57161835,K668_RS01740,K668_RS01740,K668_01715,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20210123,-
+1316930,57161836,K668_RS01745,K668_RS01745,K668_01720,-,-,-,IS1634-like element ISMbov2 family transposase,protein-coding,-,-,-,IS1634-like element ISMbov2 family transposase,20210212,-
+1316930,57161837,K668_RS01750,K668_RS01750,K668_01725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+1316930,57161838,K668_RS01755,K668_RS01755,K668_01730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161839,K668_RS01760,K668_RS01760,K668_01735,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20201228,-
+1316930,57161840,mnmA,K668_RS01765,K668_01740,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20201228,-
+1316930,57161841,alaS,K668_RS01770,K668_01745,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20201228,-
+1316930,57161842,ruvX,K668_RS01775,K668_01750,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20210123,-
+1316930,57161843,K668_RS01780,K668_RS01780,K668_01755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161844,K668_RS01785,K668_RS01785,K668_01760,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210123,-
+1316930,57161845,K668_RS01790,K668_RS01790,K668_01765,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20201228,-
+1316930,57161846,K668_RS01795,K668_RS01795,K668_01770,-,-,-,SocA family protein,protein-coding,-,-,-,SocA family protein,20201228,-
+1316930,57161847,K668_RS01800,K668_RS01800,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161848,K668_RS01805,K668_RS01805,K668_01785,-,-,-,transposase,protein-coding,-,-,-,transposase,20201228,-
+1316930,57161850,K668_RS01815,K668_RS01815,K668_01795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161851,K668_RS01820,K668_RS01820,K668_01805,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161852,K668_RS01825,K668_RS01825,K668_01810,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20201228,-
+1316930,57161853,K668_RS01830,K668_RS01830,K668_01815,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161854,K668_RS01835,K668_RS01835,K668_01820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161855,K668_RS01840,K668_RS01840,K668_01825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161856,K668_RS01845,K668_RS01845,K668_01830,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210123,-
+1316930,57161857,K668_RS01850,K668_RS01850,K668_01835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161858,K668_RS01855,K668_RS01855,K668_01840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161859,K668_RS01860,K668_RS01860,K668_01850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161860,K668_RS01865,K668_RS01865,K668_01855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161861,K668_RS01870,K668_RS01870,K668_01860,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210123,-
+1316930,57161862,K668_RS01875,K668_RS01875,K668_01865,-,-,-,conjugal transfer protein TraE,protein-coding,-,-,-,conjugal transfer protein TraE,20210123,-
+1316930,57161863,K668_RS01880,K668_RS01880,K668_01870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161864,K668_RS01885,K668_RS01885,K668_01875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161865,K668_RS01890,K668_RS01890,K668_01880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161866,K668_RS01895,K668_RS01895,K668_01885,-,-,-,UPF0236 family protein,protein-coding,-,-,-,UPF0236 family protein,20210123,-
+1316930,57161867,greA,K668_RS01900,K668_01890,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201228,-
+1316930,57161868,hpt,K668_RS01905,K668_01895,-,-,-,hypoxanthine phosphoribosyltransferase,protein-coding,-,-,-,hypoxanthine phosphoribosyltransferase,20201228,-
+1316930,57161869,K668_RS01910,K668_RS01910,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161870,K668_RS01915,K668_RS01915,K668_t04052,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161871,ychF,K668_RS01920,K668_01900,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20201228,-
+1316930,57161872,K668_RS01925,K668_RS01925,K668_01905,-,-,-,DUF45 domain-containing protein,protein-coding,-,-,-,DUF45 domain-containing protein,20210123,-
+1316930,57161873,K668_RS01930,K668_RS01930,K668_01910,-,-,-,NERD domain-containing protein,protein-coding,-,-,-,NERD domain-containing protein,20210123,-
+1316930,57161874,uvrA,K668_RS01935,K668_01915,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20201228,-
+1316930,57161875,uvrB,K668_RS01940,K668_01920,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20201228,-
+1316930,57161876,K668_RS01945,K668_RS01945,K668_01925,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20201228,-
+1316930,57161877,K668_RS01950,K668_RS01950,K668_01930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161878,K668_RS01955,K668_RS01955,K668_01935,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20201228,-
+1316930,57161879,K668_RS01960,K668_RS01960,K668_01940,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161880,K668_RS01965,K668_RS01965,K668_01945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161881,K668_RS01970,K668_RS01970,K668_01950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161882,K668_RS01975,K668_RS01975,K668_01960,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20201228,-
+1316930,57161883,mraZ,K668_RS01980,K668_01965,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20201228,-
+1316930,57161884,rsmH,K668_RS01985,K668_01970,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20201228,-
+1316930,57161885,K668_RS01990,K668_RS01990,K668_01975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161886,K668_RS01995,K668_RS01995,K668_01980,-,-,-,cell division FtsZ family protein,protein-coding,-,-,-,cell division FtsZ family protein,20201228,-
+1316930,57161887,K668_RS02000,K668_RS02000,K668_01985,-,-,-,glycine cleavage system protein H,protein-coding,-,-,-,glycine cleavage system protein H,20210123,-
+1316930,57161888,K668_RS02005,K668_RS02005,K668_01990,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20201228,-
+1316930,57161889,K668_RS02010,K668_RS02010,K668_01995,-,-,-,M13 family metallopeptidase,protein-coding,-,-,-,M13 family metallopeptidase,20201228,-
+1316930,57161890,K668_RS02015,K668_RS02015,K668_02000,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201228,-
+1316930,57161891,upp,K668_RS02020,K668_02005,-,-,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20201228,-
+1316930,57161892,K668_RS02025,K668_RS02025,K668_02010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161893,K668_RS02030,K668_RS02030,K668_02015,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20201228,-
+1316930,57161894,lon,K668_RS02035,K668_02020,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210522,-
+1316930,57161895,K668_RS02040,K668_RS02040,K668_02025,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,glycerol-3-phosphate acyltransferase,20201228,-
+1316930,57161896,K668_RS02045,K668_RS02045,K668_02030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161897,K668_RS02050,K668_RS02050,K668_02035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161898,K668_RS02055,K668_RS02055,K668_02040,-,-,-,ATP synthase F1 subunit epsilon,protein-coding,-,-,-,ATP synthase F1 subunit epsilon,20201228,-
+1316930,57161899,atpD,K668_RS02060,K668_02045,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201228,-
+1316930,57161900,K668_RS02065,K668_RS02065,K668_02050,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20201228,-
+1316930,57161901,K668_RS02070,K668_RS02070,K668_02055,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20201228,-
+1316930,57161902,atpH,K668_RS02075,K668_02060,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20210123,-
+1316930,57161903,atpF,K668_RS02080,K668_02065,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20201228,-
+1316930,57161904,atpE,K668_RS02085,K668_02070,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20201228,-
+1316930,57161905,K668_RS02090,K668_RS02090,K668_02075,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201228,-
+1316930,57161907,K668_RS02100,K668_RS02100,K668_02085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161908,K668_RS02105,K668_RS02105,K668_02090,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20201228,-
+1316930,57161909,K668_RS02110,K668_RS02110,K668_02095,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201228,-
+1316930,57161910,K668_RS02115,K668_RS02115,K668_02100,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161911,K668_RS02120,K668_RS02120,K668_02105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161912,K668_RS02125,K668_RS02125,K668_02110,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201228,-
+1316930,57161913,trpS,K668_RS02130,K668_02115,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20201228,-
+1316930,57161914,K668_RS02135,K668_RS02135,K668_02120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161915,K668_RS02140,K668_RS02140,K668_02125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161916,K668_RS02145,K668_RS02145,K668_02130,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161917,K668_RS02150,K668_RS02150,K668_02135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161918,K668_RS02155,K668_RS02155,K668_02140,-,-,-,transposase,protein-coding,-,-,-,transposase,20201228,-
+1316930,57161919,K668_RS02160,K668_RS02160,K668_02145,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210123,-
+1316930,57161920,K668_RS02165,K668_RS02165,K668_02150,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201228,-
+1316930,57161921,K668_RS02175,K668_RS02175,K668_02160,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20201228,-
+1316930,57161922,K668_RS02180,K668_RS02180,K668_02165,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20201228,-
+1316930,57161923,K668_RS02185,K668_RS02185,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161924,K668_RS02190,K668_RS02190,K668_02180,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210123,-
+1316930,57161925,K668_RS02195,K668_RS02195,K668_02185,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210123,-
+1316930,57161926,K668_RS02200,K668_RS02200,K668_02190,-,-,-,PTS transporter subunit EIIB,protein-coding,-,-,-,PTS transporter subunit EIIB,20210123,-
+1316930,57161927,K668_RS02205,K668_RS02205,K668_02195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161928,tsaD,K668_RS02210,K668_02200,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20201228,-
+1316930,57161929,K668_RS02215,K668_RS02215,K668_02205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161930,tsaE,K668_RS02220,K668_02210,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20210123,-
+1316930,57161931,tuf,K668_RS02225,K668_02215,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201228,-
+1316930,57161932,eno,K668_RS02230,K668_02220,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201228,-
+1316930,57161933,K668_RS02235,K668_RS02235,K668_02225,-,-,-,S1 RNA-binding domain-containing protein,protein-coding,-,-,-,S1 RNA-binding domain-containing protein,20210123,-
+1316930,57161934,K668_RS02240,K668_RS02240,K668_02230,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201228,-
+1316930,57161935,K668_RS02245,K668_RS02245,K668_02235,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201228,-
+1316930,57161936,mutM,K668_RS02250,K668_02240,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20201228,-
+1316930,57161937,K668_RS02255,K668_RS02255,K668_02245,-,-,-,Smr/MutS family protein,protein-coding,-,-,-,Smr/MutS family protein,20210123,-
+1316930,57161938,msrB,K668_RS02260,K668_02250,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,protein-coding,-,-,-,peptide-methionine (R)-S-oxide reductase MsrB,20201228,-
+1316930,57161939,K668_RS02265,K668_RS02265,K668_02255,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20210123,-
+1316930,57161940,K668_RS02270,K668_RS02270,K668_02260,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161941,K668_RS02275,K668_RS02275,K668_02265,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161942,K668_RS02280,K668_RS02280,K668_t04054,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161943,K668_RS02285,K668_RS02285,K668_02270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161944,efp,K668_RS02290,K668_02275,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201228,-
+1316930,57161945,K668_RS02295,K668_RS02295,K668_02280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161946,mgtE,K668_RS02300,K668_02285,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201228,-
+1316930,57161947,K668_RS02305,K668_RS02305,K668_02290,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,protein-coding,-,-,-,DNA integrity scanning protein DisA nucleotide-binding domain protein,20210123,-
+1316930,57161948,K668_RS02310,K668_RS02310,K668_02295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161949,K668_RS02315,K668_RS02315,K668_02300,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210123,-
+1316930,57161950,asnS,K668_RS02320,K668_02305,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20201228,-
+1316930,57161951,K668_RS02325,K668_RS02325,K668_02310,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20210123,-
+1316930,57161952,K668_RS02330,K668_RS02330,K668_02315,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161953,K668_RS02335,K668_RS02335,K668_02320,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201228,-
+1316930,57161954,K668_RS02340,K668_RS02340,K668_02325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161955,K668_RS02345,K668_RS02345,K668_02330,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20210123,-
+1316930,57161956,K668_RS02350,K668_RS02350,K668_02335,-,-,-,DUF31 family protein,protein-coding,-,-,-,DUF31 family protein,20201228,-
+1316930,57161957,K668_RS02355,K668_RS02355,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57161958,K668_RS02360,K668_RS02360,K668_02350,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201228,-
+1316930,57161959,K668_RS02365,K668_RS02365,K668_02355,-,-,-,ATP F0F1 synthase subunit alpha,protein-coding,-,-,-,ATP F0F1 synthase subunit alpha,20201228,-
+1316930,57161960,K668_RS02370,K668_RS02370,K668_02360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161961,K668_RS02375,K668_RS02375,K668_02365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161962,K668_RS02380,K668_RS02380,K668_02370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161963,K668_RS02385,K668_RS02385,K668_02375,-,-,-,DUF2714 domain-containing protein,protein-coding,-,-,-,DUF2714 domain-containing protein,20210123,-
+1316930,57161964,K668_RS02390,K668_RS02390,K668_02380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161965,K668_RS02395,K668_RS02395,K668_02385,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57161966,K668_RS02400,K668_RS02400,K668_02390,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201228,-
+1316930,57161967,K668_RS02405,K668_RS02405,K668_02395,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201228,-
+1316930,57161968,K668_RS02410,K668_RS02410,K668_02400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161969,K668_RS02415,K668_RS02415,K668_02405,-,-,-,putative immunoglobulin-blocking virulence protein,protein-coding,-,-,-,putative immunoglobulin-blocking virulence protein,20201228,-
+1316930,57161970,ligA,K668_RS02420,K668_02410,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201228,-
+1316930,57161971,K668_RS02425,K668_RS02425,K668_02415,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57161972,K668_RS02430,K668_RS02430,K668_02420,-,-,-,phosphopentomutase,protein-coding,-,-,-,phosphopentomutase,20201228,-
+1316930,57161973,whiA,K668_RS02435,K668_02425,-,-,-,DNA-binding protein WhiA,protein-coding,-,-,-,DNA-binding protein WhiA,20210123,-
+1316930,57161974,K668_RS02440,K668_RS02440,K668_02430,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210123,-
+1316930,57161975,K668_RS02445,K668_RS02445,K668_02440,-,-,-,DNA cytosine methyltransferase,protein-coding,-,-,-,DNA cytosine methyltransferase,20210123,-
+1316930,57161976,K668_RS02450,K668_RS02450,K668_02445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161977,K668_RS02455,K668_RS02455,K668_02450,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20201228,-
+1316930,57161978,rplM,K668_RS02460,K668_02455,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201228,-
+1316930,57161979,rpsI,K668_RS02465,K668_02460,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201228,-
+1316930,57161980,K668_RS02470,K668_RS02470,K668_t04056,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161981,K668_RS02475,K668_RS02475,K668_02465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57161982,K668_RS02480,K668_RS02480,K668_02470,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20201228,-
+1316930,57161983,K668_RS02485,K668_RS02485,K668_t04058,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57161984,K668_RS02490,K668_RS02490,K668_02475,-,-,-,cation-transporting P-type ATPase,protein-coding,-,-,-,cation-transporting P-type ATPase,20201228,-
+1316930,57161985,K668_RS02495,K668_RS02495,K668_02480,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161986,K668_RS02500,K668_RS02500,K668_02485,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57161987,K668_RS02505,K668_RS02505,K668_02490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161988,K668_RS02510,K668_RS02510,K668_02495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161989,K668_RS02515,K668_RS02515,K668_02500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161990,K668_RS02520,K668_RS02520,K668_02505,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20201228,-
+1316930,57161991,K668_RS02525,K668_RS02525,K668_02510,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201228,-
+1316930,57161992,K668_RS02530,K668_RS02530,K668_02515,-,-,-,transcription antitermination protein NusB,protein-coding,-,-,-,transcription antitermination protein NusB,20201228,-
+1316930,57161993,K668_RS02535,K668_RS02535,K668_02520,-,-,-,FMN-dependent NADH-azoreductase,protein-coding,-,-,-,FMN-dependent NADH-azoreductase,20210123,-
+1316930,57161994,K668_RS02540,K668_RS02540,K668_02525,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20210123,-
+1316930,57161995,K668_RS02545,K668_RS02545,K668_02530,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57161996,K668_RS02550,K668_RS02550,K668_02535,-,-,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20210123,-
+1316930,57161997,K668_RS02555,K668_RS02555,K668_02540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57161998,K668_RS02560,K668_RS02560,K668_02545,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20210123,-
+1316930,57161999,K668_RS02565,K668_RS02565,K668_02550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162000,K668_RS02570,K668_RS02570,K668_02555,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201228,-
+1316930,57162001,rpmI,K668_RS02575,K668_02560,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20201228,-
+1316930,57162002,rplT,K668_RS02580,K668_02565,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201228,-
+1316930,57162003,K668_RS02585,K668_RS02585,K668_02570,-,-,-,DNA2/NAM7 family helicase,protein-coding,-,-,-,DNA2/NAM7 family helicase,20201228,-
+1316930,57162004,K668_RS02590,K668_RS02590,K668_02575,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162005,K668_RS02595,K668_RS02595,K668_02580,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210123,-
+1316930,57162006,lepA,K668_RS02600,K668_02585,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20201228,-
+1316930,57162007,K668_RS02605,K668_RS02605,K668_02590,-,-,-,phosphotransferase,protein-coding,-,-,-,phosphotransferase,20210123,-
+1316930,57162008,K668_RS02610,K668_RS02610,K668_02595,-,-,-,nitroreductase,protein-coding,-,-,-,nitroreductase,20210123,-
+1316930,57162009,K668_RS02615,K668_RS02615,K668_02600,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57162010,K668_RS02620,K668_RS02620,K668_02605,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162011,K668_RS02625,K668_RS02625,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162012,K668_RS02630,K668_RS02630,K668_02620,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162013,K668_RS02635,K668_RS02635,K668_02625,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20201228,-
+1316930,57162014,K668_RS02640,K668_RS02640,K668_02630,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20201228,-
+1316930,57162015,K668_RS02645,K668_RS02645,K668_02635,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20201228,-
+1316930,57162016,K668_RS02650,K668_RS02650,K668_02640,-,-,-,lactate dehydrogenase,protein-coding,-,-,-,lactate dehydrogenase,20210123,-
+1316930,57162017,K668_RS02655,K668_RS02655,K668_02645,-,-,-,biotin/lipoyl-binding protein,protein-coding,-,-,-,biotin/lipoyl-binding protein,20201228,-
+1316930,57162018,K668_RS02660,K668_RS02660,K668_02650,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20210123,-
+1316930,57162019,K668_RS02665,K668_RS02665,K668_02655,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20210123,-
+1316930,57162020,K668_RS02670,K668_RS02670,K668_02660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162021,K668_RS02675,K668_RS02675,K668_02665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162022,K668_RS02680,K668_RS02680,K668_02670,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201228,-
+1316930,57162023,K668_RS02685,K668_RS02685,K668_02675,-,-,-,IS30 family transposase,protein-coding,-,-,-,IS30 family transposase,20201228,-
+1316930,57162024,K668_RS02690,K668_RS02690,K668_02680,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20201228,-
+1316930,57162025,K668_RS02695,K668_RS02695,K668_02685,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20201228,-
+1316930,57162026,K668_RS02700,K668_RS02700,K668_02690,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57162027,K668_RS02705,K668_RS02705,K668_02695,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20201228,-
+1316930,57162028,K668_RS02710,K668_RS02710,K668_02700,-,-,-,GIY-YIG nuclease family protein,protein-coding,-,-,-,GIY-YIG nuclease family protein,20201228,-
+1316930,57162029,K668_RS02715,K668_RS02715,K668_02705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162030,K668_RS02720,K668_RS02720,K668_02710,-,-,-,P80 family lipoprotein,protein-coding,-,-,-,P80 family lipoprotein,20210123,-
+1316930,57162031,K668_RS02725,K668_RS02725,K668_02715,-,-,-,thermonuclease family protein,protein-coding,-,-,-,thermonuclease family protein,20201228,-
+1316930,57162032,K668_RS02730,K668_RS02730,K668_02720,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201228,-
+1316930,57162033,K668_RS02735,K668_RS02735,K668_02725,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201228,-
+1316930,57162034,K668_RS02740,K668_RS02740,K668_02730,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201228,-
+1316930,57162035,K668_RS02745,K668_RS02745,K668_02735,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162036,K668_RS02750,K668_RS02750,K668_02740,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162037,obgE,K668_RS02755,K668_02745,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201228,-
+1316930,57162038,K668_RS02760,K668_RS02760,K668_02750,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201228,-
+1316930,57162039,deoD,K668_RS02765,K668_02755,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20201228,-
+1316930,57162040,K668_RS02770,K668_RS02770,K668_02760,-,-,-,pyrimidine-nucleoside phosphorylase,protein-coding,-,-,-,pyrimidine-nucleoside phosphorylase,20201228,-
+1316930,57162041,deoC,K668_RS02775,K668_02765,-,-,-,deoxyribose-phosphate aldolase,protein-coding,-,-,-,deoxyribose-phosphate aldolase,20201228,-
+1316930,57162042,tpiA,K668_RS02780,K668_02770,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20201228,-
+1316930,57162043,K668_RS02785,K668_RS02785,K668_02775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162044,K668_RS02790,K668_RS02790,K668_02780,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,protein-coding,-,-,-,energy-coupling factor transporter transmembrane protein EcfT,20210123,-
+1316930,57162045,K668_RS02795,K668_RS02795,K668_02785,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20201228,-
+1316930,57162046,K668_RS02800,K668_RS02800,K668_02790,-,-,-,energy-coupling factor transporter ATPase,protein-coding,-,-,-,energy-coupling factor transporter ATPase,20201228,-
+1316930,57162047,rplQ,K668_RS02805,K668_02795,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201228,-
+1316930,57162048,K668_RS02810,K668_RS02810,K668_02800,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20201228,-
+1316930,57162049,rpsK,K668_RS02815,K668_02805,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201228,-
+1316930,57162050,rpsM,K668_RS02820,K668_02810,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201228,-
+1316930,57162051,rpmJ,K668_RS02825,K668_02815,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201228,-
+1316930,57162052,infA,K668_RS02830,K668_02820,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201228,-
+1316930,57162053,map,K668_RS02835,K668_02825,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20201228,-
+1316930,57162054,K668_RS02840,K668_RS02840,K668_02830,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20201228,-
+1316930,57162055,secY,K668_RS02845,K668_02835,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201228,-
+1316930,57162056,K668_RS02850,K668_RS02850,K668_r04082,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201228,-
+1316930,57162057,K668_RS02855,K668_RS02855,K668_r04080,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201228,-
+1316930,57162058,K668_RS02860,K668_RS02860,K668_02840,-,-,-,histidine acid phosphatase,protein-coding,-,-,-,histidine acid phosphatase,20210123,-
+1316930,57162059,K668_RS02865,K668_RS02865,K668_02845,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20201228,-
+1316930,57162060,K668_RS02870,K668_RS02870,K668_02850,-,-,-,HAD-IIB family hydrolase,protein-coding,-,-,-,HAD-IIB family hydrolase,20210123,-
+1316930,57162061,rplO,K668_RS02875,K668_02855,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20201228,-
+1316930,57162062,rpsE,K668_RS02880,K668_02860,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20201228,-
+1316930,57162063,K668_RS02885,K668_RS02885,K668_02865,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20201228,-
+1316930,57162064,rplF,K668_RS02890,K668_02870,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20210123,-
+1316930,57162065,rpsH,K668_RS02895,K668_02875,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201228,-
+1316930,57162066,K668_RS02900,K668_RS02900,K668_02880,-,-,-,type Z 30S ribosomal protein S14,protein-coding,-,-,-,type Z 30S ribosomal protein S14,20201228,-
+1316930,57162067,rplE,K668_RS02905,K668_02885,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201228,-
+1316930,57162068,K668_RS02910,K668_RS02910,K668_02890,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20201228,-
+1316930,57162069,rplN,K668_RS02915,K668_02895,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201228,-
+1316930,57162070,rpsQ,K668_RS02920,K668_02900,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201228,-
+1316930,57162071,K668_RS02925,K668_RS02925,K668_02905,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201228,-
+1316930,57162072,rplP,K668_RS02930,K668_02910,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201228,-
+1316930,57162073,rpsC,K668_RS02935,K668_02915,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20201228,-
+1316930,57162074,rplV,K668_RS02940,K668_02920,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20201228,-
+1316930,57162075,rpsS,K668_RS02945,K668_02925,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201228,-
+1316930,57162076,rplB,K668_RS02950,K668_02930,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20201228,-
+1316930,57162077,rplW,K668_RS02955,K668_02935,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201228,-
+1316930,57162078,rplD,K668_RS02960,K668_02940,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20201228,-
+1316930,57162079,rplC,K668_RS02965,K668_02945,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20201228,-
+1316930,57162080,rpsJ,K668_RS02970,K668_02950,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201228,-
+1316930,57162081,K668_RS02975,K668_RS02975,K668_02955,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201228,-
+1316930,57162082,recU,K668_RS02980,K668_02960,-,-,-,Holliday junction resolvase RecU,protein-coding,-,-,-,Holliday junction resolvase RecU,20201228,-
+1316930,57162083,recA,K668_RS02985,K668_02965,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201228,-
+1316930,57162084,K668_RS02990,K668_RS02990,K668_02970,-,-,-,YmdB family metallophosphoesterase,protein-coding,-,-,-,YmdB family metallophosphoesterase,20210123,-
+1316930,57162085,K668_RS02995,K668_RS02995,K668_02975,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20201228,-
+1316930,57162086,K668_RS03000,K668_RS03000,K668_02980,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201228,-
+1316930,57162087,rpmA,K668_RS03005,K668_02985,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20201228,-
+1316930,57162088,rplU,K668_RS03010,K668_02990,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201228,-
+1316930,57162089,K668_RS03015,K668_RS03015,K668_02995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162090,K668_RS03020,K668_RS03020,K668_03000,-,-,-,MscL family protein,protein-coding,-,-,-,MscL family protein,20210123,-
+1316930,57162091,grpE,K668_RS03025,K668_03005,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210123,-
+1316930,57162092,hrcA,K668_RS03030,K668_03010,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20201228,-
+1316930,57162093,rpmE,K668_RS03035,K668_03015,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20201228,-
+1316930,57162094,rpsD,K668_RS03040,K668_03020,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201228,-
+1316930,57162095,K668_RS03045,K668_RS03045,K668_03025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162096,gyrA,K668_RS03050,K668_03030,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20201228,-
+1316930,57162097,K668_RS03055,K668_RS03055,K668_03035,-,-,-,DUF4011 domain-containing protein,protein-coding,-,-,-,DUF4011 domain-containing protein,20201228,-
+1316930,57162098,K668_RS03060,K668_RS03060,K668_03040,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20201228,-
+1316930,57162099,K668_RS03065,K668_RS03065,K668_03045,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20201228,-
+1316930,57162100,K668_RS03070,K668_RS03070,K668_03050,-,-,-,type I restriction endonuclease subunit R,protein-coding,-,-,-,type I restriction endonuclease subunit R,20201228,-
+1316930,57162101,K668_RS03075,K668_RS03075,K668_03055,-,-,-,restriction endonuclease subunit S,protein-coding,-,-,-,restriction endonuclease subunit S,20201228,-
+1316930,57162102,K668_RS03080,K668_RS03080,K668_03060,-,-,-,type I restriction-modification system subunit M,protein-coding,-,-,-,type I restriction-modification system subunit M,20210123,-
+1316930,57162103,K668_RS03085,K668_RS03085,K668_03065,-,-,-,IS1634-like element ISMbov2 family transposase,protein-coding,-,-,-,IS1634-like element ISMbov2 family transposase,20210212,-
+1316930,57162104,K668_RS03090,K668_RS03090,K668_03070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162105,K668_RS03095,K668_RS03095,K668_03075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162106,K668_RS03100,K668_RS03100,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162107,K668_RS03105,K668_RS03105,K668_03085,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20201228,-
+1316930,57162108,K668_RS03110,K668_RS03110,K668_03090,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20210123,-
+1316930,57162109,K668_RS03115,K668_RS03115,K668_03095,-,-,-,peptidase S41,protein-coding,-,-,-,peptidase S41,20201228,-
+1316930,57162110,K668_RS03120,K668_RS03120,K668_03100,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20201228,-
+1316930,57162111,K668_RS03125,K668_RS03125,K668_03105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162112,K668_RS03135,K668_RS03135,K668_03115,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20201228,-
+1316930,57162113,K668_RS03140,K668_RS03140,K668_03120,-,-,-,YwaF family protein,protein-coding,-,-,-,YwaF family protein,20201228,-
+1316930,57162114,ffh,K668_RS03145,K668_03125,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201228,-
+1316930,57162115,K668_RS03150,K668_RS03150,K668_03130,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20201228,-
+1316930,57162116,K668_RS03155,K668_RS03155,K668_03135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162117,K668_RS03160,K668_RS03160,K668_03140,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20201228,-
+1316930,57162118,K668_RS03165,K668_RS03165,K668_03145,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201228,-
+1316930,57162119,K668_RS03170,K668_RS03170,K668_t04060,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162120,K668_RS03175,K668_RS03175,K668_03150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162121,K668_RS03180,K668_RS03180,K668_03155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162122,K668_RS03185,K668_RS03185,K668_03160,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210123,-
+1316930,57162123,K668_RS03190,K668_RS03190,K668_03165,-,-,-,endonuclease/exonuclease/phosphatase family protein,protein-coding,-,-,-,endonuclease/exonuclease/phosphatase family protein,20201228,-
+1316930,57162124,K668_RS03195,K668_RS03195,K668_03170,-,-,-,bifunctional metallophosphatase/5'-nucleotidase,protein-coding,-,-,-,bifunctional metallophosphatase/5'-nucleotidase,20210123,-
+1316930,57162125,fusA,K668_RS03200,K668_03175,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20201228,-
+1316930,57162126,rpsG,K668_RS03205,K668_03180,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201228,-
+1316930,57162127,rpsL,K668_RS03210,K668_03185,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201228,-
+1316930,57162128,K668_RS03215,K668_RS03215,K668_03190,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162129,K668_RS03220,K668_RS03220,K668_03195,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20201228,-
+1316930,57162130,K668_RS03230,K668_RS03230,K668_03210,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57162131,K668_RS03245,K668_RS03245,K668_t04062,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162132,K668_RS03250,K668_RS03250,K668_t04064,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162133,K668_RS03255,K668_RS03255,K668_03235,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57162134,K668_RS03260,K668_RS03260,K668_03240,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57162135,K668_RS03265,K668_RS03265,K668_03245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162136,K668_RS03270,K668_RS03270,K668_03250,-,-,-,YneF family protein,protein-coding,-,-,-,YneF family protein,20201228,-
+1316930,57162137,K668_RS03275,K668_RS03275,K668_03255,-,-,-,M42 family peptidase,protein-coding,-,-,-,M42 family peptidase,20210123,-
+1316930,57162138,K668_RS03280,K668_RS03280,K668_03260,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20210123,-
+1316930,57162139,K668_RS03285,K668_RS03285,K668_03265,-,-,-,multifunctional lipase MilA,protein-coding,-,-,-,multifunctional lipase MilA,20201228,-
+1316930,57162140,rpoC,K668_RS03290,K668_03270,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20201228,-
+1316930,57162141,K668_RS03295,K668_RS03295,K668_03275,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20201228,-
+1316930,57162142,K668_RS03300,K668_RS03300,K668_03280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162143,rplL,K668_RS03305,K668_03285,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201228,-
+1316930,57162144,K668_RS03310,K668_RS03310,K668_03290,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210522,-
+1316930,57162145,K668_RS03315,K668_RS03315,K668_03295,-,-,-,leucine-rich repeat domain-containing protein,protein-coding,-,-,-,leucine-rich repeat domain-containing protein,20210123,-
+1316930,57162146,lysS,K668_RS03320,K668_03300,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201228,-
+1316930,57162147,K668_RS03325,K668_RS03325,K668_03305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162148,K668_RS03330,K668_RS03330,K668_03310,-,-,-,helix-hairpin-helix domain-containing protein,protein-coding,-,-,-,helix-hairpin-helix domain-containing protein,20201228,-
+1316930,57162149,K668_RS03335,K668_RS03335,K668_03315,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201228,-
+1316930,57162150,K668_RS03340,K668_RS03340,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162151,K668_RS03345,K668_RS03345,K668_03330,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20210123,-
+1316930,57162152,K668_RS03350,K668_RS03350,K668_03335,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162153,K668_RS03355,K668_RS03355,K668_03340,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20201228,-
+1316930,57162154,K668_RS03360,K668_RS03360,K668_03345,-,-,-,DNA adenine methylase,protein-coding,-,-,-,DNA adenine methylase,20201228,-
+1316930,57162155,rpsP,K668_RS03365,K668_03350,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20201228,-
+1316930,57162156,trmD,K668_RS03370,K668_03355,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201228,-
+1316930,57162157,rplS,K668_RS03375,K668_03360,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20201228,-
+1316930,57162158,fmt,K668_RS03380,K668_03365,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20201228,-
+1316930,57162159,K668_RS03385,K668_RS03385,K668_03370,-,-,-,flippase-like domain-containing protein,protein-coding,-,-,-,flippase-like domain-containing protein,20210529,-
+1316930,57162160,ptsP,K668_RS03390,K668_03375,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20201228,-
+1316930,57162161,K668_RS03395,K668_RS03395,K668_03380,-,-,-,MurR/RpiR family transcriptional regulator,protein-coding,-,-,-,MurR/RpiR family transcriptional regulator,20201228,-
+1316930,57162162,K668_RS03400,K668_RS03400,K668_03385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162163,K668_RS03405,K668_RS03405,K668_03390,-,-,-,L-ribulose-5-phosphate 4-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 4-epimerase,20201228,-
+1316930,57162164,K668_RS03410,K668_RS03410,K668_03395,-,-,-,L-ribulose-5-phosphate 3-epimerase,protein-coding,-,-,-,L-ribulose-5-phosphate 3-epimerase,20201228,-
+1316930,57162165,K668_RS03415,K668_RS03415,K668_03400,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,protein-coding,-,-,-,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,20201228,-
+1316930,57162166,K668_RS03420,K668_RS03420,K668_03405,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20210123,-
+1316930,57162167,K668_RS03425,K668_RS03425,K668_03410,-,-,-,PTS sugar transporter subunit IIB,protein-coding,-,-,-,PTS sugar transporter subunit IIB,20201228,-
+1316930,57162168,K668_RS03430,K668_RS03430,K668_03415,-,-,-,PTS ascorbate transporter subunit IIC,protein-coding,-,-,-,PTS ascorbate transporter subunit IIC,20201228,-
+1316930,57162169,K668_RS03435,K668_RS03435,K668_03420,-,-,-,phosphotriesterase,protein-coding,-,-,-,phosphotriesterase,20201228,-
+1316930,57162170,K668_RS03440,K668_RS03440,K668_03425,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20210123,-
+1316930,57162171,K668_RS03445,K668_RS03445,K668_03430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162173,K668_RS03465,K668_RS03465,K668_03445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162174,K668_RS03470,K668_RS03470,K668_03450,-,-,-,BspA family leucine-rich repeat surface protein,protein-coding,-,-,-,BspA family leucine-rich repeat surface protein,20210123,-
+1316930,57162175,K668_RS03475,K668_RS03475,K668_03460,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210116,-
+1316930,57162176,K668_RS03485,K668_RS03485,K668_03475,-,-,-,Fic family protein,protein-coding,-,-,-,Fic family protein,20201228,-
+1316930,57162177,K668_RS03495,K668_RS03495,K668_03490,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20201228,-
+1316930,57162178,K668_RS03500,K668_RS03500,K668_03495,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20210123,-
+1316930,57162179,K668_RS03505,K668_RS03505,K668_03500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162180,K668_RS03510,K668_RS03510,K668_03505,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162181,K668_RS03515,K668_RS03515,K668_03510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1316930,57162182,K668_RS03520,K668_RS03520,K668_03515,-,-,-,carbohydrate ABC transporter permease,protein-coding,-,-,-,carbohydrate ABC transporter permease,20201228,-
+1316930,57162183,K668_RS03525,K668_RS03525,K668_03520,-,-,-,sugar ABC transporter permease,protein-coding,-,-,-,sugar ABC transporter permease,20201228,-
+1316930,57162184,K668_RS03530,K668_RS03530,K668_03525,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57162185,K668_RS03535,K668_RS03535,K668_03530,-,-,-,C1 family peptidase,protein-coding,-,-,-,C1 family peptidase,20201228,-
+1316930,57162186,K668_RS03540,K668_RS03540,K668_03535,-,-,-,ZIP family metal transporter,protein-coding,-,-,-,ZIP family metal transporter,20210123,-
+1316930,57162187,K668_RS03545,K668_RS03545,K668_03540,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20201228,-
+1316930,57162188,nadE,K668_RS03550,K668_03545,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20201228,-
+1316930,57162189,K668_RS03555,K668_RS03555,K668_03550,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162190,K668_RS03560,K668_RS03560,K668_03555,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201228,-
+1316930,57162191,rlmD,K668_RS03565,K668_03560,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,protein-coding,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,20201228,-
+1316930,57162192,K668_RS03570,K668_RS03570,K668_03565,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20201228,-
+1316930,57162193,K668_RS03575,K668_RS03575,K668_03570,-,-,-,DnaD domain protein,protein-coding,-,-,-,DnaD domain protein,20201228,-
+1316930,57162194,K668_RS03580,K668_RS03580,K668_03575,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20201228,-
+1316930,57162195,K668_RS03585,K668_RS03585,K668_03580,-,-,-,YigZ family protein,protein-coding,-,-,-,YigZ family protein,20210123,-
+1316930,57162196,K668_RS03590,K668_RS03590,K668_t04066,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162197,K668_RS03595,K668_RS03595,K668_03585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162198,K668_RS03600,K668_RS03600,K668_03590,-,-,-,site-specific DNA-methyltransferase,protein-coding,-,-,-,site-specific DNA-methyltransferase,20210123,-
+1316930,57162199,K668_RS03605,K668_RS03605,K668_03595,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210123,-
+1316930,57162200,K668_RS03610,K668_RS03610,K668_03605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162201,K668_RS03615,K668_RS03615,K668_03610,-,-,-,ATP-binding protein,protein-coding,-,-,-,ATP-binding protein,20210123,-
+1316930,57162202,K668_RS03620,K668_RS03620,K668_03615,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20201228,-
+1316930,57162203,K668_RS03625,K668_RS03625,K668_03620,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20210123,-
+1316930,57162204,K668_RS03630,K668_RS03630,K668_03625,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201228,-
+1316930,57162205,K668_RS03635,K668_RS03635,K668_03630,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20210123,-
+1316930,57162206,K668_RS03640,K668_RS03640,K668_03635,-,-,-,chromate transporter,protein-coding,-,-,-,chromate transporter,20201228,-
+1316930,57162207,trmB,K668_RS03645,K668_03640,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20201228,-
+1316930,57162208,K668_RS03650,K668_RS03650,K668_03645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162209,K668_RS03655,K668_RS03655,K668_03650,-,-,-,DUF402 domain-containing protein,protein-coding,-,-,-,DUF402 domain-containing protein,20210123,-
+1316930,57162210,K668_RS03660,K668_RS03660,K668_03655,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20201228,-
+1316930,57162211,K668_RS03665,K668_RS03665,K668_03660,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20201228,-
+1316930,57162212,rsmI,K668_RS03670,K668_03665,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20201228,-
+1316930,57162213,K668_RS03675,K668_RS03675,K668_03670,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20201228,-
+1316930,57162214,K668_RS03680,K668_RS03680,K668_03675,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20201228,-
+1316930,57162215,recR,K668_RS03685,K668_03680,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20201228,-
+1316930,57162216,K668_RS03690,K668_RS03690,K668_03685,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210123,-
+1316930,57162217,dnaX,K668_RS03695,K668_03690,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20201228,-
+1316930,57162218,K668_RS03700,K668_RS03700,K668_03695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162219,K668_RS03705,K668_RS03705,K668_03700,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20201228,-
+1316930,57162220,K668_RS03710,K668_RS03710,K668_03705,-,-,-,Cof-type HAD-IIB family hydrolase,protein-coding,-,-,-,Cof-type HAD-IIB family hydrolase,20201228,-
+1316930,57162221,K668_RS03715,K668_RS03715,K668_03710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162222,K668_RS03720,K668_RS03720,K668_t04068,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162223,K668_RS03725,K668_RS03725,K668_03715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162224,pgsA,K668_RS03730,K668_03720,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210123,-
+1316930,57162225,K668_RS03735,K668_RS03735,K668_03725,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210123,-
+1316930,57162226,K668_RS03740,K668_RS03740,K668_03730,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162227,K668_RS03745,K668_RS03745,K668_03735,-,-,-,adenine phosphoribosyltransferase,protein-coding,-,-,-,adenine phosphoribosyltransferase,20201228,-
+1316930,57162228,K668_RS03750,K668_RS03750,K668_03740,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20201228,-
+1316930,57162229,K668_RS03755,K668_RS03755,K668_03745,-,-,-,YlxR family protein,protein-coding,-,-,-,YlxR family protein,20210123,-
+1316930,57162230,nusA,K668_RS03760,K668_03750,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201228,-
+1316930,57162231,K668_RS03765,K668_RS03765,K668_03755,-,-,-,ribosome assembly cofactor RimP,protein-coding,-,-,-,ribosome assembly cofactor RimP,20201228,-
+1316930,57162232,K668_RS03770,K668_RS03770,K668_03760,-,-,-,thymidine kinase,protein-coding,-,-,-,thymidine kinase,20201228,-
+1316930,57162233,K668_RS03775,K668_RS03775,K668_03765,-,-,-,leucyl aminopeptidase family protein,protein-coding,-,-,-,leucyl aminopeptidase family protein,20210123,-
+1316930,57162234,K668_RS03780,K668_RS03780,K668_03770,-,-,-,IS30-like element ISMbov1 family transposase,protein-coding,-,-,-,IS30-like element ISMbov1 family transposase,20210123,-
+1316930,57162235,K668_RS03785,K668_RS03785,K668_03775,-,-,-,ECF transporter S component,protein-coding,-,-,-,ECF transporter S component,20201228,-
+1316930,57162237,K668_RS03795,K668_RS03795,K668_03780,-,-,-,site-specific integrase,protein-coding,-,-,-,site-specific integrase,20210212,-
+1316930,57162238,K668_RS03800,K668_RS03800,K668_t04070,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162239,K668_RS03805,K668_RS03805,K668_03785,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20201228,-
+1316930,57162240,K668_RS03810,K668_RS03810,K668_03790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162241,K668_RS03815,K668_RS03815,K668_03795,-,-,-,DUF2779 domain-containing protein,protein-coding,-,-,-,DUF2779 domain-containing protein,20210123,-
+1316930,57162242,K668_RS03820,K668_RS03820,K668_03800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162243,gatB,K668_RS03825,K668_03805,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20201228,-
+1316930,57162244,gatA,K668_RS03830,K668_03810,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20210123,-
+1316930,57162245,K668_RS03835,K668_RS03835,K668_03815,-,-,-,glutamyl-tRNA(Gln) amidotransferase,protein-coding,-,-,-,glutamyl-tRNA(Gln) amidotransferase,20210123,-
+1316930,57162246,K668_RS03840,K668_RS03840,K668_03820,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201228,-
+1316930,57162247,K668_RS03845,K668_RS03845,K668_03825,-,-,-,segregation/condensation protein B,protein-coding,-,-,-,segregation/condensation protein B,20201228,-
+1316930,57162248,K668_RS03850,K668_RS03850,K668_03830,-,-,-,segregation/condensation protein A,protein-coding,-,-,-,segregation/condensation protein A,20201228,-
+1316930,57162249,K668_RS03855,K668_RS03855,K668_03835,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201228,-
+1316930,57162250,K668_RS03860,K668_RS03860,K668_03840,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20210123,-
+1316930,57162251,der,K668_RS03865,K668_03845,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20201228,-
+1316930,57162252,K668_RS03870,K668_RS03870,K668_03850,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201228,-
+1316930,57162253,K668_RS03875,K668_RS03875,K668_03855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162254,K668_RS03880,K668_RS03880,K668_03860,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20201228,-
+1316930,57162255,K668_RS03885,K668_RS03885,K668_t04072,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162256,rbfA,K668_RS03890,K668_03865,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20210123,-
+1316930,57162257,K668_RS03895,K668_RS03895,K668_t04074,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162258,K668_RS03900,K668_RS03900,K668_03870,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201228,-
+1316930,57162259,K668_RS03905,K668_RS03905,K668_03875,-,-,-,tRNA-binding protein,protein-coding,-,-,-,tRNA-binding protein,20201228,-
+1316930,57162260,K668_RS03910,K668_RS03910,K668_03880,-,-,-,DegV family protein,protein-coding,-,-,-,DegV family protein,20201228,-
+1316930,57162261,K668_RS03915,K668_RS03915,K668_t04076,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162262,K668_RS03920,K668_RS03920,K668_03885,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210123,-
+1316930,57162263,prmC,K668_RS03925,K668_03890,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20201228,-
+1316930,57162264,prfA,K668_RS03930,K668_03895,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201228,-
+1316930,57162265,K668_RS03935,K668_RS03935,K668_03900,-,-,-,Fic family protein,protein-coding,-,-,-,Fic family protein,20210123,-
+1316930,57162266,K668_RS03940,K668_RS03940,K668_03905,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201228,-
+1316930,57162267,K668_RS03945,K668_RS03945,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162268,K668_RS03950,K668_RS03950,K668_03915,-,-,-,transposase,protein-coding,-,-,-,transposase,20201228,-
+1316930,57162269,K668_RS03955,K668_RS03955,K668_03920,-,-,-,type IIA DNA topoisomerase subunit B,protein-coding,-,-,-,type IIA DNA topoisomerase subunit B,20201228,-
+1316930,57162270,K668_RS03960,K668_RS03960,K668_03925,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201228,-
+1316930,57162271,smpB,K668_RS03965,K668_03930,-,-,-,SsrA-binding protein,protein-coding,-,-,-,SsrA-binding protein,20201228,-
+1316930,57162272,K668_RS03970,K668_RS03970,K668_03935,-,-,-,DDE-type integrase/transposase/recombinase,protein-coding,-,-,-,DDE-type integrase/transposase/recombinase,20210123,-
+1316930,57162273,K668_RS03975,K668_RS03975,K668_03940,-,-,-,IS1634-like element ISMbov3 family transposase,protein-coding,-,-,-,IS1634-like element ISMbov3 family transposase,20210123,-
+1316930,57162274,K668_RS03980,K668_RS03980,K668_03950,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210123,-
+1316930,57162275,K668_RS03985,K668_RS03985,K668_03955,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210116,-
+1316930,57162276,K668_RS03990,K668_RS03990,K668_03960,-,-,-,LacI family DNA-binding transcriptional regulator,protein-coding,-,-,-,LacI family DNA-binding transcriptional regulator,20201228,-
+1316930,57162277,K668_RS03995,K668_RS03995,K668_03965,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162278,K668_RS04000,K668_RS04000,K668_t04078,-,-,-,tRNA,tRNA,-,-,-,-,20201228,-
+1316930,57162279,K668_RS04005,K668_RS04005,K668_03970,-,-,-,IS3 family transposase,protein-coding,-,-,-,IS3 family transposase,20210123,-
+1316930,57162280,mgtA,K668_RS04010,K668_03975,-,-,-,magnesium-translocating P-type ATPase,protein-coding,-,-,-,magnesium-translocating P-type ATPase,20201228,-
+1316930,57162281,K668_RS04015,K668_RS04015,K668_03980,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201228,-
+1316930,57162282,K668_RS04020,K668_RS04020,K668_03985,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201228,-
+1316930,57162283,ftsH,K668_RS04025,K668_03990,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201228,-
+1316930,57162284,tilS,K668_RS04030,K668_03995,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201228,-
+1316930,57162285,K668_RS04035,K668_RS04035,K668_04000,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20201228,-
+1316930,57162286,K668_RS04040,K668_RS04040,K668_04005,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201228,-
+1316930,57162287,rpmG,K668_RS04045,K668_00215,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201228,-
+1316930,57162288,ssrA,K668_RS04050,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201228,-
+1316930,57162290,K668_RS04060,K668_RS04060,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162291,K668_RS04080,K668_RS04080,K668_01180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,57162292,K668_RS04085,K668_RS04085,K668_01520,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162293,K668_RS04105,K668_RS04105,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162294,rnpB,K668_RS04125,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201228,-
+1316930,57162295,K668_RS04145,K668_RS04145,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162296,dcm,K668_RS04150,K668_03435,-,-,-,DNA (cytosine-5-)-methyltransferase,protein-coding,-,-,-,DNA (cytosine-5-)-methyltransferase,20210123,-
+1316930,57162297,K668_RS04155,K668_RS04155,K668_03485,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162298,ffs,K668_RS04165,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201228,-
+1316930,57162299,K668_RS04170,K668_RS04170,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162300,K668_RS04175,K668_RS04175,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162302,K668_RS04185,K668_RS04185,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162304,K668_RS04195,K668_RS04195,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,57162308,K668_RS04215,K668_RS04215,-,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20201228,-
+1316930,57162310,K668_RS04225,K668_RS04225,K668_02155,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57162313,K668_RS04240,K668_RS04240,K668_03455,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210123,-
+1316930,57162314,K668_RS04245,K668_RS04245,K668_03465,-,-,-,variable surface lipoprotein,protein-coding,-,-,-,variable surface lipoprotein,20210424,-
+1316930,57162316,K668_RS04255,K668_RS04255,K668_03945,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,58119490,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene.,other,-,-,-,-,20201228,-
+1316930,58746459,K668_RS04260,K668_RS04260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746460,K668_RS04265,K668_RS04265,K668_00810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746461,K668_RS04270,K668_RS04270,K668_00820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746462,K668_RS04275,K668_RS04275,K668_00850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746463,K668_RS04280,K668_RS04280,K668_01045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746468,K668_RS04305,K668_RS04305,K668_01700,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746469,K668_RS04310,K668_RS04310,K668_01790,-,-,-,DUF285 domain-containing protein,protein-coding,-,-,-,DUF285 domain-containing protein,20210424,-
+1316930,58746470,K668_RS04315,K668_RS04315,K668_02435,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746473,K668_RS04330,K668_RS04330,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746474,K668_RS04335,K668_RS04335,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,58746475,K668_RS04340,K668_RS04340,K668_03600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201228,-
+1316930,61928924,K668_RS04345,K668_RS04345,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,61928925,K668_RS04350,K668_RS04350,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,61928926,K668_RS04355,K668_RS04355,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-
+1316930,61928927,K668_RS04360,K668_RS04360,-,-,-,-,pseudo,pseudo,-,-,-,-,20201228,-

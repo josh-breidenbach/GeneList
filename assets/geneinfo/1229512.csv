@@ -1,0 +1,624 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1229512,15077176,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Blattabacterium sp. (Panesthia angustipennis spadica) BPAA; Blattabacterium sp. (Panesthia angustipennis spadica) str. BPAA; Blattabacterium sp. (Panesthia angustipennis spadica) strain BPAA).,other,-,-,-,-,20200824,-
+1229512,58741053,nusA,BPAA_RS00005,BPAA_001,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201213,-
+1229512,58741054,infB,BPAA_RS00010,BPAA_002,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20201213,-
+1229512,58741055,aspS,BPAA_RS00015,BPAA_003,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20201213,-
+1229512,58741056,BPAA_RS00020,BPAA_RS00020,BPAA_004,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20201213,-
+1229512,58741057,BPAA_RS00025,BPAA_RS00025,BPAA_005,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20201213,-
+1229512,58741058,BPAA_RS00030,BPAA_RS00030,BPAA_006,-,-,-,NAD(P)H-hydrate dehydratase,protein-coding,-,-,-,NAD(P)H-hydrate dehydratase,20201213,-
+1229512,58741059,lnt,BPAA_RS00035,BPAA_007,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20201213,-
+1229512,58741060,rodA,BPAA_RS00040,BPAA_008,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20201213,-
+1229512,58741061,mrdA,BPAA_RS00045,BPAA_009,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20201213,-
+1229512,58741062,BPAA_RS00050,BPAA_RS00050,BPAA_010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741063,mreC,BPAA_RS00055,BPAA_011,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20201213,-
+1229512,58741064,BPAA_RS00060,BPAA_RS00060,BPAA_012,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20201213,-
+1229512,58741065,folK,BPAA_RS00065,BPAA_013,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,protein-coding,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,20201213,-
+1229512,58741066,BPAA_RS00070,BPAA_RS00070,BPAA_014,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741067,BPAA_RS00075,BPAA_RS00075,BPAA_015,-,-,-,endoribonuclease L-PSP family (translation,protein-coding,-,-,-,endoribonuclease L-PSP family (translation,20201213,-
+1229512,58741068,BPAA_RS00080,BPAA_RS00080,BPAA_016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+1229512,58741069,BPAA_RS00085,BPAA_RS00085,BPAA_017,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20201213,-
+1229512,58741070,truA,BPAA_RS00090,BPAA_018,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20201213,-
+1229512,58741071,BPAA_RS00095,BPAA_RS00095,BPAA_019,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201213,-
+1229512,58741072,BPAA_RS00100,BPAA_RS00100,BPAA_020,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20201213,-
+1229512,58741073,lptB,BPAA_RS00105,BPAA_021,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20201213,-
+1229512,58741074,BPAA_RS00110,BPAA_RS00110,BPAA_022,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20201213,-
+1229512,58741075,mdh,BPAA_RS00115,BPAA_023,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20201213,-
+1229512,58741076,gcvP,BPAA_RS00120,BPAA_024,-,-,-,aminomethyl-transferring glycine dehydrogenase,protein-coding,-,-,-,aminomethyl-transferring glycine dehydrogenase,20201213,-
+1229512,58741077,tsaD,BPAA_RS00125,BPAA_025,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20201213,-
+1229512,58741078,BPAA_RS00130,BPAA_RS00130,BPAA_026,-,-,-,translocation/assembly module TamB domain-containing protein,protein-coding,-,-,-,translocation/assembly module TamB domain-containing protein,20201213,-
+1229512,58741079,BPAA_RS00135,BPAA_RS00135,BPAA_027,-,-,-,Lrp/AsnC family transcriptional regulator,protein-coding,-,-,-,Lrp/AsnC family transcriptional regulator,20201213,-
+1229512,58741080,BPAA_RS00140,BPAA_RS00140,BPAA_028,-,-,-,HDIG domain-containing protein,protein-coding,-,-,-,HDIG domain-containing protein,20201213,-
+1229512,58741081,BPAA_RS00145,BPAA_RS00145,BPAA_029,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741082,BPAA_RS00150,BPAA_RS00150,BPAA_030,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741083,BPAA_RS00155,BPAA_RS00155,BPAA_031,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741084,BPAA_RS00160,BPAA_RS00160,BPAA_032,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20201213,-
+1229512,58741085,BPAA_RS00165,BPAA_RS00165,BPAA_033,-,-,-,oligosaccharide flippase family protein,protein-coding,-,-,-,oligosaccharide flippase family protein,20201213,-
+1229512,58741086,BPAA_RS00170,BPAA_RS00170,BPAA_034,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741087,BPAA_RS00175,BPAA_RS00175,BPAA_035,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20201213,-
+1229512,58741088,BPAA_RS00180,BPAA_RS00180,BPAA_036,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20201213,-
+1229512,58741089,BPAA_RS00185,BPAA_RS00185,BPAA_037,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20201213,-
+1229512,58741090,recA,BPAA_RS00190,BPAA_038,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201213,-
+1229512,58741091,BPAA_RS00195,BPAA_RS00195,BPAA_039,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20201213,-
+1229512,58741092,ccsA,BPAA_RS00200,BPAA_040,-,-,-,cytochrome c biogenesis protein CcsA,protein-coding,-,-,-,cytochrome c biogenesis protein CcsA,20201213,-
+1229512,58741093,BPAA_RS00205,BPAA_RS00205,BPAA_041,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201213,-
+1229512,58741094,alaS,BPAA_RS00210,BPAA_042,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20201213,-
+1229512,58741095,BPAA_RS00215,BPAA_RS00215,BPAA_043,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20201213,-
+1229512,58741096,odhB,BPAA_RS00220,BPAA_044,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,20210417,-
+1229512,58741097,BPAA_RS00225,BPAA_RS00225,BPAA_045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741098,BPAA_RS00230,BPAA_RS00230,BPAA_046,-,-,-,phospholipase/carboxylesterase,protein-coding,-,-,-,phospholipase/carboxylesterase,20201213,-
+1229512,58741099,BPAA_RS00235,BPAA_RS00235,BPAA_047,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201213,-
+1229512,58741100,sucC,BPAA_RS00240,BPAA_048,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20201213,-
+1229512,58741101,BPAA_RS00245,BPAA_RS00245,BPAA_049,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201213,-
+1229512,58741102,BPAA_RS00250,BPAA_RS00250,BPAA_050,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20201213,-
+1229512,58741103,BPAA_RS00255,BPAA_RS00255,BPAA_051,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20201213,-
+1229512,58741104,BPAA_RS00260,BPAA_RS00260,BPAA_052,-,-,-,DUF3127 domain-containing protein,protein-coding,-,-,-,DUF3127 domain-containing protein,20201213,-
+1229512,58741105,BPAA_RS00265,BPAA_RS00265,BPAA_053,-,-,-,SPFH domain-containing protein,protein-coding,-,-,-,SPFH domain-containing protein,20201213,-
+1229512,58741106,BPAA_RS00270,BPAA_RS00270,BPAA_054,-,-,-,DUF59 domain-containing protein,protein-coding,-,-,-,DUF59 domain-containing protein,20201213,-
+1229512,58741107,BPAA_RS00275,BPAA_RS00275,BPAA_055,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201213,-
+1229512,58741108,BPAA_RS00280,BPAA_RS00280,BPAA_056,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201213,-
+1229512,58741109,BPAA_RS00285,BPAA_RS00285,BPAA_057,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20201213,-
+1229512,58741110,BPAA_RS00290,BPAA_RS00290,BPAA_058,-,-,-,4Fe-4S dicluster domain-containing protein,protein-coding,-,-,-,4Fe-4S dicluster domain-containing protein,20210123,-
+1229512,58741111,nrfD,BPAA_RS00295,BPAA_059,-,-,-,polysulfide reductase NrfD,protein-coding,-,-,-,polysulfide reductase NrfD,20201213,-
+1229512,58741112,BPAA_RS00300,BPAA_RS00300,BPAA_060,-,-,-,DUF3341 domain-containing protein,protein-coding,-,-,-,DUF3341 domain-containing protein,20201213,-
+1229512,58741113,BPAA_RS00305,BPAA_RS00305,BPAA_061,-,-,-,cytochrome c,protein-coding,-,-,-,cytochrome c,20210417,-
+1229512,58741114,BPAA_RS00310,BPAA_RS00310,BPAA_062,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741115,BPAA_RS00315,BPAA_RS00315,BPAA_063,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20201213,-
+1229512,58741116,BPAA_RS00320,BPAA_RS00320,BPAA_064,-,-,-,potassium transporter,protein-coding,-,-,-,potassium transporter,20201213,-
+1229512,58741117,tsaB,BPAA_RS00325,BPAA_065,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20201213,-
+1229512,58741118,nadE,BPAA_RS00330,BPAA_066,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20201213,-
+1229512,58741119,folE,BPAA_RS00335,BPAA_067,-,-,-,GTP cyclohydrolase I FolE,protein-coding,-,-,-,GTP cyclohydrolase I FolE,20201213,-
+1229512,58741120,BPAA_RS00340,BPAA_RS00340,BPAA_068,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20201213,-
+1229512,58741121,BPAA_RS00345,BPAA_RS00345,BPAA_069,-,-,-,PLP-dependent transferase,protein-coding,-,-,-,PLP-dependent transferase,20201213,-
+1229512,58741122,atpB,BPAA_RS00350,BPAA_070,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201213,-
+1229512,58741123,atpE,BPAA_RS00355,BPAA_071,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20201213,-
+1229512,58741124,atpF,BPAA_RS00360,BPAA_072,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20201213,-
+1229512,58741125,atpH,BPAA_RS00365,BPAA_073,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20201213,-
+1229512,58741126,BPAA_RS00370,BPAA_RS00370,BPAA_074,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20201213,-
+1229512,58741127,atpG,BPAA_RS00375,BPAA_075,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20201213,-
+1229512,58741128,trpS,BPAA_RS00380,BPAA_076,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20201213,-
+1229512,58741129,BPAA_RS00385,BPAA_RS00385,BPAA_077,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20201213,-
+1229512,58741130,dnaJ,BPAA_RS00390,BPAA_078,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20201213,-
+1229512,58741131,mnmA,BPAA_RS00395,BPAA_079,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20201213,-
+1229512,58741132,ilvD,BPAA_RS00400,BPAA_080,-,-,-,dihydroxy-acid dehydratase,protein-coding,-,-,-,dihydroxy-acid dehydratase,20201213,-
+1229512,58741133,ilvB,BPAA_RS00405,BPAA_081,-,-,-,biosynthetic-type acetolactate synthase large subunit,protein-coding,-,-,-,biosynthetic-type acetolactate synthase large subunit,20201213,-
+1229512,58741134,BPAA_RS00410,BPAA_RS00410,BPAA_082,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741135,ilvC,BPAA_RS00415,BPAA_083,-,-,-,ketol-acid reductoisomerase,protein-coding,-,-,-,ketol-acid reductoisomerase,20201213,-
+1229512,58741136,ilvA,BPAA_RS00420,BPAA_084,-,-,-,threonine ammonia-lyase,protein-coding,-,-,-,threonine ammonia-lyase,20201213,-
+1229512,58741137,BPAA_RS00425,BPAA_RS00425,BPAA_085,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741138,dapB,BPAA_RS00430,BPAA_086,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20201213,-
+1229512,58741139,lepB,BPAA_RS00435,BPAA_087,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20201213,-
+1229512,58741140,BPAA_RS00440,BPAA_RS00440,BPAA_088,-,-,-,rhomboid family intramembrane serine protease,protein-coding,-,-,-,rhomboid family intramembrane serine protease,20201213,-
+1229512,58741141,mutL,BPAA_RS00445,BPAA_089,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20201213,-
+1229512,58741142,BPAA_RS00450,BPAA_RS00450,BPAA_090,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20201213,-
+1229512,58741143,BPAA_RS00455,BPAA_RS00455,BPAA_091,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741144,gldE,BPAA_RS00460,BPAA_092,-,-,-,gliding motility-associated protein GldE,protein-coding,-,-,-,gliding motility-associated protein GldE,20201213,-
+1229512,58741145,BPAA_RS00465,BPAA_RS00465,BPAA_094,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20201213,-
+1229512,58741146,BPAA_RS00470,BPAA_RS00470,BPAA_095,-,-,-,integration host factor subunit beta,protein-coding,-,-,-,integration host factor subunit beta,20201213,-
+1229512,58741147,BPAA_RS00475,BPAA_RS00475,BPAA_096,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20201213,-
+1229512,58741148,BPAA_RS00480,BPAA_RS00480,BPAA_097,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741149,BPAA_RS00485,BPAA_RS00485,BPAA_098,-,-,-,citrate synthase,protein-coding,-,-,-,citrate synthase,20201213,-
+1229512,58741150,BPAA_RS00490,BPAA_RS00490,BPAA_099,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741151,fabD,BPAA_RS00495,BPAA_100,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20201213,-
+1229512,58741152,BPAA_RS00500,BPAA_RS00500,BPAA_101,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201213,-
+1229512,58741153,fumC,BPAA_RS00505,BPAA_102,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20201213,-
+1229512,58741154,BPAA_RS00510,BPAA_RS00510,BPAA_103,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210313,-
+1229512,58741155,mnmG,BPAA_RS00515,BPAA_104,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20201213,-
+1229512,58741156,ybeY,BPAA_RS00520,BPAA_105,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20201213,-
+1229512,58741157,BPAA_RS00525,BPAA_RS00525,BPAA_106,-,-,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20201213,-
+1229512,58741158,BPAA_RS00530,BPAA_RS00530,BPAA_107,-,-,-,3'-5' exonuclease,protein-coding,-,-,-,3'-5' exonuclease,20201213,-
+1229512,58741159,htpG,BPAA_RS00535,BPAA_108,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20210313,-
+1229512,58741160,ftsY,BPAA_RS00540,BPAA_109,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20201213,-
+1229512,58741161,rpmG,BPAA_RS00545,BPAA_111,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201213,-
+1229512,58741162,rpmB,BPAA_RS00550,BPAA_112,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20201213,-
+1229512,58741163,BPAA_RS00555,BPAA_RS00555,BPAA_113,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20201213,-
+1229512,58741164,BPAA_RS00560,BPAA_RS00560,BPAA_114,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741165,BPAA_RS00565,BPAA_RS00565,BPAA_115,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20201213,-
+1229512,58741166,BPAA_RS00570,BPAA_RS00570,BPAA_116,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741167,rho,BPAA_RS00575,BPAA_117,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20201213,-
+1229512,58741168,BPAA_RS00580,BPAA_RS00580,BPAA_118,-,-,-,DUF4293 family protein,protein-coding,-,-,-,DUF4293 family protein,20201213,-
+1229512,58741169,prfA,BPAA_RS00585,BPAA_119,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201213,-
+1229512,58741170,accC,BPAA_RS00590,BPAA_120,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20201213,-
+1229512,58741171,accB,BPAA_RS00595,BPAA_121,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20201213,-
+1229512,58741172,rpmF,BPAA_RS00600,BPAA_122,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201213,-
+1229512,58741173,BPAA_RS00605,BPAA_RS00605,BPAA_123,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210417,-
+1229512,58741174,BPAA_RS00610,BPAA_RS00610,BPAA_124,-,-,-,dihydroorotate oxidase,protein-coding,-,-,-,dihydroorotate oxidase,20201213,-
+1229512,58741175,pyrF,BPAA_RS00615,BPAA_125,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20201213,-
+1229512,58741176,BPAA_RS00620,BPAA_RS00620,BPAA_126,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20201213,-
+1229512,58741177,BPAA_RS00625,BPAA_RS00625,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741178,fbp,BPAA_RS00630,BPAA_128,-,-,-,class 1 fructose-bisphosphatase,protein-coding,-,-,-,class 1 fructose-bisphosphatase,20201213,-
+1229512,58741179,BPAA_RS00635,BPAA_RS00635,BPAA_129,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741180,dut,BPAA_RS00640,BPAA_130,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20201213,-
+1229512,58741181,BPAA_RS00645,BPAA_RS00645,BPAA_131,-,-,-,DUF1599 domain-containing protein,protein-coding,-,-,-,DUF1599 domain-containing protein,20201213,-
+1229512,58741182,BPAA_RS00650,BPAA_RS00650,BPAA_132,-,-,-,VRR-NUC domain-containing protein,protein-coding,-,-,-,VRR-NUC domain-containing protein,20201213,-
+1229512,58741183,BPAA_RS00655,BPAA_RS00655,BPAA_133,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20201213,-
+1229512,58741184,BPAA_RS00660,BPAA_RS00660,BPAA_134,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201213,-
+1229512,58741185,BPAA_RS00665,BPAA_RS00665,BPAA_135,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20201213,-
+1229512,58741186,BPAA_RS00670,BPAA_RS00670,BPAA_136,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20201213,-
+1229512,58741187,BPAA_RS00675,BPAA_RS00675,BPAA_137,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741188,BPAA_RS00680,BPAA_RS00680,BPAA_138,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741189,ureC,BPAA_RS00685,BPAA_139,-,-,-,urease subunit alpha,protein-coding,-,-,-,urease subunit alpha,20201213,-
+1229512,58741190,BPAA_RS00690,BPAA_RS00690,BPAA_140,-,-,-,urease subunit gamma,protein-coding,-,-,-,urease subunit gamma,20201213,-
+1229512,58741191,thrA,BPAA_RS00695,BPAA_141,-,-,-,bifunctional aspartate kinase/homoserine dehydrogenase I,protein-coding,-,-,-,bifunctional aspartate kinase/homoserine dehydrogenase I,20201213,-
+1229512,58741192,BPAA_RS00700,BPAA_RS00700,BPAA_142,-,-,-,homoserine kinase,protein-coding,-,-,-,homoserine kinase,20201213,-
+1229512,58741193,thrC,BPAA_RS00705,BPAA_143,-,-,-,threonine synthase,protein-coding,-,-,-,threonine synthase,20201213,-
+1229512,58741194,BPAA_RS00710,BPAA_RS00710,BPAA_144,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20201213,-
+1229512,58741195,BPAA_RS00715,BPAA_RS00715,BPAA_145,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20201213,-
+1229512,58741196,BPAA_RS00720,BPAA_RS00720,BPAA_146,-,-,-,50S ribosomal protein L25,protein-coding,-,-,-,50S ribosomal protein L25,20201213,-
+1229512,58741197,BPAA_RS00725,BPAA_RS00725,BPAA_147,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20201213,-
+1229512,58741198,BPAA_RS00730,BPAA_RS00730,BPAA_148,-,-,-,VTT domain-containing protein,protein-coding,-,-,-,VTT domain-containing protein,20201213,-
+1229512,58741199,aroB,BPAA_RS00735,BPAA_150,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20201213,-
+1229512,58741200,gyrA,BPAA_RS00740,BPAA_151,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20201213,-
+1229512,58741201,BPAA_RS00745,BPAA_RS00745,BPAA_152,-,-,-,carboxy terminal-processing peptidase,protein-coding,-,-,-,carboxy terminal-processing peptidase,20201213,-
+1229512,58741202,surE,BPAA_RS00750,BPAA_153,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20201213,-
+1229512,58741203,ruvB,BPAA_RS00755,BPAA_154,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20201213,-
+1229512,58741204,BPAA_RS00760,BPAA_RS00760,BPAA_155,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20201213,-
+1229512,58741205,BPAA_RS00765,BPAA_RS00765,BPAA_156,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20201213,-
+1229512,58741206,BPAA_RS00770,BPAA_RS00770,BPAA_157,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20201213,-
+1229512,58741207,purE,BPAA_RS00775,BPAA_158,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20201213,-
+1229512,58741208,BPAA_RS00780,BPAA_RS00780,BPAA_159,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20201213,-
+1229512,58741209,purF,BPAA_RS00785,BPAA_160,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20210417,-
+1229512,58741210,BPAA_RS00790,BPAA_RS00790,BPAA_161,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20201213,-
+1229512,58741211,BPAA_RS00795,BPAA_RS00795,BPAA_162,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741212,purH,BPAA_RS00800,BPAA_163,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20201213,-
+1229512,58741213,purD,BPAA_RS00805,BPAA_164,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20201213,-
+1229512,58741214,guaA,BPAA_RS00810,BPAA_165,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20201213,-
+1229512,58741215,BPAA_RS00815,BPAA_RS00815,BPAA_166,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20201213,-
+1229512,58741216,fbaA,BPAA_RS00820,BPAA_167,-,-,-,class II fructose-bisphosphate aldolase,protein-coding,-,-,-,class II fructose-bisphosphate aldolase,20201213,-
+1229512,58741217,BPAA_RS00825,BPAA_RS00825,BPAA_168,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201213,-
+1229512,58741218,lipA,BPAA_RS00830,BPAA_169,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20201213,-
+1229512,58741219,BPAA_RS00835,BPAA_RS00835,BPAA_170,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20201213,-
+1229512,58741220,BPAA_RS00840,BPAA_RS00840,BPAA_171,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741221,BPAA_RS00845,BPAA_RS00845,BPAA_172,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201213,-
+1229512,58741222,BPAA_RS00850,BPAA_RS00850,BPAA_173,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20201213,-
+1229512,58741223,BPAA_RS00855,BPAA_RS00855,BPAA_174,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20201213,-
+1229512,58741224,BPAA_RS00860,BPAA_RS00860,BPAA_175,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20201213,-
+1229512,58741225,BPAA_RS00865,BPAA_RS00865,BPAA_176,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20201213,-
+1229512,58741226,ruvX,BPAA_RS00870,BPAA_177,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20201213,-
+1229512,58741227,def,BPAA_RS00875,BPAA_178,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201213,-
+1229512,58741228,rplT,BPAA_RS00880,BPAA_179,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201213,-
+1229512,58741229,rpmI,BPAA_RS00885,BPAA_180,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20201213,-
+1229512,58741230,BPAA_RS00890,BPAA_RS00890,BPAA_181,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201213,-
+1229512,58741231,thrS,BPAA_RS00895,BPAA_182,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201213,-
+1229512,58741232,BPAA_RS00900,BPAA_RS00900,BPAA_183,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20201213,-
+1229512,58741233,glpK,BPAA_RS00905,BPAA_184,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20201213,-
+1229512,58741234,BPAA_RS00910,BPAA_RS00910,BPAA_185,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,protein-coding,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,20201213,-
+1229512,58741235,ffh,BPAA_RS00915,BPAA_186,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201213,-
+1229512,58741236,BPAA_RS00920,BPAA_RS00920,BPAA_187,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20201213,-
+1229512,58741237,BPAA_RS00925,BPAA_RS00925,BPAA_188,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,branched-chain amino acid aminotransferase,20201213,-
+1229512,58741238,BPAA_RS00930,BPAA_RS00930,BPAA_189,-,-,-,alpha-ketoacid dehydrogenase subunit alpha/beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit alpha/beta,20201213,-
+1229512,58741239,ndk,BPAA_RS00935,BPAA_190,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20201213,-
+1229512,58741240,BPAA_RS00940,BPAA_RS00940,BPAA_191,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20201213,-
+1229512,58741241,BPAA_RS00945,BPAA_RS00945,BPAA_192,-,-,-,TPM domain-containing protein,protein-coding,-,-,-,TPM domain-containing protein,20201213,-
+1229512,58741242,BPAA_RS00950,BPAA_RS00950,BPAA_193,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201213,-
+1229512,58741243,BPAA_RS00955,BPAA_RS00955,BPAA_194,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20201213,-
+1229512,58741244,BPAA_RS00960,BPAA_RS00960,BPAA_195,-,-,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20201213,-
+1229512,58741245,BPAA_RS00965,BPAA_RS00965,BPAA_196,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741246,BPAA_RS00970,BPAA_RS00970,BPAA_197,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20201213,-
+1229512,58741247,metF,BPAA_RS00975,BPAA_198,-,-,-,methylenetetrahydrofolate reductase [NAD(P)H],protein-coding,-,-,-,methylenetetrahydrofolate reductase [NAD(P)H],20201213,-
+1229512,58741248,serS,BPAA_RS00980,BPAA_199,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201213,-
+1229512,58741249,rsmA,BPAA_RS00985,BPAA_200,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20201213,-
+1229512,58741250,BPAA_RS00990,BPAA_RS00990,BPAA_201,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20201213,-
+1229512,58741251,BPAA_RS00995,BPAA_RS00995,BPAA_202,-,-,-,7-carboxy-7-deazaguanine synthase QueE,protein-coding,-,-,-,7-carboxy-7-deazaguanine synthase QueE,20201213,-
+1229512,58741252,BPAA_RS01000,BPAA_RS01000,BPAA_203,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,protein-coding,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,20201213,-
+1229512,58741253,hisF,BPAA_RS01005,BPAA_204,-,-,-,imidazole glycerol phosphate synthase subunit HisF,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisF,20201213,-
+1229512,58741254,hisA,BPAA_RS01010,BPAA_205,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,protein-coding,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,20201213,-
+1229512,58741255,hisH,BPAA_RS01015,BPAA_206,-,-,-,imidazole glycerol phosphate synthase subunit HisH,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisH,20201213,-
+1229512,58741256,hisB,BPAA_RS01020,BPAA_207,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,protein-coding,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,20201213,-
+1229512,58741257,hisC,BPAA_RS01025,BPAA_208,-,-,-,histidinol-phosphate transaminase,protein-coding,-,-,-,histidinol-phosphate transaminase,20210320,-
+1229512,58741258,hisD,BPAA_RS01030,BPAA_209,-,-,-,histidinol dehydrogenase,protein-coding,-,-,-,histidinol dehydrogenase,20201213,-
+1229512,58741259,BPAA_RS01035,BPAA_RS01035,BPAA_210,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,ATP phosphoribosyltransferase,20201213,-
+1229512,58741260,xth,BPAA_RS01040,BPAA_211,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20201213,-
+1229512,58741261,BPAA_RS01045,BPAA_RS01045,BPAA_212,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741262,BPAA_RS01050,BPAA_RS01050,BPAA_213,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201213,-
+1229512,58741263,tilS,BPAA_RS01055,BPAA_214,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201213,-
+1229512,58741264,serC,BPAA_RS01060,BPAA_215,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,protein-coding,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,20201213,-
+1229512,58741265,BPAA_RS01065,BPAA_RS01065,BPAA_216,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,20201213,-
+1229512,58741266,BPAA_RS01070,BPAA_RS01070,BPAA_217,-,-,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,tryptophan synthase subunit alpha,20201213,-
+1229512,58741267,trpB,BPAA_RS01075,BPAA_218,-,-,-,tryptophan synthase subunit beta,protein-coding,-,-,-,tryptophan synthase subunit beta,20201213,-
+1229512,58741268,BPAA_RS01080,BPAA_RS01080,BPAA_219,-,-,-,phosphoribosylanthranilate isomerase,protein-coding,-,-,-,phosphoribosylanthranilate isomerase,20201213,-
+1229512,58741269,trpC,BPAA_RS01085,BPAA_220,-,-,-,indole-3-glycerol phosphate synthase TrpC,protein-coding,-,-,-,indole-3-glycerol phosphate synthase TrpC,20201213,-
+1229512,58741270,trpD,BPAA_RS01090,BPAA_221,-,-,-,anthranilate phosphoribosyltransferase,protein-coding,-,-,-,anthranilate phosphoribosyltransferase,20201213,-
+1229512,58741271,BPAA_RS01095,BPAA_RS01095,BPAA_222,-,-,-,aminodeoxychorismate/anthranilate synthase component II,protein-coding,-,-,-,aminodeoxychorismate/anthranilate synthase component II,20210417,-
+1229512,58741272,BPAA_RS01100,BPAA_RS01100,BPAA_223,-,-,-,anthranilate synthase component I family protein,protein-coding,-,-,-,anthranilate synthase component I family protein,20201213,-
+1229512,58741273,BPAA_RS01105,BPAA_RS01105,BPAA_224,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741274,BPAA_RS01110,BPAA_RS01110,BPAA_225,-,-,-,glucosaminidase domain-containing protein,protein-coding,-,-,-,glucosaminidase domain-containing protein,20201213,-
+1229512,58741275,gcvH,BPAA_RS01115,BPAA_226,-,-,-,glycine cleavage system protein GcvH,protein-coding,-,-,-,glycine cleavage system protein GcvH,20201213,-
+1229512,58741276,BPAA_RS01120,BPAA_RS01120,BPAA_227,-,-,-,HAD-IC family P-type ATPase,protein-coding,-,-,-,HAD-IC family P-type ATPase,20201213,-
+1229512,58741277,ccoN,BPAA_RS01125,BPAA_229,-,-,-,"cytochrome-c oxidase, cbb3-type subunit I",protein-coding,-,-,-,"cytochrome-c oxidase, cbb3-type subunit I",20201213,-
+1229512,58741278,BPAA_RS01130,BPAA_RS01130,BPAA_230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741279,BPAA_RS01135,BPAA_RS01135,BPAA_231,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20201213,-
+1229512,58741280,BPAA_RS01140,BPAA_RS01140,BPAA_232,-,-,-,FixH family protein,protein-coding,-,-,-,FixH family protein,20201213,-
+1229512,58741281,BPAA_RS01145,BPAA_RS01145,BPAA_233,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20201213,-
+1229512,58741282,murI,BPAA_RS01150,BPAA_234,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20201213,-
+1229512,58741283,BPAA_RS01155,BPAA_RS01155,BPAA_235,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201213,-
+1229512,58741284,BPAA_RS01160,BPAA_RS01160,BPAA_236,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741285,BPAA_RS01165,BPAA_RS01165,BPAA_237,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20201213,-
+1229512,58741286,BPAA_RS01170,BPAA_RS01170,BPAA_238,-,-,-,5-enolpyruvyl shikimate-3-phosphate synthase,protein-coding,-,-,-,5-enolpyruvyl shikimate-3-phosphate synthase,20201213,-
+1229512,58741287,BPAA_RS01175,BPAA_RS01175,BPAA_239,-,-,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20201213,-
+1229512,58741288,BPAA_RS01180,BPAA_RS01180,BPAA_240,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201213,-
+1229512,58741289,BPAA_RS01185,BPAA_RS01185,BPAA_241,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20201213,-
+1229512,58741290,smpB,BPAA_RS01190,BPAA_242,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20201213,-
+1229512,58741291,BPAA_RS01195,BPAA_RS01195,BPAA_243,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20201213,-
+1229512,58741292,BPAA_RS01200,BPAA_RS01200,BPAA_244,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20201213,-
+1229512,58741293,ychF,BPAA_RS01205,BPAA_245,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20201213,-
+1229512,58741294,BPAA_RS01210,BPAA_RS01210,BPAA_246,-,-,-,M42 family peptidase,protein-coding,-,-,-,M42 family peptidase,20201213,-
+1229512,58741295,BPAA_RS01215,BPAA_RS01215,BPAA_247,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20201213,-
+1229512,58741296,BPAA_RS01220,BPAA_RS01220,BPAA_248,-,-,-,trypsin-like peptidase domain-containing protein,protein-coding,-,-,-,trypsin-like peptidase domain-containing protein,20201213,-
+1229512,58741297,BPAA_RS01225,BPAA_RS01225,BPAA_249,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20201213,-
+1229512,58741298,tgt,BPAA_RS01230,BPAA_250,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20201213,-
+1229512,58741299,rsmH,BPAA_RS01235,BPAA_251,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20201213,-
+1229512,58741300,BPAA_RS01240,BPAA_RS01240,BPAA_252,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741301,BPAA_RS01245,BPAA_RS01245,BPAA_253,-,-,-,transpeptidase family protein,protein-coding,-,-,-,transpeptidase family protein,20210417,-
+1229512,58741302,BPAA_RS01250,BPAA_RS01250,BPAA_254,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20201213,-
+1229512,58741303,BPAA_RS01255,BPAA_RS01255,BPAA_255,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20201213,-
+1229512,58741304,murD,BPAA_RS01260,BPAA_256,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741305,BPAA_RS01265,BPAA_RS01265,BPAA_257,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20201213,-
+1229512,58741306,murG,BPAA_RS01270,BPAA_258,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20201213,-
+1229512,58741307,BPAA_RS01275,BPAA_RS01275,BPAA_259,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20201213,-
+1229512,58741308,BPAA_RS01280,BPAA_RS01280,BPAA_260,-,-,-,cell division protein FtsQ,protein-coding,-,-,-,cell division protein FtsQ,20201213,-
+1229512,58741309,ftsA,BPAA_RS01285,BPAA_261,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20201213,-
+1229512,58741310,ftsZ,BPAA_RS01290,BPAA_262,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20201213,-
+1229512,58741311,BPAA_RS01295,BPAA_RS01295,BPAA_263,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20201213,-
+1229512,58741312,BPAA_RS01300,BPAA_RS01300,BPAA_264,-,-,-,nicotinamide mononucleotide transporter,protein-coding,-,-,-,nicotinamide mononucleotide transporter,20201213,-
+1229512,58741313,BPAA_RS01305,BPAA_RS01305,BPAA_265,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20201213,-
+1229512,58741314,BPAA_RS01310,BPAA_RS01310,BPAA_266,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20201213,-
+1229512,58741315,BPAA_RS01315,BPAA_RS01315,BPAA_267,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20210424,-
+1229512,58741316,murB,BPAA_RS01320,BPAA_268,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20201213,-
+1229512,58741317,BPAA_RS01325,BPAA_RS01325,BPAA_269,-,-,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20201213,-
+1229512,58741318,rlmB,BPAA_RS01335,BPAA_271,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20201213,-
+1229512,58741319,pheS,BPAA_RS01340,BPAA_272,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20201213,-
+1229512,58741320,BPAA_RS01345,BPAA_RS01345,BPAA_273,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741321,BPAA_RS01350,BPAA_RS01350,BPAA_274,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20201213,-
+1229512,58741322,BPAA_RS01355,BPAA_RS01355,BPAA_275,-,-,-,acyl-protein synthetase,protein-coding,-,-,-,acyl-protein synthetase,20201213,-
+1229512,58741323,BPAA_RS01360,BPAA_RS01360,BPAA_276,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20201213,-
+1229512,58741324,ruvA,BPAA_RS01365,BPAA_277,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20201213,-
+1229512,58741325,der,BPAA_RS01370,BPAA_278,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20201213,-
+1229512,58741326,trmD,BPAA_RS01375,BPAA_279,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201213,-
+1229512,58741327,argH,BPAA_RS01380,BPAA_280,-,-,-,argininosuccinate lyase,protein-coding,-,-,-,argininosuccinate lyase,20201213,-
+1229512,58741328,gyrB,BPAA_RS01385,BPAA_281,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20201213,-
+1229512,58741329,BPAA_RS01390,BPAA_RS01390,BPAA_282,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20201213,-
+1229512,58741330,truB,BPAA_RS01395,BPAA_283,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20201213,-
+1229512,58741331,rpsP,BPAA_RS01400,BPAA_284,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20201213,-
+1229512,58741332,BPAA_RS01405,BPAA_RS01405,BPAA_285,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741333,BPAA_RS01410,BPAA_RS01410,BPAA_286,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20201213,-
+1229512,58741334,BPAA_RS01415,BPAA_RS01415,BPAA_287,-,-,-,diphosphomevalonate decarboxylase,protein-coding,-,-,-,diphosphomevalonate decarboxylase,20201213,-
+1229512,58741335,BPAA_RS01420,BPAA_RS01420,BPAA_288,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741336,BPAA_RS01425,BPAA_RS01425,BPAA_289,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20201213,-
+1229512,58741337,rsmG,BPAA_RS01430,BPAA_290,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20201213,-
+1229512,58741338,BPAA_RS01435,BPAA_RS01435,BPAA_291,-,-,-,amidohydrolase family protein,protein-coding,-,-,-,amidohydrolase family protein,20201213,-
+1229512,58741339,lysS,BPAA_RS01440,BPAA_292,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201213,-
+1229512,58741340,lipB,BPAA_RS01445,BPAA_293,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20201213,-
+1229512,58741341,mtaB,BPAA_RS01450,BPAA_294,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20201213,-
+1229512,58741342,BPAA_RS01455,BPAA_RS01455,BPAA_295,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20201213,-
+1229512,58741343,BPAA_RS01460,BPAA_RS01460,BPAA_296,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20201213,-
+1229512,58741344,rpe,BPAA_RS01465,BPAA_297,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20201213,-
+1229512,58741345,BPAA_RS01470,BPAA_RS01470,BPAA_298,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20201213,-
+1229512,58741346,BPAA_RS01475,BPAA_RS01475,BPAA_299,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20201213,-
+1229512,58741347,BPAA_RS01480,BPAA_RS01480,BPAA_300,-,-,-,bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase type II,protein-coding,-,-,-,bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase type II,20201213,-
+1229512,58741348,BPAA_RS01485,BPAA_RS01485,BPAA_301,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,prephenate dehydrogenase,20201213,-
+1229512,58741349,BPAA_RS01490,BPAA_RS01490,BPAA_302,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20201213,-
+1229512,58741350,BPAA_RS01495,BPAA_RS01495,BPAA_303,-,-,-,prephenate dehydratase,protein-coding,-,-,-,prephenate dehydratase,20201213,-
+1229512,58741351,BPAA_RS01500,BPAA_RS01500,BPAA_304,-,-,-,Nramp family divalent metal transporter,protein-coding,-,-,-,Nramp family divalent metal transporter,20210417,-
+1229512,58741352,BPAA_RS01505,BPAA_RS01505,BPAA_305,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201213,-
+1229512,58741353,BPAA_RS01510,BPAA_RS01510,BPAA_306,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201213,-
+1229512,58741354,BPAA_RS01515,BPAA_RS01515,BPAA_307,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20201213,-
+1229512,58741355,BPAA_RS01520,BPAA_RS01520,BPAA_308,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20201213,-
+1229512,58741356,mnmE,BPAA_RS01525,BPAA_309,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201213,-
+1229512,58741357,BPAA_RS01530,BPAA_RS01530,BPAA_310,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20201213,-
+1229512,58741358,ligA,BPAA_RS01535,BPAA_311,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201213,-
+1229512,58741359,lon,BPAA_RS01540,BPAA_312,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201213,-
+1229512,58741360,lysA,BPAA_RS01545,BPAA_313,-,-,-,diaminopimelate decarboxylase,protein-coding,-,-,-,diaminopimelate decarboxylase,20201213,-
+1229512,58741361,BPAA_RS01550,BPAA_RS01550,BPAA_314,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741362,metG,BPAA_RS01555,BPAA_315,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201213,-
+1229512,58741363,BPAA_RS01560,BPAA_RS01560,BPAA_316,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741364,BPAA_RS01565,BPAA_RS01565,BPAA_317,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741365,BPAA_RS01570,BPAA_RS01570,BPAA_318,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741366,BPAA_RS01575,BPAA_RS01575,BPAA_319,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20201213,-
+1229512,58741367,BPAA_RS01580,BPAA_RS01580,BPAA_320,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20201213,-
+1229512,58741368,ribB,BPAA_RS01585,BPAA_321,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20201213,-
+1229512,58741369,BPAA_RS01590,BPAA_RS01590,BPAA_322,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741370,trxA,BPAA_RS01595,BPAA_323,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20201213,-
+1229512,58741371,BPAA_RS01600,BPAA_RS01600,BPAA_324,-,-,-,M20 family metallo-hydrolase,protein-coding,-,-,-,M20 family metallo-hydrolase,20201213,-
+1229512,58741372,argB,BPAA_RS01605,BPAA_325,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20201213,-
+1229512,58741373,BPAA_RS01610,BPAA_RS01610,BPAA_326,-,-,-,N-acetylornithine carbamoyltransferase,protein-coding,-,-,-,N-acetylornithine carbamoyltransferase,20201213,-
+1229512,58741374,carB,BPAA_RS01615,BPAA_327,-,-,-,carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit,20201213,-
+1229512,58741375,carA,BPAA_RS01620,BPAA_328,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20201213,-
+1229512,58741376,BPAA_RS01625,BPAA_RS01625,BPAA_329,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20201213,-
+1229512,58741377,BPAA_RS01630,BPAA_RS01630,BPAA_330,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,protein-coding,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,20201213,-
+1229512,58741378,BPAA_RS01635,BPAA_RS01635,BPAA_331,-,-,-,argininosuccinate synthase,protein-coding,-,-,-,argininosuccinate synthase,20201213,-
+1229512,58741379,dnaE,BPAA_RS01645,BPAA_332,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20201213,-
+1229512,58741380,rpsA,BPAA_RS01650,BPAA_333,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20201213,-
+1229512,58741381,BPAA_RS01655,BPAA_RS01655,BPAA_334,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20201213,-
+1229512,58741382,rrf,BPAA_RS01660,BPAA_335,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201213,-
+1229512,58741383,BPAA_RS01665,BPAA_RS01665,BPAA_336,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201213,-
+1229512,58741384,BPAA_RS01670,BPAA_RS01670,BPAA_337,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741385,BPAA_RS01675,BPAA_RS01675,BPAA_338,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741386,BPAA_RS01680,BPAA_RS01680,BPAA_339,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201213,-
+1229512,58741387,queA,BPAA_RS01685,BPAA_340,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,protein-coding,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,20201213,-
+1229512,58741388,BPAA_RS01690,BPAA_RS01690,BPAA_341,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20201213,-
+1229512,58741389,topA,BPAA_RS01695,BPAA_342,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741390,BPAA_RS01700,BPAA_RS01700,BPAA_343,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741391,rsmI,BPAA_RS01705,BPAA_344,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20201213,-
+1229512,58741392,BPAA_RS01710,BPAA_RS01710,BPAA_345,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20201213,-
+1229512,58741393,gmk,BPAA_RS01715,BPAA_346,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201213,-
+1229512,58741394,BPAA_RS01720,BPAA_RS01720,BPAA_347,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741395,BPAA_RS01725,BPAA_RS01725,BPAA_348,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741396,BPAA_RS01730,BPAA_RS01730,BPAA_350,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201213,-
+1229512,58741397,BPAA_RS01735,BPAA_RS01735,BPAA_351,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20201213,-
+1229512,58741398,folB,BPAA_RS01740,BPAA_352,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20201213,-
+1229512,58741399,BPAA_RS01745,BPAA_RS01745,BPAA_353,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741400,BPAA_RS01750,BPAA_RS01750,BPAA_354,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20201213,-
+1229512,58741401,glmS,BPAA_RS01755,BPAA_355,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20201213,-
+1229512,58741402,BPAA_RS01760,BPAA_RS01760,BPAA_356,-,-,-,glycogen/starch synthase,protein-coding,-,-,-,glycogen/starch synthase,20201213,-
+1229512,58741403,rnr,BPAA_RS01765,BPAA_357,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20201213,-
+1229512,58741404,coaD,BPAA_RS01770,BPAA_358,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20201213,-
+1229512,58741405,BPAA_RS01775,BPAA_RS01775,BPAA_359,-,-,-,PSP1 domain-containing protein,protein-coding,-,-,-,PSP1 domain-containing protein,20201213,-
+1229512,58741406,BPAA_RS01780,BPAA_RS01780,BPAA_360,-,-,-,transglycosylase domain-containing protein,protein-coding,-,-,-,transglycosylase domain-containing protein,20201213,-
+1229512,58741407,BPAA_RS01785,BPAA_RS01785,BPAA_361,-,-,-,2-hydroxyacid dehydrogenase,protein-coding,-,-,-,2-hydroxyacid dehydrogenase,20201213,-
+1229512,58741408,BPAA_RS01790,BPAA_RS01790,BPAA_362,-,-,-,flavodoxin domain-containing protein,protein-coding,-,-,-,flavodoxin domain-containing protein,20201213,-
+1229512,58741409,cysK,BPAA_RS01795,BPAA_363,-,-,-,cysteine synthase A,protein-coding,-,-,-,cysteine synthase A,20201213,-
+1229512,58741410,BPAA_RS01800,BPAA_RS01800,BPAA_364,-,-,-,serine acetyltransferase,protein-coding,-,-,-,serine acetyltransferase,20201213,-
+1229512,58741411,BPAA_RS01805,BPAA_RS01805,BPAA_365,-,-,-,NADP-dependent isocitrate dehydrogenase,protein-coding,-,-,-,NADP-dependent isocitrate dehydrogenase,20201213,-
+1229512,58741412,BPAA_RS01810,BPAA_RS01810,BPAA_366,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20201213,-
+1229512,58741413,BPAA_RS01815,BPAA_RS01815,-,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741414,BPAA_RS01820,BPAA_RS01820,BPAA_368,-,-,-,metal-dependent hydrolase,protein-coding,-,-,-,metal-dependent hydrolase,20201213,-
+1229512,58741415,menA,BPAA_RS01825,BPAA_369,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",20201213,-
+1229512,58741416,menB,BPAA_RS01830,BPAA_370,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",20201213,-
+1229512,58741417,BPAA_RS01835,BPAA_RS01835,BPAA_371,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741418,BPAA_RS01840,BPAA_RS01840,BPAA_372,-,-,-,transporter protein,protein-coding,-,-,-,transporter protein,20201213,-
+1229512,58741419,eno,BPAA_RS01845,BPAA_373,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201213,-
+1229512,58741420,rplQ,BPAA_RS01850,BPAA_374,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201213,-
+1229512,58741421,BPAA_RS01855,BPAA_RS01855,BPAA_375,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20201213,-
+1229512,58741422,rpsD,BPAA_RS01860,BPAA_376,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201213,-
+1229512,58741423,rpsK,BPAA_RS01865,BPAA_377,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201213,-
+1229512,58741424,rpsM,BPAA_RS01870,BPAA_378,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201213,-
+1229512,58741425,rpmJ,BPAA_RS01875,BPAA_379,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201213,-
+1229512,58741426,infA,BPAA_RS01880,BPAA_380,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201213,-
+1229512,58741427,secY,BPAA_RS01885,BPAA_381,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201213,-
+1229512,58741428,rplO,BPAA_RS01890,BPAA_382,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20210320,-
+1229512,58741429,rpsE,BPAA_RS01895,BPAA_383,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20201213,-
+1229512,58741430,BPAA_RS01900,BPAA_RS01900,BPAA_623,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20201213,-
+1229512,58741431,rplF,BPAA_RS01905,BPAA_384,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20201213,-
+1229512,58741432,rpsH,BPAA_RS01910,BPAA_385,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20210522,-
+1229512,58741433,rpsN,BPAA_RS01915,BPAA_386,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20201213,-
+1229512,58741434,rplE,BPAA_RS01920,BPAA_387,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201213,-
+1229512,58741435,rplX,BPAA_RS01925,BPAA_388,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20201213,-
+1229512,58741436,rplN,BPAA_RS01930,BPAA_389,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201213,-
+1229512,58741437,rpsQ,BPAA_RS01935,BPAA_390,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201213,-
+1229512,58741438,rpmC,BPAA_RS01940,BPAA_391,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201213,-
+1229512,58741439,rplP,BPAA_RS01945,BPAA_392,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201213,-
+1229512,58741440,rpsC,BPAA_RS01950,BPAA_393,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20201213,-
+1229512,58741441,rplV,BPAA_RS01955,BPAA_394,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20201213,-
+1229512,58741442,rpsS,BPAA_RS01960,BPAA_395,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201213,-
+1229512,58741443,rplB,BPAA_RS01965,BPAA_396,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20201213,-
+1229512,58741444,BPAA_RS01970,BPAA_RS01970,BPAA_397,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201213,-
+1229512,58741445,rplD,BPAA_RS01975,BPAA_398,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20201213,-
+1229512,58741446,rplC,BPAA_RS01980,BPAA_399,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20201213,-
+1229512,58741447,fusA,BPAA_RS01990,BPAA_401,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20210320,-
+1229512,58741448,rpsG,BPAA_RS01995,BPAA_402,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201213,-
+1229512,58741449,BPAA_RS02000,BPAA_RS02000,BPAA_403,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201213,-
+1229512,58741450,map,BPAA_RS02005,BPAA_404,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20201213,-
+1229512,58741451,BPAA_RS02010,BPAA_RS02010,BPAA_405,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20201213,-
+1229512,58741452,BPAA_RS02015,BPAA_RS02015,BPAA_406,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201213,-
+1229512,58741453,rpsB,BPAA_RS02020,BPAA_407,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20201213,-
+1229512,58741454,rpsI,BPAA_RS02025,BPAA_408,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201213,-
+1229512,58741455,rplM,BPAA_RS02030,BPAA_409,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201213,-
+1229512,58741456,dnaK,BPAA_RS02035,BPAA_410,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201213,-
+1229512,58741457,BPAA_RS02040,BPAA_RS02040,BPAA_411,-,-,-,phosphatidylserine decarboxylase family protein,protein-coding,-,-,-,phosphatidylserine decarboxylase family protein,20201213,-
+1229512,58741458,BPAA_RS02045,BPAA_RS02045,BPAA_412,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20201213,-
+1229512,58741459,ftsH,BPAA_RS02050,BPAA_413,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201213,-
+1229512,58741460,rsfS,BPAA_RS02055,BPAA_414,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20201213,-
+1229512,58741461,BPAA_RS02060,BPAA_RS02060,BPAA_415,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20201213,-
+1229512,58741462,yidC,BPAA_RS02065,BPAA_416,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20201213,-
+1229512,58741463,BPAA_RS02070,BPAA_RS02070,BPAA_417,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20201213,-
+1229512,58741464,clpX,BPAA_RS02075,BPAA_418,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20201213,-
+1229512,58741465,obgE,BPAA_RS02080,BPAA_419,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201213,-
+1229512,58741466,BPAA_RS02085,BPAA_RS02085,BPAA_420,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20201213,-
+1229512,58741467,lpdA,BPAA_RS02090,BPAA_421,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201213,-
+1229512,58741468,fsa,BPAA_RS02095,BPAA_422,-,-,-,fructose-6-phosphate aldolase,protein-coding,-,-,-,fructose-6-phosphate aldolase,20201213,-
+1229512,58741469,BPAA_RS02100,BPAA_RS02100,BPAA_423,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741470,BPAA_RS02105,BPAA_RS02105,BPAA_424,-,-,-,ferritin,protein-coding,-,-,-,ferritin,20201213,-
+1229512,58741471,BPAA_RS02110,BPAA_RS02110,BPAA_425,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20201213,-
+1229512,58741472,BPAA_RS02115,BPAA_RS02115,BPAA_426,-,-,-,RNA-binding protein,protein-coding,-,-,-,RNA-binding protein,20201213,-
+1229512,58741473,pncB,BPAA_RS02125,BPAA_427,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20201213,-
+1229512,58741474,miaB,BPAA_RS02130,BPAA_428,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20201213,-
+1229512,58741475,BPAA_RS02135,BPAA_RS02135,BPAA_429,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20201213,-
+1229512,58741476,BPAA_RS02140,BPAA_RS02140,BPAA_430,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741477,secG,BPAA_RS02145,BPAA_431,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20201213,-
+1229512,58741478,BPAA_RS02150,BPAA_RS02150,BPAA_432,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20201213,-
+1229512,58741479,groL,BPAA_RS02155,BPAA_433,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20201213,-
+1229512,58741480,BPAA_RS02160,BPAA_RS02160,BPAA_434,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20201213,-
+1229512,58741481,BPAA_RS02165,BPAA_RS02165,BPAA_435,-,-,-,PUR family DNA/RNA-binding protein,protein-coding,-,-,-,PUR family DNA/RNA-binding protein,20201213,-
+1229512,58741482,BPAA_RS02170,BPAA_RS02170,BPAA_436,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201213,-
+1229512,58741483,nusB,BPAA_RS02175,BPAA_437,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20201213,-
+1229512,58741484,yajC,BPAA_RS02180,BPAA_438,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20201213,-
+1229512,58741485,coaE,BPAA_RS02185,BPAA_439,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20210320,-
+1229512,58741486,BPAA_RS02190,BPAA_RS02190,BPAA_441,-,-,-,zinc metallopeptidase,protein-coding,-,-,-,zinc metallopeptidase,20201213,-
+1229512,58741487,BPAA_RS02195,BPAA_RS02195,BPAA_442,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20201213,-
+1229512,58741488,BPAA_RS02200,BPAA_RS02200,BPAA_443,-,-,-,chorismate-binding protein,protein-coding,-,-,-,chorismate-binding protein,20201213,-
+1229512,58741489,BPAA_RS02205,BPAA_RS02205,BPAA_444,-,-,-,hotdog fold thioesterase,protein-coding,-,-,-,hotdog fold thioesterase,20201213,-
+1229512,58741490,BPAA_RS02210,BPAA_RS02210,BPAA_445,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20201213,-
+1229512,58741491,BPAA_RS02215,BPAA_RS02215,BPAA_446,-,-,-,6-carboxytetrahydropterin synthase,protein-coding,-,-,-,6-carboxytetrahydropterin synthase,20201213,-
+1229512,58741492,gcvT,BPAA_RS02220,BPAA_447,-,-,-,glycine cleavage system aminomethyltransferase GcvT,protein-coding,-,-,-,glycine cleavage system aminomethyltransferase GcvT,20201213,-
+1229512,58741493,BPAA_RS02225,BPAA_RS02225,BPAA_448,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20201213,-
+1229512,58741494,BPAA_RS02230,BPAA_RS02230,BPAA_449,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20201213,-
+1229512,58741495,aroC,BPAA_RS02235,BPAA_450,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20201213,-
+1229512,58741496,miaA,BPAA_RS02240,BPAA_451,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741497,BPAA_RS02245,BPAA_RS02245,BPAA_452,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741498,BPAA_RS02250,BPAA_RS02250,BPAA_453,-,-,-,folylpolyglutamate synthase,protein-coding,-,-,-,folylpolyglutamate synthase,20201213,-
+1229512,58741499,glnS,BPAA_RS02255,BPAA_454,-,-,-,glutamine--tRNA ligase,protein-coding,-,-,-,glutamine--tRNA ligase,20201213,-
+1229512,58741500,rpoC,BPAA_RS02260,BPAA_455,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20201213,-
+1229512,58741501,rpoB,BPAA_RS02265,BPAA_456,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20201213,-
+1229512,58741502,rplL,BPAA_RS02270,BPAA_457,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201213,-
+1229512,58741503,rplJ,BPAA_RS02275,BPAA_458,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201213,-
+1229512,58741504,BPAA_RS02280,BPAA_RS02280,BPAA_459,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20201213,-
+1229512,58741505,rplK,BPAA_RS02285,BPAA_460,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20201213,-
+1229512,58741506,nusG,BPAA_RS02290,BPAA_461,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20201213,-
+1229512,58741507,secE,BPAA_RS02295,BPAA_624,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20201213,-
+1229512,58741508,BPAA_RS02300,BPAA_RS02300,BPAA_462,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741509,tuf,BPAA_RS02305,BPAA_463,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201213,-
+1229512,58741510,BPAA_RS02310,BPAA_RS02310,BPAA_464,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741511,BPAA_RS02315,BPAA_RS02315,BPAA_465,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741512,BPAA_RS02320,BPAA_RS02320,BPAA_466,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741513,BPAA_RS02325,BPAA_RS02325,BPAA_467,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741514,BPAA_RS02330,BPAA_RS02330,BPAA_468,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20201213,-
+1229512,58741515,BPAA_RS02335,BPAA_RS02335,BPAA_469,-,-,-,DnaK suppressor protein,protein-coding,-,-,-,DnaK suppressor protein,20201213,-
+1229512,58741516,BPAA_RS02340,BPAA_RS02340,BPAA_470,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20201213,-
+1229512,58741517,mutS,BPAA_RS02345,BPAA_471,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20201213,-
+1229512,58741518,BPAA_RS02350,BPAA_RS02350,BPAA_472,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741519,BPAA_RS02355,BPAA_RS02355,BPAA_473,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741520,guaB,BPAA_RS02360,BPAA_474,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20201213,-
+1229512,58741521,BPAA_RS02365,BPAA_RS02365,BPAA_475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741522,rplS,BPAA_RS02370,BPAA_476,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20201213,-
+1229512,58741523,glmM,BPAA_RS02375,BPAA_477,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20201213,-
+1229512,58741524,BPAA_RS02380,BPAA_RS02380,BPAA_478,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20201213,-
+1229512,58741525,dnaB,BPAA_RS02385,BPAA_479,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20201213,-
+1229512,58741526,BPAA_RS02390,BPAA_RS02390,BPAA_480,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20201213,-
+1229512,58741527,BPAA_RS02395,BPAA_RS02395,BPAA_481,-,-,-,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,20201213,-
+1229512,58741528,BPAA_RS02400,BPAA_RS02400,BPAA_482,-,-,-,fumarate reductase/succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,fumarate reductase/succinate dehydrogenase flavoprotein subunit,20201213,-
+1229512,58741529,BPAA_RS02405,BPAA_RS02405,BPAA_483,-,-,-,succinate dehydrogenase cytochrome b subunit,protein-coding,-,-,-,succinate dehydrogenase cytochrome b subunit,20201213,-
+1229512,58741530,BPAA_RS02410,BPAA_RS02410,BPAA_484,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20201213,-
+1229512,58741531,rny,BPAA_RS02415,BPAA_485,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20201213,-
+1229512,58741532,BPAA_RS02420,BPAA_RS02420,BPAA_486,-,-,-,deoxyhypusine synthase family protein,protein-coding,-,-,-,deoxyhypusine synthase family protein,20201213,-
+1229512,58741533,lpdA,BPAA_RS02425,BPAA_487,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201213,-
+1229512,58741534,BPAA_RS02430,BPAA_RS02430,BPAA_488,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20201213,-
+1229512,58741535,BPAA_RS02435,BPAA_RS02435,BPAA_489,-,-,-,4Fe-4S dicluster domain-containing protein,protein-coding,-,-,-,4Fe-4S dicluster domain-containing protein,20201213,-
+1229512,58741536,BPAA_RS02440,BPAA_RS02440,BPAA_490,-,-,-,phosphoserine aminotransferase,protein-coding,-,-,-,phosphoserine aminotransferase,20201213,-
+1229512,58741537,ribD,BPAA_RS02445,BPAA_491,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20201213,-
+1229512,58741538,aroE,BPAA_RS02450,BPAA_492,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741539,rpsU,BPAA_RS02455,BPAA_493,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20201213,-
+1229512,58741540,BPAA_RS02460,BPAA_RS02460,BPAA_494,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741541,recG,BPAA_RS02465,BPAA_495,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20201213,-
+1229512,58741542,BPAA_RS02470,BPAA_RS02470,BPAA_496,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201213,-
+1229512,58741543,BPAA_RS02475,BPAA_RS02475,BPAA_497,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20201213,-
+1229512,58741544,BPAA_RS02480,BPAA_RS02480,BPAA_498,-,-,-,DUF4290 domain-containing protein,protein-coding,-,-,-,DUF4290 domain-containing protein,20201213,-
+1229512,58741545,murA,BPAA_RS02485,BPAA_499,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20201213,-
+1229512,58741546,greA,BPAA_RS02490,BPAA_500,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20201213,-
+1229512,58741547,BPAA_RS02495,BPAA_RS02495,BPAA_501,-,-,-,HIT family protein,protein-coding,-,-,-,HIT family protein,20201213,-
+1229512,58741548,BPAA_RS02500,BPAA_RS02500,BPAA_502,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20201213,-
+1229512,58741549,BPAA_RS02505,BPAA_RS02505,BPAA_503,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20201213,-
+1229512,58741550,BPAA_RS02510,BPAA_RS02510,BPAA_504,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20201213,-
+1229512,58741551,rseP,BPAA_RS02515,BPAA_505,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20201213,-
+1229512,58741552,BPAA_RS02520,BPAA_RS02520,BPAA_506,-,-,-,ferrous iron transport protein A,protein-coding,-,-,-,ferrous iron transport protein A,20201213,-
+1229512,58741553,feoB,BPAA_RS02525,BPAA_507,-,-,-,ferrous iron transport protein B,protein-coding,-,-,-,ferrous iron transport protein B,20201213,-
+1229512,58741554,BPAA_RS02530,BPAA_RS02530,BPAA_508,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20201213,-
+1229512,58741555,BPAA_RS02535,BPAA_RS02535,BPAA_509,-,-,-,PASTA domain-containing protein,protein-coding,-,-,-,PASTA domain-containing protein,20201213,-
+1229512,58741556,BPAA_RS02540,BPAA_RS02540,BPAA_510,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20210320,-
+1229512,58741557,mgtE,BPAA_RS02545,BPAA_511,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201213,-
+1229512,58741558,BPAA_RS02550,BPAA_RS02550,BPAA_512,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20201213,-
+1229512,58741559,BPAA_RS02555,BPAA_RS02555,BPAA_513,-,-,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20201213,-
+1229512,58741560,BPAA_RS02560,BPAA_RS02560,BPAA_514,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20201213,-
+1229512,58741561,frr,BPAA_RS02565,BPAA_515,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201213,-
+1229512,58741562,asnS,BPAA_RS02570,BPAA_516,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20201213,-
+1229512,58741563,rpoN,BPAA_RS02575,BPAA_517,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20201213,-
+1229512,58741564,BPAA_RS02580,BPAA_RS02580,BPAA_518,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20201213,-
+1229512,58741565,BPAA_RS02585,BPAA_RS02585,BPAA_519,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20201213,-
+1229512,58741566,metE,BPAA_RS02590,BPAA_520,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,protein-coding,-,-,-,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,20201213,-
+1229512,58741567,BPAA_RS02595,BPAA_RS02595,BPAA_521,-,-,-,LbetaH super family domain-containing protein,protein-coding,-,-,-,LbetaH super family domain-containing protein,20201213,-
+1229512,58741568,BPAA_RS02600,BPAA_RS02600,BPAA_522,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20201213,-
+1229512,58741569,BPAA_RS02605,BPAA_RS02605,BPAA_523,-,-,-,3-oxoacyl-ACP synthase III family protein,protein-coding,-,-,-,3-oxoacyl-ACP synthase III family protein,20201213,-
+1229512,58741570,ubiE,BPAA_RS02610,BPAA_524,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20201213,-
+1229512,58741571,BPAA_RS02615,BPAA_RS02615,BPAA_525,-,-,-,GH3 auxin-responsive promoter family protein,protein-coding,-,-,-,GH3 auxin-responsive promoter family protein,20210417,-
+1229512,58741572,rpsO,BPAA_RS02620,BPAA_526,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20201213,-
+1229512,58741573,BPAA_RS02625,BPAA_RS02625,BPAA_527,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20201213,-
+1229512,58741574,BPAA_RS02630,BPAA_RS02630,BPAA_528,-,-,-,RNA polymerase sigma factor RpoD/SigA,protein-coding,-,-,-,RNA polymerase sigma factor RpoD/SigA,20201213,-
+1229512,58741575,BPAA_RS02635,BPAA_RS02635,BPAA_529,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741576,BPAA_RS02640,BPAA_RS02640,BPAA_530,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20201213,-
+1229512,58741577,BPAA_RS02645,BPAA_RS02645,BPAA_531,-,-,-,DUF1599 domain-containing protein,protein-coding,-,-,-,DUF1599 domain-containing protein,20201213,-
+1229512,58741578,folP,BPAA_RS02650,BPAA_532,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20201213,-
+1229512,58741579,BPAA_RS02655,BPAA_RS02655,BPAA_533,-,-,-,diadenylate cyclase,protein-coding,-,-,-,diadenylate cyclase,20201213,-
+1229512,58741580,murF,BPAA_RS02660,BPAA_534,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20201213,-
+1229512,58741581,pdhA,BPAA_RS02665,BPAA_535,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20201213,-
+1229512,58741582,BPAA_RS02670,BPAA_RS02670,BPAA_536,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20201213,-
+1229512,58741583,BPAA_RS02675,BPAA_RS02675,BPAA_537,-,-,-,DUF475 domain-containing protein,protein-coding,-,-,-,DUF475 domain-containing protein,20201213,-
+1229512,58741584,BPAA_RS02680,BPAA_RS02680,BPAA_538,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201213,-
+1229512,58741585,secD,BPAA_RS02685,BPAA_539,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20201213,-
+1229512,58741586,BPAA_RS02690,BPAA_RS02690,BPAA_540,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20201213,-
+1229512,58741587,BPAA_RS02695,BPAA_RS02695,BPAA_541,-,-,-,SurA N-terminal domain-containing protein,protein-coding,-,-,-,SurA N-terminal domain-containing protein,20201213,-
+1229512,58741588,BPAA_RS02700,BPAA_RS02700,BPAA_542,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20201213,-
+1229512,58741589,BPAA_RS02705,BPAA_RS02705,BPAA_543,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741590,BPAA_RS02710,BPAA_RS02710,BPAA_544,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741591,BPAA_RS02715,BPAA_RS02715,BPAA_545,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20201213,-
+1229512,58741592,bamA,BPAA_RS02720,BPAA_546,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20201213,-
+1229512,58741593,BPAA_RS02725,BPAA_RS02725,BPAA_547,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20201213,-
+1229512,58741594,BPAA_RS02730,BPAA_RS02730,BPAA_548,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20201213,-
+1229512,58741595,BPAA_RS02735,BPAA_RS02735,BPAA_549,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741596,BPAA_RS02740,BPAA_RS02740,BPAA_550,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201213,-
+1229512,58741597,aroQ,BPAA_RS02745,BPAA_551,-,-,-,type II 3-dehydroquinate dehydratase,protein-coding,-,-,-,type II 3-dehydroquinate dehydratase,20201213,-
+1229512,58741598,BPAA_RS02750,BPAA_RS02750,BPAA_552,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201213,-
+1229512,58741599,BPAA_RS02755,BPAA_RS02755,BPAA_553,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741600,fabF,BPAA_RS02760,BPAA_554,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20201213,-
+1229512,58741601,BPAA_RS02765,BPAA_RS02765,BPAA_555,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20201213,-
+1229512,58741602,BPAA_RS02770,BPAA_RS02770,BPAA_556,-,-,-,phosphoenolpyruvate carboxykinase (ATP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (ATP),20201213,-
+1229512,58741603,BPAA_RS02775,BPAA_RS02775,BPAA_557,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20201213,-
+1229512,58741604,pdxA,BPAA_RS02780,BPAA_558,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,protein-coding,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,20201213,-
+1229512,58741605,BPAA_RS02785,BPAA_RS02785,BPAA_559,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20201213,-
+1229512,58741606,BPAA_RS02790,BPAA_RS02790,BPAA_560,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20201213,-
+1229512,58741607,BPAA_RS02795,BPAA_RS02795,BPAA_561,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20201213,-
+1229512,58741608,BPAA_RS02800,BPAA_RS02800,BPAA_562,-,-,-,PD-(D/E)XK nuclease family protein,protein-coding,-,-,-,PD-(D/E)XK nuclease family protein,20201213,-
+1229512,58741609,leuB,BPAA_RS02805,BPAA_563,-,-,-,3-isopropylmalate dehydrogenase,protein-coding,-,-,-,3-isopropylmalate dehydrogenase,20201213,-
+1229512,58741610,leuD,BPAA_RS02810,BPAA_564,-,-,-,3-isopropylmalate dehydratase small subunit,protein-coding,-,-,-,3-isopropylmalate dehydratase small subunit,20210417,-
+1229512,58741611,leuC,BPAA_RS02815,BPAA_565,-,-,-,3-isopropylmalate dehydratase large subunit,protein-coding,-,-,-,3-isopropylmalate dehydratase large subunit,20201213,-
+1229512,58741612,BPAA_RS02820,BPAA_RS02820,BPAA_566,-,-,-,2-isopropylmalate synthase,protein-coding,-,-,-,2-isopropylmalate synthase,20201213,-
+1229512,58741613,BPAA_RS02825,BPAA_RS02825,BPAA_567,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741614,BPAA_RS02835,BPAA_RS02835,BPAA_568,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201213,-
+1229512,58741615,era,BPAA_RS02840,BPAA_569,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210424,-
+1229512,58741616,clpB,BPAA_RS02845,BPAA_570,-,-,-,ATP-dependent chaperone ClpB,protein-coding,-,-,-,ATP-dependent chaperone ClpB,20201213,-
+1229512,58741617,prfB,BPAA_RS02850,BPAA_571,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20201213,-
+1229512,58741618,BPAA_RS02855,BPAA_RS02855,BPAA_572,-,-,-,arginine decarboxylase,protein-coding,-,-,-,arginine decarboxylase,20201213,-
+1229512,58741619,speB,BPAA_RS02860,BPAA_573,-,-,-,agmatinase,protein-coding,-,-,-,agmatinase,20201213,-
+1229512,58741620,BPAA_RS02865,BPAA_RS02865,BPAA_574,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201213,-
+1229512,58741621,fabG,BPAA_RS02870,BPAA_575,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,20201213,-
+1229512,58741622,menD,BPAA_RS02875,BPAA_576,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,protein-coding,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,20201213,-
+1229512,58741623,BPAA_RS02880,BPAA_RS02880,BPAA_577,-,-,-,YdcF family protein,protein-coding,-,-,-,YdcF family protein,20201213,-
+1229512,58741624,secA,BPAA_RS02885,BPAA_578,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20201213,-
+1229512,58741625,BPAA_RS02890,BPAA_RS02890,BPAA_579,-,-,-,DUF2795 domain-containing protein,protein-coding,-,-,-,DUF2795 domain-containing protein,20201213,-
+1229512,58741626,BPAA_RS02895,BPAA_RS02895,BPAA_580,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20201213,-
+1229512,58741627,BPAA_RS02900,BPAA_RS02900,BPAA_581,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201213,-
+1229512,58741628,pdxH,BPAA_RS02905,BPAA_582,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,pyridoxamine 5'-phosphate oxidase,20201213,-
+1229512,58741629,BPAA_RS02910,BPAA_RS02910,BPAA_583,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741630,BPAA_RS02915,BPAA_RS02915,BPAA_584,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741631,pheT,BPAA_RS02920,BPAA_585,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20201213,-
+1229512,58741632,BPAA_RS02925,BPAA_RS02925,BPAA_586,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201213,-
+1229512,58741633,trxB,BPAA_RS02930,BPAA_587,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20201213,-
+1229512,58741634,BPAA_RS02935,BPAA_RS02935,BPAA_588,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20201213,-
+1229512,58741635,gap,BPAA_RS02940,BPAA_589,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201213,-
+1229512,58741636,lepA,BPAA_RS02945,BPAA_590,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20201213,-
+1229512,58741637,BPAA_RS02950,BPAA_RS02950,BPAA_591,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741638,BPAA_RS02955,BPAA_RS02955,BPAA_592,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20201213,-
+1229512,58741639,sucD,BPAA_RS02960,BPAA_593,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20201213,-
+1229512,58741640,BPAA_RS02965,BPAA_RS02965,BPAA_594,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201213,-
+1229512,58741641,fabZ,BPAA_RS02970,BPAA_595,-,-,-,pseudo,pseudo,-,-,-,-,20201213,-
+1229512,58741642,rpmH,BPAA_RS02980,BPAA_596a,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20201213,-
+1229512,58741643,BPAA_RS02985,BPAA_RS02985,BPAA_597,-,-,-,DUF2817 domain-containing protein,protein-coding,-,-,-,DUF2817 domain-containing protein,20201213,-
+1229512,58741644,BPAA_RS02990,BPAA_RS02990,BPAA_600,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20201213,-
+1229512,58741645,BPAA_RS02995,BPAA_RS02995,BPAA_601,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20201213,-
+1229512,58741646,BPAA_RS03000,BPAA_RS03000,BPAA_602,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201213,-
+1229512,58741647,BPAA_RS03005,BPAA_RS03005,BPAA_603,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,ribosome-binding factor A,20201213,-
+1229512,58741648,BPAA_RS03010,BPAA_RS03010,BPAA_604,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741649,BPAA_RS03015,BPAA_RS03015,BPAA_605,-,-,-,tRNA,tRNA,-,-,-,-,20201213,-
+1229512,58741650,rplU,BPAA_RS03020,BPAA_607,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201213,-
+1229512,58741651,BPAA_RS03025,BPAA_RS03025,BPAA_608,-,-,-,SufS family cysteine desulfurase,protein-coding,-,-,-,SufS family cysteine desulfurase,20201213,-
+1229512,58741652,sufD,BPAA_RS03030,BPAA_609,-,-,-,Fe-S cluster assembly protein SufD,protein-coding,-,-,-,Fe-S cluster assembly protein SufD,20201213,-
+1229512,58741653,sufC,BPAA_RS03035,BPAA_610,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20201213,-
+1229512,58741654,sufB,BPAA_RS03040,BPAA_611,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20201213,-
+1229512,58741655,BPAA_RS03045,BPAA_RS03045,BPAA_612,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20201213,-
+1229512,58741656,BPAA_RS03050,BPAA_RS03050,BPAA_613,-,-,-,DUF192 domain-containing protein,protein-coding,-,-,-,DUF192 domain-containing protein,20201213,-
+1229512,58741657,lgt,BPAA_RS03055,BPAA_614,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20201213,-
+1229512,58741658,yidD,BPAA_RS03060,BPAA_615,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20201213,-
+1229512,58741659,BPAA_RS03065,BPAA_RS03065,BPAA_616,-,-,-,aconitate hydratase,protein-coding,-,-,-,aconitate hydratase,20201213,-
+1229512,58741660,BPAA_RS03070,BPAA_RS03070,BPAA_617,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20201213,-
+1229512,58741661,BPAA_RS03075,BPAA_RS03075,BPAA_618,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,pyridoxine 5'-phosphate synthase,20201213,-
+1229512,58741662,BPAA_RS03080,BPAA_RS03080,BPAA_619,-,-,-,mechanosensitive ion channel,protein-coding,-,-,-,mechanosensitive ion channel,20201213,-
+1229512,58741663,rnpB,BPAA_RS03100,BPAA_621,-,-,-,ncRNA,ncRNA,-,-,-,-,20201213,-
+1229512,58741664,ssrA,BPAA_RS03105,BPAA_620,-,-,-,miscRNA,miscRNA,-,-,-,-,20201213,-
+1229512,58741665,BPAA_RS03110,BPAA_RS03110,BPAA_349,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20201213,-
+1229512,58741666,ffs,BPAA_RS03115,BPAA_622,-,-,-,ncRNA,ncRNA,-,-,-,-,20201213,-
+1229512,58741667,BPAA_RS03120,BPAA_RS03120,BPAA_440,-,-,-,30S ribosomal protein THX,protein-coding,-,-,-,30S ribosomal protein THX,20201213,-
+1229512,58741668,rpmA,BPAA_RS03125,BPAA_606,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20201213,-
+1229512,58741669,BPAA_RS03130,BPAA_RS03130,BPAA_110,-,-,-,DUF4295 family protein,protein-coding,-,-,-,DUF4295 family protein,20201213,-
+1229512,58741670,BPAA_RS03135,BPAA_RS03135,BPAA_127,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20201213,-
+1229512,58741671,ccoS,BPAA_RS03140,BPAA_228,-,-,-,cbb3-type cytochrome oxidase assembly protein CcoS,protein-coding,-,-,-,cbb3-type cytochrome oxidase assembly protein CcoS,20201213,-
+1229512,58741672,BPAA_RS03145,BPAA_RS03145,BPAA_149,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-
+1229512,58741673,rpsJ,BPAA_RS03150,BPAA_400,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201213,-
+1229512,58741674,BPAA_RS03155,BPAA_RS03155,BPAA_596,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201213,-

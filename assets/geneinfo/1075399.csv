@@ -1,0 +1,594 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1075399,11542904,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Blattabacterium sp. (Cryptocercus punctulatus) strain Cpu).,other,-,-,-,-,20150212,-
+1075399,54187859,BLBCPU_RS00010,BLBCPU_RS00010,BLBCPU_001,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20200419,-
+1075399,54187860,mreC,BLBCPU_RS00015,BLBCPU_002,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20200419,-
+1075399,54187861,BLBCPU_RS00020,BLBCPU_RS00020,BLBCPU_003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54187862,mrdA,BLBCPU_RS00025,BLBCPU_004,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20200419,-
+1075399,54187863,rodA,BLBCPU_RS00030,BLBCPU_005,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20200419,-
+1075399,54187864,BLBCPU_RS00035,BLBCPU_RS00035,BLBCPU_006,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200419,-
+1075399,54187865,lnt,BLBCPU_RS00040,BLBCPU_008,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20200912,-
+1075399,54187866,BLBCPU_RS00045,BLBCPU_RS00045,BLBCPU_009,-,-,-,bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,protein-coding,-,-,-,bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,20200419,-
+1075399,54187867,BLBCPU_RS00050,BLBCPU_RS00050,BLBCPU_010,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200419,-
+1075399,54187868,BLBCPU_RS00055,BLBCPU_RS00055,BLBCPU_011,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20200419,-
+1075399,54187869,aspS,BLBCPU_RS00060,BLBCPU_012,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200419,-
+1075399,54187870,infB,BLBCPU_RS00065,BLBCPU_013,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200419,-
+1075399,54187871,nusA,BLBCPU_RS00070,BLBCPU_014,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200419,-
+1075399,54187872,BLBCPU_RS00075,BLBCPU_RS00075,BLBCPU_015,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,mechanosensitive ion channel family protein,20200419,-
+1075399,54187873,BLBCPU_RS00080,BLBCPU_RS00080,BLBCPU_016,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,pyridoxine 5'-phosphate synthase,20200419,-
+1075399,54187874,BLBCPU_RS00085,BLBCPU_RS00085,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200417,-
+1075399,54187875,BLBCPU_RS00090,BLBCPU_RS00090,BLBCPU_017,-,-,-,aconitate hydratase,protein-coding,-,-,-,aconitate hydratase,20200419,-
+1075399,54187876,yidD,BLBCPU_RS00095,BLBCPU_018,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20200419,-
+1075399,54187877,lgt,BLBCPU_RS00100,BLBCPU_019,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200419,-
+1075399,54187878,BLBCPU_RS00105,BLBCPU_RS00105,-,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54187879,BLBCPU_RS00110,BLBCPU_RS00110,BLBCPU_021,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20200419,-
+1075399,54187880,sufB,BLBCPU_RS00115,BLBCPU_022,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20210116,-
+1075399,54187881,sufC,BLBCPU_RS00120,BLBCPU_023,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20200419,-
+1075399,54187882,sufD,BLBCPU_RS00125,BLBCPU_024,-,-,-,Fe-S cluster assembly protein SufD,protein-coding,-,-,-,Fe-S cluster assembly protein SufD,20200419,-
+1075399,54187883,BLBCPU_RS00130,BLBCPU_RS00130,BLBCPU_025,-,-,-,SufS family cysteine desulfurase,protein-coding,-,-,-,SufS family cysteine desulfurase,20210117,-
+1075399,54187884,rplU,BLBCPU_RS00135,BLBCPU_026,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200419,-
+1075399,54187885,rpmA,BLBCPU_RS00140,BLBCPU_027,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200419,-
+1075399,54187886,BLBCPU_RS00145,BLBCPU_RS00145,BLBCPU_028,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187887,BLBCPU_RS00150,BLBCPU_RS00150,BLBCPU_029,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187888,BLBCPU_RS00155,BLBCPU_RS00155,BLBCPU_030,-,-,-,ribosome-binding factor A,protein-coding,-,-,-,ribosome-binding factor A,20200419,-
+1075399,54187889,BLBCPU_RS00160,BLBCPU_RS00160,BLBCPU_031,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20200419,-
+1075399,54187890,BLBCPU_RS00165,BLBCPU_RS00165,BLBCPU_032,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20200419,-
+1075399,54187891,BLBCPU_RS00170,BLBCPU_RS00170,BLBCPU_033,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20200419,-
+1075399,54187892,BLBCPU_RS00175,BLBCPU_RS00175,BLBCPU_034,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54187893,rpmH,BLBCPU_RS00180,BLBCPU_035,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200419,-
+1075399,54187894,BLBCPU_RS00185,BLBCPU_RS00185,BLBCPU_036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54187895,fabZ,BLBCPU_RS00190,BLBCPU_037,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210117,-
+1075399,54187896,BLBCPU_RS00195,BLBCPU_RS00195,BLBCPU_038,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200419,-
+1075399,54187897,sucD,BLBCPU_RS00200,BLBCPU_039,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20200419,-
+1075399,54187898,BLBCPU_RS00205,BLBCPU_RS00205,BLBCPU_040,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200912,-
+1075399,54187899,lepA,BLBCPU_RS00210,BLBCPU_041,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200419,-
+1075399,54187900,gap,BLBCPU_RS00215,BLBCPU_042,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200419,-
+1075399,54187901,BLBCPU_RS00220,BLBCPU_RS00220,BLBCPU_043,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20210116,-
+1075399,54187902,trxB,BLBCPU_RS00225,BLBCPU_044,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200419,-
+1075399,54187903,BLBCPU_RS00230,BLBCPU_RS00230,BLBCPU_045,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200419,-
+1075399,54187904,pheT,BLBCPU_RS00235,BLBCPU_046,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200419,-
+1075399,54187905,dnaN,BLBCPU_RS00240,BLBCPU_047,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200419,-
+1075399,54187906,BLBCPU_RS00245,BLBCPU_RS00245,BLBCPU_048,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187907,pdxH,BLBCPU_RS00250,BLBCPU_049,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,pyridoxamine 5'-phosphate oxidase,20200419,-
+1075399,54187908,BLBCPU_RS00255,BLBCPU_RS00255,BLBCPU_050,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200419,-
+1075399,54187909,BLBCPU_RS00260,BLBCPU_RS00260,BLBCPU_051,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200419,-
+1075399,54187910,BLBCPU_RS00265,BLBCPU_RS00265,BLBCPU_052,-,-,-,DUF2795 domain-containing protein,protein-coding,-,-,-,DUF2795 domain-containing protein,20200419,-
+1075399,54187911,secA,BLBCPU_RS00270,BLBCPU_053,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200419,-
+1075399,54187912,BLBCPU_RS00275,BLBCPU_RS00275,BLBCPU_054,-,-,-,YdcF family protein,protein-coding,-,-,-,YdcF family protein,20210117,-
+1075399,54187913,menD,BLBCPU_RS00280,BLBCPU_055,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,protein-coding,-,-,-,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,20200419,-
+1075399,54187914,BLBCPU_RS00285,BLBCPU_RS00285,BLBCPU_056,-,-,-,beta-ketoacyl-ACP reductase,protein-coding,-,-,-,beta-ketoacyl-ACP reductase,20200419,-
+1075399,54187915,BLBCPU_RS00290,BLBCPU_RS00290,BLBCPU_057,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200419,-
+1075399,54187916,speB,BLBCPU_RS00295,BLBCPU_058,-,-,-,agmatinase,protein-coding,-,-,-,agmatinase,20200912,-
+1075399,54187917,BLBCPU_RS00300,BLBCPU_RS00300,BLBCPU_059,-,-,-,decarboxylase,protein-coding,-,-,-,decarboxylase,20200419,-
+1075399,54187918,prfB,BLBCPU_RS00305,BLBCPU_060,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210117,-
+1075399,54187919,era,BLBCPU_RS00310,BLBCPU_061,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20210117,-
+1075399,54187920,BLBCPU_RS00315,BLBCPU_RS00315,BLBCPU_062,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200419,-
+1075399,54187921,BLBCPU_RS00320,BLBCPU_RS00320,BLBCPU_063,-,-,-,PD-(D/E)XK nuclease family protein,protein-coding,-,-,-,PD-(D/E)XK nuclease family protein,20210117,-
+1075399,54187922,BLBCPU_RS00325,BLBCPU_RS00325,BLBCPU_064,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20200419,-
+1075399,54187923,BLBCPU_RS00330,BLBCPU_RS00330,BLBCPU_065,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200419,-
+1075399,54187924,BLBCPU_RS00335,BLBCPU_RS00335,BLBCPU_066,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20200419,-
+1075399,54187925,pdxA,BLBCPU_RS00340,BLBCPU_067,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,protein-coding,-,-,-,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,20200419,-
+1075399,54187926,BLBCPU_RS00345,BLBCPU_RS00345,BLBCPU_068,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20200419,-
+1075399,54187927,pckA,BLBCPU_RS00350,BLBCPU_069,-,-,-,phosphoenolpyruvate carboxykinase (ATP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (ATP),20200419,-
+1075399,54187928,BLBCPU_RS00355,BLBCPU_RS00355,BLBCPU_070,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200419,-
+1075399,54187929,fabF,BLBCPU_RS00360,BLBCPU_071,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20200419,-
+1075399,54187930,BLBCPU_RS00365,BLBCPU_RS00365,BLBCPU_072,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200419,-
+1075399,54187931,BLBCPU_RS00370,BLBCPU_RS00370,BLBCPU_073,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200419,-
+1075399,54187932,ysxC,BLBCPU_RS00375,BLBCPU_074,-,-,-,ribosome biogenesis GTP-binding protein YsxC,protein-coding,-,-,-,ribosome biogenesis GTP-binding protein YsxC,20200419,-
+1075399,54187933,BLBCPU_RS00380,BLBCPU_RS00380,BLBCPU_075,-,-,-,3-dehydroquinate dehydratase,protein-coding,-,-,-,3-dehydroquinate dehydratase,20200419,-
+1075399,54187934,BLBCPU_RS00385,BLBCPU_RS00385,BLBCPU_076,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200417,-
+1075399,54187935,BLBCPU_RS00390,BLBCPU_RS00390,BLBCPU_077,-,-,-,mevalonate kinase,protein-coding,-,-,-,mevalonate kinase,20200419,-
+1075399,54187936,BLBCPU_RS00395,BLBCPU_RS00395,BLBCPU_078,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20200419,-
+1075399,54187937,uppS,BLBCPU_RS00400,BLBCPU_079,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20200419,-
+1075399,54187938,BLBCPU_RS00405,BLBCPU_RS00405,BLBCPU_080,-,-,-,BamA/TamA family outer membrane protein,protein-coding,-,-,-,BamA/TamA family outer membrane protein,20200912,-
+1075399,54187939,BLBCPU_RS00410,BLBCPU_RS00410,BLBCPU_081,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20200419,-
+1075399,54187940,BLBCPU_RS00415,BLBCPU_RS00415,BLBCPU_082,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187941,BLBCPU_RS00420,BLBCPU_RS00420,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200415,-
+1075399,54187942,BLBCPU_RS00425,BLBCPU_RS00425,BLBCPU_084,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200419,-
+1075399,54187943,BLBCPU_RS00430,BLBCPU_RS00430,BLBCPU_085,-,-,-,SurA N-terminal domain-containing protein,protein-coding,-,-,-,SurA N-terminal domain-containing protein,20210117,-
+1075399,54187944,BLBCPU_RS00435,BLBCPU_RS00435,BLBCPU_086,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20210117,-
+1075399,54187945,secD,BLBCPU_RS00440,BLBCPU_087,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20200419,-
+1075399,54187946,BLBCPU_RS00445,BLBCPU_RS00445,BLBCPU_088,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200419,-
+1075399,54187947,BLBCPU_RS00450,BLBCPU_RS00450,BLBCPU_089,-,-,-,DUF475 domain-containing protein,protein-coding,-,-,-,DUF475 domain-containing protein,20200419,-
+1075399,54187948,BLBCPU_RS00455,BLBCPU_RS00455,BLBCPU_090,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200419,-
+1075399,54187949,pdhA,BLBCPU_RS00460,BLBCPU_091,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200419,-
+1075399,54187950,murF,BLBCPU_RS00465,BLBCPU_092,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20200419,-
+1075399,54187951,BLBCPU_RS00470,BLBCPU_RS00470,BLBCPU_093,-,-,-,diadenylate cyclase,protein-coding,-,-,-,diadenylate cyclase,20200926,-
+1075399,54187952,folP,BLBCPU_RS00475,BLBCPU_094,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20200419,-
+1075399,54187953,BLBCPU_RS00480,BLBCPU_RS00480,BLBCPU_095,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54187954,BLBCPU_RS00485,BLBCPU_RS00485,BLBCPU_096,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200419,-
+1075399,54187955,BLBCPU_RS00490,BLBCPU_RS00490,BLBCPU_097,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187956,BLBCPU_RS00495,BLBCPU_RS00495,BLBCPU_098,-,-,-,RNA polymerase sigma factor RpoD/SigA,protein-coding,-,-,-,RNA polymerase sigma factor RpoD/SigA,20210116,-
+1075399,54187957,BLBCPU_RS00500,BLBCPU_RS00500,BLBCPU_099,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200419,-
+1075399,54187958,rpsO,BLBCPU_RS00505,BLBCPU_100,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200419,-
+1075399,54187959,BLBCPU_RS00510,BLBCPU_RS00510,BLBCPU_101,-,-,-,GH3 auxin-responsive promoter family protein,protein-coding,-,-,-,GH3 auxin-responsive promoter family protein,20200419,-
+1075399,54187960,ubiE,BLBCPU_RS00515,BLBCPU_102,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20200419,-
+1075399,54187961,BLBCPU_RS00520,BLBCPU_RS00520,BLBCPU_103,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20200419,-
+1075399,54187962,BLBCPU_RS00525,BLBCPU_RS00525,BLBCPU_104,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210117,-
+1075399,54187963,BLBCPU_RS00530,BLBCPU_RS00530,BLBCPU_105,-,-,-,LbetaH super family domain-containing protein,protein-coding,-,-,-,LbetaH super family domain-containing protein,20200419,-
+1075399,54187964,BLBCPU_RS00535,BLBCPU_RS00535,BLBCPU_106,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20200419,-
+1075399,54187965,BLBCPU_RS00540,BLBCPU_RS00540,BLBCPU_107,-,-,-,aldehyde dehydrogenase family protein,protein-coding,-,-,-,aldehyde dehydrogenase family protein,20200419,-
+1075399,54187966,rpoN,BLBCPU_RS00545,BLBCPU_108,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20200419,-
+1075399,54187967,asnS,BLBCPU_RS00550,BLBCPU_109,-,-,-,asparagine--tRNA ligase,protein-coding,-,-,-,asparagine--tRNA ligase,20200419,-
+1075399,54187968,frr,BLBCPU_RS00555,BLBCPU_110,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20210116,-
+1075399,54187969,BLBCPU_RS00560,BLBCPU_RS00560,BLBCPU_111,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200419,-
+1075399,54187970,BLBCPU_RS00565,BLBCPU_RS00565,BLBCPU_112,-,-,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20210116,-
+1075399,54187971,BLBCPU_RS00570,BLBCPU_RS00570,BLBCPU_113,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54187972,mgtE,BLBCPU_RS00575,BLBCPU_114,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200419,-
+1075399,54187973,BLBCPU_RS00580,BLBCPU_RS00580,BLBCPU_115,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200912,-
+1075399,54187974,BLBCPU_RS00585,BLBCPU_RS00585,BLBCPU_116,-,-,-,PASTA domain-containing protein,protein-coding,-,-,-,PASTA domain-containing protein,20200419,-
+1075399,54187975,BLBCPU_RS00590,BLBCPU_RS00590,BLBCPU_117,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20200419,-
+1075399,54187976,feoB,BLBCPU_RS00595,BLBCPU_118,-,-,-,ferrous iron transport protein B,protein-coding,-,-,-,ferrous iron transport protein B,20200417,-
+1075399,54187977,BLBCPU_RS00600,BLBCPU_RS00600,BLBCPU_119,-,-,-,ferrous iron transport protein A,protein-coding,-,-,-,ferrous iron transport protein A,20200419,-
+1075399,54187978,rseP,BLBCPU_RS00605,BLBCPU_120,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20200419,-
+1075399,54187979,BLBCPU_RS00610,BLBCPU_RS00610,BLBCPU_121,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54187980,BLBCPU_RS00615,BLBCPU_RS00615,BLBCPU_122,-,-,-,alpha/beta fold hydrolase,protein-coding,-,-,-,alpha/beta fold hydrolase,20200419,-
+1075399,54187981,BLBCPU_RS00620,BLBCPU_RS00620,BLBCPU_123,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20210118,-
+1075399,54187982,BLBCPU_RS00625,BLBCPU_RS00625,BLBCPU_124,-,-,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20200419,-
+1075399,54187983,greA,BLBCPU_RS00630,BLBCPU_125,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200419,-
+1075399,54187984,murA,BLBCPU_RS00635,BLBCPU_127,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20210117,-
+1075399,54187985,BLBCPU_RS00640,BLBCPU_RS00640,BLBCPU_128,-,-,-,DUF4290 domain-containing protein,protein-coding,-,-,-,DUF4290 domain-containing protein,20200419,-
+1075399,54187986,BLBCPU_RS00645,BLBCPU_RS00645,BLBCPU_129,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200419,-
+1075399,54187987,BLBCPU_RS00650,BLBCPU_RS00650,BLBCPU_130,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200912,-
+1075399,54187988,recG,BLBCPU_RS00655,BLBCPU_131,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20200419,-
+1075399,54187989,BLBCPU_RS00660,BLBCPU_RS00660,BLBCPU_132,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54187990,rpsU,BLBCPU_RS00665,BLBCPU_133,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200419,-
+1075399,54187991,aroE,BLBCPU_RS00670,BLBCPU_134,-,-,-,shikimate 5-dehydrogenase,protein-coding,-,-,-,shikimate 5-dehydrogenase,20200419,-
+1075399,54187992,ribD,BLBCPU_RS00675,BLBCPU_135,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20200419,-
+1075399,54187993,BLBCPU_RS00680,BLBCPU_RS00680,BLBCPU_136,-,-,-,4Fe-4S dicluster domain-containing protein,protein-coding,-,-,-,4Fe-4S dicluster domain-containing protein,20200419,-
+1075399,54187994,lpdA,BLBCPU_RS00685,BLBCPU_137,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200419,-
+1075399,54187995,BLBCPU_RS00690,BLBCPU_RS00690,BLBCPU_138,-,-,-,deoxyhypusine synthase family protein,protein-coding,-,-,-,deoxyhypusine synthase family protein,20210117,-
+1075399,54187996,rny,BLBCPU_RS00695,BLBCPU_139,-,-,-,ribonuclease Y,protein-coding,-,-,-,ribonuclease Y,20200419,-
+1075399,54187997,BLBCPU_RS00700,BLBCPU_RS00700,BLBCPU_140,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20200419,-
+1075399,54187998,BLBCPU_RS00705,BLBCPU_RS00705,BLBCPU_141,-,-,-,succinate dehydrogenase cytochrome b subunit,protein-coding,-,-,-,succinate dehydrogenase cytochrome b subunit,20200419,-
+1075399,54187999,BLBCPU_RS00710,BLBCPU_RS00710,BLBCPU_142,-,-,-,fumarate reductase/succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,fumarate reductase/succinate dehydrogenase flavoprotein subunit,20210116,-
+1075399,54188000,BLBCPU_RS00715,BLBCPU_RS00715,BLBCPU_143,-,-,-,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,20200419,-
+1075399,54188001,BLBCPU_RS00720,BLBCPU_RS00720,BLBCPU_144,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20200419,-
+1075399,54188002,dnaB,BLBCPU_RS00725,BLBCPU_145,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200419,-
+1075399,54188003,BLBCPU_RS00730,BLBCPU_RS00730,BLBCPU_146,-,-,-,FtsX-like permease family protein,protein-coding,-,-,-,FtsX-like permease family protein,20200419,-
+1075399,54188004,glmM,BLBCPU_RS00735,BLBCPU_147,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20200419,-
+1075399,54188005,rplS,BLBCPU_RS00740,BLBCPU_148,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200419,-
+1075399,54188006,BLBCPU_RS00745,BLBCPU_RS00745,BLBCPU_149,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200417,-
+1075399,54188007,BLBCPU_RS00760,BLBCPU_RS00760,BLBCPU_152,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188008,BLBCPU_RS00765,BLBCPU_RS00765,BLBCPU_153,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188009,mutS,BLBCPU_RS00770,BLBCPU_154,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188010,BLBCPU_RS00775,BLBCPU_RS00775,BLBCPU_155,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200912,-
+1075399,54188011,BLBCPU_RS00780,BLBCPU_RS00780,BLBCPU_156,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200419,-
+1075399,54188012,BLBCPU_RS00785,BLBCPU_RS00785,BLBCPU_157,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20200912,-
+1075399,54188013,BLBCPU_RS00790,BLBCPU_RS00790,BLBCPU_158,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188014,BLBCPU_RS00795,BLBCPU_RS00795,BLBCPU_159,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188015,BLBCPU_RS00800,BLBCPU_RS00800,BLBCPU_160,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188016,BLBCPU_RS00805,BLBCPU_RS00805,BLBCPU_161,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188017,tuf,BLBCPU_RS00810,BLBCPU_162,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20210116,-
+1075399,54188018,BLBCPU_RS00815,BLBCPU_RS00815,BLBCPU_163,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188019,BLBCPU_RS00820,BLBCPU_RS00820,BLBCPU_164,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200419,-
+1075399,54188020,nusG,BLBCPU_RS00825,BLBCPU_165,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20200419,-
+1075399,54188021,rplK,BLBCPU_RS00830,BLBCPU_166,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200419,-
+1075399,54188022,BLBCPU_RS00835,BLBCPU_RS00835,BLBCPU_167,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200419,-
+1075399,54188023,BLBCPU_RS00840,BLBCPU_RS00840,BLBCPU_168,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200419,-
+1075399,54188024,rplL,BLBCPU_RS00845,BLBCPU_169,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200419,-
+1075399,54188025,rpoB,BLBCPU_RS00850,BLBCPU_170,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20210424,-
+1075399,54188026,rpoC,BLBCPU_RS00855,BLBCPU_171,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200419,-
+1075399,54188027,glnS,BLBCPU_RS00860,BLBCPU_172,-,-,-,glutamine--tRNA ligase,protein-coding,-,-,-,glutamine--tRNA ligase,20200912,-
+1075399,54188028,BLBCPU_RS00865,BLBCPU_RS00865,BLBCPU_173,-,-,-,folylpolyglutamate synthase,protein-coding,-,-,-,folylpolyglutamate synthase,20200419,-
+1075399,54188029,BLBCPU_RS00870,BLBCPU_RS00870,BLBCPU_174,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188030,aroC,BLBCPU_RS00875,BLBCPU_176,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20200419,-
+1075399,54188031,BLBCPU_RS00880,BLBCPU_RS00880,BLBCPU_177,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200419,-
+1075399,54188032,BLBCPU_RS00885,BLBCPU_RS00885,BLBCPU_178,-,-,-,MATE family efflux transporter,protein-coding,-,-,-,MATE family efflux transporter,20200417,-
+1075399,54188033,gcvT,BLBCPU_RS00890,BLBCPU_179,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188034,BLBCPU_RS00895,BLBCPU_RS00895,BLBCPU_180,-,-,-,6-carboxytetrahydropterin synthase,protein-coding,-,-,-,6-carboxytetrahydropterin synthase,20210117,-
+1075399,54188035,BLBCPU_RS00900,BLBCPU_RS00900,BLBCPU_181,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20210424,-
+1075399,54188036,BLBCPU_RS00905,BLBCPU_RS00905,BLBCPU_182,-,-,-,PaaI family thioesterase,protein-coding,-,-,-,PaaI family thioesterase,20200419,-
+1075399,54188037,BLBCPU_RS00910,BLBCPU_RS00910,BLBCPU_183,-,-,-,chorismate-binding protein,protein-coding,-,-,-,chorismate-binding protein,20210117,-
+1075399,54188038,BLBCPU_RS00915,BLBCPU_RS00915,BLBCPU_184,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20200419,-
+1075399,54188039,BLBCPU_RS00920,BLBCPU_RS00920,BLBCPU_185,-,-,-,zinc metallopeptidase,protein-coding,-,-,-,zinc metallopeptidase,20200419,-
+1075399,54188040,coaE,BLBCPU_RS00925,BLBCPU_187,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188041,yajC,BLBCPU_RS00930,BLBCPU_188,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200419,-
+1075399,54188042,nusB,BLBCPU_RS00935,BLBCPU_189,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20200417,-
+1075399,54188043,BLBCPU_RS00940,BLBCPU_RS00940,BLBCPU_190,-,-,-,PUR family DNA/RNA-binding protein,protein-coding,-,-,-,PUR family DNA/RNA-binding protein,20210117,-
+1075399,54188044,BLBCPU_RS00945,BLBCPU_RS00945,BLBCPU_191,-,-,-,HAD hydrolase family protein,protein-coding,-,-,-,HAD hydrolase family protein,20200912,-
+1075399,54188045,groL,BLBCPU_RS00950,BLBCPU_192,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200419,-
+1075399,54188046,BLBCPU_RS00955,BLBCPU_RS00955,BLBCPU_193,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200417,-
+1075399,54188047,secG,BLBCPU_RS00960,BLBCPU_194,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200419,-
+1075399,54188048,BLBCPU_RS00965,BLBCPU_RS00965,BLBCPU_195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188049,BLBCPU_RS00970,BLBCPU_RS00970,BLBCPU_196,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20200419,-
+1075399,54188050,miaB,BLBCPU_RS00975,BLBCPU_197,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20200419,-
+1075399,54188051,pncB,BLBCPU_RS00980,BLBCPU_198,-,-,-,nicotinate phosphoribosyltransferase,protein-coding,-,-,-,nicotinate phosphoribosyltransferase,20200417,-
+1075399,54188052,BLBCPU_RS00985,BLBCPU_RS00985,BLBCPU_199,-,-,-,RNA-binding protein,protein-coding,-,-,-,RNA-binding protein,20200419,-
+1075399,54188053,BLBCPU_RS00990,BLBCPU_RS00990,BLBCPU_200,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20200419,-
+1075399,54188054,BLBCPU_RS00995,BLBCPU_RS00995,BLBCPU_201,-,-,-,ferritin,protein-coding,-,-,-,ferritin,20200419,-
+1075399,54188055,bamD,BLBCPU_RS01000,BLBCPU_202,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20200419,-
+1075399,54188056,BLBCPU_RS01005,BLBCPU_RS01005,BLBCPU_203,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188057,fsa,BLBCPU_RS01010,BLBCPU_204,-,-,-,fructose-6-phosphate aldolase,protein-coding,-,-,-,fructose-6-phosphate aldolase,20200419,-
+1075399,54188058,lpdA,BLBCPU_RS01015,BLBCPU_205,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200419,-
+1075399,54188059,BLBCPU_RS01020,BLBCPU_RS01020,BLBCPU_206,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200419,-
+1075399,54188060,obgE,BLBCPU_RS01025,BLBCPU_207,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188061,clpX,BLBCPU_RS01030,BLBCPU_208,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20200419,-
+1075399,54188062,BLBCPU_RS01035,BLBCPU_RS01035,BLBCPU_210,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200419,-
+1075399,54188063,BLBCPU_RS01040,BLBCPU_RS01040,BLBCPU_211,-,-,-,YidC/Oxa1 family insertase periplasmic-domain containing protein,protein-coding,-,-,-,YidC/Oxa1 family insertase periplasmic-domain containing protein,20210117,-
+1075399,54188064,BLBCPU_RS01045,BLBCPU_RS01045,BLBCPU_212,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20200419,-
+1075399,54188065,rsfS,BLBCPU_RS01050,BLBCPU_213,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20200419,-
+1075399,54188066,ftsH,BLBCPU_RS01055,BLBCPU_214,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210117,-
+1075399,54188067,BLBCPU_RS01060,BLBCPU_RS01060,BLBCPU_215,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200419,-
+1075399,54188068,BLBCPU_RS01065,BLBCPU_RS01065,BLBCPU_216,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188069,dnaK,BLBCPU_RS01070,BLBCPU_217,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20210117,-
+1075399,54188070,rplM,BLBCPU_RS01075,BLBCPU_218,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200419,-
+1075399,54188071,rpsI,BLBCPU_RS01080,BLBCPU_219,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200419,-
+1075399,54188072,rpsB,BLBCPU_RS01085,BLBCPU_220,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200419,-
+1075399,54188073,tsf,BLBCPU_RS01090,BLBCPU_221,-,-,-,translation elongation factor Ts,protein-coding,-,-,-,translation elongation factor Ts,20200419,-
+1075399,54188074,BLBCPU_RS01095,BLBCPU_RS01095,BLBCPU_222,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20200419,-
+1075399,54188075,map,BLBCPU_RS01100,BLBCPU_223,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200419,-
+1075399,54188076,BLBCPU_RS01105,BLBCPU_RS01105,BLBCPU_224,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200419,-
+1075399,54188077,rpsG,BLBCPU_RS01110,BLBCPU_225,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200419,-
+1075399,54188078,fusA,BLBCPU_RS01115,BLBCPU_226,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200419,-
+1075399,54188079,rpsJ,BLBCPU_RS01120,BLBCPU_227,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200419,-
+1075399,54188080,rplC,BLBCPU_RS01125,BLBCPU_228,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200419,-
+1075399,54188081,rplD,BLBCPU_RS01130,BLBCPU_229,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200419,-
+1075399,54188082,rplW,BLBCPU_RS01135,BLBCPU_230,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20210117,-
+1075399,54188083,rplB,BLBCPU_RS01140,BLBCPU_231,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200419,-
+1075399,54188084,rpsS,BLBCPU_RS01145,BLBCPU_232,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200419,-
+1075399,54188085,rplV,BLBCPU_RS01150,BLBCPU_233,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200419,-
+1075399,54188086,rpsC,BLBCPU_RS01155,BLBCPU_234,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200912,-
+1075399,54188087,rplP,BLBCPU_RS01160,BLBCPU_235,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200419,-
+1075399,54188088,BLBCPU_RS01165,BLBCPU_RS01165,BLBCPU_236,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200419,-
+1075399,54188089,rpsQ,BLBCPU_RS01170,BLBCPU_237,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200419,-
+1075399,54188090,rplN,BLBCPU_RS01175,BLBCPU_238,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200419,-
+1075399,54188091,rplX,BLBCPU_RS01180,BLBCPU_239,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200419,-
+1075399,54188092,rplE,BLBCPU_RS01185,BLBCPU_240,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200417,-
+1075399,54188093,rpsN,BLBCPU_RS01190,BLBCPU_241,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200419,-
+1075399,54188094,rpsH,BLBCPU_RS01195,BLBCPU_242,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200419,-
+1075399,54188095,rplF,BLBCPU_RS01200,BLBCPU_243,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200419,-
+1075399,54188096,BLBCPU_RS01205,BLBCPU_RS01205,BLBCPU_244,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200419,-
+1075399,54188097,rpsE,BLBCPU_RS01210,BLBCPU_245,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200419,-
+1075399,54188098,rplO,BLBCPU_RS01215,BLBCPU_246,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200419,-
+1075399,54188099,secY,BLBCPU_RS01220,BLBCPU_247,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200419,-
+1075399,54188100,infA,BLBCPU_RS01225,BLBCPU_248,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200419,-
+1075399,54188101,rpmJ,BLBCPU_RS01230,BLBCPU_249,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20210117,-
+1075399,54188102,rpsM,BLBCPU_RS01235,BLBCPU_250,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20210116,-
+1075399,54188103,rpsK,BLBCPU_RS01240,BLBCPU_251,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200419,-
+1075399,54188104,rpsD,BLBCPU_RS01245,BLBCPU_252,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20210116,-
+1075399,54188105,BLBCPU_RS01250,BLBCPU_RS01250,BLBCPU_253,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200419,-
+1075399,54188106,rplQ,BLBCPU_RS01255,BLBCPU_254,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200419,-
+1075399,54188107,eno,BLBCPU_RS01260,BLBCPU_255,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200419,-
+1075399,54188108,BLBCPU_RS01265,BLBCPU_RS01265,BLBCPU_256,-,-,-,sodium:proton antiporter,protein-coding,-,-,-,sodium:proton antiporter,20200419,-
+1075399,54188109,BLBCPU_RS01270,BLBCPU_RS01270,BLBCPU_257,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188110,menB,BLBCPU_RS01275,BLBCPU_258,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoyl-CoA synthase",20200419,-
+1075399,54188111,menA,BLBCPU_RS01280,BLBCPU_259,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",protein-coding,-,-,-,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",20200419,-
+1075399,54188112,BLBCPU_RS01285,BLBCPU_RS01285,BLBCPU_260,-,-,-,metal-dependent hydrolase,protein-coding,-,-,-,metal-dependent hydrolase,20200419,-
+1075399,54188113,BLBCPU_RS01290,BLBCPU_RS01290,BLBCPU_261,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188114,BLBCPU_RS01295,BLBCPU_RS01295,BLBCPU_262,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20200419,-
+1075399,54188115,BLBCPU_RS01300,BLBCPU_RS01300,BLBCPU_263,-,-,-,NADP-dependent isocitrate dehydrogenase,protein-coding,-,-,-,NADP-dependent isocitrate dehydrogenase,20200419,-
+1075399,54188116,BLBCPU_RS01305,BLBCPU_RS01305,BLBCPU_264,-,-,-,flavodoxin domain-containing protein,protein-coding,-,-,-,flavodoxin domain-containing protein,20210117,-
+1075399,54188117,BLBCPU_RS01310,BLBCPU_RS01310,BLBCPU_265,-,-,-,2-hydroxyacid dehydrogenase,protein-coding,-,-,-,2-hydroxyacid dehydrogenase,20200419,-
+1075399,54188118,BLBCPU_RS01315,BLBCPU_RS01315,BLBCPU_266,-,-,-,transglycosylase domain-containing protein,protein-coding,-,-,-,transglycosylase domain-containing protein,20210117,-
+1075399,54188119,BLBCPU_RS01320,BLBCPU_RS01320,BLBCPU_267,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188120,coaD,BLBCPU_RS01325,BLBCPU_268,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20200419,-
+1075399,54188121,rnr,BLBCPU_RS01330,BLBCPU_269,-,-,-,ribonuclease R,protein-coding,-,-,-,ribonuclease R,20200419,-
+1075399,54188122,BLBCPU_RS01335,BLBCPU_RS01335,BLBCPU_270,-,-,-,glycogen/starch synthase,protein-coding,-,-,-,glycogen/starch synthase,20200912,-
+1075399,54188123,glmS,BLBCPU_RS01340,BLBCPU_271,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20200419,-
+1075399,54188124,BLBCPU_RS01345,BLBCPU_RS01345,BLBCPU_272,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20200419,-
+1075399,54188125,BLBCPU_RS01350,BLBCPU_RS01350,BLBCPU_273,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188126,folB,BLBCPU_RS01355,BLBCPU_274,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20200419,-
+1075399,54188127,BLBCPU_RS01360,BLBCPU_RS01360,BLBCPU_275,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20200419,-
+1075399,54188128,BLBCPU_RS01365,BLBCPU_RS01365,BLBCPU_276,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200419,-
+1075399,54188129,BLBCPU_RS01370,BLBCPU_RS01370,BLBCPU_278,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188130,gmk,BLBCPU_RS01375,BLBCPU_279,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188131,BLBCPU_RS01380,BLBCPU_RS01380,BLBCPU_280,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20200419,-
+1075399,54188132,rsmI,BLBCPU_RS01385,BLBCPU_281,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200419,-
+1075399,54188133,BLBCPU_RS01390,BLBCPU_RS01390,BLBCPU_282,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188134,topA,BLBCPU_RS01395,BLBCPU_283,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200419,-
+1075399,54188135,BLBCPU_RS01400,BLBCPU_RS01400,BLBCPU_284,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20200419,-
+1075399,54188136,queA,BLBCPU_RS01405,BLBCPU_285,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,protein-coding,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,20200419,-
+1075399,54188137,BLBCPU_RS01410,BLBCPU_RS01410,BLBCPU_286,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210117,-
+1075399,54188138,BLBCPU_RS01415,BLBCPU_RS01415,BLBCPU_287,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188139,BLBCPU_RS01420,BLBCPU_RS01420,BLBCPU_288,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188140,BLBCPU_RS01425,BLBCPU_RS01425,BLBCPU_289,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210117,-
+1075399,54188141,rrf,BLBCPU_RS01430,BLBCPU_290,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210117,-
+1075399,54188142,BLBCPU_RS01435,BLBCPU_RS01435,BLBCPU_291,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20200419,-
+1075399,54188143,rpsA,BLBCPU_RS01440,BLBCPU_292,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20210116,-
+1075399,54188144,dnaE,BLBCPU_RS01445,BLBCPU_293,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188145,BLBCPU_RS01450,BLBCPU_RS01450,BLBCPU_294,-,-,-,argininosuccinate synthase,protein-coding,-,-,-,argininosuccinate synthase,20210117,-
+1075399,54188146,BLBCPU_RS01455,BLBCPU_RS01455,BLBCPU_295,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,protein-coding,-,-,-,N-acetyl-gamma-glutamyl-phosphate reductase,20210116,-
+1075399,54188147,BLBCPU_RS01460,BLBCPU_RS01460,BLBCPU_296,-,-,-,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme,20210116,-
+1075399,54188148,carA,BLBCPU_RS01465,BLBCPU_297,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20200419,-
+1075399,54188149,carB,BLBCPU_RS01470,BLBCPU_298,-,-,-,carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit,20210116,-
+1075399,54188150,BLBCPU_RS01475,BLBCPU_RS01475,BLBCPU_299,-,-,-,N-acetylornithine carbamoyltransferase,protein-coding,-,-,-,N-acetylornithine carbamoyltransferase,20210116,-
+1075399,54188151,argB,BLBCPU_RS01480,BLBCPU_300,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20200419,-
+1075399,54188152,BLBCPU_RS01485,BLBCPU_RS01485,BLBCPU_301,-,-,-,M20 family metallo-hydrolase,protein-coding,-,-,-,M20 family metallo-hydrolase,20200912,-
+1075399,54188153,trxA,BLBCPU_RS01490,BLBCPU_302,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200419,-
+1075399,54188154,BLBCPU_RS01495,BLBCPU_RS01495,BLBCPU_303,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188155,ribB,BLBCPU_RS01500,BLBCPU_304,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20200419,-
+1075399,54188156,BLBCPU_RS01505,BLBCPU_RS01505,BLBCPU_305,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20200419,-
+1075399,54188157,BLBCPU_RS01510,BLBCPU_RS01510,BLBCPU_306,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188158,BLBCPU_RS01515,BLBCPU_RS01515,BLBCPU_307,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188159,BLBCPU_RS01520,BLBCPU_RS01520,BLBCPU_308,-,-,-,nicotinate-nucleotide adenylyltransferase,protein-coding,-,-,-,nicotinate-nucleotide adenylyltransferase,20200419,-
+1075399,54188160,BLBCPU_RS01525,BLBCPU_RS01525,BLBCPU_309,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20200419,-
+1075399,54188161,metG,BLBCPU_RS01530,BLBCPU_310,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200419,-
+1075399,54188162,BLBCPU_RS01535,BLBCPU_RS01535,BLBCPU_311,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188163,lon,BLBCPU_RS01545,BLBCPU_312,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20210116,-
+1075399,54188164,ligA,BLBCPU_RS01555,BLBCPU_313,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200419,-
+1075399,54188165,BLBCPU_RS01560,BLBCPU_RS01560,BLBCPU_314,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210117,-
+1075399,54188166,mnmE,BLBCPU_RS01565,BLBCPU_315,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200419,-
+1075399,54188167,BLBCPU_RS01570,BLBCPU_RS01570,BLBCPU_316,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200419,-
+1075399,54188168,rpsF,BLBCPU_RS01575,BLBCPU_317,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200419,-
+1075399,54188169,BLBCPU_RS01580,BLBCPU_RS01580,BLBCPU_318,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20200417,-
+1075399,54188170,BLBCPU_RS01585,BLBCPU_RS01585,BLBCPU_319,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200419,-
+1075399,54188171,BLBCPU_RS01590,BLBCPU_RS01590,BLBCPU_320,-,-,-,Nramp family divalent metal transporter,protein-coding,-,-,-,Nramp family divalent metal transporter,20200419,-
+1075399,54188172,BLBCPU_RS01595,BLBCPU_RS01595,BLBCPU_321,-,-,-,prephenate dehydratase,protein-coding,-,-,-,prephenate dehydratase,20210117,-
+1075399,54188173,BLBCPU_RS01600,BLBCPU_RS01600,BLBCPU_322,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20200419,-
+1075399,54188174,BLBCPU_RS01605,BLBCPU_RS01605,BLBCPU_323,-,-,-,prephenate dehydrogenase,protein-coding,-,-,-,prephenate dehydrogenase,20200419,-
+1075399,54188175,BLBCPU_RS01610,BLBCPU_RS01610,BLBCPU_324,-,-,-,bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase type II,protein-coding,-,-,-,bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase type II,20210116,-
+1075399,54188176,BLBCPU_RS01615,BLBCPU_RS01615,BLBCPU_325,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200419,-
+1075399,54188177,BLBCPU_RS01620,BLBCPU_RS01620,BLBCPU_326,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20210116,-
+1075399,54188178,rpe,BLBCPU_RS01625,BLBCPU_327,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200419,-
+1075399,54188179,BLBCPU_RS01630,BLBCPU_RS01630,BLBCPU_328,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200419,-
+1075399,54188180,BLBCPU_RS01635,BLBCPU_RS01635,BLBCPU_329,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20200419,-
+1075399,54188181,mtaB,BLBCPU_RS01640,BLBCPU_330,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20200419,-
+1075399,54188182,lipB,BLBCPU_RS01645,BLBCPU_331,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20200419,-
+1075399,54188183,lysS,BLBCPU_RS01650,BLBCPU_332,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200419,-
+1075399,54188184,BLBCPU_RS01655,BLBCPU_RS01655,BLBCPU_333,-,-,-,amidohydrolase family protein,protein-coding,-,-,-,amidohydrolase family protein,20200419,-
+1075399,54188185,rsmG,BLBCPU_RS01660,BLBCPU_334,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20200419,-
+1075399,54188186,BLBCPU_RS01665,BLBCPU_RS01665,BLBCPU_335,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20210116,-
+1075399,54188187,BLBCPU_RS01670,BLBCPU_RS01670,BLBCPU_336,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188188,BLBCPU_RS01675,BLBCPU_RS01675,BLBCPU_337,-,-,-,diphosphomevalonate decarboxylase,protein-coding,-,-,-,diphosphomevalonate decarboxylase,20200419,-
+1075399,54188189,BLBCPU_RS01680,BLBCPU_RS01680,BLBCPU_338,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20200419,-
+1075399,54188190,BLBCPU_RS01685,BLBCPU_RS01685,BLBCPU_339,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188191,rpsP,BLBCPU_RS01690,BLBCPU_340,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200419,-
+1075399,54188192,truB,BLBCPU_RS01695,BLBCPU_341,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200926,-
+1075399,54188193,BLBCPU_RS01700,BLBCPU_RS01700,BLBCPU_342,-,-,-,undecaprenyl-diphosphate phosphatase,protein-coding,-,-,-,undecaprenyl-diphosphate phosphatase,20200419,-
+1075399,54188194,gyrB,BLBCPU_RS01705,BLBCPU_343,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20210118,-
+1075399,54188195,trmD,BLBCPU_RS01710,BLBCPU_344,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200419,-
+1075399,54188196,der,BLBCPU_RS01715,BLBCPU_345,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20210117,-
+1075399,54188197,ruvA,BLBCPU_RS01720,BLBCPU_346,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20200419,-
+1075399,54188198,BLBCPU_RS01725,BLBCPU_RS01725,BLBCPU_347,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20200419,-
+1075399,54188199,BLBCPU_RS01730,BLBCPU_RS01730,BLBCPU_348,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20210117,-
+1075399,54188200,BLBCPU_RS01735,BLBCPU_RS01735,BLBCPU_349,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188201,pheS,BLBCPU_RS01740,BLBCPU_350,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200419,-
+1075399,54188202,rlmB,BLBCPU_RS01745,BLBCPU_351,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200419,-
+1075399,54188203,BLBCPU_RS01755,BLBCPU_RS01755,BLBCPU_353,-,-,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20200419,-
+1075399,54188204,murB,BLBCPU_RS01760,BLBCPU_354,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20200419,-
+1075399,54188205,BLBCPU_RS01765,BLBCPU_RS01765,BLBCPU_355,-,-,-,purine-nucleoside phosphorylase,protein-coding,-,-,-,purine-nucleoside phosphorylase,20200912,-
+1075399,54188206,BLBCPU_RS01770,BLBCPU_RS01770,BLBCPU_356,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20200419,-
+1075399,54188207,BLBCPU_RS01775,BLBCPU_RS01775,BLBCPU_357,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,protein-coding,-,-,-,4'-phosphopantetheinyl transferase superfamily protein,20200419,-
+1075399,54188208,BLBCPU_RS01780,BLBCPU_RS01780,BLBCPU_358,-,-,-,nicotinamide mononucleotide transporter,protein-coding,-,-,-,nicotinamide mononucleotide transporter,20200419,-
+1075399,54188209,BLBCPU_RS01785,BLBCPU_RS01785,BLBCPU_359,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20210117,-
+1075399,54188210,ftsZ,BLBCPU_RS01790,BLBCPU_360,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200419,-
+1075399,54188211,ftsA,BLBCPU_RS01795,BLBCPU_361,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20200419,-
+1075399,54188212,BLBCPU_RS01800,BLBCPU_RS01800,BLBCPU_362,-,-,-,cell division protein FtsQ,protein-coding,-,-,-,cell division protein FtsQ,20200419,-
+1075399,54188213,BLBCPU_RS01805,BLBCPU_RS01805,BLBCPU_363,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20200419,-
+1075399,54188214,murG,BLBCPU_RS01810,BLBCPU_364,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20200419,-
+1075399,54188215,BLBCPU_RS01815,BLBCPU_RS01815,BLBCPU_365,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20200419,-
+1075399,54188216,murD,BLBCPU_RS01820,BLBCPU_366,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20200419,-
+1075399,54188217,BLBCPU_RS01825,BLBCPU_RS01825,BLBCPU_367,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20200419,-
+1075399,54188218,BLBCPU_RS01830,BLBCPU_RS01830,BLBCPU_368,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20200419,-
+1075399,54188219,BLBCPU_RS01835,BLBCPU_RS01835,BLBCPU_369,-,-,-,transpeptidase family protein,protein-coding,-,-,-,transpeptidase family protein,20200912,-
+1075399,54188220,BLBCPU_RS01840,BLBCPU_RS01840,BLBCPU_370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188221,rsmH,BLBCPU_RS01845,BLBCPU_371,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200419,-
+1075399,54188222,BLBCPU_RS01850,BLBCPU_RS01850,BLBCPU_372,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20200419,-
+1075399,54188223,BLBCPU_RS01855,BLBCPU_RS01855,BLBCPU_373,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20200419,-
+1075399,54188224,BLBCPU_RS01860,BLBCPU_RS01860,BLBCPU_374,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20200419,-
+1075399,54188225,BLBCPU_RS01865,BLBCPU_RS01865,BLBCPU_375,-,-,-,M42 family metallopeptidase,protein-coding,-,-,-,M42 family metallopeptidase,20200419,-
+1075399,54188226,ychF,BLBCPU_RS01870,BLBCPU_376,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200419,-
+1075399,54188227,tatC,BLBCPU_RS01875,BLBCPU_377,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20210117,-
+1075399,54188228,BLBCPU_RS01880,BLBCPU_RS01880,BLBCPU_378,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20200419,-
+1075399,54188229,smpB,BLBCPU_RS01885,BLBCPU_379,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200419,-
+1075399,54188230,BLBCPU_RS01890,BLBCPU_RS01890,BLBCPU_380,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200419,-
+1075399,54188231,BLBCPU_RS01895,BLBCPU_RS01895,BLBCPU_381,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200417,-
+1075399,54188232,BLBCPU_RS01900,BLBCPU_RS01900,BLBCPU_382,-,-,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20200419,-
+1075399,54188233,BLBCPU_RS01905,BLBCPU_RS01905,BLBCPU_383,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20200419,-
+1075399,54188234,BLBCPU_RS01910,BLBCPU_RS01910,BLBCPU_384,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20200926,-
+1075399,54188235,BLBCPU_RS01915,BLBCPU_RS01915,BLBCPU_385,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188236,rpsT,BLBCPU_RS01920,BLBCPU_386,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200419,-
+1075399,54188237,murI,BLBCPU_RS01925,BLBCPU_387,-,-,-,glutamate racemase,protein-coding,-,-,-,glutamate racemase,20200419,-
+1075399,54188238,BLBCPU_RS01930,BLBCPU_RS01930,BLBCPU_388,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20200419,-
+1075399,54188239,BLBCPU_RS01935,BLBCPU_RS01935,BLBCPU_389,-,-,-,cytochrome Cbb3 oxidase maturation protein CcoH,protein-coding,-,-,-,cytochrome Cbb3 oxidase maturation protein CcoH,20200419,-
+1075399,54188240,BLBCPU_RS01940,BLBCPU_RS01940,BLBCPU_390,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20200419,-
+1075399,54188241,BLBCPU_RS01945,BLBCPU_RS01945,BLBCPU_391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188242,ccoN,BLBCPU_RS01950,BLBCPU_392,-,-,-,"cytochrome-c oxidase, cbb3-type subunit I",protein-coding,-,-,-,"cytochrome-c oxidase, cbb3-type subunit I",20210117,-
+1075399,54188243,ccoS,BLBCPU_RS01955,BLBCPU_393,-,-,-,cbb3-type cytochrome oxidase assembly protein CcoS,protein-coding,-,-,-,cbb3-type cytochrome oxidase assembly protein CcoS,20200419,-
+1075399,54188244,BLBCPU_RS01960,BLBCPU_RS01960,BLBCPU_394,-,-,-,HAD-IC family P-type ATPase,protein-coding,-,-,-,HAD-IC family P-type ATPase,20200912,-
+1075399,54188245,gcvH,BLBCPU_RS01965,BLBCPU_395,-,-,-,glycine cleavage system protein GcvH,protein-coding,-,-,-,glycine cleavage system protein GcvH,20200419,-
+1075399,54188246,BLBCPU_RS01970,BLBCPU_RS01970,BLBCPU_396,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188247,BLBCPU_RS01975,BLBCPU_RS01975,BLBCPU_397,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,YggS family pyridoxal phosphate-dependent enzyme,20200419,-
+1075399,54188248,serC,BLBCPU_RS01980,BLBCPU_398,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,protein-coding,-,-,-,3-phosphoserine/phosphohydroxythreonine transaminase,20200419,-
+1075399,54188249,tilS,BLBCPU_RS01985,BLBCPU_399,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200419,-
+1075399,54188250,BLBCPU_RS01990,BLBCPU_RS01990,BLBCPU_400,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20210117,-
+1075399,54188251,BLBCPU_RS01995,BLBCPU_RS01995,BLBCPU_401,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188252,xth,BLBCPU_RS02000,BLBCPU_402,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20200419,-
+1075399,54188253,BLBCPU_RS02005,BLBCPU_RS02005,BLBCPU_403,-,-,-,ATP phosphoribosyltransferase,protein-coding,-,-,-,ATP phosphoribosyltransferase,20200419,-
+1075399,54188254,hisD,BLBCPU_RS02010,BLBCPU_404,-,-,-,histidinol dehydrogenase,protein-coding,-,-,-,histidinol dehydrogenase,20200419,-
+1075399,54188255,hisC,BLBCPU_RS02015,BLBCPU_405,-,-,-,histidinol-phosphate transaminase,protein-coding,-,-,-,histidinol-phosphate transaminase,20200912,-
+1075399,54188256,hisB,BLBCPU_RS02020,BLBCPU_406,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,protein-coding,-,-,-,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,20200419,-
+1075399,54188257,hisH,BLBCPU_RS02025,BLBCPU_407,-,-,-,imidazole glycerol phosphate synthase subunit HisH,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisH,20210116,-
+1075399,54188258,hisA,BLBCPU_RS02030,BLBCPU_408,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,protein-coding,-,-,-,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,20200419,-
+1075399,54188259,hisF,BLBCPU_RS02035,BLBCPU_409,-,-,-,imidazole glycerol phosphate synthase subunit HisF,protein-coding,-,-,-,imidazole glycerol phosphate synthase subunit HisF,20200419,-
+1075399,54188260,BLBCPU_RS02040,BLBCPU_RS02040,BLBCPU_410,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,protein-coding,-,-,-,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,20200419,-
+1075399,54188261,BLBCPU_RS02045,BLBCPU_RS02045,BLBCPU_411,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",protein-coding,-,-,-,"bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase",20200419,-
+1075399,54188262,rsmA,BLBCPU_RS02050,BLBCPU_412,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20200419,-
+1075399,54188263,serS,BLBCPU_RS02055,BLBCPU_413,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200419,-
+1075399,54188264,BLBCPU_RS02060,BLBCPU_RS02060,BLBCPU_414,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20200419,-
+1075399,54188265,BLBCPU_RS02065,BLBCPU_RS02065,BLBCPU_415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188266,BLBCPU_RS02070,BLBCPU_RS02070,BLBCPU_416,-,-,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20200419,-
+1075399,54188267,BLBCPU_RS02075,BLBCPU_RS02075,BLBCPU_417,-,-,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20200419,-
+1075399,54188268,BLBCPU_RS02080,BLBCPU_RS02080,BLBCPU_418,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200419,-
+1075399,54188269,BLBCPU_RS02085,BLBCPU_RS02085,BLBCPU_419,-,-,-,TPM domain-containing protein,protein-coding,-,-,-,TPM domain-containing protein,20200419,-
+1075399,54188270,BLBCPU_RS02090,BLBCPU_RS02090,BLBCPU_420,-,-,-,LemA family protein,protein-coding,-,-,-,LemA family protein,20200419,-
+1075399,54188271,ndk,BLBCPU_RS02095,BLBCPU_421,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20200419,-
+1075399,54188272,BLBCPU_RS02100,BLBCPU_RS02100,BLBCPU_422,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200419,-
+1075399,54188273,BLBCPU_RS02105,BLBCPU_RS02105,BLBCPU_423,-,-,-,branched-chain amino acid aminotransferase,protein-coding,-,-,-,branched-chain amino acid aminotransferase,20200417,-
+1075399,54188274,BLBCPU_RS02110,BLBCPU_RS02110,BLBCPU_424,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200419,-
+1075399,54188275,ffh,BLBCPU_RS02115,BLBCPU_425,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200419,-
+1075399,54188276,BLBCPU_RS02120,BLBCPU_RS02120,BLBCPU_426,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,protein-coding,-,-,-,glycerol-3-phosphate dehydrogenase/oxidase,20200419,-
+1075399,54188277,glpK,BLBCPU_RS02125,BLBCPU_427,-,-,-,glycerol kinase GlpK,protein-coding,-,-,-,glycerol kinase GlpK,20200419,-
+1075399,54188278,BLBCPU_RS02130,BLBCPU_RS02130,BLBCPU_428,-,-,-,aquaporin family protein,protein-coding,-,-,-,aquaporin family protein,20200419,-
+1075399,54188279,thrS,BLBCPU_RS02135,BLBCPU_429,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200419,-
+1075399,54188280,BLBCPU_RS02140,BLBCPU_RS02140,BLBCPU_430,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188281,rpmI,BLBCPU_RS02145,BLBCPU_431,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200419,-
+1075399,54188282,rplT,BLBCPU_RS02150,BLBCPU_432,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200419,-
+1075399,54188283,def,BLBCPU_RS02155,BLBCPU_433,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200419,-
+1075399,54188284,ruvX,BLBCPU_RS02160,BLBCPU_434,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200419,-
+1075399,54188285,BLBCPU_RS02165,BLBCPU_RS02165,BLBCPU_435,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20200419,-
+1075399,54188286,BLBCPU_RS02170,BLBCPU_RS02170,BLBCPU_436,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20200419,-
+1075399,54188287,BLBCPU_RS02175,BLBCPU_RS02175,BLBCPU_437,-,-,-,HD domain-containing protein,protein-coding,-,-,-,HD domain-containing protein,20200419,-
+1075399,54188288,BLBCPU_RS02180,BLBCPU_RS02180,BLBCPU_438,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,protein-coding,-,-,-,bifunctional oligoribonuclease/PAP phosphatase NrnA,20200419,-
+1075399,54188289,BLBCPU_RS02185,BLBCPU_RS02185,BLBCPU_439,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200419,-
+1075399,54188290,BLBCPU_RS02190,BLBCPU_RS02190,BLBCPU_440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188291,BLBCPU_RS02195,BLBCPU_RS02195,BLBCPU_441,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200419,-
+1075399,54188292,lipA,BLBCPU_RS02200,BLBCPU_442,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20210116,-
+1075399,54188293,BLBCPU_RS02205,BLBCPU_RS02205,BLBCPU_443,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200926,-
+1075399,54188294,BLBCPU_RS02210,BLBCPU_RS02210,BLBCPU_444,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200417,-
+1075399,54188295,fbaA,BLBCPU_RS02215,BLBCPU_445,-,-,-,class II fructose-bisphosphate aldolase,protein-coding,-,-,-,class II fructose-bisphosphate aldolase,20200419,-
+1075399,54188296,accD,BLBCPU_RS02220,BLBCPU_446,-,-,-,"acetyl-CoA carboxylase, carboxyltransferase subunit beta",protein-coding,-,-,-,"acetyl-CoA carboxylase, carboxyltransferase subunit beta",20200419,-
+1075399,54188297,guaA,BLBCPU_RS02225,BLBCPU_447,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20200419,-
+1075399,54188298,purD,BLBCPU_RS02230,BLBCPU_448,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20200419,-
+1075399,54188299,purH,BLBCPU_RS02235,BLBCPU_449,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20200419,-
+1075399,54188300,BLBCPU_RS02240,BLBCPU_RS02240,BLBCPU_450,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20200419,-
+1075399,54188301,BLBCPU_RS02245,BLBCPU_RS02245,BLBCPU_451,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20200419,-
+1075399,54188302,BLBCPU_RS02250,BLBCPU_RS02250,BLBCPU_452,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20200419,-
+1075399,54188303,BLBCPU_RS02255,BLBCPU_RS02255,BLBCPU_453,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20210427,-
+1075399,54188304,purE,BLBCPU_RS02260,BLBCPU_454,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20200419,-
+1075399,54188305,BLBCPU_RS02265,BLBCPU_RS02265,BLBCPU_455,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20200419,-
+1075399,54188306,BLBCPU_RS02270,BLBCPU_RS02270,BLBCPU_456,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20200417,-
+1075399,54188307,BLBCPU_RS02275,BLBCPU_RS02275,BLBCPU_457,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20200419,-
+1075399,54188308,ruvB,BLBCPU_RS02280,BLBCPU_458,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200419,-
+1075399,54188309,surE,BLBCPU_RS02285,BLBCPU_459,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20200419,-
+1075399,54188310,BLBCPU_RS02290,BLBCPU_RS02290,BLBCPU_460,-,-,-,carboxy terminal-processing peptidase,protein-coding,-,-,-,carboxy terminal-processing peptidase,20200419,-
+1075399,54188311,gyrA,BLBCPU_RS02295,BLBCPU_461,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200419,-
+1075399,54188312,aroB,BLBCPU_RS02300,BLBCPU_462,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20200419,-
+1075399,54188313,BLBCPU_RS02305,BLBCPU_RS02305,BLBCPU_464,-,-,-,VTT domain-containing protein,protein-coding,-,-,-,VTT domain-containing protein,20210117,-
+1075399,54188314,BLBCPU_RS02310,BLBCPU_RS02310,BLBCPU_465,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20210117,-
+1075399,54188315,BLBCPU_RS02315,BLBCPU_RS02315,BLBCPU_466,-,-,-,50S ribosomal protein L25,protein-coding,-,-,-,50S ribosomal protein L25,20200419,-
+1075399,54188316,BLBCPU_RS02320,BLBCPU_RS02320,BLBCPU_467,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20210116,-
+1075399,54188317,BLBCPU_RS02325,BLBCPU_RS02325,BLBCPU_468,-,-,-,thymidylate synthase,protein-coding,-,-,-,thymidylate synthase,20200417,-
+1075399,54188318,BLBCPU_RS02330,BLBCPU_RS02330,BLBCPU_469,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20210116,-
+1075399,54188319,BLBCPU_RS02335,BLBCPU_RS02335,BLBCPU_470,-,-,-,urease subunit gamma,protein-coding,-,-,-,urease subunit gamma,20200419,-
+1075399,54188320,ureC,BLBCPU_RS02340,BLBCPU_471,-,-,-,urease subunit alpha,protein-coding,-,-,-,urease subunit alpha,20200419,-
+1075399,54188321,BLBCPU_RS02345,BLBCPU_RS02345,BLBCPU_472,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188322,BLBCPU_RS02350,BLBCPU_RS02350,BLBCPU_473,-,-,-,dCMP deaminase,protein-coding,-,-,-,dCMP deaminase,20200419,-
+1075399,54188323,BLBCPU_RS02355,BLBCPU_RS02355,BLBCPU_474,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200419,-
+1075399,54188324,BLBCPU_RS02360,BLBCPU_RS02360,BLBCPU_475,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20200419,-
+1075399,54188325,BLBCPU_RS02365,BLBCPU_RS02365,BLBCPU_476,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200419,-
+1075399,54188326,fbp,BLBCPU_RS02370,BLBCPU_477,-,-,-,class 1 fructose-bisphosphatase,protein-coding,-,-,-,class 1 fructose-bisphosphatase,20200419,-
+1075399,54188327,BLBCPU_RS02375,BLBCPU_RS02375,BLBCPU_478,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200419,-
+1075399,54188328,BLBCPU_RS02380,BLBCPU_RS02380,BLBCPU_479,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20200419,-
+1075399,54188329,pyrF,BLBCPU_RS02385,BLBCPU_480,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20200419,-
+1075399,54188330,BLBCPU_RS02390,BLBCPU_RS02390,BLBCPU_481,-,-,-,dihydroorotate oxidase,protein-coding,-,-,-,dihydroorotate oxidase,20200419,-
+1075399,54188331,BLBCPU_RS02395,BLBCPU_RS02395,BLBCPU_482,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20210424,-
+1075399,54188332,rpmF,BLBCPU_RS02400,BLBCPU_483,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200419,-
+1075399,54188333,accB,BLBCPU_RS02405,BLBCPU_484,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20200419,-
+1075399,54188334,accC,BLBCPU_RS02410,BLBCPU_485,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20200419,-
+1075399,54188335,prfA,BLBCPU_RS02415,BLBCPU_486,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200419,-
+1075399,54188336,BLBCPU_RS02420,BLBCPU_RS02420,BLBCPU_487,-,-,-,DUF4293 family protein,protein-coding,-,-,-,DUF4293 family protein,20200419,-
+1075399,54188337,rho,BLBCPU_RS02425,BLBCPU_488,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210117,-
+1075399,54188338,BLBCPU_RS02430,BLBCPU_RS02430,BLBCPU_489,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188339,BLBCPU_RS02435,BLBCPU_RS02435,BLBCPU_490,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20200419,-
+1075399,54188340,BLBCPU_RS02440,BLBCPU_RS02440,BLBCPU_491,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188341,BLBCPU_RS02445,BLBCPU_RS02445,BLBCPU_493,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20210117,-
+1075399,54188342,rpmB,BLBCPU_RS02450,BLBCPU_494,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200419,-
+1075399,54188343,rpmG,BLBCPU_RS02455,BLBCPU_495,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200419,-
+1075399,54188344,ftsY,BLBCPU_RS02460,BLBCPU_497,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200419,-
+1075399,54188345,htpG,BLBCPU_RS02465,BLBCPU_498,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20200419,-
+1075399,54188346,BLBCPU_RS02470,BLBCPU_RS02470,BLBCPU_499,-,-,-,3'-5' exonuclease,protein-coding,-,-,-,3'-5' exonuclease,20200419,-
+1075399,54188347,BLBCPU_RS02475,BLBCPU_RS02475,BLBCPU_500,-,-,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20210117,-
+1075399,54188348,ybeY,BLBCPU_RS02480,BLBCPU_501,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200419,-
+1075399,54188349,mnmG,BLBCPU_RS02485,BLBCPU_502,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200419,-
+1075399,54188350,BLBCPU_RS02490,BLBCPU_RS02490,BLBCPU_503,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20210117,-
+1075399,54188351,fumC,BLBCPU_RS02495,BLBCPU_504,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20200419,-
+1075399,54188352,BLBCPU_RS02500,BLBCPU_RS02500,BLBCPU_505,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20200419,-
+1075399,54188353,fabD,BLBCPU_RS02505,BLBCPU_506,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20200419,-
+1075399,54188354,BLBCPU_RS02510,BLBCPU_RS02510,BLBCPU_507,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188355,BLBCPU_RS02515,BLBCPU_RS02515,BLBCPU_508,-,-,-,citrate synthase,protein-coding,-,-,-,citrate synthase,20200419,-
+1075399,54188356,BLBCPU_RS02520,BLBCPU_RS02520,BLBCPU_509,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188357,BLBCPU_RS02525,BLBCPU_RS02525,BLBCPU_510,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20200419,-
+1075399,54188358,BLBCPU_RS02530,BLBCPU_RS02530,BLBCPU_512,-,-,-,integration host factor subunit beta,protein-coding,-,-,-,integration host factor subunit beta,20200419,-
+1075399,54188359,mutY,BLBCPU_RS02535,BLBCPU_513,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20200419,-
+1075399,54188360,gldE,BLBCPU_RS02540,BLBCPU_514,-,-,-,gliding motility-associated protein GldE,protein-coding,-,-,-,gliding motility-associated protein GldE,20200419,-
+1075399,54188361,BLBCPU_RS02545,BLBCPU_RS02545,BLBCPU_515,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188362,BLBCPU_RS02550,BLBCPU_RS02550,BLBCPU_516,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20200419,-
+1075399,54188363,mutL,BLBCPU_RS02555,BLBCPU_517,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200419,-
+1075399,54188364,BLBCPU_RS02560,BLBCPU_RS02560,BLBCPU_518,-,-,-,rhomboid family intramembrane serine protease,protein-coding,-,-,-,rhomboid family intramembrane serine protease,20200419,-
+1075399,54188365,lepB,BLBCPU_RS02565,BLBCPU_519,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20200419,-
+1075399,54188366,dapB,BLBCPU_RS02570,BLBCPU_520,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20200419,-
+1075399,54188367,BLBCPU_RS02575,BLBCPU_RS02575,BLBCPU_521,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188368,mnmA,BLBCPU_RS02580,BLBCPU_522,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200419,-
+1075399,54188369,BLBCPU_RS02585,BLBCPU_RS02585,BLBCPU_523,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200926,-
+1075399,54188370,BLBCPU_RS02590,BLBCPU_RS02590,BLBCPU_524,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200417,-
+1075399,54188371,trpS,BLBCPU_RS02595,BLBCPU_525,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200419,-
+1075399,54188372,atpG,BLBCPU_RS02600,BLBCPU_526,-,-,-,ATP synthase F1 subunit gamma,protein-coding,-,-,-,ATP synthase F1 subunit gamma,20200419,-
+1075399,54188373,BLBCPU_RS02605,BLBCPU_RS02605,BLBCPU_527,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200419,-
+1075399,54188374,atpH,BLBCPU_RS02610,BLBCPU_528,-,-,-,ATP synthase F1 subunit delta,protein-coding,-,-,-,ATP synthase F1 subunit delta,20200419,-
+1075399,54188375,atpF,BLBCPU_RS02615,BLBCPU_529,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200419,-
+1075399,54188376,atpE,BLBCPU_RS02620,BLBCPU_530,-,-,-,ATP synthase F0 subunit C,protein-coding,-,-,-,ATP synthase F0 subunit C,20210116,-
+1075399,54188377,atpB,BLBCPU_RS02625,BLBCPU_531,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20210116,-
+1075399,54188378,BLBCPU_RS02630,BLBCPU_RS02630,BLBCPU_532,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200419,-
+1075399,54188379,folE,BLBCPU_RS02635,BLBCPU_533,-,-,-,GTP cyclohydrolase I FolE,protein-coding,-,-,-,GTP cyclohydrolase I FolE,20200417,-
+1075399,54188380,nadE,BLBCPU_RS02640,BLBCPU_534,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20210117,-
+1075399,54188381,tsaB,BLBCPU_RS02645,BLBCPU_535,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200419,-
+1075399,54188382,BLBCPU_RS02650,BLBCPU_RS02650,BLBCPU_536,-,-,-,potassium transporter,protein-coding,-,-,-,potassium transporter,20200419,-
+1075399,54188383,BLBCPU_RS02655,BLBCPU_RS02655,BLBCPU_537,-,-,-,TrkA family potassium uptake protein,protein-coding,-,-,-,TrkA family potassium uptake protein,20200419,-
+1075399,54188384,BLBCPU_RS02660,BLBCPU_RS02660,BLBCPU_538,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188385,BLBCPU_RS02665,BLBCPU_RS02665,BLBCPU_539,-,-,-,cytochrome c,protein-coding,-,-,-,cytochrome c,20200419,-
+1075399,54188386,BLBCPU_RS02670,BLBCPU_RS02670,BLBCPU_540,-,-,-,DUF3341 domain-containing protein,protein-coding,-,-,-,DUF3341 domain-containing protein,20200419,-
+1075399,54188387,nrfD,BLBCPU_RS02675,BLBCPU_541,-,-,-,polysulfide reductase NrfD,protein-coding,-,-,-,polysulfide reductase NrfD,20200419,-
+1075399,54188388,BLBCPU_RS02680,BLBCPU_RS02680,BLBCPU_542,-,-,-,4Fe-4S dicluster domain-containing protein,protein-coding,-,-,-,4Fe-4S dicluster domain-containing protein,20200419,-
+1075399,54188389,BLBCPU_RS02685,BLBCPU_RS02685,BLBCPU_543,-,-,-,c-type cytochrome,protein-coding,-,-,-,c-type cytochrome,20200419,-
+1075399,54188390,BLBCPU_RS02690,BLBCPU_RS02690,BLBCPU_544,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200419,-
+1075399,54188391,BLBCPU_RS02695,BLBCPU_RS02695,BLBCPU_545,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200912,-
+1075399,54188392,BLBCPU_RS02700,BLBCPU_RS02700,BLBCPU_546,-,-,-,DUF59 domain-containing protein,protein-coding,-,-,-,DUF59 domain-containing protein,20210116,-
+1075399,54188393,BLBCPU_RS02705,BLBCPU_RS02705,BLBCPU_547,-,-,-,SPFH domain-containing protein,protein-coding,-,-,-,SPFH domain-containing protein,20200419,-
+1075399,54188394,BLBCPU_RS02710,BLBCPU_RS02710,BLBCPU_548,-,-,-,DUF3127 domain-containing protein,protein-coding,-,-,-,DUF3127 domain-containing protein,20200419,-
+1075399,54188395,BLBCPU_RS02715,BLBCPU_RS02715,BLBCPU_549,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20200926,-
+1075399,54188396,BLBCPU_RS02720,BLBCPU_RS02720,BLBCPU_550,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20200419,-
+1075399,54188397,BLBCPU_RS02725,BLBCPU_RS02725,BLBCPU_551,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200419,-
+1075399,54188398,sucC,BLBCPU_RS02730,BLBCPU_552,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20200419,-
+1075399,54188399,BLBCPU_RS02735,BLBCPU_RS02735,BLBCPU_553,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200419,-
+1075399,54188400,BLBCPU_RS02740,BLBCPU_RS02740,BLBCPU_554,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20200419,-
+1075399,54188401,BLBCPU_RS02745,BLBCPU_RS02745,BLBCPU_555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188402,odhB,BLBCPU_RS02750,BLBCPU_556,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,20200419,-
+1075399,54188403,BLBCPU_RS02755,BLBCPU_RS02755,BLBCPU_557,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20200419,-
+1075399,54188404,alaS,BLBCPU_RS02760,BLBCPU_558,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200419,-
+1075399,54188405,BLBCPU_RS02765,BLBCPU_RS02765,BLBCPU_559,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200417,-
+1075399,54188406,ccsA,BLBCPU_RS02770,BLBCPU_560,-,-,-,cytochrome c biogenesis protein CcsA,protein-coding,-,-,-,cytochrome c biogenesis protein CcsA,20200419,-
+1075399,54188407,BLBCPU_RS02775,BLBCPU_RS02775,BLBCPU_561,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200419,-
+1075399,54188408,recA,BLBCPU_RS02780,BLBCPU_562,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20210117,-
+1075399,54188409,BLBCPU_RS02785,BLBCPU_RS02785,BLBCPU_563,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20200419,-
+1075399,54188410,BLBCPU_RS02790,BLBCPU_RS02790,BLBCPU_564,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20200419,-
+1075399,54188411,BLBCPU_RS02795,BLBCPU_RS02795,BLBCPU_565,-,-,-,nucleotidyltransferase,protein-coding,-,-,-,nucleotidyltransferase,20200419,-
+1075399,54188412,BLBCPU_RS02800,BLBCPU_RS02800,BLBCPU_566,-,-,-,deoxyuridine 5'-triphosphate nucleotidohydrolase,protein-coding,-,-,-,deoxyuridine 5'-triphosphate nucleotidohydrolase,20200419,-
+1075399,54188413,BLBCPU_RS02805,BLBCPU_RS02805,BLBCPU_567,-,-,-,oligosaccharide flippase family protein,protein-coding,-,-,-,oligosaccharide flippase family protein,20200912,-
+1075399,54188414,BLBCPU_RS02810,BLBCPU_RS02810,BLBCPU_568,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200419,-
+1075399,54188415,BLBCPU_RS02815,BLBCPU_RS02815,BLBCPU_569,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188416,BLBCPU_RS02820,BLBCPU_RS02820,BLBCPU_570,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188417,BLBCPU_RS02825,BLBCPU_RS02825,BLBCPU_571,-,-,-,tRNA,tRNA,-,-,-,-,20210117,-
+1075399,54188418,BLBCPU_RS02830,BLBCPU_RS02830,BLBCPU_572,-,-,-,HDIG domain-containing protein,protein-coding,-,-,-,HDIG domain-containing protein,20200419,-
+1075399,54188419,BLBCPU_RS02835,BLBCPU_RS02835,BLBCPU_573,-,-,-,translocation/assembly module TamB domain-containing protein,protein-coding,-,-,-,translocation/assembly module TamB domain-containing protein,20210117,-
+1075399,54188420,tsaD,BLBCPU_RS02840,BLBCPU_574,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200419,-
+1075399,54188421,gcvP,BLBCPU_RS02845,BLBCPU_575,-,-,-,aminomethyl-transferring glycine dehydrogenase,protein-coding,-,-,-,aminomethyl-transferring glycine dehydrogenase,20200419,-
+1075399,54188422,mdh,BLBCPU_RS02850,BLBCPU_576,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20200419,-
+1075399,54188423,BLBCPU_RS02855,BLBCPU_RS02855,BLBCPU_577,-,-,-,NAD(P)H-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)H-dependent oxidoreductase,20210117,-
+1075399,54188424,BLBCPU_RS02860,BLBCPU_RS02860,BLBCPU_578,-,-,-,thiamine diphosphokinase,protein-coding,-,-,-,thiamine diphosphokinase,20200419,-
+1075399,54188425,lptB,BLBCPU_RS02865,BLBCPU_579,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20200419,-
+1075399,54188426,BLBCPU_RS02870,BLBCPU_RS02870,BLBCPU_580,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210117,-
+1075399,54188427,truA,BLBCPU_RS02880,BLBCPU_581,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200419,-
+1075399,54188428,BLBCPU_RS02885,BLBCPU_RS02885,BLBCPU_582,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188429,BLBCPU_RS02890,BLBCPU_RS02890,BLBCPU_583,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200419,-
+1075399,54188430,BLBCPU_RS02895,BLBCPU_RS02895,BLBCPU_584,-,-,-,LPS-assembly protein LptD,protein-coding,-,-,-,LPS-assembly protein LptD,20200419,-
+1075399,54188431,folK,BLBCPU_RS02900,BLBCPU_585,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,protein-coding,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,20200912,-
+1075399,54188432,BLBCPU_RS02910,BLBCPU_RS02910,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200912,-
+1075399,54188433,dut,BLBCPU_RS02915,BLBCPU_p001,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20200419,-
+1075399,54188434,BLBCPU_RS02925,BLBCPU_RS02925,BLBCPU_p003,-,-,-,VRR-NUC domain-containing protein,protein-coding,-,-,-,VRR-NUC domain-containing protein,20210117,-
+1075399,54188435,BLBCPU_RS02930,BLBCPU_RS02930,BLBCPU_p004,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20200419,-
+1075399,54188436,rnpB,BLBCPU_RS02945,BLBCPU_492,-,-,-,ncRNA,ncRNA,-,-,-,-,20210117,-
+1075399,54188437,BLBCPU_RS02950,BLBCPU_RS02950,-,-,-,-,DUF1599 domain-containing protein,protein-coding,-,-,-,DUF1599 domain-containing protein,20200417,-
+1075399,54188438,BLBCPU_RS02955,BLBCPU_RS02955,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200415,-
+1075399,54188439,ssrA,BLBCPU_RS02960,BLBCPU_007,-,-,-,miscRNA,miscRNA,-,-,-,-,20210117,-
+1075399,54188440,BLBCPU_RS02965,BLBCPU_RS02965,-,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188441,guaB,BLBCPU_RS02970,BLBCPU_151,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20200417,-
+1075399,54188442,miaA,BLBCPU_RS02975,BLBCPU_175,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188443,BLBCPU_RS02985,BLBCPU_RS02985,BLBCPU_277,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,protein-coding,-,-,-,RpiB/LacA/LacB family sugar-phosphate isomerase,20200417,-
+1075399,54188444,BLBCPU_RS02990,BLBCPU_RS02990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200417,-
+1075399,54188445,BLBCPU_RS02995,BLBCPU_RS02995,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200415,-
+1075399,54188446,BLBCPU_RS03000,BLBCPU_RS03000,BLBCPU_496,-,-,-,DUF4295 family protein,protein-coding,-,-,-,DUF4295 family protein,20200415,-
+1075399,54188447,BLBCPU_RS03020,BLBCPU_RS03020,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200415,-
+1075399,54188448,BLBCPU_RS03025,BLBCPU_RS03025,-,-,-,-,pseudo,pseudo,-,-,-,-,20210117,-
+1075399,54188449,BLBCPU_RS03030,BLBCPU_RS03030,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200415,-
+1075399,54188450,BLBCPU_RS03035,BLBCPU_RS03035,-,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20210123,-

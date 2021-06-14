@@ -1,0 +1,1167 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1173064,16976826,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Anaplasma phagocytophilum JM; Anaplasma phagocytophilum strain JM).,other,-,-,-,-,20150304,-
+1173064,56368202,polA,WSQ_RS00005,WSQ_00005,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20200805,-
+1173064,56368203,rpe,WSQ_RS00010,WSQ_00010,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200801,-
+1173064,56368204,WSQ_RS00015,WSQ_RS00015,WSQ_00015,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210424,-
+1173064,56368205,WSQ_RS00020,WSQ_RS00020,WSQ_00020,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1173064,56368206,WSQ_RS00030,WSQ_RS00030,WSQ_00030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368207,elbB,WSQ_RS00035,WSQ_00035,-,-,-,isoprenoid biosynthesis glyoxalase ElbB,protein-coding,-,-,-,isoprenoid biosynthesis glyoxalase ElbB,20200805,-
+1173064,56368208,WSQ_RS00040,WSQ_RS00040,WSQ_00040,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200805,-
+1173064,56368209,WSQ_RS00045,WSQ_RS00045,WSQ_00045,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368210,WSQ_RS00050,WSQ_RS00050,WSQ_00050,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20200801,-
+1173064,56368211,WSQ_RS00055,WSQ_RS00055,WSQ_00055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368212,WSQ_RS00060,WSQ_RS00060,WSQ_00060,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368213,WSQ_RS00065,WSQ_RS00065,WSQ_00065,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20200805,-
+1173064,56368214,WSQ_RS00070,WSQ_RS00070,WSQ_00070,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,glycine--tRNA ligase subunit beta,20200805,-
+1173064,56368215,dnaJ,WSQ_RS00075,WSQ_00075,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20200805,-
+1173064,56368216,nadC,WSQ_RS00080,WSQ_00080,-,-,-,carboxylating nicotinate-nucleotide diphosphorylase,protein-coding,-,-,-,carboxylating nicotinate-nucleotide diphosphorylase,20200805,-
+1173064,56368217,WSQ_RS00085,WSQ_RS00085,WSQ_00085,-,-,-,glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,glycerol-3-phosphate acyltransferase,20200805,-
+1173064,56368218,ruvC,WSQ_RS00090,WSQ_00090,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20200805,-
+1173064,56368219,WSQ_RS00095,WSQ_RS00095,WSQ_00095,-,-,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200805,-
+1173064,56368220,WSQ_RS00100,WSQ_RS00100,WSQ_00100,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20201130,-
+1173064,56368221,WSQ_RS00105,WSQ_RS00105,WSQ_00105,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200805,-
+1173064,56368222,WSQ_RS00110,WSQ_RS00110,WSQ_00110,-,-,-,HK97 family phage prohead protease,protein-coding,-,-,-,HK97 family phage prohead protease,20200805,-
+1173064,56368223,WSQ_RS00115,WSQ_RS00115,WSQ_00115,-,-,-,phage portal protein,protein-coding,-,-,-,phage portal protein,20200805,-
+1173064,56368224,WSQ_RS00120,WSQ_RS00120,WSQ_00120,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200805,-
+1173064,56368225,nadA,WSQ_RS00125,WSQ_00125,-,-,-,quinolinate synthase NadA,protein-coding,-,-,-,quinolinate synthase NadA,20200805,-
+1173064,56368226,WSQ_RS00130,WSQ_RS00130,WSQ_00130,-,-,-,ferredoxin family protein,protein-coding,-,-,-,ferredoxin family protein,20210424,-
+1173064,56368227,WSQ_RS00145,WSQ_RS00145,WSQ_00145,-,-,-,vacuolar membrane-interacting protein,protein-coding,-,-,-,vacuolar membrane-interacting protein,20200805,-
+1173064,56368228,WSQ_RS00155,WSQ_RS00155,WSQ_00155,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368229,trpS,WSQ_RS00160,WSQ_00160,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200805,-
+1173064,56368230,WSQ_RS00165,WSQ_RS00165,WSQ_00165,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20210424,-
+1173064,56368231,ribD,WSQ_RS00170,WSQ_00170,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20200805,-
+1173064,56368232,WSQ_RS00175,WSQ_RS00175,WSQ_00175,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200805,-
+1173064,56368233,secG,WSQ_RS00180,WSQ_00180,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200801,-
+1173064,56368234,WSQ_RS00185,WSQ_RS00185,WSQ_00185,-,-,-,tyrosine recombinase,protein-coding,-,-,-,tyrosine recombinase,20210424,-
+1173064,56368235,WSQ_RS00190,WSQ_RS00190,WSQ_00190,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1173064,56368236,WSQ_RS00195,WSQ_RS00195,WSQ_00195,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20201129,-
+1173064,56368237,WSQ_RS00200,WSQ_RS00200,WSQ_00200,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368238,WSQ_RS00205,WSQ_RS00205,WSQ_00205,-,-,-,monovalent cation/H+ antiporter subunit D,protein-coding,-,-,-,monovalent cation/H+ antiporter subunit D,20200801,-
+1173064,56368239,WSQ_RS00210,WSQ_RS00210,WSQ_00210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368240,mlaD,WSQ_RS00215,WSQ_00215,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,protein-coding,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,20200805,-
+1173064,56368241,WSQ_RS00220,WSQ_RS00220,WSQ_00220,-,-,-,dehydrogenase,protein-coding,-,-,-,dehydrogenase,20200805,-
+1173064,56368242,nrdR,WSQ_RS00225,WSQ_00225,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20210417,-
+1173064,56368243,WSQ_RS00230,WSQ_RS00230,WSQ_00230,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368244,WSQ_RS00235,WSQ_RS00235,WSQ_00235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368245,WSQ_RS00240,WSQ_RS00240,WSQ_00240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368246,WSQ_RS00245,WSQ_RS00245,WSQ_00245,-,-,-,Fe(3+) ABC transporter substrate-binding protein,protein-coding,-,-,-,Fe(3+) ABC transporter substrate-binding protein,20200805,-
+1173064,56368247,WSQ_RS00250,WSQ_RS00250,WSQ_00250,-,-,-,Trm112 family protein,protein-coding,-,-,-,Trm112 family protein,20200805,-
+1173064,56368248,WSQ_RS00255,WSQ_RS00255,WSQ_00255,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1173064,56368249,rpsP,WSQ_RS00260,WSQ_00260,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200805,-
+1173064,56368250,WSQ_RS00265,WSQ_RS00265,WSQ_00270,-,-,-,SDR family NAD(P)-dependent oxidoreductase,protein-coding,-,-,-,SDR family NAD(P)-dependent oxidoreductase,20200805,-
+1173064,56368251,WSQ_RS00270,WSQ_RS00270,WSQ_00275,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200805,-
+1173064,56368252,pheS,WSQ_RS00280,WSQ_00285,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200801,-
+1173064,56368253,rplT,WSQ_RS00285,WSQ_00290,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200805,-
+1173064,56368254,rpmI,WSQ_RS00290,WSQ_00295,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200805,-
+1173064,56368255,WSQ_RS00295,WSQ_RS00295,WSQ_00300,-,-,-,DUF1013 domain-containing protein,protein-coding,-,-,-,DUF1013 domain-containing protein,20201129,-
+1173064,56368256,rho,WSQ_RS00300,WSQ_00305,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20210424,-
+1173064,56368257,lpdA,WSQ_RS00305,WSQ_00310,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201129,-
+1173064,56368258,WSQ_RS00315,WSQ_RS00315,WSQ_00320,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20210424,-
+1173064,56368259,WSQ_RS00320,WSQ_RS00320,WSQ_00325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368260,thiS,WSQ_RS00325,WSQ_00330,-,-,-,sulfur carrier protein ThiS,protein-coding,-,-,-,sulfur carrier protein ThiS,20210424,-
+1173064,56368261,WSQ_RS00330,WSQ_RS00330,WSQ_00335,-,-,-,thiazole synthase,protein-coding,-,-,-,thiazole synthase,20200805,-
+1173064,56368262,WSQ_RS00335,WSQ_RS00335,WSQ_00340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368263,WSQ_RS00340,WSQ_RS00340,WSQ_00345,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+1173064,56368264,WSQ_RS00345,WSQ_RS00345,WSQ_00355,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368265,WSQ_RS00350,WSQ_RS00350,WSQ_00360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368266,rsmD,WSQ_RS00355,WSQ_00365,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20200805,-
+1173064,56368267,WSQ_RS00360,WSQ_RS00360,WSQ_00370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368268,WSQ_RS00365,WSQ_RS00365,WSQ_00380,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20200805,-
+1173064,56368269,WSQ_RS00370,WSQ_RS00370,WSQ_00385,-,-,-,ETC complex I subunit,protein-coding,-,-,-,ETC complex I subunit,20200801,-
+1173064,56368270,xseB,WSQ_RS00375,WSQ_00390,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20200805,-
+1173064,56368271,trxA,WSQ_RS00380,WSQ_00395,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200805,-
+1173064,56368272,virB9,WSQ_RS00385,WSQ_00400,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20200805,-
+1173064,56368273,pdhA,WSQ_RS00390,WSQ_00405,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200801,-
+1173064,56368274,WSQ_RS00395,WSQ_RS00395,WSQ_00410,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201129,-
+1173064,56368275,WSQ_RS00405,WSQ_RS00405,WSQ_00415,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201129,-
+1173064,56368276,rrf,WSQ_RS00410,WSQ_00420,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201129,-
+1173064,56368277,purN,WSQ_RS00415,WSQ_00425,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20200801,-
+1173064,56368278,guaB,WSQ_RS00420,WSQ_00430,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20200805,-
+1173064,56368279,WSQ_RS00425,WSQ_RS00425,WSQ_00435,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20200805,-
+1173064,56368280,rpmE,WSQ_RS00430,WSQ_00440,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200805,-
+1173064,56368281,WSQ_RS00435,WSQ_RS00435,WSQ_00445,-,-,-,phage portal protein,protein-coding,-,-,-,phage portal protein,20200905,-
+1173064,56368282,fabD,WSQ_RS00440,WSQ_00450,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20210424,-
+1173064,56368283,WSQ_RS00445,WSQ_RS00445,WSQ_00455,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20210424,-
+1173064,56368284,WSQ_RS00450,WSQ_RS00450,WSQ_00460,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200801,-
+1173064,56368286,WSQ_RS00460,WSQ_RS00460,WSQ_00470,-,-,-,Tim44 domain-containing protein,protein-coding,-,-,-,Tim44 domain-containing protein,20200805,-
+1173064,56368287,secB,WSQ_RS00465,WSQ_00475,-,-,-,protein-export chaperone SecB,protein-coding,-,-,-,protein-export chaperone SecB,20200805,-
+1173064,56368288,WSQ_RS00470,WSQ_RS00470,WSQ_00480,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20200805,-
+1173064,56368289,WSQ_RS00480,WSQ_RS00480,WSQ_00490,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200805,-
+1173064,56368290,WSQ_RS00485,WSQ_RS00485,WSQ_00500,-,-,-,nitronate monooxygenase,protein-coding,-,-,-,nitronate monooxygenase,20200805,-
+1173064,56368291,pyrH,WSQ_RS00490,WSQ_00510,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368292,WSQ_RS00500,WSQ_RS00500,WSQ_00525,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20200805,-
+1173064,56368293,mfd,WSQ_RS00505,WSQ_00540,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20200805,-
+1173064,56368294,rnhA,WSQ_RS00510,WSQ_00550,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20200801,-
+1173064,56368295,WSQ_RS00515,WSQ_RS00515,WSQ_00555,-,-,-,AsmA-like C-terminal domain-containing protein,protein-coding,-,-,-,AsmA-like C-terminal domain-containing protein,20200805,-
+1173064,56368296,WSQ_RS00520,WSQ_RS00520,WSQ_00560,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200805,-
+1173064,56368297,frr,WSQ_RS00525,WSQ_00565,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201129,-
+1173064,56368298,WSQ_RS00530,WSQ_RS00530,WSQ_00570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368299,WSQ_RS00535,WSQ_RS00535,WSQ_00575,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20210424,-
+1173064,56368300,WSQ_RS00540,WSQ_RS00540,WSQ_00585,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368301,WSQ_RS00545,WSQ_RS00545,WSQ_00590,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368302,WSQ_RS00550,WSQ_RS00550,WSQ_00595,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20200805,-
+1173064,56368303,WSQ_RS00555,WSQ_RS00555,WSQ_00600,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200805,-
+1173064,56368304,WSQ_RS00560,WSQ_RS00560,WSQ_00605,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20200805,-
+1173064,56368305,WSQ_RS00565,WSQ_RS00565,WSQ_00610,-,-,-,COX15/CtaA family protein,protein-coding,-,-,-,COX15/CtaA family protein,20200805,-
+1173064,56368306,ccmA,WSQ_RS00570,WSQ_00620,-,-,-,heme ABC exporter ATP-binding protein CcmA,protein-coding,-,-,-,heme ABC exporter ATP-binding protein CcmA,20200805,-
+1173064,56368307,WSQ_RS00575,WSQ_RS00575,WSQ_00630,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368308,WSQ_RS00580,WSQ_RS00580,WSQ_00635,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20200805,-
+1173064,56368309,WSQ_RS00585,WSQ_RS00585,WSQ_00640,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368310,WSQ_RS00590,WSQ_RS00590,WSQ_00645,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368311,WSQ_RS00595,WSQ_RS00595,WSQ_00655,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368312,WSQ_RS00600,WSQ_RS00600,WSQ_00660,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368313,WSQ_RS00605,WSQ_RS00605,WSQ_00665,-,-,-,cold shock domain-containing protein,protein-coding,-,-,-,cold shock domain-containing protein,20210129,-
+1173064,56368314,WSQ_RS00610,WSQ_RS00610,WSQ_00670,-,-,-,GHKL domain-containing protein,protein-coding,-,-,-,GHKL domain-containing protein,20200805,-
+1173064,56368315,WSQ_RS00615,WSQ_RS00615,WSQ_00675,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20200805,-
+1173064,56368316,ligA,WSQ_RS00620,WSQ_00680,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200805,-
+1173064,56368317,grxD,WSQ_RS00625,WSQ_00685,-,-,-,Grx4 family monothiol glutaredoxin,protein-coding,-,-,-,Grx4 family monothiol glutaredoxin,20200805,-
+1173064,56368318,WSQ_RS00630,WSQ_RS00630,WSQ_00690,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20200805,-
+1173064,56368319,WSQ_RS00635,WSQ_RS00635,WSQ_00695,-,-,-,redoxin family protein,protein-coding,-,-,-,redoxin family protein,20200919,-
+1173064,56368320,WSQ_RS00640,WSQ_RS00640,WSQ_00700,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368321,WSQ_RS00650,WSQ_RS00650,WSQ_00710,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368322,WSQ_RS00655,WSQ_RS00655,WSQ_00715,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368323,gmk,WSQ_RS00660,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368324,WSQ_RS00665,WSQ_RS00665,WSQ_00730,-,-,-,TRAP transporter permease,protein-coding,-,-,-,TRAP transporter permease,20200912,-
+1173064,56368325,WSQ_RS00670,WSQ_RS00670,WSQ_00735,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20200805,-
+1173064,56368326,rpsF,WSQ_RS00675,WSQ_00740,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200805,-
+1173064,56368327,WSQ_RS00680,WSQ_RS00680,WSQ_00745,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201129,-
+1173064,56368328,WSQ_RS00685,WSQ_RS00685,WSQ_00750,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200805,-
+1173064,56368329,WSQ_RS00690,WSQ_RS00690,WSQ_00755,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200805,-
+1173064,56368330,WSQ_RS00695,WSQ_RS00695,WSQ_00760,-,-,-,frataxin-like domain-containing protein,protein-coding,-,-,-,frataxin-like domain-containing protein,20200805,-
+1173064,56368331,WSQ_RS00700,WSQ_RS00700,WSQ_00765,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1173064,56368332,WSQ_RS00705,WSQ_RS00705,WSQ_00770,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20200805,-
+1173064,56368333,WSQ_RS00710,WSQ_RS00710,WSQ_00775,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20201129,-
+1173064,56368334,WSQ_RS00715,WSQ_RS00715,WSQ_00785,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20200805,-
+1173064,56368335,WSQ_RS00720,WSQ_RS00720,WSQ_00790,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20201129,-
+1173064,56368336,WSQ_RS00725,WSQ_RS00725,WSQ_00795,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20200801,-
+1173064,56368337,WSQ_RS00730,WSQ_RS00730,WSQ_00800,-,-,-,multidrug effflux MFS transporter,protein-coding,-,-,-,multidrug effflux MFS transporter,20200805,-
+1173064,56368338,WSQ_RS00740,WSQ_RS00740,WSQ_00810,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20200805,-
+1173064,56368339,ruvB,WSQ_RS00745,WSQ_00820,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200801,-
+1173064,56368340,ruvA,WSQ_RS00750,WSQ_00825,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20210424,-
+1173064,56368341,ccsA,WSQ_RS00755,WSQ_00830,-,-,-,cytochrome c biogenesis protein CcsA,protein-coding,-,-,-,cytochrome c biogenesis protein CcsA,20201129,-
+1173064,56368342,gmk,WSQ_RS00760,WSQ_00835,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201129,-
+1173064,56368343,WSQ_RS00765,WSQ_RS00765,WSQ_00840,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368344,folD,WSQ_RS00770,WSQ_00845,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20200805,-
+1173064,56368345,WSQ_RS00775,WSQ_RS00775,WSQ_00850,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368346,WSQ_RS00780,WSQ_RS00780,WSQ_00855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368347,WSQ_RS00790,WSQ_RS00790,WSQ_00865,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1173064,56368348,WSQ_RS00795,WSQ_RS00795,WSQ_00870,-,-,-,cytochrome c family protein,protein-coding,-,-,-,cytochrome c family protein,20200805,-
+1173064,56368349,WSQ_RS00800,WSQ_RS00800,WSQ_00875,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200801,-
+1173064,56368350,WSQ_RS00805,WSQ_RS00805,WSQ_00885,-,-,-,"pyruvate, phosphate dikinase",protein-coding,-,-,-,"pyruvate, phosphate dikinase",20200805,-
+1173064,56368351,WSQ_RS00810,WSQ_RS00810,WSQ_00890,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200805,-
+1173064,56368352,WSQ_RS00815,WSQ_RS00815,WSQ_00895,-,-,-,HAD-IA family hydrolase,protein-coding,-,-,-,HAD-IA family hydrolase,20200919,-
+1173064,56368353,WSQ_RS00825,WSQ_RS00825,WSQ_00905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368354,aspS,WSQ_RS00830,WSQ_00910,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200805,-
+1173064,56368355,WSQ_RS00835,WSQ_RS00835,WSQ_00915,-,-,-,BON domain-containing protein,protein-coding,-,-,-,BON domain-containing protein,20201129,-
+1173064,56368356,gshB,WSQ_RS00840,WSQ_00920,-,-,-,glutathione synthase,protein-coding,-,-,-,glutathione synthase,20210424,-
+1173064,56368357,WSQ_RS00845,WSQ_RS00845,WSQ_00930,-,-,-,FtsQ-type POTRA domain-containing protein,protein-coding,-,-,-,FtsQ-type POTRA domain-containing protein,20200805,-
+1173064,56368358,WSQ_RS00850,WSQ_RS00850,WSQ_00935,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20210424,-
+1173064,56368359,WSQ_RS00855,WSQ_RS00855,WSQ_00950,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20210424,-
+1173064,56368360,WSQ_RS00860,WSQ_RS00860,WSQ_00955,-,-,-,tyrosine-type recombinase/integrase,protein-coding,-,-,-,tyrosine-type recombinase/integrase,20200912,-
+1173064,56368361,WSQ_RS00865,WSQ_RS00865,WSQ_00960,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368362,WSQ_RS00870,WSQ_RS00870,WSQ_00965,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20200805,-
+1173064,56368363,WSQ_RS00875,WSQ_RS00875,WSQ_00970,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368364,WSQ_RS00880,WSQ_RS00880,WSQ_00980,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368365,WSQ_RS00885,WSQ_RS00885,WSQ_00985,-,-,-,diguanylate cyclase,protein-coding,-,-,-,diguanylate cyclase,20200805,-
+1173064,56368366,rsfS,WSQ_RS00890,WSQ_00990,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20200805,-
+1173064,56368367,WSQ_RS00895,WSQ_RS00895,WSQ_00995,-,-,-,M48 family metalloprotease,protein-coding,-,-,-,M48 family metalloprotease,20200919,-
+1173064,56368368,WSQ_RS00900,WSQ_RS00900,WSQ_01000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368369,WSQ_RS00905,WSQ_RS00905,WSQ_01005,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,protein-coding,-,-,-,phosphoribosylformylglycinamidine cyclo-ligase,20200805,-
+1173064,56368370,WSQ_RS00910,WSQ_RS00910,WSQ_01010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368371,folK,WSQ_RS00915,WSQ_01015,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,protein-coding,-,-,-,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,20200805,-
+1173064,56368372,WSQ_RS00920,WSQ_RS00920,WSQ_01020,-,-,-,phosphoribosylformylglycinamidine synthase,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase,20200805,-
+1173064,56368373,WSQ_RS00925,WSQ_RS00925,WSQ_01025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368374,WSQ_RS00930,WSQ_RS00930,WSQ_01030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368375,bioB,WSQ_RS00940,WSQ_01040,-,-,-,biotin synthase BioB,protein-coding,-,-,-,biotin synthase BioB,20200805,-
+1173064,56368376,WSQ_RS00945,WSQ_RS00945,WSQ_01045,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368377,WSQ_RS00950,WSQ_RS00950,WSQ_01050,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20210424,-
+1173064,56368378,WSQ_RS00955,WSQ_RS00955,WSQ_01055,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20200801,-
+1173064,56368379,WSQ_RS00960,WSQ_RS00960,WSQ_01060,-,-,-,fructose-bisphosphatase class II family protein,protein-coding,-,-,-,fructose-bisphosphatase class II family protein,20201130,-
+1173064,56368380,mnmG,WSQ_RS00965,WSQ_01065,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200805,-
+1173064,56368381,WSQ_RS00970,WSQ_RS00970,WSQ_01070,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,protein-coding,-,-,-,phosphoribosylformylglycinamidine synthase subunit PurQ,20200805,-
+1173064,56368382,WSQ_RS06555,WSQ_RS06555,WSQ_01085,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368383,WSQ_RS00980,WSQ_RS00980,WSQ_01090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368384,WSQ_RS00990,WSQ_RS00990,WSQ_01100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368385,WSQ_RS00995,WSQ_RS00995,WSQ_01105,-,-,-,phosphoribosylglycinamide formyltransferase,protein-coding,-,-,-,phosphoribosylglycinamide formyltransferase,20200805,-
+1173064,56368386,WSQ_RS01000,WSQ_RS01000,WSQ_01110,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200805,-
+1173064,56368387,WSQ_RS01005,WSQ_RS01005,WSQ_01115,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368388,WSQ_RS01010,WSQ_RS01010,WSQ_01120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368389,WSQ_RS01015,WSQ_RS01015,WSQ_01125,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368390,WSQ_RS01020,WSQ_RS01020,WSQ_01130,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200926,-
+1173064,56368391,WSQ_RS01025,WSQ_RS01025,WSQ_01135,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200805,-
+1173064,56368392,WSQ_RS01035,WSQ_RS01035,WSQ_01145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368393,groL,WSQ_RS01040,WSQ_01150,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20201129,-
+1173064,56368394,WSQ_RS01045,WSQ_RS01045,WSQ_01155,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200805,-
+1173064,56368395,radC,WSQ_RS01050,WSQ_01160,-,-,-,DNA repair protein RadC,protein-coding,-,-,-,DNA repair protein RadC,20200805,-
+1173064,56368396,lipB,WSQ_RS01055,WSQ_01165,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20200805,-
+1173064,56368397,WSQ_RS01060,WSQ_RS01060,WSQ_01170,-,-,-,dihydroorotase,protein-coding,-,-,-,dihydroorotase,20210424,-
+1173064,56368398,WSQ_RS01065,WSQ_RS01065,WSQ_01175,-,-,-,phosphopantothenoylcysteine decarboxylase,protein-coding,-,-,-,phosphopantothenoylcysteine decarboxylase,20200805,-
+1173064,56368399,fumC,WSQ_RS01070,WSQ_01180,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20200805,-
+1173064,56368400,asp14,WSQ_RS01075,WSQ_01185,-,-,-,invasin Asp14,protein-coding,-,-,-,invasin Asp14,20201129,-
+1173064,56368401,carB,WSQ_RS01080,WSQ_01190,-,-,-,carbamoyl-phosphate synthase large subunit,protein-coding,-,-,-,carbamoyl-phosphate synthase large subunit,20200805,-
+1173064,56368402,folP,WSQ_RS01085,WSQ_01200,-,-,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20200805,-
+1173064,56368403,WSQ_RS01095,WSQ_RS01095,WSQ_01215,-,-,-,quinone oxidoreductase,protein-coding,-,-,-,quinone oxidoreductase,20200805,-
+1173064,56368404,WSQ_RS01100,WSQ_RS01100,WSQ_01220,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200926,-
+1173064,56368405,WSQ_RS01110,WSQ_RS01110,WSQ_01230,-,-,-,SPFH domain-containing protein,protein-coding,-,-,-,SPFH domain-containing protein,20210522,-
+1173064,56368406,WSQ_RS01115,WSQ_RS01115,WSQ_01235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368407,zapE,WSQ_RS01120,WSQ_01240,-,-,-,cell division protein ZapE,protein-coding,-,-,-,cell division protein ZapE,20200801,-
+1173064,56368408,WSQ_RS01125,WSQ_RS01125,WSQ_01245,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20200805,-
+1173064,56368409,WSQ_RS01130,WSQ_RS01130,WSQ_01250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368410,zapA,WSQ_RS01135,WSQ_01260,-,-,-,cell division protein ZapA,protein-coding,-,-,-,cell division protein ZapA,20200805,-
+1173064,56368411,WSQ_RS01140,WSQ_RS01140,WSQ_01265,-,-,-,DUF4164 family protein,protein-coding,-,-,-,DUF4164 family protein,20200801,-
+1173064,56368412,WSQ_RS01145,WSQ_RS01145,WSQ_01270,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368413,WSQ_RS01150,WSQ_RS01150,WSQ_01275,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368414,WSQ_RS01155,WSQ_RS01155,WSQ_01280,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210417,-
+1173064,56368415,sppA,WSQ_RS01160,WSQ_01285,-,-,-,signal peptide peptidase SppA,protein-coding,-,-,-,signal peptide peptidase SppA,20200805,-
+1173064,56368416,WSQ_RS01165,WSQ_RS01165,WSQ_01290,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200805,-
+1173064,56368417,WSQ_RS01170,WSQ_RS01170,WSQ_01295,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+1173064,56368418,rlmB,WSQ_RS01175,WSQ_01300,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200805,-
+1173064,56368419,WSQ_RS01180,WSQ_RS01180,WSQ_01305,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368420,WSQ_RS01185,WSQ_RS01185,WSQ_01310,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368421,tuf,WSQ_RS01190,WSQ_01315,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200805,-
+1173064,56368422,rpsJ,WSQ_RS01195,WSQ_01320,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+1173064,56368423,rplC,WSQ_RS01200,WSQ_01325,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200805,-
+1173064,56368424,rplD,WSQ_RS01205,WSQ_01330,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200805,-
+1173064,56368425,WSQ_RS01210,WSQ_RS01210,WSQ_01335,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200805,-
+1173064,56368426,rplB,WSQ_RS01215,WSQ_01340,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200805,-
+1173064,56368427,rpsS,WSQ_RS01220,WSQ_01345,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200805,-
+1173064,56368428,rplV,WSQ_RS01225,WSQ_01350,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200805,-
+1173064,56368429,rpsC,WSQ_RS01230,WSQ_01355,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200805,-
+1173064,56368430,rplP,WSQ_RS01235,WSQ_01360,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+1173064,56368431,WSQ_RS01240,WSQ_RS01240,WSQ_01365,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200805,-
+1173064,56368432,rpsQ,WSQ_RS01245,WSQ_01370,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200805,-
+1173064,56368433,rplN,WSQ_RS01250,WSQ_01375,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200805,-
+1173064,56368434,WSQ_RS01255,WSQ_RS01255,WSQ_01380,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200805,-
+1173064,56368435,rplE,WSQ_RS01260,WSQ_01385,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+1173064,56368436,rpsN,WSQ_RS01265,WSQ_01390,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200805,-
+1173064,56368437,rpsH,WSQ_RS01270,WSQ_01395,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200805,-
+1173064,56368438,rplF,WSQ_RS01275,WSQ_01400,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200805,-
+1173064,56368439,WSQ_RS01280,WSQ_RS01280,WSQ_01405,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+1173064,56368440,rpsE,WSQ_RS01285,WSQ_01410,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200805,-
+1173064,56368441,WSQ_RS01290,WSQ_RS01290,WSQ_01415,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200805,-
+1173064,56368442,secY,WSQ_RS01295,WSQ_01420,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200805,-
+1173064,56368443,WSQ_RS01300,WSQ_RS01300,WSQ_01425,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200805,-
+1173064,56368444,rpsM,WSQ_RS01305,WSQ_01430,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200805,-
+1173064,56368445,rpsK,WSQ_RS01310,WSQ_01435,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+1173064,56368446,WSQ_RS01315,WSQ_RS01315,WSQ_01440,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20210129,-
+1173064,56368447,rplQ,WSQ_RS01320,WSQ_01445,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200805,-
+1173064,56368448,WSQ_RS01325,WSQ_RS01325,WSQ_01450,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200805,-
+1173064,56368449,WSQ_RS01330,WSQ_RS01330,WSQ_01460,-,-,-,ComEC family competence protein,protein-coding,-,-,-,ComEC family competence protein,20200805,-
+1173064,56368450,WSQ_RS01335,WSQ_RS01335,WSQ_01470,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20200805,-
+1173064,56368451,rnpA,WSQ_RS01340,WSQ_01475,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20210424,-
+1173064,56368452,WSQ_RS01345,WSQ_RS01345,WSQ_01485,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,4-hydroxybenzoate octaprenyltransferase,20200805,-
+1173064,56368453,WSQ_RS01350,WSQ_RS01350,WSQ_01490,-,-,-,flavin reductase family protein,protein-coding,-,-,-,flavin reductase family protein,20200801,-
+1173064,56368454,WSQ_RS01355,WSQ_RS01355,WSQ_01500,-,-,-,phosphate ABC transporter ATP-binding protein,protein-coding,-,-,-,phosphate ABC transporter ATP-binding protein,20200805,-
+1173064,56368455,tgt,WSQ_RS01360,WSQ_01505,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20200805,-
+1173064,56368456,rpmF,WSQ_RS01365,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200805,-
+1173064,56368457,plsX,WSQ_RS01370,WSQ_01515,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200805,-
+1173064,56368458,WSQ_RS01375,WSQ_RS01375,WSQ_01520,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20201129,-
+1173064,56368459,WSQ_RS01385,WSQ_RS01385,WSQ_01535,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20200805,-
+1173064,56368460,WSQ_RS01390,WSQ_RS01390,WSQ_01540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368461,WSQ_RS01395,WSQ_RS01395,WSQ_01545,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200805,-
+1173064,56368462,WSQ_RS01400,WSQ_RS01400,WSQ_01550,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200805,-
+1173064,56368463,WSQ_RS01405,WSQ_RS01405,WSQ_01555,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368464,WSQ_RS01410,WSQ_RS01410,WSQ_01560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368465,WSQ_RS01415,WSQ_RS01415,WSQ_01565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368466,WSQ_RS01420,WSQ_RS01420,WSQ_01570,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20200805,-
+1173064,56368467,WSQ_RS01425,WSQ_RS01425,WSQ_01575,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368468,WSQ_RS01430,WSQ_RS01430,WSQ_01580,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20210417,-
+1173064,56368469,ruvX,WSQ_RS01435,WSQ_01585,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200805,-
+1173064,56368470,WSQ_RS01440,WSQ_RS01440,WSQ_01600,-,-,-,adenylosuccinate synthase,protein-coding,-,-,-,adenylosuccinate synthase,20200805,-
+1173064,56368471,WSQ_RS01445,WSQ_RS01445,WSQ_01605,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210605,-
+1173064,56368472,WSQ_RS01450,WSQ_RS01450,WSQ_01610,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20201129,-
+1173064,56368473,WSQ_RS01455,WSQ_RS01455,WSQ_01615,-,-,-,thermostable metallocarboxypeptidase,protein-coding,-,-,-,thermostable metallocarboxypeptidase,20200805,-
+1173064,56368474,tkt,WSQ_RS01460,WSQ_01620,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200919,-
+1173064,56368475,WSQ_RS01465,WSQ_RS01465,WSQ_01625,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1173064,56368476,WSQ_RS01470,WSQ_RS01470,WSQ_01630,-,-,-,monovalent cation/H(+) antiporter subunit G,protein-coding,-,-,-,monovalent cation/H(+) antiporter subunit G,20200805,-
+1173064,56368477,WSQ_RS01475,WSQ_RS01475,WSQ_01635,-,-,-,DUF4040 domain-containing protein,protein-coding,-,-,-,DUF4040 domain-containing protein,20200805,-
+1173064,56368478,WSQ_RS01480,WSQ_RS01480,WSQ_01640,-,-,-,Na(+)/H(+) antiporter subunit B,protein-coding,-,-,-,Na(+)/H(+) antiporter subunit B,20200805,-
+1173064,56368479,WSQ_RS01485,WSQ_RS01485,WSQ_01645,-,-,-,cation:proton antiporter subunit C,protein-coding,-,-,-,cation:proton antiporter subunit C,20200905,-
+1173064,56368480,WSQ_RS01490,WSQ_RS01490,WSQ_01650,-,-,-,Rne/Rng family ribonuclease,protein-coding,-,-,-,Rne/Rng family ribonuclease,20200805,-
+1173064,56368481,dnaK,WSQ_RS01495,WSQ_01655,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200805,-
+1173064,56368482,WSQ_RS01500,WSQ_RS01500,WSQ_01660,-,-,-,type II toxin-antitoxin system RatA family toxin,protein-coding,-,-,-,type II toxin-antitoxin system RatA family toxin,20200805,-
+1173064,56368483,WSQ_RS01505,WSQ_RS01505,WSQ_01665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368484,ffh,WSQ_RS01510,WSQ_01670,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201129,-
+1173064,56368485,era,WSQ_RS01515,WSQ_01675,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20201129,-
+1173064,56368486,WSQ_RS01520,WSQ_RS01520,WSQ_01680,-,-,-,3'-5' exonuclease,protein-coding,-,-,-,3'-5' exonuclease,20200805,-
+1173064,56368487,WSQ_RS01525,WSQ_RS01525,WSQ_01690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368488,WSQ_RS01530,WSQ_RS01530,WSQ_01695,-,-,-,TIGR02281 family clan AA aspartic protease,protein-coding,-,-,-,TIGR02281 family clan AA aspartic protease,20200805,-
+1173064,56368489,WSQ_RS01535,WSQ_RS01535,WSQ_01700,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200805,-
+1173064,56368490,WSQ_RS01540,WSQ_RS01540,WSQ_01705,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20200805,-
+1173064,56368491,WSQ_RS01545,WSQ_RS01545,WSQ_01710,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,protein-coding,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,20201129,-
+1173064,56368492,priA,WSQ_RS01550,WSQ_01715,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20200805,-
+1173064,56368493,rpmB,WSQ_RS01555,WSQ_01725,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200805,-
+1173064,56368494,WSQ_RS01565,WSQ_RS01565,WSQ_01740,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1173064,56368495,WSQ_RS01570,WSQ_RS01570,WSQ_01745,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368496,WSQ_RS01575,WSQ_RS01575,WSQ_01750,-,-,-,ATP-grasp domain-containing protein,protein-coding,-,-,-,ATP-grasp domain-containing protein,20200805,-
+1173064,56368497,WSQ_RS01580,WSQ_RS01580,WSQ_01755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368498,lipA,WSQ_RS01595,WSQ_01770,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20200805,-
+1173064,56368499,WSQ_RS01600,WSQ_RS01600,WSQ_01775,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368500,pstA,WSQ_RS01605,WSQ_01790,-,-,-,phosphate ABC transporter permease PstA,protein-coding,-,-,-,phosphate ABC transporter permease PstA,20200801,-
+1173064,56368501,WSQ_RS01610,WSQ_RS01610,WSQ_01795,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20201129,-
+1173064,56368502,WSQ_RS01615,WSQ_RS01615,WSQ_01800,-,-,-,type IV secretion system protein VirB3,protein-coding,-,-,-,type IV secretion system protein VirB3,20200805,-
+1173064,56368503,WSQ_RS01620,WSQ_RS01620,WSQ_01805,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20200805,-
+1173064,56368504,WSQ_RS01625,WSQ_RS01625,WSQ_01810,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1173064,56368505,WSQ_RS01630,WSQ_RS01630,WSQ_01815,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1173064,56368506,WSQ_RS01640,WSQ_RS01640,WSQ_01825,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200801,-
+1173064,56368507,WSQ_RS01645,WSQ_RS01645,WSQ_01830,-,-,-,DUF2460 domain-containing protein,protein-coding,-,-,-,DUF2460 domain-containing protein,20200919,-
+1173064,56368508,dut,WSQ_RS01650,WSQ_01835,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20201129,-
+1173064,56368509,ispH,WSQ_RS01655,WSQ_01840|lytB,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20200805,-
+1173064,56368510,carA,WSQ_RS01665,WSQ_01850,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,protein-coding,-,-,-,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,20200805,-
+1173064,56368511,WSQ_RS01670,WSQ_RS01670,WSQ_01855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368512,WSQ_RS01675,WSQ_RS01675,WSQ_01860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368513,WSQ_RS01680,WSQ_RS01680,WSQ_01865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368514,WSQ_RS01685,WSQ_RS01685,WSQ_01870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368515,WSQ_RS01690,WSQ_RS01690,WSQ_01875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368516,WSQ_RS01695,WSQ_RS01695,WSQ_01880,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+1173064,56368517,WSQ_RS01700,WSQ_RS01700,WSQ_01885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368518,WSQ_RS01705,WSQ_RS01705,WSQ_01890,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",20200805,-
+1173064,56368519,der,WSQ_RS01710,WSQ_01895,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200805,-
+1173064,56368520,WSQ_RS01715,WSQ_RS01715,WSQ_01905,-,-,-,PQQ-like beta-propeller repeat protein,protein-coding,-,-,-,PQQ-like beta-propeller repeat protein,20201026,-
+1173064,56368521,lpdA,WSQ_RS01720,WSQ_01910,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200805,-
+1173064,56368522,WSQ_RS01725,WSQ_RS01725,WSQ_01915,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20200805,-
+1173064,56368523,infA,WSQ_RS01730,WSQ_01920,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20210424,-
+1173064,56368524,maf,WSQ_RS01735,WSQ_01925,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20200805,-
+1173064,56368525,rpsB,WSQ_RS01740,WSQ_01930,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200805,-
+1173064,56368526,WSQ_RS01745,WSQ_RS01745,WSQ_01935,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200805,-
+1173064,56368527,WSQ_RS01750,WSQ_RS01750,WSQ_01950,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200805,-
+1173064,56368528,WSQ_RS01755,WSQ_RS01755,WSQ_01955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368529,petA,WSQ_RS01760,WSQ_01960,-,-,-,ubiquinol-cytochrome c reductase iron-sulfur subunit,protein-coding,-,-,-,ubiquinol-cytochrome c reductase iron-sulfur subunit,20200805,-
+1173064,56368530,WSQ_RS01765,WSQ_RS01765,WSQ_01965,-,-,-,cytochrome b/b6,protein-coding,-,-,-,cytochrome b/b6,20200805,-
+1173064,56368531,WSQ_RS01770,WSQ_RS01770,WSQ_01970,-,-,-,cytochrome c1,protein-coding,-,-,-,cytochrome c1,20200801,-
+1173064,56368532,WSQ_RS01780,WSQ_RS01780,WSQ_01980,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368533,WSQ_RS01785,WSQ_RS01785,WSQ_01985,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368534,WSQ_RS01790,WSQ_RS01790,WSQ_01990,-,-,-,porin,protein-coding,-,-,-,porin,20200731,-
+1173064,56368535,WSQ_RS01795,WSQ_RS01795,WSQ_01995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368536,WSQ_RS01805,WSQ_RS01805,WSQ_02005,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+1173064,56368537,WSQ_RS01810,WSQ_RS01810,WSQ_02010,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368538,mutM,WSQ_RS01815,WSQ_02015,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,protein-coding,-,-,-,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,20200805,-
+1173064,56368539,WSQ_RS01820,WSQ_RS01820,WSQ_02020,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368540,WSQ_RS01825,WSQ_RS01825,WSQ_02030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368541,WSQ_RS01830,WSQ_RS01830,WSQ_02035,-,-,-,acyl-CoA carboxylase subunit beta,protein-coding,-,-,-,acyl-CoA carboxylase subunit beta,20200805,-
+1173064,56368542,WSQ_RS01835,WSQ_RS01835,WSQ_02045,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368543,prfA,WSQ_RS01840,WSQ_02050,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200805,-
+1173064,56368544,WSQ_RS01845,WSQ_RS01845,WSQ_02055,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200805,-
+1173064,56368545,argB,WSQ_RS01850,WSQ_02060,-,-,-,acetylglutamate kinase,protein-coding,-,-,-,acetylglutamate kinase,20200805,-
+1173064,56368546,hemF,WSQ_RS01855,WSQ_02065,-,-,-,oxygen-dependent coproporphyrinogen oxidase,protein-coding,-,-,-,oxygen-dependent coproporphyrinogen oxidase,20200805,-
+1173064,56368547,WSQ_RS01860,WSQ_RS01860,WSQ_02070,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200805,-
+1173064,56368548,WSQ_RS01865,WSQ_RS01865,WSQ_02075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368549,serS,WSQ_RS01870,WSQ_02080,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200805,-
+1173064,56368550,WSQ_RS01875,WSQ_RS01875,WSQ_02085,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20201129,-
+1173064,56368551,WSQ_RS01880,WSQ_RS01880,WSQ_02090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56368552,miaA,WSQ_RS01885,WSQ_02095,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20200805,-
+1173064,56368553,WSQ_RS01890,WSQ_RS01890,WSQ_02100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368554,WSQ_RS01895,WSQ_RS01895,WSQ_02105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368555,nuoF,WSQ_RS01900,WSQ_02110,-,-,-,NADH-quinone oxidoreductase subunit NuoF,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoF,20200805,-
+1173064,56368556,WSQ_RS01905,WSQ_RS01905,WSQ_02120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368557,WSQ_RS01910,WSQ_RS01910,WSQ_02125,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit J,20200805,-
+1173064,56368558,nuoK,WSQ_RS01915,WSQ_02130,-,-,-,NADH-quinone oxidoreductase subunit NuoK,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoK,20210522,-
+1173064,56368559,nuoL,WSQ_RS01920,WSQ_02135,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit L,20200805,-
+1173064,56368560,WSQ_RS01925,WSQ_RS01925,WSQ_02140,-,-,-,NADH-quinone oxidoreductase subunit M,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit M,20200801,-
+1173064,56368561,WSQ_RS01930,WSQ_RS01930,WSQ_02145,-,-,-,NADH-quinone oxidoreductase subunit N,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit N,20200919,-
+1173064,56368562,WSQ_RS01935,WSQ_RS01935,WSQ_02150,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20200805,-
+1173064,56368563,ispG,WSQ_RS01945,WSQ_02160|gcpE,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,protein-coding,-,-,-,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,20200805,-
+1173064,56368564,tatC,WSQ_RS01950,WSQ_02165,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20200805,-
+1173064,56368565,WSQ_RS01955,WSQ_RS01955,WSQ_02170,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20200805,-
+1173064,56368566,nusA,WSQ_RS01960,WSQ_02175,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200805,-
+1173064,56368567,infB,WSQ_RS01965,WSQ_02180,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200801,-
+1173064,56368568,rbfA,WSQ_RS01970,WSQ_02185,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200805,-
+1173064,56368569,WSQ_RS01975,WSQ_RS01975,WSQ_02190,-,-,-,"translation elongation factor G, truncation",protein-coding,-,-,-,"translation elongation factor G, truncation",20200919,-
+1173064,56368570,WSQ_RS01980,WSQ_RS01980,WSQ_02195,-,-,-,TerC family protein,protein-coding,-,-,-,TerC family protein,20200805,-
+1173064,56368571,WSQ_RS01985,WSQ_RS01985,WSQ_02200,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200919,-
+1173064,56368572,typA,WSQ_RS01990,WSQ_02205,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20200805,-
+1173064,56368573,WSQ_RS01995,WSQ_RS01995,WSQ_02210,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368574,WSQ_RS02000,WSQ_RS02000,WSQ_02215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368575,WSQ_RS02005,WSQ_RS02005,WSQ_02220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368576,WSQ_RS02010,WSQ_RS02010,WSQ_02225,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368577,WSQ_RS02015,WSQ_RS02015,WSQ_02230,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368578,WSQ_RS02020,WSQ_RS02020,WSQ_02240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368579,WSQ_RS02025,WSQ_RS02025,WSQ_02245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368580,WSQ_RS02030,WSQ_RS02030,WSQ_02260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368581,ssb,WSQ_RS02040,WSQ_02280,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368582,WSQ_RS02045,WSQ_RS02045,WSQ_02285,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368583,WSQ_RS02050,WSQ_RS02050,WSQ_02290,-,-,-,malonyl-CoA decarboxylase,protein-coding,-,-,-,malonyl-CoA decarboxylase,20200805,-
+1173064,56368584,gatB,WSQ_RS02055,WSQ_02295,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200805,-
+1173064,56368585,WSQ_RS02060,WSQ_RS02060,WSQ_02300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56368586,WSQ_RS02065,WSQ_RS02065,WSQ_02305,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368587,fabI,WSQ_RS02070,WSQ_02310,-,-,-,enoyl-ACP reductase FabI,protein-coding,-,-,-,enoyl-ACP reductase FabI,20200805,-
+1173064,56368588,dnaA,WSQ_RS02075,WSQ_02315,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200801,-
+1173064,56368589,WSQ_RS02080,WSQ_RS02080,WSQ_02330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368590,WSQ_RS02085,WSQ_RS02085,WSQ_02335,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368591,prfB,WSQ_RS02090,WSQ_02345,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20200829,-
+1173064,56368592,WSQ_RS02095,WSQ_RS02095,WSQ_02350,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20200805,-
+1173064,56368593,WSQ_RS02100,WSQ_RS02100,WSQ_02355,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20200805,-
+1173064,56368594,bioA,WSQ_RS02105,WSQ_02360,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,protein-coding,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,20200805,-
+1173064,56368595,WSQ_RS02110,WSQ_RS02110,WSQ_02370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368596,WSQ_RS02115,WSQ_RS02115,WSQ_02375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368597,WSQ_RS02120,WSQ_RS02120,WSQ_02380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368598,fsa,WSQ_RS02130,WSQ_02405,-,-,-,fructose-6-phosphate aldolase,protein-coding,-,-,-,fructose-6-phosphate aldolase,20200805,-
+1173064,56368599,WSQ_RS02135,WSQ_RS02135,WSQ_02410,-,-,-,"ATP synthase F1, epsilon subunit",protein-coding,-,-,-,"ATP synthase F1, epsilon subunit",20200805,-
+1173064,56368600,atpD,WSQ_RS02140,WSQ_02415,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200805,-
+1173064,56368601,WSQ_RS02145,WSQ_RS02145,WSQ_02420,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368602,mgtE,WSQ_RS02150,WSQ_02425,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200805,-
+1173064,56368603,WSQ_RS02155,WSQ_RS02155,WSQ_02430,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368604,WSQ_RS02160,WSQ_RS02160,-,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20200801,-
+1173064,56368605,WSQ_RS02165,WSQ_RS02165,WSQ_02440,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368606,truA,WSQ_RS02170,WSQ_02445,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200805,-
+1173064,56368607,WSQ_RS02175,WSQ_RS02175,WSQ_02450,-,-,-,aspartate carbamoyltransferase catalytic subunit,protein-coding,-,-,-,aspartate carbamoyltransferase catalytic subunit,20200805,-
+1173064,56368608,WSQ_RS02180,WSQ_RS02180,WSQ_02455,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20201129,-
+1173064,56368609,xth,WSQ_RS02185,WSQ_02460,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20200805,-
+1173064,56368610,WSQ_RS02190,WSQ_RS02190,WSQ_02465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368611,rpmJ,WSQ_RS02195,WSQ_02470,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201129,-
+1173064,56368612,WSQ_RS02200,WSQ_RS02200,WSQ_02480,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368613,WSQ_RS02210,WSQ_RS02210,WSQ_02490,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20200805,-
+1173064,56368614,WSQ_RS02215,WSQ_RS02215,WSQ_02495,-,-,-,XRE family transcriptional regulator,protein-coding,-,-,-,XRE family transcriptional regulator,20210424,-
+1173064,56368615,ndhC,WSQ_RS02225,WSQ_02505,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit A,20201129,-
+1173064,56368616,WSQ_RS02230,WSQ_RS02230,WSQ_02510,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit B,20210424,-
+1173064,56368617,WSQ_RS02235,WSQ_RS02235,WSQ_02515,-,-,-,NADH-quinone oxidoreductase subunit C,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit C,20200805,-
+1173064,56368618,surE,WSQ_RS02240,WSQ_02525,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20210417,-
+1173064,56368619,ccmE,WSQ_RS02245,WSQ_02535,-,-,-,cytochrome c maturation protein CcmE,protein-coding,-,-,-,cytochrome c maturation protein CcmE,20200805,-
+1173064,56368620,pyrF,WSQ_RS02250,WSQ_02540,-,-,-,orotidine-5'-phosphate decarboxylase,protein-coding,-,-,-,orotidine-5'-phosphate decarboxylase,20210417,-
+1173064,56368621,WSQ_RS02255,WSQ_RS02255,WSQ_02545,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20210129,-
+1173064,56368622,WSQ_RS02260,WSQ_RS02260,WSQ_02555,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368623,WSQ_RS02265,WSQ_RS02265,WSQ_02565,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200805,-
+1173064,56368625,WSQ_RS02275,WSQ_RS02275,WSQ_02580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368626,uvrA,WSQ_RS02280,WSQ_02590,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200805,-
+1173064,56368627,WSQ_RS02290,WSQ_RS02290,WSQ_02600,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20200805,-
+1173064,56368628,yidC,WSQ_RS02295,WSQ_02605,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200805,-
+1173064,56368629,yidC,WSQ_RS02300,WSQ_02610,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368630,WSQ_RS02305,WSQ_RS02305,WSQ_02615,-,-,-,molybdopterin-dependent oxidoreductase,protein-coding,-,-,-,molybdopterin-dependent oxidoreductase,20210123,-
+1173064,56368631,pssA,WSQ_RS02310,WSQ_02620,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--serine O-phosphatidyltransferase,20200805,-
+1173064,56368632,WSQ_RS02315,WSQ_RS02315,WSQ_02625,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20210424,-
+1173064,56368633,WSQ_RS02320,WSQ_RS02320,WSQ_02630,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20200805,-
+1173064,56368634,WSQ_RS02325,WSQ_RS02325,WSQ_02635,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368635,efp,WSQ_RS02330,WSQ_02640,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+1173064,56368636,WSQ_RS02335,WSQ_RS02335,WSQ_02645,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,inositol monophosphatase family protein,20200805,-
+1173064,56368637,WSQ_RS02340,WSQ_RS02340,WSQ_02650,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1173064,56368638,WSQ_RS02345,WSQ_RS02345,WSQ_02655,-,-,-,PleD family two-component system response regulator,protein-coding,-,-,-,PleD family two-component system response regulator,20200805,-
+1173064,56368639,WSQ_RS02355,WSQ_RS02355,WSQ_02665,-,-,-,NAD-glutamate dehydrogenase,protein-coding,-,-,-,NAD-glutamate dehydrogenase,20200805,-
+1173064,56368640,WSQ_RS02365,WSQ_RS02365,WSQ_02675,-,-,-,exopolysaccharide biosynthesis protein,protein-coding,-,-,-,exopolysaccharide biosynthesis protein,20200805,-
+1173064,56368641,WSQ_RS02370,WSQ_RS02370,WSQ_02680,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200805,-
+1173064,56368642,WSQ_RS02385,WSQ_RS02385,WSQ_02695,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20200805,-
+1173064,56368643,WSQ_RS02390,WSQ_RS02390,WSQ_02700,-,-,-,TlpA family protein disulfide reductase,protein-coding,-,-,-,TlpA family protein disulfide reductase,20210123,-
+1173064,56368644,WSQ_RS02395,WSQ_RS02395,WSQ_02710,-,-,-,DUF2610 domain-containing protein,protein-coding,-,-,-,DUF2610 domain-containing protein,20200805,-
+1173064,56368645,WSQ_RS02400,WSQ_RS02400,WSQ_02715,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200805,-
+1173064,56368646,WSQ_RS02405,WSQ_RS02405,WSQ_02725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368647,dnaG,WSQ_RS02410,WSQ_02735,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20210424,-
+1173064,56368648,WSQ_RS02415,WSQ_RS02415,WSQ_02740,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368649,WSQ_RS02420,WSQ_RS02420,WSQ_02750,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20200805,-
+1173064,56368650,dusB,WSQ_RS02425,WSQ_02755,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20200805,-
+1173064,56368651,rpoD,WSQ_RS02430,WSQ_02760,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20200805,-
+1173064,56368652,WSQ_RS02440,WSQ_RS02440,WSQ_02770,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201130,-
+1173064,56368653,WSQ_RS02445,WSQ_RS02445,WSQ_02775,-,-,-,divalent-cation tolerance protein CutA,protein-coding,-,-,-,divalent-cation tolerance protein CutA,20200805,-
+1173064,56368654,WSQ_RS02450,WSQ_RS02450,WSQ_02780,-,-,-,response regulator,protein-coding,-,-,-,response regulator,20200805,-
+1173064,56368655,WSQ_RS02455,WSQ_RS02455,WSQ_02785,-,-,-,O-methyltransferase,protein-coding,-,-,-,O-methyltransferase,20200805,-
+1173064,56368656,WSQ_RS02460,WSQ_RS02460,WSQ_02790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56368657,WSQ_RS02465,WSQ_RS02465,WSQ_02795,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368658,WSQ_RS02470,WSQ_RS02470,WSQ_02800,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368659,WSQ_RS02475,WSQ_RS02475,WSQ_02805,-,-,-,NAD(P)H-hydrate dehydratase,protein-coding,-,-,-,NAD(P)H-hydrate dehydratase,20200805,-
+1173064,56368660,WSQ_RS02480,WSQ_RS02480,WSQ_02810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368661,WSQ_RS02485,WSQ_RS02485,WSQ_02820,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368662,topA,WSQ_RS02490,WSQ_02835,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200805,-
+1173064,56368663,thiC,WSQ_RS02495,WSQ_02845,-,-,-,phosphomethylpyrimidine synthase ThiC,protein-coding,-,-,-,phosphomethylpyrimidine synthase ThiC,20200805,-
+1173064,56368664,WSQ_RS02500,WSQ_RS02500,WSQ_02850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368665,WSQ_RS02505,WSQ_RS02505,WSQ_02860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368666,ubiG,WSQ_RS02510,WSQ_02875,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,protein-coding,-,-,-,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,20200805,-
+1173064,56368667,WSQ_RS02515,WSQ_RS02515,WSQ_02880,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200805,-
+1173064,56368668,WSQ_RS02520,WSQ_RS02520,WSQ_02890,-,-,-,peptidylprolyl isomerase,protein-coding,-,-,-,peptidylprolyl isomerase,20210212,-
+1173064,56368669,tsaB,WSQ_RS02525,WSQ_02900,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200801,-
+1173064,56368670,WSQ_RS02530,WSQ_RS02530,WSQ_02905,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20200912,-
+1173064,56368671,WSQ_RS02535,WSQ_RS02535,WSQ_02910,-,-,-,cation:dicarboxylase symporter family transporter,protein-coding,-,-,-,cation:dicarboxylase symporter family transporter,20200805,-
+1173064,56368672,WSQ_RS02540,WSQ_RS02540,WSQ_02915,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368673,WSQ_RS02560,WSQ_RS02560,WSQ_02935,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368674,WSQ_RS02565,WSQ_RS02565,WSQ_02940,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20200805,-
+1173064,56368675,rsmA,WSQ_RS02575,WSQ_02950,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20200805,-
+1173064,56368676,WSQ_RS02580,WSQ_RS02580,WSQ_02955,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368677,WSQ_RS02585,WSQ_RS02585,WSQ_02960,-,-,-,triosephosphate isomerase,protein-coding,-,-,-,triosephosphate isomerase,20200805,-
+1173064,56368678,WSQ_RS02590,WSQ_RS02590,WSQ_02965,-,-,-,TAXI family TRAP transporter solute-binding subunit,protein-coding,-,-,-,TAXI family TRAP transporter solute-binding subunit,20200805,-
+1173064,56368679,tsaD,WSQ_RS02595,WSQ_02970,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200805,-
+1173064,56368680,WSQ_RS02600,WSQ_RS02600,WSQ_02975,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200805,-
+1173064,56368681,WSQ_RS02605,WSQ_RS02605,WSQ_02980,-,-,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20200805,-
+1173064,56368682,mdh,WSQ_RS02610,WSQ_02985,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20200805,-
+1173064,56368683,WSQ_RS02615,WSQ_RS02615,WSQ_02995,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368684,WSQ_RS02625,WSQ_RS02625,WSQ_03005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368685,WSQ_RS02630,WSQ_RS02630,WSQ_03010,-,-,-,phage head-tail connector protein,protein-coding,-,-,-,phage head-tail connector protein,20200805,-
+1173064,56368686,WSQ_RS02635,WSQ_RS02635,WSQ_03015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368687,WSQ_RS02640,WSQ_RS02640,WSQ_03020,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201026,-
+1173064,56368688,WSQ_RS02645,WSQ_RS02645,WSQ_03030,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368689,rpiB,WSQ_RS02660,WSQ_03055,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20210424,-
+1173064,56368690,WSQ_RS02665,WSQ_RS02665,WSQ_03060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368691,WSQ_RS02675,WSQ_RS02675,WSQ_03070,-,-,-,holo-[acyl-carrier-protein] synthase,protein-coding,-,-,-,holo-[acyl-carrier-protein] synthase,20200805,-
+1173064,56368692,WSQ_RS02680,WSQ_RS02680,WSQ_03075,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200805,-
+1173064,56368693,WSQ_RS02685,WSQ_RS02685,WSQ_03080,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368694,WSQ_RS02690,WSQ_RS02690,WSQ_03085,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368695,coaD,WSQ_RS02695,WSQ_03090,-,-,-,pantetheine-phosphate adenylyltransferase,protein-coding,-,-,-,pantetheine-phosphate adenylyltransferase,20200805,-
+1173064,56368696,WSQ_RS02705,WSQ_RS02705,WSQ_03100,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368697,WSQ_RS02710,WSQ_RS02710,WSQ_03105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368698,WSQ_RS02715,WSQ_RS02715,WSQ_03110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368699,trxB,WSQ_RS02725,WSQ_03120,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200805,-
+1173064,56368700,WSQ_RS02730,WSQ_RS02730,WSQ_03125,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20200805,-
+1173064,56368701,WSQ_RS02735,WSQ_RS02735,WSQ_03130,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20200801,-
+1173064,56368702,WSQ_RS02740,WSQ_RS02740,WSQ_03135,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368703,WSQ_RS02745,WSQ_RS02745,WSQ_03140,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368704,WSQ_RS02750,WSQ_RS02750,WSQ_03145,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368705,fabG,WSQ_RS02755,WSQ_03160,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,3-oxoacyl-[acyl-carrier-protein] reductase,20200805,-
+1173064,56368706,putA,WSQ_RS02760,WSQ_03165,-,-,-,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA,protein-coding,-,-,-,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA,20200805,-
+1173064,56368707,WSQ_RS02765,WSQ_RS02765,WSQ_03175,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1173064,56368708,WSQ_RS02770,WSQ_RS02770,WSQ_03185,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20210424,-
+1173064,56368709,WSQ_RS02775,WSQ_RS02775,WSQ_03190,-,-,-,IscS subfamily cysteine desulfurase,protein-coding,-,-,-,IscS subfamily cysteine desulfurase,20200805,-
+1173064,56368710,iscU,WSQ_RS02780,WSQ_03195,-,-,-,Fe-S cluster assembly scaffold IscU,protein-coding,-,-,-,Fe-S cluster assembly scaffold IscU,20200805,-
+1173064,56368711,WSQ_RS02785,WSQ_RS02785,WSQ_03200,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20210424,-
+1173064,56368712,hscB,WSQ_RS02790,WSQ_03205,-,-,-,Fe-S protein assembly co-chaperone HscB,protein-coding,-,-,-,Fe-S protein assembly co-chaperone HscB,20200805,-
+1173064,56368713,WSQ_RS02795,WSQ_RS02795,WSQ_03210,-,-,-,Hsp70 family protein,protein-coding,-,-,-,Hsp70 family protein,20201026,-
+1173064,56368714,WSQ_RS02800,WSQ_RS02800,WSQ_03215,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,protein-coding,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,20200805,-
+1173064,56368715,WSQ_RS02805,WSQ_RS02805,WSQ_03220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368716,WSQ_RS02810,WSQ_RS02810,WSQ_03235,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,protein-coding,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,20200805,-
+1173064,56368717,WSQ_RS02825,WSQ_RS02825,WSQ_03250,-,-,-,cytochrome c-type biogenesis protein CcmH,protein-coding,-,-,-,cytochrome c-type biogenesis protein CcmH,20210129,-
+1173064,56368718,WSQ_RS02830,WSQ_RS02830,WSQ_03255,-,-,-,DUF2163 domain-containing protein,protein-coding,-,-,-,DUF2163 domain-containing protein,20210212,-
+1173064,56368719,rsmH,WSQ_RS02840,WSQ_03270,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200805,-
+1173064,56368720,WSQ_RS02845,WSQ_RS02845,WSQ_03285,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200805,-
+1173064,56368721,obgE,WSQ_RS02850,WSQ_03290,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200805,-
+1173064,56368722,eno,WSQ_RS02855,WSQ_03295,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201129,-
+1173064,56368723,rplU,WSQ_RS02865,WSQ_03305,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200805,-
+1173064,56368724,rpmA,WSQ_RS02870,WSQ_03310,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200805,-
+1173064,56368725,WSQ_RS02875,WSQ_RS02875,WSQ_03315,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368726,WSQ_RS02880,WSQ_RS02880,WSQ_03320,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200805,-
+1173064,56368727,WSQ_RS02885,WSQ_RS02885,WSQ_03330,-,-,-,TldD/PmbA family protein,protein-coding,-,-,-,TldD/PmbA family protein,20200801,-
+1173064,56368728,WSQ_RS02895,WSQ_RS02895,WSQ_03340,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200805,-
+1173064,56368729,WSQ_RS02900,WSQ_RS02900,WSQ_03345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368730,WSQ_RS02905,WSQ_RS02905,WSQ_03350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+1173064,56368731,nuoH,WSQ_RS02910,WSQ_03355,-,-,-,NADH-quinone oxidoreductase subunit NuoH,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoH,20201130,-
+1173064,56368732,WSQ_RS02915,WSQ_RS02915,WSQ_03360,-,-,-,NADH-quinone oxidoreductase subunit G,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit G,20200805,-
+1173064,56368733,WSQ_RS02920,WSQ_RS02920,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368734,gyrB,WSQ_RS02925,WSQ_03375,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200805,-
+1173064,56368735,WSQ_RS02935,WSQ_RS02935,WSQ_03385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368736,WSQ_RS02940,WSQ_RS02940,WSQ_03390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368737,WSQ_RS02945,WSQ_RS02945,WSQ_03400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368738,WSQ_RS02950,WSQ_RS02950,WSQ_03405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368739,WSQ_RS02955,WSQ_RS02955,WSQ_03415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368740,WSQ_RS02960,WSQ_RS02960,WSQ_03420,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368741,WSQ_RS02965,WSQ_RS02965,WSQ_03430,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368742,dnaQ,WSQ_RS02970,WSQ_03440,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,DNA polymerase III subunit epsilon,20200805,-
+1173064,56368743,nuoE,WSQ_RS02975,WSQ_03445,-,-,-,NADH-quinone oxidoreductase subunit NuoE,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoE,20200805,-
+1173064,56368744,WSQ_RS02980,WSQ_RS02980,WSQ_03450,-,-,-,NADH-quinone oxidoreductase subunit D,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit D,20200805,-
+1173064,56368745,WSQ_RS02985,WSQ_RS02985,WSQ_03455,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20200805,-
+1173064,56368746,thiL,WSQ_RS02990,WSQ_03460,-,-,-,thiamine-phosphate kinase,protein-coding,-,-,-,thiamine-phosphate kinase,20200805,-
+1173064,56368747,recO,WSQ_RS02995,WSQ_03465,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200805,-
+1173064,56368748,WSQ_RS03000,WSQ_RS03000,WSQ_03470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368749,WSQ_RS03005,WSQ_RS03005,WSQ_03475,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368750,ankA,WSQ_RS03015,WSQ_03485,-,-,-,T4SS effector DNA-binding phosphoprotein AnkA,protein-coding,-,-,-,T4SS effector DNA-binding phosphoprotein AnkA,20201128,-
+1173064,56368751,WSQ_RS03020,WSQ_RS03020,WSQ_03500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368752,murB,WSQ_RS03025,WSQ_03505,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20200805,-
+1173064,56368753,hemC,WSQ_RS03030,WSQ_03510,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20200805,-
+1173064,56368754,WSQ_RS03035,WSQ_RS03035,WSQ_03515,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,protein-coding,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,20200805,-
+1173064,56368755,gatA,WSQ_RS03040,WSQ_03520,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200805,-
+1173064,56368756,WSQ_RS03045,WSQ_RS03045,WSQ_03525,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20200801,-
+1173064,56368757,WSQ_RS03055,WSQ_RS03055,WSQ_03555,-,-,-,YifB family Mg chelatase-like AAA ATPase,protein-coding,-,-,-,YifB family Mg chelatase-like AAA ATPase,20200805,-
+1173064,56368758,WSQ_RS03065,WSQ_RS03065,WSQ_03565,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368759,WSQ_RS03070,WSQ_RS03070,WSQ_03570,-,-,-,RNA polymerase factor sigma-32,protein-coding,-,-,-,RNA polymerase factor sigma-32,20210424,-
+1173064,56368760,terL,WSQ_RS03075,WSQ_03575,-,-,-,phage terminase large subunit,protein-coding,-,-,-,phage terminase large subunit,20200926,-
+1173064,56368761,lepA,WSQ_RS03080,WSQ_03590,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200805,-
+1173064,56368762,WSQ_RS03085,WSQ_RS03085,WSQ_03595,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200805,-
+1173064,56368763,pnp,WSQ_RS03090,WSQ_03600,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200805,-
+1173064,56368764,rpsO,WSQ_RS03095,WSQ_03605,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+1173064,56368765,truB,WSQ_RS03100,WSQ_03610,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200805,-
+1173064,56368766,WSQ_RS03105,WSQ_RS03105,WSQ_03615,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20200805,-
+1173064,56368767,WSQ_RS03110,WSQ_RS03110,WSQ_03620,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368768,WSQ_RS03115,WSQ_RS03115,WSQ_03625,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368769,WSQ_RS03120,WSQ_RS03120,WSQ_03635,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+1173064,56368770,WSQ_RS03125,WSQ_RS03125,WSQ_03640,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368771,coaE,WSQ_RS03135,WSQ_03655,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200805,-
+1173064,56368772,WSQ_RS03140,WSQ_RS03140,WSQ_03660,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20210424,-
+1173064,56368773,WSQ_RS03145,WSQ_RS03145,WSQ_03665,-,-,-,DNA polymerase III subunit gamma,protein-coding,-,-,-,DNA polymerase III subunit gamma,20200805,-
+1173064,56368774,WSQ_RS03150,WSQ_RS03150,WSQ_03670,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20210424,-
+1173064,56368775,WSQ_RS03155,WSQ_RS03155,WSQ_03680,-,-,-,pyridoxine 5'-phosphate synthase,protein-coding,-,-,-,pyridoxine 5'-phosphate synthase,20200805,-
+1173064,56368776,WSQ_RS03160,WSQ_RS03160,WSQ_03685,-,-,-,adenylyltransferase/cytidyltransferase family protein,protein-coding,-,-,-,adenylyltransferase/cytidyltransferase family protein,20210123,-
+1173064,56368777,WSQ_RS03165,WSQ_RS03165,WSQ_03690,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368778,WSQ_RS03170,WSQ_RS03170,WSQ_03695,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368779,WSQ_RS03175,WSQ_RS03175,WSQ_03700,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20200805,-
+1173064,56368780,WSQ_RS03180,WSQ_RS03180,WSQ_03705,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20200805,-
+1173064,56368781,WSQ_RS03185,WSQ_RS03185,WSQ_03710,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200801,-
+1173064,56368782,nuoI,WSQ_RS03195,WSQ_03730,-,-,-,NADH-quinone oxidoreductase subunit NuoI,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoI,20200805,-
+1173064,56368783,lepB,WSQ_RS03200,WSQ_03735,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20210424,-
+1173064,56368784,WSQ_RS03205,WSQ_RS03205,WSQ_03740,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20200805,-
+1173064,56368785,WSQ_RS03210,WSQ_RS03210,WSQ_03755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368786,WSQ_RS03215,WSQ_RS03215,WSQ_03760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368787,WSQ_RS03220,WSQ_RS03220,WSQ_03765,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368788,WSQ_RS03225,WSQ_RS03225,WSQ_03770,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368789,WSQ_RS03230,WSQ_RS03230,WSQ_03775,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368790,WSQ_RS03235,WSQ_RS03235,WSQ_03780,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20201129,-
+1173064,56368791,WSQ_RS03240,WSQ_RS03240,WSQ_03785,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,GTP cyclohydrolase I,20201129,-
+1173064,56368792,WSQ_RS03245,WSQ_RS03245,WSQ_03790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368793,WSQ_RS03250,WSQ_RS03250,WSQ_03800,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368794,WSQ_RS03260,WSQ_RS03260,WSQ_03810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368795,WSQ_RS03275,WSQ_RS03275,WSQ_03825,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368796,WSQ_RS03280,WSQ_RS03280,WSQ_03830,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368797,WSQ_RS03285,WSQ_RS03285,WSQ_03835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368798,WSQ_RS03290,WSQ_RS03290,WSQ_03840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368799,WSQ_RS03295,WSQ_RS03295,WSQ_03845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368800,WSQ_RS03300,WSQ_RS03300,WSQ_03855,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368801,WSQ_RS03305,WSQ_RS03305,WSQ_03860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368802,WSQ_RS03310,WSQ_RS03310,WSQ_03865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368803,WSQ_RS03315,WSQ_RS03315,WSQ_03870,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368804,WSQ_RS03320,WSQ_RS03320,WSQ_03875,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368805,WSQ_RS03330,WSQ_RS03330,WSQ_03885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368806,WSQ_RS03335,WSQ_RS03335,WSQ_03890,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368807,WSQ_RS03340,WSQ_RS03340,WSQ_03900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368808,WSQ_RS03345,WSQ_RS03345,WSQ_03905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368809,WSQ_RS03350,WSQ_RS03350,WSQ_03925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368810,WSQ_RS03355,WSQ_RS03355,WSQ_03930,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210424,-
+1173064,56368811,WSQ_RS03360,WSQ_RS03360,WSQ_03935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368812,hemB,WSQ_RS03365,WSQ_03940,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20200805,-
+1173064,56368813,WSQ_RS03375,WSQ_RS03375,WSQ_03950,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368814,WSQ_RS03380,WSQ_RS03380,WSQ_03955,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210417,-
+1173064,56368815,mutS,WSQ_RS03385,WSQ_03960,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20200805,-
+1173064,56368816,ats1,WSQ_RS03390,WSQ_03965,-,-,-,type IV secretion system effector Ats1,protein-coding,-,-,-,type IV secretion system effector Ats1,20200805,-
+1173064,56368817,WSQ_RS03395,WSQ_RS03395,WSQ_03970,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20200805,-
+1173064,56368818,WSQ_RS03400,WSQ_RS03400,WSQ_03975,-,-,-,phage major capsid protein,protein-coding,-,-,-,phage major capsid protein,20200805,-
+1173064,56368819,WSQ_RS03410,WSQ_RS03410,WSQ_03985,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20200805,-
+1173064,56368820,WSQ_RS03415,WSQ_RS03415,WSQ_03990,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368821,WSQ_RS03420,WSQ_RS03420,WSQ_04000,-,-,-,adenylosuccinate lyase,protein-coding,-,-,-,adenylosuccinate lyase,20200805,-
+1173064,56368822,WSQ_RS03425,WSQ_RS03425,WSQ_04005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368823,WSQ_RS03430,WSQ_RS03430,WSQ_04010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368824,WSQ_RS03440,WSQ_RS03440,WSQ_04030,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368825,WSQ_RS03445,WSQ_RS03445,WSQ_04035,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20200805,-
+1173064,56368826,WSQ_RS03450,WSQ_RS03450,WSQ_04045,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201129,-
+1173064,56368827,WSQ_RS03460,WSQ_RS03460,WSQ_04055,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368828,miaB,WSQ_RS03465,WSQ_04060,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20200805,-
+1173064,56368829,uvrC,WSQ_RS03480,WSQ_04080,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20200805,-
+1173064,56368830,htpG,WSQ_RS03490,WSQ_04100,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20200801,-
+1173064,56368831,WSQ_RS03495,WSQ_RS03495,WSQ_04105,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368832,WSQ_RS03500,WSQ_RS03500,WSQ_04115,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368833,nth,WSQ_RS03510,WSQ_04125,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20200805,-
+1173064,56368834,gyrA,WSQ_RS03515,WSQ_04130,-,-,-,DNA gyrase subunit A,protein-coding,-,-,-,DNA gyrase subunit A,20200805,-
+1173064,56368835,WSQ_RS03520,WSQ_RS03520,WSQ_04135,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368836,WSQ_RS03525,WSQ_RS03525,WSQ_04140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368837,WSQ_RS03530,WSQ_RS03530,WSQ_04145,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20200919,-
+1173064,56368838,WSQ_RS03535,WSQ_RS03535,WSQ_04150,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368839,WSQ_RS03540,WSQ_RS03540,WSQ_04155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368840,WSQ_RS03545,WSQ_RS03545,WSQ_04160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368841,WSQ_RS03550,WSQ_RS03550,WSQ_04165,-,-,-,twitching motility protein (pilT),protein-coding,-,-,-,twitching motility protein (pilT),20200919,-
+1173064,56368842,mnmA,WSQ_RS03555,WSQ_04170,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20210123,-
+1173064,56368843,WSQ_RS03560,WSQ_RS03560,WSQ_04175,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368844,WSQ_RS03565,WSQ_RS03565,WSQ_04180,-,-,-,demethoxyubiquinone hydroxylase family protein,protein-coding,-,-,-,demethoxyubiquinone hydroxylase family protein,20200805,-
+1173064,56368845,WSQ_RS03570,WSQ_RS03570,WSQ_04195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368846,aipA,WSQ_RS03580,WSQ_04205,-,-,-,invasion protein AipA,protein-coding,-,-,-,invasion protein AipA,20200731,-
+1173064,56368847,WSQ_RS03585,WSQ_RS03585,WSQ_04215,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368848,WSQ_RS03605,WSQ_RS03605,WSQ_04235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368849,WSQ_RS03610,WSQ_RS03610,WSQ_04245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368850,WSQ_RS03615,WSQ_RS03615,WSQ_04250,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20200805,-
+1173064,56368851,WSQ_RS03620,WSQ_RS03620,WSQ_04255,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368852,rpmG,WSQ_RS03625,WSQ_04260,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+1173064,56368853,WSQ_RS03630,WSQ_RS03630,WSQ_04270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368854,WSQ_RS03635,WSQ_RS03635,WSQ_04275,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20200805,-
+1173064,56368855,WSQ_RS03640,WSQ_RS03640,WSQ_04280,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20210424,-
+1173064,56368856,fabF,WSQ_RS03645,WSQ_04285,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20200805,-
+1173064,56368857,dprA,WSQ_RS03650,WSQ_04300,-,-,-,DNA-protecting protein DprA,protein-coding,-,-,-,DNA-protecting protein DprA,20200801,-
+1173064,56368858,WSQ_RS03660,WSQ_RS03660,WSQ_04310,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368859,WSQ_RS03665,WSQ_RS03665,WSQ_04315,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368860,WSQ_RS03670,WSQ_RS03670,WSQ_04320,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368861,WSQ_RS03675,WSQ_RS03675,WSQ_04325,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368862,mutL,WSQ_RS03680,WSQ_04330,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200805,-
+1173064,56368863,WSQ_RS03685,WSQ_RS03685,WSQ_04335,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20200805,-
+1173064,56368864,WSQ_RS03695,WSQ_RS03695,WSQ_04345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368865,WSQ_RS03700,WSQ_RS03700,WSQ_04350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368866,WSQ_RS03705,WSQ_RS03705,WSQ_04355,-,-,-,HAMP domain-containing histidine kinase,protein-coding,-,-,-,HAMP domain-containing histidine kinase,20200805,-
+1173064,56368867,WSQ_RS03710,WSQ_RS03710,WSQ_04360,-,-,-,aspartate aminotransferase family protein,protein-coding,-,-,-,aspartate aminotransferase family protein,20200805,-
+1173064,56368868,WSQ_RS03715,WSQ_RS03715,WSQ_04370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368869,WSQ_RS03720,WSQ_RS03720,WSQ_04385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368870,WSQ_RS03730,WSQ_RS03730,WSQ_04405,-,-,-,DNA translocase FtsK 4TM domain-containing protein,protein-coding,-,-,-,DNA translocase FtsK 4TM domain-containing protein,20200801,-
+1173064,56368871,WSQ_RS03735,WSQ_RS03735,WSQ_04410,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20210129,-
+1173064,56368872,WSQ_RS03740,WSQ_RS03740,WSQ_04415,-,-,-,DUF21 domain-containing protein,protein-coding,-,-,-,DUF21 domain-containing protein,20200805,-
+1173064,56368873,thiE,WSQ_RS03745,WSQ_04420,-,-,-,thiamine phosphate synthase,protein-coding,-,-,-,thiamine phosphate synthase,20200805,-
+1173064,56368874,WSQ_RS03750,WSQ_RS03750,WSQ_04425,-,-,-,kinase/pyrophosphorylase,protein-coding,-,-,-,kinase/pyrophosphorylase,20201129,-
+1173064,56368875,WSQ_RS03755,WSQ_RS03755,WSQ_04430,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20210424,-
+1173064,56368876,WSQ_RS03765,WSQ_RS03765,WSQ_04440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368877,WSQ_RS03770,WSQ_RS03770,WSQ_04445,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200805,-
+1173064,56368878,WSQ_RS03775,WSQ_RS03775,WSQ_04450,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368879,lon,WSQ_RS03780,WSQ_04460,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201129,-
+1173064,56368880,clpX,WSQ_RS03785,WSQ_04465,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20200805,-
+1173064,56368881,clpP,WSQ_RS03790,WSQ_04470,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20200805,-
+1173064,56368882,tig,WSQ_RS03795,-,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200801,-
+1173064,56368883,WSQ_RS03800,WSQ_RS03800,WSQ_04480,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368884,WSQ_RS03805,WSQ_RS03805,WSQ_04485,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368885,WSQ_RS03810,WSQ_RS03810,WSQ_04490,-,-,-,phosphatidylglycerophosphatase A,protein-coding,-,-,-,phosphatidylglycerophosphatase A,20200801,-
+1173064,56368886,WSQ_RS03815,WSQ_RS03815,WSQ_04495,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200805,-
+1173064,56368887,WSQ_RS03820,WSQ_RS03820,WSQ_04500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368888,iscX,WSQ_RS03825,WSQ_04505,-,-,-,Fe-S cluster assembly protein IscX,protein-coding,-,-,-,Fe-S cluster assembly protein IscX,20200805,-
+1173064,56368889,WSQ_RS03830,WSQ_RS03830,WSQ_04510,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20200801,-
+1173064,56368890,WSQ_RS03840,WSQ_RS03840,WSQ_04525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56368891,WSQ_RS03845,WSQ_RS03845,WSQ_04530,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20200919,-
+1173064,56368892,WSQ_RS03850,WSQ_RS03850,WSQ_04535,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20200805,-
+1173064,56368893,ubiB,WSQ_RS03855,WSQ_04540,-,-,-,2-polyprenylphenol 6-hydroxylase,protein-coding,-,-,-,2-polyprenylphenol 6-hydroxylase,20200805,-
+1173064,56368894,WSQ_RS03860,WSQ_RS03860,WSQ_04545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368895,WSQ_RS03865,WSQ_RS03865,WSQ_04550,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1173064,56368896,tatA,WSQ_RS03870,WSQ_04555,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20200805,-
+1173064,56368897,recR,WSQ_RS03875,WSQ_04560,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200805,-
+1173064,56368898,rpsD,WSQ_RS03880,WSQ_04565,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200805,-
+1173064,56368899,WSQ_RS03885,WSQ_RS03885,WSQ_04570,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368900,thiD,WSQ_RS03890,WSQ_04580,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,protein-coding,-,-,-,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,20200801,-
+1173064,56368901,WSQ_RS03895,WSQ_RS03895,WSQ_04585,-,-,-,chromosomal DNA replication initiator,protein-coding,-,-,-,chromosomal DNA replication initiator,20210424,-
+1173064,56368902,WSQ_RS03900,WSQ_RS03900,WSQ_04590,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20210123,-
+1173064,56368903,WSQ_RS03905,WSQ_RS03905,WSQ_04595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368904,WSQ_RS03910,WSQ_RS03910,WSQ_04600,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368905,sdhD,WSQ_RS03915,WSQ_04605,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",protein-coding,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",20200801,-
+1173064,56368906,sdhC,WSQ_RS03920,WSQ_04610,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",protein-coding,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",20201129,-
+1173064,56368907,WSQ_RS03925,WSQ_RS03925,WSQ_04615,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201129,-
+1173064,56368908,WSQ_RS03930,WSQ_RS03930,WSQ_04620,-,-,-,putative 3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,putative 3-phosphoshikimate 1-carboxyvinyltransferase,20210129,-
+1173064,56368909,dnaE,WSQ_RS03935,WSQ_04625,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20210424,-
+1173064,56368910,pdxH,WSQ_RS03945,WSQ_04655,-,-,-,pyridoxamine 5'-phosphate oxidase,protein-coding,-,-,-,pyridoxamine 5'-phosphate oxidase,20200801,-
+1173064,56368911,WSQ_RS03950,WSQ_RS03950,WSQ_04665,-,-,-,dienelactone hydrolase family protein,protein-coding,-,-,-,dienelactone hydrolase family protein,20210424,-
+1173064,56368912,def,WSQ_RS03955,WSQ_04670,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200805,-
+1173064,56368913,WSQ_RS03960,WSQ_RS03960,WSQ_04675,-,-,-,quinone-dependent dihydroorotate dehydrogenase,protein-coding,-,-,-,quinone-dependent dihydroorotate dehydrogenase,20200805,-
+1173064,56368914,WSQ_RS03965,WSQ_RS03965,WSQ_04680,-,-,-,type III pantothenate kinase,protein-coding,-,-,-,type III pantothenate kinase,20200805,-
+1173064,56368915,WSQ_RS03970,WSQ_RS03970,WSQ_04685,-,-,-,Na+/H+ antiporter subunit E,protein-coding,-,-,-,Na+/H+ antiporter subunit E,20210424,-
+1173064,56368916,WSQ_RS03975,WSQ_RS03975,WSQ_04690,-,-,-,8-amino-7-oxononanoate synthase,protein-coding,-,-,-,8-amino-7-oxononanoate synthase,20200805,-
+1173064,56368917,WSQ_RS03980,WSQ_RS03980,WSQ_04695,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368918,WSQ_RS03990,WSQ_RS03990,WSQ_04705,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56368919,WSQ_RS03995,WSQ_RS03995,WSQ_04710,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368920,WSQ_RS04005,WSQ_RS04005,WSQ_04720,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200805,-
+1173064,56368921,rpoC,WSQ_RS04010,WSQ_04725,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200805,-
+1173064,56368922,rpoB,WSQ_RS04015,WSQ_04730,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200805,-
+1173064,56368923,rplL,WSQ_RS04020,WSQ_04735,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200805,-
+1173064,56368924,WSQ_RS04025,WSQ_RS04025,WSQ_04740,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20210424,-
+1173064,56368925,WSQ_RS04030,WSQ_RS04030,WSQ_04745,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200805,-
+1173064,56368926,rplK,WSQ_RS04035,WSQ_04750,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200805,-
+1173064,56368927,nusG,WSQ_RS04040,WSQ_04755,-,-,-,transcription termination/antitermination factor NusG,protein-coding,-,-,-,transcription termination/antitermination factor NusG,20210424,-
+1173064,56368928,secE,WSQ_RS04045,WSQ_04760,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200805,-
+1173064,56368929,WSQ_RS04050,WSQ_RS04050,WSQ_04765,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56368930,tuf,WSQ_RS04055,WSQ_04770,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200805,-
+1173064,56368931,fusA,WSQ_RS04060,WSQ_04775,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200801,-
+1173064,56368932,rpsG,WSQ_RS04065,WSQ_04780,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+1173064,56368933,WSQ_RS04070,WSQ_RS04070,WSQ_04785,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200805,-
+1173064,56368934,WSQ_RS04075,WSQ_RS04075,WSQ_04790,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200805,-
+1173064,56368935,tolB,WSQ_RS04080,WSQ_04795,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20200805,-
+1173064,56368936,WSQ_RS04090,WSQ_RS04090,WSQ_04825,-,-,-,COQ9 family protein,protein-coding,-,-,-,COQ9 family protein,20210313,-
+1173064,56368937,WSQ_RS04095,WSQ_RS04095,WSQ_04830,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,protein-coding,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,20200805,-
+1173064,56368938,WSQ_RS04100,WSQ_RS04100,WSQ_04835,-,-,-,iron ABC transporter permease,protein-coding,-,-,-,iron ABC transporter permease,20200805,-
+1173064,56368939,WSQ_RS04105,WSQ_RS04105,WSQ_04840,-,-,-,nitronate monooxygenase,protein-coding,-,-,-,nitronate monooxygenase,20200805,-
+1173064,56368940,WSQ_RS04110,WSQ_RS04110,WSQ_04845,-,-,-,SCO family protein,protein-coding,-,-,-,SCO family protein,20200805,-
+1173064,56368941,WSQ_RS04115,WSQ_RS04115,WSQ_04850,-,-,-,substrate-binding domain-containing protein,protein-coding,-,-,-,substrate-binding domain-containing protein,20200801,-
+1173064,56368942,WSQ_RS04120,WSQ_RS04120,WSQ_04855,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20201129,-
+1173064,56368943,sucC,WSQ_RS04125,WSQ_04860,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20200805,-
+1173064,56368944,sucD,WSQ_RS04130,WSQ_04865,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20200805,-
+1173064,56368945,WSQ_RS04135,WSQ_RS04135,WSQ_04880,-,-,-,cell cycle protein MesJ,protein-coding,-,-,-,cell cycle protein MesJ,20201129,-
+1173064,56368946,WSQ_RS04140,WSQ_RS04140,WSQ_04885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368947,alaS,WSQ_RS04145,WSQ_04890,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200805,-
+1173064,56368948,pstC,WSQ_RS04150,WSQ_04895,-,-,-,phosphate ABC transporter permease subunit PstC,protein-coding,-,-,-,phosphate ABC transporter permease subunit PstC,20200801,-
+1173064,56368949,WSQ_RS04155,WSQ_RS04155,WSQ_04900,-,-,-,glutamine synthetase,protein-coding,-,-,-,glutamine synthetase,20200805,-
+1173064,56368950,WSQ_RS04160,WSQ_RS04160,WSQ_04905,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200805,-
+1173064,56368951,WSQ_RS04165,WSQ_RS04165,WSQ_04910,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368952,WSQ_RS04180,WSQ_RS04180,WSQ_04925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368953,WSQ_RS04185,WSQ_RS04185,WSQ_04930,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368954,WSQ_RS04190,WSQ_RS04190,WSQ_04935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368955,lpdA,WSQ_RS04195,WSQ_04940,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201129,-
+1173064,56368956,rho,WSQ_RS04200,WSQ_04945,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20201129,-
+1173064,56368957,hslV,WSQ_RS04205,WSQ_04950,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20210424,-
+1173064,56368958,hslU,WSQ_RS04210,WSQ_04955,-,-,-,ATP-dependent protease ATPase subunit HslU,protein-coding,-,-,-,ATP-dependent protease ATPase subunit HslU,20200801,-
+1173064,56368959,WSQ_RS04215,WSQ_RS04215,WSQ_04960,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200805,-
+1173064,56368960,WSQ_RS04220,WSQ_RS04220,WSQ_04965,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368961,WSQ_RS04225,WSQ_RS04225,WSQ_04970,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201129,-
+1173064,56368962,WSQ_RS04230,WSQ_RS04230,WSQ_04975,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368963,WSQ_RS04240,WSQ_RS04240,WSQ_04990,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200805,-
+1173064,56368964,WSQ_RS04245,WSQ_RS04245,WSQ_04995,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368965,WSQ_RS04255,WSQ_RS04255,WSQ_05005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368966,WSQ_RS04260,WSQ_RS04260,WSQ_05010,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56368967,coxB,WSQ_RS04265,WSQ_05020,-,-,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20200805,-
+1173064,56368968,ctaD,WSQ_RS04270,WSQ_05025,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20200805,-
+1173064,56368969,WSQ_RS04275,WSQ_RS04275,WSQ_05030,-,-,-,protoheme IX farnesyltransferase,protein-coding,-,-,-,protoheme IX farnesyltransferase,20200805,-
+1173064,56368970,WSQ_RS04280,WSQ_RS04280,WSQ_05035,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20201129,-
+1173064,56368971,purD,WSQ_RS04285,WSQ_05040,-,-,-,phosphoribosylamine--glycine ligase,protein-coding,-,-,-,phosphoribosylamine--glycine ligase,20200805,-
+1173064,56368972,yajC,WSQ_RS04290,WSQ_05045,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200805,-
+1173064,56368973,WSQ_RS04295,WSQ_RS04295,WSQ_05060,-,-,-,cell cycle protein MesJ,protein-coding,-,-,-,cell cycle protein MesJ,20201129,-
+1173064,56368974,WSQ_RS04300,WSQ_RS04300,WSQ_05065,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368975,WSQ_RS04305,WSQ_RS04305,WSQ_05070,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368976,WSQ_RS04310,WSQ_RS04310,WSQ_05075,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200805,-
+1173064,56368977,WSQ_RS04315,WSQ_RS04315,WSQ_05080,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20200805,-
+1173064,56368978,WSQ_RS04320,WSQ_RS04320,WSQ_05085,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20200805,-
+1173064,56368979,WSQ_RS04325,WSQ_RS04325,WSQ_05095,-,-,-,LexA family transcriptional regulator,protein-coding,-,-,-,LexA family transcriptional regulator,20200805,-
+1173064,56368980,ppa,WSQ_RS04330,WSQ_05100,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20210424,-
+1173064,56368981,WSQ_RS04340,WSQ_RS04340,WSQ_05110,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56368982,rpsI,WSQ_RS04350,WSQ_05130,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200801,-
+1173064,56368983,rplM,WSQ_RS04355,WSQ_05135,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200805,-
+1173064,56368984,WSQ_RS04360,WSQ_RS04360,WSQ_05140,-,-,-,TolC family protein,protein-coding,-,-,-,TolC family protein,20200805,-
+1173064,56368985,WSQ_RS04370,WSQ_RS04370,WSQ_05150,-,-,-,Mrp/NBP35 family ATP-binding protein,protein-coding,-,-,-,Mrp/NBP35 family ATP-binding protein,20200805,-
+1173064,56368986,prs,WSQ_RS04375,WSQ_05155,-,-,-,ribose-phosphate diphosphokinase,protein-coding,-,-,-,ribose-phosphate diphosphokinase,20200805,-
+1173064,56368987,gatC,WSQ_RS04380,WSQ_05160,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20210424,-
+1173064,56368988,WSQ_RS04390,WSQ_RS04390,WSQ_05170,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56368989,WSQ_RS04395,WSQ_RS04395,WSQ_05175,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368990,acnA,WSQ_RS04400,WSQ_05185,-,-,-,aconitate hydratase AcnA,protein-coding,-,-,-,aconitate hydratase AcnA,20200805,-
+1173064,56368991,WSQ_RS04405,WSQ_RS04405,WSQ_05190,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368992,WSQ_RS04410,WSQ_RS04410,WSQ_05195,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide synthase,20200801,-
+1173064,56368993,apaG,WSQ_RS04415,WSQ_05200,-,-,-,Co2+/Mg2+ efflux protein ApaG,protein-coding,-,-,-,Co2+/Mg2+ efflux protein ApaG,20200805,-
+1173064,56368994,WSQ_RS04420,WSQ_RS04420,WSQ_05205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368995,WSQ_RS04425,WSQ_RS04425,WSQ_05210,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368996,WSQ_RS04430,WSQ_RS04430,WSQ_05215,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368997,WSQ_RS04435,WSQ_RS04435,WSQ_05225,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56368998,WSQ_RS04440,WSQ_RS04440,WSQ_05230,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56368999,WSQ_RS04445,WSQ_RS04445,WSQ_05235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369000,WSQ_RS04455,WSQ_RS04455,WSQ_05245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56369001,virB2-8,WSQ_RS04460,WSQ_05250,-,-,-,type IV secretion system protein VirB2-8,protein-coding,-,-,-,type IV secretion system protein VirB2-8,20201026,-
+1173064,56369002,virB2-7,WSQ_RS04465,WSQ_05255,-,-,-,type IV secretion system protein VirB2-7,protein-coding,-,-,-,type IV secretion system protein VirB2-7,20201026,-
+1173064,56369003,virB2-6,WSQ_RS04470,WSQ_05260,-,-,-,type IV secretion system protein VirB2-6,protein-coding,-,-,-,type IV secretion system protein VirB2-6,20200919,-
+1173064,56369004,virB2-5,WSQ_RS04480,WSQ_05270,-,-,-,type IV secretion system protein VirB2-5,protein-coding,-,-,-,type IV secretion system protein VirB2-5,20201026,-
+1173064,56369005,virB2-4,WSQ_RS04490,WSQ_05275,-,-,-,type IV secretion system protein VirB2-4,protein-coding,-,-,-,type IV secretion system protein VirB2-4,20201026,-
+1173064,56369006,WSQ_RS04495,WSQ_RS04495,WSQ_05280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369007,virB2-4,WSQ_RS04500,WSQ_05285,-,-,-,type IV secretion system protein VirB2-4,protein-coding,-,-,-,type IV secretion system protein VirB2-4,20200919,-
+1173064,56369008,WSQ_RS04510,WSQ_RS04510,WSQ_05295,-,-,-,TrbC/VirB2 family protein,protein-coding,-,-,-,TrbC/VirB2 family protein,20201129,-
+1173064,56369009,virB2-2,WSQ_RS04535,WSQ_05325,-,-,-,type IV secretion system protein VirB2-2,protein-coding,-,-,-,type IV secretion system protein VirB2-2,20201026,-
+1173064,56369010,virB2-1,WSQ_RS04540,WSQ_05330,-,-,-,type IV secretion system protein VirB2-1,protein-coding,-,-,-,type IV secretion system protein VirB2-1,20201129,-
+1173064,56369011,hflK,WSQ_RS04545,WSQ_05335,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20200805,-
+1173064,56369012,WSQ_RS04550,WSQ_RS04550,WSQ_05340,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20200805,-
+1173064,56369013,WSQ_RS04555,WSQ_RS04555,WSQ_05345,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20200805,-
+1173064,56369014,WSQ_RS04560,WSQ_RS04560,WSQ_05350,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20201129,-
+1173064,56369015,WSQ_RS04565,WSQ_RS04565,WSQ_05355,-,-,-,cytochrome c oxidase assembly protein,protein-coding,-,-,-,cytochrome c oxidase assembly protein,20200805,-
+1173064,56369016,WSQ_RS04570,WSQ_RS04570,WSQ_05360,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369017,WSQ_RS04575,WSQ_RS04575,-,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369018,WSQ_RS04580,WSQ_RS04580,WSQ_05370,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200829,-
+1173064,56369019,WSQ_RS04585,WSQ_RS04585,WSQ_05375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369020,WSQ_RS04590,WSQ_RS04590,WSQ_05380,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369021,WSQ_RS04595,WSQ_RS04595,WSQ_05385,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369022,WSQ_RS04600,WSQ_RS04600,WSQ_05390,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369023,WSQ_RS04605,WSQ_RS04605,WSQ_05395,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200805,-
+1173064,56369024,WSQ_RS04610,WSQ_RS04610,WSQ_05400,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200801,-
+1173064,56369025,lspA,WSQ_RS04615,WSQ_05405,-,-,-,signal peptidase II,protein-coding,-,-,-,signal peptidase II,20200919,-
+1173064,56369026,WSQ_RS04620,WSQ_RS04620,WSQ_05410,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20200801,-
+1173064,56369027,grxC,WSQ_RS04625,WSQ_05415,-,-,-,glutaredoxin 3,protein-coding,-,-,-,glutaredoxin 3,20200805,-
+1173064,56369028,WSQ_RS04630,WSQ_RS04630,WSQ_05420,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369029,WSQ_RS04635,WSQ_RS04635,WSQ_05425,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369030,ftsA,WSQ_RS04640,WSQ_05430,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20200805,-
+1173064,56369031,recJ,WSQ_RS04645,WSQ_05435,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20200805,-
+1173064,56369032,icd,WSQ_RS04650,WSQ_05440,-,-,-,isocitrate dehydrogenase,protein-coding,-,-,-,isocitrate dehydrogenase,20200805,-
+1173064,56369033,WSQ_RS04655,WSQ_RS04655,WSQ_05445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369034,WSQ_RS04660,WSQ_RS04660,WSQ_05450,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369035,WSQ_RS04665,WSQ_RS04665,WSQ_05455,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369036,WSQ_RS04670,WSQ_RS04670,WSQ_05460,-,-,-,pentapeptide repeat-containing protein,protein-coding,-,-,-,pentapeptide repeat-containing protein,20210313,-
+1173064,56369037,WSQ_RS04675,WSQ_RS04675,WSQ_05465,-,-,-,SURF1 family protein,protein-coding,-,-,-,SURF1 family protein,20210605,-
+1173064,56369038,WSQ_RS04680,WSQ_RS04680,WSQ_05470,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20200801,-
+1173064,56369039,WSQ_RS04685,WSQ_RS04685,WSQ_05475,-,-,-,HesA/MoeB/ThiF family protein,protein-coding,-,-,-,HesA/MoeB/ThiF family protein,20200805,-
+1173064,56369040,WSQ_RS04690,WSQ_RS04690,WSQ_05485,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369041,WSQ_RS04695,WSQ_RS04695,WSQ_05490,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201129,-
+1173064,56369042,secA,WSQ_RS04700,WSQ_05495,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200805,-
+1173064,56369043,ftsH,WSQ_RS04705,WSQ_05500,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210116,-
+1173064,56369044,WSQ_RS04715,WSQ_RS04715,WSQ_05510,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369045,WSQ_RS04720,WSQ_RS04720,WSQ_05515,-,-,-,TrkH family potassium uptake protein,protein-coding,-,-,-,TrkH family potassium uptake protein,20200801,-
+1173064,56369046,ftsA,WSQ_RS04725,WSQ_05520,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20200926,-
+1173064,56369047,WSQ_RS04730,WSQ_RS04730,WSQ_05525,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56369048,WSQ_RS04740,WSQ_RS04740,WSQ_05540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369049,WSQ_RS04745,WSQ_RS04745,WSQ_05545,-,-,-,"ATP synthase F0, B' subunit",protein-coding,-,-,-,"ATP synthase F0, B' subunit",20200805,-
+1173064,56369050,WSQ_RS04750,WSQ_RS04750,WSQ_05550,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20200805,-
+1173064,56369051,WSQ_RS04755,WSQ_RS04755,WSQ_05555,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20201129,-
+1173064,56369052,WSQ_RS04760,WSQ_RS04760,WSQ_05560,-,-,-,iron-containing alcohol dehydrogenase,protein-coding,-,-,-,iron-containing alcohol dehydrogenase,20200919,-
+1173064,56369053,WSQ_RS04765,WSQ_RS04765,WSQ_05565,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369054,WSQ_RS04770,WSQ_RS04770,WSQ_05570,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369055,WSQ_RS04775,WSQ_RS04775,WSQ_05580,-,-,-,gamma carbonic anhydrase family protein,protein-coding,-,-,-,gamma carbonic anhydrase family protein,20200805,-
+1173064,56369056,odhB,WSQ_RS04780,WSQ_05585,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,20200805,-
+1173064,56369057,map,WSQ_RS04785,WSQ_05590,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200805,-
+1173064,56369058,prmC,WSQ_RS04790,WSQ_05595,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20200805,-
+1173064,56369059,WSQ_RS04795,WSQ_RS04795,WSQ_05600,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369060,WSQ_RS04805,WSQ_RS04805,WSQ_05610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56369061,WSQ_RS04810,WSQ_RS04810,WSQ_05615,-,-,-,cbb3-type cytochrome c oxidase subunit I,protein-coding,-,-,-,cbb3-type cytochrome c oxidase subunit I,20210417,-
+1173064,56369062,pgsA,WSQ_RS04815,WSQ_05620,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20210424,-
+1173064,56369063,purH,WSQ_RS04820,WSQ_05625,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,protein-coding,-,-,-,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,20200801,-
+1173064,56369064,fabZ,WSQ_RS04825,WSQ_05630,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210424,-
+1173064,56369065,WSQ_RS04830,WSQ_RS04830,WSQ_05635,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20200805,-
+1173064,56369066,bamA,WSQ_RS04835,WSQ_05640,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20200801,-
+1173064,56369067,WSQ_RS04840,WSQ_RS04840,WSQ_05645,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20200805,-
+1173064,56369068,WSQ_RS04845,WSQ_RS04845,WSQ_05650,-,-,-,succinate dehydrogenase assembly factor 2,protein-coding,-,-,-,succinate dehydrogenase assembly factor 2,20200805,-
+1173064,56369069,WSQ_RS04850,WSQ_RS04850,WSQ_05655,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200919,-
+1173064,56369070,WSQ_RS04855,WSQ_RS04855,WSQ_05660,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20210417,-
+1173064,56369071,WSQ_RS04860,WSQ_RS04860,WSQ_05665,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369072,WSQ_RS04865,WSQ_RS04865,WSQ_05670,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369073,WSQ_RS04870,WSQ_RS04870,WSQ_05675,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20200805,-
+1173064,56369074,ndk,WSQ_RS04875,WSQ_05680,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20201129,-
+1173064,56369075,WSQ_RS04880,WSQ_RS04880,WSQ_05685,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200805,-
+1173064,56369076,WSQ_RS04885,WSQ_RS04885,WSQ_05690,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369077,WSQ_RS04890,WSQ_RS04890,WSQ_05695,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210605,-
+1173064,56369078,WSQ_RS04895,WSQ_RS04895,WSQ_05700,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369079,WSQ_RS04900,WSQ_RS04900,WSQ_05705,-,-,-,"recA protein, truncation",protein-coding,-,-,-,"recA protein, truncation",20200919,-
+1173064,56369080,WSQ_RS04905,WSQ_RS04905,WSQ_05710,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201026,-
+1173064,56369081,WSQ_RS04910,WSQ_RS04910,WSQ_05715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369082,ftsY,WSQ_RS04920,WSQ_05725,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200805,-
+1173064,56369083,bioD,WSQ_RS04925,WSQ_05730,-,-,-,dethiobiotin synthase,protein-coding,-,-,-,dethiobiotin synthase,20200805,-
+1173064,56369084,WSQ_RS04930,WSQ_RS04930,WSQ_05735,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369085,WSQ_RS04935,WSQ_RS04935,WSQ_05740,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369086,gshA,WSQ_RS04940,WSQ_05745,-,-,-,glutamate--cysteine ligase,protein-coding,-,-,-,glutamate--cysteine ligase,20200801,-
+1173064,56369087,WSQ_RS04945,WSQ_RS04945,WSQ_05750,-,-,-,citrate synthase,protein-coding,-,-,-,citrate synthase,20200805,-
+1173064,56369088,guaA,WSQ_RS04950,WSQ_05755,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20200805,-
+1173064,56369089,WSQ_RS04960,WSQ_RS04960,WSQ_05775,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369090,WSQ_RS04965,WSQ_RS04965,WSQ_05780,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201026,-
+1173064,56369091,WSQ_RS04970,WSQ_RS04970,WSQ_05785,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369092,WSQ_RS04980,WSQ_RS04980,WSQ_05795,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369093,WSQ_RS04985,WSQ_RS04985,WSQ_05800,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369094,hemA,WSQ_RS04990,WSQ_05805,-,-,-,5-aminolevulinate synthase,protein-coding,-,-,-,5-aminolevulinate synthase,20200805,-
+1173064,56369095,WSQ_RS04995,WSQ_RS04995,WSQ_05810,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200805,-
+1173064,56369096,WSQ_RS05000,WSQ_RS05000,WSQ_05815,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369097,glnA,WSQ_RS05005,WSQ_05820,-,-,-,type I glutamate--ammonia ligase,protein-coding,-,-,-,type I glutamate--ammonia ligase,20200805,-
+1173064,56369098,WSQ_RS05010,WSQ_RS05010,WSQ_05825,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20200801,-
+1173064,56369099,WSQ_RS05015,WSQ_RS05015,WSQ_05830,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369100,WSQ_RS05020,WSQ_RS05020,WSQ_05835,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369101,holA,WSQ_RS05025,WSQ_05850,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200805,-
+1173064,56369102,WSQ_RS05030,WSQ_RS05030,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369103,WSQ_RS05035,WSQ_RS05035,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369104,WSQ_RS05040,WSQ_RS05040,WSQ_05870,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201129,-
+1173064,56369105,WSQ_RS05045,WSQ_RS05045,WSQ_05875,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20200805,-
+1173064,56369106,WSQ_RS05050,WSQ_RS05050,WSQ_05880,-,-,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20200805,-
+1173064,56369107,WSQ_RS05055,WSQ_RS05055,WSQ_05885,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369108,WSQ_RS05060,WSQ_RS05060,WSQ_05895,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369109,WSQ_RS05065,WSQ_RS05065,WSQ_05905,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200805,-
+1173064,56369110,thrS,WSQ_RS05070,WSQ_05910,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200805,-
+1173064,56369111,WSQ_RS05075,WSQ_RS05075,WSQ_05915,-,-,-,CinA family protein,protein-coding,-,-,-,CinA family protein,20210129,-
+1173064,56369112,rplS,WSQ_RS05080,WSQ_05920,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200805,-
+1173064,56369113,trmD,WSQ_RS05085,WSQ_05925,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200805,-
+1173064,56369114,rimM,WSQ_RS05090,WSQ_05930,-,-,-,16S rRNA processing protein RimM,protein-coding,-,-,-,16S rRNA processing protein RimM,20200805,-
+1173064,56369115,WSQ_RS05095,WSQ_RS05095,WSQ_05935,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369116,WSQ_RS05100,WSQ_RS05100,WSQ_05940,-,-,-,aminomethyltransferase,protein-coding,-,-,-,aminomethyltransferase,20200805,-
+1173064,56369117,WSQ_RS05105,WSQ_RS05105,WSQ_05945,-,-,-,heme lyase CcmF/NrfE family subunit,protein-coding,-,-,-,heme lyase CcmF/NrfE family subunit,20200805,-
+1173064,56369118,WSQ_RS05110,WSQ_RS05110,WSQ_05950,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369119,WSQ_RS05115,WSQ_RS05115,WSQ_05955,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369120,WSQ_RS05120,WSQ_RS05120,WSQ_05960,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369121,ispF,WSQ_RS05125,WSQ_05965,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200805,-
+1173064,56369122,WSQ_RS05130,WSQ_RS05130,WSQ_05970,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20200805,-
+1173064,56369123,WSQ_RS05135,WSQ_RS05135,WSQ_05975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369124,purE,WSQ_RS05140,WSQ_05980,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,protein-coding,-,-,-,5-(carboxyamino)imidazole ribonucleotide mutase,20210417,-
+1173064,56369125,WSQ_RS05145,WSQ_RS05145,WSQ_05985,-,-,-,redoxin domain-containing protein,protein-coding,-,-,-,redoxin domain-containing protein,20210424,-
+1173064,56369126,WSQ_RS05150,WSQ_RS05150,WSQ_05990,-,-,-,integration host factor subunit alpha,protein-coding,-,-,-,integration host factor subunit alpha,20200805,-
+1173064,56369127,WSQ_RS05155,WSQ_RS05155,WSQ_06000,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369128,ychF,WSQ_RS05160,WSQ_06010,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200805,-
+1173064,56369129,WSQ_RS05165,WSQ_RS05165,WSQ_06015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369130,WSQ_RS05170,WSQ_RS05170,WSQ_06020,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369131,mnmE,WSQ_RS05175,WSQ_06025,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200805,-
+1173064,56369132,ybeY,WSQ_RS05180,WSQ_06035,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200805,-
+1173064,56369133,WSQ_RS05185,WSQ_RS05185,WSQ_06040,-,-,-,EVE domain-containing protein,protein-coding,-,-,-,EVE domain-containing protein,20200801,-
+1173064,56369134,ftsZ,WSQ_RS05190,WSQ_06045,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200805,-
+1173064,56369135,WSQ_RS05195,WSQ_RS05195,WSQ_06050,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369136,WSQ_RS05205,WSQ_RS05205,WSQ_06060,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369137,WSQ_RS05210,WSQ_RS05210,WSQ_06065,-,-,-,phosphopantothenoylcysteine decarboxylase,protein-coding,-,-,-,phosphopantothenoylcysteine decarboxylase,20200805,-
+1173064,56369138,WSQ_RS05215,WSQ_RS05215,WSQ_06070,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20200805,-
+1173064,56369139,WSQ_RS05220,WSQ_RS05220,WSQ_06075,-,-,-,complex I NDUFA9 subunit family protein,protein-coding,-,-,-,complex I NDUFA9 subunit family protein,20200805,-
+1173064,56369140,WSQ_RS05225,WSQ_RS05225,WSQ_06080,-,-,-,amidophosphoribosyltransferase,protein-coding,-,-,-,amidophosphoribosyltransferase,20200805,-
+1173064,56369141,WSQ_RS05230,WSQ_RS05230,WSQ_06085,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200805,-
+1173064,56369142,WSQ_RS05235,WSQ_RS05235,WSQ_06090,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20200805,-
+1173064,56369143,WSQ_RS05240,WSQ_RS05240,WSQ_06095,-,-,-,ComF family protein,protein-coding,-,-,-,ComF family protein,20210605,-
+1173064,56369144,WSQ_RS05245,WSQ_RS05245,WSQ_06100,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1173064,56369145,WSQ_RS05250,WSQ_RS05250,WSQ_06105,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200805,-
+1173064,56369146,WSQ_RS05255,WSQ_RS05255,WSQ_06110,-,-,-,CopD family protein,protein-coding,-,-,-,CopD family protein,20200805,-
+1173064,56369147,WSQ_RS05260,WSQ_RS05260,WSQ_06115,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20200805,-
+1173064,56369148,WSQ_RS05270,WSQ_RS05270,WSQ_06125,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369149,tldD,WSQ_RS05275,WSQ_06130,-,-,-,peptidase C69,protein-coding,-,-,-,peptidase C69,20200805,-
+1173064,56369150,WSQ_RS05280,WSQ_RS05280,WSQ_06135,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369151,WSQ_RS05285,WSQ_RS05285,WSQ_06140,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369152,WSQ_RS05290,WSQ_RS05290,-,-,-,-,GTP cyclohydrolase II,protein-coding,-,-,-,GTP cyclohydrolase II,20201129,-
+1173064,56369153,WSQ_RS05295,WSQ_RS05295,WSQ_06150,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369154,WSQ_RS05300,WSQ_RS05300,WSQ_06155,-,-,-,methyltransferase,protein-coding,-,-,-,methyltransferase,20210417,-
+1173064,56369155,WSQ_RS05305,WSQ_RS05305,WSQ_06160,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369156,WSQ_RS05310,WSQ_RS05310,WSQ_06165,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369157,WSQ_RS05315,WSQ_RS05315,WSQ_06170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369158,WSQ_RS05320,WSQ_RS05320,WSQ_06175,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201129,-
+1173064,56369159,xseA,WSQ_RS05325,WSQ_06180,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20200801,-
+1173064,56369160,WSQ_RS05330,WSQ_RS05330,WSQ_06185,-,-,-,zinc finger-like domain-containing protein,protein-coding,-,-,-,zinc finger-like domain-containing protein,20210123,-
+1173064,56369161,WSQ_RS05340,WSQ_RS05340,WSQ_06200,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210605,-
+1173064,56369162,secF,WSQ_RS05345,WSQ_06205,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20200801,-
+1173064,56369163,WSQ_RS05350,WSQ_RS05350,WSQ_06210,-,-,-,YraN family protein,protein-coding,-,-,-,YraN family protein,20200805,-
+1173064,56369164,smpB,WSQ_RS05365,WSQ_06230,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20210424,-
+1173064,56369165,ribB,WSQ_RS05370,WSQ_06235,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",protein-coding,-,-,-,"3,4-dihydroxy-2-butanone-4-phosphate synthase",20200805,-
+1173064,56369166,greA,WSQ_RS05375,WSQ_06240,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200805,-
+1173064,56369167,WSQ_RS05380,WSQ_RS05380,WSQ_06245,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200805,-
+1173064,56369168,WSQ_RS05385,WSQ_RS05385,WSQ_06250,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20210129,-
+1173064,56369169,WSQ_RS05390,WSQ_RS05390,WSQ_06255,-,-,-,DUF1467 family protein,protein-coding,-,-,-,DUF1467 family protein,20210424,-
+1173064,56369170,WSQ_RS05395,WSQ_RS05395,WSQ_06265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369171,WSQ_RS05400,WSQ_RS05400,WSQ_06270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369172,WSQ_RS05405,WSQ_RS05405,WSQ_06275,-,-,-,lipoprotein-releasing ABC transporter permease subunit,protein-coding,-,-,-,lipoprotein-releasing ABC transporter permease subunit,20210424,-
+1173064,56369173,WSQ_RS05410,WSQ_RS05410,WSQ_06280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369174,WSQ_RS05415,WSQ_RS05415,WSQ_06285,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369175,tsaE,WSQ_RS05420,WSQ_06290,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20200805,-
+1173064,56369176,WSQ_RS05425,WSQ_RS05425,WSQ_06295,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20200805,-
+1173064,56369177,WSQ_RS05430,WSQ_RS05430,WSQ_06300,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20200805,-
+1173064,56369178,WSQ_RS05435,WSQ_RS05435,WSQ_06305,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20210424,-
+1173064,56369179,dnaX,WSQ_RS05440,WSQ_06310,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200805,-
+1173064,56369180,WSQ_RS05445,WSQ_RS05445,WSQ_06315,-,-,-,aldehyde dehydrogenase,protein-coding,-,-,-,aldehyde dehydrogenase,20201129,-
+1173064,56369181,WSQ_RS05450,WSQ_RS05450,WSQ_06320,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369182,WSQ_RS05455,WSQ_RS05455,WSQ_06325,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369183,WSQ_RS05460,WSQ_RS05460,WSQ_06330,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20210424,-
+1173064,56369184,recA,WSQ_RS05465,WSQ_06335,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200801,-
+1173064,56369185,WSQ_RS05470,WSQ_RS05470,WSQ_06340,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369186,WSQ_RS05475,WSQ_RS05475,WSQ_06345,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369187,WSQ_RS05480,WSQ_RS05480,WSQ_06350,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369188,WSQ_RS05485,WSQ_RS05485,WSQ_06355,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369189,WSQ_RS05490,WSQ_RS05490,WSQ_06360,-,-,-,UbiD family decarboxylase,protein-coding,-,-,-,UbiD family decarboxylase,20200805,-
+1173064,56369190,WSQ_RS05495,WSQ_RS05495,WSQ_06365,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369191,secD,WSQ_RS05505,WSQ_06380,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20200805,-
+1173064,56369192,uvrB,WSQ_RS05510,WSQ_06385,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20210605,-
+1173064,56369193,WSQ_RS05515,WSQ_RS05515,WSQ_06395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369194,WSQ_RS05520,WSQ_RS05520,WSQ_06400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369195,WSQ_RS05525,WSQ_RS05525,WSQ_06405,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200805,-
+1173064,56369196,WSQ_RS05530,WSQ_RS05530,WSQ_06410,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200805,-
+1173064,56369197,WSQ_RS05535,WSQ_RS05535,WSQ_06415,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200805,-
+1173064,56369198,rpsT,WSQ_RS05540,WSQ_06420,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200805,-
+1173064,56369199,WSQ_RS05545,WSQ_RS05545,WSQ_06425,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369200,WSQ_RS05555,WSQ_RS05555,WSQ_06435,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200805,-
+1173064,56369201,murJ,WSQ_RS05560,WSQ_06440,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20200805,-
+1173064,56369202,WSQ_RS05565,WSQ_RS05565,WSQ_06445,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369203,WSQ_RS05575,WSQ_RS05575,WSQ_06455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369204,WSQ_RS05580,WSQ_RS05580,WSQ_06460,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369205,WSQ_RS05585,WSQ_RS05585,WSQ_06465,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369206,WSQ_RS05590,WSQ_RS05590,WSQ_06470,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369207,WSQ_RS05595,WSQ_RS05595,WSQ_06475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369208,WSQ_RS05600,WSQ_RS05600,WSQ_06480,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369209,WSQ_RS05605,WSQ_RS05605,WSQ_06485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369210,WSQ_RS05610,WSQ_RS05610,WSQ_06490,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369211,WSQ_RS05615,WSQ_RS05615,WSQ_06495,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369212,WSQ_RS05620,WSQ_RS05620,WSQ_06500,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200805,-
+1173064,56369213,WSQ_RS05625,WSQ_RS05625,WSQ_06505,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210327,-
+1173064,56369214,WSQ_RS05630,WSQ_RS05630,-,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200805,-
+1173064,56369215,WSQ_RS05635,WSQ_RS05635,WSQ_06515,-,-,-,tRNA,tRNA,-,-,-,-,20201129,-
+1173064,56369216,WSQ_RS05640,WSQ_RS05640,WSQ_06520,-,-,-,heme exporter protein CcmB,protein-coding,-,-,-,heme exporter protein CcmB,20200801,-
+1173064,56369217,WSQ_RS05645,WSQ_RS05645,WSQ_06525,-,-,-,TraR/DksA C4-type zinc finger protein,protein-coding,-,-,-,TraR/DksA C4-type zinc finger protein,20210424,-
+1173064,56369218,WSQ_RS05650,WSQ_RS05650,WSQ_06530,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369219,WSQ_RS05655,WSQ_RS05655,WSQ_06535,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369220,WSQ_RS05660,WSQ_RS05660,WSQ_06540,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20200805,-
+1173064,56369221,virB11,WSQ_RS05665,WSQ_06545,-,-,-,P-type DNA transfer ATPase VirB11,protein-coding,-,-,-,P-type DNA transfer ATPase VirB11,20200805,-
+1173064,56369222,WSQ_RS05670,WSQ_RS05670,WSQ_06550,-,-,-,TrbI/VirB10 family protein,protein-coding,-,-,-,TrbI/VirB10 family protein,20200805,-
+1173064,56369223,virB9,WSQ_RS05675,WSQ_06555,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20200805,-
+1173064,56369224,WSQ_RS05680,WSQ_RS05680,WSQ_06560,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200801,-
+1173064,56369225,WSQ_RS05685,WSQ_RS05685,WSQ_06565,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201129,-
+1173064,56369226,recF,WSQ_RS05690,WSQ_06575,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20200805,-
+1173064,56369227,WSQ_RS05695,WSQ_RS05695,WSQ_06585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369228,WSQ_RS05710,WSQ_RS05710,WSQ_00860,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200801,-
+1173064,56369229,WSQ_RS05720,WSQ_RS05720,WSQ_01225,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20210424,-
+1173064,56369230,WSQ_RS05735,WSQ_RS05735,WSQ_01760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369231,WSQ_RS05740,WSQ_RS05740,WSQ_01820,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1173064,56369232,WSQ_RS05745,WSQ_RS05745,WSQ_02155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369233,WSQ_RS05750,WSQ_RS05750,WSQ_02485,-,-,-,Smr/MutS family protein,protein-coding,-,-,-,Smr/MutS family protein,20210123,-
+1173064,56369234,nusB,WSQ_RS05755,WSQ_02595,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20200801,-
+1173064,56369235,mreC,WSQ_RS05765,WSQ_02920,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20210605,-
+1173064,56369236,WSQ_RS05770,WSQ_RS05770,WSQ_02925,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369237,WSQ_RS05775,WSQ_RS05775,WSQ_03040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369238,WSQ_RS05795,WSQ_RS05795,WSQ_03560,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369239,nadE,WSQ_RS05800,WSQ_03945,-,-,-,NAD(+) synthase,protein-coding,-,-,-,NAD(+) synthase,20200801,-
+1173064,56369240,WSQ_RS05805,WSQ_RS05805,WSQ_04340,-,-,-,cell envelope integrity protein TolA,protein-coding,-,-,-,cell envelope integrity protein TolA,20200801,-
+1173064,56369241,WSQ_RS05830,WSQ_RS05830,WSQ_05760,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,56369242,rnpB,WSQ_RS05850,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201129,-
+1173064,56369243,WSQ_RS05855,WSQ_RS05855,-,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369244,WSQ_RS05860,WSQ_RS05860,WSQ_00140,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369245,WSQ_RS05865,WSQ_RS05865,WSQ_00315,-,-,-,DnaJ domain-containing protein,protein-coding,-,-,-,DnaJ domain-containing protein,20200801,-
+1173064,56369246,WSQ_RS05870,WSQ_RS05870,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369247,WSQ_RS05900,WSQ_RS05900,-,-,-,-,class I tRNA ligase family protein,protein-coding,-,-,-,class I tRNA ligase family protein,20200801,-
+1173064,56369248,WSQ_RS05905,WSQ_RS05905,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369249,WSQ_RS05910,WSQ_RS05910,WSQ_01210,-,-,-,type I secretion system permease/ATPase,protein-coding,-,-,-,type I secretion system permease/ATPase,20200801,-
+1173064,56369250,rpmH,WSQ_RS05920,WSQ_01480,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200801,-
+1173064,56369251,WSQ_RS05925,WSQ_RS05925,-,-,-,-,adenylosuccinate synthetase,protein-coding,-,-,-,adenylosuccinate synthetase,20200801,-
+1173064,56369252,ssrS,WSQ_RS05930,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201129,-
+1173064,56369253,WSQ_RS05935,WSQ_RS05935,-,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200801,-
+1173064,56369254,WSQ_RS05940,WSQ_RS05940,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369255,WSQ_RS05945,WSQ_RS05945,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369256,WSQ_RS05950,WSQ_RS05950,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56369257,WSQ_RS05980,WSQ_RS05980,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369258,WSQ_RS05985,WSQ_RS05985,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369259,WSQ_RS05990,WSQ_RS05990,-,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,protein-coding,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,20200801,-
+1173064,56369260,ssrA,WSQ_RS05995,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201129,-
+1173064,56369261,WSQ_RS06000,WSQ_RS06000,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200801,-
+1173064,56369262,WSQ_RS06005,WSQ_RS06005,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369263,WSQ_RS06010,WSQ_RS06010,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369264,WSQ_RS06015,WSQ_RS06015,WSQ_04630,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20200801,-
+1173064,56369265,WSQ_RS06025,WSQ_RS06025,WSQ_04810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369266,WSQ_RS06030,WSQ_RS06030,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369267,WSQ_RS06035,WSQ_RS06035,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369268,WSQ_RS06040,WSQ_RS06040,WSQ_05220,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369269,WSQ_RS06055,WSQ_RS06055,-,-,-,-,glutaredoxin,protein-coding,-,-,-,glutaredoxin,20200801,-
+1173064,56369270,WSQ_RS06060,WSQ_RS06060,-,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20200801,-
+1173064,56369271,tilS,WSQ_RS06065,-,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200829,-
+1173064,56369272,WSQ_RS06070,WSQ_RS06070,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369273,WSQ_RS06075,WSQ_RS06075,WSQ_05720,-,-,-,P44/Msp2 family outer membrane protein,protein-coding,-,-,-,P44/Msp2 family outer membrane protein,20201129,-
+1173064,56369274,WSQ_RS06085,WSQ_RS06085,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369275,WSQ_RS06090,WSQ_RS06090,WSQ_05995,-,-,-,MerR family transcriptional regulator,protein-coding,-,-,-,MerR family transcriptional regulator,20200801,-
+1173064,56369276,WSQ_RS06095,WSQ_RS06095,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369277,WSQ_RS06100,WSQ_RS06100,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369278,WSQ_RS06105,WSQ_RS06105,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369279,WSQ_RS06110,WSQ_RS06110,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369280,WSQ_RS06115,WSQ_RS06115,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369281,WSQ_RS06120,WSQ_RS06120,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369282,ffs,WSQ_RS06125,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201129,-
+1173064,56369283,WSQ_RS06135,WSQ_RS06135,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369284,WSQ_RS06140,WSQ_RS06140,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369285,WSQ_RS06145,WSQ_RS06145,WSQ_06375,-,-,-,zinc-finger domain-containing protein,protein-coding,-,-,-,zinc-finger domain-containing protein,20210417,-
+1173064,56369287,WSQ_RS06160,WSQ_RS06160,WSQ_00580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369288,WSQ_RS06165,WSQ_RS06165,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1173064,56369289,WSQ_RS06170,WSQ_RS06170,WSQ_00625,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369290,WSQ_RS06175,WSQ_RS06175,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369291,WSQ_RS06180,WSQ_RS06180,WSQ_00705,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369293,WSQ_RS06190,WSQ_RS06190,WSQ_00780,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369295,WSQ_RS06200,WSQ_RS06200,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369296,WSQ_RS06205,WSQ_RS06205,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369297,WSQ_RS06210,WSQ_RS06210,WSQ_01080,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369298,WSQ_RS06215,WSQ_RS06215,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369299,WSQ_RS06220,WSQ_RS06220,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369300,WSQ_RS06225,WSQ_RS06225,WSQ_01205,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369301,WSQ_RS06230,WSQ_RS06230,WSQ_01495,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369302,WSQ_RS06235,WSQ_RS06235,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369303,WSQ_RS06240,WSQ_RS06240,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369304,WSQ_RS06245,WSQ_RS06245,WSQ_02040,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369305,WSQ_RS06250,WSQ_RS06250,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369306,WSQ_RS06255,WSQ_RS06255,WSQ_02235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369307,WSQ_RS06260,WSQ_RS06260,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369308,prfB,WSQ_RS06265,WSQ_02270,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369309,WSQ_RS06270,WSQ_RS06270,WSQ_02340,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369310,WSQ_RS06275,WSQ_RS06275,WSQ_02365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369311,WSQ_RS06280,WSQ_RS06280,WSQ_02475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369312,WSQ_RS06285,WSQ_RS06285,WSQ_02570,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369313,WSQ_RS06290,WSQ_RS06290,WSQ_02660,-,-,-,twin-arginine translocase TatA/TatE family subunit,protein-coding,-,-,-,twin-arginine translocase TatA/TatE family subunit,20200801,-
+1173064,56369314,WSQ_RS06295,WSQ_RS06295,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369316,WSQ_RS06305,WSQ_RS06305,WSQ_02885,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369317,WSQ_RS06310,WSQ_RS06310,WSQ_03000,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369320,WSQ_RS06325,WSQ_RS06325,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1173064,56369321,WSQ_RS06330,WSQ_RS06330,WSQ_03265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200926,-
+1173064,56369322,WSQ_RS06335,WSQ_RS06335,-,-,-,-,diguanylate cyclase,protein-coding,-,-,-,diguanylate cyclase,20200801,-
+1173064,56369323,WSQ_RS06340,WSQ_RS06340,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1173064,56369324,WSQ_RS06345,WSQ_RS06345,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369325,WSQ_RS06350,WSQ_RS06350,WSQ_03325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369326,WSQ_RS06355,WSQ_RS06355,WSQ_03335,-,-,-,GTP cyclohydrolase I,protein-coding,-,-,-,GTP cyclohydrolase I,20201129,-
+1173064,56369327,WSQ_RS06360,WSQ_RS06360,-,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,protein-coding,-,-,-,glycoside hydrolase TIM-barrel-like domain-containing protein,20200801,-
+1173064,56369329,WSQ_RS06370,WSQ_RS06370,WSQ_03545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369330,WSQ_RS06375,WSQ_RS06375,WSQ_03580,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369331,WSQ_RS06380,WSQ_RS06380,WSQ_03645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369333,WSQ_RS06390,WSQ_RS06390,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369334,WSQ_RS06395,WSQ_RS06395,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369335,WSQ_RS06400,WSQ_RS06400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369336,WSQ_RS06405,WSQ_RS06405,WSQ_04240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,56369337,WSQ_RS06410,WSQ_RS06410,WSQ_04295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369338,WSQ_RS06415,WSQ_RS06415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369339,WSQ_RS06420,WSQ_RS06420,WSQ_04375,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369340,WSQ_RS06425,WSQ_RS06425,WSQ_04380,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369342,WSQ_RS06435,WSQ_RS06435,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369343,WSQ_RS06440,WSQ_RS06440,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369344,WSQ_RS06445,WSQ_RS06445,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369347,WSQ_RS06460,WSQ_RS06460,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369348,WSQ_RS06465,WSQ_RS06465,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369349,WSQ_RS06470,WSQ_RS06470,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369350,WSQ_RS06475,WSQ_RS06475,WSQ_05015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369351,WSQ_RS06480,WSQ_RS06480,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369352,WSQ_RS06485,WSQ_RS06485,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369354,WSQ_RS06495,WSQ_RS06495,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369355,WSQ_RS06500,WSQ_RS06500,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369356,WSQ_RS06505,WSQ_RS06505,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369357,WSQ_RS06510,WSQ_RS06510,WSQ_05840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369358,WSQ_RS06515,WSQ_RS06515,WSQ_05845,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200731,-
+1173064,56369359,WSQ_RS06520,WSQ_RS06520,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369360,WSQ_RS06525,WSQ_RS06525,WSQ_06005,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369361,WSQ_RS06530,WSQ_RS06530,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,56369363,WSQ_RS06540,WSQ_RS06540,WSQ_06450,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201026,-
+1173064,60335617,WSQ_RS06545,WSQ_RS06545,WSQ_00025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335618,WSQ_RS06550,WSQ_RS06550,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335619,WSQ_RS06560,WSQ_RS06560,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,60335620,WSQ_RS06565,WSQ_RS06565,WSQ_02025,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335621,WSQ_RS06570,WSQ_RS06570,WSQ_02265,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335622,WSQ_RS06575,WSQ_RS06575,-,-,-,-,pseudo,pseudo,-,-,-,-,20201129,-
+1173064,60335623,WSQ_RS06580,WSQ_RS06580,WSQ_03530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335624,WSQ_RS06585,WSQ_RS06585,WSQ_03535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335625,WSQ_RS06590,WSQ_RS06590,WSQ_03715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335626,WSQ_RS06595,WSQ_RS06595,WSQ_03720,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335627,WSQ_RS06600,WSQ_RS06600,WSQ_03920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335628,WSQ_RS06605,WSQ_RS06605,WSQ_04395,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335629,WSQ_RS06610,WSQ_RS06610,WSQ_04400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335630,WSQ_RS06615,WSQ_RS06615,WSQ_04640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-
+1173064,60335631,WSQ_RS06620,WSQ_RS06620,WSQ_04915,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335632,WSQ_RS06625,WSQ_RS06625,WSQ_05240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335633,WSQ_RS06630,WSQ_RS06630,WSQ_05300,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201130,-
+1173064,60335634,WSQ_RS06635,WSQ_RS06635,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201129,-

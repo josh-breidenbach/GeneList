@@ -1,0 +1,892 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1105094,12079943,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Rickettsia rickettsii str. Chernikova).,other,-,-,-,-,20150212,-
+1105094,57569130,M9W_RS00005,M9W_RS00005,M9W_00005,-,-,-,kinase/pyrophosphorylase,protein-coding,-,-,-,kinase/pyrophosphorylase,20201128,-
+1105094,57569131,trxA,M9W_RS00010,M9W_00010,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200803,-
+1105094,57569132,M9W_RS00015,M9W_RS00015,M9W_00015,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569133,M9W_RS00020,M9W_RS00020,M9W_00020,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1105094,57569134,M9W_RS00025,M9W_RS00025,M9W_00025,-,-,-,FAD-dependent oxidoreductase,protein-coding,-,-,-,FAD-dependent oxidoreductase,20201128,-
+1105094,57569135,lpxA,M9W_RS00030,M9W_00030,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20200805,-
+1105094,57569136,fabZ,M9W_RS00035,M9W_00035,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20200805,-
+1105094,57569137,lpxD,M9W_RS00040,M9W_00040,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20200805,-
+1105094,57569138,M9W_RS00045,M9W_RS00045,M9W_t04297,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569139,dusB,M9W_RS00050,M9W_00045,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20200803,-
+1105094,57569140,M9W_RS00055,M9W_RS00055,M9W_00050,-,-,-,palindromic element RPE3 domain-containing protein,protein-coding,-,-,-,palindromic element RPE3 domain-containing protein,20200805,-
+1105094,57569141,tsaE,M9W_RS00060,M9W_00055,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20200805,-
+1105094,57569142,M9W_RS00065,M9W_RS00065,M9W_00060,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20201010,-
+1105094,57569143,M9W_RS00070,M9W_RS00070,M9W_00065,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20200805,-
+1105094,57569144,M9W_RS00075,M9W_RS00075,M9W_00070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569146,M9W_RS00085,M9W_RS00085,M9W_00080,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569147,M9W_RS00090,M9W_RS00090,M9W_t04299,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569149,M9W_RS00100,M9W_RS00100,M9W_00090,-,-,-,F0F1 ATP synthase subunit B,protein-coding,-,-,-,F0F1 ATP synthase subunit B,20200805,-
+1105094,57569150,M9W_RS00105,M9W_RS00105,M9W_00095,-,-,-,F0F1 ATP synthase subunit B',protein-coding,-,-,-,F0F1 ATP synthase subunit B',20200805,-
+1105094,57569151,M9W_RS00110,M9W_RS00110,M9W_00100,-,-,-,F0F1 ATP synthase subunit C,protein-coding,-,-,-,F0F1 ATP synthase subunit C,20200805,-
+1105094,57569152,M9W_RS00115,M9W_RS00115,M9W_00105,-,-,-,F0F1 ATP synthase subunit A,protein-coding,-,-,-,F0F1 ATP synthase subunit A,20200805,-
+1105094,57569153,M9W_RS00120,M9W_RS00120,M9W_00110,-,-,-,AtpZ/AtpI family protein,protein-coding,-,-,-,AtpZ/AtpI family protein,20200805,-
+1105094,57569154,M9W_RS00125,M9W_RS00125,M9W_00115,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20200805,-
+1105094,57569155,M9W_RS00130,M9W_RS00130,M9W_00120,-,-,-,CarD family transcriptional regulator,protein-coding,-,-,-,CarD family transcriptional regulator,20200805,-
+1105094,57569156,M9W_RS00135,M9W_RS00135,M9W_00125,-,-,-,methyltransferase regulatory domain-containing protein,protein-coding,-,-,-,methyltransferase regulatory domain-containing protein,20200805,-
+1105094,57569157,recF,M9W_RS00140,M9W_00130,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20200805,-
+1105094,57569158,M9W_RS00145,M9W_RS00145,M9W_00135,-,-,-,DUF5394 family protein,protein-coding,-,-,-,DUF5394 family protein,20200805,-
+1105094,57569159,M9W_RS00150,M9W_RS00150,M9W_00140,-,-,-,SCO family protein,protein-coding,-,-,-,SCO family protein,20201128,-
+1105094,57569160,M9W_RS00155,M9W_RS00155,M9W_00145,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20200805,-
+1105094,57569161,M9W_RS00160,M9W_RS00160,M9W_00150,-,-,-,CvpA family protein,protein-coding,-,-,-,CvpA family protein,20200805,-
+1105094,57569162,M9W_RS00165,M9W_RS00165,M9W_00155,-,-,-,DUF2748 family protein,protein-coding,-,-,-,DUF2748 family protein,20200805,-
+1105094,57569163,M9W_RS00170,M9W_RS00170,M9W_00160,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20201128,-
+1105094,57569164,clpB,M9W_RS00175,M9W_00165,-,-,-,ATP-dependent chaperone ClpB,protein-coding,-,-,-,ATP-dependent chaperone ClpB,20200805,-
+1105094,57569165,tsaD,M9W_RS00180,M9W_00170,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200805,-
+1105094,57569166,M9W_RS00185,M9W_RS00185,M9W_00175,-,-,-,fatty acid desaturase,protein-coding,-,-,-,fatty acid desaturase,20200805,-
+1105094,57569167,rpsF,M9W_RS00190,M9W_00180,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200805,-
+1105094,57569168,M9W_RS00195,M9W_RS00195,M9W_00185,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201128,-
+1105094,57569169,M9W_RS00200,M9W_RS00200,M9W_00190,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200805,-
+1105094,57569170,tilS,M9W_RS00205,M9W_00195,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200805,-
+1105094,57569171,ftsH,M9W_RS00210,M9W_00200,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201128,-
+1105094,57569172,M9W_RS00215,M9W_RS00215,M9W_00205,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20201128,-
+1105094,57569173,M9W_RS00220,M9W_RS00220,M9W_00210,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200805,-
+1105094,57569174,M9W_RS00225,M9W_RS00225,M9W_00215,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200805,-
+1105094,57569175,M9W_RS00230,M9W_RS00230,M9W_00220,-,-,-,mechanosensitive ion channel family protein,protein-coding,-,-,-,mechanosensitive ion channel family protein,20200805,-
+1105094,57569176,yidC,M9W_RS00235,M9W_00225,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200805,-
+1105094,57569177,pgsA,M9W_RS00240,M9W_00230,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200805,-
+1105094,57569178,M9W_RS00245,M9W_RS00245,M9W_00235,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,57569179,M9W_RS00250,M9W_RS00250,M9W_00240,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569180,M9W_RS00255,M9W_RS00255,M9W_00245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569181,tlc1,M9W_RS00260,M9W_00250,-,-,-,ATP/ADP exchange transporter Tlc1,protein-coding,-,-,-,ATP/ADP exchange transporter Tlc1,20200805,-
+1105094,57569182,M9W_RS00265,M9W_RS00265,M9W_00255,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569183,ndk,M9W_RS00270,M9W_00260,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20201128,-
+1105094,57569184,mnmG,M9W_RS00275,M9W_00265,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200805,-
+1105094,57569185,rsmG,M9W_RS00280,M9W_00270,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,protein-coding,-,-,-,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,20200803,-
+1105094,57569186,M9W_RS00285,M9W_RS00285,M9W_00275,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200805,-
+1105094,57569187,M9W_RS00290,M9W_RS00290,M9W_00280,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20200805,-
+1105094,57569188,ettA,M9W_RS00295,M9W_00285,-,-,-,energy-dependent translational throttle protein EttA,protein-coding,-,-,-,energy-dependent translational throttle protein EttA,20200805,-
+1105094,57569189,M9W_RS00300,M9W_RS00300,M9W_00290,-,-,-,DUF2672 domain-containing protein,protein-coding,-,-,-,DUF2672 domain-containing protein,20200805,-
+1105094,57569190,kdsA,M9W_RS00305,M9W_00295,-,-,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20200805,-
+1105094,57569191,M9W_RS00310,M9W_RS00310,M9W_00300,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20200805,-
+1105094,57569192,M9W_RS00315,M9W_RS00315,M9W_00305,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,protein-coding,-,-,-,deoxyguanosinetriphosphate triphosphohydrolase,20200805,-
+1105094,57569193,M9W_RS00320,M9W_RS00320,M9W_00310,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200805,-
+1105094,57569194,M9W_RS00325,M9W_RS00325,M9W_00315,-,-,-,SPOR domain-containing protein,protein-coding,-,-,-,SPOR domain-containing protein,20200805,-
+1105094,57569195,parC,M9W_RS00330,M9W_00320,-,-,-,DNA topoisomerase IV subunit A,protein-coding,-,-,-,DNA topoisomerase IV subunit A,20201010,-
+1105094,57569196,M9W_RS00335,M9W_RS00335,M9W_00325,-,-,-,porin,protein-coding,-,-,-,porin,20200805,-
+1105094,57569197,M9W_RS00340,M9W_RS00340,M9W_00330,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20200805,-
+1105094,57569198,secB,M9W_RS00345,M9W_00335,-,-,-,protein-export chaperone SecB,protein-coding,-,-,-,protein-export chaperone SecB,20200805,-
+1105094,57569199,M9W_RS00350,M9W_RS00350,M9W_00340,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20200805,-
+1105094,57569200,queF,M9W_RS00355,M9W_00345,-,-,-,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,protein-coding,-,-,-,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,20200805,-
+1105094,57569201,M9W_RS00360,M9W_RS00360,M9W_00350,-,-,-,DUF1013 domain-containing protein,protein-coding,-,-,-,DUF1013 domain-containing protein,20200805,-
+1105094,57569202,M9W_RS00365,M9W_RS00365,M9W_00355,-,-,-,NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta,protein-coding,-,-,-,NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta,20200805,-
+1105094,57569203,M9W_RS00370,M9W_RS00370,M9W_00360,-,-,-,OmpW family protein,protein-coding,-,-,-,OmpW family protein,20200805,-
+1105094,57569204,M9W_RS00375,M9W_RS00375,M9W_00365,-,-,-,S-adenosylmethionine uptake transporter,protein-coding,-,-,-,S-adenosylmethionine uptake transporter,20201128,-
+1105094,57569205,M9W_RS00380,M9W_RS00380,M9W_00370,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569206,M9W_RS00385,M9W_RS00385,M9W_t04301,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569207,secG,M9W_RS00390,M9W_00375,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200805,-
+1105094,57569208,M9W_RS00400,M9W_RS00400,-,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20200803,-
+1105094,57569209,M9W_RS00405,M9W_RS00405,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,57569210,M9W_RS00410,M9W_RS00410,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569211,M9W_RS00415,M9W_RS00415,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,57569212,M9W_RS00420,M9W_RS00420,M9W_00400,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20200805,-
+1105094,57569213,rpsB,M9W_RS00425,M9W_00405,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200805,-
+1105094,57569214,M9W_RS00430,M9W_RS00430,M9W_00410,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200805,-
+1105094,57569215,M9W_RS00435,M9W_RS00435,M9W_00415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569216,waaA,M9W_RS00440,M9W_00420,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20201128,-
+1105094,57569217,M9W_RS00445,M9W_RS00445,M9W_00425,-,-,-,DUF374 domain-containing protein,protein-coding,-,-,-,DUF374 domain-containing protein,20200805,-
+1105094,57569218,M9W_RS00450,M9W_RS00450,M9W_00430,-,-,-,pyridoxal phosphate-dependent aminotransferase,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase,20201129,-
+1105094,57569219,M9W_RS00455,M9W_RS00455,M9W_00435,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200805,-
+1105094,57569220,M9W_RS00460,M9W_RS00460,M9W_00440,-,-,-,VacJ family lipoprotein,protein-coding,-,-,-,VacJ family lipoprotein,20200805,-
+1105094,57569221,M9W_RS00465,M9W_RS00465,M9W_00445,-,-,-,phospholipid-binding protein MlaC,protein-coding,-,-,-,phospholipid-binding protein MlaC,20200805,-
+1105094,57569222,M9W_RS00470,M9W_RS00470,M9W_00450,-,-,-,alanine racemase,protein-coding,-,-,-,alanine racemase,20200803,-
+1105094,57569223,M9W_RS00475,M9W_RS00475,M9W_00455,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1105094,57569224,M9W_RS00480,M9W_RS00480,M9W_00460,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569225,M9W_RS00485,M9W_RS00485,M9W_00465,-,-,-,DUF5510 family protein,protein-coding,-,-,-,DUF5510 family protein,20200805,-
+1105094,57569226,rpmB,M9W_RS00490,M9W_00470,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200805,-
+1105094,57569227,M9W_RS00495,M9W_RS00495,M9W_00475,-,-,-,50S ribosomal protein L31,protein-coding,-,-,-,50S ribosomal protein L31,20200805,-
+1105094,57569228,M9W_RS00500,M9W_RS00500,M9W_t04303,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569229,M9W_RS00505,M9W_RS00505,M9W_00480,-,-,-,YihA family ribosome biogenesis GTP-binding protein,protein-coding,-,-,-,YihA family ribosome biogenesis GTP-binding protein,20200805,-
+1105094,57569230,M9W_RS00510,M9W_RS00510,M9W_00485,-,-,-,type IV secretion system protein VirB3,protein-coding,-,-,-,type IV secretion system protein VirB3,20200805,-
+1105094,57569231,M9W_RS00515,M9W_RS00515,M9W_00490,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20200803,-
+1105094,57569232,M9W_RS00520,M9W_RS00520,M9W_00495,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1105094,57569233,M9W_RS00525,M9W_RS00525,M9W_00500,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200803,-
+1105094,57569234,M9W_RS00530,M9W_RS00530,M9W_00505,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1105094,57569235,M9W_RS00535,M9W_RS00535,M9W_00510,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1105094,57569236,M9W_RS00540,M9W_RS00540,M9W_00515,-,-,-,type IV secretion system protein,protein-coding,-,-,-,type IV secretion system protein,20200805,-
+1105094,57569237,M9W_RS00545,M9W_RS00545,M9W_00520,-,-,-,phosphate acetyltransferase,protein-coding,-,-,-,phosphate acetyltransferase,20200805,-
+1105094,57569238,M9W_RS00550,M9W_RS00550,M9W_00525,-,-,-,acetate/propionate family kinase,protein-coding,-,-,-,acetate/propionate family kinase,20201128,-
+1105094,57569239,trmD,M9W_RS00555,M9W_00530,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200805,-
+1105094,57569240,rplS,M9W_RS00560,M9W_00535,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200805,-
+1105094,57569241,M9W_RS00565,M9W_RS00565,M9W_00540,-,-,-,DUF2312 domain-containing protein,protein-coding,-,-,-,DUF2312 domain-containing protein,20200805,-
+1105094,57569242,secF,M9W_RS00570,M9W_00545,-,-,-,protein translocase subunit SecF,protein-coding,-,-,-,protein translocase subunit SecF,20200805,-
+1105094,57569243,nuoF,M9W_RS00575,M9W_00550,-,-,-,NADH-quinone oxidoreductase subunit NuoF,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoF,20200805,-
+1105094,57569244,lepB,M9W_RS00580,M9W_00555,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20200805,-
+1105094,57569245,M9W_RS00585,M9W_RS00585,M9W_00560,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200805,-
+1105094,57569246,era,M9W_RS00590,M9W_00565,-,-,-,GTPase Era,protein-coding,-,-,-,GTPase Era,20201128,-
+1105094,57569247,ruvC,M9W_RS00595,M9W_00570,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20200805,-
+1105094,57569248,M9W_RS00600,M9W_RS00600,M9W_00575,-,-,-,mitochondrial fission ELM1 family protein,protein-coding,-,-,-,mitochondrial fission ELM1 family protein,20201128,-
+1105094,57569249,M9W_RS00605,M9W_RS00605,M9W_00580,-,-,-,P-loop NTPase,protein-coding,-,-,-,P-loop NTPase,20200805,-
+1105094,57569250,hflK,M9W_RS00610,M9W_00585,-,-,-,FtsH protease activity modulator HflK,protein-coding,-,-,-,FtsH protease activity modulator HflK,20200805,-
+1105094,57569251,hflC,M9W_RS00615,M9W_00590,-,-,-,protease modulator HflC,protein-coding,-,-,-,protease modulator HflC,20200803,-
+1105094,57569252,M9W_RS00620,M9W_RS00620,M9W_00595,-,-,-,Do family serine endopeptidase,protein-coding,-,-,-,Do family serine endopeptidase,20200805,-
+1105094,57569253,M9W_RS00625,M9W_RS00625,M9W_00600,-,-,-,rhodanese domain-containing protein,protein-coding,-,-,-,rhodanese domain-containing protein,20200805,-
+1105094,57569254,sdhC,M9W_RS00630,M9W_00605,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",protein-coding,-,-,-,"succinate dehydrogenase, cytochrome b556 subunit",20201128,-
+1105094,57569255,sdhD,M9W_RS00635,M9W_00610,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",protein-coding,-,-,-,"succinate dehydrogenase, hydrophobic membrane anchor protein",20200805,-
+1105094,57569256,M9W_RS00640,M9W_RS00640,M9W_00615,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20200805,-
+1105094,57569257,M9W_RS00645,M9W_RS00645,M9W_00620,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20201128,-
+1105094,57569258,M9W_RS00650,M9W_RS00650,M9W_00625,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200805,-
+1105094,57569259,rpsG,M9W_RS00655,M9W_00630,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+1105094,57569260,fusA,M9W_RS00660,M9W_00635,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200805,-
+1105094,57569261,M9W_RS00665,M9W_RS00665,M9W_t04305,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569262,secE,M9W_RS00670,M9W_00640,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200805,-
+1105094,57569263,nusG,M9W_RS00675,M9W_00645,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200805,-
+1105094,57569264,rplK,M9W_RS00680,M9W_00650,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200805,-
+1105094,57569265,rplA,M9W_RS00685,M9W_00655,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200805,-
+1105094,57569266,rplJ,M9W_RS00690,M9W_00660,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200803,-
+1105094,57569267,rplL,M9W_RS00695,M9W_00665,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200805,-
+1105094,57569268,rpoB,M9W_RS00700,M9W_00670,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200805,-
+1105094,57569269,rpoC,M9W_RS00705,M9W_00675,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200805,-
+1105094,57569270,M9W_RS00710,M9W_RS00710,M9W_00680,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200805,-
+1105094,57569271,M9W_RS00715,M9W_RS00715,M9W_00685,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201010,-
+1105094,57569272,M9W_RS00720,M9W_RS00720,M9W_00690,-,-,-,DUF3106 domain-containing protein,protein-coding,-,-,-,DUF3106 domain-containing protein,20200805,-
+1105094,57569273,aspS,M9W_RS00725,M9W_00695,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200805,-
+1105094,57569275,M9W_RS00735,M9W_RS00735,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569276,M9W_RS00740,M9W_RS00740,M9W_00710,-,-,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20200805,-
+1105094,57569277,M9W_RS00745,M9W_RS00745,M9W_00715,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20200805,-
+1105094,57569278,M9W_RS00750,M9W_RS00750,M9W_00720,-,-,-,flavin reductase family protein,protein-coding,-,-,-,flavin reductase family protein,20200805,-
+1105094,57569279,M9W_RS00755,M9W_RS00755,M9W_00725,-,-,-,amino acid ABC transporter substrate-binding protein,protein-coding,-,-,-,amino acid ABC transporter substrate-binding protein,20200805,-
+1105094,57569280,gatB,M9W_RS00760,M9W_00730,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200805,-
+1105094,57569281,gatA,M9W_RS00765,M9W_00735,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200805,-
+1105094,57569282,gatC,M9W_RS00770,M9W_00740,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20200805,-
+1105094,57569283,frr,M9W_RS00775,M9W_00745,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201128,-
+1105094,57569284,M9W_RS00780,M9W_RS00780,M9W_00750,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200805,-
+1105094,57569285,M9W_RS00785,M9W_RS00785,M9W_00755,-,-,-,monovalent cation/H+ antiporter subunit E,protein-coding,-,-,-,monovalent cation/H+ antiporter subunit E,20201128,-
+1105094,57569286,M9W_RS00790,M9W_RS00790,M9W_00760,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569287,M9W_RS00795,M9W_RS00795,M9W_00765,-,-,-,DUF2674 domain-containing protein,protein-coding,-,-,-,DUF2674 domain-containing protein,20200805,-
+1105094,57569288,M9W_RS00800,M9W_RS00800,M9W_t04307,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569289,bamA,M9W_RS00805,M9W_00770,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20200805,-
+1105094,57569290,rseP,M9W_RS00810,M9W_00775,-,-,-,RIP metalloprotease RseP,protein-coding,-,-,-,RIP metalloprotease RseP,20201128,-
+1105094,57569291,nusB,M9W_RS00815,M9W_00780,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20200805,-
+1105094,57569292,M9W_RS00820,M9W_RS00820,M9W_00785,-,-,-,RlmE family RNA methyltransferase,protein-coding,-,-,-,RlmE family RNA methyltransferase,20200805,-
+1105094,57569293,M9W_RS00825,M9W_RS00825,M9W_00790,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569294,M9W_RS00830,M9W_RS00830,M9W_00795,-,-,-,DUF2974 domain-containing protein,protein-coding,-,-,-,DUF2974 domain-containing protein,20200805,-
+1105094,57569295,M9W_RS00835,M9W_RS00835,M9W_00800,-,-,-,type II toxin-antitoxin system RatA family toxin,protein-coding,-,-,-,type II toxin-antitoxin system RatA family toxin,20200805,-
+1105094,57569296,M9W_RS00840,M9W_RS00840,M9W_00810,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,protein-coding,-,-,-,16S rRNA (uracil(1498)-N(3))-methyltransferase,20200805,-
+1105094,57569297,M9W_RS00845,M9W_RS00845,M9W_00815,-,-,-,DUF378 domain-containing protein,protein-coding,-,-,-,DUF378 domain-containing protein,20200805,-
+1105094,57569298,M9W_RS00850,M9W_RS00850,M9W_00820,-,-,-,efflux RND transporter permease subunit,protein-coding,-,-,-,efflux RND transporter permease subunit,20200805,-
+1105094,57569299,M9W_RS00855,M9W_RS00855,M9W_00825,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201129,-
+1105094,57569300,M9W_RS00860,M9W_RS00860,M9W_00830,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20210123,-
+1105094,57569301,ffh,M9W_RS00865,M9W_00835,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200805,-
+1105094,57569302,M9W_RS00870,M9W_RS00870,M9W_00840,-,-,-,S9 family peptidase,protein-coding,-,-,-,S9 family peptidase,20200805,-
+1105094,57569303,M9W_RS00875,M9W_RS00875,M9W_00845,-,-,-,coproporphyrinogen III oxidase,protein-coding,-,-,-,coproporphyrinogen III oxidase,20200805,-
+1105094,57569304,M9W_RS00880,M9W_RS00880,M9W_00850,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200805,-
+1105094,57569305,cutA,M9W_RS00885,M9W_00855,-,-,-,divalent cation tolerance protein CutA,protein-coding,-,-,-,divalent cation tolerance protein CutA,20201128,-
+1105094,57569306,M9W_RS00890,M9W_RS00890,M9W_00860,-,-,-,6-pyruvoyl tetrahydropterin synthase family protein,protein-coding,-,-,-,6-pyruvoyl tetrahydropterin synthase family protein,20200805,-
+1105094,57569307,odhB,M9W_RS00895,M9W_00865,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,20200805,-
+1105094,57569308,M9W_RS00900,M9W_RS00900,M9W_00870,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20200805,-
+1105094,57569309,M9W_RS00905,M9W_RS00905,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569310,recN,M9W_RS00910,M9W_00885,-,-,-,DNA repair protein RecN,protein-coding,-,-,-,DNA repair protein RecN,20200805,-
+1105094,57569311,M9W_RS00915,M9W_RS00915,M9W_00890,-,-,-,outer membrane protein assembly factor BamD,protein-coding,-,-,-,outer membrane protein assembly factor BamD,20201128,-
+1105094,57569312,dnaJ,M9W_RS00920,M9W_00895,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20200805,-
+1105094,57569313,dnaK,M9W_RS00925,M9W_00900,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200805,-
+1105094,57569314,M9W_RS00930,M9W_RS00930,M9W_00905,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569315,M9W_RS00945,M9W_RS00945,M9W_00920,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569316,M9W_RS00950,M9W_RS00950,M9W_00925,-,-,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20200805,-
+1105094,57569317,M9W_RS00955,M9W_RS00955,M9W_00930,-,-,-,demethoxyubiquinone hydroxylase family protein,protein-coding,-,-,-,demethoxyubiquinone hydroxylase family protein,20200805,-
+1105094,57569318,M9W_RS00960,M9W_RS00960,M9W_00935,-,-,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20200805,-
+1105094,57569319,M9W_RS00965,M9W_RS00965,M9W_00940,-,-,-,TrbC/VIRB2 family protein,protein-coding,-,-,-,TrbC/VIRB2 family protein,20200805,-
+1105094,57569320,M9W_RS00970,M9W_RS00970,M9W_00945,-,-,-,zinc-ribbon domain-containing protein,protein-coding,-,-,-,zinc-ribbon domain-containing protein,20200805,-
+1105094,57569321,dapD,M9W_RS00975,M9W_00950,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",protein-coding,-,-,-,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",20200805,-
+1105094,57569322,pbpC,M9W_RS00980,M9W_00955,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569323,M9W_RS00990,M9W_RS00990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569324,M9W_RS00995,M9W_RS00995,M9W_00965,-,-,-,universal stress protein,protein-coding,-,-,-,universal stress protein,20200805,-
+1105094,57569325,M9W_RS01000,M9W_RS01000,M9W_00970,-,-,-,TAXI family TRAP transporter solute-binding subunit,protein-coding,-,-,-,TAXI family TRAP transporter solute-binding subunit,20201128,-
+1105094,57569326,M9W_RS01005,M9W_RS01005,M9W_00975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569327,M9W_RS01010,M9W_RS01010,M9W_00980,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,protein-coding,-,-,-,2Fe-2S iron-sulfur cluster binding domain-containing protein,20200805,-
+1105094,57569328,hscA,M9W_RS01015,M9W_00985,-,-,-,Fe-S protein assembly chaperone HscA,protein-coding,-,-,-,Fe-S protein assembly chaperone HscA,20200805,-
+1105094,57569329,hscB,M9W_RS01020,M9W_00990,-,-,-,co-chaperone HscB,protein-coding,-,-,-,co-chaperone HscB,20200805,-
+1105094,57569330,M9W_RS01025,M9W_RS01025,M9W_00995,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200805,-
+1105094,57569331,uvrB,M9W_RS01030,M9W_01000,-,-,-,excinuclease ABC subunit UvrB,protein-coding,-,-,-,excinuclease ABC subunit UvrB,20200805,-
+1105094,57569332,grxC,M9W_RS01035,M9W_01005,-,-,-,glutaredoxin 3,protein-coding,-,-,-,glutaredoxin 3,20200805,-
+1105094,57569333,M9W_RS01040,M9W_RS01040,M9W_01010,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20210123,-
+1105094,57569334,gyrA,M9W_RS01045,M9W_01015,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20200803,-
+1105094,57569335,M9W_RS01055,M9W_RS01055,M9W_01020,-,-,-,twin transmembrane helix small protein,protein-coding,-,-,-,twin transmembrane helix small protein,20200805,-
+1105094,57569336,M9W_RS01060,M9W_RS01060,M9W_01025,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200805,-
+1105094,57569337,M9W_RS01065,M9W_RS01065,M9W_01030,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200805,-
+1105094,57569338,M9W_RS01070,M9W_RS01070,M9W_r04367,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20201128,-
+1105094,57569339,rrf,M9W_RS01075,M9W_r04363,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20201128,-
+1105094,57569340,M9W_RS01080,M9W_RS01080,M9W_01035,-,-,-,cell division protein ZapE,protein-coding,-,-,-,cell division protein ZapE,20201128,-
+1105094,57569341,queA,M9W_RS01085,M9W_01040,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,protein-coding,-,-,-,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,20200805,-
+1105094,57569342,M9W_RS01090,M9W_RS01090,M9W_01045,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569343,M9W_RS01095,M9W_RS01095,M9W_01050,-,-,-,DUF2671 domain-containing protein,protein-coding,-,-,-,DUF2671 domain-containing protein,20200805,-
+1105094,57569344,M9W_RS01100,M9W_RS01100,M9W_01055,-,-,-,cytochrome ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome ubiquinol oxidase subunit I,20200805,-
+1105094,57569345,cydB,M9W_RS01105,M9W_01060,-,-,-,cytochrome d ubiquinol oxidase subunit II,protein-coding,-,-,-,cytochrome d ubiquinol oxidase subunit II,20200805,-
+1105094,57569346,M9W_RS01110,M9W_RS01110,M9W_01065,-,-,-,glycosyltransferase family 2 protein,protein-coding,-,-,-,glycosyltransferase family 2 protein,20200805,-
+1105094,57569347,M9W_RS01115,M9W_RS01115,M9W_01070,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200805,-
+1105094,57569348,M9W_RS01120,M9W_RS01120,M9W_01075,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,protein-coding,-,-,-,phosphoribosylaminoimidazolesuccinocarboxamide synthase,20200805,-
+1105094,57569349,thrS,M9W_RS01125,M9W_01080,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200805,-
+1105094,57569350,M9W_RS01130,M9W_RS01130,M9W_01085,-,-,-,DUF2660 domain-containing protein,protein-coding,-,-,-,DUF2660 domain-containing protein,20210123,-
+1105094,57569351,M9W_RS01135,M9W_RS01135,M9W_01090,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569352,M9W_RS01140,M9W_RS01140,M9W_01095,-,-,-,TolC family protein,protein-coding,-,-,-,TolC family protein,20200805,-
+1105094,57569353,M9W_RS01145,M9W_RS01145,M9W_01100,-,-,-,PopZ family protein,protein-coding,-,-,-,PopZ family protein,20201128,-
+1105094,57569354,M9W_RS01150,M9W_RS01150,M9W_01105,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20200805,-
+1105094,57569355,parE,M9W_RS01155,M9W_01110,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200805,-
+1105094,57569356,M9W_RS01160,M9W_RS01160,M9W_01115,-,-,-,S41 family peptidase,protein-coding,-,-,-,S41 family peptidase,20200805,-
+1105094,57569357,M9W_RS01165,M9W_RS01165,M9W_01120,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,two-component sensor histidine kinase,20200805,-
+1105094,57569358,ybgF,M9W_RS01170,M9W_01125,-,-,-,tol-pal system protein YbgF,protein-coding,-,-,-,tol-pal system protein YbgF,20200805,-
+1105094,57569359,M9W_RS01175,M9W_RS01175,M9W_01130,-,-,-,DUF2659 family protein,protein-coding,-,-,-,DUF2659 family protein,20200805,-
+1105094,57569360,M9W_RS01180,M9W_RS01180,M9W_01135,-,-,-,PQQ-binding-like beta-propeller repeat protein,protein-coding,-,-,-,PQQ-binding-like beta-propeller repeat protein,20201003,-
+1105094,57569361,rplM,M9W_RS01185,M9W_01140,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200805,-
+1105094,57569362,rpsI,M9W_RS01190,M9W_01145,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200805,-
+1105094,57569363,M9W_RS01195,M9W_RS01195,M9W_t04309,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569364,M9W_RS01200,M9W_RS01200,M9W_01150,-,-,-,RNA pyrophosphohydrolase,protein-coding,-,-,-,RNA pyrophosphohydrolase,20200805,-
+1105094,57569365,M9W_RS01205,M9W_RS01205,M9W_01155,-,-,-,PleD family two-component system response regulator,protein-coding,-,-,-,PleD family two-component system response regulator,20200805,-
+1105094,57569366,efp,M9W_RS01210,M9W_01160,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+1105094,57569367,M9W_RS01215,M9W_RS01215,M9W_01165,-,-,-,inositol monophosphatase,protein-coding,-,-,-,inositol monophosphatase,20200805,-
+1105094,57569368,M9W_RS01220,M9W_RS01220,M9W_01170,-,-,-,DUF2610 domain-containing protein,protein-coding,-,-,-,DUF2610 domain-containing protein,20200805,-
+1105094,57569369,M9W_RS01225,M9W_RS01225,M9W_01175,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20200805,-
+1105094,57569370,M9W_RS01230,M9W_RS01230,M9W_01180,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20200805,-
+1105094,57569371,M9W_RS01235,M9W_RS01235,M9W_01185,-,-,-,HlyD family secretion protein,protein-coding,-,-,-,HlyD family secretion protein,20200805,-
+1105094,57569372,M9W_RS01240,M9W_RS01240,M9W_01190,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569373,M9W_RS01245,M9W_RS01245,M9W_01195,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20200805,-
+1105094,57569374,M9W_RS01250,M9W_RS01250,M9W_01200,-,-,-,EAL domain-containing protein,protein-coding,-,-,-,EAL domain-containing protein,20200805,-
+1105094,57569375,M9W_RS01255,M9W_RS01255,M9W_01205,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramate--L-alanine ligase,20200805,-
+1105094,57569376,murB,M9W_RS01260,M9W_01210,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20201003,-
+1105094,57569377,M9W_RS01265,M9W_RS01265,M9W_01215,-,-,-,D-alanine--D-alanine ligase,protein-coding,-,-,-,D-alanine--D-alanine ligase,20200805,-
+1105094,57569378,M9W_RS01270,M9W_RS01270,M9W_01220,-,-,-,cell division protein FtsQ/DivIB,protein-coding,-,-,-,cell division protein FtsQ/DivIB,20200805,-
+1105094,57569379,ftsA,M9W_RS01275,M9W_01225,-,-,-,cell division protein FtsA,protein-coding,-,-,-,cell division protein FtsA,20200805,-
+1105094,57569380,M9W_RS01280,M9W_RS01280,M9W_01230,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200805,-
+1105094,57569381,M9W_RS01285,M9W_RS01285,M9W_01235,-,-,-,cytochrome c family protein,protein-coding,-,-,-,cytochrome c family protein,20200805,-
+1105094,57569382,M9W_RS01290,M9W_RS01290,M9W_01240,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20200805,-
+1105094,57569383,M9W_RS01295,M9W_RS01295,M9W_01245,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569384,M9W_RS01300,M9W_RS01300,M9W_01250,-,-,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20200805,-
+1105094,57569385,M9W_RS01305,M9W_RS01305,M9W_01255,-,-,-,COX15/CtaA family protein,protein-coding,-,-,-,COX15/CtaA family protein,20200805,-
+1105094,57569386,M9W_RS01310,M9W_RS01310,M9W_01260,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1105094,57569387,M9W_RS01315,M9W_RS01315,M9W_01265,-,-,-,serine hydrolase,protein-coding,-,-,-,serine hydrolase,20200803,-
+1105094,57569388,xth,M9W_RS01320,M9W_01270,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20200805,-
+1105094,57569389,pdhA,M9W_RS01325,M9W_01275,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20200805,-
+1105094,57569390,M9W_RS01330,M9W_RS01330,M9W_01280,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20200805,-
+1105094,57569391,typA,M9W_RS01335,M9W_01285,-,-,-,translational GTPase TypA,protein-coding,-,-,-,translational GTPase TypA,20200805,-
+1105094,57569392,M9W_RS01340,M9W_RS01340,M9W_01290,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20200805,-
+1105094,57569393,M9W_RS01345,M9W_RS01345,M9W_01295,-,-,-,NADP-dependent isocitrate dehydrogenase,protein-coding,-,-,-,NADP-dependent isocitrate dehydrogenase,20200805,-
+1105094,57569394,M9W_RS01350,M9W_RS01350,M9W_01300,-,-,-,Na+/H+ antiporter subunit G,protein-coding,-,-,-,Na+/H+ antiporter subunit G,20200805,-
+1105094,57569395,M9W_RS01355,M9W_RS01355,M9W_01305,-,-,-,DUF4040 domain-containing protein,protein-coding,-,-,-,DUF4040 domain-containing protein,20200805,-
+1105094,57569396,M9W_RS01360,M9W_RS01360,M9W_01310,-,-,-,heme exporter protein CcmB,protein-coding,-,-,-,heme exporter protein CcmB,20200805,-
+1105094,57569397,M9W_RS01365,M9W_RS01365,M9W_01315,-,-,-,DUF2670 domain-containing protein,protein-coding,-,-,-,DUF2670 domain-containing protein,20200805,-
+1105094,57569398,petA,M9W_RS01370,M9W_01320,-,-,-,ubiquinol-cytochrome c reductase iron-sulfur subunit,protein-coding,-,-,-,ubiquinol-cytochrome c reductase iron-sulfur subunit,20200805,-
+1105094,57569399,M9W_RS01375,M9W_RS01375,M9W_01325,-,-,-,cytochrome b N-terminal domain-containing protein,protein-coding,-,-,-,cytochrome b N-terminal domain-containing protein,20200805,-
+1105094,57569400,M9W_RS01380,M9W_RS01380,M9W_01330,-,-,-,cytochrome c1,protein-coding,-,-,-,cytochrome c1,20200805,-
+1105094,57569401,M9W_RS01385,M9W_RS01385,M9W_01335,-,-,-,Hsp20/alpha crystallin family protein,protein-coding,-,-,-,Hsp20/alpha crystallin family protein,20200805,-
+1105094,57569402,prfB,M9W_RS01390,M9W_01340,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20201128,-
+1105094,57569403,lepA,M9W_RS01395,M9W_01345,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200805,-
+1105094,57569404,M9W_RS01400,M9W_RS01400,M9W_t04311,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569405,M9W_RS01405,M9W_RS01405,M9W_01350,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569406,M9W_RS01410,M9W_RS01410,M9W_01355,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569407,rodA,M9W_RS01420,M9W_01360,-,-,-,rod shape-determining protein RodA,protein-coding,-,-,-,rod shape-determining protein RodA,20200805,-
+1105094,57569408,M9W_RS01425,M9W_RS01425,M9W_01365,-,-,-,S9 family peptidase,protein-coding,-,-,-,S9 family peptidase,20200805,-
+1105094,57569409,M9W_RS01430,M9W_RS01430,M9W_01370,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1105094,57569410,M9W_RS01440,M9W_RS01440,M9W_01375,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1105094,57569411,M9W_RS01445,M9W_RS01445,M9W_01380,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1105094,57569412,M9W_RS01450,M9W_RS01450,M9W_01385,-,-,-,Na+/H+ antiporter subunit C,protein-coding,-,-,-,Na+/H+ antiporter subunit C,20200805,-
+1105094,57569413,virB9,M9W_RS01455,M9W_01390,-,-,-,P-type conjugative transfer protein VirB9,protein-coding,-,-,-,P-type conjugative transfer protein VirB9,20200805,-
+1105094,57569414,M9W_RS01460,M9W_RS01460,M9W_01395,-,-,-,virB8 family protein,protein-coding,-,-,-,virB8 family protein,20200805,-
+1105094,57569415,M9W_RS01465,M9W_RS01465,M9W_01400,-,-,-,DUF2706 domain-containing protein,protein-coding,-,-,-,DUF2706 domain-containing protein,20200805,-
+1105094,57569416,M9W_RS01470,M9W_RS01470,M9W_01405,-,-,-,virB8 family protein,protein-coding,-,-,-,virB8 family protein,20200805,-
+1105094,57569417,M9W_RS01475,M9W_RS01475,M9W_01410,-,-,-,TrbG/VirB9 family P-type conjugative transfer protein,protein-coding,-,-,-,TrbG/VirB9 family P-type conjugative transfer protein,20200805,-
+1105094,57569418,M9W_RS01480,M9W_RS01480,M9W_01415,-,-,-,TrbI/VirB10 family protein,protein-coding,-,-,-,TrbI/VirB10 family protein,20200805,-
+1105094,57569419,virB11,M9W_RS01485,M9W_01420,-,-,-,P-type DNA transfer ATPase VirB11,protein-coding,-,-,-,P-type DNA transfer ATPase VirB11,20200805,-
+1105094,57569420,M9W_RS01490,M9W_RS01490,M9W_01425,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20201010,-
+1105094,57569421,M9W_RS01495,M9W_RS01495,M9W_01430,-,-,-,Ppx/GppA family phosphatase,protein-coding,-,-,-,Ppx/GppA family phosphatase,20200805,-
+1105094,57569422,M9W_RS01500,M9W_RS01500,M9W_01435,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20200805,-
+1105094,57569423,M9W_RS01505,M9W_RS01505,M9W_01440,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20200805,-
+1105094,57569424,M9W_RS01510,M9W_RS01510,M9W_01445,-,-,-,"3'(2'),5'-bisphosphate nucleotidase CysQ",protein-coding,-,-,-,"3'(2'),5'-bisphosphate nucleotidase CysQ",20200805,-
+1105094,57569425,mutS,M9W_RS01515,M9W_01450,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20210123,-
+1105094,57569426,rpiB,M9W_RS01520,M9W_01455,-,-,-,ribose 5-phosphate isomerase B,protein-coding,-,-,-,ribose 5-phosphate isomerase B,20200805,-
+1105094,57569427,M9W_RS01525,M9W_RS01525,M9W_01460,-,-,-,M23 family metallopeptidase,protein-coding,-,-,-,M23 family metallopeptidase,20200805,-
+1105094,57569428,M9W_RS01530,M9W_RS01530,M9W_01465,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20200805,-
+1105094,57569429,tolB,M9W_RS01535,M9W_01470,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20200805,-
+1105094,57569430,rpoH,M9W_RS01540,M9W_01475,-,-,-,RNA polymerase sigma factor RpoH,protein-coding,-,-,-,RNA polymerase sigma factor RpoH,20200805,-
+1105094,57569431,M9W_RS01545,M9W_RS01545,M9W_01480,-,-,-,cytochrome c oxidase assembly protein,protein-coding,-,-,-,cytochrome c oxidase assembly protein,20200805,-
+1105094,57569432,M9W_RS01550,M9W_RS01550,M9W_01485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569433,mnmA,M9W_RS01555,M9W_01490,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200805,-
+1105094,57569434,M9W_RS01560,M9W_RS01560,M9W_01495,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200805,-
+1105094,57569435,M9W_RS01565,M9W_RS01565,M9W_01500,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200805,-
+1105094,57569436,tolQ,M9W_RS01570,M9W_01505,-,-,-,protein TolQ,protein-coding,-,-,-,protein TolQ,20200805,-
+1105094,57569437,tolR,M9W_RS01575,M9W_01510,-,-,-,protein TolR,protein-coding,-,-,-,protein TolR,20200805,-
+1105094,57569438,M9W_RS01585,M9W_RS01585,M9W_01520,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200805,-
+1105094,57569439,M9W_RS01590,M9W_RS01590,M9W_01525,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210123,-
+1105094,57569440,M9W_RS01595,M9W_RS01595,M9W_01530,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,protein-coding,-,-,-,HlyD family type I secretion periplasmic adaptor subunit,20200805,-
+1105094,57569441,M9W_RS01600,M9W_RS01600,M9W_01535,-,-,-,type I secretion system permease/ATPase,protein-coding,-,-,-,type I secretion system permease/ATPase,20200805,-
+1105094,57569442,asd,M9W_RS01605,M9W_01540,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20200805,-
+1105094,57569443,M9W_RS01610,M9W_RS01610,M9W_01545,-,-,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20200805,-
+1105094,57569444,M9W_RS01615,M9W_RS01615,M9W_01550,-,-,-,DUF2628 domain-containing protein,protein-coding,-,-,-,DUF2628 domain-containing protein,20200805,-
+1105094,57569445,hslV,M9W_RS01620,M9W_01555,-,-,-,ATP-dependent protease subunit HslV,protein-coding,-,-,-,ATP-dependent protease subunit HslV,20200805,-
+1105094,57569446,hslU,M9W_RS01625,M9W_01560,-,-,-,ATP-dependent protease ATPase subunit HslU,protein-coding,-,-,-,ATP-dependent protease ATPase subunit HslU,20200805,-
+1105094,57569447,lpxB,M9W_RS01630,M9W_01565,-,-,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20200805,-
+1105094,57569448,mltG,M9W_RS01635,M9W_01570,-,-,-,endolytic transglycosylase MltG,protein-coding,-,-,-,endolytic transglycosylase MltG,20200805,-
+1105094,57569449,cyaY,M9W_RS01640,M9W_01575,-,-,-,iron donor protein CyaY,protein-coding,-,-,-,iron donor protein CyaY,20200805,-
+1105094,57569450,M9W_RS01645,M9W_RS01645,M9W_01580,-,-,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20200805,-
+1105094,57569451,M9W_RS01650,M9W_RS01650,M9W_01585,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+1105094,57569452,topA,M9W_RS01655,M9W_01590,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20201010,-
+1105094,57569453,M9W_RS01660,M9W_RS01660,M9W_01595,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20200805,-
+1105094,57569454,M9W_RS01665,M9W_RS01665,M9W_01600,-,-,-,paraslipin,protein-coding,-,-,-,paraslipin,20200805,-
+1105094,57569455,M9W_RS01670,M9W_RS01670,M9W_01605,-,-,-,phosphoethanolamine transferase,protein-coding,-,-,-,phosphoethanolamine transferase,20200805,-
+1105094,57569456,ruvX,M9W_RS01675,M9W_01610,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200805,-
+1105094,57569458,M9W_RS01685,M9W_RS01685,M9W_01615,-,-,-,NAD(P)-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)-dependent oxidoreductase,20200805,-
+1105094,57569459,capD,M9W_RS01690,M9W_01620,-,-,-,UDP-glucose 4-epimerase,protein-coding,-,-,-,UDP-glucose 4-epimerase,20201128,-
+1105094,57569460,wecB,M9W_RS01695,M9W_01625,-,-,-,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),protein-coding,-,-,-,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),20201128,-
+1105094,57569461,M9W_RS01700,M9W_RS01700,M9W_01630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569462,M9W_RS01705,M9W_RS01705,M9W_01635,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20201128,-
+1105094,57569463,M9W_RS01710,M9W_RS01710,M9W_01640,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569464,M9W_RS01715,M9W_RS01715,M9W_01645,-,-,-,acyltransferase,protein-coding,-,-,-,acyltransferase,20200805,-
+1105094,57569465,M9W_RS01720,M9W_RS01720,M9W_01650,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200805,-
+1105094,57569466,M9W_RS01725,M9W_RS01725,M9W_01655,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200805,-
+1105094,57569467,M9W_RS01730,M9W_RS01730,M9W_01660,-,-,-,efflux RND transporter periplasmic adaptor subunit,protein-coding,-,-,-,efflux RND transporter periplasmic adaptor subunit,20210123,-
+1105094,57569468,M9W_RS01735,M9W_RS01735,M9W_01665,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20200805,-
+1105094,57569469,M9W_RS01740,M9W_RS01740,M9W_01670,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1105094,57569470,M9W_RS01745,M9W_RS01745,M9W_01675,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20200805,-
+1105094,57569471,rpsD,M9W_RS01750,M9W_01680,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200805,-
+1105094,57569472,M9W_RS01755,M9W_RS01755,M9W_01685,-,-,-,protoheme IX farnesyltransferase,protein-coding,-,-,-,protoheme IX farnesyltransferase,20200805,-
+1105094,57569473,M9W_RS01760,M9W_RS01760,M9W_01690,-,-,-,AsmA family protein,protein-coding,-,-,-,AsmA family protein,20200805,-
+1105094,57569474,rimM,M9W_RS01765,M9W_01695,-,-,-,ribosome maturation factor RimM,protein-coding,-,-,-,ribosome maturation factor RimM,20200805,-
+1105094,57569475,M9W_RS01770,M9W_RS01770,M9W_01700,-,-,-,AsmA-like C-terminal region-containing protein,protein-coding,-,-,-,AsmA-like C-terminal region-containing protein,20201003,-
+1105094,57569476,M9W_RS01775,M9W_RS01775,M9W_01705,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20200805,-
+1105094,57569477,M9W_RS01780,M9W_RS01780,M9W_01710,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569478,yidD,M9W_RS01785,M9W_01715,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20210123,-
+1105094,57569479,nuoE,M9W_RS01790,M9W_01720,-,-,-,NADH-quinone oxidoreductase subunit NuoE,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoE,20200805,-
+1105094,57569480,nuoD,M9W_RS01795,M9W_01725,-,-,-,NADH dehydrogenase (quinone) subunit D,protein-coding,-,-,-,NADH dehydrogenase (quinone) subunit D,20201003,-
+1105094,57569481,M9W_RS01800,M9W_RS01800,M9W_01730,-,-,-,NADH-quinone oxidoreductase subunit C,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit C,20200805,-
+1105094,57569482,M9W_RS01805,M9W_RS01805,M9W_01735,-,-,-,NADH-quinone oxidoreductase subunit B,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit B,20200805,-
+1105094,57569483,M9W_RS01810,M9W_RS01810,M9W_01740,-,-,-,NADH-quinone oxidoreductase subunit A,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit A,20201128,-
+1105094,57569484,M9W_RS01815,M9W_RS01815,M9W_01745,-,-,-,O-antigen ligase family protein,protein-coding,-,-,-,O-antigen ligase family protein,20200805,-
+1105094,57569485,M9W_RS01820,M9W_RS01820,M9W_01750,-,-,-,DUF2155 domain-containing protein,protein-coding,-,-,-,DUF2155 domain-containing protein,20200805,-
+1105094,57569486,M9W_RS01825,M9W_RS01825,M9W_t04313,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569487,xerD,M9W_RS01830,M9W_01755,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20200926,-
+1105094,57569488,M9W_RS01845,M9W_RS01845,M9W_01770,-,-,-,DUF5410 domain-containing protein,protein-coding,-,-,-,DUF5410 domain-containing protein,20200805,-
+1105094,57569489,fabI,M9W_RS01850,M9W_01775,-,-,-,enoyl-ACP reductase FabI,protein-coding,-,-,-,enoyl-ACP reductase FabI,20200805,-
+1105094,57569490,lnt,M9W_RS01855,M9W_01780,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20200805,-
+1105094,57569491,M9W_RS01860,M9W_RS01860,M9W_01785,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20200805,-
+1105094,57569492,M9W_RS01865,M9W_RS01865,M9W_01790,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1105094,57569493,M9W_RS01870,M9W_RS01870,M9W_01795,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569494,M9W_RS01880,M9W_RS01880,M9W_01800,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20200805,-
+1105094,57569495,M9W_RS01885,M9W_RS01885,M9W_01805,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200805,-
+1105094,57569496,M9W_RS01890,M9W_RS01890,M9W_01810,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20200805,-
+1105094,57569497,M9W_RS01895,M9W_RS01895,M9W_01815,-,-,-,NADP-dependent malic enzyme,protein-coding,-,-,-,NADP-dependent malic enzyme,20201128,-
+1105094,57569498,ralF,M9W_RS01900,M9W_01820,-,-,-,T4SS guanine nucleotide exchange effector RalF,protein-coding,-,-,-,T4SS guanine nucleotide exchange effector RalF,20210123,-
+1105094,57569499,M9W_RS01905,M9W_RS01905,M9W_01825,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569500,mdh,M9W_RS01910,M9W_01830,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20200805,-
+1105094,57569501,tlc2,M9W_RS01915,M9W_01835,-,-,-,nucleotide exchange transporter Tlc2,protein-coding,-,-,-,nucleotide exchange transporter Tlc2,20200805,-
+1105094,57569502,M9W_RS01920,M9W_RS01920,M9W_01840,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200805,-
+1105094,57569503,M9W_RS01925,M9W_RS01925,M9W_01845,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20200805,-
+1105094,57569504,M9W_RS01930,M9W_RS01930,M9W_t04315,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569505,M9W_RS01935,M9W_RS01935,M9W_t04317,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569506,M9W_RS01940,M9W_RS01940,M9W_01850,-,-,-,cbb3-type cytochrome c oxidase subunit I,protein-coding,-,-,-,cbb3-type cytochrome c oxidase subunit I,20200805,-
+1105094,57569507,folE,M9W_RS01945,M9W_01855,-,-,-,GTP cyclohydrolase I FolE,protein-coding,-,-,-,GTP cyclohydrolase I FolE,20200805,-
+1105094,57569508,M9W_RS01950,M9W_RS01950,M9W_01860,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200805,-
+1105094,57569509,M9W_RS01955,M9W_RS01955,M9W_01865,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569510,ruvA,M9W_RS01960,M9W_01870,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20200805,-
+1105094,57569511,ruvB,M9W_RS01965,M9W_01875,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200805,-
+1105094,57569512,M9W_RS01970,M9W_RS01970,M9W_01880,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569513,M9W_RS01975,M9W_RS01975,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569514,M9W_RS01980,M9W_RS01980,M9W_01885,-,-,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20200805,-
+1105094,57569515,M9W_RS01985,M9W_RS01985,M9W_01890,-,-,-,septal ring lytic transglycosylase RlpA family protein,protein-coding,-,-,-,septal ring lytic transglycosylase RlpA family protein,20200805,-
+1105094,57569516,M9W_RS01990,M9W_RS01990,M9W_01895,-,-,-,BON domain-containing protein,protein-coding,-,-,-,BON domain-containing protein,20210123,-
+1105094,57569517,M9W_RS01995,M9W_RS01995,M9W_01900,-,-,-,septation protein A,protein-coding,-,-,-,septation protein A,20200805,-
+1105094,57569518,M9W_RS02000,M9W_RS02000,M9W_01905,-,-,-,FTR1 family protein,protein-coding,-,-,-,FTR1 family protein,20200805,-
+1105094,57569519,M9W_RS02005,M9W_RS02005,M9W_01910,-,-,-,cupredoxin domain-containing protein,protein-coding,-,-,-,cupredoxin domain-containing protein,20200805,-
+1105094,57569520,M9W_RS02010,M9W_RS02010,M9W_01915,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20200805,-
+1105094,57569521,M9W_RS02015,M9W_RS02015,M9W_01920,-,-,-,dioxygenase,protein-coding,-,-,-,dioxygenase,20200805,-
+1105094,57569522,M9W_RS02020,M9W_RS02020,M9W_01925,-,-,-,TlpA family protein disulfide reductase,protein-coding,-,-,-,TlpA family protein disulfide reductase,20200805,-
+1105094,57569523,M9W_RS02025,M9W_RS02025,M9W_01930,-,-,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20200805,-
+1105094,57569524,dut,M9W_RS02030,M9W_01935,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20201128,-
+1105094,57569525,M9W_RS02035,M9W_RS02035,M9W_01940,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20200805,-
+1105094,57569526,M9W_RS02040,M9W_RS02040,M9W_01945,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569527,M9W_RS02045,M9W_RS02045,M9W_01950,-,-,-,LD-carboxypeptidase,protein-coding,-,-,-,LD-carboxypeptidase,20200805,-
+1105094,57569528,M9W_RS02050,M9W_RS02050,M9W_01955,-,-,-,PD-(D/E)XK nuclease family protein,protein-coding,-,-,-,PD-(D/E)XK nuclease family protein,20200805,-
+1105094,57569529,M9W_RS02055,M9W_RS02055,M9W_01960,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase,protein-coding,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase,20200805,-
+1105094,57569530,ctaD,M9W_RS02060,M9W_01965,-,-,-,cytochrome c oxidase subunit I,protein-coding,-,-,-,cytochrome c oxidase subunit I,20200805,-
+1105094,57569531,coxB,M9W_RS02065,M9W_01970,-,-,-,cytochrome c oxidase subunit II,protein-coding,-,-,-,cytochrome c oxidase subunit II,20200805,-
+1105094,57569532,M9W_RS02070,M9W_RS02070,M9W_01975,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,protein-coding,-,-,-,peptidoglycan DD-metalloendopeptidase family protein,20201003,-
+1105094,57569533,M9W_RS02075,M9W_RS02075,M9W_01980,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20200805,-
+1105094,57569534,M9W_RS02080,M9W_RS02080,M9W_01985,-,-,-,DUF3035 domain-containing protein,protein-coding,-,-,-,DUF3035 domain-containing protein,20200805,-
+1105094,57569535,M9W_RS02085,M9W_RS02085,M9W_01990,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20200805,-
+1105094,57569536,ftsW,M9W_RS02090,M9W_01995,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20200805,-
+1105094,57569537,murG,M9W_RS02095,M9W_02000,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20200805,-
+1105094,57569538,M9W_RS02100,M9W_RS02100,M9W_02005,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569539,M9W_RS02105,M9W_RS02105,M9W_02010,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20200805,-
+1105094,57569540,M9W_RS02110,M9W_RS02110,M9W_02015,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20200805,-
+1105094,57569541,mtaB,M9W_RS02115,M9W_02020,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20200805,-
+1105094,57569542,pheS,M9W_RS02120,M9W_02025,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200805,-
+1105094,57569543,M9W_RS02125,M9W_RS02125,M9W_02030,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200805,-
+1105094,57569544,M9W_RS02130,M9W_RS02130,M9W_02035,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200805,-
+1105094,57569545,M9W_RS02135,M9W_RS02135,M9W_02040,-,-,-,DUF3576 domain-containing protein,protein-coding,-,-,-,DUF3576 domain-containing protein,20200805,-
+1105094,57569546,M9W_RS02140,M9W_RS02140,M9W_02045,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200805,-
+1105094,57569547,M9W_RS02145,M9W_RS02145,M9W_02050,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20200805,-
+1105094,57569548,M9W_RS02150,M9W_RS02150,M9W_02055,-,-,-,septum formation initiator family protein,protein-coding,-,-,-,septum formation initiator family protein,20200805,-
+1105094,57569549,M9W_RS02155,M9W_RS02155,M9W_02060,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200805,-
+1105094,57569550,uppS,M9W_RS02160,M9W_02065,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",protein-coding,-,-,-,"di-trans,poly-cis-decaprenylcistransferase",20201128,-
+1105094,57569551,M9W_RS02165,M9W_RS02165,M9W_02070,-,-,-,two-component sensor histidine kinase,protein-coding,-,-,-,two-component sensor histidine kinase,20210123,-
+1105094,57569552,M9W_RS02170,M9W_RS02170,M9W_02075,-,-,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20200805,-
+1105094,57569553,M9W_RS02175,M9W_RS02175,M9W_02080,-,-,-,branched-chain amino acid transaminase,protein-coding,-,-,-,branched-chain amino acid transaminase,20200805,-
+1105094,57569554,M9W_RS02180,M9W_RS02180,M9W_02085,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20200805,-
+1105094,57569555,smpB,M9W_RS02185,M9W_02090,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200805,-
+1105094,57569556,M9W_RS02190,M9W_RS02190,M9W_02095,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20200805,-
+1105094,57569557,sucD,M9W_RS02195,M9W_02100,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20200805,-
+1105094,57569558,sucC,M9W_RS02200,M9W_02105,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20200805,-
+1105094,57569559,M9W_RS02205,M9W_RS02205,M9W_02110,-,-,-,Tim44 domain-containing protein,protein-coding,-,-,-,Tim44 domain-containing protein,20200805,-
+1105094,57569560,rbfA,M9W_RS02210,M9W_02115,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200805,-
+1105094,57569561,M9W_RS02215,M9W_RS02215,M9W_02120,-,-,-,DedA family protein,protein-coding,-,-,-,DedA family protein,20200805,-
+1105094,57569562,M9W_RS02220,M9W_RS02220,M9W_02125,-,-,-,RDD family protein,protein-coding,-,-,-,RDD family protein,20200805,-
+1105094,57569563,recR,M9W_RS02225,M9W_02130,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200805,-
+1105094,57569564,M9W_RS02230,M9W_RS02230,M9W_02135,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569565,M9W_RS02235,M9W_RS02235,M9W_02140,-,-,-,NAD kinase,protein-coding,-,-,-,NAD kinase,20200805,-
+1105094,57569566,M9W_RS02240,M9W_RS02240,M9W_02145,-,-,-,ribonuclease J,protein-coding,-,-,-,ribonuclease J,20200805,-
+1105094,57569567,M9W_RS02245,M9W_RS02245,M9W_02150,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20200805,-
+1105094,57569568,M9W_RS02250,M9W_RS02250,M9W_02155,-,-,-,AEC family transporter,protein-coding,-,-,-,AEC family transporter,20200803,-
+1105094,57569569,M9W_RS02255,M9W_RS02255,M9W_02160,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1105094,57569570,trxB,M9W_RS02260,M9W_02165,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200805,-
+1105094,57569571,M9W_RS02265,M9W_RS02265,M9W_02170,-,-,-,glycosyltransferase,protein-coding,-,-,-,glycosyltransferase,20200805,-
+1105094,57569572,pcrA,M9W_RS02270,M9W_02175,-,-,-,DNA helicase PcrA,protein-coding,-,-,-,DNA helicase PcrA,20200805,-
+1105094,57569573,M9W_RS02275,M9W_RS02275,M9W_02180,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569574,M9W_RS02280,M9W_RS02280,M9W_02185,-,-,-,serine/threonine dehydratase,protein-coding,-,-,-,serine/threonine dehydratase,20200805,-
+1105094,57569575,lon,M9W_RS02285,M9W_02190,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201128,-
+1105094,57569576,M9W_RS02290,M9W_RS02290,M9W_02195,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1105094,57569577,fni,M9W_RS02295,M9W_02200,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,protein-coding,-,-,-,type 2 isopentenyl-diphosphate Delta-isomerase,20200805,-
+1105094,57569578,M9W_RS02300,M9W_RS02300,M9W_t04319,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569579,M9W_RS02305,M9W_RS02305,M9W_02205,-,-,-,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,protein-coding,-,-,-,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,20200805,-
+1105094,57569580,M9W_RS02310,M9W_RS02310,M9W_02210,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20200805,-
+1105094,57569581,rpmJ,M9W_RS02315,M9W_02215,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200805,-
+1105094,57569582,M9W_RS02320,M9W_RS02320,M9W_02220,-,-,-,lytic transglycosylase domain-containing protein,protein-coding,-,-,-,lytic transglycosylase domain-containing protein,20210406,-
+1105094,57569583,M9W_RS02325,M9W_RS02325,M9W_02225,-,-,-,DUF2532 domain-containing protein,protein-coding,-,-,-,DUF2532 domain-containing protein,20200805,-
+1105094,57569584,M9W_RS02330,M9W_RS02330,M9W_02230,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200803,-
+1105094,57569585,M9W_RS02335,M9W_RS02335,M9W_02235,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200803,-
+1105094,57569586,M9W_RS02340,M9W_RS02340,M9W_02240,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200805,-
+1105094,57569587,M9W_RS02345,M9W_RS02345,M9W_02245,-,-,-,ribonuclease D,protein-coding,-,-,-,ribonuclease D,20200805,-
+1105094,57569588,M9W_RS02350,M9W_RS02350,M9W_02250,-,-,-,RMD1 family protein,protein-coding,-,-,-,RMD1 family protein,20200803,-
+1105094,57569589,M9W_RS02355,M9W_RS02355,M9W_02255,-,-,-,folate-binding protein YgfZ,protein-coding,-,-,-,folate-binding protein YgfZ,20200805,-
+1105094,57569590,M9W_RS02360,M9W_RS02360,M9W_02260,-,-,-,alkaline phosphatase,protein-coding,-,-,-,alkaline phosphatase,20200805,-
+1105094,57569591,hemC,M9W_RS02365,M9W_02265,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20200805,-
+1105094,57569592,M9W_RS02370,M9W_RS02370,M9W_t04321,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569593,trpS,M9W_RS02375,M9W_02270,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200805,-
+1105094,57569594,M9W_RS02380,M9W_RS02380,M9W_02275,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200805,-
+1105094,57569595,M9W_RS02385,M9W_RS02385,M9W_02280,-,-,-,host attachment protein,protein-coding,-,-,-,host attachment protein,20210123,-
+1105094,57569596,M9W_RS02390,M9W_RS02390,M9W_02285,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1105094,57569597,M9W_RS02395,M9W_RS02395,M9W_02290,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569598,M9W_RS02400,M9W_RS02400,M9W_02295,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569599,M9W_RS02405,M9W_RS02405,M9W_02300,-,-,-,palindromic element RPE1 domain-containing protein,protein-coding,-,-,-,palindromic element RPE1 domain-containing protein,20200805,-
+1105094,57569600,M9W_RS02410,M9W_RS02410,M9W_02305,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20210129,-
+1105094,57569601,M9W_RS02415,M9W_RS02415,M9W_02310,-,-,-,glycosyltransferase family 8 protein,protein-coding,-,-,-,glycosyltransferase family 8 protein,20201128,-
+1105094,57569602,tlc3,M9W_RS02420,M9W_02315,-,-,-,nucleotide exchange transporter Tlc3,protein-coding,-,-,-,nucleotide exchange transporter Tlc3,20200803,-
+1105094,57569603,M9W_RS02425,M9W_RS02425,M9W_02320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569604,M9W_RS02430,M9W_RS02430,M9W_02325,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20200805,-
+1105094,57569605,M9W_RS02435,M9W_RS02435,M9W_t04323,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569606,M9W_RS02440,M9W_RS02440,M9W_t04325,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569607,M9W_RS02445,M9W_RS02445,M9W_02330,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200805,-
+1105094,57569608,M9W_RS02450,M9W_RS02450,M9W_02335,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200805,-
+1105094,57569609,M9W_RS02455,M9W_RS02455,M9W_02340,-,-,-,iron-sulfur cluster assembly accessory protein,protein-coding,-,-,-,iron-sulfur cluster assembly accessory protein,20200805,-
+1105094,57569610,iscU,M9W_RS02460,M9W_02345,-,-,-,Fe-S cluster assembly scaffold IscU,protein-coding,-,-,-,Fe-S cluster assembly scaffold IscU,20200805,-
+1105094,57569611,iscS,M9W_RS02465,M9W_02350,-,-,-,IscS subfamily cysteine desulfurase,protein-coding,-,-,-,IscS subfamily cysteine desulfurase,20200805,-
+1105094,57569612,M9W_RS02470,M9W_RS02470,M9W_02355,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20200805,-
+1105094,57569613,M9W_RS02475,M9W_RS02475,M9W_02360,-,-,-,Rrf2 family transcriptional regulator,protein-coding,-,-,-,Rrf2 family transcriptional regulator,20210123,-
+1105094,57569614,M9W_RS02480,M9W_RS02480,M9W_02365,-,-,-,DUF1189 family protein,protein-coding,-,-,-,DUF1189 family protein,20200805,-
+1105094,57569615,M9W_RS02485,M9W_RS02485,M9W_02370,-,-,-,glutathione S-transferase family protein,protein-coding,-,-,-,glutathione S-transferase family protein,20200805,-
+1105094,57569616,ppdK,M9W_RS02490,M9W_02375,-,-,-,"pyruvate, phosphate dikinase",protein-coding,-,-,-,"pyruvate, phosphate dikinase",20200805,-
+1105094,57569617,M9W_RS02495,M9W_RS02495,M9W_02380,-,-,-,class II aldolase/adducin family protein,protein-coding,-,-,-,class II aldolase/adducin family protein,20200805,-
+1105094,57569618,pgeF,M9W_RS02500,M9W_02385,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20200805,-
+1105094,57569619,M9W_RS02505,M9W_RS02505,M9W_02390,-,-,-,glutamine synthetase,protein-coding,-,-,-,glutamine synthetase,20200805,-
+1105094,57569620,M9W_RS02510,M9W_RS02510,M9W_02395,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20200805,-
+1105094,57569621,M9W_RS02515,M9W_RS02515,M9W_02400,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20200805,-
+1105094,57569622,M9W_RS02520,M9W_RS02520,M9W_02405,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200905,-
+1105094,57569623,tlc4,M9W_RS02525,M9W_02410,-,-,-,NTP/NDP exchange transporter Tlc4,protein-coding,-,-,-,NTP/NDP exchange transporter Tlc4,20200805,-
+1105094,57569624,truB,M9W_RS02530,M9W_02415,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200803,-
+1105094,57569625,rpsO,M9W_RS02535,M9W_02420,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+1105094,57569626,pnp,M9W_RS02540,M9W_02425,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200805,-
+1105094,57569627,M9W_RS02545,M9W_RS02545,M9W_02430,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20200805,-
+1105094,57569628,lptC,M9W_RS02550,M9W_02435,-,-,-,LPS export ABC transporter periplasmic protein LptC,protein-coding,-,-,-,LPS export ABC transporter periplasmic protein LptC,20201128,-
+1105094,57569629,M9W_RS02555,M9W_RS02555,M9W_02440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569630,lptB,M9W_RS02560,M9W_02445,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20200805,-
+1105094,57569631,M9W_RS02565,M9W_RS02565,M9W_02450,-,-,-,phosphomannomutase/phosphoglucomutase,protein-coding,-,-,-,phosphomannomutase/phosphoglucomutase,20200919,-
+1105094,57569632,miaA,M9W_RS02570,M9W_02455,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20200805,-
+1105094,57569633,M9W_RS02575,M9W_RS02575,M9W_02460,-,-,-,pentapeptide repeat-containing protein,protein-coding,-,-,-,pentapeptide repeat-containing protein,20200805,-
+1105094,57569634,M9W_RS02580,M9W_RS02580,M9W_02465,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20200805,-
+1105094,57569635,M9W_RS02585,M9W_RS02585,M9W_02470,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20200805,-
+1105094,57569636,M9W_RS02590,M9W_RS02590,M9W_02475,-,-,-,NAD(P)/FAD-dependent oxidoreductase,protein-coding,-,-,-,NAD(P)/FAD-dependent oxidoreductase,20200805,-
+1105094,57569637,folD,M9W_RS02595,M9W_02480,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20210417,-
+1105094,57569638,M9W_RS02600,M9W_RS02600,M9W_02485,-,-,-,gamma carbonic anhydrase family protein,protein-coding,-,-,-,gamma carbonic anhydrase family protein,20200805,-
+1105094,57569639,raiA,M9W_RS02605,M9W_02490,-,-,-,ribosome-associated translation inhibitor RaiA,protein-coding,-,-,-,ribosome-associated translation inhibitor RaiA,20200805,-
+1105094,57569640,M9W_RS02610,M9W_RS02610,M9W_t04327,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569641,M9W_RS02615,M9W_RS02615,M9W_t04329,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569642,clpP,M9W_RS02620,M9W_02495,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,protein-coding,-,-,-,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,20200805,-
+1105094,57569643,M9W_RS02625,M9W_RS02625,M9W_02500,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200805,-
+1105094,57569644,M9W_RS02630,M9W_RS02630,M9W_02505,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+1105094,57569645,M9W_RS02635,M9W_RS02635,M9W_t04331,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569646,M9W_RS02640,M9W_RS02640,M9W_02510,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200805,-
+1105094,57569647,sppA,M9W_RS02645,M9W_02515,-,-,-,signal peptide peptidase SppA,protein-coding,-,-,-,signal peptide peptidase SppA,20200805,-
+1105094,57569648,rho,M9W_RS02650,M9W_02520,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20200805,-
+1105094,57569649,M9W_RS02655,M9W_RS02655,M9W_02525,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200805,-
+1105094,57569650,recJ,M9W_RS02660,M9W_02530,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20200805,-
+1105094,57569651,prfA,M9W_RS02665,M9W_02535,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200805,-
+1105094,57569652,M9W_RS02670,M9W_RS02670,M9W_02540,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20200805,-
+1105094,57569653,M9W_RS02675,M9W_RS02675,M9W_02545,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200805,-
+1105094,57569654,M9W_RS02680,M9W_RS02680,M9W_02550,-,-,-,DUF2335 domain-containing protein,protein-coding,-,-,-,DUF2335 domain-containing protein,20200805,-
+1105094,57569655,M9W_RS02685,M9W_RS02685,M9W_02555,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1105094,57569656,M9W_RS02690,M9W_RS02690,M9W_02560,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20210123,-
+1105094,57569657,M9W_RS02695,M9W_RS02695,M9W_02565,-,-,-,phospholipase,protein-coding,-,-,-,phospholipase,20200805,-
+1105094,57569658,M9W_RS02700,M9W_RS02700,M9W_02570,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20201128,-
+1105094,57569659,M9W_RS02705,M9W_RS02705,M9W_02575,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,protein-coding,-,-,-,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,20200805,-
+1105094,57569660,M9W_RS02710,M9W_RS02710,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569661,nuoN,M9W_RS02715,M9W_02580,-,-,-,NADH-quinone oxidoreductase subunit NuoN,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoN,20200805,-
+1105094,57569662,M9W_RS02720,M9W_RS02720,M9W_02585,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569663,hemB,M9W_RS02725,M9W_02590,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20200805,-
+1105094,57569664,M9W_RS02730,M9W_RS02730,M9W_02595,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20200805,-
+1105094,57569665,M9W_RS02735,M9W_RS02735,M9W_02600,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20200805,-
+1105094,57569666,M9W_RS02740,M9W_RS02740,M9W_02605,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200805,-
+1105094,57569668,M9W_RS02750,M9W_RS02750,M9W_02615,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200805,-
+1105094,57569669,M9W_RS02755,M9W_RS02755,M9W_02620,-,-,-,RsmD family RNA methyltransferase,protein-coding,-,-,-,RsmD family RNA methyltransferase,20200805,-
+1105094,57569670,radA,M9W_RS02760,M9W_02625,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20210605,-
+1105094,57569671,M9W_RS02765,M9W_RS02765,M9W_02630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569672,recO,M9W_RS02770,M9W_02635,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200805,-
+1105094,57569673,tsaB,M9W_RS02775,M9W_02640,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,20200805,-
+1105094,57569675,infB,M9W_RS02785,M9W_02650,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200805,-
+1105094,57569676,nusA,M9W_RS02790,M9W_02655,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200805,-
+1105094,57569677,rimP,M9W_RS02795,M9W_02660,-,-,-,ribosome maturation factor RimP,protein-coding,-,-,-,ribosome maturation factor RimP,20200805,-
+1105094,57569678,M9W_RS02800,M9W_RS02800,M9W_02665,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,protein-coding,-,-,-,TlyA family rRNA (cytidine-2'-O)-methyltransferase,20200805,-
+1105094,57569679,M9W_RS02805,M9W_RS02805,M9W_02670,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200805,-
+1105094,57569680,M9W_RS02810,M9W_RS02810,M9W_t04333,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569681,M9W_RS02815,M9W_RS02815,M9W_02675,-,-,-,alpha-2-macroglobulin family protein,protein-coding,-,-,-,alpha-2-macroglobulin family protein,20200803,-
+1105094,57569682,M9W_RS02820,M9W_RS02820,M9W_02680,-,-,-,3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein,protein-coding,-,-,-,3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein,20200805,-
+1105094,57569684,ubiH,M9W_RS02830,M9W_02685,-,-,-,2-octaprenyl-6-methoxyphenyl hydroxylase,protein-coding,-,-,-,2-octaprenyl-6-methoxyphenyl hydroxylase,20200805,-
+1105094,57569685,M9W_RS02835,M9W_RS02835,M9W_02690,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1105094,57569686,M9W_RS02840,M9W_RS02840,M9W_02695,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20200805,-
+1105094,57569687,M9W_RS02845,M9W_RS02845,M9W_02700,-,-,-,pentapeptide repeat-containing protein,protein-coding,-,-,-,pentapeptide repeat-containing protein,20201128,-
+1105094,57569688,M9W_RS02850,M9W_RS02850,M9W_02705,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,57569689,mrdA,M9W_RS02855,M9W_02710,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20200805,-
+1105094,57569690,M9W_RS02860,M9W_RS02860,M9W_02715,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569691,M9W_RS02865,M9W_RS02865,M9W_02720,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20200805,-
+1105094,57569692,M9W_RS02870,M9W_RS02870,M9W_02725,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569693,rsmH,M9W_RS02875,M9W_02730,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200805,-
+1105094,57569694,mraZ,M9W_RS02880,M9W_02735,-,-,-,division/cell wall cluster transcriptional repressor MraZ,protein-coding,-,-,-,division/cell wall cluster transcriptional repressor MraZ,20201003,-
+1105094,57569696,M9W_RS02890,M9W_RS02890,M9W_02740,-,-,-,sodium:solute symporter family protein,protein-coding,-,-,-,sodium:solute symporter family protein,20200805,-
+1105094,57569697,uvrC,M9W_RS02895,M9W_02745,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20200805,-
+1105094,57569698,M9W_RS02900,M9W_RS02900,M9W_02750,-,-,-,copper chaperone PCu(A)C,protein-coding,-,-,-,copper chaperone PCu(A)C,20200805,-
+1105094,57569699,M9W_RS02905,M9W_RS02905,M9W_t04335,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569700,M9W_RS02910,M9W_RS02910,M9W_02755,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569701,secA,M9W_RS02915,M9W_02760,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200805,-
+1105094,57569702,M9W_RS02920,M9W_RS02920,M9W_02765,-,-,-,parvulin-like PPIase,protein-coding,-,-,-,parvulin-like PPIase,20200805,-
+1105094,57569703,M9W_RS02925,M9W_RS02925,M9W_02770,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200805,-
+1105094,57569704,M9W_RS02930,M9W_RS02930,M9W_02775,-,-,-,DNA-directed RNA polymerase subunit omega,protein-coding,-,-,-,DNA-directed RNA polymerase subunit omega,20200805,-
+1105094,57569705,murA,M9W_RS02935,M9W_02780,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20200805,-
+1105094,57569706,gyrB,M9W_RS02940,M9W_02785,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20201010,-
+1105094,57569707,M9W_RS02945,M9W_RS02945,M9W_02790,-,-,-,TIGR01459 family HAD-type hydrolase,protein-coding,-,-,-,TIGR01459 family HAD-type hydrolase,20200805,-
+1105094,57569708,M9W_RS02950,M9W_RS02950,M9W_t04337,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569709,mgtE,M9W_RS02955,M9W_02795,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200805,-
+1105094,57569710,M9W_RS02960,M9W_RS02960,M9W_t04339,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569711,yajC,M9W_RS02965,M9W_02800,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200805,-
+1105094,57569712,secD,M9W_RS02970,M9W_02805,-,-,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20200805,-
+1105094,57569713,M9W_RS02975,M9W_RS02975,M9W_02810,-,-,-,SCO family protein,protein-coding,-,-,-,SCO family protein,20200805,-
+1105094,57569714,ccmE,M9W_RS02980,M9W_02820,-,-,-,cytochrome c maturation protein CcmE,protein-coding,-,-,-,cytochrome c maturation protein CcmE,20200805,-
+1105094,57569715,ppa,M9W_RS02985,M9W_02825,-,-,-,inorganic diphosphatase,protein-coding,-,-,-,inorganic diphosphatase,20201128,-
+1105094,57569716,murJ,M9W_RS02990,M9W_02830,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20200805,-
+1105094,57569717,M9W_RS02995,M9W_RS02995,M9W_02835,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569718,M9W_RS03000,M9W_RS03000,M9W_02840,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569719,M9W_RS03005,M9W_RS03005,M9W_02845,-,-,-,ATP-dependent DNA helicase RecG,protein-coding,-,-,-,ATP-dependent DNA helicase RecG,20210123,-
+1105094,57569720,M9W_RS03010,M9W_RS03010,M9W_02850,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20200805,-
+1105094,57569721,M9W_RS03015,M9W_RS03015,M9W_02855,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20201128,-
+1105094,57569722,M9W_RS03020,M9W_RS03020,M9W_02860,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20200803,-
+1105094,57569723,mfd,M9W_RS03025,M9W_02865,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20200805,-
+1105094,57569724,M9W_RS03030,M9W_RS03030,M9W_02870,-,-,-,succinate dehydrogenase assembly factor 2,protein-coding,-,-,-,succinate dehydrogenase assembly factor 2,20200805,-
+1105094,57569725,M9W_RS03035,M9W_RS03035,M9W_02875,-,-,-,rhodanese-like domain-containing protein,protein-coding,-,-,-,rhodanese-like domain-containing protein,20200805,-
+1105094,57569726,dnaA,M9W_RS03040,M9W_02880,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200805,-
+1105094,57569727,M9W_RS03045,M9W_RS03045,M9W_02885,-,-,-,patatin-like phospholipase family protein,protein-coding,-,-,-,patatin-like phospholipase family protein,20200805,-
+1105094,57569728,M9W_RS03050,M9W_RS03050,M9W_02890,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201010,-
+1105094,57569729,ychF,M9W_RS03055,M9W_02895,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200805,-
+1105094,57569730,M9W_RS03060,M9W_RS03060,M9W_02900,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200805,-
+1105094,57569731,M9W_RS03065,M9W_RS03065,M9W_02905,-,-,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20201010,-
+1105094,57569732,M9W_RS03070,M9W_RS03070,M9W_02910,-,-,-,7-carboxy-7-deazaguanine synthase QueE,protein-coding,-,-,-,7-carboxy-7-deazaguanine synthase QueE,20200805,-
+1105094,57569733,rpmI,M9W_RS03075,M9W_02915,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200805,-
+1105094,57569734,rplT,M9W_RS03080,M9W_02920,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200805,-
+1105094,57569735,rpmH,M9W_RS03085,M9W_02925,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200805,-
+1105094,57569736,M9W_RS03090,M9W_RS03090,M9W_02930,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200805,-
+1105094,57569737,M9W_RS03095,M9W_RS03095,M9W_02935,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569738,M9W_RS03100,M9W_RS03100,M9W_r04365,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20201128,-
+1105094,57569739,M9W_RS03105,M9W_RS03105,M9W_02945,-,-,-,PAS domain-containing sensor histidine kinase,protein-coding,-,-,-,PAS domain-containing sensor histidine kinase,20200805,-
+1105094,57569740,M9W_RS03110,M9W_RS03110,M9W_02950,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20201128,-
+1105094,57569741,M9W_RS03115,M9W_RS03115,M9W_02955,-,-,-,COQ9 family protein,protein-coding,-,-,-,COQ9 family protein,20200805,-
+1105094,57569742,M9W_RS03120,M9W_RS03120,M9W_02960,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20200805,-
+1105094,57569743,M9W_RS03125,M9W_RS03125,M9W_02965,-,-,-,acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha,protein-coding,-,-,-,acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha,20200805,-
+1105094,57569744,M9W_RS03130,M9W_RS03130,M9W_02970,-,-,-,acyl-CoA carboxylase subunit beta,protein-coding,-,-,-,acyl-CoA carboxylase subunit beta,20200805,-
+1105094,57569745,M9W_RS03135,M9W_RS03135,M9W_02980,-,-,-,acyl-[ACP]--phospholipid O-acyltransferase,protein-coding,-,-,-,acyl-[ACP]--phospholipid O-acyltransferase,20200805,-
+1105094,57569746,M9W_RS03140,M9W_RS03140,M9W_02985,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200805,-
+1105094,57569747,M9W_RS03145,M9W_RS03145,M9W_02990,-,-,-,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,protein-coding,-,-,-,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,20200805,-
+1105094,57569748,M9W_RS03150,M9W_RS03150,M9W_02995,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200805,-
+1105094,57569749,M9W_RS03155,M9W_RS03155,M9W_03000,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200805,-
+1105094,57569750,M9W_RS03160,M9W_RS03160,M9W_03005,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",protein-coding,-,-,-,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",20200805,-
+1105094,57569751,groL,M9W_RS03165,M9W_03010,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20201128,-
+1105094,57569752,M9W_RS03170,M9W_RS03170,M9W_03015,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200805,-
+1105094,57569753,rph,M9W_RS03175,M9W_03020,-,-,-,ribonuclease PH,protein-coding,-,-,-,ribonuclease PH,20200805,-
+1105094,57569754,grpE,M9W_RS03180,M9W_03025,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200805,-
+1105094,57569755,M9W_RS03185,M9W_RS03185,M9W_03030,-,-,-,AI-2E family transporter,protein-coding,-,-,-,AI-2E family transporter,20200805,-
+1105094,57569756,M9W_RS03190,M9W_RS03190,M9W_03035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569757,M9W_RS03195,M9W_RS03195,M9W_t04341,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569758,rpsT,M9W_RS03200,M9W_03040,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200805,-
+1105094,57569759,rplQ,M9W_RS03205,M9W_03045,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200805,-
+1105094,57569760,M9W_RS03210,M9W_RS03210,M9W_03050,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200805,-
+1105094,57569761,rpsK,M9W_RS03215,M9W_03055,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+1105094,57569762,rpsM,M9W_RS03220,M9W_03060,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200805,-
+1105094,57569763,M9W_RS03225,M9W_RS03225,M9W_03065,-,-,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20200805,-
+1105094,57569764,secY,M9W_RS03230,M9W_03070,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200805,-
+1105094,57569765,M9W_RS03235,M9W_RS03235,M9W_03075,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200805,-
+1105094,57569766,rpmD,M9W_RS03240,M9W_03080,-,-,-,50S ribosomal protein L30,protein-coding,-,-,-,50S ribosomal protein L30,20200805,-
+1105094,57569767,rpsE,M9W_RS03245,M9W_03085,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200805,-
+1105094,57569768,M9W_RS03250,M9W_RS03250,M9W_03090,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+1105094,57569769,rplF,M9W_RS03255,M9W_03095,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200805,-
+1105094,57569770,rpsH,M9W_RS03260,M9W_03100,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200805,-
+1105094,57569771,rpsN,M9W_RS03265,M9W_03105,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200805,-
+1105094,57569772,rplE,M9W_RS03270,M9W_03110,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+1105094,57569773,rplX,M9W_RS03275,M9W_03115,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200805,-
+1105094,57569774,rplN,M9W_RS03280,M9W_03120,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200805,-
+1105094,57569775,rpsQ,M9W_RS03285,M9W_03125,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200805,-
+1105094,57569776,M9W_RS03290,M9W_RS03290,M9W_03130,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200805,-
+1105094,57569777,rplP,M9W_RS03295,M9W_03135,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+1105094,57569778,rpsC,M9W_RS03300,M9W_03140,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200805,-
+1105094,57569779,rplV,M9W_RS03305,M9W_03145,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200805,-
+1105094,57569780,rpsS,M9W_RS03310,M9W_03150,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200805,-
+1105094,57569781,rplB,M9W_RS03315,M9W_03155,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200805,-
+1105094,57569782,rplW,M9W_RS03320,M9W_03160,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200805,-
+1105094,57569783,rplD,M9W_RS03325,M9W_03165,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200805,-
+1105094,57569784,rplC,M9W_RS03330,M9W_03170,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200805,-
+1105094,57569785,rpsJ,M9W_RS03335,M9W_03175,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+1105094,57569786,tuf,M9W_RS03340,M9W_03180,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200805,-
+1105094,57569787,M9W_RS03345,M9W_RS03345,M9W_t04343,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569788,M9W_RS03350,M9W_RS03350,M9W_t04345,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569789,rlmB,M9W_RS03355,M9W_03185,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,protein-coding,-,-,-,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,20200805,-
+1105094,57569790,fumC,M9W_RS03360,M9W_03190,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20200805,-
+1105094,57569791,ftsZ,M9W_RS03365,M9W_03195,-,-,-,cell division protein FtsZ,protein-coding,-,-,-,cell division protein FtsZ,20200803,-
+1105094,57569792,M9W_RS03370,M9W_RS03370,M9W_03200,-,-,-,NifU family protein,protein-coding,-,-,-,NifU family protein,20200805,-
+1105094,57569793,M9W_RS03375,M9W_RS03375,M9W_03205,-,-,-,AmpG family muropeptide MFS transporter,protein-coding,-,-,-,AmpG family muropeptide MFS transporter,20200805,-
+1105094,57569794,M9W_RS03380,M9W_RS03380,M9W_03210,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200805,-
+1105094,57569795,M9W_RS03385,M9W_RS03385,M9W_03215,-,-,-,cold-shock protein,protein-coding,-,-,-,cold-shock protein,20200805,-
+1105094,57569796,M9W_RS03390,M9W_RS03390,M9W_t04347,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569797,M9W_RS03395,M9W_RS03395,M9W_03220,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569798,rsmA,M9W_RS03400,M9W_03225,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20200805,-
+1105094,57569799,M9W_RS03405,M9W_RS03405,M9W_03230,-,-,-,SurA N-terminal domain-containing protein,protein-coding,-,-,-,SurA N-terminal domain-containing protein,20200805,-
+1105094,57569800,M9W_RS03410,M9W_RS03410,M9W_03235,-,-,-,LPS-assembly protein LptD,protein-coding,-,-,-,LPS-assembly protein LptD,20201128,-
+1105094,57569801,M9W_RS03415,M9W_RS03415,M9W_03240,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20200805,-
+1105094,57569802,xth,M9W_RS03420,M9W_03245,-,-,-,exodeoxyribonuclease III,protein-coding,-,-,-,exodeoxyribonuclease III,20200805,-
+1105094,57569803,der,M9W_RS03430,M9W_03255,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200805,-
+1105094,57569804,ubiB,M9W_RS03435,M9W_03260,-,-,-,2-polyprenylphenol 6-hydroxylase,protein-coding,-,-,-,2-polyprenylphenol 6-hydroxylase,20200805,-
+1105094,57569805,ubiE,M9W_RS03440,M9W_03265,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20200805,-
+1105094,57569806,M9W_RS03445,M9W_RS03445,M9W_03270,-,-,-,polyhydroxyalkanoate depolymerase,protein-coding,-,-,-,polyhydroxyalkanoate depolymerase,20201128,-
+1105094,57569807,M9W_RS03450,M9W_RS03450,M9W_03275,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201010,-
+1105094,57569808,M9W_RS03455,M9W_RS03455,M9W_03280,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200805,-
+1105094,57569809,M9W_RS03460,M9W_RS03460,M9W_03285,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200805,-
+1105094,57569810,M9W_RS03465,M9W_RS03465,M9W_03290,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569811,M9W_RS03470,M9W_RS03470,M9W_03295,-,-,-,4-hydroxybenzoate octaprenyltransferase,protein-coding,-,-,-,4-hydroxybenzoate octaprenyltransferase,20200805,-
+1105094,57569812,M9W_RS03475,M9W_RS03475,M9W_03300,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200803,-
+1105094,57569813,M9W_RS03480,M9W_RS03480,M9W_03305,-,-,-,LicD family protein,protein-coding,-,-,-,LicD family protein,20200803,-
+1105094,57569814,M9W_RS03485,M9W_RS03485,M9W_03310,-,-,-,phosphorylcholine transferase LicD,protein-coding,-,-,-,phosphorylcholine transferase LicD,20200805,-
+1105094,57569815,M9W_RS03490,M9W_RS03490,M9W_03315,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20201128,-
+1105094,57569816,M9W_RS03495,M9W_RS03495,M9W_03320,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569817,clpX,M9W_RS03500,M9W_03325,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20200805,-
+1105094,57569818,M9W_RS03505,M9W_RS03505,M9W_03330,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200805,-
+1105094,57569819,queC,M9W_RS03510,M9W_03335,-,-,-,7-cyano-7-deazaguanine synthase QueC,protein-coding,-,-,-,7-cyano-7-deazaguanine synthase QueC,20200805,-
+1105094,57569820,M9W_RS03515,M9W_RS03515,M9W_t04349,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569821,M9W_RS03520,M9W_RS03520,M9W_03340,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1105094,57569822,M9W_RS03525,M9W_RS03525,M9W_03345,-,-,-,DUF2673 domain-containing protein,protein-coding,-,-,-,DUF2673 domain-containing protein,20200805,-
+1105094,57569823,M9W_RS03530,M9W_RS03530,M9W_03350,-,-,-,multidrug effflux MFS transporter,protein-coding,-,-,-,multidrug effflux MFS transporter,20200805,-
+1105094,57569824,M9W_RS03535,M9W_RS03535,M9W_03355,-,-,-,lipoprotein-releasing ABC transporter permease subunit,protein-coding,-,-,-,lipoprotein-releasing ABC transporter permease subunit,20200805,-
+1105094,57569825,M9W_RS03540,M9W_RS03540,M9W_03360,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1105094,57569826,M9W_RS03545,M9W_RS03545,M9W_03365,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569827,M9W_RS03550,M9W_RS03550,M9W_03370,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200805,-
+1105094,57569828,M9W_RS03555,M9W_RS03555,M9W_03375,-,-,-,heme lyase CcmF/NrfE family subunit,protein-coding,-,-,-,heme lyase CcmF/NrfE family subunit,20200805,-
+1105094,57569829,M9W_RS03560,M9W_RS03560,M9W_03380,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,protein-coding,-,-,-,autotransporter outer membrane beta-barrel domain-containing protein,20200803,-
+1105094,57569830,M9W_RS03565,M9W_RS03565,M9W_03385,-,-,-,glycoside hydrolase family 3 protein,protein-coding,-,-,-,glycoside hydrolase family 3 protein,20200805,-
+1105094,57569831,M9W_RS03570,M9W_RS03570,M9W_03390,-,-,-,palindromic element RPE3 domain-containing protein,protein-coding,-,-,-,palindromic element RPE3 domain-containing protein,20200805,-
+1105094,57569832,M9W_RS03575,M9W_RS03575,M9W_03395,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200805,-
+1105094,57569833,M9W_RS03585,M9W_RS03585,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569834,M9W_RS03590,M9W_RS03590,M9W_03415,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569835,M9W_RS03610,M9W_RS03610,M9W_03435,-,-,-,recombinase family protein,protein-coding,-,-,-,recombinase family protein,20200805,-
+1105094,57569836,M9W_RS03615,M9W_RS03615,M9W_03440,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569837,M9W_RS03620,M9W_RS03620,M9W_03445,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,protein-coding,-,-,-,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,20210123,-
+1105094,57569838,M9W_RS03625,M9W_RS03625,M9W_03450,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20200805,-
+1105094,57569839,M9W_RS03635,M9W_RS03635,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57569840,M9W_RS03640,M9W_RS03640,M9W_03470,-,-,-,ankyrin repeat domain-containing protein,protein-coding,-,-,-,ankyrin repeat domain-containing protein,20200805,-
+1105094,57569841,M9W_RS03655,M9W_RS03655,M9W_03490,-,-,-,lauroyl acyltransferase,protein-coding,-,-,-,lauroyl acyltransferase,20200805,-
+1105094,57569842,M9W_RS03660,M9W_RS03660,M9W_03495,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20200805,-
+1105094,57569843,ligA,M9W_RS03665,M9W_03500,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200805,-
+1105094,57569844,tgt,M9W_RS03670,M9W_03505,-,-,-,tRNA guanosine(34) transglycosylase Tgt,protein-coding,-,-,-,tRNA guanosine(34) transglycosylase Tgt,20200805,-
+1105094,57569845,M9W_RS03675,M9W_RS03675,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569846,M9W_RS03680,M9W_RS03680,M9W_03510,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569847,mlaD,M9W_RS03685,M9W_03515,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,protein-coding,-,-,-,outer membrane lipid asymmetry maintenance protein MlaD,20200805,-
+1105094,57569848,M9W_RS03690,M9W_RS03690,M9W_03520,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569849,rnhA,M9W_RS03695,M9W_03525,-,-,-,ribonuclease HI,protein-coding,-,-,-,ribonuclease HI,20210605,-
+1105094,57569850,M9W_RS03700,M9W_RS03700,M9W_03530,-,-,-,aminotransferase,protein-coding,-,-,-,aminotransferase,20200805,-
+1105094,57569851,M9W_RS03705,M9W_RS03705,M9W_03535,-,-,-,LpxI family protein,protein-coding,-,-,-,LpxI family protein,20200805,-
+1105094,57569852,M9W_RS03710,M9W_RS03710,M9W_03540,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200805,-
+1105094,57569853,dnaQ,M9W_RS03715,M9W_03545,-,-,-,DNA polymerase III subunit epsilon,protein-coding,-,-,-,DNA polymerase III subunit epsilon,20200805,-
+1105094,57569854,M9W_RS03720,M9W_RS03720,M9W_03550,-,-,-,SURF1 family protein,protein-coding,-,-,-,SURF1 family protein,20200805,-
+1105094,57569855,M9W_RS03725,M9W_RS03725,M9W_03555,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201010,-
+1105094,57569856,fabD,M9W_RS03730,M9W_03560,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20200805,-
+1105094,57569857,M9W_RS03735,M9W_RS03735,M9W_t04351,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569858,M9W_RS03740,M9W_RS03740,M9W_03565,-,-,-,acetyl-CoA C-acetyltransferase,protein-coding,-,-,-,acetyl-CoA C-acetyltransferase,20200805,-
+1105094,57569859,M9W_RS03745,M9W_RS03745,M9W_03570,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1105094,57569860,tlc5,M9W_RS03750,M9W_03575,-,-,-,GTP/GDP exchange transporter Tlc5,protein-coding,-,-,-,GTP/GDP exchange transporter Tlc5,20200805,-
+1105094,57569861,M9W_RS03755,M9W_RS03755,M9W_03580,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200805,-
+1105094,57569862,ybeY,M9W_RS03760,M9W_03585,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200805,-
+1105094,57569863,lipA,M9W_RS03765,M9W_03590,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20200805,-
+1105094,57569864,M9W_RS03770,M9W_RS03770,M9W_03595,-,-,-,serine hydroxymethyltransferase,protein-coding,-,-,-,serine hydroxymethyltransferase,20200805,-
+1105094,57569865,M9W_RS03775,M9W_RS03775,M9W_03600,-,-,-,hydrolase,protein-coding,-,-,-,hydrolase,20200805,-
+1105094,57569866,grxD,M9W_RS03780,M9W_03605,-,-,-,Grx4 family monothiol glutaredoxin,protein-coding,-,-,-,Grx4 family monothiol glutaredoxin,20200805,-
+1105094,57569867,nth,M9W_RS03785,M9W_03610,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20200805,-
+1105094,57569869,rsmI,M9W_RS03795,M9W_03615,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,protein-coding,-,-,-,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,20200805,-
+1105094,57569870,M9W_RS03800,M9W_RS03800,M9W_03620,-,-,-,penicillin-binding protein activator,protein-coding,-,-,-,penicillin-binding protein activator,20200805,-
+1105094,57569871,M9W_RS03805,M9W_RS03805,M9W_03625,-,-,-,Sec-independent protein translocase subunit TatA,protein-coding,-,-,-,Sec-independent protein translocase subunit TatA,20201128,-
+1105094,57569872,M9W_RS03810,M9W_RS03810,M9W_03630,-,-,-,phosphatidylglycerophosphatase A,protein-coding,-,-,-,phosphatidylglycerophosphatase A,20200805,-
+1105094,57569873,rplU,M9W_RS03815,M9W_03635,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200805,-
+1105094,57569874,rpmA,M9W_RS03820,M9W_03640,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200805,-
+1105094,57569875,M9W_RS03825,M9W_RS03825,M9W_03645,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20200805,-
+1105094,57569876,M9W_RS03830,M9W_RS03830,M9W_03650,-,-,-,transcriptional regulator,protein-coding,-,-,-,transcriptional regulator,20200805,-
+1105094,57569877,M9W_RS03835,M9W_RS03835,M9W_03655,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569878,M9W_RS03840,M9W_RS03840,M9W_03660,-,-,-,cell division protein ZapA,protein-coding,-,-,-,cell division protein ZapA,20201128,-
+1105094,57569879,M9W_RS03845,M9W_RS03845,M9W_03665,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569880,M9W_RS03850,M9W_RS03850,M9W_03670,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20200805,-
+1105094,57569881,M9W_RS03855,M9W_RS03855,M9W_03675,-,-,-,NAD-glutamate dehydrogenase,protein-coding,-,-,-,NAD-glutamate dehydrogenase,20200805,-
+1105094,57569882,mnmE,M9W_RS03860,M9W_03680,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200805,-
+1105094,57569883,M9W_RS03865,M9W_RS03865,M9W_03685,-,-,-,DUF5460 family protein,protein-coding,-,-,-,DUF5460 family protein,20200805,-
+1105094,57569884,recA,M9W_RS03870,M9W_03690,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200805,-
+1105094,57569885,fabG,M9W_RS03875,M9W_03695,-,-,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20200805,-
+1105094,57569886,acpP,M9W_RS03880,M9W_03700,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20201128,-
+1105094,57569887,fabF,M9W_RS03885,M9W_03705,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20200805,-
+1105094,57569888,gmk,M9W_RS03890,M9W_03710,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201128,-
+1105094,57569889,M9W_RS03895,M9W_RS03895,M9W_03715,-,-,-,helix-turn-helix transcriptional regulator,protein-coding,-,-,-,helix-turn-helix transcriptional regulator,20201128,-
+1105094,57569890,mreC,M9W_RS03900,M9W_03720,-,-,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20200805,-
+1105094,57569891,M9W_RS03905,M9W_RS03905,M9W_03725,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20200805,-
+1105094,57569892,M9W_RS03910,M9W_RS03910,M9W_03730,-,-,-,YjgP/YjgQ family permease,protein-coding,-,-,-,YjgP/YjgQ family permease,20201128,-
+1105094,57569893,M9W_RS03915,M9W_RS03915,M9W_t04353,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569894,pal,M9W_RS03920,M9W_03735,-,-,-,peptidoglycan-associated lipoprotein Pal,protein-coding,-,-,-,peptidoglycan-associated lipoprotein Pal,20200805,-
+1105094,57569895,M9W_RS03925,M9W_RS03925,M9W_03740,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20201128,-
+1105094,57569896,M9W_RS03930,M9W_RS03930,M9W_03745,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200805,-
+1105094,57569897,M9W_RS03935,M9W_RS03935,M9W_03750,-,-,-,outer membrane protein assembly factor BamE,protein-coding,-,-,-,outer membrane protein assembly factor BamE,20201128,-
+1105094,57569898,ftsY,M9W_RS03940,M9W_03755,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200805,-
+1105094,57569899,polA,M9W_RS03945,M9W_03760,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20200805,-
+1105094,57569900,M9W_RS03950,M9W_RS03950,M9W_03765,-,-,-,methionine adenosyltransferase,protein-coding,-,-,-,methionine adenosyltransferase,20200805,-
+1105094,57569901,dnaE,M9W_RS03955,M9W_03770,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200805,-
+1105094,57569902,M9W_RS03960,M9W_RS03960,M9W_03775,-,-,-,UDP-glucose/GDP-mannose dehydrogenase family protein,protein-coding,-,-,-,UDP-glucose/GDP-mannose dehydrogenase family protein,20200805,-
+1105094,57569903,M9W_RS03965,M9W_RS03965,M9W_03780,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569904,M9W_RS03970,M9W_RS03970,M9W_03785,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57569905,tatC,M9W_RS03975,M9W_03790,-,-,-,twin-arginine translocase subunit TatC,protein-coding,-,-,-,twin-arginine translocase subunit TatC,20200805,-
+1105094,57569906,serS,M9W_RS03980,M9W_03795,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200805,-
+1105094,57569907,M9W_RS03985,M9W_RS03985,M9W_03800,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,protein-coding,-,-,-,VirB4 family type IV secretion/conjugal transfer ATPase,20200805,-
+1105094,57569908,M9W_RS03990,M9W_RS03990,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569909,M9W_RS03995,M9W_RS03995,M9W_03810,-,-,-,TerC/Alx family metal homeostasis membrane protein,protein-coding,-,-,-,TerC/Alx family metal homeostasis membrane protein,20200805,-
+1105094,57569910,M9W_RS04000,M9W_RS04000,M9W_03815,-,-,-,outer membrane beta-barrel protein,protein-coding,-,-,-,outer membrane beta-barrel protein,20200919,-
+1105094,57569911,M9W_RS04005,M9W_RS04005,M9W_03820,-,-,-,lysine methyltransferase,protein-coding,-,-,-,lysine methyltransferase,20200805,-
+1105094,57569912,M9W_RS04010,M9W_RS04010,M9W_03825,-,-,-,NADH-quinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit J,20200805,-
+1105094,57569913,nuoK,M9W_RS04015,M9W_03830,-,-,-,NADH-quinone oxidoreductase subunit NuoK,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoK,20200803,-
+1105094,57569914,nuoL,M9W_RS04020,M9W_03835,-,-,-,NADH-quinone oxidoreductase subunit L,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit L,20200805,-
+1105094,57569915,M9W_RS04025,M9W_RS04025,M9W_03840,-,-,-,NADH-quinone oxidoreductase subunit M,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit M,20200805,-
+1105094,57569916,ccmA,M9W_RS04030,M9W_03845,-,-,-,heme ABC exporter ATP-binding protein CcmA,protein-coding,-,-,-,heme ABC exporter ATP-binding protein CcmA,20200805,-
+1105094,57569917,nuoI,M9W_RS04035,M9W_03850,-,-,-,NADH-quinone oxidoreductase subunit NuoI,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoI,20200805,-
+1105094,57569918,nuoH,M9W_RS04040,M9W_03855,-,-,-,NADH-quinone oxidoreductase subunit NuoH,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit NuoH,20200805,-
+1105094,57569919,M9W_RS04045,M9W_RS04045,M9W_03860,-,-,-,NADH-quinone oxidoreductase subunit G,protein-coding,-,-,-,NADH-quinone oxidoreductase subunit G,20200805,-
+1105094,57569920,M9W_RS04050,M9W_RS04050,M9W_03865,-,-,-,DUF4870 family protein,protein-coding,-,-,-,DUF4870 family protein,20200805,-
+1105094,57569921,acnA,M9W_RS04055,M9W_03870,-,-,-,aconitate hydratase AcnA,protein-coding,-,-,-,aconitate hydratase AcnA,20200805,-
+1105094,57569922,M9W_RS04060,M9W_RS04060,M9W_03875,-,-,-,F0F1 ATP synthase subunit epsilon,protein-coding,-,-,-,F0F1 ATP synthase subunit epsilon,20200805,-
+1105094,57569923,atpD,M9W_RS04065,M9W_03880,-,-,-,F0F1 ATP synthase subunit beta,protein-coding,-,-,-,F0F1 ATP synthase subunit beta,20200805,-
+1105094,57569924,M9W_RS04070,M9W_RS04070,M9W_03885,-,-,-,F0F1 ATP synthase subunit gamma,protein-coding,-,-,-,F0F1 ATP synthase subunit gamma,20200805,-
+1105094,57569925,atpA,M9W_RS04075,M9W_03890,-,-,-,F0F1 ATP synthase subunit alpha,protein-coding,-,-,-,F0F1 ATP synthase subunit alpha,20200803,-
+1105094,57569926,M9W_RS04080,M9W_RS04080,M9W_03895,-,-,-,F0F1 ATP synthase subunit delta,protein-coding,-,-,-,F0F1 ATP synthase subunit delta,20200805,-
+1105094,57569927,M9W_RS04085,M9W_RS04085,M9W_03900,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200805,-
+1105094,57569928,M9W_RS04090,M9W_RS04090,M9W_03905,-,-,-,DNA starvation/stationary phase protection protein,protein-coding,-,-,-,DNA starvation/stationary phase protection protein,20200805,-
+1105094,57569929,M9W_RS04095,M9W_RS04095,M9W_03910,-,-,-,penicillin-binding protein 1A,protein-coding,-,-,-,penicillin-binding protein 1A,20200805,-
+1105094,57569930,miaB,M9W_RS04100,M9W_03915,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,protein-coding,-,-,-,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,20200803,-
+1105094,57569931,M9W_RS04105,M9W_RS04105,M9W_03920,-,-,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20210123,-
+1105094,57569932,M9W_RS04110,M9W_RS04110,M9W_03925,-,-,-,cation:proton antiporter,protein-coding,-,-,-,cation:proton antiporter,20200805,-
+1105094,57569933,rsfS,M9W_RS04115,M9W_03930,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20200805,-
+1105094,57569934,M9W_RS04120,M9W_RS04120,M9W_03935,-,-,-,BolA family transcriptional regulator,protein-coding,-,-,-,BolA family transcriptional regulator,20200805,-
+1105094,57569935,M9W_RS04125,M9W_RS04125,M9W_t04355,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569936,infA,M9W_RS04130,M9W_03940,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200805,-
+1105094,57569937,maf,M9W_RS04135,M9W_03945,-,-,-,septum formation inhibitor Maf,protein-coding,-,-,-,septum formation inhibitor Maf,20201128,-
+1105094,57569938,dksA,M9W_RS04140,M9W_03950,-,-,-,RNA polymerase-binding protein DksA,protein-coding,-,-,-,RNA polymerase-binding protein DksA,20200805,-
+1105094,57569939,M9W_RS04145,M9W_RS04145,M9W_03955,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20200805,-
+1105094,57569940,M9W_RS04150,M9W_RS04150,M9W_03960,-,-,-,phasin family protein,protein-coding,-,-,-,phasin family protein,20201128,-
+1105094,57569941,pld,M9W_RS04155,M9W_03965,-,-,-,phospholipase D,protein-coding,-,-,-,phospholipase D,20201128,-
+1105094,57569942,phaC,M9W_RS04160,M9W_03970,-,-,-,class I poly(R)-hydroxyalkanoic acid synthase,protein-coding,-,-,-,class I poly(R)-hydroxyalkanoic acid synthase,20200805,-
+1105094,57569943,M9W_RS04165,M9W_RS04165,M9W_03975,-,-,-,UbiD family decarboxylase,protein-coding,-,-,-,UbiD family decarboxylase,20200805,-
+1105094,57569944,M9W_RS04170,M9W_RS04170,M9W_03980,-,-,-,SurA N-terminal domain-containing protein,protein-coding,-,-,-,SurA N-terminal domain-containing protein,20200805,-
+1105094,57569945,M9W_RS04175,M9W_RS04175,M9W_03990,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20200805,-
+1105094,57569946,map,M9W_RS04185,M9W_03995,-,-,-,type I methionyl aminopeptidase,protein-coding,-,-,-,type I methionyl aminopeptidase,20200805,-
+1105094,57569948,M9W_RS04195,M9W_RS04195,M9W_04000,-,-,-,glycosyltransferase family 4 protein,protein-coding,-,-,-,glycosyltransferase family 4 protein,20200805,-
+1105094,57569949,M9W_RS04200,M9W_RS04200,M9W_04005,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20200805,-
+1105094,57569950,M9W_RS04205,M9W_RS04205,M9W_04010,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20200805,-
+1105094,57569951,M9W_RS04210,M9W_RS04210,M9W_04015,-,-,-,porin family protein,protein-coding,-,-,-,porin family protein,20200805,-
+1105094,57569952,M9W_RS04215,M9W_RS04215,M9W_04020,-,-,-,ferredoxin family protein,protein-coding,-,-,-,ferredoxin family protein,20200805,-
+1105094,57569953,M9W_RS04220,M9W_RS04220,M9W_04025,-,-,-,heme ABC transporter permease,protein-coding,-,-,-,heme ABC transporter permease,20200805,-
+1105094,57569954,M9W_RS04225,M9W_RS04225,M9W_04030,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20200805,-
+1105094,57569955,M9W_RS04230,M9W_RS04230,M9W_04035,-,-,-,cation transporter,protein-coding,-,-,-,cation transporter,20200805,-
+1105094,57569956,M9W_RS04235,M9W_RS04235,M9W_04040,-,-,-,glycine zipper 2TM domain-containing protein,protein-coding,-,-,-,glycine zipper 2TM domain-containing protein,20200805,-
+1105094,57569957,M9W_RS04240,M9W_RS04240,M9W_04045,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20200805,-
+1105094,57569958,uvrA,M9W_RS04245,M9W_04050,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200805,-
+1105094,57569959,M9W_RS04250,M9W_RS04250,M9W_04055,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201128,-
+1105094,57569960,M9W_RS04255,M9W_RS04255,M9W_04060,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200805,-
+1105094,57569961,M9W_RS04260,M9W_RS04260,M9W_t04357,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569962,M9W_RS04265,M9W_RS04265,M9W_04065,-,-,-,DUF167 domain-containing protein,protein-coding,-,-,-,DUF167 domain-containing protein,20200805,-
+1105094,57569963,htpG,M9W_RS04270,M9W_04070,-,-,-,molecular chaperone HtpG,protein-coding,-,-,-,molecular chaperone HtpG,20200805,-
+1105094,57569964,hemA,M9W_RS04275,M9W_04075,-,-,-,5-aminolevulinate synthase,protein-coding,-,-,-,5-aminolevulinate synthase,20200805,-
+1105094,57569965,M9W_RS04280,M9W_RS04280,M9W_04080,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20200805,-
+1105094,57569966,obgE,M9W_RS04285,M9W_04085,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200805,-
+1105094,57569967,M9W_RS04290,M9W_RS04290,M9W_04090,-,-,-,citrate synthase,protein-coding,-,-,-,citrate synthase,20200803,-
+1105094,57569968,M9W_RS04295,M9W_RS04295,M9W_04095,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200805,-
+1105094,57569969,M9W_RS04300,M9W_RS04300,M9W_04100,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1105094,57569970,trmB,M9W_RS04305,M9W_04105,-,-,-,bifunctional peptide chain release factor N(5)-glutamine methyltransferase PrmC/tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,bifunctional peptide chain release factor N(5)-glutamine methyltransferase PrmC/tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200805,-
+1105094,57569971,M9W_RS04310,M9W_RS04310,M9W_04110,-,-,-,threonylcarbamoyl-AMP synthase,protein-coding,-,-,-,threonylcarbamoyl-AMP synthase,20200805,-
+1105094,57569972,M9W_RS04315,M9W_RS04315,M9W_04115,-,-,-,glycine--tRNA ligase subunit beta,protein-coding,-,-,-,glycine--tRNA ligase subunit beta,20200805,-
+1105094,57569973,M9W_RS04320,M9W_RS04320,M9W_04120,-,-,-,glycine--tRNA ligase subunit alpha,protein-coding,-,-,-,glycine--tRNA ligase subunit alpha,20200805,-
+1105094,57569974,M9W_RS04325,M9W_RS04325,M9W_04125,-,-,-,epoxyqueuosine reductase QueH,protein-coding,-,-,-,epoxyqueuosine reductase QueH,20200805,-
+1105094,57569975,M9W_RS04330,M9W_RS04330,M9W_04130,-,-,-,MHS family MFS transporter,protein-coding,-,-,-,MHS family MFS transporter,20200805,-
+1105094,57569976,M9W_RS04335,M9W_RS04335,M9W_04135,-,-,-,RP853 family protein,protein-coding,-,-,-,RP853 family protein,20200805,-
+1105094,57569977,M9W_RS04340,M9W_RS04340,M9W_04140,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569978,M9W_RS04345,M9W_RS04345,M9W_04145,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569979,alaS,M9W_RS04350,M9W_04150,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200805,-
+1105094,57569980,truA,M9W_RS04355,M9W_04155,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200805,-
+1105094,57569981,rpoD,M9W_RS04360,M9W_04160,-,-,-,RNA polymerase sigma factor RpoD,protein-coding,-,-,-,RNA polymerase sigma factor RpoD,20200805,-
+1105094,57569982,M9W_RS04365,M9W_RS04365,M9W_04165,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200805,-
+1105094,57569983,M9W_RS04370,M9W_RS04370,M9W_04170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1105094,57569984,greA,M9W_RS04375,M9W_04175,-,-,-,transcription elongation factor GreA,protein-coding,-,-,-,transcription elongation factor GreA,20200805,-
+1105094,57569985,M9W_RS04380,M9W_RS04380,M9W_04180,-,-,-,NAD(P) transhydrogenase subunit alpha,protein-coding,-,-,-,NAD(P) transhydrogenase subunit alpha,20200805,-
+1105094,57569986,M9W_RS04385,M9W_RS04385,M9W_04185,-,-,-,NAD(P) transhydrogenase subunit alpha,protein-coding,-,-,-,NAD(P) transhydrogenase subunit alpha,20200805,-
+1105094,57569987,M9W_RS04390,M9W_RS04390,M9W_04190,-,-,-,outer-membrane lipoprotein carrier protein LolA,protein-coding,-,-,-,outer-membrane lipoprotein carrier protein LolA,20200805,-
+1105094,57569988,dnaX,M9W_RS04395,M9W_04195,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20210116,-
+1105094,57569989,M9W_RS04400,M9W_RS04400,M9W_04200,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200805,-
+1105094,57569990,M9W_RS04405,M9W_RS04405,M9W_04205,-,-,-,TIGR02281 family clan AA aspartic protease,protein-coding,-,-,-,TIGR02281 family clan AA aspartic protease,20201128,-
+1105094,57569991,M9W_RS04410,M9W_RS04410,M9W_04210,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20200805,-
+1105094,57569992,M9W_RS04415,M9W_RS04415,M9W_04215,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200805,-
+1105094,57569993,M9W_RS04420,M9W_RS04420,M9W_04220,-,-,-,phosphatase PAP2 family protein,protein-coding,-,-,-,phosphatase PAP2 family protein,20201128,-
+1105094,57569994,M9W_RS04425,M9W_RS04425,M9W_04225,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20201128,-
+1105094,57569995,M9W_RS04430,M9W_RS04430,M9W_04230,-,-,-,DNA polymerase III subunit chi,protein-coding,-,-,-,DNA polymerase III subunit chi,20201128,-
+1105094,57569996,M9W_RS04435,M9W_RS04435,M9W_t04359,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57569997,dapE,M9W_RS04440,M9W_04235,-,-,-,succinyl-diaminopimelate desuccinylase,protein-coding,-,-,-,succinyl-diaminopimelate desuccinylase,20200805,-
+1105094,57569998,M9W_RS04445,M9W_RS04445,M9W_04240,-,-,-,YdcF family protein,protein-coding,-,-,-,YdcF family protein,20200805,-
+1105094,57569999,lipB,M9W_RS04450,M9W_04245,-,-,-,lipoyl(octanoyl) transferase LipB,protein-coding,-,-,-,lipoyl(octanoyl) transferase LipB,20200805,-
+1105094,57570000,M9W_RS04455,M9W_RS04455,M9W_t04361,-,-,-,tRNA,tRNA,-,-,-,-,20201128,-
+1105094,57570001,rpsP,M9W_RS04460,M9W_04250,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200805,-
+1105094,57570002,rpmG,M9W_RS04465,M9W_04255,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+1105094,57570003,mutL,M9W_RS04470,M9W_04260,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200805,-
+1105094,57570004,M9W_RS04475,M9W_RS04475,M9W_04270,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200805,-
+1105094,57570005,hemF,M9W_RS04480,M9W_04275,-,-,-,oxygen-dependent coproporphyrinogen oxidase,protein-coding,-,-,-,oxygen-dependent coproporphyrinogen oxidase,20200805,-
+1105094,57570006,hemJ,M9W_RS04485,M9W_04280,-,-,-,protoporphyrinogen oxidase HemJ,protein-coding,-,-,-,protoporphyrinogen oxidase HemJ,20200805,-
+1105094,57570007,M9W_RS04490,M9W_RS04490,M9W_04285,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20200805,-
+1105094,57570008,M9W_RS04495,M9W_RS04495,M9W_04290,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20200805,-
+1105094,57570009,rnpB,M9W_RS04505,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201128,-
+1105094,57570013,M9W_RS04525,M9W_RS04525,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57570022,M9W_RS04590,M9W_RS04590,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57570024,M9W_RS04605,M9W_RS04605,-,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20200905,-
+1105094,57570025,M9W_RS04610,M9W_RS04610,-,-,-,-,type IV secretory system conjugative DNA transfer family protein,protein-coding,-,-,-,type IV secretory system conjugative DNA transfer family protein,20200905,-
+1105094,57570027,ssrA,M9W_RS04620,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201128,-
+1105094,57570028,ssrS,M9W_RS04625,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201128,-
+1105094,57570032,ffs,M9W_RS04655,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20201128,-
+1105094,57570033,M9W_RS04660,M9W_RS04660,M9W_04265,-,-,-,zinc-finger domain-containing protein,protein-coding,-,-,-,zinc-finger domain-containing protein,20200803,-
+1105094,57570036,M9W_RS04675,M9W_RS04675,M9W_01765,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57570037,M9W_RS04680,M9W_RS04680,-,-,-,-,palindromic element RPE4 domain-containing protein,protein-coding,-,-,-,palindromic element RPE4 domain-containing protein,20201217,-
+1105094,57570039,M9W_RS04690,M9W_RS04690,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,57570041,rlmJ,M9W_RS04700,-,-,-,-,pseudo,pseudo,-,-,-,-,20201128,-
+1105094,60318879,M9W_RS04705,M9W_RS04705,M9W_00805,-,-,-,DUF1674 domain-containing protein,protein-coding,-,-,-,DUF1674 domain-containing protein,20210123,-
+1105094,60318880,M9W_RS04710,M9W_RS04710,M9W_01515,-,-,-,"periplasmic protein TonB, links inner and outer membranes",protein-coding,-,-,-,"periplasmic protein TonB, links inner and outer membranes",20210123,-
+1105094,60318881,M9W_RS04715,M9W_RS04715,M9W_02645,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,60318882,M9W_RS04720,M9W_RS04720,M9W_02975,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201128,-
+1105094,60318883,M9W_RS04725,M9W_RS04725,-,-,-,-,transposase,protein-coding,-,-,-,transposase,20210529,-
+1105094,60318884,M9W_RS04730,M9W_RS04730,M9W_03420,-,-,-,transposase,protein-coding,-,-,-,transposase,20201129,-
+1105094,60318885,M9W_RS04735,M9W_RS04735,M9W_03425,-,-,-,transposase,protein-coding,-,-,-,transposase,20210406,-
+1105094,60318886,M9W_RS04740,M9W_RS04740,M9W_03430,-,-,-,transposase,protein-coding,-,-,-,transposase,20201130,-

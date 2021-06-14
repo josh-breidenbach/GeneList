@@ -1,0 +1,982 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+1234367,17099673,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene.,other,-,-,-,-,20150212,-
+1234367,56760369,hemB,CPE1_RS00005,CPE1_0001,-,-,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20200803,-
+1234367,56760370,nqrA,CPE1_RS00010,CPE1_0002,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit A,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit A,20200805,-
+1234367,56760371,CPE1_RS00015,CPE1_RS00015,CPE1_0003,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760372,CPE1_RS00020,CPE1_RS00020,CPE1_0004,-,-,-,GreA/GreB family elongation factor,protein-coding,-,-,-,GreA/GreB family elongation factor,20210118,-
+1234367,56760373,CPE1_RS00025,CPE1_RS00025,CPE1_0005,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760374,CPE1_RS00030,CPE1_RS00030,CPE1_0006,-,-,-,aspartate/tyrosine/aromatic aminotransferase,protein-coding,-,-,-,aspartate/tyrosine/aromatic aminotransferase,20200803,-
+1234367,56760375,CPE1_RS00035,CPE1_RS00035,CPE1_0007,-,-,-,cell shape-determining protein,protein-coding,-,-,-,cell shape-determining protein,20200803,-
+1234367,56760376,recB,CPE1_RS00040,CPE1_0008,-,-,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20200803,-
+1234367,56760377,CPE1_RS00045,CPE1_RS00045,CPE1_0009,-,-,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20200805,-
+1234367,56760378,CPE1_RS00050,CPE1_RS00050,CPE1_0010,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200803,-
+1234367,56760379,CPE1_RS00055,CPE1_RS00055,CPE1_0011,-,-,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20200805,-
+1234367,56760380,rpsD,CPE1_RS00060,CPE1_0012,-,-,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20200805,-
+1234367,56760381,CPE1_RS00065,CPE1_RS00065,CPE1_0013,-,-,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20200803,-
+1234367,56760382,CPE1_RS00070,CPE1_RS00070,CPE1_0014,-,-,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20200803,-
+1234367,56760383,CPE1_RS00075,CPE1_RS00075,CPE1_0015,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760384,CPE1_RS00080,CPE1_RS00080,CPE1_0016,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760385,CPE1_RS00085,CPE1_RS00085,CPE1_0017,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760386,CPE1_RS00090,CPE1_RS00090,CPE1_0018,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210119,-
+1234367,56760387,lptB,CPE1_RS00095,CPE1_0020,-,-,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20200805,-
+1234367,56760388,CPE1_RS00100,CPE1_RS00100,CPE1_0021,-,-,-,DUF1137 domain-containing protein,protein-coding,-,-,-,DUF1137 domain-containing protein,20200803,-
+1234367,56760389,kdsA,CPE1_RS00105,CPE1_0022,-,-,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20200803,-
+1234367,56760390,CPE1_RS00110,CPE1_RS00110,CPE1_0023,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760391,CPE1_RS00115,CPE1_RS00115,CPE1_0024,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20200805,-
+1234367,56760392,CPE1_RS00120,CPE1_RS00120,CPE1_0025,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200803,-
+1234367,56760393,CPE1_RS00125,CPE1_RS00125,CPE1_0026,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760394,CPE1_RS00130,CPE1_RS00130,CPE1_0027,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760395,CPE1_RS00135,CPE1_RS00135,CPE1_0028,-,-,-,"DNA gyrase/topoisomerase IV, subunit A",protein-coding,-,-,-,"DNA gyrase/topoisomerase IV, subunit A",20200803,-
+1234367,56760396,CPE1_RS00140,CPE1_RS00140,CPE1_0029,-,-,-,DNA topoisomerase IV subunit B,protein-coding,-,-,-,DNA topoisomerase IV subunit B,20200803,-
+1234367,56760397,hemA,CPE1_RS00145,CPE1_0030,-,-,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20200803,-
+1234367,56760398,CPE1_RS00150,CPE1_RS00150,CPE1_0031,-,-,-,type III secretion system chaperone,protein-coding,-,-,-,type III secretion system chaperone,20200805,-
+1234367,56760399,sctD,CPE1_RS00155,CPE1_0032,-,-,-,type III secretion system inner membrane ring subunit SctD,protein-coding,-,-,-,type III secretion system inner membrane ring subunit SctD,20210118,-
+1234367,56760400,CPE1_RS00160,CPE1_RS00160,CPE1_0033,-,-,-,DUF5398 family protein,protein-coding,-,-,-,DUF5398 family protein,20200805,-
+1234367,56760401,cdsF,CPE1_RS00165,CPE1_0034,-,-,-,type III secretion system protein CdsF,protein-coding,-,-,-,type III secretion system protein CdsF,20210118,-
+1234367,56760402,CPE1_RS00170,CPE1_RS00170,CPE1_0035,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760403,CPE1_RS00175,CPE1_RS00175,CPE1_0036,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760404,sctN,CPE1_RS00180,CPE1_0037,-,-,-,type III secretion system ATPase SctN,protein-coding,-,-,-,type III secretion system ATPase SctN,20210118,-
+1234367,56760405,CPE1_RS00185,CPE1_RS00185,CPE1_0038,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760406,CPE1_RS00190,CPE1_RS00190,CPE1_0039,-,-,-,DUF5421 family protein,protein-coding,-,-,-,DUF5421 family protein,20200802,-
+1234367,56760407,sctQ,CPE1_RS00195,CPE1_0040,-,-,-,type III secretion system cytoplasmic ring protein SctQ,protein-coding,-,-,-,type III secretion system cytoplasmic ring protein SctQ,20210118,-
+1234367,56760408,CPE1_RS00200,CPE1_RS00200,CPE1_0041,-,-,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20200803,-
+1234367,56760409,CPE1_RS00205,CPE1_RS00205,CPE1_0042,-,-,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20200803,-
+1234367,56760410,CPE1_RS00210,CPE1_RS00210,CPE1_0043,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760411,CPE1_RS00215,CPE1_RS00215,CPE1_0044,-,-,-,protein arginine kinase,protein-coding,-,-,-,protein arginine kinase,20200803,-
+1234367,56760412,CPE1_RS00220,CPE1_RS00220,CPE1_0045,-,-,-,UvrB/UvrC motif-containing protein,protein-coding,-,-,-,UvrB/UvrC motif-containing protein,20200803,-
+1234367,56760413,CPE1_RS00225,CPE1_RS00225,CPE1_0046,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760414,CPE1_RS00230,CPE1_RS00230,CPE1_0047,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760415,frr,CPE1_RS00235,CPE1_0048,-,-,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20200805,-
+1234367,56760416,CPE1_RS00240,CPE1_RS00240,CPE1_0049,-,-,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20200803,-
+1234367,56760417,CPE1_RS00245,CPE1_RS00245,CPE1_0050,-,-,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20200805,-
+1234367,56760418,rpsB,CPE1_RS00250,CPE1_0051,-,-,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20200803,-
+1234367,56760419,CPE1_RS00255,CPE1_RS00255,CPE1_0052,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760420,CPE1_RS00260,CPE1_RS00260,CPE1_0053,-,-,-,major outer membrane protein,protein-coding,-,-,-,major outer membrane protein,20200805,-
+1234367,56760421,CPE1_RS00270,CPE1_RS00270,CPE1_0054,-,-,-,penicillin-binding protein,protein-coding,-,-,-,penicillin-binding protein,20200803,-
+1234367,56760422,CPE1_RS00275,CPE1_RS00275,CPE1_0055,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20200805,-
+1234367,56760423,sufB,CPE1_RS00280,CPE1_0056,-,-,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20200805,-
+1234367,56760424,sufC,CPE1_RS00285,CPE1_0057,-,-,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20200805,-
+1234367,56760425,CPE1_RS00290,CPE1_RS00290,CPE1_0058,-,-,-,SufD family Fe-S cluster assembly protein,protein-coding,-,-,-,SufD family Fe-S cluster assembly protein,20200805,-
+1234367,56760426,CPE1_RS00295,CPE1_RS00295,CPE1_0059,-,-,-,SufS family cysteine desulfurase,protein-coding,-,-,-,SufS family cysteine desulfurase,20210118,-
+1234367,56760427,CPE1_RS00300,CPE1_RS00300,CPE1_0060,-,-,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20210424,-
+1234367,56760428,CPE1_RS00305,CPE1_RS00305,CPE1_0061,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760429,CPE1_RS00310,CPE1_RS00310,CPE1_0062,-,-,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20200805,-
+1234367,56760430,CPE1_RS00315,CPE1_RS00315,CPE1_0063,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200803,-
+1234367,56760431,CPE1_RS00320,CPE1_RS00320,CPE1_0064,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1234367,56760432,CPE1_RS00325,CPE1_RS00325,CPE1_0065,-,-,-,TIGR00153 family protein,protein-coding,-,-,-,TIGR00153 family protein,20200803,-
+1234367,56760433,CPE1_RS00330,CPE1_RS00330,CPE1_0066,-,-,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20200803,-
+1234367,56760434,CPE1_RS00335,CPE1_RS00335,CPE1_0067,-,-,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20200803,-
+1234367,56760435,CPE1_RS00340,CPE1_RS00340,CPE1_0068,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760436,CPE1_RS00345,CPE1_RS00345,CPE1_0069,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760437,CPE1_RS00350,CPE1_RS00350,CPE1_0070,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760438,CPE1_RS00355,CPE1_RS00355,CPE1_0071,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,RsmB/NOP family class I SAM-dependent RNA methyltransferase,20200803,-
+1234367,56760439,CPE1_RS00360,CPE1_RS00360,CPE1_0072,-,-,-,serine hydrolase,protein-coding,-,-,-,serine hydrolase,20210320,-
+1234367,56760440,CPE1_RS00365,CPE1_RS00365,CPE1_0073,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760441,CPE1_RS00370,CPE1_RS00370,CPE1_0074,-,-,-,anti-sigma regulatory factor,protein-coding,-,-,-,anti-sigma regulatory factor,20200805,-
+1234367,56760442,CPE1_RS00375,CPE1_RS00375,CPE1_0075,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760443,CPE1_RS00380,CPE1_RS00380,CPE1_0076,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20200803,-
+1234367,56760444,CPE1_RS00385,CPE1_RS00385,CPE1_0077,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760445,dnaE,CPE1_RS00390,CPE1_0078,-,-,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20200803,-
+1234367,56760446,CPE1_RS00395,CPE1_RS00395,CPE1_0079,-,-,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20200803,-
+1234367,56760447,CPE1_RS00400,CPE1_RS00400,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760448,CPE1_RS00405,CPE1_RS00405,CPE1_0080,-,-,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20200805,-
+1234367,56760449,aspS,CPE1_RS00410,CPE1_0081,-,-,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20200805,-
+1234367,56760450,CPE1_RS00415,CPE1_RS00415,CPE1_0082,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20200805,-
+1234367,56760451,CPE1_RS00420,CPE1_RS00420,CPE1_0083,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20200805,-
+1234367,56760452,trxA,CPE1_RS00425,CPE1_0084,-,-,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20200803,-
+1234367,56760453,CPE1_RS00430,CPE1_RS00430,CPE1_0085,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760454,CPE1_RS00435,CPE1_RS00435,CPE1_0086,-,-,-,DUF2709 domain-containing protein,protein-coding,-,-,-,DUF2709 domain-containing protein,20200805,-
+1234367,56760455,tsaE,CPE1_RS00440,CPE1_0087,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20200803,-
+1234367,56760456,CPE1_RS00445,CPE1_RS00445,CPE1_0088,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20210118,-
+1234367,56760457,CPE1_RS00450,CPE1_RS00450,CPE1_0089,-,-,-,acyl-CoA thioesterase,protein-coding,-,-,-,acyl-CoA thioesterase,20200805,-
+1234367,56760458,lnt,CPE1_RS00455,CPE1_0090,-,-,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20210424,-
+1234367,56760459,CPE1_RS00460,CPE1_RS00460,CPE1_0091,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20200803,-
+1234367,56760460,fabZ,CPE1_RS00465,CPE1_0092,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20200805,-
+1234367,56760461,lpxA,CPE1_RS00470,CPE1_0093,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20200805,-
+1234367,56760462,CPE1_RS00475,CPE1_RS00475,CPE1_0094,-,-,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20200805,-
+1234367,56760463,CPE1_RS00480,CPE1_RS00480,CPE1_0095,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760464,rplC,CPE1_RS00485,CPE1_0096,-,-,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20200803,-
+1234367,56760465,rplD,CPE1_RS00490,CPE1_0097,-,-,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20200805,-
+1234367,56760466,CPE1_RS00495,CPE1_RS00495,CPE1_0098,-,-,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20200805,-
+1234367,56760467,rplB,CPE1_RS00500,CPE1_0099,-,-,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20200805,-
+1234367,56760468,rpsS,CPE1_RS00505,CPE1_0100,-,-,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20200805,-
+1234367,56760469,rplV,CPE1_RS00510,CPE1_0101,-,-,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20200805,-
+1234367,56760470,rpsC,CPE1_RS00515,CPE1_0102,-,-,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20200805,-
+1234367,56760471,rplP,CPE1_RS00520,CPE1_0103,-,-,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20200805,-
+1234367,56760472,rpmC,CPE1_RS00525,CPE1_0104,-,-,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20200805,-
+1234367,56760473,rpsQ,CPE1_RS00530,CPE1_0105,-,-,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20200803,-
+1234367,56760474,rplN,CPE1_RS00535,CPE1_0106,-,-,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20200805,-
+1234367,56760475,CPE1_RS00540,CPE1_RS00540,CPE1_0107,-,-,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20200805,-
+1234367,56760476,rplE,CPE1_RS00545,CPE1_0108,-,-,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20200805,-
+1234367,56760477,rpsH,CPE1_RS00550,CPE1_0109,-,-,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20200805,-
+1234367,56760478,rplF,CPE1_RS00555,CPE1_0110,-,-,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20200803,-
+1234367,56760479,CPE1_RS00560,CPE1_RS00560,CPE1_0111,-,-,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20200805,-
+1234367,56760480,rpsE,CPE1_RS00565,CPE1_0112,-,-,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20200805,-
+1234367,56760481,CPE1_RS00570,CPE1_RS00570,CPE1_0113,-,-,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20200805,-
+1234367,56760482,secY,CPE1_RS00575,CPE1_0114,-,-,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20200803,-
+1234367,56760483,rpsM,CPE1_RS00580,CPE1_0115,-,-,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20200805,-
+1234367,56760484,rpsK,CPE1_RS00585,CPE1_0116,-,-,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20200805,-
+1234367,56760485,CPE1_RS00590,CPE1_RS00590,CPE1_0117,-,-,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20200805,-
+1234367,56760486,rplQ,CPE1_RS00595,CPE1_0118,-,-,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20200805,-
+1234367,56760487,gap,CPE1_RS00600,CPE1_0119,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20200803,-
+1234367,56760488,CPE1_RS00605,CPE1_RS00605,CPE1_0120,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760489,CPE1_RS00610,CPE1_RS00610,CPE1_0121,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760490,CPE1_RS00615,CPE1_RS00615,CPE1_0122,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760491,ruvC,CPE1_RS00620,CPE1_0123,-,-,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20200803,-
+1234367,56760492,ruvA,CPE1_RS00625,CPE1_0124,-,-,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20200803,-
+1234367,56760493,ndk,CPE1_RS00630,CPE1_0125,-,-,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20200805,-
+1234367,56760494,CPE1_RS00635,CPE1_RS00635,CPE1_0126,-,-,-,lipoate--protein ligase family protein,protein-coding,-,-,-,lipoate--protein ligase family protein,20200803,-
+1234367,56760495,mnmG,CPE1_RS00640,CPE1_0127,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20200805,-
+1234367,56760496,dnaB,CPE1_RS00645,CPE1_0128,-,-,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20200803,-
+1234367,56760497,CPE1_RS00650,CPE1_RS00650,CPE1_0129,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760498,CPE1_RS00655,CPE1_RS00655,CPE1_0130,-,-,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20200805,-
+1234367,56760499,npt2,CPE1_RS00660,CPE1_0131,-,-,-,NTP/H+ exchange transporter Npt2,protein-coding,-,-,-,NTP/H+ exchange transporter Npt2,20200803,-
+1234367,56760500,CPE1_RS00665,CPE1_RS00665,CPE1_0132,-,-,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20210424,-
+1234367,56760501,polA,CPE1_RS00670,CPE1_0133,-,-,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20200803,-
+1234367,56760502,CPE1_RS00675,CPE1_RS00675,CPE1_0134,-,-,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20200803,-
+1234367,56760503,rho,CPE1_RS00680,CPE1_0135,-,-,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20200805,-
+1234367,56760504,CPE1_RS00685,CPE1_RS00685,CPE1_0136,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760505,CPE1_RS00690,CPE1_RS00690,CPE1_0137,-,-,-,orotate phosphoribosyltransferase,protein-coding,-,-,-,orotate phosphoribosyltransferase,20200803,-
+1234367,56760506,CPE1_RS00695,CPE1_RS00695,CPE1_0138,-,-,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,glucose-1-phosphate adenylyltransferase,20200805,-
+1234367,56760507,CPE1_RS00700,CPE1_RS00700,CPE1_0139,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20200805,-
+1234367,56760508,rsmD,CPE1_RS00705,CPE1_0140,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20200805,-
+1234367,56760509,CPE1_RS00710,CPE1_RS00710,CPE1_0141,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20200805,-
+1234367,56760510,CPE1_RS00715,CPE1_RS00715,CPE1_0142,-,-,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20200803,-
+1234367,56760511,CPE1_RS00720,CPE1_RS00720,CPE1_0143,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760512,CPE1_RS00725,CPE1_RS00725,CPE1_0144,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760513,CPE1_RS00730,CPE1_RS00730,CPE1_0145,-,-,-,peptide ABC transporter,protein-coding,-,-,-,peptide ABC transporter,20200803,-
+1234367,56760514,CPE1_RS00735,CPE1_RS00735,CPE1_0146,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1234367,56760515,CPE1_RS00740,CPE1_RS00740,CPE1_0147,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1234367,56760516,CPE1_RS00745,CPE1_RS00745,CPE1_0148,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20200803,-
+1234367,56760517,CPE1_RS00750,CPE1_RS00750,CPE1_0149,-,-,-,toxin-antitoxin system YwqK family antitoxin,protein-coding,-,-,-,toxin-antitoxin system YwqK family antitoxin,20200803,-
+1234367,56760518,pheT,CPE1_RS00755,CPE1_0150,-,-,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20200803,-
+1234367,56760519,CPE1_RS00760,CPE1_RS00760,CPE1_0151,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20200803,-
+1234367,56760520,CPE1_RS00765,CPE1_RS00765,CPE1_0153,-,-,-,RMD1 family protein,protein-coding,-,-,-,RMD1 family protein,20200803,-
+1234367,56760521,CPE1_RS00770,CPE1_RS00770,CPE1_0154,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760522,CPE1_RS00775,CPE1_RS00775,CPE1_0155,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760523,recO,CPE1_RS00780,CPE1_0156,-,-,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20200805,-
+1234367,56760524,CPE1_RS00785,CPE1_RS00785,CPE1_0157,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20200803,-
+1234367,56760525,CPE1_RS00790,CPE1_RS00790,CPE1_0158,-,-,-,sigma 54 modulation/S30EA ribosomal C-terminal domain-containing protein,protein-coding,-,-,-,sigma 54 modulation/S30EA ribosomal C-terminal domain-containing protein,20200803,-
+1234367,56760526,CPE1_RS00795,CPE1_RS00795,CPE1_0159,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760527,CPE1_RS00800,CPE1_RS00800,CPE1_0160,-,-,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20200803,-
+1234367,56760528,CPE1_RS00805,CPE1_RS00805,CPE1_0161,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1234367,56760529,CPE1_RS00810,CPE1_RS00810,CPE1_0162,-,-,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20200803,-
+1234367,56760530,CPE1_RS00815,CPE1_RS00815,CPE1_0163,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760531,CPE1_RS00820,CPE1_RS00820,CPE1_0164,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760532,CPE1_RS00825,CPE1_RS00825,CPE1_0165,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760533,CPE1_RS00830,CPE1_RS00830,CPE1_0166,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200803,-
+1234367,56760534,truA,CPE1_RS00835,CPE1_0167,-,-,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20200803,-
+1234367,56760535,CPE1_RS00840,CPE1_RS00840,CPE1_0168,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20200803,-
+1234367,56760536,lpxG,CPE1_RS00845,CPE1_0169,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",protein-coding,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",20210119,-
+1234367,56760537,CPE1_RS00850,CPE1_RS00850,CPE1_0170,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760538,prfB,CPE1_RS00855,CPE1_0171,-,-,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20210118,-
+1234367,56760539,CPE1_RS00860,CPE1_RS00860,CPE1_0172,-,-,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20200803,-
+1234367,56760540,CPE1_RS00865,CPE1_RS00865,CPE1_0173,-,-,-,SprT family zinc-dependent metalloprotease,protein-coding,-,-,-,SprT family zinc-dependent metalloprotease,20200829,-
+1234367,56760541,CPE1_RS00870,CPE1_RS00870,CPE1_0174,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20200803,-
+1234367,56760542,tarP,CPE1_RS00875,CPE1_0175,-,-,-,type III secretion system actin-recruiting effector Tarp,protein-coding,-,-,-,type III secretion system actin-recruiting effector Tarp,20200803,-
+1234367,56760543,murA,CPE1_RS00880,CPE1_0176,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20200803,-
+1234367,56760544,argS,CPE1_RS00885,CPE1_0177,-,-,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20200803,-
+1234367,56760545,CPE1_RS00890,CPE1_RS00890,CPE1_0178,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200803,-
+1234367,56760546,CPE1_RS00895,CPE1_RS00895,CPE1_0179,-,-,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20200805,-
+1234367,56760547,CPE1_RS00900,CPE1_RS00900,CPE1_0180,-,-,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20200803,-
+1234367,56760548,CPE1_RS00905,CPE1_RS00905,CPE1_0181,-,-,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20200805,-
+1234367,56760549,CPE1_RS00910,CPE1_RS00910,CPE1_0182,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760550,CPE1_RS00915,CPE1_RS00915,CPE1_0183,-,-,-,protein translocase subunit SecDF,protein-coding,-,-,-,protein translocase subunit SecDF,20200803,-
+1234367,56760551,recJ,CPE1_RS00920,CPE1_0184,-,-,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20200803,-
+1234367,56760552,CPE1_RS00925,CPE1_RS00925,CPE1_0185,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760553,CPE1_RS00930,CPE1_RS00930,CPE1_0186,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760554,CPE1_RS00935,CPE1_RS00935,CPE1_0187,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20200919,-
+1234367,56760555,CPE1_RS00940,CPE1_RS00940,CPE1_0188,-,-,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20200803,-
+1234367,56760556,CPE1_RS00945,CPE1_RS00945,CPE1_0189,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760557,CPE1_RS00950,CPE1_RS00950,CPE1_0190,-,-,-,small cysteine-rich outer membrane protein,protein-coding,-,-,-,small cysteine-rich outer membrane protein,20200802,-
+1234367,56760558,omcB,CPE1_RS00955,CPE1_0191,-,-,-,outer membrane complex protein OmcB,protein-coding,-,-,-,outer membrane complex protein OmcB,20210118,-
+1234367,56760559,CPE1_RS00960,CPE1_RS00960,CPE1_0192,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,56760560,CPE1_RS00965,CPE1_RS00965,CPE1_0193,-,-,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20200803,-
+1234367,56760561,CPE1_RS00970,CPE1_RS00970,CPE1_0194,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760562,CPE1_RS00975,CPE1_RS00975,CPE1_0195,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760563,CPE1_RS00980,CPE1_RS00980,CPE1_0196,-,-,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20200805,-
+1234367,56760564,rpsG,CPE1_RS00985,CPE1_0197,-,-,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20200805,-
+1234367,56760565,fusA,CPE1_RS00990,CPE1_0198,-,-,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20200805,-
+1234367,56760566,rpsJ,CPE1_RS00995,CPE1_0199,-,-,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20200805,-
+1234367,56760567,CPE1_RS01000,CPE1_RS01000,CPE1_0200,-,-,-,sulfite reductase flavoprotein subunit alpha,protein-coding,-,-,-,sulfite reductase flavoprotein subunit alpha,20200803,-
+1234367,56760568,CPE1_RS01005,CPE1_RS01005,CPE1_0201,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20200803,-
+1234367,56760569,CPE1_RS01010,CPE1_RS01010,CPE1_0202,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760570,rplU,CPE1_RS01015,CPE1_0203,-,-,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20200805,-
+1234367,56760571,rpmA,CPE1_RS01020,CPE1_0204,-,-,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20200805,-
+1234367,56760572,obgE,CPE1_RS01025,CPE1_0205,-,-,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20200803,-
+1234367,56760573,CPE1_RS01030,CPE1_RS01030,CPE1_0207,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20200803,-
+1234367,56760574,CPE1_RS01035,CPE1_RS01035,CPE1_0208,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20200919,-
+1234367,56760575,CPE1_RS01040,CPE1_RS01040,CPE1_0209,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760576,CPE1_RS01045,CPE1_RS01045,CPE1_0210,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760577,CPE1_RS01050,CPE1_RS01050,CPE1_0211,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760578,CPE1_RS01055,CPE1_RS01055,CPE1_0212,-,-,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20200805,-
+1234367,56760579,CPE1_RS01060,CPE1_RS01060,CPE1_0213,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760580,CPE1_RS01065,CPE1_RS01065,CPE1_0214,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20200803,-
+1234367,56760581,CPE1_RS01070,CPE1_RS01070,CPE1_0215,-,-,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20200803,-
+1234367,56760582,CPE1_RS01075,CPE1_RS01075,CPE1_0216,-,-,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20200805,-
+1234367,56760583,nrdR,CPE1_RS01080,CPE1_0217,-,-,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20200805,-
+1234367,56760584,CPE1_RS01085,CPE1_RS01085,CPE1_0218,-,-,-,riboflavin synthase,protein-coding,-,-,-,riboflavin synthase,20200805,-
+1234367,56760585,CPE1_RS01090,CPE1_RS01090,CPE1_0219,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200805,-
+1234367,56760586,CPE1_RS01095,CPE1_RS01095,CPE1_0220,-,-,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20200803,-
+1234367,56760587,lpxK,CPE1_RS01100,CPE1_0221,-,-,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20200803,-
+1234367,56760588,CPE1_RS01105,CPE1_RS01105,CPE1_0222,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200805,-
+1234367,56760589,CPE1_RS01110,CPE1_RS01110,CPE1_0223,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200803,-
+1234367,56760590,CPE1_RS01115,CPE1_RS01115,CPE1_0224,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20200805,-
+1234367,56760591,CPE1_RS01120,CPE1_RS01120,CPE1_0225,-,-,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20200805,-
+1234367,56760592,CPE1_RS01130,CPE1_RS01130,CPE1_0227,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760593,CPE1_RS01135,CPE1_RS01135,CPE1_0228,-,-,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20210123,-
+1234367,56760594,CPE1_RS01140,CPE1_RS01140,CPE1_0229,-,-,-,glycine hydroxymethyltransferase,protein-coding,-,-,-,glycine hydroxymethyltransferase,20200803,-
+1234367,56760595,CPE1_RS01145,CPE1_RS01145,CPE1_0230,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200805,-
+1234367,56760596,CPE1_RS01150,CPE1_RS01150,CPE1_0231,-,-,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20200803,-
+1234367,56760597,CPE1_RS01155,CPE1_RS01155,CPE1_0232,-,-,-,UPF0158 family protein,protein-coding,-,-,-,UPF0158 family protein,20200805,-
+1234367,56760598,ubiE,CPE1_RS01165,CPE1_0234,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20200803,-
+1234367,56760599,CPE1_RS01170,CPE1_RS01170,CPE1_0235,-,-,-,menaquinone biosynthesis protein,protein-coding,-,-,-,menaquinone biosynthesis protein,20200803,-
+1234367,56760600,CPE1_RS01175,CPE1_RS01175,CPE1_0236,-,-,-,CofH family radical SAM protein,protein-coding,-,-,-,CofH family radical SAM protein,20200803,-
+1234367,56760601,CPE1_RS01180,CPE1_RS01180,CPE1_0237,-,-,-,DUF3604 domain-containing protein,protein-coding,-,-,-,DUF3604 domain-containing protein,20200803,-
+1234367,56760602,CPE1_RS01185,CPE1_RS01185,CPE1_0238,-,-,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20210118,-
+1234367,56760603,CPE1_RS01190,CPE1_RS01190,CPE1_0239,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200803,-
+1234367,56760604,ybeY,CPE1_RS01195,CPE1_0240,-,-,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20200803,-
+1234367,56760605,CPE1_RS01200,CPE1_RS01200,CPE1_0243,-,-,-,DUF502 domain-containing protein,protein-coding,-,-,-,DUF502 domain-containing protein,20200803,-
+1234367,56760606,CPE1_RS01205,CPE1_RS01205,CPE1_0244,-,-,-,DNA-3-methyladenine glycosylase,protein-coding,-,-,-,DNA-3-methyladenine glycosylase,20200805,-
+1234367,56760607,CPE1_RS01210,CPE1_RS01210,CPE1_0245,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,protein-coding,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,20200805,-
+1234367,56760608,dnaK,CPE1_RS01215,CPE1_0246,-,-,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20200803,-
+1234367,56760609,CPE1_RS01220,CPE1_RS01220,CPE1_0247,-,-,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20200803,-
+1234367,56760610,hrcA,CPE1_RS01225,CPE1_0248,-,-,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20210424,-
+1234367,56760611,CPE1_RS01230,CPE1_RS01230,CPE1_0249,-,-,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20200805,-
+1234367,56760612,CPE1_RS01235,CPE1_RS01235,CPE1_0250,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760613,CPE1_RS01245,CPE1_RS01245,CPE1_0251,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760614,CPE1_RS01250,CPE1_RS01250,CPE1_0252,-,-,-,YggU family protein,protein-coding,-,-,-,YggU family protein,20200805,-
+1234367,56760615,CPE1_RS01255,CPE1_RS01255,CPE1_0253,-,-,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20210424,-
+1234367,56760616,CPE1_RS01260,CPE1_RS01260,CPE1_0254,-,-,-,LL-diaminopimelate aminotransferase,protein-coding,-,-,-,LL-diaminopimelate aminotransferase,20200803,-
+1234367,56760617,CPE1_RS01270,CPE1_RS01270,CPE1_0255,-,-,-,DUF1207 domain-containing protein,protein-coding,-,-,-,DUF1207 domain-containing protein,20200805,-
+1234367,56760618,CPE1_RS01275,CPE1_RS01275,CPE1_0256,-,-,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20200803,-
+1234367,56760619,CPE1_RS01280,CPE1_RS01280,CPE1_0257,-,-,-,MYG1 family protein,protein-coding,-,-,-,MYG1 family protein,20200805,-
+1234367,56760620,CPE1_RS01285,CPE1_RS01285,CPE1_0258,-,-,-,histidine triad nucleotide-binding protein,protein-coding,-,-,-,histidine triad nucleotide-binding protein,20200805,-
+1234367,56760621,CPE1_RS01290,CPE1_RS01290,CPE1_0259,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20200803,-
+1234367,56760622,CPE1_RS01295,CPE1_RS01295,CPE1_0260,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760623,CPE1_RS01300,CPE1_RS01300,CPE1_0261,-,-,-,sodium:solute symporter family protein,protein-coding,-,-,-,sodium:solute symporter family protein,20200803,-
+1234367,56760624,CPE1_RS01305,CPE1_RS01305,CPE1_0262,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760625,aroF,CPE1_RS01310,CPE1_0263,-,-,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20210123,-
+1234367,56760626,CPE1_RS01315,CPE1_RS01315,CPE1_0264,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760627,CPE1_RS01320,CPE1_RS01320,CPE1_0265,-,-,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20200805,-
+1234367,56760628,CPE1_RS01325,CPE1_RS01325,CPE1_0266,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760629,CPE1_RS01330,CPE1_RS01330,CPE1_0267,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200805,-
+1234367,56760630,hflX,CPE1_RS01335,CPE1_0268,-,-,-,GTPase HflX,protein-coding,-,-,-,GTPase HflX,20200919,-
+1234367,56760631,mtaB,CPE1_RS01340,CPE1_0269,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,protein-coding,-,-,-,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB,20210119,-
+1234367,56760632,CPE1_RS01345,CPE1_RS01345,CPE1_0270,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760633,glgB,CPE1_RS01350,CPE1_0271,-,-,-,"1,4-alpha-glucan branching protein GlgB",protein-coding,-,-,-,"1,4-alpha-glucan branching protein GlgB",20200803,-
+1234367,56760634,CPE1_RS01355,CPE1_RS01355,CPE1_0272,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760635,CPE1_RS01360,CPE1_RS01360,CPE1_0273,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760636,CPE1_RS01365,CPE1_RS01365,CPE1_0274,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760637,CPE1_RS01370,CPE1_RS01370,CPE1_0275,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210129,-
+1234367,56760638,CPE1_RS01375,CPE1_RS01375,CPE1_0276,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210129,-
+1234367,56760639,CPE1_RS01380,CPE1_RS01380,CPE1_0277,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760640,CPE1_RS01385,CPE1_RS01385,CPE1_0278,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760641,CPE1_RS01390,CPE1_RS01390,CPE1_0279,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760642,CPE1_RS01400,CPE1_RS01400,CPE1_0280,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760643,CPE1_RS01405,CPE1_RS01405,CPE1_0281,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200829,-
+1234367,56760644,CPE1_RS01410,CPE1_RS01410,CPE1_0282,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760645,CPE1_RS01420,CPE1_RS01420,CPE1_0284,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760646,CPE1_RS01425,CPE1_RS01425,CPE1_0285,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56760647,CPE1_RS01430,CPE1_RS01430,CPE1_0286,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20210123,-
+1234367,56760648,CPE1_RS01435,CPE1_RS01435,CPE1_0287,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760649,CPE1_RS01440,CPE1_RS01440,CPE1_0288,-,-,-,DUF378 domain-containing protein,protein-coding,-,-,-,DUF378 domain-containing protein,20200805,-
+1234367,56760650,gatC,CPE1_RS01445,CPE1_0289,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20200803,-
+1234367,56760651,gatA,CPE1_RS01450,CPE1_0290,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20200803,-
+1234367,56760652,gatB,CPE1_RS01455,CPE1_0291,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20200803,-
+1234367,56760653,CPE1_RS01465,CPE1_RS01465,CPE1_0293,-,-,-,DUF5422 family protein,protein-coding,-,-,-,DUF5422 family protein,20200802,-
+1234367,56760654,CPE1_RS01470,CPE1_RS01470,CPE1_0294,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760655,CPE1_RS01475,CPE1_RS01475,CPE1_0295,-,-,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20200803,-
+1234367,56760656,CPE1_RS01480,CPE1_RS01480,CPE1_0296,-,-,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20200803,-
+1234367,56760657,CPE1_RS01485,CPE1_RS01485,CPE1_0297,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760658,CPE1_RS01490,CPE1_RS01490,CPE1_0298,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20200805,-
+1234367,56760659,CPE1_RS01500,CPE1_RS01500,CPE1_0300,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760660,CPE1_RS01505,CPE1_RS01505,CPE1_0301,-,-,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20210424,-
+1234367,56760661,CPE1_RS01510,CPE1_RS01510,CPE1_0302,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760662,rsmA,CPE1_RS01515,CPE1_0303,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20200805,-
+1234367,56760663,CPE1_RS01520,CPE1_RS01520,CPE1_0304,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20200803,-
+1234367,56760664,CPE1_RS01525,CPE1_RS01525,CPE1_0305,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760665,CPE1_RS01530,CPE1_RS01530,CPE1_0306,-,-,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20200803,-
+1234367,56760666,CPE1_RS01535,CPE1_RS01535,CPE1_0307,-,-,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20200803,-
+1234367,56760667,CPE1_RS01540,CPE1_RS01540,CPE1_0308,-,-,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20200803,-
+1234367,56760668,secG,CPE1_RS01545,CPE1_0309,-,-,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20200803,-
+1234367,56760669,CPE1_RS01550,CPE1_RS01550,CPE1_0310,-,-,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20200805,-
+1234367,56760670,CPE1_RS01555,CPE1_RS01555,CPE1_0311,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760671,CPE1_RS01560,CPE1_RS01560,CPE1_0312,-,-,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20200805,-
+1234367,56760672,maf,CPE1_RS01565,CPE1_0313,-,-,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20200803,-
+1234367,56760673,CPE1_RS01570,CPE1_RS01570,CPE1_0314,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20200803,-
+1234367,56760674,CPE1_RS01575,CPE1_RS01575,CPE1_0315,-,-,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20200805,-
+1234367,56760675,CPE1_RS01580,CPE1_RS01580,CPE1_0316,-,-,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20200803,-
+1234367,56760676,lon,CPE1_RS01590,CPE1_0318,-,-,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20200803,-
+1234367,56760677,CPE1_RS01595,CPE1_RS01595,CPE1_0319,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,protein-coding,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,20200803,-
+1234367,56760678,CPE1_RS01600,CPE1_RS01600,CPE1_0320,-,-,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20200805,-
+1234367,56760679,dnaJ,CPE1_RS01605,CPE1_0321,-,-,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20200803,-
+1234367,56760680,CPE1_RS01610,CPE1_RS01610,CPE1_0322,-,-,-,2-oxoisovalerate dehydrogenase E1 component alpha and subunit beta,protein-coding,-,-,-,2-oxoisovalerate dehydrogenase E1 component alpha and subunit beta,20200803,-
+1234367,56760681,CPE1_RS01615,CPE1_RS01615,CPE1_0323,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760682,CPE1_RS01620,CPE1_RS01620,CPE1_0324,-,-,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20200803,-
+1234367,56760683,CPE1_RS01625,CPE1_RS01625,CPE1_0325,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760684,CPE1_RS01630,CPE1_RS01630,CPE1_0326,-,-,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20200803,-
+1234367,56760685,ptsP,CPE1_RS01635,CPE1_0327,-,-,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20200803,-
+1234367,56760686,CPE1_RS01640,CPE1_RS01640,CPE1_0328,-,-,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20200805,-
+1234367,56760687,dnaX,CPE1_RS01645,CPE1_0329,-,-,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20200803,-
+1234367,56760688,CPE1_RS01650,CPE1_RS01650,CPE1_0330,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760689,CPE1_RS01655,CPE1_RS01655,CPE1_0331,-,-,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20200803,-
+1234367,56760690,radA,CPE1_RS01660,CPE1_0332,-,-,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20200803,-
+1234367,56760691,CPE1_RS01665,CPE1_RS01665,CPE1_0333,-,-,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20200803,-
+1234367,56760692,CPE1_RS01670,CPE1_RS01670,CPE1_0334,-,-,-,DUF5070 domain-containing protein,protein-coding,-,-,-,DUF5070 domain-containing protein,20200803,-
+1234367,56760693,CPE1_RS01675,CPE1_RS01675,CPE1_0335,-,-,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20200803,-
+1234367,56760694,CPE1_RS01680,CPE1_RS01680,CPE1_0336,-,-,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20200803,-
+1234367,56760695,CPE1_RS01685,CPE1_RS01685,CPE1_0337,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20200803,-
+1234367,56760696,dut,CPE1_RS01690,CPE1_0338,-,-,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20200805,-
+1234367,56760697,CPE1_RS01695,CPE1_RS01695,CPE1_0339,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200805,-
+1234367,56760698,CPE1_RS01700,CPE1_RS01700,CPE1_0340,-,-,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20200805,-
+1234367,56760699,CPE1_RS01705,CPE1_RS01705,CPE1_0341,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,56760700,CPE1_RS01710,CPE1_RS01710,CPE1_0342,-,-,-,sulfite exporter TauE/SafE family protein,protein-coding,-,-,-,sulfite exporter TauE/SafE family protein,20200803,-
+1234367,56760701,CPE1_RS01720,CPE1_RS01720,CPE1_0344,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,56760702,mnmA,CPE1_RS01725,CPE1_0345,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20200803,-
+1234367,56760703,CPE1_RS01730,CPE1_RS01730,CPE1_0346,-,-,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20200803,-
+1234367,56760704,CPE1_RS01735,CPE1_RS01735,CPE1_0347,-,-,-,lipoate--protein ligase,protein-coding,-,-,-,lipoate--protein ligase,20200805,-
+1234367,56760705,CPE1_RS01740,CPE1_RS01740,CPE1_0348,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20200803,-
+1234367,56760706,CPE1_RS01745,CPE1_RS01745,CPE1_0349,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760707,CPE1_RS01750,CPE1_RS01750,CPE1_0350,-,-,-,glycine cleavage protein H-like protein,protein-coding,-,-,-,glycine cleavage protein H-like protein,20200805,-
+1234367,56760708,CPE1_RS01755,CPE1_RS01755,CPE1_0351,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,56760709,CPE1_RS01760,CPE1_RS01760,CPE1_0352,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760710,nqrE,CPE1_RS01765,CPE1_0353,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,20200803,-
+1234367,56760711,nqrD,CPE1_RS01770,CPE1_0354,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,20200803,-
+1234367,56760712,nqrC,CPE1_RS01775,CPE1_0355,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit C,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit C,20200803,-
+1234367,56760713,CPE1_RS01780,CPE1_RS01780,CPE1_0356,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,protein-coding,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,20200803,-
+1234367,56760714,CPE1_RS01790,CPE1_RS01790,CPE1_0358,-,-,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20200805,-
+1234367,56760715,dnaA,CPE1_RS01795,CPE1_0359,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200803,-
+1234367,56760716,CPE1_RS01800,CPE1_RS01800,CPE1_0360,-,-,-,type III secretion chaperone,protein-coding,-,-,-,type III secretion chaperone,20200805,-
+1234367,56760717,CPE1_RS01805,CPE1_RS01805,CPE1_0361,-,-,-,DUF5399 family protein,protein-coding,-,-,-,DUF5399 family protein,20200802,-
+1234367,56760718,rsmH,CPE1_RS01810,CPE1_0362,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20200805,-
+1234367,56760719,CPE1_RS01815,CPE1_RS01815,CPE1_0363,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760720,CPE1_RS01820,CPE1_RS01820,CPE1_0364,-,-,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20200803,-
+1234367,56760721,CPE1_RS01825,CPE1_RS01825,CPE1_0365,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20200803,-
+1234367,56760722,CPE1_RS01830,CPE1_RS01830,CPE1_0366,-,-,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20200803,-
+1234367,56760723,CPE1_RS01835,CPE1_RS01835,CPE1_0367,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760724,CPE1_RS01840,CPE1_RS01840,CPE1_0368,-,-,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20200805,-
+1234367,56760725,CPE1_RS01845,CPE1_RS01845,CPE1_0369,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760726,CPE1_RS01850,CPE1_RS01850,CPE1_0370,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20200803,-
+1234367,56760727,CPE1_RS01855,CPE1_RS01855,CPE1_0371,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200803,-
+1234367,56760728,CPE1_RS01860,CPE1_RS01860,CPE1_0372,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760729,CPE1_RS01865,CPE1_RS01865,CPE1_0373,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760730,CPE1_RS01870,CPE1_RS01870,CPE1_0374,-,-,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20210118,-
+1234367,56760731,CPE1_RS01875,CPE1_RS01875,CPE1_0375,-,-,-,YbjN domain-containing protein,protein-coding,-,-,-,YbjN domain-containing protein,20200803,-
+1234367,56760732,CPE1_RS01880,CPE1_RS01880,CPE1_0376,-,-,-,FliO/MopB family protein,protein-coding,-,-,-,FliO/MopB family protein,20200803,-
+1234367,56760733,CPE1_RS01885,CPE1_RS01885,CPE1_0377,-,-,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20200803,-
+1234367,56760734,CPE1_RS01890,CPE1_RS01890,CPE1_0378,-,-,-,enoyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,enoyl-[acyl-carrier-protein] reductase,20200803,-
+1234367,56760735,CPE1_RS01895,CPE1_RS01895,CPE1_0379,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760736,CPE1_RS01900,CPE1_RS01900,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760737,CPE1_RS01905,CPE1_RS01905,CPE1_0380,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760738,CPE1_RS01910,CPE1_RS01910,CPE1_0381,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760739,CPE1_RS01915,CPE1_RS01915,CPE1_0382,-,-,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20200805,-
+1234367,56760740,mutY,CPE1_RS01920,CPE1_0383,-,-,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20200803,-
+1234367,56760741,CPE1_RS01925,CPE1_RS01925,CPE1_0384,-,-,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20200803,-
+1234367,56760742,CPE1_RS01930,CPE1_RS01930,CPE1_0385,-,-,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20200803,-
+1234367,56760743,CPE1_RS01935,CPE1_RS01935,CPE1_0386,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760744,CPE1_RS01940,CPE1_RS01940,CPE1_0387,-,-,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210118,-
+1234367,56760745,CPE1_RS01945,CPE1_RS01945,CPE1_0388,-,-,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20200803,-
+1234367,56760746,CPE1_RS01950,CPE1_RS01950,CPE1_0389,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200803,-
+1234367,56760747,CPE1_RS01955,CPE1_RS01955,CPE1_0390,-,-,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20200803,-
+1234367,56760748,CPE1_RS01960,CPE1_RS01960,CPE1_0391,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760749,CPE1_RS01965,CPE1_RS01965,CPE1_0392,-,-,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20200805,-
+1234367,56760750,ruvB,CPE1_RS01970,CPE1_0393,-,-,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20200805,-
+1234367,56760751,CPE1_RS01975,CPE1_RS01975,CPE1_0394,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760752,CPE1_RS01980,CPE1_RS01980,CPE1_0395,-,-,-,glycogen-debranching protein,protein-coding,-,-,-,glycogen-debranching protein,20200803,-
+1234367,56760753,CPE1_RS01985,CPE1_RS01985,CPE1_0396,-,-,-,type III secretion chaperone Slc1,protein-coding,-,-,-,type III secretion chaperone Slc1,20200805,-
+1234367,56760754,CPE1_RS01990,CPE1_RS01990,CPE1_0397,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20210119,-
+1234367,56760755,CPE1_RS01995,CPE1_RS01995,CPE1_0398,-,-,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20200803,-
+1234367,56760756,CPE1_RS02000,CPE1_RS02000,CPE1_0399,-,-,-,histone H1-like repetitive region-containing protein,protein-coding,-,-,-,histone H1-like repetitive region-containing protein,20200803,-
+1234367,56760757,CPE1_RS02005,CPE1_RS02005,CPE1_0400,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760758,CPE1_RS02010,CPE1_RS02010,CPE1_0401,-,-,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20200805,-
+1234367,56760759,hemW,CPE1_RS02015,CPE1_0402,-,-,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20200803,-
+1234367,56760760,CPE1_RS02020,CPE1_RS02020,CPE1_0403,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760761,CPE1_RS02025,CPE1_RS02025,CPE1_0404,-,-,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20200803,-
+1234367,56760762,CPE1_RS02030,CPE1_RS02030,CPE1_0405,-,-,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20200805,-
+1234367,56760763,pgeF,CPE1_RS02035,CPE1_0406,-,-,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20200805,-
+1234367,56760764,CPE1_RS02040,CPE1_RS02040,CPE1_0407,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,20200803,-
+1234367,56760765,CPE1_RS02045,CPE1_RS02045,CPE1_0408,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760766,CPE1_RS02055,CPE1_RS02055,CPE1_0410,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760767,CPE1_RS02060,CPE1_RS02060,CPE1_0411,-,-,-,(2Fe-2S)-binding protein,protein-coding,-,-,-,(2Fe-2S)-binding protein,20200803,-
+1234367,56760768,CPE1_RS02065,CPE1_RS02065,CPE1_0412,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760769,CPE1_RS02070,CPE1_RS02070,CPE1_0413,-,-,-,FHIPEP family type III secretion protein,protein-coding,-,-,-,FHIPEP family type III secretion protein,20210320,-
+1234367,56760770,CPE1_RS02075,CPE1_RS02075,CPE1_0414,-,-,-,FliA/WhiG family RNA polymerase sigma factor,protein-coding,-,-,-,FliA/WhiG family RNA polymerase sigma factor,20200803,-
+1234367,56760771,CPE1_RS02080,CPE1_RS02080,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760772,CPE1_RS02085,CPE1_RS02085,CPE1_0415,-,-,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20200803,-
+1234367,56760773,gnd,CPE1_RS02090,CPE1_0416,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20200803,-
+1234367,56760774,lepA,CPE1_RS02095,CPE1_0417,-,-,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20200803,-
+1234367,56760775,CPE1_RS02100,CPE1_RS02100,CPE1_0418,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20210129,-
+1234367,56760776,CPE1_RS02105,CPE1_RS02105,CPE1_0419,-,-,-,DUF1389 domain-containing protein,protein-coding,-,-,-,DUF1389 domain-containing protein,20200803,-
+1234367,56760777,npt1,CPE1_RS02110,CPE1_0420,-,-,-,NTP/NDP exchange transporter Npt1,protein-coding,-,-,-,NTP/NDP exchange transporter Npt1,20200803,-
+1234367,56760778,CPE1_RS02115,CPE1_RS02115,CPE1_0421,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760779,CPE1_RS02120,CPE1_RS02120,CPE1_0422,-,-,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20200919,-
+1234367,56760780,CPE1_RS02125,CPE1_RS02125,CPE1_0423,-,-,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20200803,-
+1234367,56760781,CPE1_RS02130,CPE1_RS02130,CPE1_0424,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200803,-
+1234367,56760782,CPE1_RS02135,CPE1_RS02135,CPE1_0425,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200803,-
+1234367,56760783,CPE1_RS02140,CPE1_RS02140,CPE1_0426,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20200803,-
+1234367,56760784,CPE1_RS02145,CPE1_RS02145,CPE1_0427,-,-,-,site-2 protease family protein,protein-coding,-,-,-,site-2 protease family protein,20200805,-
+1234367,56760785,CPE1_RS02150,CPE1_RS02150,CPE1_0428,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200803,-
+1234367,56760786,recF,CPE1_RS02155,CPE1_0429,-,-,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20200803,-
+1234367,56760787,CPE1_RS02160,CPE1_RS02160,CPE1_0430,-,-,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20200805,-
+1234367,56760788,smpB,CPE1_RS02165,CPE1_0431,-,-,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20200805,-
+1234367,56760789,CPE1_RS02170,CPE1_RS02170,CPE1_0432,-,-,-,FAD:protein FMN transferase,protein-coding,-,-,-,FAD:protein FMN transferase,20210118,-
+1234367,56760790,folD,CPE1_RS02175,CPE1_0433,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20200803,-
+1234367,56760791,ltuB,CPE1_RS02185,CPE1_0435,-,-,-,late transcription unit protein LtuB,protein-coding,-,-,-,late transcription unit protein LtuB,20200802,-
+1234367,56760792,CPE1_RS02190,CPE1_RS02190,CPE1_0436,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760793,CPE1_RS02195,CPE1_RS02195,CPE1_0437,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760794,CPE1_RS02200,CPE1_RS02200,CPE1_0438,-,-,-,phospholipase D family protein,protein-coding,-,-,-,phospholipase D family protein,20200803,-
+1234367,56760795,CPE1_RS02205,CPE1_RS02205,CPE1_0439,-,-,-,menaquinone biosynthesis decarboxylase,protein-coding,-,-,-,menaquinone biosynthesis decarboxylase,20200803,-
+1234367,56760796,CPE1_RS02210,CPE1_RS02210,CPE1_0440,-,-,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20200803,-
+1234367,56760797,CPE1_RS02215,CPE1_RS02215,CPE1_0441,-,-,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20200803,-
+1234367,56760798,CPE1_RS02220,CPE1_RS02220,CPE1_0442,-,-,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20200805,-
+1234367,56760799,sctW,CPE1_RS02225,CPE1_0443,-,-,-,type III secretion system gatekeeper subunit SctW,protein-coding,-,-,-,type III secretion system gatekeeper subunit SctW,20210118,-
+1234367,56760800,sctV,CPE1_RS02230,CPE1_0444,-,-,-,type III secretion system export apparatus subunit SctV,protein-coding,-,-,-,type III secretion system export apparatus subunit SctV,20210118,-
+1234367,56760801,sctU,CPE1_RS02235,CPE1_0445,-,-,-,type III secretion system export apparatus subunit SctU,protein-coding,-,-,-,type III secretion system export apparatus subunit SctU,20210118,-
+1234367,56760802,ychF,CPE1_RS02240,CPE1_0446,-,-,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20200805,-
+1234367,56760803,CPE1_RS02245,CPE1_RS02245,CPE1_0447,-,-,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20200803,-
+1234367,56760804,truB,CPE1_RS02250,CPE1_0448,-,-,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20200805,-
+1234367,56760805,rbfA,CPE1_RS02255,CPE1_0449,-,-,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20200805,-
+1234367,56760806,infB,CPE1_RS02260,CPE1_0450,-,-,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20200803,-
+1234367,56760807,nusA,CPE1_RS02265,CPE1_0451,-,-,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20200805,-
+1234367,56760808,rpsA,CPE1_RS02270,CPE1_0452,-,-,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20200805,-
+1234367,56760809,trxB,CPE1_RS02275,CPE1_0453,-,-,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20200803,-
+1234367,56760810,CPE1_RS02280,CPE1_RS02280,CPE1_0454,-,-,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20200805,-
+1234367,56760811,CPE1_RS02285,CPE1_RS02285,CPE1_0455,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760812,CPE1_RS02290,CPE1_RS02290,CPE1_0456,-,-,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20200803,-
+1234367,56760813,yidC,CPE1_RS02295,CPE1_0457,-,-,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20200803,-
+1234367,56760814,dnaA,CPE1_RS02300,CPE1_0458,-,-,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20200805,-
+1234367,56760815,CPE1_RS02310,CPE1_RS02310,CPE1_0460,-,-,-,glycogen/starch/alpha-glucan phosphorylase,protein-coding,-,-,-,glycogen/starch/alpha-glucan phosphorylase,20200803,-
+1234367,56760816,CPE1_RS02315,CPE1_RS02315,CPE1_0461,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20200803,-
+1234367,56760817,CPE1_RS02320,CPE1_RS02320,CPE1_0462,-,-,-,alpha-ketoacid dehydrogenase subunit beta,protein-coding,-,-,-,alpha-ketoacid dehydrogenase subunit beta,20200805,-
+1234367,56760818,CPE1_RS02325,CPE1_RS02325,CPE1_0463,-,-,-,pyruvate dehydrogenase E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase E1 component subunit alpha,20200803,-
+1234367,56760819,CPE1_RS02330,CPE1_RS02330,CPE1_0464,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760820,lpxD,CPE1_RS02335,CPE1_0465,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20200803,-
+1234367,56760821,CPE1_RS02340,CPE1_RS02340,CPE1_0466,-,-,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20200805,-
+1234367,56760822,bamA,CPE1_RS02345,CPE1_0467,-,-,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20200803,-
+1234367,56760823,recR,CPE1_RS02350,CPE1_0468,-,-,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20200803,-
+1234367,56760824,CPE1_RS02355,CPE1_RS02355,CPE1_0469,-,-,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20200803,-
+1234367,56760825,fabD,CPE1_RS02360,CPE1_0470,-,-,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20200803,-
+1234367,56760826,fabG,CPE1_RS02365,CPE1_0471,-,-,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20200803,-
+1234367,56760827,acpP,CPE1_RS02370,CPE1_0472,-,-,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20200805,-
+1234367,56760828,CPE1_RS02375,CPE1_RS02375,CPE1_0473,-,-,-,cyclic nucleotide-binding domain-containing protein,protein-coding,-,-,-,cyclic nucleotide-binding domain-containing protein,20200805,-
+1234367,56760829,CPE1_RS02380,CPE1_RS02380,CPE1_0474,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760830,incB,CPE1_RS02390,CPE1_0476,-,-,-,inclusion membrane protein IncB,protein-coding,-,-,-,inclusion membrane protein IncB,20210118,-
+1234367,56760831,CPE1_RS02395,CPE1_RS02395,CPE1_0477,-,-,-,sodium-dependent transporter,protein-coding,-,-,-,sodium-dependent transporter,20200803,-
+1234367,56760832,CPE1_RS02400,CPE1_RS02400,CPE1_0478,-,-,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20200803,-
+1234367,56760833,CPE1_RS02405,CPE1_RS02405,CPE1_0479,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760834,CPE1_RS02410,CPE1_RS02410,CPE1_0480,-,-,-,sel1 repeat family protein,protein-coding,-,-,-,sel1 repeat family protein,20200803,-
+1234367,56760835,mgtE,CPE1_RS02415,CPE1_0481,-,-,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20200803,-
+1234367,56760836,CPE1_RS02420,CPE1_RS02420,CPE1_0482,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760837,CPE1_RS02425,CPE1_RS02425,CPE1_0483,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200803,-
+1234367,56760838,CPE1_RS02430,CPE1_RS02430,CPE1_0484,-,-,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20200805,-
+1234367,56760839,CPE1_RS02435,CPE1_RS02435,CPE1_0485,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760840,CPE1_RS02440,CPE1_RS02440,CPE1_0486,-,-,-,methionine ABC transporter ATP-binding protein,protein-coding,-,-,-,methionine ABC transporter ATP-binding protein,20210123,-
+1234367,56760841,CPE1_RS02445,CPE1_RS02445,CPE1_0487,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1234367,56760842,CPE1_RS02450,CPE1_RS02450,CPE1_0488,-,-,-,"lipoprotein, NPLA family",protein-coding,-,-,-,"lipoprotein, NPLA family",20200803,-
+1234367,56760843,CPE1_RS02460,CPE1_RS02460,CPE1_0490,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760844,CPE1_RS02465,CPE1_RS02465,CPE1_0491,-,-,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20200803,-
+1234367,56760845,gyrB,CPE1_RS02470,CPE1_0492,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20200803,-
+1234367,56760846,gyrA,CPE1_RS02475,CPE1_0493,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20200803,-
+1234367,56760847,CPE1_RS02480,CPE1_RS02480,CPE1_0494,-,-,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20200805,-
+1234367,56760848,CPE1_RS02485,CPE1_RS02485,CPE1_0495,-,-,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20200805,-
+1234367,56760849,CPE1_RS02490,CPE1_RS02490,CPE1_0496,-,-,-,hydrolase,protein-coding,-,-,-,hydrolase,20200805,-
+1234367,56760850,CPE1_RS02495,CPE1_RS02495,CPE1_0497,-,-,-,L-threonylcarbamoyladenylate synthase,protein-coding,-,-,-,L-threonylcarbamoyladenylate synthase,20200803,-
+1234367,56760851,CPE1_RS02500,CPE1_RS02500,CPE1_0498,-,-,-,membrane dipeptidase,protein-coding,-,-,-,membrane dipeptidase,20200803,-
+1234367,56760852,CPE1_RS02505,CPE1_RS02505,CPE1_0499,-,-,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20200802,-
+1234367,56760853,CPE1_RS02510,CPE1_RS02510,CPE1_0500,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760854,CPE1_RS02515,CPE1_RS02515,CPE1_0501,-,-,-,UbiA family prenyltransferase,protein-coding,-,-,-,UbiA family prenyltransferase,20210118,-
+1234367,56760855,CPE1_RS02520,CPE1_RS02520,CPE1_0502,-,-,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20200803,-
+1234367,56760856,CPE1_RS02525,CPE1_RS02525,CPE1_0503,-,-,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20200805,-
+1234367,56760857,CPE1_RS02530,CPE1_RS02530,CPE1_0504,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760858,CPE1_RS02535,CPE1_RS02535,CPE1_0505,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760859,surE,CPE1_RS02540,CPE1_0506,-,-,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20200805,-
+1234367,56760860,CPE1_RS02545,CPE1_RS02545,CPE1_0507,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,protein-coding,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,20200805,-
+1234367,56760861,CPE1_RS02550,CPE1_RS02550,CPE1_0508,-,-,-,SEC-C domain-containing protein,protein-coding,-,-,-,SEC-C domain-containing protein,20200803,-
+1234367,56760862,CPE1_RS02555,CPE1_RS02555,CPE1_0509,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760863,CPE1_RS02560,CPE1_RS02560,CPE1_0510,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760864,CPE1_RS02565,CPE1_RS02565,CPE1_0511,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760865,CPE1_RS02570,CPE1_RS02570,CPE1_0512,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760866,CPE1_RS02575,CPE1_RS02575,CPE1_0513,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760867,rimO,CPE1_RS02580,CPE1_0514,-,-,-,30S ribosomal protein S12 methylthiotransferase RimO,protein-coding,-,-,-,30S ribosomal protein S12 methylthiotransferase RimO,20200803,-
+1234367,56760868,rpmG,CPE1_RS02585,CPE1_0515,-,-,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20200805,-
+1234367,56760869,CPE1_RS02590,CPE1_RS02590,CPE1_0516,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200805,-
+1234367,56760870,CPE1_RS02595,CPE1_RS02595,CPE1_0517,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1234367,56760871,rplM,CPE1_RS02600,CPE1_0518,-,-,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20200805,-
+1234367,56760872,rpsI,CPE1_RS02605,CPE1_0519,-,-,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20200803,-
+1234367,56760873,CPE1_RS02610,CPE1_RS02610,CPE1_0520,-,-,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20200919,-
+1234367,56760874,CPE1_RS02615,CPE1_RS02615,CPE1_0521,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200805,-
+1234367,56760875,CPE1_RS02620,CPE1_RS02620,CPE1_0522,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760876,CPE1_RS02625,CPE1_RS02625,CPE1_0523,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760877,CPE1_RS02630,CPE1_RS02630,CPE1_0524,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760878,pgl,CPE1_RS02635,CPE1_0525,-,-,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20200803,-
+1234367,56760879,CPE1_RS02640,CPE1_RS02640,CPE1_0526,-,-,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20200803,-
+1234367,56760880,ruvX,CPE1_RS02645,CPE1_0527,-,-,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20200805,-
+1234367,56760881,CPE1_RS02650,CPE1_RS02650,CPE1_0528,-,-,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20200805,-
+1234367,56760882,kdsB,CPE1_RS02655,CPE1_0529,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20200805,-
+1234367,56760883,CPE1_RS02660,CPE1_RS02660,CPE1_0530,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760884,CPE1_RS02665,CPE1_RS02665,CPE1_0531,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760885,CPE1_RS02670,CPE1_RS02670,CPE1_0532,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760886,CPE1_RS02675,CPE1_RS02675,CPE1_0533,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760887,CPE1_RS02680,CPE1_RS02680,CPE1_0534,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1234367,56760888,CPE1_RS02685,CPE1_RS02685,CPE1_0535,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760889,CPE1_RS02690,CPE1_RS02690,CPE1_0536,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760890,CPE1_RS02695,CPE1_RS02695,CPE1_0537,-,-,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20200803,-
+1234367,56760891,CPE1_RS02700,CPE1_RS02700,CPE1_0538,-,-,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20200803,-
+1234367,56760892,CPE1_RS02705,CPE1_RS02705,CPE1_0539,-,-,-,tRNA-guanosine(34) transglycosylase,protein-coding,-,-,-,tRNA-guanosine(34) transglycosylase,20200805,-
+1234367,56760893,CPE1_RS02710,CPE1_RS02710,CPE1_0540,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760894,CPE1_RS02715,CPE1_RS02715,CPE1_0541,-,-,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20200805,-
+1234367,56760895,CPE1_RS02720,CPE1_RS02720,CPE1_0542,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20200803,-
+1234367,56760896,CPE1_RS02725,CPE1_RS02725,CPE1_0543,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760897,CPE1_RS02730,CPE1_RS02730,CPE1_0544,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760898,CPE1_RS02735,CPE1_RS02735,CPE1_0545,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760899,CPE1_RS02740,CPE1_RS02740,CPE1_0546,-,-,-,IMP dehydrogenase,protein-coding,-,-,-,IMP dehydrogenase,20200803,-
+1234367,56760900,guaA,CPE1_RS02745,CPE1_0547,-,-,-,glutamine-hydrolyzing GMP synthase,protein-coding,-,-,-,glutamine-hydrolyzing GMP synthase,20200803,-
+1234367,56760901,CPE1_RS02750,CPE1_RS02750,CPE1_0548,-,-,-,adenosine-AMP deaminase superfamily,protein-coding,-,-,-,adenosine-AMP deaminase superfamily,20200803,-
+1234367,56760902,CPE1_RS02755,CPE1_RS02755,CPE1_0549,-,-,-,MAC/perforin family protein,protein-coding,-,-,-,MAC/perforin family protein,20200803,-
+1234367,56760903,CPE1_RS02760,CPE1_RS02760,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760904,CPE1_RS02770,CPE1_RS02770,CPE1_0551,-,-,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20210118,-
+1234367,56760905,CPE1_RS02775,CPE1_RS02775,CPE1_0552,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20200803,-
+1234367,56760906,CPE1_RS02790,CPE1_RS02790,CPE1_0554,-,-,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20200803,-
+1234367,56760907,CPE1_RS02795,CPE1_RS02795,CPE1_0555,-,-,-,phospholipase D family protein,protein-coding,-,-,-,phospholipase D family protein,20200803,-
+1234367,56760908,CPE1_RS02800,CPE1_RS02800,CPE1_0556,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760909,CPE1_RS02805,CPE1_RS02805,CPE1_0557,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760910,CPE1_RS02810,CPE1_RS02810,CPE1_0558,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20210123,-
+1234367,56760911,CPE1_RS02815,CPE1_RS02815,CPE1_0559,-,-,-,DUF648 domain-containing protein,protein-coding,-,-,-,DUF648 domain-containing protein,20200803,-
+1234367,56760912,accC,CPE1_RS02820,CPE1_0560,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20200803,-
+1234367,56760913,accB,CPE1_RS02825,CPE1_0561,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20200803,-
+1234367,56760914,CPE1_RS02830,CPE1_RS02830,CPE1_0562,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+1234367,56760915,rpe,CPE1_RS02835,CPE1_0563,-,-,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20200803,-
+1234367,56760916,CPE1_RS02840,CPE1_RS02840,CPE1_0564,-,-,-,inclusion membrane protein A,protein-coding,-,-,-,inclusion membrane protein A,20200803,-
+1234367,56760917,CPE1_RS02845,CPE1_RS02845,CPE1_0565,-,-,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20200803,-
+1234367,56760918,CPE1_RS02850,CPE1_RS02850,CPE1_0566,-,-,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20200803,-
+1234367,56760919,CPE1_RS02855,CPE1_RS02855,CPE1_0567,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760920,CPE1_RS02860,CPE1_RS02860,CPE1_0568,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760921,CPE1_RS02865,CPE1_RS02865,CPE1_0569,-,-,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20200805,-
+1234367,56760922,CPE1_RS02870,CPE1_RS02870,CPE1_0570,-,-,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20200803,-
+1234367,56760923,CPE1_RS02875,CPE1_RS02875,CPE1_0571,-,-,-,arginine repressor,protein-coding,-,-,-,arginine repressor,20200803,-
+1234367,56760924,tsaD,CPE1_RS02880,CPE1_0572,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20200803,-
+1234367,56760925,CPE1_RS02885,CPE1_RS02885,CPE1_0573,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210427,-
+1234367,56760926,CPE1_RS02890,CPE1_RS02890,CPE1_0574,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20200803,-
+1234367,56760927,CPE1_RS02895,CPE1_RS02895,CPE1_0575,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20200805,-
+1234367,56760928,CPE1_RS02900,CPE1_RS02900,CPE1_0576,-,-,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20210424,-
+1234367,56760929,CPE1_RS02905,CPE1_RS02905,CPE1_0577,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20210118,-
+1234367,56760930,CPE1_RS02910,CPE1_RS02910,CPE1_0578,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1234367,56760931,CPE1_RS02915,CPE1_RS02915,CPE1_0579,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1234367,56760932,CPE1_RS02920,CPE1_RS02920,CPE1_0580,-,-,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20200805,-
+1234367,56760933,CPE1_RS02925,CPE1_RS02925,CPE1_0581,-,-,-,DUF1186 domain-containing protein,protein-coding,-,-,-,DUF1186 domain-containing protein,20200805,-
+1234367,56760934,CPE1_RS02930,CPE1_RS02930,CPE1_0582,-,-,-,anion permease,protein-coding,-,-,-,anion permease,20200803,-
+1234367,56760935,CPE1_RS02935,CPE1_RS02935,CPE1_0583,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20200803,-
+1234367,56760936,CPE1_RS02940,CPE1_RS02940,CPE1_0584,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20210119,-
+1234367,56760937,CPE1_RS02945,CPE1_RS02945,CPE1_0585,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20200803,-
+1234367,56760938,CPE1_RS02950,CPE1_RS02950,CPE1_0586,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760939,CPE1_RS02955,CPE1_RS02955,CPE1_0587,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760940,waaA,CPE1_RS02960,CPE1_0588,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20210118,-
+1234367,56760941,CPE1_RS02965,CPE1_RS02965,CPE1_0589,-,-,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20200803,-
+1234367,56760942,CPE1_RS02970,CPE1_RS02970,CPE1_0590,-,-,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20200803,-
+1234367,56760943,CPE1_RS02975,CPE1_RS02975,CPE1_0591,-,-,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20200805,-
+1234367,56760944,CPE1_RS02980,CPE1_RS02980,CPE1_0592,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56760945,ligA,CPE1_RS02985,CPE1_0593,-,-,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20200803,-
+1234367,56760946,CPE1_RS02990,CPE1_RS02990,CPE1_0594,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20200919,-
+1234367,56760947,CPE1_RS02995,CPE1_RS02995,CPE1_0595,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760948,CPE1_RS03000,CPE1_RS03000,CPE1_0596,-,-,-,tetratricopeptide repeat domain-containing protein,protein-coding,-,-,-,tetratricopeptide repeat domain-containing protein,20200803,-
+1234367,56760949,CPE1_RS03005,CPE1_RS03005,CPE1_0597,-,-,-,aminopeptidase,protein-coding,-,-,-,aminopeptidase,20200805,-
+1234367,56760950,CPE1_RS03010,CPE1_RS03010,CPE1_0598,-,-,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20200919,-
+1234367,56760951,CPE1_RS03015,CPE1_RS03015,CPE1_0599,-,-,-,MCE family protein,protein-coding,-,-,-,MCE family protein,20200919,-
+1234367,56760952,CPE1_RS03020,CPE1_RS03020,CPE1_0600,-,-,-,ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ATP-binding cassette domain-containing protein,20200805,-
+1234367,56760953,CPE1_RS03025,CPE1_RS03025,CPE1_0601,-,-,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20200803,-
+1234367,56760954,hemL,CPE1_RS03030,CPE1_0602,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",protein-coding,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",20200919,-
+1234367,56760955,CPE1_RS03035,CPE1_RS03035,CPE1_0603,-,-,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20200805,-
+1234367,56760956,CPE1_RS03040,CPE1_RS03040,CPE1_0604,-,-,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20200803,-
+1234367,56760957,rpiA,CPE1_RS03045,CPE1_0605,-,-,-,ribose 5-phosphate isomerase A,protein-coding,-,-,-,ribose 5-phosphate isomerase A,20200803,-
+1234367,56760958,CPE1_RS03050,CPE1_RS03050,CPE1_0606,-,-,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20200803,-
+1234367,56760959,pepF,CPE1_RS03055,CPE1_0607,-,-,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20200803,-
+1234367,56760960,CPE1_RS03060,CPE1_RS03060,CPE1_0608,-,-,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20200805,-
+1234367,56760961,groL,CPE1_RS03065,CPE1_0609,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20200805,-
+1234367,56760962,CPE1_RS03070,CPE1_RS03070,CPE1_0610,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760963,CPE1_RS03075,CPE1_RS03075,CPE1_0611,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56760964,CPE1_RS03080,CPE1_RS03080,CPE1_0612,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760965,CPE1_RS03085,CPE1_RS03085,CPE1_0613,-,-,-,biotin--protein ligase,protein-coding,-,-,-,biotin--protein ligase,20200803,-
+1234367,56760966,CPE1_RS03090,CPE1_RS03090,CPE1_0614,-,-,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20200803,-
+1234367,56760967,CPE1_RS03095,CPE1_RS03095,CPE1_0615,-,-,-,ATP-dependent RecD-like DNA helicase,protein-coding,-,-,-,ATP-dependent RecD-like DNA helicase,20200803,-
+1234367,56760968,CPE1_RS03100,CPE1_RS03100,CPE1_0616,-,-,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20200829,-
+1234367,56760969,CPE1_RS03105,CPE1_RS03105,CPE1_0617,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760970,gmk,CPE1_RS03110,CPE1_0618,-,-,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20200803,-
+1234367,56760971,CPE1_RS03115,CPE1_RS03115,CPE1_0619,-,-,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20200829,-
+1234367,56760972,rplS,CPE1_RS03120,CPE1_0620,-,-,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20200803,-
+1234367,56760973,trmD,CPE1_RS03125,CPE1_0621,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20200803,-
+1234367,56760974,CPE1_RS03130,CPE1_RS03130,CPE1_0622,-,-,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20200805,-
+1234367,56760975,ffh,CPE1_RS03135,CPE1_0623,-,-,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20200803,-
+1234367,56760976,prmC,CPE1_RS03140,CPE1_0624,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20210424,-
+1234367,56760977,prfA,CPE1_RS03145,CPE1_0625,-,-,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20200805,-
+1234367,56760978,CPE1_RS03150,CPE1_RS03150,CPE1_0626,-,-,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20210118,-
+1234367,56760979,CPE1_RS03155,CPE1_RS03155,CPE1_0627,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760980,lepB,CPE1_RS03160,CPE1_0628,-,-,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20200803,-
+1234367,56760981,CPE1_RS03165,CPE1_RS03165,CPE1_0629,-,-,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20210424,-
+1234367,56760982,CPE1_RS03170,CPE1_RS03170,CPE1_0630,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760983,CPE1_RS03175,CPE1_RS03175,CPE1_0631,-,-,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20200803,-
+1234367,56760984,CPE1_RS03180,CPE1_RS03180,CPE1_0632,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760985,CPE1_RS03185,CPE1_RS03185,CPE1_0633,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56760986,cydB,CPE1_RS03190,CPE1_0634,-,-,-,cytochrome d ubiquinol oxidase subunit II,protein-coding,-,-,-,cytochrome d ubiquinol oxidase subunit II,20200803,-
+1234367,56760987,CPE1_RS03195,CPE1_RS03195,CPE1_0635,-,-,-,cytochrome ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome ubiquinol oxidase subunit I,20200805,-
+1234367,56760988,CPE1_RS03200,CPE1_RS03200,CPE1_0636,-,-,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20200805,-
+1234367,56760989,CPE1_RS03205,CPE1_RS03205,CPE1_0637,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760990,CPE1_RS03210,CPE1_RS03210,CPE1_0638,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760991,CPE1_RS03215,CPE1_RS03215,CPE1_0639,-,-,-,lipid A biosynthesis lauroyl acyltransferase,protein-coding,-,-,-,lipid A biosynthesis lauroyl acyltransferase,20200803,-
+1234367,56760992,pyk,CPE1_RS03220,CPE1_0640,-,-,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20200805,-
+1234367,56760993,uvrA,CPE1_RS03225,CPE1_0641,-,-,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20200919,-
+1234367,56760994,pknD,CPE1_RS03230,CPE1_0642,-,-,-,serine/threonine-protein kinase PknD,protein-coding,-,-,-,serine/threonine-protein kinase PknD,20200803,-
+1234367,56760995,CPE1_RS03235,CPE1_RS03235,CPE1_0643,-,-,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20200803,-
+1234367,56760996,CPE1_RS03240,CPE1_RS03240,CPE1_0644,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56760997,CPE1_RS03245,CPE1_RS03245,CPE1_0645,-,-,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20200805,-
+1234367,56760998,CPE1_RS03250,CPE1_RS03250,CPE1_0646,-,-,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20200803,-
+1234367,56760999,CPE1_RS03255,CPE1_RS03255,CPE1_0647,-,-,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20200805,-
+1234367,56761000,CPE1_RS03260,CPE1_RS03260,CPE1_0648,-,-,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20200803,-
+1234367,56761001,CPE1_RS03265,CPE1_RS03265,CPE1_0649,-,-,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20200803,-
+1234367,56761002,CPE1_RS03270,CPE1_RS03270,CPE1_0650,-,-,-,DUF2764 family protein,protein-coding,-,-,-,DUF2764 family protein,20200803,-
+1234367,56761003,CPE1_RS03275,CPE1_RS03275,CPE1_0651,-,-,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20200803,-
+1234367,56761004,CPE1_RS03280,CPE1_RS03280,CPE1_0652,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761005,CPE1_RS03285,CPE1_RS03285,CPE1_0653,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761006,tal,CPE1_RS03290,CPE1_0654,-,-,-,transaldolase,protein-coding,-,-,-,transaldolase,20200803,-
+1234367,56761007,rpoC,CPE1_RS03295,CPE1_0655,-,-,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20200803,-
+1234367,56761008,rpoB,CPE1_RS03300,CPE1_0656,-,-,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20200805,-
+1234367,56761009,rplL,CPE1_RS03305,CPE1_0657,-,-,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20200805,-
+1234367,56761010,CPE1_RS03310,CPE1_RS03310,CPE1_0658,-,-,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20200805,-
+1234367,56761011,CPE1_RS03315,CPE1_RS03315,CPE1_0659,-,-,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20200803,-
+1234367,56761012,rplK,CPE1_RS03320,CPE1_0660,-,-,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20200805,-
+1234367,56761013,nusG,CPE1_RS03325,CPE1_0661,-,-,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20200805,-
+1234367,56761014,secE,CPE1_RS03330,CPE1_0662,-,-,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20200805,-
+1234367,56761015,CPE1_RS03335,CPE1_RS03335,CPE1_0663,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761016,tuf,CPE1_RS03340,CPE1_0664,-,-,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20200805,-
+1234367,56761017,CPE1_RS03345,CPE1_RS03345,CPE1_0665,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761018,infA,CPE1_RS03350,CPE1_0666,-,-,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20200805,-
+1234367,56761019,CPE1_RS03355,CPE1_RS03355,CPE1_0667,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761020,CPE1_RS03360,CPE1_RS03360,CPE1_0668,-,-,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20200803,-
+1234367,56761021,CPE1_RS03365,CPE1_RS03365,CPE1_0669,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761022,CPE1_RS03370,CPE1_RS03370,CPE1_0670,-,-,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20200803,-
+1234367,56761023,kynU,CPE1_RS03375,CPE1_0671,-,-,-,kynureninase,protein-coding,-,-,-,kynureninase,20200803,-
+1234367,56761024,CPE1_RS03380,CPE1_RS03380,CPE1_0672,-,-,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,tryptophan synthase subunit alpha,20200803,-
+1234367,56761025,trpB,CPE1_RS03385,CPE1_0673,-,-,-,tryptophan synthase subunit beta,protein-coding,-,-,-,tryptophan synthase subunit beta,20200803,-
+1234367,56761026,CPE1_RS03390,CPE1_RS03390,CPE1_0674,-,-,-,phosphoribosylanthranilate isomerase,protein-coding,-,-,-,phosphoribosylanthranilate isomerase,20200803,-
+1234367,56761027,CPE1_RS03395,CPE1_RS03395,CPE1_0675,-,-,-,indole-3-glycerol-phosphate synthase,protein-coding,-,-,-,indole-3-glycerol-phosphate synthase,20200803,-
+1234367,56761028,trpD,CPE1_RS03400,CPE1_0676,-,-,-,anthranilate phosphoribosyltransferase,protein-coding,-,-,-,anthranilate phosphoribosyltransferase,20200803,-
+1234367,56761029,trpR,CPE1_RS03405,CPE1_0677,-,-,-,trp operon repressor,protein-coding,-,-,-,trp operon repressor,20200805,-
+1234367,56761030,CPE1_RS03410,CPE1_RS03410,CPE1_0678,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761031,CPE1_RS03415,CPE1_RS03415,CPE1_0679,-,-,-,polymorphic membrane protein,protein-coding,-,-,-,polymorphic membrane protein,20200803,-
+1234367,56761032,CPE1_RS03420,CPE1_RS03420,CPE1_0680,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761033,CPE1_RS03430,CPE1_RS03430,CPE1_0682,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20200803,-
+1234367,56761034,CPE1_RS03435,CPE1_RS03435,CPE1_0683,-,-,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20200805,-
+1234367,56761035,asd,CPE1_RS03440,CPE1_0684,-,-,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20200803,-
+1234367,56761036,CPE1_RS03445,CPE1_RS03445,CPE1_0685,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20200805,-
+1234367,56761037,CPE1_RS03450,CPE1_RS03450,CPE1_0686,-,-,-,SDR family oxidoreductase,protein-coding,-,-,-,SDR family oxidoreductase,20200805,-
+1234367,56761038,bioB,CPE1_RS03455,CPE1_0687,-,-,-,biotin synthase BioB,protein-coding,-,-,-,biotin synthase BioB,20200805,-
+1234367,56761039,CPE1_RS03460,CPE1_RS03460,CPE1_0688,-,-,-,pyridoxal phosphate-dependent aminotransferase family protein,protein-coding,-,-,-,pyridoxal phosphate-dependent aminotransferase family protein,20200803,-
+1234367,56761040,bioD,CPE1_RS03465,CPE1_0689,-,-,-,dethiobiotin synthase,protein-coding,-,-,-,dethiobiotin synthase,20210424,-
+1234367,56761041,bioA,CPE1_RS03470,CPE1_0690,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,protein-coding,-,-,-,adenosylmethionine--8-amino-7-oxononanoate transaminase,20200805,-
+1234367,56761042,CPE1_RS03475,CPE1_RS03475,CPE1_0691,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761043,aroA,CPE1_RS03480,CPE1_0692,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20200803,-
+1234367,56761044,CPE1_RS03485,CPE1_RS03485,CPE1_0693,-,-,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20200803,-
+1234367,56761045,aroC,CPE1_RS03490,CPE1_0694,-,-,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20200803,-
+1234367,56761046,CPE1_RS03495,CPE1_RS03495,CPE1_0695,-,-,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20200803,-
+1234367,56761047,CPE1_RS03500,CPE1_RS03500,CPE1_0696,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,protein-coding,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,20200803,-
+1234367,56761048,CPE1_RS03505,CPE1_RS03505,CPE1_0697,-,-,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20210424,-
+1234367,56761049,CPE1_RS03510,CPE1_RS03510,CPE1_0698,-,-,-,carbohydrate porin,protein-coding,-,-,-,carbohydrate porin,20200803,-
+1234367,56761050,CPE1_RS03515,CPE1_RS03515,CPE1_0699,-,-,-,pyruvoyl-dependent arginine decarboxylase,protein-coding,-,-,-,pyruvoyl-dependent arginine decarboxylase,20200805,-
+1234367,56761051,CPE1_RS03520,CPE1_RS03520,CPE1_0700,-,-,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20200803,-
+1234367,56761052,CPE1_RS03525,CPE1_RS03525,CPE1_0701,-,-,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20200803,-
+1234367,56761053,CPE1_RS03530,CPE1_RS03530,CPE1_0702,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761054,CPE1_RS03535,CPE1_RS03535,CPE1_0703,-,-,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20200803,-
+1234367,56761055,CPE1_RS03540,CPE1_RS03540,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761056,CPE1_RS03550,CPE1_RS03550,CPE1_0704,-,-,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20200803,-
+1234367,56761057,CPE1_RS03555,CPE1_RS03555,CPE1_0705,-,-,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20200803,-
+1234367,56761058,CPE1_RS03560,CPE1_RS03560,CPE1_0706,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761059,CPE1_RS03565,CPE1_RS03565,CPE1_0707,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761060,CPE1_RS03570,CPE1_RS03570,CPE1_0708,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761061,CPE1_RS03575,CPE1_RS03575,CPE1_0709,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20200805,-
+1234367,56761062,CPE1_RS03580,CPE1_RS03580,CPE1_0710,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761063,CPE1_RS03585,CPE1_RS03585,CPE1_0711,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761064,CPE1_RS03590,CPE1_RS03590,CPE1_0712,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200803,-
+1234367,56761065,ispH,CPE1_RS03595,CPE1_0713,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20200805,-
+1234367,56761066,CPE1_RS03600,CPE1_RS03600,CPE1_0714,-,-,-,protease-like activity factor CPAF,protein-coding,-,-,-,protease-like activity factor CPAF,20200803,-
+1234367,56761067,CPE1_RS03605,CPE1_RS03605,CPE1_0715,-,-,-,Na+/H+ antiporter,protein-coding,-,-,-,Na+/H+ antiporter,20200803,-
+1234367,56761068,CPE1_RS03610,CPE1_RS03610,CPE1_0716,-,-,-,solute carrier family 26 protein,protein-coding,-,-,-,solute carrier family 26 protein,20210123,-
+1234367,56761069,fumC,CPE1_RS03615,CPE1_0717,-,-,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20200803,-
+1234367,56761070,CPE1_RS03620,CPE1_RS03620,CPE1_0718,-,-,-,ABC transporter permease/substrate-binding protein,protein-coding,-,-,-,ABC transporter permease/substrate-binding protein,20200803,-
+1234367,56761071,CPE1_RS03625,CPE1_RS03625,CPE1_0719,-,-,-,nucleoside monophosphate kinase,protein-coding,-,-,-,nucleoside monophosphate kinase,20200803,-
+1234367,56761072,CPE1_RS03630,CPE1_RS03630,CPE1_0720,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20200803,-
+1234367,56761073,CPE1_RS03635,CPE1_RS03635,CPE1_0721,-,-,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20200803,-
+1234367,56761074,CPE1_RS03640,CPE1_RS03640,CPE1_0722,-,-,-,methionyl aminopeptidase,protein-coding,-,-,-,methionyl aminopeptidase,20200803,-
+1234367,56761075,CPE1_RS03645,CPE1_RS03645,CPE1_0723,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761076,CPE1_RS03650,CPE1_RS03650,CPE1_0724,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,56761077,CPE1_RS03655,CPE1_RS03655,CPE1_0725,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20200805,-
+1234367,56761078,CPE1_RS03660,CPE1_RS03660,CPE1_0726,-,-,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20200803,-
+1234367,56761079,CPE1_RS03665,CPE1_RS03665,CPE1_0727,-,-,-,CT847 family type III secretion system effector,protein-coding,-,-,-,CT847 family type III secretion system effector,20200919,-
+1234367,56761080,CPE1_RS03670,CPE1_RS03670,CPE1_0728,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761081,CPE1_RS03675,CPE1_RS03675,CPE1_0729,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761082,CPE1_RS03680,CPE1_RS03680,CPE1_0730,-,-,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20210424,-
+1234367,56761083,rpsO,CPE1_RS03685,CPE1_0731,-,-,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20200805,-
+1234367,56761084,pnp,CPE1_RS03690,CPE1_0732,-,-,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20200803,-
+1234367,56761085,ftsH,CPE1_RS03695,CPE1_0733,-,-,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20210118,-
+1234367,56761086,tilS,CPE1_RS03700,CPE1_0734,-,-,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20200803,-
+1234367,56761087,CPE1_RS03705,CPE1_RS03705,CPE1_0735,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20210118,-
+1234367,56761088,CPE1_RS03710,CPE1_RS03710,CPE1_0736,-,-,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20200803,-
+1234367,56761089,CPE1_RS03715,CPE1_RS03715,CPE1_0737,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761090,CPE1_RS03720,CPE1_RS03720,CPE1_0738,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761091,pheS,CPE1_RS03725,CPE1_0739,-,-,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20200803,-
+1234367,56761092,rplT,CPE1_RS03730,CPE1_0740,-,-,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20200805,-
+1234367,56761093,rpmI,CPE1_RS03735,CPE1_0741,-,-,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20200805,-
+1234367,56761094,CPE1_RS03740,CPE1_RS03740,CPE1_0742,-,-,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20200805,-
+1234367,56761095,nusB,CPE1_RS03745,CPE1_0743,-,-,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20210123,-
+1234367,56761096,murB,CPE1_RS03750,CPE1_0744,-,-,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20200803,-
+1234367,56761097,CPE1_RS03755,CPE1_RS03755,CPE1_0745,-,-,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20200803,-
+1234367,56761098,CPE1_RS03760,CPE1_RS03760,CPE1_0746,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761099,CPE1_RS03765,CPE1_RS03765,CPE1_0748,-,-,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20200805,-
+1234367,56761100,CPE1_RS03770,CPE1_RS03770,CPE1_0749,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20200803,-
+1234367,56761101,CPE1_RS03780,CPE1_RS03780,CPE1_0750,-,-,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20200803,-
+1234367,56761102,CPE1_RS03785,CPE1_RS03785,CPE1_0751,-,-,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20210424,-
+1234367,56761103,CPE1_RS03790,CPE1_RS03790,CPE1_0752,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20200803,-
+1234367,56761104,CPE1_RS03795,CPE1_RS03795,CPE1_0753,-,-,-,M20/M25/M40 family metallo-hydrolase,protein-coding,-,-,-,M20/M25/M40 family metallo-hydrolase,20200803,-
+1234367,56761105,CPE1_RS03800,CPE1_RS03800,CPE1_0754,-,-,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20200803,-
+1234367,56761106,sucD,CPE1_RS03805,CPE1_0755,-,-,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20200803,-
+1234367,56761107,sucC,CPE1_RS03810,CPE1_0756,-,-,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20200803,-
+1234367,56761108,ftsY,CPE1_RS03815,CPE1_0757,-,-,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20200803,-
+1234367,56761109,CPE1_RS03820,CPE1_RS03820,CPE1_0758,-,-,-,Bax inhibitor-1 family protein,protein-coding,-,-,-,Bax inhibitor-1 family protein,20200803,-
+1234367,56761110,CPE1_RS03825,CPE1_RS03825,CPE1_0759,-,-,-,aromatic amino acid transporter,protein-coding,-,-,-,aromatic amino acid transporter,20200803,-
+1234367,56761111,glmS,CPE1_RS03830,CPE1_0760,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20200803,-
+1234367,56761112,CPE1_RS03835,CPE1_RS03835,CPE1_0761,-,-,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20200803,-
+1234367,56761113,pcnB,CPE1_RS03840,CPE1_0762,-,-,-,polynucleotide adenylyltransferase PcnB,protein-coding,-,-,-,polynucleotide adenylyltransferase PcnB,20210120,-
+1234367,56761114,lpxB,CPE1_RS03845,CPE1_0763,-,-,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20200803,-
+1234367,56761115,CPE1_RS03850,CPE1_RS03850,CPE1_0764,-,-,-,DUF1548 domain-containing protein,protein-coding,-,-,-,DUF1548 domain-containing protein,20210118,-
+1234367,56761116,CPE1_RS03855,CPE1_RS03855,CPE1_0765,-,-,-,DUF1548 domain-containing protein,protein-coding,-,-,-,DUF1548 domain-containing protein,20200803,-
+1234367,56761117,CPE1_RS03860,CPE1_RS03860,CPE1_0766,-,-,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20200803,-
+1234367,56761118,plsX,CPE1_RS03865,CPE1_0767,-,-,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20200805,-
+1234367,56761119,CPE1_RS03870,CPE1_RS03870,CPE1_0768,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761120,CPE1_RS03875,CPE1_RS03875,CPE1_0769,-,-,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20200803,-
+1234367,56761121,CPE1_RS03880,CPE1_RS03880,CPE1_0770,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200803,-
+1234367,56761122,CPE1_RS03885,CPE1_RS03885,CPE1_0771,-,-,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20210123,-
+1234367,56761123,CPE1_RS03890,CPE1_RS03890,CPE1_0772,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761124,rbp7,CPE1_RS03895,CPE1_0773,-,-,-,reticulate body protein Rbp-7,protein-coding,-,-,-,reticulate body protein Rbp-7,20200802,-
+1234367,56761125,ispE,CPE1_RS03900,CPE1_0774,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20200803,-
+1234367,56761126,CPE1_RS03905,CPE1_RS03905,CPE1_0775,-,-,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20200805,-
+1234367,56761127,CPE1_RS03910,CPE1_RS03910,CPE1_0776,-,-,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20210118,-
+1234367,56761128,CPE1_RS03915,CPE1_RS03915,CPE1_0777,-,-,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20200805,-
+1234367,56761129,CPE1_RS03920,CPE1_RS03920,CPE1_0778,-,-,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20200803,-
+1234367,56761130,CPE1_RS03925,CPE1_RS03925,CPE1_0779,-,-,-,50S ribosomal protein L25,protein-coding,-,-,-,50S ribosomal protein L25,20200803,-
+1234367,56761131,CPE1_RS03930,CPE1_RS03930,CPE1_0780,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761132,glgA,CPE1_RS03935,CPE1_0781,-,-,-,glycogen synthase GlgA,protein-coding,-,-,-,glycogen synthase GlgA,20200805,-
+1234367,56761133,pgsA,CPE1_RS03940,CPE1_0782,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20200803,-
+1234367,56761134,CPE1_RS03945,CPE1_RS03945,CPE1_0783,-,-,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20200803,-
+1234367,56761135,CPE1_RS03950,CPE1_RS03950,CPE1_0784,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761136,CPE1_RS03955,CPE1_RS03955,CPE1_0785,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761137,CPE1_RS03960,CPE1_RS03960,CPE1_0786,-,-,-,DNA primase,protein-coding,-,-,-,DNA primase,20200803,-
+1234367,56761138,mutS,CPE1_RS03965,CPE1_0787,-,-,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20200803,-
+1234367,56761139,uvrC,CPE1_RS03970,CPE1_0788,-,-,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20200803,-
+1234367,56761140,CPE1_RS03975,CPE1_RS03975,CPE1_0789,-,-,-,Asp23/Gls24 family envelope stress response protein,protein-coding,-,-,-,Asp23/Gls24 family envelope stress response protein,20200803,-
+1234367,56761141,CPE1_RS03980,CPE1_RS03980,CPE1_0790,-,-,-,DUF4339 domain-containing protein,protein-coding,-,-,-,DUF4339 domain-containing protein,20200803,-
+1234367,56761142,rpsN,CPE1_RS03985,CPE1_0791,-,-,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20200805,-
+1234367,56761143,rpmJ,CPE1_RS03990,CPE1_0792,-,-,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20200805,-
+1234367,56761144,CPE1_RS03995,CPE1_RS03995,CPE1_0793,-,-,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20200803,-
+1234367,56761145,CPE1_RS04000,CPE1_RS04000,CPE1_0794,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200803,-
+1234367,56761146,CPE1_RS04005,CPE1_RS04005,CPE1_0795,-,-,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20210313,-
+1234367,56761147,lysS,CPE1_RS04010,CPE1_0796,-,-,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20200803,-
+1234367,56761148,CPE1_RS04015,CPE1_RS04015,CPE1_0797,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20200803,-
+1234367,56761149,CPE1_RS04020,CPE1_RS04020,CPE1_0798,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761150,priA,CPE1_RS04025,CPE1_0799,-,-,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20200803,-
+1234367,56761151,CPE1_RS04030,CPE1_RS04030,CPE1_0800,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20200803,-
+1234367,56761152,CPE1_RS04035,CPE1_RS04035,CPE1_0801,-,-,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20210424,-
+1234367,56761153,CPE1_RS04040,CPE1_RS04040,CPE1_0802,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20200803,-
+1234367,56761154,CPE1_RS04045,CPE1_RS04045,CPE1_0803,-,-,-,inositol monophosphatase family protein,protein-coding,-,-,-,inositol monophosphatase family protein,20210118,-
+1234367,56761155,CPE1_RS04050,CPE1_RS04050,CPE1_0804,-,-,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20200805,-
+1234367,56761156,CPE1_RS04055,CPE1_RS04055,CPE1_0805,-,-,-,inorganic pyrophosphatase,protein-coding,-,-,-,inorganic pyrophosphatase,20200805,-
+1234367,56761157,CPE1_RS04060,CPE1_RS04060,CPE1_0806,-,-,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20200803,-
+1234367,56761158,fabF,CPE1_RS04065,CPE1_0807,-,-,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20200805,-
+1234367,56761159,rsfS,CPE1_RS04070,CPE1_0808,-,-,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20200805,-
+1234367,56761160,CPE1_RS04075,CPE1_RS04075,CPE1_0809,-,-,-,haloacid dehalogenase-like hydrolase,protein-coding,-,-,-,haloacid dehalogenase-like hydrolase,20200805,-
+1234367,56761161,CPE1_RS04080,CPE1_RS04080,CPE1_0810,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761162,CPE1_RS04085,CPE1_RS04085,CPE1_0811,-,-,-,dehypoxanthine futalosine cyclase,protein-coding,-,-,-,dehypoxanthine futalosine cyclase,20200805,-
+1234367,56761163,miaA,CPE1_RS04090,CPE1_0812,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20200803,-
+1234367,56761164,CPE1_RS04095,CPE1_RS04095,CPE1_0813,-,-,-,STAS domain-containing protein,protein-coding,-,-,-,STAS domain-containing protein,20200805,-
+1234367,56761165,CPE1_RS04100,CPE1_RS04100,CPE1_0814,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761166,CPE1_RS04105,CPE1_RS04105,CPE1_0815,-,-,-,divalent-cation tolerance protein CutA,protein-coding,-,-,-,divalent-cation tolerance protein CutA,20200805,-
+1234367,56761167,CPE1_RS04110,CPE1_RS04110,CPE1_0816,-,-,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20200803,-
+1234367,56761168,CPE1_RS04115,CPE1_RS04115,CPE1_0817,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,protein-coding,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,20200803,-
+1234367,56761169,murG,CPE1_RS04120,CPE1_0818,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20200803,-
+1234367,56761170,ftsW,CPE1_RS04125,CPE1_0819,-,-,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20200803,-
+1234367,56761171,CPE1_RS04130,CPE1_RS04130,CPE1_0820,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20200805,-
+1234367,56761172,CPE1_RS04135,CPE1_RS04135,CPE1_0821,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20200803,-
+1234367,56761173,mraY,CPE1_RS04140,CPE1_0822,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20200803,-
+1234367,56761174,CPE1_RS04145,CPE1_RS04145,CPE1_0823,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20210118,-
+1234367,56761175,CPE1_RS04150,CPE1_RS04150,CPE1_0824,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761176,CPE1_RS04155,CPE1_RS04155,CPE1_0825,-,-,-,molecular chaperone,protein-coding,-,-,-,molecular chaperone,20200803,-
+1234367,56761177,CPE1_RS04160,CPE1_RS04160,CPE1_0826,-,-,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20200803,-
+1234367,56761178,CPE1_RS04165,CPE1_RS04165,CPE1_0827,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761179,efp,CPE1_RS04170,CPE1_0828,-,-,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20200805,-
+1234367,56761180,CPE1_RS04175,CPE1_RS04175,CPE1_0829,-,-,-,AMP nucleosidase,protein-coding,-,-,-,AMP nucleosidase,20200803,-
+1234367,56761181,CPE1_RS04180,CPE1_RS04180,CPE1_0830,-,-,-,transketolase,protein-coding,-,-,-,transketolase,20200803,-
+1234367,56761182,alaS,CPE1_RS04185,CPE1_0831,-,-,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20200803,-
+1234367,56761183,mfd,CPE1_RS04190,CPE1_0832,-,-,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20210424,-
+1234367,56761184,CPE1_RS04195,CPE1_RS04195,CPE1_0833,-,-,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20200803,-
+1234367,56761185,hemN,CPE1_RS04200,CPE1_0834,-,-,-,oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,oxygen-independent coproporphyrinogen III oxidase,20200803,-
+1234367,56761186,CPE1_RS04205,CPE1_RS04205,CPE1_0835,-,-,-,protoporphyrinogen oxidase,protein-coding,-,-,-,protoporphyrinogen oxidase,20200805,-
+1234367,56761187,CPE1_RS04210,CPE1_RS04210,CPE1_0836,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200919,-
+1234367,56761188,CPE1_RS04215,CPE1_RS04215,CPE1_0837,-,-,-,histone-like protein,protein-coding,-,-,-,histone-like protein,20200805,-
+1234367,56761189,CPE1_RS04220,CPE1_RS04220,CPE1_0838,-,-,-,class I SAM-dependent RNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent RNA methyltransferase,20200803,-
+1234367,56761190,yajC,CPE1_RS04225,CPE1_0839,-,-,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20200803,-
+1234367,56761191,nqrF,CPE1_RS04230,CPE1_0840,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,20200803,-
+1234367,56761192,rrf,CPE1_RS04235,CPE1_0841,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20210118,-
+1234367,56761193,CPE1_RS04240,CPE1_RS04240,CPE1_0842,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20210118,-
+1234367,56761194,CPE1_RS04245,CPE1_RS04245,CPE1_0843,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20210118,-
+1234367,56761195,CPE1_RS04250,CPE1_RS04250,CPE1_0844,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761196,CPE1_RS04255,CPE1_RS04255,CPE1_0845,-,-,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20200803,-
+1234367,56761197,CPE1_RS04260,CPE1_RS04260,CPE1_0846,-,-,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20200805,-
+1234367,56761198,CPE1_RS04265,CPE1_RS04265,CPE1_0847,-,-,-,SET domain-containing protein-lysine N-methyltransferase,protein-coding,-,-,-,SET domain-containing protein-lysine N-methyltransferase,20200805,-
+1234367,56761199,CPE1_RS04270,CPE1_RS04270,CPE1_0848,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20200805,-
+1234367,56761200,CPE1_RS04275,CPE1_RS04275,CPE1_0849,-,-,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20200803,-
+1234367,56761201,CPE1_RS04280,CPE1_RS04280,CPE1_0850,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761202,CPE1_RS04285,CPE1_RS04285,CPE1_0851,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761203,CPE1_RS04290,CPE1_RS04290,CPE1_0852,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20200805,-
+1234367,56761204,CPE1_RS04295,CPE1_RS04295,CPE1_0853,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",protein-coding,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",20200803,-
+1234367,56761205,ribD,CPE1_RS04300,CPE1_0854,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20200803,-
+1234367,56761206,serS,CPE1_RS04305,CPE1_0855,-,-,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20200803,-
+1234367,56761207,CPE1_RS04310,CPE1_RS04310,CPE1_0856,-,-,-,VIT1/CCC1 transporter family protein,protein-coding,-,-,-,VIT1/CCC1 transporter family protein,20200803,-
+1234367,56761208,CPE1_RS04315,CPE1_RS04315,CPE1_0857,-,-,-,cation-translocating P-type ATPase,protein-coding,-,-,-,cation-translocating P-type ATPase,20200803,-
+1234367,56761209,CPE1_RS04320,CPE1_RS04320,CPE1_0858,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20200803,-
+1234367,56761210,CPE1_RS04325,CPE1_RS04325,CPE1_0859,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20200803,-
+1234367,56761211,CPE1_RS04330,CPE1_RS04330,CPE1_0860,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761212,CPE1_RS04335,CPE1_RS04335,CPE1_0861,-,-,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20200805,-
+1234367,56761213,CPE1_RS04340,CPE1_RS04340,CPE1_0862,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20200805,-
+1234367,56761214,CPE1_RS04345,CPE1_RS04345,CPE1_0863,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20200803,-
+1234367,56761215,CPE1_RS04350,CPE1_RS04350,CPE1_0864,-,-,-,iron-sulfur cluster biogenesis protein NfuA,protein-coding,-,-,-,iron-sulfur cluster biogenesis protein NfuA,20200803,-
+1234367,56761216,CPE1_RS04355,CPE1_RS04355,CPE1_0865,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20200803,-
+1234367,56761217,CPE1_RS04360,CPE1_RS04360,CPE1_0866,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20200802,-
+1234367,56761218,CPE1_RS04365,CPE1_RS04365,CPE1_0867,-,-,-,FliI/YscN family ATPase,protein-coding,-,-,-,FliI/YscN family ATPase,20200803,-
+1234367,56761219,CPE1_RS04370,CPE1_RS04370,CPE1_0868,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761220,CPE1_RS04375,CPE1_RS04375,CPE1_0869,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20200803,-
+1234367,56761221,CPE1_RS04380,CPE1_RS04380,CPE1_0870,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,20200803,-
+1234367,56761222,CPE1_RS04385,CPE1_RS04385,CPE1_0871,-,-,-,outer membrane protein,protein-coding,-,-,-,outer membrane protein,20210119,-
+1234367,56761223,CPE1_RS04390,CPE1_RS04390,CPE1_0872,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761224,CPE1_RS04395,CPE1_RS04395,CPE1_0873,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761225,CPE1_RS04400,CPE1_RS04400,CPE1_0874,-,-,-,phosphoenolpyruvate carboxykinase (GTP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (GTP),20210320,-
+1234367,56761226,CPE1_RS04405,CPE1_RS04405,CPE1_0875,-,-,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20200805,-
+1234367,56761227,CPE1_RS04410,CPE1_RS04410,CPE1_0876,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200803,-
+1234367,56761228,CPE1_RS04415,CPE1_RS04415,CPE1_0877,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761229,CPE1_RS04420,CPE1_RS04420,CPE1_0878,-,-,-,trigger factor,protein-coding,-,-,-,trigger factor,20210119,-
+1234367,56761230,CPE1_RS04425,CPE1_RS04425,CPE1_0879,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20200805,-
+1234367,56761231,clpX,CPE1_RS04430,CPE1_0880,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20200805,-
+1234367,56761232,CPE1_RS04435,CPE1_RS04435,CPE1_0881,-,-,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20200803,-
+1234367,56761233,der,CPE1_RS04440,CPE1_0882,-,-,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20200805,-
+1234367,56761234,CPE1_RS04445,CPE1_RS04445,CPE1_0883,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761235,secA,CPE1_RS04450,CPE1_0884,-,-,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20200803,-
+1234367,56761236,CPE1_RS04455,CPE1_RS04455,CPE1_0885,-,-,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20200803,-
+1234367,56761237,CPE1_RS04460,CPE1_RS04460,CPE1_0886,-,-,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20200803,-
+1234367,56761238,mnmE,CPE1_RS04465,CPE1_0887,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20200803,-
+1234367,56761239,CPE1_RS04470,CPE1_RS04470,CPE1_0888,-,-,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20200805,-
+1234367,56761240,brnQ,CPE1_RS04475,CPE1_0889,-,-,-,branched-chain amino acid transport system II carrier protein,protein-coding,-,-,-,branched-chain amino acid transport system II carrier protein,20200803,-
+1234367,56761241,CPE1_RS04480,CPE1_RS04480,CPE1_0890,-,-,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20200803,-
+1234367,56761242,CPE1_RS04485,CPE1_RS04485,CPE1_0891,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761243,lpdA,CPE1_RS04490,CPE1_0892,-,-,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20200803,-
+1234367,56761244,lipA,CPE1_RS04495,CPE1_0893,-,-,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20200805,-
+1234367,56761245,sctJ,CPE1_RS04500,CPE1_0894,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,protein-coding,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,20210118,-
+1234367,56761246,CPE1_RS04505,CPE1_RS04505,CPE1_0895,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761247,CPE1_RS04510,CPE1_RS04510,CPE1_0896,-,-,-,HrpE/YscL family type III secretion apparatus protein,protein-coding,-,-,-,HrpE/YscL family type III secretion apparatus protein,20200803,-
+1234367,56761248,sctR,CPE1_RS04515,CPE1_0897,-,-,-,type III secretion system export apparatus subunit SctR,protein-coding,-,-,-,type III secretion system export apparatus subunit SctR,20210118,-
+1234367,56761249,sctS,CPE1_RS04520,CPE1_0898,-,-,-,type III secretion system export apparatus subunit SctS,protein-coding,-,-,-,type III secretion system export apparatus subunit SctS,20210118,-
+1234367,56761250,CPE1_RS04525,CPE1_RS04525,CPE1_0899,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,protein-coding,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,20200803,-
+1234367,56761251,CPE1_RS04530,CPE1_RS04530,CPE1_0900,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761252,CPE1_RS04535,CPE1_RS04535,CPE1_0901,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761253,CPE1_RS04540,CPE1_RS04540,CPE1_0902,-,-,-,DUF1494 domain-containing protein,protein-coding,-,-,-,DUF1494 domain-containing protein,20200803,-
+1234367,56761254,CPE1_RS04545,CPE1_RS04545,CPE1_0903,-,-,-,membrane protein,protein-coding,-,-,-,membrane protein,20200805,-
+1234367,56761255,CPE1_RS04550,CPE1_RS04550,CPE1_0904,-,-,-,type II secretion system protein,protein-coding,-,-,-,type II secretion system protein,20200805,-
+1234367,56761256,CPE1_RS04555,CPE1_RS04555,CPE1_0905,-,-,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20200805,-
+1234367,56761257,CPE1_RS04560,CPE1_RS04560,CPE1_0906,-,-,-,type II/IV secretion system protein,protein-coding,-,-,-,type II/IV secretion system protein,20200803,-
+1234367,56761258,CPE1_RS04565,CPE1_RS04565,CPE1_0907,-,-,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20200803,-
+1234367,56761259,CPE1_RS04570,CPE1_RS04570,CPE1_0908,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761260,CPE1_RS04575,CPE1_RS04575,CPE1_0909,-,-,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20200803,-
+1234367,56761261,mutL,CPE1_RS04580,CPE1_0910,-,-,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20200803,-
+1234367,56761262,CPE1_RS04585,CPE1_RS04585,CPE1_0911,-,-,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20200803,-
+1234367,56761263,CPE1_RS04590,CPE1_RS04590,CPE1_0912,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761264,CPE1_RS04595,CPE1_RS04595,CPE1_0913,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761265,CPE1_RS04600,CPE1_RS04600,CPE1_0914,-,-,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20200802,-
+1234367,56761266,CPE1_RS04605,CPE1_RS04605,CPE1_0915,-,-,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20200803,-
+1234367,56761267,thrS,CPE1_RS04610,CPE1_0916,-,-,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20200803,-
+1234367,56761268,CPE1_RS04615,CPE1_RS04615,CPE1_0917,-,-,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20200803,-
+1234367,56761269,CPE1_RS04620,CPE1_RS04620,CPE1_0918,-,-,-,pGP6-D family virulence protein,protein-coding,-,-,-,pGP6-D family virulence protein,20200919,-
+1234367,56761270,CPE1_RS04625,CPE1_RS04625,CPE1_0919,-,-,-,DUF5414 family protein,protein-coding,-,-,-,DUF5414 family protein,20200805,-
+1234367,56761271,trpS,CPE1_RS04630,CPE1_0920,-,-,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20200803,-
+1234367,56761272,uvrB,CPE1_RS04635,CPE1_0921,-,-,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20200803,-
+1234367,56761273,eno,CPE1_RS04640,CPE1_0922,-,-,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20200803,-
+1234367,56761274,CPE1_RS04645,CPE1_RS04645,CPE1_0923,-,-,-,PP2C family protein-serine/threonine phosphatase,protein-coding,-,-,-,PP2C family protein-serine/threonine phosphatase,20200919,-
+1234367,56761275,CPE1_RS04650,CPE1_RS04650,CPE1_0924,-,-,-,SpoIIE family protein phosphatase,protein-coding,-,-,-,SpoIIE family protein phosphatase,20200919,-
+1234367,56761276,CPE1_RS04655,CPE1_RS04655,CPE1_0925,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761277,CPE1_RS04660,CPE1_RS04660,CPE1_0926,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761278,sdhB,CPE1_RS04665,CPE1_0927,-,-,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20200803,-
+1234367,56761279,sdhA,CPE1_RS04670,CPE1_0928,-,-,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20200829,-
+1234367,56761280,CPE1_RS04675,CPE1_RS04675,CPE1_0929,-,-,-,succinate dehydrogenase cytochrome b558 subunit,protein-coding,-,-,-,succinate dehydrogenase cytochrome b558 subunit,20200805,-
+1234367,56761281,CPE1_RS04680,CPE1_RS04680,CPE1_0930,-,-,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201026,-
+1234367,56761282,CPE1_RS04685,CPE1_RS04685,CPE1_0931,-,-,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20210129,-
+1234367,56761283,CPE1_RS04690,CPE1_RS04690,CPE1_0932,-,-,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20200805,-
+1234367,56761284,CPE1_RS04695,CPE1_RS04695,CPE1_0933,-,-,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20200805,-
+1234367,56761285,CPE1_RS04700,CPE1_RS04700,CPE1_0934,-,-,-,inclusion-associated protein,protein-coding,-,-,-,inclusion-associated protein,20200802,-
+1234367,56761286,tolB,CPE1_RS04705,CPE1_0935,-,-,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20200803,-
+1234367,56761287,CPE1_RS04710,CPE1_RS04710,CPE1_0936,-,-,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20200805,-
+1234367,56761288,CPE1_RS04715,CPE1_RS04715,CPE1_0937,-,-,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20200803,-
+1234367,56761289,CPE1_RS04720,CPE1_RS04720,CPE1_0938,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761290,CPE1_RS04725,CPE1_RS04725,CPE1_0939,-,-,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20200803,-
+1234367,56761291,CPE1_RS04730,CPE1_RS04730,CPE1_0940,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761292,groEL,CPE1_RS04735,CPE1_0941,-,-,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20210118,-
+1234367,56761293,CPE1_RS04740,CPE1_RS04740,CPE1_0942,-,-,-,DUF1343 domain-containing protein,protein-coding,-,-,-,DUF1343 domain-containing protein,20200803,-
+1234367,56761294,rdgB,CPE1_RS04745,CPE1_0943,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,20200803,-
+1234367,56761295,CPE1_RS04750,CPE1_RS04750,CPE1_0944,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761296,ung,CPE1_RS04755,CPE1_0945,-,-,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20200805,-
+1234367,56761297,CPE1_RS04760,CPE1_RS04760,CPE1_0946,-,-,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20210123,-
+1234367,56761298,rpoN,CPE1_RS04765,CPE1_0947,-,-,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20200803,-
+1234367,56761299,CPE1_RS04770,CPE1_RS04770,CPE1_0948,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761300,topA,CPE1_RS04775,CPE1_0949,-,-,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20200803,-
+1234367,56761301,dusB,CPE1_RS04780,CPE1_0950,-,-,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20200803,-
+1234367,56761302,CPE1_RS04785,CPE1_RS04785,CPE1_0951,-,-,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20200803,-
+1234367,56761303,CPE1_RS04790,CPE1_RS04790,CPE1_0952,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761304,CPE1_RS04795,CPE1_RS04795,CPE1_0953,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761305,CPE1_RS04800,CPE1_RS04800,CPE1_0954,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+1234367,56761306,CPE1_RS04805,CPE1_RS04805,CPE1_0955,-,-,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20200803,-
+1234367,56761307,recA,CPE1_RS04815,CPE1_0956,-,-,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20200805,-
+1234367,56761308,CPE1_RS04820,CPE1_RS04820,CPE1_0957,-,-,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20210424,-
+1234367,56761309,CPE1_RS04825,CPE1_RS04825,CPE1_0958,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761310,CPE1_RS04830,CPE1_RS04830,CPE1_0959,-,-,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20200805,-
+1234367,56761311,CPE1_RS04835,CPE1_RS04835,CPE1_0960,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761312,recD,CPE1_RS04840,CPE1_0961,-,-,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20200803,-
+1234367,56761313,CPE1_RS04845,CPE1_RS04845,CPE1_0962,-,-,-,DUF1347 family protein,protein-coding,-,-,-,DUF1347 family protein,20200803,-
+1234367,56761314,CPE1_RS04850,CPE1_RS04850,CPE1_0963,-,-,-,winged helix-turn-helix domain-containing protein,protein-coding,-,-,-,winged helix-turn-helix domain-containing protein,20210320,-
+1234367,56761315,CPE1_RS04855,CPE1_RS04855,CPE1_0964,-,-,-,glucosamine-1-phosphate N-acetyltransferase,protein-coding,-,-,-,glucosamine-1-phosphate N-acetyltransferase,20200805,-
+1234367,56761316,CPE1_RS04860,CPE1_RS04860,CPE1_0965,-,-,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20200803,-
+1234367,56761317,CPE1_RS04865,CPE1_RS04865,CPE1_0966,-,-,-,tRNA,tRNA,-,-,-,-,20210118,-
+1234367,56761318,CPE1_RS04870,CPE1_RS04870,CPE1_0967,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200805,-
+1234367,56761319,CPE1_RS04875,CPE1_RS04875,CPE1_0968,-,-,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20200803,-
+1234367,56761320,CPE1_RS04885,CPE1_RS04885,CPE1_0226,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761321,CPE1_RS04890,CPE1_RS04890,CPE1_0233,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761322,CPE1_RS04895,CPE1_RS04895,CPE1_0283,-,-,-,Pmp family polymorphic membrane protein autotransporter adhesin,protein-coding,-,-,-,Pmp family polymorphic membrane protein autotransporter adhesin,20200803,-
+1234367,56761323,CPE1_RS04900,CPE1_RS04900,CPE1_0292,-,-,-,IncV family inclusion membrane protein,protein-coding,-,-,-,IncV family inclusion membrane protein,20200803,-
+1234367,56761324,CPE1_RS04905,CPE1_RS04905,CPE1_0317,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761325,CPE1_RS04915,CPE1_RS04915,CPE1_0357,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761326,CPE1_RS04920,CPE1_RS04920,CPE1_0409,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200803,-
+1234367,56761327,CPE1_RS04925,CPE1_RS04925,CPE1_0459,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761328,CPE1_RS04935,CPE1_RS04935,CPE1_0489,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761329,CPE1_RS04940,CPE1_RS04940,CPE1_0550,-,-,-,phospholipase D family protein,protein-coding,-,-,-,phospholipase D family protein,20200803,-
+1234367,56761330,rnpB,CPE1_RS04945,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210118,-
+1234367,56761331,yidD,CPE1_RS04955,CPE1_0152,-,-,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20200803,-
+1234367,56761332,CPE1_RS04960,CPE1_RS04960,CPE1_0206,-,-,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20200803,-
+1234367,56761333,CPE1_RS04970,CPE1_RS04970,CPE1_0241,-,-,-,small basic protein,protein-coding,-,-,-,small basic protein,20200803,-
+1234367,56761334,CPE1_RS04975,CPE1_RS04975,CPE1_0299,-,-,-,pseudo,pseudo,-,-,-,-,20210118,-
+1234367,56761335,CPE1_RS04985,CPE1_RS04985,-,-,-,-,pentapeptide repeat-containing protein,protein-coding,-,-,-,pentapeptide repeat-containing protein,20200803,-
+1234367,56761336,ffs,CPE1_RS04990,-,-,-,-,ncRNA,ncRNA,-,-,-,-,20210118,-
+1234367,56761338,CPE1_RS05000,CPE1_RS05000,CPE1_0553,-,-,-,pseudo,pseudo,-,-,-,-,20210118,-
+1234367,56761339,ssrA,CPE1_RS05005,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20210118,-
+1234367,56761340,trmB,CPE1_RS05010,CPE1_0747,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanosine(46)-N7)-methyltransferase TrmB,20200803,-
+1234367,56761341,rpmF,CPE1_RS05015,-,-,-,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20200803,-
+1234367,56761342,rpmH,CPE1_RS05020,-,-,-,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20200803,-
+1234367,56761343,CPE1_RS05025,CPE1_RS05025,-,-,-,-,AURKAIP1/COX24 domain-containing protein,protein-coding,-,-,-,AURKAIP1/COX24 domain-containing protein,20200802,-
+1234367,56761344,CPE1_RS05040,CPE1_RS05040,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761345,CPE1_RS05045,CPE1_RS05045,-,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200802,-
+1234367,56761346,ltuA,CPE1_RS05050,-,-,-,-,protein LtuA,protein-coding,-,-,-,protein LtuA,20200802,-
+1234367,62344918,CPE1_RS05055,CPE1_RS05055,CPE1_0019,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,62344919,CPE1_RS05060,CPE1_RS05060,CPE1_0242,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
+1234367,62344920,CPE1_RS05065,CPE1_RS05065,CPE1_0475,-,-,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210118,-
