@@ -1,0 +1,139 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+85225,33368755,psbA,CGV20_pgp094,Lo_ang1Pt0004,-,-,-,PSII D1 protein,protein-coding,-,-,-,photosystem II protein D1,20170908,-
+85225,33368756,rbcL,CGV20_pgp093,Lo_ang1Pt0025,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+85225,33368757,atpB,CGV20_pgp092,Lo_ang1Pt0048,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATPase beta subunit,20170908,-
+85225,33368758,atpE,CGV20_pgp091,Lo_ang1Pt0063,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATPase epsilon subunit,20170908,-
+85225,33368759,trnM (CAU),CGV20_pgt002,Lo_ang1Pt0069,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368760,trnV (UAC),CGV20_pgt003,Lo_ang1Pt0072,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368761,trnK (UUU),CGV20_pgt004,Lo_ang1Pt0082,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368762,matK,CGV20_pgp090,Lo_ang1Pt0085,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+85225,33368763,rps16,CGV20_pgp089,Lo_ang1Pt0113,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170908,-
+85225,33368764,ORF192,CGV20_pgp088,Lo_ang1Pt0118,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+85225,33368765,trnQ (UUG),CGV20_pgt005,Lo_ang1Pt0126,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368766,psbK,CGV20_pgp087,Lo_ang1Pt0131,-,-,-,PSII K protein,protein-coding,-,-,-,photosystem II protein K,20170908,-
+85225,33368767,psbI,CGV20_pgp086,Lo_ang1Pt0137,-,-,-,PSII I protein,protein-coding,-,-,-,photosystem II protein I,20170908,-
+85225,33368768,trnS (GCU),CGV20_pgt006,Lo_ang1Pt0139,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368769,trnG (UCC),CGV20_pgt007,Lo_ang1Pt0148,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368770,trnR (UCU),CGV20_pgt008,Lo_ang1Pt0157,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368771,atpA,CGV20_pgp085,Lo_ang1Pt0159,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATPase alpha subunit,20170908,-
+85225,33368772,atpF,CGV20_pgp084,Lo_ang1Pt0174,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATPase subunit I,20170908,-
+85225,33368773,atpH,CGV20_pgp083,Lo_ang1Pt0192,-,-,-,ATP synthase CFO subunit III,protein-coding,-,-,-,ATPase subunit III,20170908,-
+85225,33368774,atpI,CGV20_pgp082,Lo_ang1Pt0202,-,-,-,ATP synthase CFO subunit IV,protein-coding,-,-,-,ATPase subunit IV,20170908,-
+85225,33368775,rps2,CGV20_pgp081,Lo_ang1Pt0212,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170908,-
+85225,33368776,rpoC2,CGV20_pgp080,Lo_ang1Pt0221,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170908,-
+85225,33368777,rpoC1,CGV20_pgp079,Lo_ang1Pt0264,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20170908,-
+85225,33368778,rpoB,CGV20_pgp078,Lo_ang1Pt0293,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170908,-
+85225,33368779,ORF238,CGV20_pgp077,Lo_ang1Pt0329,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+85225,33368780,trnC (GCA),CGV20_pgt009,Lo_ang1Pt0345,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368781,petN,CGV20_pgp076,Lo_ang1Pt0348,-,-,-,cytochrome b6/f complex subunit 8,protein-coding,-,-,-,-,20170908,-
+85225,33368782,psbM,CGV20_pgp075,Lo_ang1Pt0351,-,-,-,PSII M protein,protein-coding,-,-,-,photosystem II protein M,20190601,-
+85225,33368783,trnD (GUC),CGV20_pgt010,Lo_ang1Pt0361,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368784,trnY (GUA),CGV20_pgt011,Lo_ang1Pt0362,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368785,trnE (UUC),CGV20_pgt012,Lo_ang1Pt0364,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368786,trnT (GGU),CGV20_pgp074,Lo_ang1Pt0373,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+85225,33368787,psbD,CGV20_pgp073,Lo_ang1Pt0385,-,-,-,PSII D2 protein,protein-coding,-,-,-,photosystem II protein D2,20170908,-
+85225,33368788,psbC,CGV20_pgp072,Lo_ang1Pt0395,-,-,-,PSII 43 kDa protein,protein-coding,-,-,-,photosystem II 43 kDa protein,20170908,-
+85225,33368789,trnS (UGA),CGV20_pgt013,Lo_ang1Pt0411,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368790,psbZ,CGV20_pgp071,Lo_ang1Pt0415,-,-,-,PSII Z protein,protein-coding,-,-,-,photosystem II protein Z,20170908,-
+85225,33368791,trnG (GCC),CGV20_pgt014,Lo_ang1Pt0420,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368792,trnfM (CAU),CGV20_pgt015,Lo_ang1Pt0422,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368793,rps14,CGV20_pgp070,Lo_ang1Pt0424,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170908,-
+85225,33368794,psaB,CGV20_pgp069,Lo_ang1Pt0429,-,-,-,PSI P700 A2 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20170908,-
+85225,33368795,psaA,CGV20_pgp068,Lo_ang1Pt0451,-,-,-,PSI P700 A1 apoprotein,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20170908,-
+85225,33368796,pafI,CGV20_pgp067,Lo_ang1Pt0480,-,-,-,photosystem I assembly factor I,protein-coding,-,-,-,-,20170908,-
+85225,33368797,trnS (GGA),CGV20_pgt016,Lo_ang1Pt0508,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368798,rps4,CGV20_pgp066,Lo_ang1Pt0512,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+85225,33368799,trnT (UGU),CGV20_pgt017,Lo_ang1Pt0522,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368800,trnL (UAA),CGV20_pgt018,Lo_ang1Pt0530,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368801,trnF (GAA),CGV20_pgt019,Lo_ang1Pt0539,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368802,ndhJ,CGV20_pgp065,Lo_ang1Pt0546,-,-,-,NADH dehydrogenase 19kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit J,20170908,-
+85225,33368803,ndhK,CGV20_pgp064,Lo_ang1Pt0551,-,-,-,NADH dehydrogenase 32kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit K,20170908,-
+85225,33368804,ndhC,CGV20_pgp063,Lo_ang1Pt0559,-,-,-,NADH degydrogenase ND3 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20170908,-
+85225,33368805,ORF224,CGV20_pgp062,Lo_ang1Pt0565,-,-,-,hypothetical protein,protein-coding,-,-,-,-,20170719,-
+85225,33368806,psaI,CGV20_pgp061,Lo_ang1Pt0573,-,-,-,PSI subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20170908,-
+85225,33368807,pafII,CGV20_pgp060,Lo_ang1Pt0578,-,-,-,photosystem I assembly factor II,protein-coding,-,-,-,-,20170908,-
+85225,33368808,cemA,CGV20_pgp059,Lo_ang1Pt0590,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20170908,-
+85225,33368809,petA,CGV20_pgp058,Lo_ang1Pt0600,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170908,-
+85225,33368810,psbJ,CGV20_pgp057,Lo_ang1Pt0620,-,-,-,PSII J protein,protein-coding,-,-,-,photosystem II protein J,20170908,-
+85225,33368811,psbL,CGV20_pgp056,Lo_ang1Pt0622,-,-,-,PSII L protein,protein-coding,-,-,-,photosystem II protein L,20170908,-
+85225,33368812,psbF,CGV20_pgp055,Lo_ang1Pt0624,-,-,-,PSII subunit VI,protein-coding,-,-,-,photosystem II cytochrome b559 beta chain,20170908,-
+85225,33368813,psbE,CGV20_pgp054,Lo_ang1Pt0625,-,-,-,PSII subunit V,protein-coding,-,-,-,photosystem II cytochrome b559 alpha chain,20170908,-
+85225,33368814,petL,CGV20_pgp053,Lo_ang1Pt0641,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20170908,-
+85225,33368815,petG,CGV20_pgp052,Lo_ang1Pt0643,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+85225,33368816,trnW (CCA),CGV20_pgt020,Lo_ang1Pt0645,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368817,trnP (UGG),CGV20_pgt021,Lo_ang1Pt0648,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368818,psaJ,CGV20_pgp051,Lo_ang1Pt0653,-,-,-,PSI subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20170908,-
+85225,33368819,rpl33,CGV20_pgp050,Lo_ang1Pt0659,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170908,-
+85225,33368820,rps18,CGV20_pgp049,Lo_ang1Pt0662,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170908,-
+85225,33368821,rpl20,CGV20_pgp048,Lo_ang1Pt0669,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+85225,33368822,rps12,CGV20_pgp047,Lo_ang1Pt1509,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+85225,33368823,psbB,CGV20_pgp044,Lo_ang1Pt0707,-,-,-,PSII 47 kDa protein,protein-coding,-,-,-,photosystem II 47 kDa protein,20170908,-
+85225,33368824,psbT,CGV20_pgp043,Lo_ang1Pt0725,-,-,-,PSII T protein,protein-coding,-,-,-,photosystem II protein T,20170908,-
+85225,33368825,psbN,CGV20_pgp042,Lo_ang1Pt0726,-,-,-,PSII N protein,protein-coding,-,-,-,photosystem II protein N,20170908,-
+85225,33368826,psbH,CGV20_pgp041,Lo_ang1Pt0729,-,-,-,PSII 10 kDa phosphoprotein,protein-coding,-,-,-,photosystem II 10 kDa phosphoprotein,20170908,-
+85225,33368827,petB,CGV20_pgp040,Lo_ang1Pt0732,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+85225,33368828,petD,CGV20_pgp039,Lo_ang1Pt0748,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20170908,-
+85225,33368829,rpoA,CGV20_pgp038,Lo_ang1Pt0762,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170908,-
+85225,33368830,rps11,CGV20_pgp037,Lo_ang1Pt0773,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170908,-
+85225,33368831,rpl36,CGV20_pgp036,Lo_ang1Pt0778,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170908,-
+85225,33368832,infA,CGV20_pgp035,Lo_ang1Pt0780,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+85225,33368833,rps8,CGV20_pgp034,Lo_ang1Pt0784,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170908,-
+85225,33368834,rpl14,CGV20_pgp033,Lo_ang1Pt0790,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170908,-
+85225,33368835,rpl16,CGV20_pgp032,Lo_ang1Pt0795,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170908,-
+85225,33368836,rps3,CGV20_pgp031,Lo_ang1Pt0811,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+85225,33368837,rpl22,CGV20_pgp030,Lo_ang1Pt0818,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170908,-
+85225,33368838,rps19,CGV20_pgp029,Lo_ang1Pt0823,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170908,-
+85225,33368839,rpl2,CGV20_pgp028,Lo_ang1Pt0827,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+85225,33368840,rpl23,CGV20_pgp027,Lo_ang1Pt0842,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+85225,33368841,trnI (CAU),CGV20_pgt022,Lo_ang1Pt0849,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368842,ycf2,CGV20_pgp026,Lo_ang1Pt0851,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+85225,33368843,trnL (CAA),CGV20_pgt023,Lo_ang1Pt0921,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368844,ndhB,CGV20_pgp025,Lo_ang1Pt0927,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+85225,33368845,rps7,CGV20_pgp024,Lo_ang1Pt0953,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+85225,33368846,trnV (GAC),CGV20_pgt024,Lo_ang1Pt0984,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368847,trnH (GUG),CGV20_pgt001,Lo_ang1Pt0001,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368848,rrn16,CGV20_pgr008,Lo_ang1Pt0987,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368849,trnI (GAU),CGV20_pgt025,Lo_ang1Pt1004,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368850,trnA (UGC),CGV20_pgt026,Lo_ang1Pt1015,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368851,rrn23,CGV20_pgr007,Lo_ang1Pt1026,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368852,rrn4.5,CGV20_pgr006,Lo_ang1Pt1055,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368853,rrn5,CGV20_pgr005,Lo_ang1Pt1058,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368854,trnR (ACG),CGV20_pgt027,Lo_ang1Pt1062,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368855,trnN (GUU),CGV20_pgt028,Lo_ang1Pt1065,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368856,ycf1,CGV20_pgp023,Lo_ang1Pt1072,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+85225,33368857,rps15,CGV20_pgp022,Lo_ang1Pt1141,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+85225,33368858,ndhH,CGV20_pgp021,Lo_ang1Pt1146,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+85225,33368859,ndhA,CGV20_pgp020,Lo_ang1Pt1157,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+85225,33368860,ndhI,CGV20_pgp019,Lo_ang1Pt1179,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+85225,33368861,ndhG,CGV20_pgp018,Lo_ang1Pt1188,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+85225,33368862,ndhE,CGV20_pgp017,Lo_ang1Pt1196,-,-,-,NADH dehydrogenase ND4L subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20170908,-
+85225,33368863,psaC,CGV20_pgp016,Lo_ang1Pt1202,-,-,-,PSI subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20170908,-
+85225,33368864,ndhD,CGV20_pgp015,Lo_ang1Pt1205,-,-,-,NADH dehydrogenase ND4 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20170908,-
+85225,33368865,ccsA,CGV20_pgp014,Lo_ang1Pt1223,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20170908,-
+85225,33368866,trnL (UAG),CGV20_pgt029,Lo_ang1Pt1233,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368867,rpl32,CGV20_pgp013,Lo_ang1Pt1241,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20170908,-
+85225,33368868,ndhF,CGV20_pgp012,Lo_ang1Pt1254,-,-,-,NADH dehydrogenase ND5 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20170908,-
+85225,33368869,ndhG,CGV20_pgp011,Lo_ang1Pt1271,-,-,-,NADH degydrogenase ND6 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20170908,-
+85225,33368870,ndhI,CGV20_pgp010,Lo_ang1Pt1291,-,-,-,NADH dehydrogenase 18kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit I,20170908,-
+85225,33368871,ndhA,CGV20_pgp009,Lo_ang1Pt1296,-,-,-,NADH degydrogenase ND1 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20170908,-
+85225,33368872,ndhH,CGV20_pgp008,Lo_ang1Pt1317,-,-,-,NADH dehydrogenase 49kD subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 7,20170908,-
+85225,33368873,rps15,CGV20_pgp007,Lo_ang1Pt1330,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170908,-
+85225,33368874,ycf1,CGV20_pgp006,Lo_ang1Pt1337,-,-,-,Ycf1 protein,protein-coding,-,-,-,hypothetical chloroplast RF1,20170908,-
+85225,33368875,trnN (GUU),CGV20_pgt030,Lo_ang1Pt1409,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368876,trnR (ACG),CGV20_pgt031,Lo_ang1Pt1412,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368877,rrn5,CGV20_pgr004,Lo_ang1Pt1416,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368878,rrn4.5,CGV20_pgr003,Lo_ang1Pt1419,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368879,rrn23,CGV20_pgr002,Lo_ang1Pt1421,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368880,trnA (UGC),CGV20_pgt032,Lo_ang1Pt1451,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368881,trnI (GAU),CGV20_pgt033,Lo_ang1Pt1460,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368882,rrn16,CGV20_pgr001,Lo_ang1Pt1473,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170719,-
+85225,33368883,rps12,CGV20_pgp046,Lo_ang1Pt0958,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170908,-
+85225,33368884,trnV (GAC),CGV20_pgt034,Lo_ang1Pt1490,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368885,rps7,CGV20_pgp005,Lo_ang1Pt1518,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170908,-
+85225,33368886,clpP,CGV20_pgp045,Lo_ang1Pt0683,-,-,-,ATP-dependent protease proteolytic subunit,protein-coding,-,-,-,-,20170908,-
+85225,33368887,ndhB,CGV20_pgp004,Lo_ang1Pt1525,-,-,-,NADH degydrogenase ND2 subunit,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20170908,-
+85225,33368888,trnL (CAA),CGV20_pgt035,Lo_ang1Pt1553,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368889,ycf2,CGV20_pgp003,Lo_ang1Pt1559,-,-,-,Ycf2 protein,protein-coding,-,-,-,hypothetical chloroplast RF2,20170908,-
+85225,33368890,trnI (CAU),CGV20_pgt036,Lo_ang1Pt1625,-,-,-,tRNA,tRNA,-,-,-,-,20170719,-
+85225,33368891,rpl23,CGV20_pgp002,Lo_ang1Pt1630,-,-,-,pseudo,pseudo,-,-,-,-,20170719,-
+85225,33368892,rpl2,CGV20_pgp001,Lo_ang1Pt1633,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-

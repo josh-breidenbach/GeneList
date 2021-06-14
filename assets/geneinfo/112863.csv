@@ -1,0 +1,133 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+112863,39333068,psbA,E2270_pgp087,-,-,-,-,PsbA,protein-coding,-,-,-,PsbA,20200911,-
+112863,39333069,trnK-UUU,E2270_pgt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333070,matK,E2270_pgp086,-,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+112863,39333071,rps16,E2270_pgp085,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200911,-
+112863,39333072,trnQ-UUG,E2270_pgt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333073,psbK,E2270_pgp084,-,-,-,-,PsbK,protein-coding,-,-,-,PsbK,20200911,-
+112863,39333074,psbI,E2270_pgp083,-,-,-,-,PsbI,protein-coding,-,-,-,PsbI,20200911,-
+112863,39333075,trnS-GCU,E2270_pgt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333076,trnG-UCC,E2270_pgt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333077,trnR-UCU,E2270_pgt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333078,atpA,E2270_pgp082,-,-,-,-,AtpA,protein-coding,-,-,-,AtpA,20200911,-
+112863,39333079,atpF,E2270_pgp081,-,-,-,-,AtpF,protein-coding,-,-,-,AtpF,20200911,-
+112863,39333080,atpH,E2270_pgp080,-,-,-,-,AtpH,protein-coding,-,-,-,AtpH,20200911,-
+112863,39333081,atpI,E2270_pgp079,-,-,-,-,AtpI,protein-coding,-,-,-,AtpI,20200911,-
+112863,39333082,rps2,E2270_pgp078,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+112863,39333083,rpoC2,E2270_pgp077,-,-,-,-,RpoC2,protein-coding,-,-,-,RpoC2,20200911,-
+112863,39333084,rpoC1,E2270_pgp076,-,-,-,-,RpoC1,protein-coding,-,-,-,RpoC1,20200911,-
+112863,39333085,rpoB,E2270_pgp075,-,-,-,-,RpoB,protein-coding,-,-,-,RpoB,20200911,-
+112863,39333086,trnC-GCA,E2270_pgt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333087,petN,E2270_pgp074,-,-,-,-,PetN,protein-coding,-,-,-,PetN,20200911,-
+112863,39333088,psbM,E2270_pgp073,-,-,-,-,PsbM,protein-coding,-,-,-,PsbM,20200911,-
+112863,39333089,trnD-GUC,E2270_pgt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333090,trnY-GUA,E2270_pgt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333091,trnE-UUC,E2270_pgt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333092,trnT-GGU,E2270_pgt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333093,psbD,E2270_pgp072,-,-,-,-,PsbD,protein-coding,-,-,-,PsbD,20200911,-
+112863,39333094,psbC,E2270_pgp071,-,-,-,-,PsbC,protein-coding,-,-,-,PsbC,20200911,-
+112863,39333095,trnS-UGA,E2270_pgt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333096,psbZ,E2270_pgp070,-,-,-,-,PsbZ,protein-coding,-,-,-,PsbZ,20200911,-
+112863,39333097,trnG-GCC,E2270_pgt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333098,trnfM-CAU,E2270_pgt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333099,rps14,E2270_pgp069,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+112863,39333100,psaB,E2270_pgp068,-,-,-,-,PsaB,protein-coding,-,-,-,PsaB,20200911,-
+112863,39333101,psaA,E2270_pgp067,-,-,-,-,PsaA,protein-coding,-,-,-,PsaA,20200911,-
+112863,39333102,ycf3,E2270_pgp066,-,-,-,-,Ycf3,protein-coding,-,-,-,Ycf3,20200911,-
+112863,39333103,trnS-GGA,E2270_pgt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333104,rps4,E2270_pgp065,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+112863,39333105,trnT-UGU,E2270_pgt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333106,trnL-UAA,E2270_pgt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333107,trnF-GAA,E2270_pgt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333108,ndhJ,E2270_pgp064,-,-,-,-,NdhJ,protein-coding,-,-,-,NdhJ,20200911,-
+112863,39333109,ndhK,E2270_pgp063,-,-,-,-,NdhK,protein-coding,-,-,-,NdhK,20200911,-
+112863,39333110,ndhC,E2270_pgp062,-,-,-,-,NdhC,protein-coding,-,-,-,NdhC,20200911,-
+112863,39333111,trnV-UAC,E2270_pgt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333112,trnM-CAU,E2270_pgt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333113,atpE,E2270_pgp061,-,-,-,-,AtpE,protein-coding,-,-,-,AtpE,20200911,-
+112863,39333114,atpB,E2270_pgp060,-,-,-,-,AtpB,protein-coding,-,-,-,AtpB,20200911,-
+112863,39333115,rbcL,E2270_pgp059,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+112863,39333116,accD,E2270_pgp058,-,-,-,-,AccD,protein-coding,-,-,-,AccD,20200911,-
+112863,39333117,psaI,E2270_pgp057,-,-,-,-,PsaI,protein-coding,-,-,-,PsaI,20200911,-
+112863,39333118,ycf4,E2270_pgp056,-,-,-,-,Ycf4,protein-coding,-,-,-,Ycf4,20200911,-
+112863,39333119,cemA,E2270_pgp055,-,-,-,-,CemA,protein-coding,-,-,-,CemA,20200911,-
+112863,39333120,petA,E2270_pgp054,-,-,-,-,PetA,protein-coding,-,-,-,PetA,20200911,-
+112863,39333121,psbJ,E2270_pgp053,-,-,-,-,PsbJ,protein-coding,-,-,-,PsbJ,20200911,-
+112863,39333122,psbL,E2270_pgp052,-,-,-,-,PsbL,protein-coding,-,-,-,PsbL,20200911,-
+112863,39333123,psbF,E2270_pgp051,-,-,-,-,PsbF,protein-coding,-,-,-,PsbF,20200911,-
+112863,39333124,psbE,E2270_pgp050,-,-,-,-,PsbE,protein-coding,-,-,-,PsbE,20200911,-
+112863,39333125,petL,E2270_pgp049,-,-,-,-,PetL,protein-coding,-,-,-,PetL,20200911,-
+112863,39333126,petG,E2270_pgp048,-,-,-,-,PetG,protein-coding,-,-,-,PetG,20210212,-
+112863,39333127,trnW-CCA,E2270_pgt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333128,trnP-UGG,E2270_pgt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333129,psaJ,E2270_pgp047,-,-,-,-,PsaJ,protein-coding,-,-,-,PsaJ,20200911,-
+112863,39333130,rpl33,E2270_pgp046,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+112863,39333131,rps18,E2270_pgp045,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+112863,39333132,rpl20,E2270_pgp044,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+112863,39333133,rps12,E2270_pgp043,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+112863,39333134,clpP,E2270_pgp041,-,-,-,-,ClpP,protein-coding,-,-,-,ClpP,20200911,-
+112863,39333135,trnH-GUG,E2270_pgt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333136,psbB,E2270_pgp040,-,-,-,-,PsbB,protein-coding,-,-,-,PsbB,20200911,-
+112863,39333137,psbT,E2270_pgp039,-,-,-,-,PsbT,protein-coding,-,-,-,PsbT,20200911,-
+112863,39333138,psbN,E2270_pgp038,-,-,-,-,PsbN,protein-coding,-,-,-,PsbN,20200911,-
+112863,39333139,psbH,E2270_pgp037,-,-,-,-,PsbH,protein-coding,-,-,-,PsbH,20200911,-
+112863,39333140,petB,E2270_pgp036,-,-,-,-,PetB,protein-coding,-,-,-,PetB,20200911,-
+112863,39333141,petD,E2270_pgp035,-,-,-,-,PetD,protein-coding,-,-,-,PetD,20200911,-
+112863,39333142,rpoA,E2270_pgp034,-,-,-,-,RpoA,protein-coding,-,-,-,RpoA,20200911,-
+112863,39333143,rps11,E2270_pgp033,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+112863,39333144,rpl36,E2270_pgp032,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+112863,39333145,rps8,E2270_pgp031,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+112863,39333146,rpl14,E2270_pgp030,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+112863,39333147,rpl16,E2270_pgp029,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+112863,39333148,rps3,E2270_pgp028,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+112863,39333149,rpl22,E2270_pgp027,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200911,-
+112863,39333150,rps19,E2270_pgp026,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+112863,39333151,rpl2,E2270_pgp025,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+112863,39333152,rpl23,E2270_pgp024,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+112863,39333153,trnI-CAU,E2270_pgt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333154,ycf2,E2270_pgp023,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200911,-
+112863,39333155,ycf15,E2270_pgp022,-,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+112863,39333156,trnL-CAA,E2270_pgt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333157,ndhB,E2270_pgp021,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+112863,39333158,rps7,E2270_pgp020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+112863,39333159,trnV-GAC,E2270_pgt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333160,rrn16,E2270_pgr008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333161,trnI-GAU,E2270_pgt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333162,trnA-UGC,E2270_pgt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333163,rrn23,E2270_pgr007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333164,rrn4.5,E2270_pgr006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333165,rrn5,E2270_pgr005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333166,trnR-ACG,E2270_pgt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333167,trnN-GUU,E2270_pgt029,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333168,ycf1,E2270_pgp019,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20200911,-
+112863,39333169,ndhF,E2270_pgp018,-,-,-,-,NdhF,protein-coding,-,-,-,NdhF,20200911,-
+112863,39333170,rpl32,E2270_pgp017,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+112863,39333171,trnL-UAG,E2270_pgt030,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333172,ccsA,E2270_pgp016,-,-,-,-,CcsA,protein-coding,-,-,-,CcsA,20200911,-
+112863,39333173,ndhD,E2270_pgp015,-,-,-,-,NdhD,protein-coding,-,-,-,NdhD,20200911,-
+112863,39333174,psaC,E2270_pgp014,-,-,-,-,PsaC,protein-coding,-,-,-,PsaC,20200911,-
+112863,39333175,ndhE,E2270_pgp013,-,-,-,-,NdhE,protein-coding,-,-,-,NdhE,20200911,-
+112863,39333176,ndhG,E2270_pgp012,-,-,-,-,NdhG,protein-coding,-,-,-,NdhG,20200911,-
+112863,39333177,ndhI,E2270_pgp011,-,-,-,-,NdhI,protein-coding,-,-,-,NdhI,20200911,-
+112863,39333178,ndhA,E2270_pgp010,-,-,-,-,NdhA,protein-coding,-,-,-,NdhA,20200911,-
+112863,39333179,ndhH,E2270_pgp009,-,-,-,-,NdhH,protein-coding,-,-,-,NdhH,20200911,-
+112863,39333180,rps15,E2270_pgp008,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200911,-
+112863,39333181,ycf1,E2270_pgp007,-,-,-,-,Ycf1,protein-coding,-,-,-,Ycf1,20200911,-
+112863,39333182,trnN-GUU,E2270_pgt031,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333183,trnR-ACG,E2270_pgt032,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333184,rrn5,E2270_pgr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333185,rrn4.5,E2270_pgr003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333186,rrn23,E2270_pgr002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333187,trnA-UGC,E2270_pgt033,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333188,trnI-GAU,E2270_pgt034,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333189,rrn16,E2270_pgr001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112863,39333190,trnV-GAC,E2270_pgt035,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333191,rps7,E2270_pgp006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+112863,39333192,ndhB,E2270_pgp005,-,-,-,-,NdhB,protein-coding,-,-,-,NdhB,20200911,-
+112863,39333193,trnL-CAA,E2270_pgt036,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333194,ycf15,E2270_pgp004,-,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+112863,39333195,ycf2,E2270_pgp003,-,-,-,-,Ycf2,protein-coding,-,-,-,Ycf2,20200911,-
+112863,39333196,trnI-CAU,E2270_pgt037,-,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112863,39333197,rps12,E2270_pgp042,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+112863,39333198,rpl23,E2270_pgp002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+112863,39333199,rpl2,E2270_pgp001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-

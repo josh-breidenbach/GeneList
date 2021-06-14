@@ -1,0 +1,976 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+83559,32227710,NEWENTRY,-,-,-,-,-,"Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).",other,-,-,-,-,20170413,-
+83559,48058958,B6F13_RS00005,B6F13_RS00005,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058959,B6F13_RS00010,B6F13_RS00010,-,-,I,-,DUF378 domain-containing protein,protein-coding,-,-,-,DUF378 domain-containing protein,20201215,-
+83559,48058960,gatC,B6F13_RS00015,-,-,I,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,20201215,-
+83559,48058961,gatA,B6F13_RS00020,-,-,I,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,20201215,-
+83559,48058962,gatB,B6F13_RS00025,-,-,I,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,protein-coding,-,-,-,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,20201215,-
+83559,48058963,B6F13_RS00030,B6F13_RS00030,-,-,I,-,IncV family inclusion membrane protein,protein-coding,-,-,-,IncV family inclusion membrane protein,20201215,-
+83559,48058964,B6F13_RS00035,B6F13_RS00035,-,-,I,-,DUF5422 family protein,protein-coding,-,-,-,DUF5422 family protein,20201215,-
+83559,48058965,B6F13_RS00040,B6F13_RS00040,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058966,B6F13_RS00045,B6F13_RS00045,-,-,I,-,ribonuclease HIII,protein-coding,-,-,-,ribonuclease HIII,20201215,-
+83559,48058967,B6F13_RS00050,B6F13_RS00050,-,-,I,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20201215,-
+83559,48058968,B6F13_RS00055,B6F13_RS00055,-,-,I,-,lipid A biosynthesis lauroyl acyltransferase,protein-coding,-,-,-,lipid A biosynthesis lauroyl acyltransferase,20201215,-
+83559,48058969,B6F13_RS00060,B6F13_RS00060,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058970,B6F13_RS00065,B6F13_RS00065,-,-,I,-,TIGR00159 family protein,protein-coding,-,-,-,TIGR00159 family protein,20201215,-
+83559,48058971,B6F13_RS00070,B6F13_RS00070,-,-,I,-,cytochrome ubiquinol oxidase subunit I,protein-coding,-,-,-,cytochrome ubiquinol oxidase subunit I,20201215,-
+83559,48058972,cydB,B6F13_RS00075,-,-,I,-,cytochrome d ubiquinol oxidase subunit II,protein-coding,-,-,-,cytochrome d ubiquinol oxidase subunit II,20201215,-
+83559,48058973,B6F13_RS00080,B6F13_RS00080,-,-,I,-,PhoH family protein,protein-coding,-,-,-,PhoH family protein,20201215,-
+83559,48058974,B6F13_RS00085,B6F13_RS00085,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058975,B6F13_RS00090,B6F13_RS00090,-,-,I,-,SH3 domain-containing protein,protein-coding,-,-,-,SH3 domain-containing protein,20201215,-
+83559,48058976,B6F13_RS00095,B6F13_RS00095,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48058977,ssrA,B6F13_RS00100,-,-,I,-,miscRNA,miscRNA,-,-,-,-,20201215,-
+83559,48058978,B6F13_RS00105,B6F13_RS00105,-,-,I,-,isoleucine--tRNA ligase,protein-coding,-,-,-,isoleucine--tRNA ligase,20201215,-
+83559,48058979,lepB,B6F13_RS00110,-,-,I,-,signal peptidase I,protein-coding,-,-,-,signal peptidase I,20201215,-
+83559,48058980,B6F13_RS00115,B6F13_RS00115,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058981,B6F13_RS00120,B6F13_RS00120,-,-,I,-,type B 50S ribosomal protein L31,protein-coding,-,-,-,type B 50S ribosomal protein L31,20201215,-
+83559,48058982,prfA,B6F13_RS00125,-,-,I,-,peptide chain release factor 1,protein-coding,-,-,-,peptide chain release factor 1,20201215,-
+83559,48058983,prmC,B6F13_RS00130,-,-,I,-,peptide chain release factor N(5)-glutamine methyltransferase,protein-coding,-,-,-,peptide chain release factor N(5)-glutamine methyltransferase,20201215,-
+83559,48058984,ffh,B6F13_RS00135,-,-,I,-,signal recognition particle protein,protein-coding,-,-,-,signal recognition particle protein,20201215,-
+83559,48058985,B6F13_RS00140,B6F13_RS00140,-,-,I,-,30S ribosomal protein S16,protein-coding,-,-,-,30S ribosomal protein S16,20201215,-
+83559,48058986,trmD,B6F13_RS00145,-,-,I,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,protein-coding,-,-,-,tRNA (guanosine(37)-N1)-methyltransferase TrmD,20201215,-
+83559,48058987,rplS,B6F13_RS00150,-,-,I,-,50S ribosomal protein L19,protein-coding,-,-,-,50S ribosomal protein L19,20201215,-
+83559,48058988,B6F13_RS00155,B6F13_RS00155,-,-,I,-,ribonuclease HII,protein-coding,-,-,-,ribonuclease HII,20201215,-
+83559,48058989,gmk,B6F13_RS00160,-,-,I,-,guanylate kinase,protein-coding,-,-,-,guanylate kinase,20201215,-
+83559,48058990,B6F13_RS00165,B6F13_RS00165,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058991,B6F13_RS00170,B6F13_RS00170,-,-,I,-,methionine--tRNA ligase,protein-coding,-,-,-,methionine--tRNA ligase,20201215,-
+83559,48058992,B6F13_RS00175,B6F13_RS00175,-,-,I,-,ATP-dependent RecD-like DNA helicase,protein-coding,-,-,-,ATP-dependent RecD-like DNA helicase,20201215,-
+83559,48058993,B6F13_RS00180,B6F13_RS00180,-,-,I,-,DMT family transporter,protein-coding,-,-,-,DMT family transporter,20201215,-
+83559,48058994,B6F13_RS00185,B6F13_RS00185,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058995,B6F13_RS00190,B6F13_RS00190,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058996,B6F13_RS00195,B6F13_RS00195,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48058997,B6F13_RS00200,B6F13_RS00200,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48058998,B6F13_RS00205,B6F13_RS00205,-,-,I,-,dCTP deaminase,protein-coding,-,-,-,dCTP deaminase,20201215,-
+83559,48058999,ruvB,B6F13_RS00210,-,-,I,-,Holliday junction branch migration DNA helicase RuvB,protein-coding,-,-,-,Holliday junction branch migration DNA helicase RuvB,20201215,-
+83559,48059000,B6F13_RS00215,B6F13_RS00215,-,-,I,-,SpoIID/LytB domain-containing protein,protein-coding,-,-,-,SpoIID/LytB domain-containing protein,20201215,-
+83559,48059001,B6F13_RS00220,B6F13_RS00220,-,-,I,-,glycogen-debranching protein,protein-coding,-,-,-,glycogen-debranching protein,20201215,-
+83559,48059002,B6F13_RS00225,B6F13_RS00225,-,-,I,-,type III secretion chaperone Slc1,protein-coding,-,-,-,type III secretion chaperone Slc1,20201215,-
+83559,48059003,B6F13_RS00230,B6F13_RS00230,-,-,I,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201215,-
+83559,48059004,B6F13_RS00235,B6F13_RS00235,-,-,I,-,leucyl aminopeptidase,protein-coding,-,-,-,leucyl aminopeptidase,20201215,-
+83559,48059005,hctB,B6F13_RS00240,-,-,I,-,histone H1-like DNA-binding protein Hc2,protein-coding,-,-,-,histone H1-like DNA-binding protein Hc2,20210327,-
+83559,48059006,B6F13_RS00245,B6F13_RS00245,-,-,I,-,DNA polymerase III subunit delta,protein-coding,-,-,-,DNA polymerase III subunit delta,20201215,-
+83559,48059007,B6F13_RS00250,B6F13_RS00250,-,-,I,-,SAM-dependent methyltransferase,protein-coding,-,-,-,SAM-dependent methyltransferase,20201215,-
+83559,48059008,B6F13_RS00255,B6F13_RS00255,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059009,B6F13_RS00265,B6F13_RS00265,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059010,hemW,B6F13_RS00270,-,-,I,-,radical SAM family heme chaperone HemW,protein-coding,-,-,-,radical SAM family heme chaperone HemW,20201215,-
+83559,48059011,B6F13_RS00275,B6F13_RS00275,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059012,B6F13_RS00285,B6F13_RS00285,-,-,I,-,2-oxoglutarate dehydrogenase E1 component,protein-coding,-,-,-,2-oxoglutarate dehydrogenase E1 component,20201215,-
+83559,48059013,sucB,B6F13_RS00290,-,-,I,-,dihydrolipoyllysine-residue succinyltransferase,protein-coding,-,-,-,dihydrolipoyllysine-residue succinyltransferase,20201215,-
+83559,48059014,pgeF,B6F13_RS00295,-,-,I,-,peptidoglycan editing factor PgeF,protein-coding,-,-,-,peptidoglycan editing factor PgeF,20201215,-
+83559,48059015,B6F13_RS00300,B6F13_RS00300,-,-,I,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,20201215,-
+83559,48059016,B6F13_RS00305,B6F13_RS00305,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059017,B6F13_RS00310,B6F13_RS00310,-,-,I,-,(2Fe-2S)-binding protein,protein-coding,-,-,-,(2Fe-2S)-binding protein,20201215,-
+83559,48059018,B6F13_RS00315,B6F13_RS00315,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059019,B6F13_RS00320,B6F13_RS00320,-,-,I,-,FHIPEP family type III secretion protein,protein-coding,-,-,-,FHIPEP family type III secretion protein,20201215,-
+83559,48059020,B6F13_RS00325,B6F13_RS00325,-,-,I,-,FliA/WhiG family RNA polymerase sigma factor,protein-coding,-,-,-,FliA/WhiG family RNA polymerase sigma factor,20201215,-
+83559,48059021,B6F13_RS00330,B6F13_RS00330,-,-,I,-,tyrosine--tRNA ligase,protein-coding,-,-,-,tyrosine--tRNA ligase,20201215,-
+83559,48059022,gnd,B6F13_RS00335,-,-,I,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,protein-coding,-,-,-,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,20201215,-
+83559,48059023,lepA,B6F13_RS00340,-,-,I,-,elongation factor 4,protein-coding,-,-,-,elongation factor 4,20201215,-
+83559,48059024,npt1,B6F13_RS00345,-,-,I,-,NTP/NDP exchange transporter Npt1,protein-coding,-,-,-,NTP/NDP exchange transporter Npt1,20201215,-
+83559,48059025,B6F13_RS00355,B6F13_RS00355,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059026,B6F13_RS00360,B6F13_RS00360,-,-,I,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20201215,-
+83559,48059027,B6F13_RS00365,B6F13_RS00365,-,-,I,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20201215,-
+83559,48059028,B6F13_RS00370,B6F13_RS00370,-,-,I,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20201215,-
+83559,48059029,B6F13_RS00375,B6F13_RS00375,-,-,I,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20201215,-
+83559,48059030,B6F13_RS00380,B6F13_RS00380,-,-,I,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate reductoisomerase,20201215,-
+83559,48059031,B6F13_RS00385,B6F13_RS00385,-,-,I,-,RIP metalloprotease,protein-coding,-,-,-,RIP metalloprotease,20201215,-
+83559,48059032,B6F13_RS00390,B6F13_RS00390,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059033,recF,B6F13_RS00395,-,-,I,-,DNA replication/repair protein RecF,protein-coding,-,-,-,DNA replication/repair protein RecF,20201215,-
+83559,48059034,B6F13_RS00400,B6F13_RS00400,-,-,I,-,DNA polymerase III subunit beta,protein-coding,-,-,-,DNA polymerase III subunit beta,20201215,-
+83559,48059035,smpB,B6F13_RS00405,-,-,I,-,SsrA-binding protein SmpB,protein-coding,-,-,-,SsrA-binding protein SmpB,20201215,-
+83559,48059036,B6F13_RS00410,B6F13_RS00410,-,-,I,-,FAD:protein FMN transferase,protein-coding,-,-,-,FAD:protein FMN transferase,20201215,-
+83559,48059037,folD,B6F13_RS00415,-,-,I,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,protein-coding,-,-,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,20201215,-
+83559,48059038,mreD,B6F13_RS00420,-,-,I,-,rod shape-determining protein MreD,protein-coding,-,-,-,rod shape-determining protein MreD,20201215,-
+83559,48059039,ltuB,B6F13_RS00425,-,-,I,-,late transcription unit protein LtuB,protein-coding,-,-,-,late transcription unit protein LtuB,20201215,-
+83559,48059040,B6F13_RS00430,B6F13_RS00430,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059041,B6F13_RS00435,B6F13_RS00435,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059042,B6F13_RS00440,B6F13_RS00440,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059043,B6F13_RS00445,B6F13_RS00445,-,-,I,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20201215,-
+83559,48059044,B6F13_RS00450,B6F13_RS00450,-,-,I,-,menaquinone biosynthesis decarboxylase,protein-coding,-,-,-,menaquinone biosynthesis decarboxylase,20201215,-
+83559,48059045,B6F13_RS00455,B6F13_RS00455,-,-,I,-,50S ribosomal protein L28,protein-coding,-,-,-,50S ribosomal protein L28,20201215,-
+83559,48059046,B6F13_RS00460,B6F13_RS00460,-,-,I,-,4-alpha-glucanotransferase,protein-coding,-,-,-,4-alpha-glucanotransferase,20201215,-
+83559,48059047,B6F13_RS00465,B6F13_RS00465,-,-,I,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20201215,-
+83559,48059048,sctW,B6F13_RS00470,-,-,I,-,type III secretion system gatekeeper subunit SctW,protein-coding,-,-,-,type III secretion system gatekeeper subunit SctW,20201215,-
+83559,48059049,cdsV,B6F13_RS00475,-,-,I,-,SctV family type III secretion system export apparatus subunit CdsV,protein-coding,-,-,-,SctV family type III secretion system export apparatus subunit CdsV,20201215,-
+83559,48059050,cdsU,B6F13_RS00480,-,-,I,-,SctU family type III secretion system export apparatus subunit CdsU,protein-coding,-,-,-,SctU family type III secretion system export apparatus subunit CdsU,20201215,-
+83559,48059051,ychF,B6F13_RS00485,-,-,I,-,redox-regulated ATPase YchF,protein-coding,-,-,-,redox-regulated ATPase YchF,20201217,-
+83559,48059052,B6F13_RS00490,B6F13_RS00490,-,-,I,-,bifunctional riboflavin kinase/FAD synthetase,protein-coding,-,-,-,bifunctional riboflavin kinase/FAD synthetase,20201215,-
+83559,48059053,truB,B6F13_RS00495,-,-,I,-,tRNA pseudouridine(55) synthase TruB,protein-coding,-,-,-,tRNA pseudouridine(55) synthase TruB,20201215,-
+83559,48059054,rbfA,B6F13_RS00500,-,-,I,-,30S ribosome-binding factor RbfA,protein-coding,-,-,-,30S ribosome-binding factor RbfA,20201215,-
+83559,48059055,infB,B6F13_RS00505,-,-,I,-,translation initiation factor IF-2,protein-coding,-,-,-,translation initiation factor IF-2,20201215,-
+83559,48059056,nusA,B6F13_RS00510,-,-,I,-,transcription termination/antitermination protein NusA,protein-coding,-,-,-,transcription termination/antitermination protein NusA,20201215,-
+83559,48059057,rpsA,B6F13_RS00515,-,-,I,-,30S ribosomal protein S1,protein-coding,-,-,-,30S ribosomal protein S1,20201215,-
+83559,48059058,B6F13_RS00520,B6F13_RS00520,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059059,trxB,B6F13_RS00525,-,-,I,-,thioredoxin-disulfide reductase,protein-coding,-,-,-,thioredoxin-disulfide reductase,20201215,-
+83559,48059060,B6F13_RS00530,B6F13_RS00530,-,-,I,-,holo-ACP synthase,protein-coding,-,-,-,holo-ACP synthase,20201215,-
+83559,48059061,B6F13_RS00535,B6F13_RS00535,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059062,B6F13_RS00540,B6F13_RS00540,-,-,I,-,FliO/MopB family protein,protein-coding,-,-,-,FliO/MopB family protein,20201215,-
+83559,48059063,B6F13_RS00545,B6F13_RS00545,-,-,I,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20201215,-
+83559,48059064,B6F13_RS00550,B6F13_RS00550,-,-,I,-,enoyl-[acyl-carrier-protein] reductase,protein-coding,-,-,-,enoyl-[acyl-carrier-protein] reductase,20201215,-
+83559,48059065,B6F13_RS00555,B6F13_RS00555,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059066,B6F13_RS00560,B6F13_RS00560,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059067,B6F13_RS00565,B6F13_RS00565,-,-,I,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201215,-
+83559,48059068,mutY,B6F13_RS00570,-,-,I,-,A/G-specific adenine glycosylase,protein-coding,-,-,-,A/G-specific adenine glycosylase,20201215,-
+83559,48059069,B6F13_RS00575,B6F13_RS00575,-,-,I,-,Nif3-like dinuclear metal center hexameric protein,protein-coding,-,-,-,Nif3-like dinuclear metal center hexameric protein,20201215,-
+83559,48059070,B6F13_RS00580,B6F13_RS00580,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059071,groL,B6F13_RS00585,-,-,I,-,chaperonin GroEL,protein-coding,-,-,-,chaperonin GroEL,20201215,-
+83559,48059072,B6F13_RS00590,B6F13_RS00590,-,-,I,-,co-chaperone GroES,protein-coding,-,-,-,co-chaperone GroES,20201215,-
+83559,48059073,pepF,B6F13_RS00595,-,-,I,-,oligoendopeptidase F,protein-coding,-,-,-,oligoendopeptidase F,20201215,-
+83559,48059074,B6F13_RS00600,B6F13_RS00600,-,-,I,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201215,-
+83559,48059075,B6F13_RS00605,B6F13_RS00605,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210522,-
+83559,48059076,incD,B6F13_RS00610,-,-,I,-,inclusion membrane protein IncD,protein-coding,-,-,-,inclusion membrane protein IncD,20201215,-
+83559,48059077,incE,B6F13_RS00615,-,-,I,-,inclusion membrane protein IncE,protein-coding,-,-,-,inclusion membrane protein IncE,20201215,-
+83559,48059078,incF,B6F13_RS00620,-,-,I,-,inclusion membrane protein IncF,protein-coding,-,-,-,inclusion membrane protein IncF,20201215,-
+83559,48059079,B6F13_RS00625,B6F13_RS00625,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059080,B6F13_RS00630,B6F13_RS00630,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059081,B6F13_RS00635,B6F13_RS00635,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059082,rpe,B6F13_RS00640,-,-,I,-,ribulose-phosphate 3-epimerase,protein-coding,-,-,-,ribulose-phosphate 3-epimerase,20210522,-
+83559,48059083,B6F13_RS00645,B6F13_RS00645,-,-,I,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201215,-
+83559,48059084,accB,B6F13_RS00650,-,-,I,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxyl carrier protein,20201215,-
+83559,48059085,accC,B6F13_RS00655,-,-,I,-,acetyl-CoA carboxylase biotin carboxylase subunit,protein-coding,-,-,-,acetyl-CoA carboxylase biotin carboxylase subunit,20201215,-
+83559,48059086,rplM,B6F13_RS00660,-,-,I,-,50S ribosomal protein L13,protein-coding,-,-,-,50S ribosomal protein L13,20201215,-
+83559,48059087,rpsI,B6F13_RS00665,-,-,I,-,30S ribosomal protein S9,protein-coding,-,-,-,30S ribosomal protein S9,20201215,-
+83559,48059088,B6F13_RS00670,B6F13_RS00670,-,-,I,-,C40 family peptidase,protein-coding,-,-,-,C40 family peptidase,20201215,-
+83559,48059089,B6F13_RS00675,B6F13_RS00675,-,-,I,-,adenylate kinase,protein-coding,-,-,-,adenylate kinase,20201215,-
+83559,48059090,B6F13_RS00680,B6F13_RS00680,-,-,I,-,amino acid ABC transporter permease,protein-coding,-,-,-,amino acid ABC transporter permease,20201215,-
+83559,48059091,B6F13_RS00685,B6F13_RS00685,-,-,I,-,amino acid ABC transporter ATP-binding protein,protein-coding,-,-,-,amino acid ABC transporter ATP-binding protein,20201215,-
+83559,48059092,B6F13_RS00690,B6F13_RS00690,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059093,B6F13_RS00695,B6F13_RS00695,-,-,I,-,YihY/virulence factor BrkB family protein,protein-coding,-,-,-,YihY/virulence factor BrkB family protein,20201215,-
+83559,48059094,B6F13_RS00700,B6F13_RS00700,-,-,I,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20201215,-
+83559,48059095,B6F13_RS00705,B6F13_RS00705,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059096,B6F13_RS00710,B6F13_RS00710,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059097,B6F13_RS00715,B6F13_RS00715,-,-,I,-,hydrolase,protein-coding,-,-,-,hydrolase,20201215,-
+83559,48059098,B6F13_RS00720,B6F13_RS00720,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059099,B6F13_RS00725,B6F13_RS00725,-,-,I,-,membrane dipeptidase,protein-coding,-,-,-,membrane dipeptidase,20201215,-
+83559,48059100,B6F13_RS00730,B6F13_RS00730,-,-,I,-,peptide-binding protein,protein-coding,-,-,-,peptide-binding protein,20201215,-
+83559,48059101,B6F13_RS00735,B6F13_RS00735,-,-,I,-,queuosine precursor transporter,protein-coding,-,-,-,queuosine precursor transporter,20201215,-
+83559,48059102,B6F13_RS00740,B6F13_RS00740,-,-,I,-,SEC-C domain-containing protein,protein-coding,-,-,-,SEC-C domain-containing protein,20201215,-
+83559,48059103,B6F13_RS00745,B6F13_RS00745,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059104,B6F13_RS00750,B6F13_RS00750,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059105,B6F13_RS00755,B6F13_RS00755,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059106,B6F13_RS00760,B6F13_RS00760,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059107,B6F13_RS00765,B6F13_RS00765,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059108,B6F13_RS00770,B6F13_RS00770,-,-,I,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,protein-coding,-,-,-,SUMF1/EgtB/PvdO family nonheme iron enzyme,20201215,-
+83559,48059109,ligA,B6F13_RS00775,-,-,I,-,NAD-dependent DNA ligase LigA,protein-coding,-,-,-,NAD-dependent DNA ligase LigA,20201215,-
+83559,48059110,B6F13_RS00780,B6F13_RS00780,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059111,B6F13_RS00785,B6F13_RS00785,-,-,I,-,FAD-dependent monooxygenase,protein-coding,-,-,-,FAD-dependent monooxygenase,20201215,-
+83559,48059112,B6F13_RS00790,B6F13_RS00790,-,-,I,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201215,-
+83559,48059113,rpmG,B6F13_RS00795,-,-,I,-,50S ribosomal protein L33,protein-coding,-,-,-,50S ribosomal protein L33,20201215,-
+83559,48059114,B6F13_RS00800,B6F13_RS00800,-,-,I,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201215,-
+83559,48059115,B6F13_RS00805,B6F13_RS00805,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059116,B6F13_RS00810,B6F13_RS00810,-,-,I,-,MAC/perforin family protein,protein-coding,-,-,-,MAC/perforin family protein,20201215,-
+83559,48059117,B6F13_RS00815,B6F13_RS00815,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059118,B6F13_RS00830,B6F13_RS00830,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059119,B6F13_RS00835,B6F13_RS00835,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059120,B6F13_RS00840,B6F13_RS00840,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059121,B6F13_RS00845,B6F13_RS00845,-,-,I,-,DUF1669 domain-containing protein,protein-coding,-,-,-,DUF1669 domain-containing protein,20201215,-
+83559,48059122,B6F13_RS00855,B6F13_RS00855,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059123,B6F13_RS00860,B6F13_RS00860,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059124,B6F13_RS00865,B6F13_RS00865,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059125,B6F13_RS00870,B6F13_RS00870,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059126,B6F13_RS00875,B6F13_RS00875,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059127,B6F13_RS00880,B6F13_RS00880,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059128,B6F13_RS00885,B6F13_RS00885,-,-,I,-,gamma-glutamylcyclotransferase,protein-coding,-,-,-,gamma-glutamylcyclotransferase,20201215,-
+83559,48059129,B6F13_RS00890,B6F13_RS00890,-,-,I,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20201215,-
+83559,48059130,B6F13_RS00895,B6F13_RS00895,-,-,I,-,LifA/Efa1-related large cytotoxin,protein-coding,-,-,-,LifA/Efa1-related large cytotoxin,20201215,-
+83559,48059131,B6F13_RS00900,B6F13_RS00900,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059132,B6F13_RS00905,B6F13_RS00905,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059133,B6F13_RS00910,B6F13_RS00910,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059134,trpR,B6F13_RS00915,-,-,I,-,trp operon repressor,protein-coding,-,-,-,trp operon repressor,20201215,-
+83559,48059135,trpB,B6F13_RS00920,-,-,I,-,tryptophan synthase subunit beta,protein-coding,-,-,-,tryptophan synthase subunit beta,20201215,-
+83559,48059136,trpA,B6F13_RS00925,-,-,I,-,tryptophan synthase subunit alpha,protein-coding,-,-,-,tryptophan synthase subunit alpha,20201215,-
+83559,48059137,B6F13_RS00930,B6F13_RS00930,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210123,-
+83559,48059138,B6F13_RS00935,B6F13_RS00935,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059139,B6F13_RS00940,B6F13_RS00940,-,-,I,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20201215,-
+83559,48059140,B6F13_RS00945,B6F13_RS00945,-,-,I,-,disulfide bond formation protein B,protein-coding,-,-,-,disulfide bond formation protein B,20201215,-
+83559,48059141,B6F13_RS00950,B6F13_RS00950,-,-,I,-,DsbA family protein,protein-coding,-,-,-,DsbA family protein,20201215,-
+83559,48059142,B6F13_RS00955,B6F13_RS00955,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059143,B6F13_RS00960,B6F13_RS00960,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059144,B6F13_RS00965,B6F13_RS00965,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059145,B6F13_RS00970,B6F13_RS00970,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059146,B6F13_RS00975,B6F13_RS00975,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059147,B6F13_RS00980,B6F13_RS00980,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059148,B6F13_RS00985,B6F13_RS00985,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059149,kdsB,B6F13_RS00990,-,-,I,-,3-deoxy-manno-octulosonate cytidylyltransferase,protein-coding,-,-,-,3-deoxy-manno-octulosonate cytidylyltransferase,20201215,-
+83559,48059150,B6F13_RS00995,B6F13_RS00995,-,-,I,-,CTP synthase,protein-coding,-,-,-,CTP synthase,20201215,-
+83559,48059151,ruvX,B6F13_RS01000,-,-,I,-,Holliday junction resolvase RuvX,protein-coding,-,-,-,Holliday junction resolvase RuvX,20201215,-
+83559,48059152,B6F13_RS01005,B6F13_RS01005,-,-,I,-,glucose-6-phosphate dehydrogenase,protein-coding,-,-,-,glucose-6-phosphate dehydrogenase,20201215,-
+83559,48059153,pgl,B6F13_RS01010,-,-,I,-,6-phosphogluconolactonase,protein-coding,-,-,-,6-phosphogluconolactonase,20201215,-
+83559,48059154,B6F13_RS01015,B6F13_RS01015,-,-,I,-,DNA polymerase III subunit delta',protein-coding,-,-,-,DNA polymerase III subunit delta',20201215,-
+83559,48059155,B6F13_RS01020,B6F13_RS01020,-,-,I,-,dTMP kinase,protein-coding,-,-,-,dTMP kinase,20201215,-
+83559,48059156,gyrA,B6F13_RS01025,-,-,I,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit A,20201215,-
+83559,48059157,gyrB,B6F13_RS01030,-,-,I,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,protein-coding,-,-,-,DNA topoisomerase (ATP-hydrolyzing) subunit B,20201215,-
+83559,48059158,B6F13_RS01035,B6F13_RS01035,-,-,I,-,DUF721 domain-containing protein,protein-coding,-,-,-,DUF721 domain-containing protein,20201215,-
+83559,48059159,B6F13_RS01040,B6F13_RS01040,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059160,B6F13_RS01045,B6F13_RS01045,-,-,I,-,tRNA-guanosine(34) transglycosylase,protein-coding,-,-,-,tRNA-guanosine(34) transglycosylase,20201215,-
+83559,48059161,mgtE,B6F13_RS01050,-,-,I,-,magnesium transporter,protein-coding,-,-,-,magnesium transporter,20201215,-
+83559,48059162,B6F13_RS01055,B6F13_RS01055,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059163,B6F13_RS01060,B6F13_RS01060,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059164,tsaD,B6F13_RS01065,-,-,I,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,20201215,-
+83559,48059165,B6F13_RS01070,B6F13_RS01070,-,-,I,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20201215,-
+83559,48059166,B6F13_RS01075,B6F13_RS01075,-,-,I,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201215,-
+83559,48059167,B6F13_RS01080,B6F13_RS01080,-,-,I,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201215,-
+83559,48059168,B6F13_RS01085,B6F13_RS01085,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059169,B6F13_RS01090,B6F13_RS01090,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059170,B6F13_RS01095,B6F13_RS01095,-,-,I,-,DUF1186 domain-containing protein,protein-coding,-,-,-,DUF1186 domain-containing protein,20210123,-
+83559,48059171,B6F13_RS01100,B6F13_RS01100,-,-,I,-,anion permease,protein-coding,-,-,-,anion permease,20201215,-
+83559,48059172,B6F13_RS01105,B6F13_RS01105,-,-,I,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20201215,-
+83559,48059173,B6F13_RS01110,B6F13_RS01110,-,-,I,-,alpha/beta hydrolase,protein-coding,-,-,-,alpha/beta hydrolase,20201215,-
+83559,48059174,B6F13_RS01115,B6F13_RS01115,-,-,I,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,protein-coding,-,-,-,diphosphate--fructose-6-phosphate 1-phosphotransferase,20201215,-
+83559,48059175,B6F13_RS01120,B6F13_RS01120,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059176,B6F13_RS01125,B6F13_RS01125,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059177,waaA,B6F13_RS01130,-,-,I,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,protein-coding,-,-,-,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,20201215,-
+83559,48059178,B6F13_RS01135,B6F13_RS01135,-,-,I,-,leucine--tRNA ligase,protein-coding,-,-,-,leucine--tRNA ligase,20201215,-
+83559,48059179,hemL,B6F13_RS01140,-,-,I,-,"glutamate-1-semialdehyde 2,1-aminomutase",protein-coding,-,-,-,"glutamate-1-semialdehyde 2,1-aminomutase",20201215,-
+83559,48059180,B6F13_RS01145,B6F13_RS01145,-,-,I,-,YqgE/AlgH family protein,protein-coding,-,-,-,YqgE/AlgH family protein,20201215,-
+83559,48059181,B6F13_RS01150,B6F13_RS01150,-,-,I,-,bifunctional nuclease family protein,protein-coding,-,-,-,bifunctional nuclease family protein,20201215,-
+83559,48059182,rpiA,B6F13_RS01155,-,-,I,-,ribose-5-phosphate isomerase RpiA,protein-coding,-,-,-,ribose-5-phosphate isomerase RpiA,20201215,-
+83559,48059183,B6F13_RS01160,B6F13_RS01160,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059184,B6F13_RS01165,B6F13_RS01165,-,-,I,-,class I fructose-bisphosphate aldolase,protein-coding,-,-,-,class I fructose-bisphosphate aldolase,20201215,-
+83559,48059185,B6F13_RS01170,B6F13_RS01170,-,-,I,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20201215,-
+83559,48059186,B6F13_RS01175,B6F13_RS01175,-,-,I,-,tRNA 2-thiocytidine biosynthesis protein TtcA,protein-coding,-,-,-,tRNA 2-thiocytidine biosynthesis protein TtcA,20201217,-
+83559,48059187,B6F13_RS01180,B6F13_RS01180,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059188,surE,B6F13_RS01185,-,-,I,-,5'/3'-nucleotidase SurE,protein-coding,-,-,-,5'/3'-nucleotidase SurE,20201215,-
+83559,48059189,B6F13_RS01190,B6F13_RS01190,-,-,I,-,UbiA family prenyltransferase,protein-coding,-,-,-,UbiA family prenyltransferase,20201215,-
+83559,48059190,B6F13_RS01195,B6F13_RS01195,-,-,I,-,UbiX family flavin prenyltransferase,protein-coding,-,-,-,UbiX family flavin prenyltransferase,20201215,-
+83559,48059191,B6F13_RS01200,B6F13_RS01200,-,-,I,-,YitT family protein,protein-coding,-,-,-,YitT family protein,20201215,-
+83559,48059192,B6F13_RS01205,B6F13_RS01205,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059193,B6F13_RS01210,B6F13_RS01210,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059194,B6F13_RS01215,B6F13_RS01215,-,-,I,-,endonuclease,protein-coding,-,-,-,endonuclease,20201215,-
+83559,48059195,B6F13_RS01220,B6F13_RS01220,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059196,B6F13_RS01225,B6F13_RS01225,-,-,I,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201215,-
+83559,48059197,B6F13_RS01230,B6F13_RS01230,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059198,B6F13_RS01235,B6F13_RS01235,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059199,B6F13_RS01240,B6F13_RS01240,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059200,B6F13_RS01245,B6F13_RS01245,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059201,B6F13_RS01250,B6F13_RS01250,-,-,I,-,IncA family protein,protein-coding,-,-,-,IncA family protein,20201215,-
+83559,48059202,B6F13_RS01255,B6F13_RS01255,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210327,-
+83559,48059203,B6F13_RS01260,B6F13_RS01260,-,-,I,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20201215,-
+83559,48059204,B6F13_RS01265,B6F13_RS01265,-,-,I,-,sodium-dependent transporter,protein-coding,-,-,-,sodium-dependent transporter,20201215,-
+83559,48059205,incB,B6F13_RS01270,-,-,I,-,inclusion membrane protein IncB,protein-coding,-,-,-,inclusion membrane protein IncB,20201215,-
+83559,48059206,B6F13_RS01275,B6F13_RS01275,-,-,I,-,membrane protein,protein-coding,-,-,-,membrane protein,20201215,-
+83559,48059207,B6F13_RS01280,B6F13_RS01280,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059208,B6F13_RS01285,B6F13_RS01285,-,-,I,-,cyclic nucleotide-binding domain-containing protein,protein-coding,-,-,-,cyclic nucleotide-binding domain-containing protein,20201215,-
+83559,48059209,acpP,B6F13_RS01290,-,-,I,-,acyl carrier protein,protein-coding,-,-,-,acyl carrier protein,20201215,-
+83559,48059210,fabG,B6F13_RS01295,-,-,I,-,3-oxoacyl-ACP reductase FabG,protein-coding,-,-,-,3-oxoacyl-ACP reductase FabG,20201215,-
+83559,48059211,fabD,B6F13_RS01300,-,-,I,-,ACP S-malonyltransferase,protein-coding,-,-,-,ACP S-malonyltransferase,20201215,-
+83559,48059212,B6F13_RS01305,B6F13_RS01305,-,-,I,-,ketoacyl-ACP synthase III,protein-coding,-,-,-,ketoacyl-ACP synthase III,20201215,-
+83559,48059213,recR,B6F13_RS01310,-,-,I,-,recombination protein RecR,protein-coding,-,-,-,recombination protein RecR,20201215,-
+83559,48059214,bamA,B6F13_RS01320,-,-,I,-,outer membrane protein assembly factor BamA,protein-coding,-,-,-,outer membrane protein assembly factor BamA,20201215,-
+83559,48059215,B6F13_RS01325,B6F13_RS01325,-,-,I,-,OmpH family outer membrane protein,protein-coding,-,-,-,OmpH family outer membrane protein,20201215,-
+83559,48059216,lpxD,B6F13_RS01330,-,-,I,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,protein-coding,-,-,-,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,20201215,-
+83559,48059217,B6F13_RS01335,B6F13_RS01335,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059218,B6F13_RS01340,B6F13_RS01340,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059219,pdhA,B6F13_RS01345,-,-,I,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,protein-coding,-,-,-,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,20201215,-
+83559,48059220,B6F13_RS01350,B6F13_RS01350,-,-,I,-,pyruvate dehydrogenase complex E1 component subunit beta,protein-coding,-,-,-,pyruvate dehydrogenase complex E1 component subunit beta,20201215,-
+83559,48059221,B6F13_RS01355,B6F13_RS01355,-,-,I,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,protein-coding,-,-,-,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,20201215,-
+83559,48059222,B6F13_RS01360,B6F13_RS01360,-,-,I,-,glycogen/starch/alpha-glucan phosphorylase,protein-coding,-,-,-,glycogen/starch/alpha-glucan phosphorylase,20201215,-
+83559,48059223,B6F13_RS01365,B6F13_RS01365,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059224,dnaA,B6F13_RS01370,-,-,I,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20201215,-
+83559,48059225,yidC,B6F13_RS01375,-,-,I,-,membrane protein insertase YidC,protein-coding,-,-,-,membrane protein insertase YidC,20201215,-
+83559,48059226,B6F13_RS01380,B6F13_RS01380,-,-,I,-,prolipoprotein diacylglyceryl transferase,protein-coding,-,-,-,prolipoprotein diacylglyceryl transferase,20201215,-
+83559,48059227,B6F13_RS01390,B6F13_RS01390,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059228,B6F13_RS01395,B6F13_RS01395,-,-,I,-,CPBP family intramembrane metalloprotease,protein-coding,-,-,-,CPBP family intramembrane metalloprotease,20201215,-
+83559,48059229,ffs,B6F13_RS01400,-,-,I,-,ncRNA,ncRNA,-,-,-,-,20201215,-
+83559,48059230,B6F13_RS01405,B6F13_RS01405,-,-,I,-,nucleotide pyrophosphohydrolase,protein-coding,-,-,-,nucleotide pyrophosphohydrolase,20201215,-
+83559,48059231,B6F13_RS01410,B6F13_RS01410,-,-,I,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20201215,-
+83559,48059232,B6F13_RS01415,B6F13_RS01415,-,-,I,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20201215,-
+83559,48059233,B6F13_RS01420,B6F13_RS01420,-,-,I,-,cysteine desulfurase,protein-coding,-,-,-,cysteine desulfurase,20201215,-
+83559,48059234,B6F13_RS01425,B6F13_RS01425,-,-,I,-,serine/threonine-protein phosphatase,protein-coding,-,-,-,serine/threonine-protein phosphatase,20210320,-
+83559,48059235,B6F13_RS01430,B6F13_RS01430,-,-,I,-,YbjN domain-containing protein,protein-coding,-,-,-,YbjN domain-containing protein,20201215,-
+83559,48059236,B6F13_RS01435,B6F13_RS01435,-,-,I,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20201215,-
+83559,48059237,B6F13_RS01440,B6F13_RS01440,-,-,I,-,menaquinone biosynthesis family protein,protein-coding,-,-,-,menaquinone biosynthesis family protein,20201215,-
+83559,48059238,B6F13_RS01445,B6F13_RS01445,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059239,B6F13_RS01450,B6F13_RS01450,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059240,B6F13_RS01455,B6F13_RS01455,-,-,I,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit alpha,20201215,-
+83559,48059241,B6F13_RS01460,B6F13_RS01460,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059242,B6F13_RS01465,B6F13_RS01465,-,-,I,-,HU family DNA-binding protein,protein-coding,-,-,-,HU family DNA-binding protein,20201215,-
+83559,48059243,B6F13_RS01470,B6F13_RS01470,-,-,I,-,N-acetylmuramoyl-L-alanine amidase,protein-coding,-,-,-,N-acetylmuramoyl-L-alanine amidase,20201215,-
+83559,48059244,B6F13_RS01475,B6F13_RS01475,-,-,I,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",protein-coding,-,-,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",20201215,-
+83559,48059245,B6F13_RS01485,B6F13_RS01485,-,-,I,-,penicillin-binding protein 2,protein-coding,-,-,-,penicillin-binding protein 2,20201215,-
+83559,48059246,B6F13_RS01490,B6F13_RS01490,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059247,rsmH,B6F13_RS01495,-,-,I,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,protein-coding,-,-,-,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,20201215,-
+83559,48059248,B6F13_RS01500,B6F13_RS01500,-,-,I,-,DUF5399 domain-containing protein,protein-coding,-,-,-,DUF5399 domain-containing protein,20201215,-
+83559,48059249,B6F13_RS01505,B6F13_RS01505,-,-,I,-,type III secretion chaperone,protein-coding,-,-,-,type III secretion chaperone,20201215,-
+83559,48059250,dnaA,B6F13_RS01510,-,-,I,-,chromosomal replication initiator protein DnaA,protein-coding,-,-,-,chromosomal replication initiator protein DnaA,20201215,-
+83559,48059251,B6F13_RS01515,B6F13_RS01515,-,-,I,-,polymer-forming cytoskeletal protein,protein-coding,-,-,-,polymer-forming cytoskeletal protein,20201215,-
+83559,48059252,B6F13_RS01520,B6F13_RS01520,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059253,B6F13_RS01525,B6F13_RS01525,-,-,I,-,Na(+)-transporting NADH-quinone reductase subunit B,protein-coding,-,-,-,Na(+)-transporting NADH-quinone reductase subunit B,20201215,-
+83559,48059254,B6F13_RS01530,B6F13_RS01530,-,-,I,-,Na(+)-translocating NADH-quinone reductase subunit C,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit C,20201215,-
+83559,48059255,nqrD,B6F13_RS01535,-,-,I,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,20201215,-
+83559,48059256,nqrE,B6F13_RS01540,-,-,I,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,20201215,-
+83559,48059257,B6F13_RS01545,B6F13_RS01545,-,-,I,-,glycine cleavage protein H-like protein,protein-coding,-,-,-,glycine cleavage protein H-like protein,20201215,-
+83559,48059258,B6F13_RS01550,B6F13_RS01550,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059259,B6F13_RS01555,B6F13_RS01555,-,-,I,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,protein-coding,-,-,-,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein,20201215,-
+83559,48059260,B6F13_RS01560,B6F13_RS01560,-,-,I,-,lipoate--protein ligase family protein,protein-coding,-,-,-,lipoate--protein ligase family protein,20201215,-
+83559,48059261,B6F13_RS01565,B6F13_RS01565,-,-,I,-,ATP-dependent Clp protease ATP-binding subunit,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit,20201215,-
+83559,48059262,mnmA,B6F13_RS01570,-,-,I,-,tRNA 2-thiouridine(34) synthase MnmA,protein-coding,-,-,-,tRNA 2-thiouridine(34) synthase MnmA,20201215,-
+83559,48059263,B6F13_RS01575,B6F13_RS01575,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059264,B6F13_RS01580,B6F13_RS01580,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059265,B6F13_RS01585,B6F13_RS01585,-,-,I,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201215,-
+83559,48059266,B6F13_RS01590,B6F13_RS01590,-,-,I,-,PTS sugar transporter subunit IIA,protein-coding,-,-,-,PTS sugar transporter subunit IIA,20201215,-
+83559,48059267,dut,B6F13_RS01595,-,-,I,-,dUTP diphosphatase,protein-coding,-,-,-,dUTP diphosphatase,20201215,-
+83559,48059268,B6F13_RS01600,B6F13_RS01600,-,-,I,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,protein-coding,-,-,-,acetyl-CoA carboxylase carboxyltransferase subunit beta,20201215,-
+83559,48059269,B6F13_RS01605,B6F13_RS01605,-,-,I,-,superoxide dismutase,protein-coding,-,-,-,superoxide dismutase,20201215,-
+83559,48059270,B6F13_RS01610,B6F13_RS01610,-,-,I,-,phospho-sugar mutase,protein-coding,-,-,-,phospho-sugar mutase,20201215,-
+83559,48059271,B6F13_RS01615,B6F13_RS01615,-,-,I,-,DUF5070 domain-containing protein,protein-coding,-,-,-,DUF5070 domain-containing protein,20201215,-
+83559,48059272,B6F13_RS01620,B6F13_RS01620,-,-,I,-,ribonuclease III,protein-coding,-,-,-,ribonuclease III,20201215,-
+83559,48059273,radA,B6F13_RS01625,-,-,I,-,DNA repair protein RadA,protein-coding,-,-,-,DNA repair protein RadA,20201215,-
+83559,48059274,B6F13_RS01630,B6F13_RS01630,-,-,I,-,hydroxymethylbilane synthase,protein-coding,-,-,-,hydroxymethylbilane synthase,20201215,-
+83559,48059275,B6F13_RS01635,B6F13_RS01635,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059276,B6F13_RS01640,B6F13_RS01640,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059277,pknD,B6F13_RS01645,-,-,I,-,serine/threonine-protein kinase PknD,protein-coding,-,-,-,serine/threonine-protein kinase PknD,20201215,-
+83559,48059278,B6F13_RS01650,B6F13_RS01650,-,-,I,-,valine--tRNA ligase,protein-coding,-,-,-,valine--tRNA ligase,20201215,-
+83559,48059279,B6F13_RS01655,B6F13_RS01655,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059280,B6F13_RS01660,B6F13_RS01660,-,-,I,-,ATP synthase subunit C,protein-coding,-,-,-,ATP synthase subunit C,20210320,-
+83559,48059281,B6F13_RS01665,B6F13_RS01665,-,-,I,-,V-type ATP synthase subunit I,protein-coding,-,-,-,V-type ATP synthase subunit I,20201215,-
+83559,48059282,B6F13_RS01670,B6F13_RS01670,-,-,I,-,V-type ATP synthase subunit D,protein-coding,-,-,-,V-type ATP synthase subunit D,20201215,-
+83559,48059283,B6F13_RS01675,B6F13_RS01675,-,-,I,-,V-type ATP synthase subunit B,protein-coding,-,-,-,V-type ATP synthase subunit B,20201215,-
+83559,48059284,B6F13_RS01680,B6F13_RS01680,-,-,I,-,V-type ATP synthase subunit A,protein-coding,-,-,-,V-type ATP synthase subunit A,20201215,-
+83559,48059285,B6F13_RS01685,B6F13_RS01685,-,-,I,-,DUF2764 domain-containing protein,protein-coding,-,-,-,DUF2764 domain-containing protein,20201215,-
+83559,48059286,B6F13_RS01690,B6F13_RS01690,-,-,I,-,V-type ATP synthase subunit E,protein-coding,-,-,-,V-type ATP synthase subunit E,20201215,-
+83559,48059287,B6F13_RS01695,B6F13_RS01695,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059288,B6F13_RS01700,B6F13_RS01700,-,-,I,-,ferredoxin,protein-coding,-,-,-,ferredoxin,20201215,-
+83559,48059289,tal,B6F13_RS01705,-,-,I,-,transaldolase,protein-coding,-,-,-,transaldolase,20201215,-
+83559,48059290,rpoC,B6F13_RS01710,-,-,I,-,DNA-directed RNA polymerase subunit beta',protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta',20201215,-
+83559,48059291,rpoB,B6F13_RS01715,-,-,I,-,DNA-directed RNA polymerase subunit beta,protein-coding,-,-,-,DNA-directed RNA polymerase subunit beta,20201215,-
+83559,48059292,rplL,B6F13_RS01720,-,-,I,-,50S ribosomal protein L7/L12,protein-coding,-,-,-,50S ribosomal protein L7/L12,20201215,-
+83559,48059293,B6F13_RS01725,B6F13_RS01725,-,-,I,-,50S ribosomal protein L10,protein-coding,-,-,-,50S ribosomal protein L10,20201215,-
+83559,48059294,B6F13_RS01730,B6F13_RS01730,-,-,I,-,50S ribosomal protein L1,protein-coding,-,-,-,50S ribosomal protein L1,20201215,-
+83559,48059295,rplK,B6F13_RS01735,-,-,I,-,50S ribosomal protein L11,protein-coding,-,-,-,50S ribosomal protein L11,20201215,-
+83559,48059296,nusG,B6F13_RS01740,-,-,I,-,transcription termination/antitermination protein NusG,protein-coding,-,-,-,transcription termination/antitermination protein NusG,20201215,-
+83559,48059297,secE,B6F13_RS01745,-,-,I,-,preprotein translocase subunit SecE,protein-coding,-,-,-,preprotein translocase subunit SecE,20201215,-
+83559,48059298,B6F13_RS01750,B6F13_RS01750,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059299,tuf,B6F13_RS01755,-,-,I,-,elongation factor Tu,protein-coding,-,-,-,elongation factor Tu,20201215,-
+83559,48059300,B6F13_RS01760,B6F13_RS01760,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059301,infA,B6F13_RS01765,-,-,I,-,translation initiation factor IF-1,protein-coding,-,-,-,translation initiation factor IF-1,20201215,-
+83559,48059302,B6F13_RS01770,B6F13_RS01770,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059303,B6F13_RS01775,B6F13_RS01775,-,-,I,-,SufE family protein,protein-coding,-,-,-,SufE family protein,20201215,-
+83559,48059304,B6F13_RS01780,B6F13_RS01780,-,-,I,-,DUF687 family protein,protein-coding,-,-,-,DUF687 family protein,20201215,-
+83559,48059305,B6F13_RS01785,B6F13_RS01785,-,-,I,-,DUF687 family protein,protein-coding,-,-,-,DUF687 family protein,20201215,-
+83559,48059306,B6F13_RS01795,B6F13_RS01795,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059307,B6F13_RS01800,B6F13_RS01800,-,-,I,-,Helicase associated domain protein,protein-coding,-,-,-,Helicase associated domain protein,20201215,-
+83559,48059308,B6F13_RS01805,B6F13_RS01805,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059309,B6F13_RS01810,B6F13_RS01810,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059310,B6F13_RS01815,B6F13_RS01815,-,-,I,-,phosphoribosylanthranilate isomerase,protein-coding,-,-,-,phosphoribosylanthranilate isomerase,20201215,-
+83559,48059311,B6F13_RS01820,B6F13_RS01820,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059312,B6F13_RS01825,B6F13_RS01825,-,-,I,-,Helicase associated domain protein,protein-coding,-,-,-,Helicase associated domain protein,20201215,-
+83559,48059313,B6F13_RS01830,B6F13_RS01830,-,-,I,-,triose-phosphate isomerase,protein-coding,-,-,-,triose-phosphate isomerase,20201215,-
+83559,48059314,B6F13_RS01835,B6F13_RS01835,-,-,I,-,exodeoxyribonuclease VII large subunit,protein-coding,-,-,-,exodeoxyribonuclease VII large subunit,20201215,-
+83559,48059315,B6F13_RS01840,B6F13_RS01840,-,-,I,-,exodeoxyribonuclease VII small subunit,protein-coding,-,-,-,exodeoxyribonuclease VII small subunit,20201215,-
+83559,48059316,B6F13_RS01845,B6F13_RS01845,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059317,B6F13_RS01850,B6F13_RS01850,-,-,I,-,1-deoxy-D-xylulose-5-phosphate synthase,protein-coding,-,-,-,1-deoxy-D-xylulose-5-phosphate synthase,20201215,-
+83559,48059318,pyk,B6F13_RS01855,-,-,I,-,pyruvate kinase,protein-coding,-,-,-,pyruvate kinase,20201215,-
+83559,48059319,uvrA,B6F13_RS01860,-,-,I,-,excinuclease ABC subunit UvrA,protein-coding,-,-,-,excinuclease ABC subunit UvrA,20201215,-
+83559,48059320,dnaX,B6F13_RS01865,-,-,I,-,DNA polymerase III subunit gamma/tau,protein-coding,-,-,-,DNA polymerase III subunit gamma/tau,20201215,-
+83559,48059321,B6F13_RS01870,B6F13_RS01870,-,-,I,-,YbaB/EbfC family nucleoid-associated protein,protein-coding,-,-,-,YbaB/EbfC family nucleoid-associated protein,20201215,-
+83559,48059322,ptsP,B6F13_RS01875,-,-,I,-,phosphoenolpyruvate--protein phosphotransferase,protein-coding,-,-,-,phosphoenolpyruvate--protein phosphotransferase,20201215,-
+83559,48059323,B6F13_RS01880,B6F13_RS01880,-,-,I,-,HPr family phosphocarrier protein,protein-coding,-,-,-,HPr family phosphocarrier protein,20201215,-
+83559,48059324,B6F13_RS01885,B6F13_RS01885,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059325,B6F13_RS01890,B6F13_RS01890,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059326,B6F13_RS01895,B6F13_RS01895,-,-,I,-,ComEC/Rec2 family competence protein,protein-coding,-,-,-,ComEC/Rec2 family competence protein,20201215,-
+83559,48059327,B6F13_RS01900,B6F13_RS01900,-,-,I,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201215,-
+83559,48059328,dnaJ,B6F13_RS01905,-,-,I,-,molecular chaperone DnaJ,protein-coding,-,-,-,molecular chaperone DnaJ,20201215,-
+83559,48059329,B6F13_RS01910,B6F13_RS01910,-,-,I,-,30S ribosomal protein S21,protein-coding,-,-,-,30S ribosomal protein S21,20201215,-
+83559,48059330,B6F13_RS01915,B6F13_RS01915,-,-,I,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,protein-coding,-,-,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,20201215,-
+83559,48059331,lon,B6F13_RS01920,-,-,I,-,endopeptidase La,protein-coding,-,-,-,endopeptidase La,20201215,-
+83559,48059332,B6F13_RS01930,B6F13_RS01930,-,-,I,-,ribonuclease Z,protein-coding,-,-,-,ribonuclease Z,20201215,-
+83559,48059333,xerC,B6F13_RS01935,-,-,I,-,tyrosine recombinase XerC,protein-coding,-,-,-,tyrosine recombinase XerC,20201215,-
+83559,48059334,B6F13_RS01940,B6F13_RS01940,-,-,I,-,ABC-F family ATP-binding cassette domain-containing protein,protein-coding,-,-,-,ABC-F family ATP-binding cassette domain-containing protein,20201215,-
+83559,48059335,maf,B6F13_RS01945,-,-,I,-,septum formation protein Maf,protein-coding,-,-,-,septum formation protein Maf,20201215,-
+83559,48059336,B6F13_RS01950,B6F13_RS01950,-,-,I,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20201215,-
+83559,48059337,B6F13_RS01955,B6F13_RS01955,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059338,secG,B6F13_RS01960,-,-,I,-,preprotein translocase subunit SecG,protein-coding,-,-,-,preprotein translocase subunit SecG,20201215,-
+83559,48059339,B6F13_RS01965,B6F13_RS01965,-,-,I,-,peptide deformylase,protein-coding,-,-,-,peptide deformylase,20201215,-
+83559,48059340,rsmA,B6F13_RS01970,-,-,I,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,protein-coding,-,-,-,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,20201215,-
+83559,48059341,B6F13_RS01975,B6F13_RS01975,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059342,B6F13_RS01980,B6F13_RS01980,-,-,I,-,thioredoxin domain-containing protein,protein-coding,-,-,-,thioredoxin domain-containing protein,20201215,-
+83559,48059343,B6F13_RS01985,B6F13_RS01985,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059344,B6F13_RS01990,B6F13_RS01990,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059345,B6F13_RS01995,B6F13_RS01995,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059346,B6F13_RS02000,B6F13_RS02000,-,-,I,-,biotin transporter BioY,protein-coding,-,-,-,biotin transporter BioY,20201215,-
+83559,48059347,B6F13_RS02005,B6F13_RS02005,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059348,B6F13_RS02010,B6F13_RS02010,-,-,I,-,4-hydroxy-tetrahydrodipicolinate synthase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate synthase,20201215,-
+83559,48059349,B6F13_RS02015,B6F13_RS02015,-,-,I,-,aspartate kinase,protein-coding,-,-,-,aspartate kinase,20201215,-
+83559,48059350,asd,B6F13_RS02020,-,-,I,-,aspartate-semialdehyde dehydrogenase,protein-coding,-,-,-,aspartate-semialdehyde dehydrogenase,20201215,-
+83559,48059351,B6F13_RS02025,B6F13_RS02025,-,-,I,-,4-hydroxy-tetrahydrodipicolinate reductase,protein-coding,-,-,-,4-hydroxy-tetrahydrodipicolinate reductase,20201215,-
+83559,48059352,B6F13_RS02030,B6F13_RS02030,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059353,aroA,B6F13_RS02035,-,-,I,-,3-phosphoshikimate 1-carboxyvinyltransferase,protein-coding,-,-,-,3-phosphoshikimate 1-carboxyvinyltransferase,20201215,-
+83559,48059354,B6F13_RS02040,B6F13_RS02040,-,-,I,-,shikimate kinase,protein-coding,-,-,-,shikimate kinase,20201215,-
+83559,48059355,aroC,B6F13_RS02045,-,-,I,-,chorismate synthase,protein-coding,-,-,-,chorismate synthase,20201215,-
+83559,48059356,B6F13_RS02050,B6F13_RS02050,-,-,I,-,3-dehydroquinate synthase,protein-coding,-,-,-,3-dehydroquinate synthase,20201215,-
+83559,48059357,B6F13_RS02055,B6F13_RS02055,-,-,I,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,protein-coding,-,-,-,bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,20201215,-
+83559,48059358,B6F13_RS02060,B6F13_RS02060,-,-,I,-,DUF2608 domain-containing protein,protein-coding,-,-,-,DUF2608 domain-containing protein,20201215,-
+83559,48059359,B6F13_RS02065,B6F13_RS02065,-,-,I,-,carbohydrate porin,protein-coding,-,-,-,carbohydrate porin,20201215,-
+83559,48059360,B6F13_RS02070,B6F13_RS02070,-,-,I,-,pyruvoyl-dependent arginine decarboxylase,protein-coding,-,-,-,pyruvoyl-dependent arginine decarboxylase,20201215,-
+83559,48059361,B6F13_RS02075,B6F13_RS02075,-,-,I,-,amino acid permease,protein-coding,-,-,-,amino acid permease,20201215,-
+83559,48059362,B6F13_RS02080,B6F13_RS02080,-,-,I,-,FAD-binding oxidoreductase,protein-coding,-,-,-,FAD-binding oxidoreductase,20201215,-
+83559,48059363,B6F13_RS02085,B6F13_RS02085,-,-,I,-,malate dehydrogenase,protein-coding,-,-,-,malate dehydrogenase,20201215,-
+83559,48059364,ltuA,B6F13_RS02090,-,-,I,-,protein LtuA,protein-coding,-,-,-,protein LtuA,20210320,-
+83559,48059365,B6F13_RS02095,B6F13_RS02095,-,-,I,-,glucose-6-phosphate isomerase,protein-coding,-,-,-,glucose-6-phosphate isomerase,20201215,-
+83559,48059366,hflX,B6F13_RS02100,-,-,I,-,GTPase HflX,protein-coding,-,-,-,GTPase HflX,20201215,-
+83559,48059367,B6F13_RS02105,B6F13_RS02105,-,-,I,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20201215,-
+83559,48059368,B6F13_RS02110,B6F13_RS02110,-,-,I,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20201215,-
+83559,48059369,aroF,B6F13_RS02115,-,-,I,-,3-deoxy-7-phosphoheptulonate synthase,protein-coding,-,-,-,3-deoxy-7-phosphoheptulonate synthase,20201215,-
+83559,48059370,B6F13_RS02120,B6F13_RS02120,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059371,B6F13_RS02125,B6F13_RS02125,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059372,B6F13_RS02130,B6F13_RS02130,-,-,I,-,HEAT repeat domain-containing protein,protein-coding,-,-,-,HEAT repeat domain-containing protein,20201215,-
+83559,48059373,B6F13_RS02135,B6F13_RS02135,-,-,I,-,HIT domain-containing protein,protein-coding,-,-,-,HIT domain-containing protein,20201215,-
+83559,48059374,B6F13_RS02140,B6F13_RS02140,-,-,I,-,MYG1 family protein,protein-coding,-,-,-,MYG1 family protein,20201215,-
+83559,48059375,B6F13_RS02145,B6F13_RS02145,-,-,I,-,LOG family protein,protein-coding,-,-,-,LOG family protein,20201215,-
+83559,48059376,B6F13_RS02150,B6F13_RS02150,-,-,I,-,DUF167 domain-containing protein,protein-coding,-,-,-,DUF167 domain-containing protein,20201215,-
+83559,48059377,B6F13_RS02155,B6F13_RS02155,-,-,I,-,DUF1207 domain-containing protein,protein-coding,-,-,-,DUF1207 domain-containing protein,20201215,-
+83559,48059378,B6F13_RS02160,B6F13_RS02160,-,-,I,-,LL-diaminopimelate aminotransferase,protein-coding,-,-,-,LL-diaminopimelate aminotransferase,20201215,-
+83559,48059379,B6F13_RS02165,B6F13_RS02165,-,-,I,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20201215,-
+83559,48059380,B6F13_RS02170,B6F13_RS02170,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059381,B6F13_RS02175,B6F13_RS02175,-,-,I,-,proline--tRNA ligase,protein-coding,-,-,-,proline--tRNA ligase,20201215,-
+83559,48059382,hrcA,B6F13_RS02180,-,-,I,-,heat-inducible transcriptional repressor HrcA,protein-coding,-,-,-,heat-inducible transcriptional repressor HrcA,20201215,-
+83559,48059383,B6F13_RS02185,B6F13_RS02185,-,-,I,-,nucleotide exchange factor GrpE,protein-coding,-,-,-,nucleotide exchange factor GrpE,20201215,-
+83559,48059384,dnaK,B6F13_RS02190,-,-,I,-,molecular chaperone DnaK,protein-coding,-,-,-,molecular chaperone DnaK,20201215,-
+83559,48059385,B6F13_RS02195,B6F13_RS02195,-,-,I,-,VacB/RNase II family 3'-5' exoribonuclease,protein-coding,-,-,-,VacB/RNase II family 3'-5' exoribonuclease,20201215,-
+83559,48059386,B6F13_RS02200,B6F13_RS02200,-,-,I,-,zinc ribbon domain-containing protein,protein-coding,-,-,-,zinc ribbon domain-containing protein,20201215,-
+83559,48059387,rnpB,B6F13_RS02205,-,-,I,-,ncRNA,ncRNA,-,-,-,-,20201215,-
+83559,48059388,B6F13_RS02210,B6F13_RS02210,-,-,I,-,KpsF/GutQ family sugar-phosphate isomerase,protein-coding,-,-,-,KpsF/GutQ family sugar-phosphate isomerase,20201215,-
+83559,48059389,B6F13_RS02215,B6F13_RS02215,-,-,I,-,2-oxo acid dehydrogenase subunit E2,protein-coding,-,-,-,2-oxo acid dehydrogenase subunit E2,20201215,-
+83559,48059390,B6F13_RS02220,B6F13_RS02220,-,-,I,-,dicarboxylate/amino acid:cation symporter,protein-coding,-,-,-,dicarboxylate/amino acid:cation symporter,20201215,-
+83559,48059391,B6F13_RS02225,B6F13_RS02225,-,-,I,-,tetraacyldisaccharide 4'-kinase,protein-coding,-,-,-,tetraacyldisaccharide 4'-kinase,20201215,-
+83559,48059392,B6F13_RS02230,B6F13_RS02230,-,-,I,-,RNA methyltransferase,protein-coding,-,-,-,RNA methyltransferase,20201215,-
+83559,48059393,B6F13_RS02235,B6F13_RS02235,-,-,I,-,class I SAM-dependent rRNA methyltransferase,protein-coding,-,-,-,class I SAM-dependent rRNA methyltransferase,20201215,-
+83559,48059394,B6F13_RS02240,B6F13_RS02240,-,-,I,-,riboflavin synthase subunit alpha,protein-coding,-,-,-,riboflavin synthase subunit alpha,20201215,-
+83559,48059395,nrdR,B6F13_RS02245,-,-,I,-,transcriptional repressor NrdR,protein-coding,-,-,-,transcriptional repressor NrdR,20201215,-
+83559,48059396,B6F13_RS02250,B6F13_RS02250,-,-,I,-,TraR/DksA family transcriptional regulator,protein-coding,-,-,-,TraR/DksA family transcriptional regulator,20201215,-
+83559,48059397,B6F13_RS02255,B6F13_RS02255,-,-,I,-,lipoprotein signal peptidase,protein-coding,-,-,-,lipoprotein signal peptidase,20201215,-
+83559,48059398,B6F13_RS02260,B6F13_RS02260,-,-,I,-,AGCS family amino acid carrier protein,protein-coding,-,-,-,AGCS family amino acid carrier protein,20201215,-
+83559,48059399,B6F13_RS02265,B6F13_RS02265,-,-,I,-,polynucleotide adenylyltransferase PcnB,protein-coding,-,-,-,polynucleotide adenylyltransferase PcnB,20201215,-
+83559,48059400,lpxB,B6F13_RS02270,-,-,I,-,lipid-A-disaccharide synthase,protein-coding,-,-,-,lipid-A-disaccharide synthase,20201215,-
+83559,48059401,B6F13_RS02275,B6F13_RS02275,-,-,I,-,Pmp family polymorphic membrane protein autotransporter adhesin,protein-coding,-,-,-,Pmp family polymorphic membrane protein autotransporter adhesin,20201215,-
+83559,48059402,B6F13_RS02280,B6F13_RS02280,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059403,B6F13_RS02285,B6F13_RS02285,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059404,B6F13_RS02290,B6F13_RS02290,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059405,B6F13_RS02295,B6F13_RS02295,-,-,I,-,zinc ABC transporter substrate-binding protein,protein-coding,-,-,-,zinc ABC transporter substrate-binding protein,20201215,-
+83559,48059406,B6F13_RS02300,B6F13_RS02300,-,-,I,-,metal ABC transporter ATP-binding protein,protein-coding,-,-,-,metal ABC transporter ATP-binding protein,20201215,-
+83559,48059407,B6F13_RS02305,B6F13_RS02305,-,-,I,-,metal ABC transporter permease,protein-coding,-,-,-,metal ABC transporter permease,20201215,-
+83559,48059408,obgE,B6F13_RS02310,-,-,I,-,GTPase ObgE,protein-coding,-,-,-,GTPase ObgE,20201215,-
+83559,48059409,rpmA,B6F13_RS02315,-,-,I,-,50S ribosomal protein L27,protein-coding,-,-,-,50S ribosomal protein L27,20201215,-
+83559,48059410,rplU,B6F13_RS02320,-,-,I,-,50S ribosomal protein L21,protein-coding,-,-,-,50S ribosomal protein L21,20201215,-
+83559,48059411,B6F13_RS02325,B6F13_RS02325,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059412,B6F13_RS02330,B6F13_RS02330,-,-,I,-,DUF502 domain-containing protein,protein-coding,-,-,-,DUF502 domain-containing protein,20201215,-
+83559,48059413,B6F13_RS02335,B6F13_RS02335,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059414,B6F13_RS02340,B6F13_RS02340,-,-,I,-,small basic protein,protein-coding,-,-,-,small basic protein,20201215,-
+83559,48059415,ybeY,B6F13_RS02345,-,-,I,-,rRNA maturation RNase YbeY,protein-coding,-,-,-,rRNA maturation RNase YbeY,20201215,-
+83559,48059416,B6F13_RS02350,B6F13_RS02350,-,-,I,-,HlyC/CorC family transporter,protein-coding,-,-,-,HlyC/CorC family transporter,20201215,-
+83559,48059417,B6F13_RS02355,B6F13_RS02355,-,-,I,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20201215,-
+83559,48059418,B6F13_RS02360,B6F13_RS02360,-,-,I,-,DUF3604 domain-containing protein,protein-coding,-,-,-,DUF3604 domain-containing protein,20201215,-
+83559,48059419,B6F13_RS02365,B6F13_RS02365,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059420,B6F13_RS02370,B6F13_RS02370,-,-,I,-,CofH family radical SAM protein,protein-coding,-,-,-,CofH family radical SAM protein,20201215,-
+83559,48059421,B6F13_RS02375,B6F13_RS02375,-,-,I,-,menaquinone biosynthesis family protein,protein-coding,-,-,-,menaquinone biosynthesis family protein,20201215,-
+83559,48059422,ubiE,B6F13_RS02380,-,-,I,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",protein-coding,-,-,-,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",20201215,-
+83559,48059423,B6F13_RS02385,B6F13_RS02385,-,-,I,-,UPF0158 family protein,protein-coding,-,-,-,UPF0158 family protein,20201215,-
+83559,48059424,B6F13_RS02390,B6F13_RS02390,-,-,I,-,diaminopimelate epimerase,protein-coding,-,-,-,diaminopimelate epimerase,20201215,-
+83559,48059425,B6F13_RS02395,B6F13_RS02395,-,-,I,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20201215,-
+83559,48059426,B6F13_RS02400,B6F13_RS02400,-,-,I,-,glycine hydroxymethyltransferase,protein-coding,-,-,-,glycine hydroxymethyltransferase,20201215,-
+83559,48059427,B6F13_RS02405,B6F13_RS02405,-,-,I,-,uroporphyrinogen-III synthase,protein-coding,-,-,-,uroporphyrinogen-III synthase,20201215,-
+83559,48059428,B6F13_RS02410,B6F13_RS02410,-,-,I,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",protein-coding,-,-,-,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",20201215,-
+83559,48059429,B6F13_RS02415,B6F13_RS02415,-,-,I,-,sulfite reductase flavoprotein subunit alpha,protein-coding,-,-,-,sulfite reductase flavoprotein subunit alpha,20201215,-
+83559,48059430,rpsJ,B6F13_RS02420,-,-,I,-,30S ribosomal protein S10,protein-coding,-,-,-,30S ribosomal protein S10,20201215,-
+83559,48059431,fusA,B6F13_RS02425,-,-,I,-,elongation factor G,protein-coding,-,-,-,elongation factor G,20201215,-
+83559,48059432,rpsG,B6F13_RS02430,-,-,I,-,30S ribosomal protein S7,protein-coding,-,-,-,30S ribosomal protein S7,20201215,-
+83559,48059433,B6F13_RS02435,B6F13_RS02435,-,-,I,-,30S ribosomal protein S12,protein-coding,-,-,-,30S ribosomal protein S12,20201215,-
+83559,48059434,B6F13_RS02440,B6F13_RS02440,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059435,B6F13_RS02445,B6F13_RS02445,-,-,I,-,PDZ domain-containing protein,protein-coding,-,-,-,PDZ domain-containing protein,20201215,-
+83559,48059436,B6F13_RS02450,B6F13_RS02450,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059437,omcB,B6F13_RS02455,-,-,I,-,outer membrane complex protein OmcB,protein-coding,-,-,-,outer membrane complex protein OmcB,20210424,-
+83559,48059438,B6F13_RS02460,B6F13_RS02460,-,-,I,-,small cysteine-rich outer membrane protein,protein-coding,-,-,-,small cysteine-rich outer membrane protein,20201215,-
+83559,48059439,B6F13_RS02465,B6F13_RS02465,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059440,B6F13_RS02470,B6F13_RS02470,-,-,I,-,glutamate--tRNA ligase,protein-coding,-,-,-,glutamate--tRNA ligase,20201215,-
+83559,48059441,B6F13_RS02475,B6F13_RS02475,-,-,I,-,helix-turn-helix domain-containing protein,protein-coding,-,-,-,helix-turn-helix domain-containing protein,20201215,-
+83559,48059442,recJ,B6F13_RS02485,-,-,I,-,single-stranded-DNA-specific exonuclease RecJ,protein-coding,-,-,-,single-stranded-DNA-specific exonuclease RecJ,20201215,-
+83559,48059443,secD,B6F13_RS02490,-,-,I,-,protein translocase subunit SecD,protein-coding,-,-,-,protein translocase subunit SecD,20201215,-
+83559,48059444,B6F13_RS02500,B6F13_RS02500,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059445,B6F13_RS02505,B6F13_RS02505,-,-,I,-,isoprenyl transferase,protein-coding,-,-,-,isoprenyl transferase,20201215,-
+83559,48059446,B6F13_RS02510,B6F13_RS02510,-,-,I,-,phosphatidate cytidylyltransferase,protein-coding,-,-,-,phosphatidate cytidylyltransferase,20201215,-
+83559,48059447,B6F13_RS02515,B6F13_RS02515,-,-,I,-,(d)CMP kinase,protein-coding,-,-,-,(d)CMP kinase,20201215,-
+83559,48059448,B6F13_RS02520,B6F13_RS02520,-,-,I,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201215,-
+83559,48059449,argS,B6F13_RS02525,-,-,I,-,arginine--tRNA ligase,protein-coding,-,-,-,arginine--tRNA ligase,20201215,-
+83559,48059450,murA,B6F13_RS02530,-,-,I,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,protein-coding,-,-,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,20201215,-
+83559,48059451,tarP,B6F13_RS02535,-,-,I,-,type III secretion system actin-recruiting effector Tarp,protein-coding,-,-,-,type III secretion system actin-recruiting effector Tarp,20210123,-
+83559,48059452,B6F13_RS02540,B6F13_RS02540,-,-,I,-,YebC/PmpR family DNA-binding transcriptional regulator,protein-coding,-,-,-,YebC/PmpR family DNA-binding transcriptional regulator,20201215,-
+83559,48059453,B6F13_RS02545,B6F13_RS02545,-,-,I,-,GNAT family N-acetyltransferase,protein-coding,-,-,-,GNAT family N-acetyltransferase,20210320,-
+83559,48059454,prfB,B6F13_RS02550,-,-,I,-,peptide chain release factor 2,protein-coding,-,-,-,peptide chain release factor 2,20201215,-
+83559,48059455,B6F13_RS02555,B6F13_RS02555,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059456,lpxG,B6F13_RS02560,-,-,I,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",protein-coding,-,-,-,"UDP-2,3-diacylglucosamine diphosphatase LpxG",20201215,-
+83559,48059457,B6F13_RS02565,B6F13_RS02565,-,-,I,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,protein-coding,-,-,-,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,20201215,-
+83559,48059458,truA,B6F13_RS02570,-,-,I,-,tRNA pseudouridine(38-40) synthase TruA,protein-coding,-,-,-,tRNA pseudouridine(38-40) synthase TruA,20201215,-
+83559,48059459,B6F13_RS02575,B6F13_RS02575,-,-,I,-,HAD family phosphatase,protein-coding,-,-,-,HAD family phosphatase,20201215,-
+83559,48059460,B6F13_RS02580,B6F13_RS02580,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059461,B6F13_RS02585,B6F13_RS02585,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059462,B6F13_RS02590,B6F13_RS02590,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059463,B6F13_RS02595,B6F13_RS02595,-,-,I,-,PAS domain-containing protein,protein-coding,-,-,-,PAS domain-containing protein,20201215,-
+83559,48059464,B6F13_RS02600,B6F13_RS02600,-,-,I,-,sigma-54-dependent Fis family transcriptional regulator,protein-coding,-,-,-,sigma-54-dependent Fis family transcriptional regulator,20201215,-
+83559,48059465,B6F13_RS02605,B6F13_RS02605,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059466,B6F13_RS02610,B6F13_RS02610,-,-,I,-,type I restriction enzyme HsdR N-terminal domain-containing protein,protein-coding,-,-,-,type I restriction enzyme HsdR N-terminal domain-containing protein,20201215,-
+83559,48059467,recO,B6F13_RS02615,-,-,I,-,DNA repair protein RecO,protein-coding,-,-,-,DNA repair protein RecO,20201215,-
+83559,48059468,B6F13_RS02620,B6F13_RS02620,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059469,B6F13_RS02625,B6F13_RS02625,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059470,B6F13_RS02630,B6F13_RS02630,-,-,I,-,RMD1 family protein,protein-coding,-,-,-,RMD1 family protein,20201215,-
+83559,48059471,yidD,B6F13_RS02635,-,-,I,-,membrane protein insertion efficiency factor YidD,protein-coding,-,-,-,membrane protein insertion efficiency factor YidD,20201215,-
+83559,48059472,B6F13_RS02640,B6F13_RS02640,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059473,B6F13_RS02645,B6F13_RS02645,-,-,I,-,phenylalanine--tRNA ligase subunit beta,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit beta,20201215,-
+83559,48059474,B6F13_RS02650,B6F13_RS02650,-,-,I,-,toxin-antitoxin system YwqK family antitoxin,protein-coding,-,-,-,toxin-antitoxin system YwqK family antitoxin,20201215,-
+83559,48059475,B6F13_RS02655,B6F13_RS02655,-,-,I,-,methylated-DNA--[protein]-cysteine S-methyltransferase,protein-coding,-,-,-,methylated-DNA--[protein]-cysteine S-methyltransferase,20201215,-
+83559,48059476,B6F13_RS02660,B6F13_RS02660,-,-,I,-,ABC transporter permease subunit,protein-coding,-,-,-,ABC transporter permease subunit,20201215,-
+83559,48059477,B6F13_RS02665,B6F13_RS02665,-,-,I,-,ABC transporter permease,protein-coding,-,-,-,ABC transporter permease,20201215,-
+83559,48059478,B6F13_RS02670,B6F13_RS02670,-,-,I,-,peptide ABC transporter substrate-binding protein,protein-coding,-,-,-,peptide ABC transporter substrate-binding protein,20201215,-
+83559,48059479,B6F13_RS02675,B6F13_RS02675,-,-,I,-,polysaccharide deacetylase family protein,protein-coding,-,-,-,polysaccharide deacetylase family protein,20201215,-
+83559,48059480,B6F13_RS02680,B6F13_RS02680,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059481,B6F13_RS02685,B6F13_RS02685,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059482,B6F13_RS02690,B6F13_RS02690,-,-,I,-,membrane protein,protein-coding,-,-,-,membrane protein,20201215,-
+83559,48059483,B6F13_RS02695,B6F13_RS02695,-,-,I,-,ferrochelatase,protein-coding,-,-,-,ferrochelatase,20201215,-
+83559,48059484,B6F13_RS02700,B6F13_RS02700,-,-,I,-,transporter substrate-binding domain-containing protein,protein-coding,-,-,-,transporter substrate-binding domain-containing protein,20201215,-
+83559,48059485,rsmD,B6F13_RS02705,-,-,I,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,protein-coding,-,-,-,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,20201215,-
+83559,48059486,B6F13_RS02710,B6F13_RS02710,-,-,I,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201215,-
+83559,48059487,glgC,B6F13_RS02715,-,-,I,-,glucose-1-phosphate adenylyltransferase,protein-coding,-,-,-,glucose-1-phosphate adenylyltransferase,20201215,-
+83559,48059488,B6F13_RS02720,B6F13_RS02720,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059489,rho,B6F13_RS02725,-,-,I,-,transcription termination factor Rho,protein-coding,-,-,-,transcription termination factor Rho,20201215,-
+83559,48059490,B6F13_RS02730,B6F13_RS02730,-,-,I,-,dephospho-CoA kinase,protein-coding,-,-,-,dephospho-CoA kinase,20201215,-
+83559,48059491,polA,B6F13_RS02735,-,-,I,-,DNA polymerase I,protein-coding,-,-,-,DNA polymerase I,20201215,-
+83559,48059492,B6F13_RS02740,B6F13_RS02740,-,-,I,-,S49 family peptidase,protein-coding,-,-,-,S49 family peptidase,20201215,-
+83559,48059493,npt2,B6F13_RS02745,-,-,I,-,NTP/H+ exchange transporter Npt2,protein-coding,-,-,-,NTP/H+ exchange transporter Npt2,20201215,-
+83559,48059494,B6F13_RS02750,B6F13_RS02750,-,-,I,-,CDP-alcohol phosphatidyltransferase family protein,protein-coding,-,-,-,CDP-alcohol phosphatidyltransferase family protein,20201215,-
+83559,48059495,B6F13_RS02755,B6F13_RS02755,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059496,dnaB,B6F13_RS02760,-,-,I,-,replicative DNA helicase,protein-coding,-,-,-,replicative DNA helicase,20201215,-
+83559,48059497,B6F13_RS02765,B6F13_RS02765,-,-,I,-,AURKAIP1/COX24 domain-containing protein,protein-coding,-,-,-,AURKAIP1/COX24 domain-containing protein,20201215,-
+83559,48059498,mnmG,B6F13_RS02770,-,-,I,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,20201215,-
+83559,48059499,B6F13_RS02775,B6F13_RS02775,-,-,I,-,lipoate--protein ligase family protein,protein-coding,-,-,-,lipoate--protein ligase family protein,20201215,-
+83559,48059500,ndk,B6F13_RS02780,-,-,I,-,nucleoside-diphosphate kinase,protein-coding,-,-,-,nucleoside-diphosphate kinase,20201215,-
+83559,48059501,ruvA,B6F13_RS02785,-,-,I,-,Holliday junction branch migration protein RuvA,protein-coding,-,-,-,Holliday junction branch migration protein RuvA,20201215,-
+83559,48059502,ruvC,B6F13_RS02790,-,-,I,-,crossover junction endodeoxyribonuclease RuvC,protein-coding,-,-,-,crossover junction endodeoxyribonuclease RuvC,20201215,-
+83559,48059503,B6F13_RS02795,B6F13_RS02795,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059504,B6F13_RS02800,B6F13_RS02800,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059505,B6F13_RS02810,B6F13_RS02810,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059506,gap,B6F13_RS02815,-,-,I,-,type I glyceraldehyde-3-phosphate dehydrogenase,protein-coding,-,-,-,type I glyceraldehyde-3-phosphate dehydrogenase,20201215,-
+83559,48059507,rplQ,B6F13_RS02820,-,-,I,-,50S ribosomal protein L17,protein-coding,-,-,-,50S ribosomal protein L17,20201215,-
+83559,48059508,B6F13_RS02825,B6F13_RS02825,-,-,I,-,DNA-directed RNA polymerase subunit alpha,protein-coding,-,-,-,DNA-directed RNA polymerase subunit alpha,20201215,-
+83559,48059509,rpsK,B6F13_RS02830,-,-,I,-,30S ribosomal protein S11,protein-coding,-,-,-,30S ribosomal protein S11,20201215,-
+83559,48059510,rpsM,B6F13_RS02835,-,-,I,-,30S ribosomal protein S13,protein-coding,-,-,-,30S ribosomal protein S13,20201215,-
+83559,48059511,secY,B6F13_RS02840,-,-,I,-,preprotein translocase subunit SecY,protein-coding,-,-,-,preprotein translocase subunit SecY,20201215,-
+83559,48059512,B6F13_RS02845,B6F13_RS02845,-,-,I,-,50S ribosomal protein L15,protein-coding,-,-,-,50S ribosomal protein L15,20201215,-
+83559,48059513,rpsE,B6F13_RS02850,-,-,I,-,30S ribosomal protein S5,protein-coding,-,-,-,30S ribosomal protein S5,20201215,-
+83559,48059514,B6F13_RS02855,B6F13_RS02855,-,-,I,-,50S ribosomal protein L18,protein-coding,-,-,-,50S ribosomal protein L18,20201215,-
+83559,48059515,rplF,B6F13_RS02860,-,-,I,-,50S ribosomal protein L6,protein-coding,-,-,-,50S ribosomal protein L6,20201215,-
+83559,48059516,rpsH,B6F13_RS02865,-,-,I,-,30S ribosomal protein S8,protein-coding,-,-,-,30S ribosomal protein S8,20201215,-
+83559,48059517,rplE,B6F13_RS02870,-,-,I,-,50S ribosomal protein L5,protein-coding,-,-,-,50S ribosomal protein L5,20201215,-
+83559,48059518,B6F13_RS02875,B6F13_RS02875,-,-,I,-,50S ribosomal protein L24,protein-coding,-,-,-,50S ribosomal protein L24,20201215,-
+83559,48059519,rplN,B6F13_RS02880,-,-,I,-,50S ribosomal protein L14,protein-coding,-,-,-,50S ribosomal protein L14,20201215,-
+83559,48059520,rpsQ,B6F13_RS02885,-,-,I,-,30S ribosomal protein S17,protein-coding,-,-,-,30S ribosomal protein S17,20201215,-
+83559,48059521,B6F13_RS02890,B6F13_RS02890,-,-,I,-,50S ribosomal protein L29,protein-coding,-,-,-,50S ribosomal protein L29,20201215,-
+83559,48059522,rplP,B6F13_RS02895,-,-,I,-,50S ribosomal protein L16,protein-coding,-,-,-,50S ribosomal protein L16,20201215,-
+83559,48059523,rpsC,B6F13_RS02900,-,-,I,-,30S ribosomal protein S3,protein-coding,-,-,-,30S ribosomal protein S3,20201215,-
+83559,48059524,rplV,B6F13_RS02905,-,-,I,-,50S ribosomal protein L22,protein-coding,-,-,-,50S ribosomal protein L22,20201215,-
+83559,48059525,rpsS,B6F13_RS02910,-,-,I,-,30S ribosomal protein S19,protein-coding,-,-,-,30S ribosomal protein S19,20201215,-
+83559,48059526,rplB,B6F13_RS02915,-,-,I,-,50S ribosomal protein L2,protein-coding,-,-,-,50S ribosomal protein L2,20201215,-
+83559,48059527,B6F13_RS02920,B6F13_RS02920,-,-,I,-,50S ribosomal protein L23,protein-coding,-,-,-,50S ribosomal protein L23,20201215,-
+83559,48059528,rplD,B6F13_RS02925,-,-,I,-,50S ribosomal protein L4,protein-coding,-,-,-,50S ribosomal protein L4,20201215,-
+83559,48059529,rplC,B6F13_RS02930,-,-,I,-,50S ribosomal protein L3,protein-coding,-,-,-,50S ribosomal protein L3,20201215,-
+83559,48059530,B6F13_RS02935,B6F13_RS02935,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059531,B6F13_RS02940,B6F13_RS02940,-,-,I,-,methionyl-tRNA formyltransferase,protein-coding,-,-,-,methionyl-tRNA formyltransferase,20201215,-
+83559,48059532,lpxA,B6F13_RS02945,-,-,I,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,protein-coding,-,-,-,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,20201215,-
+83559,48059533,fabZ,B6F13_RS02950,-,-,I,-,3-hydroxyacyl-ACP dehydratase FabZ,protein-coding,-,-,-,3-hydroxyacyl-ACP dehydratase FabZ,20210320,-
+83559,48059534,B6F13_RS02955,B6F13_RS02955,-,-,I,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,protein-coding,-,-,-,UDP-3-O-acyl-N-acetylglucosamine deacetylase,20201215,-
+83559,48059535,lnt,B6F13_RS02960,-,-,I,-,apolipoprotein N-acyltransferase,protein-coding,-,-,-,apolipoprotein N-acyltransferase,20201215,-
+83559,48059536,B6F13_RS02965,B6F13_RS02965,-,-,I,-,acyl-CoA thioesterase,protein-coding,-,-,-,acyl-CoA thioesterase,20201215,-
+83559,48059537,B6F13_RS02970,B6F13_RS02970,-,-,I,-,DUF3820 family protein,protein-coding,-,-,-,DUF3820 family protein,20201215,-
+83559,48059538,tsaE,B6F13_RS02975,-,-,I,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,20201215,-
+83559,48059539,B6F13_RS02980,B6F13_RS02980,-,-,I,-,DUF2709 domain-containing protein,protein-coding,-,-,-,DUF2709 domain-containing protein,20201215,-
+83559,48059540,B6F13_RS02985,B6F13_RS02985,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059541,trxA,B6F13_RS02990,-,-,I,-,thioredoxin,protein-coding,-,-,-,thioredoxin,20201215,-
+83559,48059542,B6F13_RS02995,B6F13_RS02995,-,-,I,-,tRNA (cytidine(34)-2'-O)-methyltransferase,protein-coding,-,-,-,tRNA (cytidine(34)-2'-O)-methyltransferase,20201215,-
+83559,48059543,B6F13_RS03000,B6F13_RS03000,-,-,I,-,FKBP-type peptidyl-prolyl cis-trans isomerase,protein-coding,-,-,-,FKBP-type peptidyl-prolyl cis-trans isomerase,20201215,-
+83559,48059544,aspS,B6F13_RS03005,-,-,I,-,aspartate--tRNA ligase,protein-coding,-,-,-,aspartate--tRNA ligase,20201215,-
+83559,48059545,B6F13_RS03010,B6F13_RS03010,-,-,I,-,histidine--tRNA ligase,protein-coding,-,-,-,histidine--tRNA ligase,20201215,-
+83559,48059546,B6F13_RS03015,B6F13_RS03015,-,-,I,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201215,-
+83559,48059547,dnaE,B6F13_RS03020,-,-,I,-,DNA polymerase III subunit alpha,protein-coding,-,-,-,DNA polymerase III subunit alpha,20201215,-
+83559,48059548,upp,B6F13_RS03025,-,-,I,-,uracil phosphoribosyltransferase,protein-coding,-,-,-,uracil phosphoribosyltransferase,20201215,-
+83559,48059549,B6F13_RS03030,B6F13_RS03030,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059550,B6F13_RS03035,B6F13_RS03035,-,-,I,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20201215,-
+83559,48059551,B6F13_RS03040,B6F13_RS03040,-,-,I,-,lipopolysaccharide-assembly family protein,protein-coding,-,-,-,lipopolysaccharide-assembly family protein,20201215,-
+83559,48059552,B6F13_RS03045,B6F13_RS03045,-,-,I,-,anti-sigma regulatory factor,protein-coding,-,-,-,anti-sigma regulatory factor,20201215,-
+83559,48059553,B6F13_RS03050,B6F13_RS03050,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059554,B6F13_RS03055,B6F13_RS03055,-,-,I,-,D-alanyl-D-alanine carboxypeptidase,protein-coding,-,-,-,D-alanyl-D-alanine carboxypeptidase,20201215,-
+83559,48059555,B6F13_RS03060,B6F13_RS03060,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059556,B6F13_RS03065,B6F13_RS03065,-,-,I,-,methyltransferase domain-containing protein,protein-coding,-,-,-,methyltransferase domain-containing protein,20210123,-
+83559,48059557,brnQ,B6F13_RS03070,-,-,I,-,branched-chain amino acid transport system II carrier protein,protein-coding,-,-,-,branched-chain amino acid transport system II carrier protein,20201215,-
+83559,48059558,B6F13_RS03075,B6F13_RS03075,-,-,I,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20201215,-
+83559,48059559,B6F13_RS03080,B6F13_RS03080,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059560,lpdA,B6F13_RS03085,-,-,I,-,dihydrolipoyl dehydrogenase,protein-coding,-,-,-,dihydrolipoyl dehydrogenase,20201215,-
+83559,48059561,lipA,B6F13_RS03090,-,-,I,-,lipoyl synthase,protein-coding,-,-,-,lipoyl synthase,20201215,-
+83559,48059562,sctJ,B6F13_RS03095,-,-,I,-,type III secretion inner membrane ring lipoprotein SctJ,protein-coding,-,-,-,type III secretion inner membrane ring lipoprotein SctJ,20201215,-
+83559,48059563,B6F13_RS03100,B6F13_RS03100,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059564,B6F13_RS03110,B6F13_RS03110,-,-,I,-,HrpE/YscL family type III secretion apparatus protein,protein-coding,-,-,-,HrpE/YscL family type III secretion apparatus protein,20201215,-
+83559,48059565,sctR,B6F13_RS03115,-,-,I,-,type III secretion system export apparatus subunit SctR,protein-coding,-,-,-,type III secretion system export apparatus subunit SctR,20201215,-
+83559,48059566,cdsS,B6F13_RS03120,-,-,I,-,SctS family type III secretion system export apparatus subunit CdsS,protein-coding,-,-,-,SctS family type III secretion system export apparatus subunit CdsS,20201215,-
+83559,48059567,B6F13_RS03125,B6F13_RS03125,-,-,I,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,protein-coding,-,-,-,EscT/YscT/HrcT family type III secretion system export apparatus protein,20201215,-
+83559,48059568,B6F13_RS03130,B6F13_RS03130,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059569,B6F13_RS03135,B6F13_RS03135,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059570,B6F13_RS03140,B6F13_RS03140,-,-,I,-,DUF1494 domain-containing protein,protein-coding,-,-,-,DUF1494 domain-containing protein,20201215,-
+83559,48059571,B6F13_RS03145,B6F13_RS03145,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059572,B6F13_RS03150,B6F13_RS03150,-,-,I,-,prepilin-type N-terminal cleavage/methylation domain-containing protein,protein-coding,-,-,-,prepilin-type N-terminal cleavage/methylation domain-containing protein,20210522,-
+83559,48059573,B6F13_RS03155,B6F13_RS03155,-,-,I,-,type II secretion system F family protein,protein-coding,-,-,-,type II secretion system F family protein,20201215,-
+83559,48059574,B6F13_RS03160,B6F13_RS03160,-,-,I,-,type II/IV secretion system protein,protein-coding,-,-,-,type II/IV secretion system protein,20201215,-
+83559,48059575,B6F13_RS03165,B6F13_RS03165,-,-,I,-,type II secretion system protein GspD,protein-coding,-,-,-,type II secretion system protein GspD,20201215,-
+83559,48059576,B6F13_RS03170,B6F13_RS03170,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059577,B6F13_RS03175,B6F13_RS03175,-,-,I,-,aminopeptidase P family protein,protein-coding,-,-,-,aminopeptidase P family protein,20201215,-
+83559,48059578,mutL,B6F13_RS03180,-,-,I,-,DNA mismatch repair endonuclease MutL,protein-coding,-,-,-,DNA mismatch repair endonuclease MutL,20201215,-
+83559,48059579,B6F13_RS03185,B6F13_RS03185,-,-,I,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20201215,-
+83559,48059580,B6F13_RS03190,B6F13_RS03190,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059581,B6F13_RS03195,B6F13_RS03195,-,-,I,-,secretion system protein,protein-coding,-,-,-,secretion system protein,20201215,-
+83559,48059582,sctE,B6F13_RS03200,-,-,I,-,type III secretion system translocon subunit SctE,protein-coding,-,-,-,type III secretion system translocon subunit SctE,20201215,-
+83559,48059583,B6F13_RS03205,B6F13_RS03205,-,-,I,-,S-adenosylmethionine/S-adenosylhomocysteine transporter,protein-coding,-,-,-,S-adenosylmethionine/S-adenosylhomocysteine transporter,20201215,-
+83559,48059584,thrS,B6F13_RS03210,-,-,I,-,threonine--tRNA ligase,protein-coding,-,-,-,threonine--tRNA ligase,20201215,-
+83559,48059585,B6F13_RS03215,B6F13_RS03215,-,-,I,-,ParA family protein,protein-coding,-,-,-,ParA family protein,20201215,-
+83559,48059586,B6F13_RS03220,B6F13_RS03220,-,-,I,-,pGP6-D family virulence protein,protein-coding,-,-,-,pGP6-D family virulence protein,20201215,-
+83559,48059587,B6F13_RS03225,B6F13_RS03225,-,-,I,-,CT584/Cpn0803 family type III secretion system protein,protein-coding,-,-,-,CT584/Cpn0803 family type III secretion system protein,20210320,-
+83559,48059588,trpS,B6F13_RS03230,-,-,I,-,tryptophan--tRNA ligase,protein-coding,-,-,-,tryptophan--tRNA ligase,20201215,-
+83559,48059589,uvrB,B6F13_RS03235,-,-,I,-,excinuclease ABC subunit B,protein-coding,-,-,-,excinuclease ABC subunit B,20201215,-
+83559,48059590,eno,B6F13_RS03240,-,-,I,-,phosphopyruvate hydratase,protein-coding,-,-,-,phosphopyruvate hydratase,20201215,-
+83559,48059591,B6F13_RS03245,B6F13_RS03245,-,-,I,-,SpoIIE family protein phosphatase,protein-coding,-,-,-,SpoIIE family protein phosphatase,20201215,-
+83559,48059592,B6F13_RS03250,B6F13_RS03250,-,-,I,-,SpoIIE family protein phosphatase,protein-coding,-,-,-,SpoIIE family protein phosphatase,20201215,-
+83559,48059593,B6F13_RS03255,B6F13_RS03255,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059594,sdhB,B6F13_RS03260,-,-,I,-,succinate dehydrogenase iron-sulfur subunit,protein-coding,-,-,-,succinate dehydrogenase iron-sulfur subunit,20210605,-
+83559,48059595,sdhA,B6F13_RS03265,-,-,I,-,succinate dehydrogenase flavoprotein subunit,protein-coding,-,-,-,succinate dehydrogenase flavoprotein subunit,20201215,-
+83559,48059597,B6F13_RS03275,B6F13_RS03275,-,-,I,-,TatD family hydrolase,protein-coding,-,-,-,TatD family hydrolase,20201215,-
+83559,48059598,B6F13_RS03280,B6F13_RS03280,-,-,I,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201215,-
+83559,48059599,B6F13_RS03285,B6F13_RS03285,-,-,I,-,MotA/TolQ/ExbB proton channel family protein,protein-coding,-,-,-,MotA/TolQ/ExbB proton channel family protein,20201215,-
+83559,48059600,B6F13_RS03290,B6F13_RS03290,-,-,I,-,biopolymer transporter ExbD,protein-coding,-,-,-,biopolymer transporter ExbD,20201215,-
+83559,48059601,B6F13_RS03295,B6F13_RS03295,-,-,I,-,inclusion-associated protein,protein-coding,-,-,-,inclusion-associated protein,20201215,-
+83559,48059602,tolB,B6F13_RS03300,-,-,I,-,Tol-Pal system protein TolB,protein-coding,-,-,-,Tol-Pal system protein TolB,20201215,-
+83559,48059603,B6F13_RS03305,B6F13_RS03305,-,-,I,-,OmpA family protein,protein-coding,-,-,-,OmpA family protein,20201215,-
+83559,48059604,B6F13_RS03310,B6F13_RS03310,-,-,I,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20201215,-
+83559,48059605,B6F13_RS03315,B6F13_RS03315,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059606,B6F13_RS03320,B6F13_RS03320,-,-,I,-,peroxiredoxin,protein-coding,-,-,-,peroxiredoxin,20201215,-
+83559,48059607,B6F13_RS03325,B6F13_RS03325,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059608,B6F13_RS03330,B6F13_RS03330,-,-,I,-,molecular chaperone GroEL,protein-coding,-,-,-,molecular chaperone GroEL,20201215,-
+83559,48059609,B6F13_RS03335,B6F13_RS03335,-,-,I,-,DUF1343 domain-containing protein,protein-coding,-,-,-,DUF1343 domain-containing protein,20201215,-
+83559,48059610,B6F13_RS03340,B6F13_RS03340,-,-,I,-,non-canonical purine NTP pyrophosphatase,protein-coding,-,-,-,non-canonical purine NTP pyrophosphatase,20201215,-
+83559,48059611,B6F13_RS03345,B6F13_RS03345,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059612,ung,B6F13_RS03350,-,-,I,-,uracil-DNA glycosylase,protein-coding,-,-,-,uracil-DNA glycosylase,20201215,-
+83559,48059613,B6F13_RS03355,B6F13_RS03355,-,-,I,-,UvrD-helicase domain-containing protein,protein-coding,-,-,-,UvrD-helicase domain-containing protein,20201215,-
+83559,48059614,B6F13_RS03360,B6F13_RS03360,-,-,I,-,RNA polymerase factor sigma-54,protein-coding,-,-,-,RNA polymerase factor sigma-54,20201215,-
+83559,48059615,B6F13_RS03365,B6F13_RS03365,-,-,I,-,CADD family putative folate metabolism protein,protein-coding,-,-,-,CADD family putative folate metabolism protein,20201215,-
+83559,48059616,B6F13_RS03370,B6F13_RS03370,-,-,I,-,putative folate metabolism gamma-glutamate ligase,protein-coding,-,-,-,putative folate metabolism gamma-glutamate ligase,20201215,-
+83559,48059617,B6F13_RS03375,B6F13_RS03375,-,-,I,-,dihydrofolate reductase,protein-coding,-,-,-,dihydrofolate reductase,20201215,-
+83559,48059618,folP,B6F13_RS03380,-,-,I,-,dihydropteroate synthase,protein-coding,-,-,-,dihydropteroate synthase,20201215,-
+83559,48059619,folB,B6F13_RS03385,-,-,I,-,dihydroneopterin aldolase,protein-coding,-,-,-,dihydroneopterin aldolase,20201215,-
+83559,48059620,B6F13_RS03390,B6F13_RS03390,-,-,I,-,RNA polymerase sigma factor,protein-coding,-,-,-,RNA polymerase sigma factor,20201215,-
+83559,48059621,B6F13_RS03395,B6F13_RS03395,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059622,B6F13_RS03400,B6F13_RS03400,-,-,I,-,30S ribosomal protein S20,protein-coding,-,-,-,30S ribosomal protein S20,20201215,-
+83559,48059623,B6F13_RS03405,B6F13_RS03405,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059624,B6F13_RS03410,B6F13_RS03410,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059625,B6F13_RS03415,B6F13_RS03415,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059626,B6F13_RS03420,B6F13_RS03420,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059627,B6F13_RS03425,B6F13_RS03425,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059628,B6F13_RS03430,B6F13_RS03430,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059629,B6F13_RS03435,B6F13_RS03435,-,-,I,-,murein biosynthesis integral membrane protein MurJ,protein-coding,-,-,-,murein biosynthesis integral membrane protein MurJ,20201215,-
+83559,48059630,B6F13_RS03440,B6F13_RS03440,-,-,I,-,deoxyribonuclease IV,protein-coding,-,-,-,deoxyribonuclease IV,20201215,-
+83559,48059631,rpsD,B6F13_RS03445,-,-,I,-,30S ribosomal protein S4,protein-coding,-,-,-,30S ribosomal protein S4,20201215,-
+83559,48059632,B6F13_RS03450,B6F13_RS03450,-,-,I,-,rhodanese-related sulfurtransferase,protein-coding,-,-,-,rhodanese-related sulfurtransferase,20201215,-
+83559,48059633,B6F13_RS03455,B6F13_RS03455,-,-,I,-,polyprenyl synthetase family protein,protein-coding,-,-,-,polyprenyl synthetase family protein,20201215,-
+83559,48059634,B6F13_RS03460,B6F13_RS03460,-,-,I,-,LpxA family transferase,protein-coding,-,-,-,LpxA family transferase,20201215,-
+83559,48059635,B6F13_RS03465,B6F13_RS03465,-,-,I,-,response regulator transcription factor,protein-coding,-,-,-,response regulator transcription factor,20201215,-
+83559,48059636,B6F13_RS03470,B6F13_RS03470,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059637,B6F13_RS03475,B6F13_RS03475,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059638,B6F13_RS03480,B6F13_RS03480,-,-,I,-,FAD-dependent thymidylate synthase,protein-coding,-,-,-,FAD-dependent thymidylate synthase,20201215,-
+83559,48059639,hemB,B6F13_RS03485,-,-,I,-,porphobilinogen synthase,protein-coding,-,-,-,porphobilinogen synthase,20201215,-
+83559,48059640,B6F13_RS03490,B6F13_RS03490,-,-,I,-,Na(+)-translocating NADH-quinone reductase subunit A,protein-coding,-,-,-,Na(+)-translocating NADH-quinone reductase subunit A,20201215,-
+83559,48059641,B6F13_RS03495,B6F13_RS03495,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059642,B6F13_RS03500,B6F13_RS03500,-,-,I,-,GreA/GreB family elongation factor,protein-coding,-,-,-,GreA/GreB family elongation factor,20201215,-
+83559,48059643,B6F13_RS03505,B6F13_RS03505,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059644,B6F13_RS03510,B6F13_RS03510,-,-,I,-,aromatic amino acid transaminase,protein-coding,-,-,-,aromatic amino acid transaminase,20201215,-
+83559,48059645,B6F13_RS03515,B6F13_RS03515,-,-,I,-,rod shape-determining protein MreC,protein-coding,-,-,-,rod shape-determining protein MreC,20201215,-
+83559,48059646,recB,B6F13_RS03520,-,-,I,-,exodeoxyribonuclease V subunit beta,protein-coding,-,-,-,exodeoxyribonuclease V subunit beta,20201215,-
+83559,48059647,B6F13_RS03525,B6F13_RS03525,-,-,I,-,exodeoxyribonuclease V subunit gamma,protein-coding,-,-,-,exodeoxyribonuclease V subunit gamma,20201215,-
+83559,48059648,B6F13_RS03530,B6F13_RS03530,-,-,I,-,MFS transporter,protein-coding,-,-,-,MFS transporter,20201215,-
+83559,48059649,B6F13_RS03535,B6F13_RS03535,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059650,topA,B6F13_RS03545,-,-,I,-,type I DNA topoisomerase,protein-coding,-,-,-,type I DNA topoisomerase,20201215,-
+83559,48059651,dusB,B6F13_RS03550,-,-,I,-,tRNA dihydrouridine synthase DusB,protein-coding,-,-,-,tRNA dihydrouridine synthase DusB,20201215,-
+83559,48059652,B6F13_RS03555,B6F13_RS03555,-,-,I,-,YggT family protein,protein-coding,-,-,-,YggT family protein,20201215,-
+83559,48059653,B6F13_RS03560,B6F13_RS03560,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059654,B6F13_RS03565,B6F13_RS03565,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059655,B6F13_RS03570,B6F13_RS03570,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059656,B6F13_RS03575,B6F13_RS03575,-,-,I,-,5-formyltetrahydrofolate cyclo-ligase,protein-coding,-,-,-,5-formyltetrahydrofolate cyclo-ligase,20201215,-
+83559,48059657,recA,B6F13_RS03580,-,-,I,-,recombinase RecA,protein-coding,-,-,-,recombinase RecA,20201215,-
+83559,48059658,B6F13_RS03585,B6F13_RS03585,-,-,I,-,DUF1347 family protein,protein-coding,-,-,-,DUF1347 family protein,20201215,-
+83559,48059659,recD,B6F13_RS03590,-,-,I,-,exodeoxyribonuclease V subunit alpha,protein-coding,-,-,-,exodeoxyribonuclease V subunit alpha,20201215,-
+83559,48059660,B6F13_RS03595,B6F13_RS03595,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059661,lptB,B6F13_RS03600,-,-,I,-,LPS export ABC transporter ATP-binding protein,protein-coding,-,-,-,LPS export ABC transporter ATP-binding protein,20201215,-
+83559,48059662,B6F13_RS03605,B6F13_RS03605,-,-,I,-,DUF1137 domain-containing protein,protein-coding,-,-,-,DUF1137 domain-containing protein,20201215,-
+83559,48059663,kdsA,B6F13_RS03610,-,-,I,-,3-deoxy-8-phosphooctulonate synthase,protein-coding,-,-,-,3-deoxy-8-phosphooctulonate synthase,20201215,-
+83559,48059664,B6F13_RS03615,B6F13_RS03615,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059665,B6F13_RS03620,B6F13_RS03620,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059666,B6F13_RS03625,B6F13_RS03625,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059667,B6F13_RS03630,B6F13_RS03630,-,-,I,-,RluA family pseudouridine synthase,protein-coding,-,-,-,RluA family pseudouridine synthase,20201215,-
+83559,48059668,B6F13_RS03635,B6F13_RS03635,-,-,I,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20201215,-
+83559,48059669,B6F13_RS03640,B6F13_RS03640,-,-,I,-,DNA topoisomerase IV,protein-coding,-,-,-,DNA topoisomerase IV,20201215,-
+83559,48059670,B6F13_RS03645,B6F13_RS03645,-,-,I,-,DNA topoisomerase IV,protein-coding,-,-,-,DNA topoisomerase IV,20201215,-
+83559,48059671,B6F13_RS03655,B6F13_RS03655,-,-,I,-,glutamyl-tRNA reductase,protein-coding,-,-,-,glutamyl-tRNA reductase,20201215,-
+83559,48059672,B6F13_RS03660,B6F13_RS03660,-,-,I,-,CesT family type III secretion system chaperone,protein-coding,-,-,-,CesT family type III secretion system chaperone,20210320,-
+83559,48059673,sctD,B6F13_RS03665,-,-,I,-,type III secretion system inner membrane ring subunit SctD,protein-coding,-,-,-,type III secretion system inner membrane ring subunit SctD,20201215,-
+83559,48059674,B6F13_RS03670,B6F13_RS03670,-,-,I,-,DUF5398 domain-containing protein,protein-coding,-,-,-,DUF5398 domain-containing protein,20210320,-
+83559,48059675,cdsF,B6F13_RS03675,-,-,I,-,type III secretion system protein CdsF,protein-coding,-,-,-,type III secretion system protein CdsF,20201215,-
+83559,48059676,B6F13_RS03680,B6F13_RS03680,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059677,B6F13_RS03685,B6F13_RS03685,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059678,cdsN,B6F13_RS03690,-,-,I,-,SctN family type III secretion system ATPase CdsN,protein-coding,-,-,-,SctN family type III secretion system ATPase CdsN,20201215,-
+83559,48059679,cdsO,B6F13_RS03695,-,-,I,-,type III secretion system protein CdsO,protein-coding,-,-,-,type III secretion system protein CdsO,20201215,-
+83559,48059680,B6F13_RS03700,B6F13_RS03700,-,-,I,-,DUF5421 family protein,protein-coding,-,-,-,DUF5421 family protein,20201215,-
+83559,48059681,sctQ,B6F13_RS03705,-,-,I,-,type III secretion system cytoplasmic ring protein SctQ,protein-coding,-,-,-,type III secretion system cytoplasmic ring protein SctQ,20201215,-
+83559,48059682,B6F13_RS03710,B6F13_RS03710,-,-,I,-,serine/threonine protein kinase,protein-coding,-,-,-,serine/threonine protein kinase,20201215,-
+83559,48059683,B6F13_RS03715,B6F13_RS03715,-,-,I,-,secretin,protein-coding,-,-,-,secretin,20201215,-
+83559,48059684,B6F13_RS03720,B6F13_RS03720,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059685,B6F13_RS03725,B6F13_RS03725,-,-,I,-,protein arginine kinase,protein-coding,-,-,-,protein arginine kinase,20201215,-
+83559,48059686,B6F13_RS03730,B6F13_RS03730,-,-,I,-,UvrB/UvrC motif-containing protein,protein-coding,-,-,-,UvrB/UvrC motif-containing protein,20201215,-
+83559,48059687,B6F13_RS03735,B6F13_RS03735,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059688,B6F13_RS03740,B6F13_RS03740,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059689,frr,B6F13_RS03745,-,-,I,-,ribosome recycling factor,protein-coding,-,-,-,ribosome recycling factor,20201215,-
+83559,48059690,B6F13_RS03750,B6F13_RS03750,-,-,I,-,UMP kinase,protein-coding,-,-,-,UMP kinase,20201215,-
+83559,48059691,B6F13_RS03755,B6F13_RS03755,-,-,I,-,elongation factor Ts,protein-coding,-,-,-,elongation factor Ts,20201215,-
+83559,48059692,rpsB,B6F13_RS03760,-,-,I,-,30S ribosomal protein S2,protein-coding,-,-,-,30S ribosomal protein S2,20201215,-
+83559,48059693,B6F13_RS03765,B6F13_RS03765,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059694,B6F13_RS03770,B6F13_RS03770,-,-,I,-,porin,protein-coding,-,-,-,porin,20201215,-
+83559,48059695,B6F13_RS03775,B6F13_RS03775,-,-,I,-,peptidase,protein-coding,-,-,-,peptidase,20201215,-
+83559,48059696,B6F13_RS03780,B6F13_RS03780,-,-,I,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20201215,-
+83559,48059697,sufB,B6F13_RS03785,-,-,I,-,Fe-S cluster assembly protein SufB,protein-coding,-,-,-,Fe-S cluster assembly protein SufB,20201215,-
+83559,48059698,sufC,B6F13_RS03790,-,-,I,-,Fe-S cluster assembly ATPase SufC,protein-coding,-,-,-,Fe-S cluster assembly ATPase SufC,20201215,-
+83559,48059699,B6F13_RS03795,B6F13_RS03795,-,-,I,-,SufD family Fe-S cluster assembly protein,protein-coding,-,-,-,SufD family Fe-S cluster assembly protein,20201215,-
+83559,48059700,B6F13_RS03800,B6F13_RS03800,-,-,I,-,SufS family cysteine desulfurase,protein-coding,-,-,-,SufS family cysteine desulfurase,20201215,-
+83559,48059701,B6F13_RS03805,B6F13_RS03805,-,-,I,-,ParB/RepB/Spo0J family partition protein,protein-coding,-,-,-,ParB/RepB/Spo0J family partition protein,20201215,-
+83559,48059702,B6F13_RS03810,B6F13_RS03810,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059703,B6F13_RS03815,B6F13_RS03815,-,-,I,-,ABC transporter ATP-binding protein,protein-coding,-,-,-,ABC transporter ATP-binding protein,20201215,-
+83559,48059704,B6F13_RS03820,B6F13_RS03820,-,-,I,-,TIGR00153 family protein,protein-coding,-,-,-,TIGR00153 family protein,20201215,-
+83559,48059705,B6F13_RS03825,B6F13_RS03825,-,-,I,-,inorganic phosphate transporter,protein-coding,-,-,-,inorganic phosphate transporter,20201215,-
+83559,48059706,B6F13_RS03830,B6F13_RS03830,-,-,I,-,phosphoglycerate kinase,protein-coding,-,-,-,phosphoglycerate kinase,20201215,-
+83559,48059707,B6F13_RS03835,B6F13_RS03835,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059708,B6F13_RS03840,B6F13_RS03840,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059709,B6F13_RS03845,B6F13_RS03845,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059710,B6F13_RS03850,B6F13_RS03850,-,-,I,-,endonuclease III,protein-coding,-,-,-,endonuclease III,20201215,-
+83559,48059711,mnmE,B6F13_RS03855,-,-,I,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,protein-coding,-,-,-,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,20201215,-
+83559,48059712,B6F13_RS03860,B6F13_RS03860,-,-,I,-,phosphatidylserine decarboxylase,protein-coding,-,-,-,phosphatidylserine decarboxylase,20201215,-
+83559,48059713,B6F13_RS03865,B6F13_RS03865,-,-,I,-,tetratricopeptide repeat protein,protein-coding,-,-,-,tetratricopeptide repeat protein,20201215,-
+83559,48059714,secA,B6F13_RS03870,-,-,I,-,preprotein translocase subunit SecA,protein-coding,-,-,-,preprotein translocase subunit SecA,20201215,-
+83559,48059715,B6F13_RS03875,B6F13_RS03875,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059716,der,B6F13_RS03880,-,-,I,-,ribosome biogenesis GTPase Der,protein-coding,-,-,-,ribosome biogenesis GTPase Der,20201215,-
+83559,48059717,B6F13_RS03885,B6F13_RS03885,-,-,I,-,CCA tRNA nucleotidyltransferase,protein-coding,-,-,-,CCA tRNA nucleotidyltransferase,20201215,-
+83559,48059718,clpX,B6F13_RS03890,-,-,I,-,ATP-dependent Clp protease ATP-binding subunit ClpX,protein-coding,-,-,-,ATP-dependent Clp protease ATP-binding subunit ClpX,20201215,-
+83559,48059719,B6F13_RS03895,B6F13_RS03895,-,-,I,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,ATP-dependent Clp protease proteolytic subunit,20201215,-
+83559,48059720,B6F13_RS03900,B6F13_RS03900,-,-,I,-,trigger factor,protein-coding,-,-,-,trigger factor,20201215,-
+83559,48059721,B6F13_RS03905,B6F13_RS03905,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059722,B6F13_RS03910,B6F13_RS03910,-,-,I,-,DEAD/DEAH box helicase,protein-coding,-,-,-,DEAD/DEAH box helicase,20201215,-
+83559,48059723,B6F13_RS03915,B6F13_RS03915,-,-,I,-,rod shape-determining protein,protein-coding,-,-,-,rod shape-determining protein,20201215,-
+83559,48059724,B6F13_RS03920,B6F13_RS03920,-,-,I,-,phosphoenolpyruvate carboxykinase (GTP),protein-coding,-,-,-,phosphoenolpyruvate carboxykinase (GTP),20201215,-
+83559,48059725,B6F13_RS03925,B6F13_RS03925,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059726,B6F13_RS03930,B6F13_RS03930,-,-,I,-,effector from type III secretion system family protein,protein-coding,-,-,-,effector from type III secretion system family protein,20201215,-
+83559,48059727,B6F13_RS03935,B6F13_RS03935,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059728,B6F13_RS03940,B6F13_RS03940,-,-,I,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,protein-coding,-,-,-,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,20201215,-
+83559,48059729,B6F13_RS03945,B6F13_RS03945,-,-,I,-,UTP--glucose-1-phosphate uridylyltransferase,protein-coding,-,-,-,UTP--glucose-1-phosphate uridylyltransferase,20201215,-
+83559,48059730,B6F13_RS03950,B6F13_RS03950,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059731,B6F13_RS03955,B6F13_RS03955,-,-,I,-,type III secretion protein ATPase,protein-coding,-,-,-,type III secretion protein ATPase,20201215,-
+83559,48059732,B6F13_RS03960,B6F13_RS03960,-,-,I,-,flagellar biosynthesis protein,protein-coding,-,-,-,flagellar biosynthesis protein,20201215,-
+83559,48059733,B6F13_RS03965,B6F13_RS03965,-,-,I,-,type III secretion system protein,protein-coding,-,-,-,type III secretion system protein,20201215,-
+83559,48059734,B6F13_RS03975,B6F13_RS03975,-,-,I,-,iron-sulfur cluster assembly scaffold protein,protein-coding,-,-,-,iron-sulfur cluster assembly scaffold protein,20201215,-
+83559,48059735,B6F13_RS03980,B6F13_RS03980,-,-,I,-,aminotransferase class V-fold PLP-dependent enzyme,protein-coding,-,-,-,aminotransferase class V-fold PLP-dependent enzyme,20201215,-
+83559,48059736,B6F13_RS03985,B6F13_RS03985,-,-,I,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",protein-coding,-,-,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",20201215,-
+83559,48059737,B6F13_RS03990,B6F13_RS03990,-,-,I,-,rRNA pseudouridine synthase,protein-coding,-,-,-,rRNA pseudouridine synthase,20201215,-
+83559,48059738,B6F13_RS03995,B6F13_RS03995,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059739,B6F13_RS04000,B6F13_RS04000,-,-,I,-,biotin--[acetyl-CoA-carboxylase] ligase,protein-coding,-,-,-,biotin--[acetyl-CoA-carboxylase] ligase,20201215,-
+83559,48059740,B6F13_RS04005,B6F13_RS04005,-,-,I,-,FtsW/RodA/SpoVE family cell cycle protein,protein-coding,-,-,-,FtsW/RodA/SpoVE family cell cycle protein,20201215,-
+83559,48059741,cadA,B6F13_RS04010,-,-,I,-,cadmium-translocating P-type ATPase,protein-coding,-,-,-,cadmium-translocating P-type ATPase,20201215,-
+83559,48059742,B6F13_RS04015,B6F13_RS04015,-,-,I,-,VIT1/CCC1 transporter family protein,protein-coding,-,-,-,VIT1/CCC1 transporter family protein,20201215,-
+83559,48059743,serS,B6F13_RS04020,-,-,I,-,serine--tRNA ligase,protein-coding,-,-,-,serine--tRNA ligase,20201215,-
+83559,48059744,ribD,B6F13_RS04025,-,-,I,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,protein-coding,-,-,-,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,20201215,-
+83559,48059745,B6F13_RS04030,B6F13_RS04030,-,-,I,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",protein-coding,-,-,-,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",20201215,-
+83559,48059746,B6F13_RS04035,B6F13_RS04035,-,-,I,-,"6,7-dimethyl-8-ribityllumazine synthase",protein-coding,-,-,-,"6,7-dimethyl-8-ribityllumazine synthase",20201215,-
+83559,48059747,B6F13_RS04040,B6F13_RS04040,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059748,B6F13_RS04045,B6F13_RS04045,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059749,B6F13_RS04050,B6F13_RS04050,-,-,I,-,sodium:alanine symporter family protein,protein-coding,-,-,-,sodium:alanine symporter family protein,20201215,-
+83559,48059750,B6F13_RS04055,B6F13_RS04055,-,-,I,-,YbhB/YbcL family Raf kinase inhibitor-like protein,protein-coding,-,-,-,YbhB/YbcL family Raf kinase inhibitor-like protein,20201215,-
+83559,48059751,B6F13_RS04060,B6F13_RS04060,-,-,I,-,SET domain-containing protein-lysine N-methyltransferase,protein-coding,-,-,-,SET domain-containing protein-lysine N-methyltransferase,20201215,-
+83559,48059752,B6F13_RS04065,B6F13_RS04065,-,-,I,-,MBL fold metallo-hydrolase,protein-coding,-,-,-,MBL fold metallo-hydrolase,20201215,-
+83559,48059753,B6F13_RS04070,B6F13_RS04070,-,-,I,-,DNA translocase FtsK,protein-coding,-,-,-,DNA translocase FtsK,20201215,-
+83559,48059754,B6F13_RS04075,B6F13_RS04075,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059755,B6F13_RS04080,B6F13_RS04080,-,-,I,-,16S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059756,B6F13_RS04085,B6F13_RS04085,-,-,I,-,23S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059757,rrf,B6F13_RS04090,-,-,I,-,5S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059758,B6F13_RS04095,B6F13_RS04095,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059759,B6F13_RS04100,B6F13_RS04100,-,-,I,-,plasmid replication,protein-coding,-,-,-,plasmid replication,20210417,-
+83559,48059760,B6F13_RS04105,B6F13_RS04105,-,-,I,-,AAA family ATPase,protein-coding,-,-,-,AAA family ATPase,20201215,-
+83559,48059761,B6F13_RS04110,B6F13_RS04110,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059762,B6F13_RS04115,B6F13_RS04115,-,-,I,-,type II toxin-antitoxin system PemK/MazF family toxin,protein-coding,-,-,-,type II toxin-antitoxin system PemK/MazF family toxin,20210129,-
+83559,48059763,B6F13_RS04120,B6F13_RS04120,-,-,I,-,relaxase/mobilization nuclease domain-containing protein,protein-coding,-,-,-,relaxase/mobilization nuclease domain-containing protein,20201215,-
+83559,48059764,B6F13_RS04125,B6F13_RS04125,-,-,I,-,"ribbon-helix-helix protein, CopG family",protein-coding,-,-,-,"ribbon-helix-helix protein, CopG family",20201215,-
+83559,48059765,B6F13_RS04135,B6F13_RS04135,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059766,B6F13_RS04140,B6F13_RS04140,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059767,tet(C),B6F13_RS04145,-,-,I,-,tetracycline efflux MFS transporter Tet(C),protein-coding,-,-,-,tetracycline efflux MFS transporter Tet(C),20201215,-
+83559,48059768,tetR(C),B6F13_RS04150,-,-,I,-,tetracycline resistance transcriptional repressor TetR(C),protein-coding,-,-,-,tetracycline resistance transcriptional repressor TetR(C),20210212,-
+83559,48059769,tnpA,B6F13_RS04155,-,-,I,-,IS200/IS605 family transposase,protein-coding,-,-,-,IS200/IS605 family transposase,20210212,-
+83559,48059770,B6F13_RS04160,B6F13_RS04160,-,-,I,-,transposase,protein-coding,-,-,-,transposase,20201215,-
+83559,48059771,B6F13_RS04165,B6F13_RS04165,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059772,nqrF,B6F13_RS04170,-,-,I,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,protein-coding,-,-,-,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,20201215,-
+83559,48059773,yajC,B6F13_RS04175,-,-,I,-,preprotein translocase subunit YajC,protein-coding,-,-,-,preprotein translocase subunit YajC,20201215,-
+83559,48059774,rlmD,B6F13_RS04180,-,-,I,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,protein-coding,-,-,-,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,20201215,-
+83559,48059775,B6F13_RS04185,B6F13_RS04185,-,-,I,-,histone,protein-coding,-,-,-,histone,20201215,-
+83559,48059776,B6F13_RS04195,B6F13_RS04195,-,-,I,-,CHLTR phosphoprotein,protein-coding,-,-,-,CHLTR phosphoprotein,20201215,-
+83559,48059777,B6F13_RS04200,B6F13_RS04200,-,-,I,-,protoporphyrinogen oxidase,protein-coding,-,-,-,protoporphyrinogen oxidase,20201215,-
+83559,48059778,hemN,B6F13_RS04205,-,-,I,-,oxygen-independent coproporphyrinogen III oxidase,protein-coding,-,-,-,oxygen-independent coproporphyrinogen III oxidase,20201215,-
+83559,48059779,hemE,B6F13_RS04210,-,-,I,-,uroporphyrinogen decarboxylase,protein-coding,-,-,-,uroporphyrinogen decarboxylase,20201215,-
+83559,48059780,mfd,B6F13_RS04215,-,-,I,-,transcription-repair coupling factor,protein-coding,-,-,-,transcription-repair coupling factor,20201215,-
+83559,48059781,alaS,B6F13_RS04220,-,-,I,-,alanine--tRNA ligase,protein-coding,-,-,-,alanine--tRNA ligase,20201215,-
+83559,48059782,B6F13_RS04230,B6F13_RS04230,-,-,I,-,16S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059783,B6F13_RS04235,B6F13_RS04235,-,-,I,-,23S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059784,rrf,B6F13_RS04240,-,-,I,-,5S ribosomal RNA,rRNA,-,-,-,-,20201215,-
+83559,48059785,B6F13_RS04245,B6F13_RS04245,-,-,I,-,transketolase,protein-coding,-,-,-,transketolase,20201215,-
+83559,48059786,B6F13_RS04250,B6F13_RS04250,-,-,I,-,AMP nucleosidase,protein-coding,-,-,-,AMP nucleosidase,20201215,-
+83559,48059787,efp,B6F13_RS04255,-,-,I,-,elongation factor P,protein-coding,-,-,-,elongation factor P,20201215,-
+83559,48059788,B6F13_RS04260,B6F13_RS04260,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059789,B6F13_RS04265,B6F13_RS04265,-,-,I,-,metallophosphoesterase,protein-coding,-,-,-,metallophosphoesterase,20201215,-
+83559,48059790,B6F13_RS04270,B6F13_RS04270,-,-,I,-,molecular chaperone GroEL,protein-coding,-,-,-,molecular chaperone GroEL,20201215,-
+83559,48059791,B6F13_RS04275,B6F13_RS04275,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059792,B6F13_RS04280,B6F13_RS04280,-,-,I,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,20201215,-
+83559,48059793,B6F13_RS04285,B6F13_RS04285,-,-,I,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,protein-coding,-,-,-,phospho-N-acetylmuramoyl-pentapeptide-transferase,20201215,-
+83559,48059794,B6F13_RS04290,B6F13_RS04290,-,-,I,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,protein-coding,-,-,-,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,20201215,-
+83559,48059795,B6F13_RS04295,B6F13_RS04295,-,-,I,-,LysM peptidoglycan-binding domain-containing protein,protein-coding,-,-,-,LysM peptidoglycan-binding domain-containing protein,20201215,-
+83559,48059796,ftsW,B6F13_RS04300,-,-,I,-,putative lipid II flippase FtsW,protein-coding,-,-,-,putative lipid II flippase FtsW,20201215,-
+83559,48059797,murG,B6F13_RS04305,-,-,I,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,protein-coding,-,-,-,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,20201215,-
+83559,48059798,B6F13_RS04310,B6F13_RS04310,-,-,I,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,protein-coding,-,-,-,bifunctional UDP-N-acetylmuramate--L-alanine ligase/D-alanine--D-alanine ligase,20201215,-
+83559,48059799,B6F13_RS04315,B6F13_RS04315,-,-,I,-,KH domain-containing protein,protein-coding,-,-,-,KH domain-containing protein,20201215,-
+83559,48059800,B6F13_RS04320,B6F13_RS04320,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059801,B6F13_RS04325,B6F13_RS04325,-,-,I,-,anti-sigma factor antagonist,protein-coding,-,-,-,anti-sigma factor antagonist,20210129,-
+83559,48059802,miaA,B6F13_RS04330,-,-,I,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,protein-coding,-,-,-,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,20201215,-
+83559,48059803,B6F13_RS04335,B6F13_RS04335,-,-,I,-,dehypoxanthine futalosine cyclase,protein-coding,-,-,-,dehypoxanthine futalosine cyclase,20201215,-
+83559,48059804,B6F13_RS04340,B6F13_RS04340,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059805,rsfS,B6F13_RS04345,-,-,I,-,ribosome silencing factor,protein-coding,-,-,-,ribosome silencing factor,20201215,-
+83559,48059806,fabF,B6F13_RS04350,-,-,I,-,beta-ketoacyl-ACP synthase II,protein-coding,-,-,-,beta-ketoacyl-ACP synthase II,20201215,-
+83559,48059807,B6F13_RS04355,B6F13_RS04355,-,-,I,-,NUDIX domain-containing protein,protein-coding,-,-,-,NUDIX domain-containing protein,20201215,-
+83559,48059808,B6F13_RS04360,B6F13_RS04360,-,-,I,-,inorganic pyrophosphatase,protein-coding,-,-,-,inorganic pyrophosphatase,20201215,-
+83559,48059809,B6F13_RS04370,B6F13_RS04370,-,-,I,-,Glu/Leu/Phe/Val dehydrogenase,protein-coding,-,-,-,Glu/Leu/Phe/Val dehydrogenase,20201215,-
+83559,48059810,B6F13_RS04375,B6F13_RS04375,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059811,B6F13_RS04380,B6F13_RS04380,-,-,I,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201215,-
+83559,48059812,B6F13_RS04385,B6F13_RS04385,-,-,I,-,AMP-binding protein,protein-coding,-,-,-,AMP-binding protein,20201215,-
+83559,48059813,B6F13_RS04390,B6F13_RS04390,-,-,I,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,protein-coding,-,-,-,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,20201215,-
+83559,48059814,priA,B6F13_RS04395,-,-,I,-,primosomal protein N',protein-coding,-,-,-,primosomal protein N',20201215,-
+83559,48059815,B6F13_RS04400,B6F13_RS04400,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059816,B6F13_RS04405,B6F13_RS04405,-,-,I,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201215,-
+83559,48059817,lysS,B6F13_RS04410,-,-,I,-,lysine--tRNA ligase,protein-coding,-,-,-,lysine--tRNA ligase,20201215,-
+83559,48059818,B6F13_RS04415,B6F13_RS04415,-,-,I,-,cysteine--tRNA ligase,protein-coding,-,-,-,cysteine--tRNA ligase,20201215,-
+83559,48059819,B6F13_RS04420,B6F13_RS04420,-,-,I,-,thioredoxin family protein,protein-coding,-,-,-,thioredoxin family protein,20201215,-
+83559,48059820,B6F13_RS04425,B6F13_RS04425,-,-,I,-,ribonuclease P protein component,protein-coding,-,-,-,ribonuclease P protein component,20201215,-
+83559,48059821,rpmH,B6F13_RS04430,-,-,I,-,50S ribosomal protein L34,protein-coding,-,-,-,50S ribosomal protein L34,20201215,-
+83559,48059822,rpmJ,B6F13_RS04435,-,-,I,-,50S ribosomal protein L36,protein-coding,-,-,-,50S ribosomal protein L36,20201215,-
+83559,48059823,rpsN,B6F13_RS04440,-,-,I,-,30S ribosomal protein S14,protein-coding,-,-,-,30S ribosomal protein S14,20201215,-
+83559,48059824,B6F13_RS04445,B6F13_RS04445,-,-,I,-,DUF4339 domain-containing protein,protein-coding,-,-,-,DUF4339 domain-containing protein,20201215,-
+83559,48059825,B6F13_RS04455,B6F13_RS04455,-,-,I,-,Asp23/Gls24 family envelope stress response protein,protein-coding,-,-,-,Asp23/Gls24 family envelope stress response protein,20201215,-
+83559,48059826,uvrC,B6F13_RS04460,-,-,I,-,excinuclease ABC subunit UvrC,protein-coding,-,-,-,excinuclease ABC subunit UvrC,20201215,-
+83559,48059827,mutS,B6F13_RS04465,-,-,I,-,DNA mismatch repair protein MutS,protein-coding,-,-,-,DNA mismatch repair protein MutS,20201215,-
+83559,48059828,B6F13_RS04470,B6F13_RS04470,-,-,I,-,DNA primase,protein-coding,-,-,-,DNA primase,20201215,-
+83559,48059829,B6F13_RS04475,B6F13_RS04475,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059830,B6F13_RS04480,B6F13_RS04480,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059831,B6F13_RS04485,B6F13_RS04485,-,-,I,-,glycine--tRNA ligase,protein-coding,-,-,-,glycine--tRNA ligase,20201215,-
+83559,48059832,pgsA,B6F13_RS04490,-,-,I,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,protein-coding,-,-,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,20201215,-
+83559,48059833,glgA,B6F13_RS04495,-,-,I,-,glycogen synthase GlgA,protein-coding,-,-,-,glycogen synthase GlgA,20201215,-
+83559,48059834,B6F13_RS04500,B6F13_RS04500,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059835,B6F13_RS04510,B6F13_RS04510,-,-,I,-,50S ribosomal protein L25/general stress protein Ctc,protein-coding,-,-,-,50S ribosomal protein L25/general stress protein Ctc,20201215,-
+83559,48059836,B6F13_RS04515,B6F13_RS04515,-,-,I,-,aminoacyl-tRNA hydrolase,protein-coding,-,-,-,aminoacyl-tRNA hydrolase,20201215,-
+83559,48059837,B6F13_RS04520,B6F13_RS04520,-,-,I,-,30S ribosomal protein S6,protein-coding,-,-,-,30S ribosomal protein S6,20201215,-
+83559,48059838,B6F13_RS04525,B6F13_RS04525,-,-,I,-,30S ribosomal protein S18,protein-coding,-,-,-,30S ribosomal protein S18,20201215,-
+83559,48059839,B6F13_RS04530,B6F13_RS04530,-,-,I,-,50S ribosomal protein L9,protein-coding,-,-,-,50S ribosomal protein L9,20201215,-
+83559,48059840,B6F13_RS04535,B6F13_RS04535,-,-,I,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,protein-coding,-,-,-,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,20201215,-
+83559,48059841,rbp7,B6F13_RS04540,-,-,I,-,reticulate body protein Rbp-7,protein-coding,-,-,-,reticulate body protein Rbp-7,20201215,-
+83559,48059842,B6F13_RS04545,B6F13_RS04545,-,-,I,-,putative Na+/H+ antiporter,protein-coding,-,-,-,putative Na+/H+ antiporter,20201215,-
+83559,48059843,B6F13_RS04550,B6F13_RS04550,-,-,I,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201215,-
+83559,48059844,B6F13_RS04555,B6F13_RS04555,-,-,I,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,protein-coding,-,-,-,1-acyl-sn-glycerol-3-phosphate acyltransferase,20201215,-
+83559,48059845,B6F13_RS04560,B6F13_RS04560,-,-,I,-,ribonuclease E/G,protein-coding,-,-,-,ribonuclease E/G,20201215,-
+83559,48059846,B6F13_RS04565,B6F13_RS04565,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201218,-
+83559,48059847,rpmF,B6F13_RS04575,-,-,I,-,50S ribosomal protein L32,protein-coding,-,-,-,50S ribosomal protein L32,20201215,-
+83559,48059848,plsX,B6F13_RS04580,-,-,I,-,phosphate acyltransferase PlsX,protein-coding,-,-,-,phosphate acyltransferase PlsX,20201215,-
+83559,48059849,B6F13_RS04585,B6F13_RS04585,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059850,B6F13_RS04590,B6F13_RS04590,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059851,B6F13_RS04595,B6F13_RS04595,-,-,I,-,YtxH domain-containing protein,protein-coding,-,-,-,YtxH domain-containing protein,20201218,-
+83559,48059852,B6F13_RS04600,B6F13_RS04600,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059853,B6F13_RS04605,B6F13_RS04605,-,-,I,-,phosphoglucosamine mutase,protein-coding,-,-,-,phosphoglucosamine mutase,20201215,-
+83559,48059854,glmS,B6F13_RS04610,-,-,I,-,glutamine--fructose-6-phosphate transaminase (isomerizing),protein-coding,-,-,-,glutamine--fructose-6-phosphate transaminase (isomerizing),20201215,-
+83559,48059855,B6F13_RS04615,B6F13_RS04615,-,-,I,-,amino acid transporter,protein-coding,-,-,-,amino acid transporter,20201215,-
+83559,48059856,B6F13_RS04620,B6F13_RS04620,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059857,B6F13_RS04625,B6F13_RS04625,-,-,I,-,Bax inhibitor-1/YccA family protein,protein-coding,-,-,-,Bax inhibitor-1/YccA family protein,20201215,-
+83559,48059858,ftsY,B6F13_RS04630,-,-,I,-,signal recognition particle-docking protein FtsY,protein-coding,-,-,-,signal recognition particle-docking protein FtsY,20201215,-
+83559,48059859,sucC,B6F13_RS04635,-,-,I,-,ADP-forming succinate--CoA ligase subunit beta,protein-coding,-,-,-,ADP-forming succinate--CoA ligase subunit beta,20201215,-
+83559,48059860,sucD,B6F13_RS04640,-,-,I,-,succinate--CoA ligase subunit alpha,protein-coding,-,-,-,succinate--CoA ligase subunit alpha,20201215,-
+83559,48059861,B6F13_RS04645,B6F13_RS04645,-,-,I,-,DegQ family serine endoprotease,protein-coding,-,-,-,DegQ family serine endoprotease,20201215,-
+83559,48059862,B6F13_RS04650,B6F13_RS04650,-,-,I,-,insulinase family protein,protein-coding,-,-,-,insulinase family protein,20201215,-
+83559,48059863,B6F13_RS04655,B6F13_RS04655,-,-,I,-,DNA recombination protein RmuC,protein-coding,-,-,-,DNA recombination protein RmuC,20201215,-
+83559,48059864,B6F13_RS04660,B6F13_RS04660,-,-,I,-,phosphatidylcholine/phosphatidylserine synthase,protein-coding,-,-,-,phosphatidylcholine/phosphatidylserine synthase,20201215,-
+83559,48059865,B6F13_RS04670,B6F13_RS04670,-,-,I,-,ribonucleoside-diphosphate reductase subunit alpha,protein-coding,-,-,-,ribonucleoside-diphosphate reductase subunit alpha,20201215,-
+83559,48059866,B6F13_RS04675,B6F13_RS04675,-,-,I,-,ribonucleotide-diphosphate reductase subunit beta,protein-coding,-,-,-,ribonucleotide-diphosphate reductase subunit beta,20201215,-
+83559,48059867,B6F13_RS04680,B6F13_RS04680,-,-,I,-,tRNA (guanine(46)-N(7))-methyltransferase TrmB,protein-coding,-,-,-,tRNA (guanine(46)-N(7))-methyltransferase TrmB,20201217,-
+83559,48059868,B6F13_RS04685,B6F13_RS04685,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059869,B6F13_RS04690,B6F13_RS04690,-,-,I,-,class I SAM-dependent methyltransferase,protein-coding,-,-,-,class I SAM-dependent methyltransferase,20201215,-
+83559,48059870,murB,B6F13_RS04695,-,-,I,-,UDP-N-acetylmuramate dehydrogenase,protein-coding,-,-,-,UDP-N-acetylmuramate dehydrogenase,20201215,-
+83559,48059871,nusB,B6F13_RS04700,-,-,I,-,transcription antitermination factor NusB,protein-coding,-,-,-,transcription antitermination factor NusB,20201215,-
+83559,48059872,B6F13_RS04705,B6F13_RS04705,-,-,I,-,translation initiation factor IF-3,protein-coding,-,-,-,translation initiation factor IF-3,20201215,-
+83559,48059873,rpmI,B6F13_RS04710,-,-,I,-,50S ribosomal protein L35,protein-coding,-,-,-,50S ribosomal protein L35,20201215,-
+83559,48059874,rplT,B6F13_RS04715,-,-,I,-,50S ribosomal protein L20,protein-coding,-,-,-,50S ribosomal protein L20,20201215,-
+83559,48059875,pheS,B6F13_RS04720,-,-,I,-,phenylalanine--tRNA ligase subunit alpha,protein-coding,-,-,-,phenylalanine--tRNA ligase subunit alpha,20201215,-
+83559,48059876,B6F13_RS04725,B6F13_RS04725,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059877,B6F13_RS04730,B6F13_RS04730,-,-,I,-,calcium-binding protein,protein-coding,-,-,-,calcium-binding protein,20201215,-
+83559,48059878,B6F13_RS04735,B6F13_RS04735,-,-,I,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20201215,-
+83559,48059879,B6F13_RS04740,B6F13_RS04740,-,-,I,-,LptF/LptG family permease,protein-coding,-,-,-,LptF/LptG family permease,20201215,-
+83559,48059880,tilS,B6F13_RS04745,-,-,I,-,tRNA lysidine(34) synthetase TilS,protein-coding,-,-,-,tRNA lysidine(34) synthetase TilS,20201215,-
+83559,48059881,ftsH,B6F13_RS04750,-,-,I,-,ATP-dependent zinc metalloprotease FtsH,protein-coding,-,-,-,ATP-dependent zinc metalloprotease FtsH,20201215,-
+83559,48059882,pnp,B6F13_RS04755,-,-,I,-,polyribonucleotide nucleotidyltransferase,protein-coding,-,-,-,polyribonucleotide nucleotidyltransferase,20201215,-
+83559,48059883,rpsO,B6F13_RS04760,-,-,I,-,30S ribosomal protein S15,protein-coding,-,-,-,30S ribosomal protein S15,20201215,-
+83559,48059884,B6F13_RS04765,B6F13_RS04765,-,-,I,-,nucleoside deaminase,protein-coding,-,-,-,nucleoside deaminase,20201215,-
+83559,48059885,B6F13_RS04770,B6F13_RS04770,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059886,B6F13_RS04775,B6F13_RS04775,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059887,B6F13_RS04780,B6F13_RS04780,-,-,I,-,CT847 family type III secretion system effector,protein-coding,-,-,-,CT847 family type III secretion system effector,20201215,-
+83559,48059888,B6F13_RS04785,B6F13_RS04785,-,-,I,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20201215,-
+83559,48059889,B6F13_RS04790,B6F13_RS04790,-,-,I,-,DUF720 domain-containing protein,protein-coding,-,-,-,DUF720 domain-containing protein,20201215,-
+83559,48059890,B6F13_RS04795,B6F13_RS04795,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059891,B6F13_RS04800,B6F13_RS04800,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059892,B6F13_RS04805,B6F13_RS04805,-,-,I,-,methionyl aminopeptidase,protein-coding,-,-,-,methionyl aminopeptidase,20201215,-
+83559,48059893,B6F13_RS04810,B6F13_RS04810,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059894,B6F13_RS04815,B6F13_RS04815,-,-,I,-,MarC family protein,protein-coding,-,-,-,MarC family protein,20201215,-
+83559,48059895,B6F13_RS04820,B6F13_RS04820,-,-,I,-,ABC transporter substrate-binding protein,protein-coding,-,-,-,ABC transporter substrate-binding protein,20201215,-
+83559,48059896,fumC,B6F13_RS04825,-,-,I,-,class II fumarate hydratase,protein-coding,-,-,-,class II fumarate hydratase,20201215,-
+83559,48059897,B6F13_RS04830,B6F13_RS04830,-,-,I,-,solute carrier family 26 protein,protein-coding,-,-,-,solute carrier family 26 protein,20201215,-
+83559,48059898,B6F13_RS04835,B6F13_RS04835,-,-,I,-,sodium:proton antiporter,protein-coding,-,-,-,sodium:proton antiporter,20201215,-
+83559,48059899,B6F13_RS04840,B6F13_RS04840,-,-,I,-,protease-like activity factor CPAF,protein-coding,-,-,-,protease-like activity factor CPAF,20201215,-
+83559,48059900,ispH,B6F13_RS04845,-,-,I,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,protein-coding,-,-,-,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,20201215,-
+83559,48059901,B6F13_RS04850,B6F13_RS04850,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059902,B6F13_RS04855,B6F13_RS04855,-,-,I,-,ATP synthase subunit I,protein-coding,-,-,-,ATP synthase subunit I,20201215,-
+83559,48059903,B6F13_RS04860,B6F13_RS04860,-,-,I,-,SycD/LcrH family type III secretion system chaperone,protein-coding,-,-,-,SycD/LcrH family type III secretion system chaperone,20201215,-
+83559,48059904,B6F13_RS04865,B6F13_RS04865,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059905,B6F13_RS04870,B6F13_RS04870,-,-,I,-,tRNA,tRNA,-,-,-,-,20201215,-
+83559,48059906,B6F13_RS04875,B6F13_RS04875,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059907,B6F13_RS04880,B6F13_RS04880,-,-,I,-,site-specific tyrosine recombinase XerD,protein-coding,-,-,-,site-specific tyrosine recombinase XerD,20201215,-
+83559,48059908,B6F13_RS04885,B6F13_RS04885,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059909,glgB,B6F13_RS04890,-,-,I,-,"1,4-alpha-glucan branching protein GlgB",protein-coding,-,-,-,"1,4-alpha-glucan branching protein GlgB",20201215,-
+83559,48059910,B6F13_RS04895,B6F13_RS04895,-,-,I,-,Deubiquitinase and deneddylase Dub2,protein-coding,-,-,-,Deubiquitinase and deneddylase Dub2,20201215,-
+83559,48059911,B6F13_RS04900,B6F13_RS04900,-,-,I,-,deubiquitinase,protein-coding,-,-,-,deubiquitinase,20201215,-
+83559,48059912,B6F13_RS04905,B6F13_RS04905,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059913,B6F13_RS04910,B6F13_RS04910,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059914,B6F13_RS04915,B6F13_RS04915,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059915,B6F13_RS04920,B6F13_RS04920,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059916,B6F13_RS04925,B6F13_RS04925,-,-,I,-,autotransporter domain-containing protein,protein-coding,-,-,-,autotransporter domain-containing protein,20201215,-
+83559,48059917,B6F13_RS04930,B6F13_RS04930,-,-,I,-,ribose-phosphate pyrophosphokinase,protein-coding,-,-,-,ribose-phosphate pyrophosphokinase,20201215,-
+83559,48059918,B6F13_RS04935,B6F13_RS04935,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059919,B6F13_RS04940,B6F13_RS04940,-,-,I,-,Pmp family polymorphic membrane protein autotransporter adhesin,protein-coding,-,-,-,Pmp family polymorphic membrane protein autotransporter adhesin,20201215,-
+83559,48059920,B6F13_RS04950,B6F13_RS04950,-,-,I,-,phospholipase,protein-coding,-,-,-,phospholipase,20210123,-
+83559,48059921,B6F13_RS04955,B6F13_RS04955,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059922,B6F13_RS04960,B6F13_RS04960,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059923,B6F13_RS04965,B6F13_RS04965,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,48059924,B6F13_RS04970,B6F13_RS04970,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059925,B6F13_RS04975,B6F13_RS04975,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059926,B6F13_RS04980,B6F13_RS04980,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059929,B6F13_RS04995,B6F13_RS04995,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,48059930,B6F13_RS05000,B6F13_RS05000,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,60510687,B6F13_RS05015,B6F13_RS05015,-,-,I,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20201215,-
+83559,60510688,B6F13_RS05020,B6F13_RS05020,-,-,I,-,succinate dehydrogenase,protein-coding,-,-,-,succinate dehydrogenase,20210522,-
+83559,60510689,B6F13_RS05025,B6F13_RS05025,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-
+83559,60510690,B6F13_RS05030,B6F13_RS05030,-,-,I,-,pseudo,pseudo,-,-,-,-,20201215,-

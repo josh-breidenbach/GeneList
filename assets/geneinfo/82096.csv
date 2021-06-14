@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+82096,11452190,atpA,ESH0113,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+82096,11452191,atpF,ESH0129,-,-,-,-,ATP synthase CF0 B subunit,protein-coding,-,-,-,-,20160813,-
+82096,11452192,atpH,ESH0145,-,-,-,-,ATP synthase CF0 C subunit,protein-coding,-,-,-,-,20150805,-
+82096,11452193,atpI,ESH0159,-,-,-,-,ATP synthase CF0 A subunit,protein-coding,-,-,-,-,20150805,-
+82096,11452194,rps2,ESH0169,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+82096,11452195,rpoC2,ESH0178,-,-,-,-,RNA polymerase beta'' subunit,protein-coding,-,-,-,-,20170906,-
+82096,11452196,rpoC1,ESH0221,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160813,-
+82096,11452197,rpoB,ESH0250,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20210313,-
+82096,11452198,tRNA-Cys (GCA),ESH0295,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452199,petN,ESH0299,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150805,-
+82096,11452200,psbM,ESH0309,-,-,-,-,PSII M protein,protein-coding,-,-,-,-,20150805,-
+82096,11452201,tRNA-Asp (GUC),ESH0322,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452202,petB,ESH0768,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170906,-
+82096,11452203,petD,ESH0784,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160716,-
+82096,11452204,rpoA,ESH0798,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20210313,-
+82096,11452205,rps11,ESH0809,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160325,-
+82096,11452206,rpl36,ESH0814,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150805,-
+82096,11452207,infA,ESH0817,-,-,-,-,translation initiation factor 1,protein-coding,-,-,-,-,20160806,-
+82096,11452208,rps8,ESH0821,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160325,-
+82096,11452209,rpl14,ESH0820,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150805,-
+82096,11452210,rpl16,ESH0831,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+82096,11452211,rps3,ESH0846,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+82096,11452212,rpl22,ESH0853,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160813,-
+82096,11452213,rps19,ESH0858,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150805,-
+82096,11452214,rpl2,ESH0862,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+82096,11452215,rpl23,ESH0877,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150805,-
+82096,11452216,tRNA-His (CAU),ESH0881,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452217,ycf2,ESH0883,-,-,-,-,ycf2,protein-coding,-,-,-,-,20170906,-
+82096,11452218,ycf15,ESH0947,-,-,-,-,ycf15 protein,protein-coding,-,-,-,-,20170906,-
+82096,11452219,tRNA-Leu (CAA),ESH0953,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452220,ndhB,ESH0959,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+82096,11452221,rps7,ESH0984,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+82096,11452222,tRNA-Val (GAC),ESH1016,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452223,rrn16,ESH1019,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452224,tRNA-Ile (GAU),ESH1037,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452225,tRNA-Ala (UGC),ESH1048,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452226,rrn23,ESH1058,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452227,rrn4.5,ESH1087,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452228,tRNA-Arg (ACG),ESH1094,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452229,tRNA-Asn (GUU),ESH1101,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452230,ycf1,ESH1105,-,-,-,-,pseudo,pseudo,-,-,-,-,20150805,-
+82096,11452231,ndhF,ESH1121,ndh5,-,-,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160813,-
+82096,11452232,rpl32,ESH1156,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150805,-
+82096,11452233,tRNA-Leu (UAG),ESH1166,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452234,ccsA,ESH1167,ycf5,-,-,-,cytochrome c biogenesis protein,protein-coding,-,-,-,-,20150805,-
+82096,11452235,ndhD,ESH1179,-,-,-,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20210313,-
+82096,11452236,psaC,ESH1195,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+82096,11452237,ndhE,ESH1200,ndh4L,-,-,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20150805,-
+82096,11452238,ndhG,ESH1205,-,-,-,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20150805,-
+82096,11452239,ndhI,ESH1214,frxB,-,-,-,NADH dehydrogenase subunit I,protein-coding,-,-,-,-,20170906,-
+82096,11452240,ndhA,ESH1220,ndh1,-,-,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20150805,-
+82096,11452241,ndhH,ESH1241,-,-,-,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20170906,-
+82096,11452242,rps15,ESH1254,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+82096,11452243,ycf1,ESH1261,-,-,-,-,ycf1 protein,protein-coding,-,-,-,-,20160813,-
+82096,11452244,tRNA-Gly (UCC),ESH0102,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452245,tRNA-Asn (GUU),ESH1322,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452246,tRNA-Arg (ACG),ESH1328,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452247,rrn5,ESH1332,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452248,rrn4.5,ESH1335,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452249,rrn23,ESH1337,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452250,tRNA-Ala (UGC),ESH1367,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452251,tRNA-Ile (GAU),ESH1376,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452252,rrn16,ESH1389,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452253,tRNA-Val (GAC),ESH1407,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452254,rps7,ESH1434,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+82096,11452255,ndhB,ESH1442,ndh2,-,-,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20170906,-
+82096,11452256,rps12,ESH0716,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+82096,11452257,tRNA-Leu (CAA),ESH1470,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452258,tRNA-His (GUG),ESH0000,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452259,ycf15,ESH1474,-,-,-,-,ycf15 protein,protein-coding,-,-,-,-,20170906,-
+82096,11452260,psbA,ESH0004,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160813,-
+82096,11452261,ycf2,ESH1477,-,-,-,-,ycf2,protein-coding,-,-,-,-,20170906,-
+82096,11452262,tRNA-Lys (UUU),ESH0017,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452263,tRNA-His (CAU),ESH1541,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452264,matK,ESH0020,-,-,-,-,maturase K,protein-coding,-,-,-,-,20210123,-
+82096,11452265,rpl23,ESH1544,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150805,-
+82096,11452266,rps16,ESH0052,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150805,-
+82096,11452267,rpl2,ESH1547,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+82096,11452268,tRNA-Gln (UUG),ESH0081,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452269,rps19,ESH1562,-,-,-,-,pseudo,pseudo,-,-,-,-,20150805,-
+82096,11452270,psbK,ESH0085,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150805,-
+82096,11452271,psbI,ESH0091,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20160325,-
+82096,11452272,tRNA-Ser (GCU),ESH0094,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452273,rrn5,ESH1090,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20150805,-
+82096,11452274,tRNA-Tyr (GUA),ESH0323,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452275,tRNA-Glu (UUC),ESH0325,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452276,tRNA-Thr (GGU),ESH0334,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452277,psbD,ESH00348,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160813,-
+82096,11452278,psbC,ESH0358,-,-,-,-,photosystem II 44 kDa protein,protein-coding,-,-,-,-,20150805,-
+82096,11452279,tRNA-Arg (UCU),ESH0111,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452280,tRNA-Ser (UGA),ESH0375,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452281,psbZ,ESH0379,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150805,-
+82096,11452282,tRNA-Gly (GCC),ESH0384,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452283,tRNA-fM (CAU),ESH0386,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452284,rps14,ESH0388,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150805,-
+82096,11452285,psaB,ESH0393,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A2,protein-coding,-,-,-,-,20150805,-
+82096,11452286,psaA,ESH0415,-,-,-,-,photosystem I P700 chlorophyll a apoprotein A1,protein-coding,-,-,-,-,20150805,-
+82096,11452287,ycf3,ESH0445,-,-,-,-,photosystem I assembly protein Ycf3,protein-coding,-,-,-,-,20170906,-
+82096,11452288,tRNA-Ser (GGA),ESH0473,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452289,rps4,ESH0476,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+82096,11452290,tRNA-Thr (UGU),ESH0485,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452291,tRNA-Leu (UAA),ESH0494,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452292,tRNA-Phe (GAA),ESH0504,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452293,ndhJ,ESH0508,-,-,-,-,NADH dehydrogenase subunit J,protein-coding,-,-,-,-,20150805,-
+82096,11452294,ndhK,ESH0514,-,-,-,-,NADH dehydrogenase subunit K,protein-coding,-,-,-,-,20160813,-
+82096,11452295,ndhC,ESH0521,ndh3,-,-,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20150805,-
+82096,11452296,tRNA-Val (UAC),ESH0535,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452297,tRNA-Met (CAU),ESH0543,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452298,atpE,ESH0546,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+82096,11452299,atpB,ESH0550,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170906,-
+82096,11452300,rbcL,ESH0573,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170906,-
+82096,11452301,accD,ESH0594,-,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,-,20150805,-
+82096,11452302,psaI,ESH0616,-,-,-,-,PSI reaction center subunit VIII,protein-coding,-,-,-,-,20150805,-
+82096,11452303,ycf4,ESH0621,-,-,-,-,photosystem I assembly protein Ycf4,protein-coding,-,-,-,-,20150805,-
+82096,11452304,cemA,ESH0630,-,-,-,-,envelope membrane protein,protein-coding,-,-,-,-,20150805,-
+82096,11452305,petA,ESH0639,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+82096,11452306,psbJ,ESH0659,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150805,-
+82096,11452307,psbL,ESH0661,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150805,-
+82096,11452308,psbF,ESH0662,-,-,-,-,photosystem II protein VI,protein-coding,-,-,-,-,20150805,-
+82096,11452309,psbE,ESH0664,-,-,-,-,photosystem II protein V,protein-coding,-,-,-,-,20170906,-
+82096,11452310,petL,ESH0678,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150805,-
+82096,11452311,petG,ESH0680,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20160813,-
+82096,11452312,tRNA-Trp (CCA),ESH0683,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452313,tRNA-Pro (UGG),ESH0685,-,-,-,-,tRNA,tRNA,-,-,-,-,20150805,-
+82096,11452314,psaJ,ESH0690,-,-,-,-,PSI reaction centre subunit IX,protein-coding,-,-,-,-,20160325,-
+82096,11452315,rpl33,ESH0695,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150805,-
+82096,11452316,rps18,ESH0699,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150805,-
+82096,11452317,rpl20,ESH0704,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160813,-
+82096,11452318,rps12,ESH1570,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+82096,11452319,clpP,ESH0719,-,-,-,-,ATP-dependent Clp protease proteolytic subunit,protein-coding,-,-,-,-,20160813,-
+82096,11452320,psbB,ESH0743,-,-,-,-,photosystem II 47 kDa protein,protein-coding,-,-,-,-,20150805,-
+82096,11452321,psbT,ESH0761,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150805,-
+82096,11452322,psbN,ESH0762,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150805,-
+82096,11452323,psbH,ESH0765,-,-,-,-,photosystem II protein H,protein-coding,-,-,-,-,20150805,-

@@ -1,0 +1,239 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+127542,23765441,trnK(uuu),SarthMt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765442,trnV(uac),SarthMt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765443,atp9,SarthMp01,-,-,MT,-,ATP synthase F0 subunit 9,protein-coding,-,-,-,-,20210424,-
+127542,23765444,trnM(cau),SarthMt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765445,trnL(uaa),SarthMt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765446,trnH(gug),SarthMt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765447,trnC(gca),SarthMt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765448,trnN(guu),SarthMt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765449,trnF(gaa),SarthMt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765450,rps8,SarthMp02,-,-,MT,-,ribosomal protein S8,protein-coding,-,-,-,-,20160924,-
+127542,23765451,orf41,SarthMp08,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160406,-
+127542,23765452,trnQ(uug),SarthMt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765453,trnL(uag),SarthMt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765454,rps12,SarthMp09,-,-,MT,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-
+127542,23765455,rpl14,SarthMp12,-,-,MT,-,ribosomal protein L14,protein-coding,-,-,-,-,20160924,-
+127542,23765456,orf129,SarthMp14,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,-,20160924,-
+127542,23765457,cox3,SarthMp21,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,-,20160924,-
+127542,23765458,nad2,SarthMp23,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,-,20160924,-
+127542,23765459,trnE(uuc),SarthMt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765460,nad9,SarthMp25,-,-,MT,-,NADH dehydrogenase subunit 9,protein-coding,-,-,-,-,20160406,-
+127542,23765461,nad5,SarthMp29,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,-,20160924,-
+127542,23765462,trnD(guc),SarthMt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765463,trnA(ugc),SarthMt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765464,rps10,SarthMp35,-,-,MT,-,ribosomal protein S10,protein-coding,-,-,-,-,20160924,-
+127542,23765465,rrn5,SarthMr03,-,-,MT,-,5S ribosomal RNA,rRNA,-,-,-,-,20150323,-
+127542,23765466,trnM(cau),SarthMt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765467,rpl31,SarthMp36,-,-,MT,-,ribosomal protein L31,protein-coding,-,-,-,-,20160406,-
+127542,23765468,nad7,SarthMp37,-,-,MT,-,NADH dehydrogenase subunit 7,protein-coding,-,-,-,-,20160406,-
+127542,23765469,rnl,SarthMr01,-,-,MT,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20150323,-
+127542,23765470,rpl6,SarthMp03,-,-,MT,-,ribosomal protein L6,protein-coding,-,-,-,-,20160924,-
+127542,23765471,rps2,SarthMp04,-,-,MT,-,ribosomal protein S2,protein-coding,-,-,-,-,20160924,-
+127542,23765472,rps4,SarthMp05,-,-,MT,-,ribosomal protein S4,protein-coding,-,-,-,-,20160406,-
+127542,23765473,nad1,SarthMp06,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,-,20160924,-
+127542,23765474,tatC,SarthMp07,-,-,MT,-,SecY-independent protein translocase component tatC,protein-coding,-,-,-,-,20160924,-
+127542,23765475,trnW(cca),SarthMt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765476,rps7,SarthMp10,-,-,MT,-,ribosomal protein S7,protein-coding,-,-,-,-,20160924,-
+127542,23765477,nad4L,SarthMp11,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,-,20210123,-
+127542,23765478,trnL(caa),SarthMt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765479,rpl5,SarthMp13,-,-,MT,-,ribosomal protein L5,protein-coding,-,-,-,-,20160924,-
+127542,23765480,trnG(gcc),SarthMt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765481,rpl16,SarthMp15,-,-,MT,-,ribosomal protein L16,protein-coding,-,-,-,-,20160406,-
+127542,23765482,rps3,SarthMp16,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,-,20160924,-
+127542,23765483,rps19,SarthMp17,-,-,MT,-,ribosomal protein S19,protein-coding,-,-,-,-,20160924,-
+127542,23765484,rpl2,SarthMp18,-,-,MT,-,ribosomal protein L2,protein-coding,-,-,-,-,20160924,-
+127542,23765485,rps13,SarthMp19,-,-,MT,-,ribosomal protein S13,protein-coding,-,-,-,-,20160924,-
+127542,23765486,rps11,SarthMp20,-,-,MT,-,ribosomal protein S11,protein-coding,-,-,-,-,20160924,-
+127542,23765487,trnY(gua),SarthMt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765488,atp6,SarthMp22,-,-,MT,-,ATP synthase F0 subunit 6,protein-coding,-,-,-,-,20160406,-
+127542,23765489,trnR(ucu),SarthMt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765490,cox1,SarthMp24,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,-,20160924,-
+127542,23765491,trnI(gau),SarthMt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765492,cob,SarthMp26,-,-,MT,-,apocytochrome b,protein-coding,-,-,-,-,20160406,-
+127542,23765493,cox2,SarthMp27,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,-,20160924,-
+127542,23765494,nad4,SarthMp28,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,-,20160924,-
+127542,23765495,trnI(uau),SarthMt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765496,nad6,SarthMp30,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,-,20160924,-
+127542,23765497,trnM(cau),SarthMt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765498,nad11,SarthMp31,-,-,MT,-,NADH dehydrogenase subunit 11,protein-coding,-,-,-,-,20160924,-
+127542,23765499,nad3,SarthMp32,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,-,20160924,-
+127542,23765500,rps14,SarthMp33,-,-,MT,-,ribosomal protein S14,protein-coding,-,-,-,-,20160924,-
+127542,23765501,atp8,SarthMp34,-,-,MT,-,ATP synthase F0 subunit 8,protein-coding,-,-,-,-,20160924,-
+127542,23765502,trnS(gcu),SarthMt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765503,trnS(uga),SarthMt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765504,trnP(ugg),SarthMt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20150323,-
+127542,23765505,rns,SarthMr02,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20150323,-
+127542,26830844,rnl,AYB83_gr005,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830845,tRNA-Ala(tgc),AYB83_gt001,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830846,tRNA-Ile(gat),AYB83_gt002,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830847,rns,AYB83_gr006,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830848,ycf37,AYB83_gp139,-,-,-,-,Ycf37,protein-coding,-,-,-,-,20160730,-
+127542,26830849,psaM,AYB83_gp138,-,-,-,-,PsaM,protein-coding,-,-,-,-,20210327,-
+127542,26830850,chlI,AYB83_gp137,-,-,-,-,ChlI,protein-coding,-,-,-,-,20160504,-
+127542,26830851,tRNA-Phe(gaa),AYB83_gt003,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830852,petB,AYB83_gp136,-,-,-,-,PetB,protein-coding,-,-,-,-,20210327,-
+127542,26830853,petD,AYB83_gp135,-,-,-,-,PetD,protein-coding,-,-,-,-,20160716,-
+127542,26830854,petN,AYB83_gp134,-,-,-,-,PetN,protein-coding,-,-,-,-,20160504,-
+127542,26830855,petM,AYB83_gp133,-,-,-,-,PetM,protein-coding,-,-,-,-,20160730,-
+127542,26830856,ycf47,AYB83_gp132,-,-,-,-,Ycf47,protein-coding,-,-,-,-,20160504,-
+127542,26830857,tRNA-Met(cat),AYB83_gt004,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830858,rpl19,AYB83_gp131,-,-,-,-,ribosomal protein L19,protein-coding,-,-,-,-,20160504,-
+127542,26830859,rpl27,AYB83_gp130,-,-,-,-,ribosomal protein L27,protein-coding,-,-,-,-,20160504,-
+127542,26830860,psbX,AYB83_gp129,-,-,-,-,PsbX,protein-coding,-,-,-,-,20210424,-
+127542,26830861,ycf66,AYB83_gp128,-,-,-,-,Ycf66,protein-coding,-,-,-,-,20160730,-
+127542,26830862,psbV,AYB83_gp127,-,-,-,-,PsbV,protein-coding,-,-,-,-,20160504,-
+127542,26830863,petJ,AYB83_gp126,-,-,-,-,PetJ,protein-coding,-,-,-,-,20160504,-
+127542,26830864,groEL,AYB83_gp125,-,-,-,-,GroEL,protein-coding,-,-,-,-,20160730,-
+127542,26830865,tRNA-Asp(gtc),AYB83_gt005,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830866,tRNA-Met(cat),AYB83_gt006,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830867,tRNA-Ser(gct),AYB83_gt007,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830868,dnaK,AYB83_gp124,-,-,-,-,DnaK,protein-coding,-,-,-,-,20160504,-
+127542,26830869,psbI,AYB83_gp123,-,-,-,-,PsbI,protein-coding,-,-,-,-,20180512,-
+127542,26830870,tRNA-Gly(gcc),AYB83_gt008,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830871,thiG,AYB83_gp122,-,-,-,-,thiG,protein-coding,-,-,-,-,20160730,-
+127542,26830872,ycf54,AYB83_gp121,-,-,-,-,Ycf54,protein-coding,-,-,-,-,20210327,-
+127542,26830873,secA,AYB83_gp120,-,-,-,-,SecA,protein-coding,-,-,-,-,20160730,-
+127542,26830874,rpl34,AYB83_gp119,-,-,-,-,ribosomal protein L34,protein-coding,-,-,-,-,20160504,-
+127542,26830875,ycf46,AYB83_gp118,-,-,-,-,Ycf46,protein-coding,-,-,-,-,20210424,-
+127542,26830876,ccs1,AYB83_gp117,-,-,-,-,Ccs1,protein-coding,-,-,-,-,20160504,-
+127542,26830877,ORF76,AYB83_gp116,-,-,-,-,ORF76,protein-coding,-,-,-,-,20160730,-
+127542,26830878,tRNA-Tyr(gta),AYB83_gt009,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830879,chlB,AYB83_gp115,-,-,-,-,ChlB,protein-coding,-,-,-,-,20160730,-
+127542,26830880,tRNA-Pro(tgg),AYB83_gt010,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830881,tRNA-Met(cat),AYB83_gt011,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830882,psaD,AYB83_gp114,-,-,-,-,PsaD,protein-coding,-,-,-,-,20210327,-
+127542,26830883,tRNA-Ser(tga),AYB83_gt012,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830884,rps20,AYB83_gp113,-,-,-,-,ribosomal protein S20,protein-coding,-,-,-,-,20160504,-
+127542,26830885,rpoB,AYB83_gp112,-,-,-,-,RpoB,protein-coding,-,-,-,-,20160730,-
+127542,26830886,rpoC1,AYB83_gp111,-,-,-,-,RpoC1,protein-coding,-,-,-,-,20160730,-
+127542,26830887,rpoC2,AYB83_gp110,-,-,-,-,RpoC2,protein-coding,-,-,-,-,20160730,-
+127542,26830888,rps2,AYB83_gp109,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160730,-
+127542,26830889,tsf,AYB83_gp108,-,-,-,-,tsf,protein-coding,-,-,-,-,20160730,-
+127542,26830890,atpI,AYB83_gp107,-,-,-,-,AtpI,protein-coding,-,-,-,-,20160504,-
+127542,26830891,atpH,AYB83_gp106,-,-,-,-,AtpH,protein-coding,-,-,-,-,20160504,-
+127542,26830892,atpG,AYB83_gp105,-,-,-,-,AtpG,protein-coding,-,-,-,-,20160730,-
+127542,26830893,atpF,AYB83_gp104,-,-,-,-,AtpF,protein-coding,-,-,-,-,20160730,-
+127542,26830894,atpD,AYB83_gp103,-,-,-,-,AtpD,protein-coding,-,-,-,-,20160730,-
+127542,26830895,atpA,AYB83_gp102,-,-,-,-,AtpA,protein-coding,-,-,-,-,20160730,-
+127542,26830896,acsF,AYB83_gp101,-,-,-,-,AcsF,protein-coding,-,-,-,-,20160730,-
+127542,26830897,ycf42,AYB83_gp100,-,-,-,-,Ycf42,protein-coding,-,-,-,-,20160504,-
+127542,26830898,rpl35,AYB83_gp099,-,-,-,-,ribosomal protein L35,protein-coding,-,-,-,-,20210424,-
+127542,26830899,rpl20,AYB83_gp098,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160730,-
+127542,26830900,ilvH,AYB83_gp097,-,-,-,-,IlvH,protein-coding,-,-,-,-,20160730,-
+127542,26830901,ycf34,AYB83_gp096,-,-,-,-,Ycf34,protein-coding,-,-,-,-,20160504,-
+127542,26830902,tRNA-Leu(taa),AYB83_gt013,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830903,tRNA-Cys(gca),AYB83_gt014,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830904,rbcL,AYB83_gp095,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20160504,-
+127542,26830905,rbcS,AYB83_gp094,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",protein-coding,-,-,-,-,20160716,-
+127542,26830906,tRNA-Glu(ttc),AYB83_gt015,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830907,psaA,AYB83_gp093,-,-,-,-,PsaA,protein-coding,-,-,-,-,20160504,-
+127542,26830908,psaB,AYB83_gp092,-,-,-,-,PsaB,protein-coding,-,-,-,-,20160504,-
+127542,26830909,rps14,AYB83_gp091,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160504,-
+127542,26830910,petG,AYB83_gp090,-,-,-,-,PetG,protein-coding,-,-,-,-,20210327,-
+127542,26830911,psbK,AYB83_gp089,-,-,-,-,PsbK,protein-coding,-,-,-,-,20160716,-
+127542,26830912,psbA,AYB83_gp088,-,-,-,-,PsbA,protein-coding,-,-,-,-,20210327,-
+127542,26830913,psaC,AYB83_gp087,-,-,-,-,PsaC,protein-coding,-,-,-,-,20210327,-
+127542,26830914,tRNA-Lys(ttt),AYB83_gt016,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830915,clpC,AYB83_gp086,-,-,-,-,ClpC,protein-coding,-,-,-,-,20160730,-
+127542,26830916,rpl33,AYB83_gp085,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20160504,-
+127542,26830917,rps18,AYB83_gp084,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20160730,-
+127542,26830918,ycf3,AYB83_gp083,-,-,-,-,Ycf3,protein-coding,-,-,-,-,20160730,-
+127542,26830919,atpB,AYB83_gp082,-,-,-,-,AtpB,protein-coding,-,-,-,-,20210424,-
+127542,26830920,atpE,AYB83_gp081,-,-,-,-,AtpE,protein-coding,-,-,-,-,20210327,-
+127542,26830921,tatC,AYB83_gp080,-,-,-,-,tatC,protein-coding,-,-,-,-,20160504,-
+127542,26830922,petA,AYB83_gp079,-,-,-,-,PetA,protein-coding,-,-,-,-,20160730,-
+127542,26830923,ORF501,AYB83_gp078,-,-,-,-,ORF501,protein-coding,-,-,-,-,20160504,-
+127542,26830924,psaJ,AYB83_gp077,-,-,-,-,PsaJ,protein-coding,-,-,-,-,20160504,-
+127542,26830925,psaF,AYB83_gp076,-,-,-,-,PsaF,protein-coding,-,-,-,-,20160504,-
+127542,26830926,chlN,AYB83_gp075,-,-,-,-,ChlN,protein-coding,-,-,-,-,20160730,-
+127542,26830927,chlL,AYB83_gp074,-,-,-,-,ChlL,protein-coding,-,-,-,-,20210327,-
+127542,26830928,ccsA,AYB83_gp073,-,-,-,-,CcsA,protein-coding,-,-,-,-,20160504,-
+127542,26830929,tRNA-Leu(tag),AYB83_gt017,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830930,rpl32,AYB83_gp072,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20160730,-
+127542,26830931,psbY,AYB83_gp071,-,-,-,-,PsbY,protein-coding,-,-,-,-,20160504,-
+127542,26830932,rbcR,AYB83_gp070,-,-,-,-,RbcR,protein-coding,-,-,-,-,20160730,-
+127542,26830933,psaL,AYB83_gp069,-,-,-,-,PsaL,protein-coding,-,-,-,-,20160504,-
+127542,26830934,petL,AYB83_gp068,-,-,-,-,PetL,protein-coding,-,-,-,-,20160504,-
+127542,26830935,ycf4,AYB83_gp067,-,-,-,-,Ycf4,protein-coding,-,-,-,-,20210327,-
+127542,26830936,tRNA-Gly(tcc),AYB83_gt018,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830937,psbE,AYB83_gp066,-,-,-,-,PsbE,protein-coding,-,-,-,-,20170908,-
+127542,26830938,psbF,AYB83_gp065,-,-,-,-,PsbF,protein-coding,-,-,-,-,20160504,-
+127542,26830939,psbL,AYB83_gp064,-,-,-,-,PsbL,protein-coding,-,-,-,-,20160504,-
+127542,26830940,psbJ,AYB83_gp063,-,-,-,-,PsbJ,protein-coding,-,-,-,-,20210123,-
+127542,26830941,psaI,AYB83_gp062,-,-,-,-,PsaI,protein-coding,-,-,-,-,20160504,-
+127542,26830942,ftrB,AYB83_gp061,-,-,-,-,FtrB,protein-coding,-,-,-,-,20210424,-
+127542,26830943,ycf12,AYB83_gp060,-,-,-,-,Ycf12,protein-coding,-,-,-,-,20210327,-
+127542,26830944,cbbx,AYB83_gp059,-,-,-,-,Cbbx,protein-coding,-,-,-,-,20210327,-
+127542,26830945,rns,AYB83_gr003,-,-,-,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830946,tRNA-Ile(gat),AYB83_gt019,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830947,tRNA-Ala(tgc),AYB83_gt020,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830948,rnl,AYB83_gr002,-,-,-,-,large subunit ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830949,rrn5,AYB83_gr001,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830950,ycf19,AYB83_gp058,-,-,-,-,Ycf19,protein-coding,-,-,-,-,20210424,-
+127542,26830951,rps16,AYB83_gp057,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20210327,-
+127542,26830952,ycf65,AYB83_gp056,-,-,-,-,Ycf65,protein-coding,-,-,-,-,20160504,-
+127542,26830953,tRNA-Gln(ttg),AYB83_gt021,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830954,tRNA-Arg(acg),AYB83_gt022,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830955,rps4,AYB83_gp055,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20160730,-
+127542,26830956,ilvB,AYB83_gp054,-,-,-,-,IlvB,protein-coding,-,-,-,-,20160730,-
+127542,26830957,ycf33,AYB83_gp053,-,-,-,-,Ycf33,protein-coding,-,-,-,-,20160730,-
+127542,26830958,ycf39,AYB83_gp052,-,-,-,-,Ycf39,protein-coding,-,-,-,-,20160730,-
+127542,26830959,ycf41,AYB83_gp051,-,-,-,-,Ycf41,protein-coding,-,-,-,-,20160504,-
+127542,26830960,sufC,AYB83_gp050,-,-,-,-,SufC,protein-coding,-,-,-,-,20160504,-
+127542,26830961,sufB,AYB83_gp049,-,-,-,-,SufB,protein-coding,-,-,-,-,20160730,-
+127542,26830962,ycf35,AYB83_gp048,-,-,-,-,Ycf35,protein-coding,-,-,-,-,20160730,-
+127542,26830963,tRNA-Arg(tct),AYB83_gt023,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830964,tRNA-Val(tac),AYB83_gt024,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830965,psb28,AYB83_gp047,-,-,-,-,Psb28,protein-coding,-,-,-,-,20160730,-
+127542,26830966,rps1,AYB83_gp046,-,-,-,-,ribosomal protein S1,protein-coding,-,-,-,-,20160730,-
+127542,26830967,thiS,AYB83_gp045,-,-,-,-,thiS,protein-coding,-,-,-,-,20160730,-
+127542,26830968,tRNA-His(gtg),AYB83_gt025,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830969,tRNA-Thr(tgt),AYB83_gt026,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830970,psbC,AYB83_gp044,-,-,-,-,PsbC,protein-coding,-,-,-,-,20160504,-
+127542,26830971,psbD,AYB83_gp043,-,-,-,-,PsbD,protein-coding,-,-,-,-,20160716,-
+127542,26830972,tRNA-Asn(gtt),AYB83_gt027,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830973,rpl9,AYB83_gp042,-,-,-,-,ribosomal protein L9,protein-coding,-,-,-,-,20160730,-
+127542,26830974,dnaB,AYB83_gp041,-,-,-,-,DnaB,protein-coding,-,-,-,-,20160730,-
+127542,26830975,tRNA-Trp(cca),AYB83_gt028,-,-,-,-,tRNA,tRNA,-,-,-,-,20160213,-
+127542,26830976,rpl11,AYB83_gp040,-,-,-,-,ribosomal protein L11,protein-coding,-,-,-,-,20160504,-
+127542,26830977,rrn5,AYB83_gr004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20160213,-
+127542,26830978,rpl1,AYB83_gp039,-,-,-,-,ribosomal protein L1,protein-coding,-,-,-,-,20160730,-
+127542,26830979,rpl12,AYB83_gp038,-,-,-,-,ribosomal protein L12,protein-coding,-,-,-,-,20160730,-
+127542,26830980,petF,AYB83_gp037,-,-,-,-,PetF,protein-coding,-,-,-,-,20160730,-
+127542,26830981,psbB,AYB83_gp036,-,-,-,-,PsbB,protein-coding,-,-,-,-,20160504,-
+127542,26830982,psbT,AYB83_gp035,-,-,-,-,PsbT,protein-coding,-,-,-,-,20160504,-
+127542,26830983,psbN,AYB83_gp034,-,-,-,-,PsbN,protein-coding,-,-,-,-,20210327,-
+127542,26830984,psbH,AYB83_gp033,-,-,-,-,PsbH,protein-coding,-,-,-,-,20160504,-
+127542,26830985,ftsH,AYB83_gp032,-,-,-,-,FtsH,protein-coding,-,-,-,-,20160730,-
+127542,26830986,psaE,AYB83_gp031,-,-,-,-,PsaE,protein-coding,-,-,-,-,20160504,-
+127542,26830987,rps10,AYB83_gp030,-,-,-,-,ribosomal protein S10,protein-coding,-,-,-,-,20160730,-
+127542,26830988,tufA,AYB83_gp029,-,-,-,-,tufA,protein-coding,-,-,-,-,20160730,-
+127542,26830989,rps7,AYB83_gp028,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160730,-
+127542,26830990,rps12,AYB83_gp027,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160716,-
+127542,26830991,rpl31,AYB83_gp026,-,-,-,-,ribosomal protein L31,protein-coding,-,-,-,-,20160504,-
+127542,26830992,rps9,AYB83_gp025,-,-,-,-,ribosomal protein S9,protein-coding,-,-,-,-,20160504,-
+127542,26830993,rpl13,AYB83_gp024,-,-,-,-,ribosomal protein L13,protein-coding,-,-,-,-,20160730,-
+127542,26830994,rpoA,AYB83_gp023,-,-,-,-,RpoA,protein-coding,-,-,-,-,20160730,-
+127542,26830995,rps11,AYB83_gp022,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160504,-
+127542,26830996,rps13,AYB83_gp021,-,-,-,-,ribosomal protein S13,protein-coding,-,-,-,-,20160730,-
+127542,26830997,rpl36,AYB83_gp020,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20160504,-
+127542,26830998,secY,AYB83_gp019,-,-,-,-,SecY,protein-coding,-,-,-,-,20160730,-
+127542,26830999,rps5,AYB83_gp018,-,-,-,-,ribosomal protein S5,protein-coding,-,-,-,-,20160730,-
+127542,26831000,rpl18,AYB83_gp017,-,-,-,-,ribosomal protein L18,protein-coding,-,-,-,-,20160730,-
+127542,26831001,rpl6,AYB83_gp016,-,-,-,-,ribosomal protein L6,protein-coding,-,-,-,-,20160730,-
+127542,26831002,rps8,AYB83_gp015,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20160504,-
+127542,26831003,rpl5,AYB83_gp014,-,-,-,-,ribosomal protein L5,protein-coding,-,-,-,-,20160730,-
+127542,26831004,rpl24,AYB83_gp013,-,-,-,-,ribosomal protein L24,protein-coding,-,-,-,-,20160730,-
+127542,26831005,rpl14,AYB83_gp012,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20160504,-
+127542,26831006,rps17,AYB83_gp011,-,-,-,-,ribosomal protein S17,protein-coding,-,-,-,-,20160504,-
+127542,26831007,rpl29,AYB83_gp010,-,-,-,-,ribosomal protein L29,protein-coding,-,-,-,-,20210327,-
+127542,26831008,rpl16,AYB83_gp009,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160730,-
+127542,26831009,rps3,AYB83_gp008,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20210327,-
+127542,26831010,rpl22,AYB83_gp007,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160730,-
+127542,26831011,rps19,AYB83_gp006,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20160504,-
+127542,26831012,rpl2,AYB83_gp005,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20160730,-
+127542,26831013,rpl23,AYB83_gp004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20160504,-
+127542,26831014,rpl4,AYB83_gp003,-,-,-,-,ribosomal protein L4,protein-coding,-,-,-,-,20160730,-
+127542,26831015,rpl3,AYB83_gp002,-,-,-,-,ribosomal protein L3,protein-coding,-,-,-,-,20160504,-
+127542,26831016,rpl21,AYB83_gp001,-,-,-,-,ribosomal protein L21,protein-coding,-,-,-,-,20210424,-

@@ -1,0 +1,134 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+112883,40141446,psbA,FDX94_pgp088,Y17076_001,-,-,-,photosystem II protein D1,protein-coding,-,-,-,photosystem II protein D1,20200911,-
+112883,40141447,trnK-UUU,FDX94_pgt002,Y17076_002,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141448,matK,FDX94_pgp087,Y17076_003,-,-,-,maturase K,protein-coding,-,-,-,maturase K,20200911,-
+112883,40141449,rps16,FDX94_pgp086,Y17076_004,-,-,-,ribosomal protein S16,protein-coding,-,-,-,ribosomal protein S16,20200911,-
+112883,40141450,trnQ-UUG,FDX94_pgt003,Y17076_005,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141451,psbK,FDX94_pgp085,Y17076_006,-,-,-,photosystem II protein K,protein-coding,-,-,-,photosystem II protein K,20200911,-
+112883,40141452,psbI,FDX94_pgp084,Y17076_007,-,-,-,photosystem II protein I,protein-coding,-,-,-,photosystem II protein I,20200911,-
+112883,40141453,trnS-GCU,FDX94_pgt004,Y17076_008,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141454,trnG-UCC,FDX94_pgt005,Y17076_009,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141455,trnR-UCU,FDX94_pgt006,Y17076_010,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141456,atpA,FDX94_pgp083,Y17076_011,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,ATP synthase CF1 alpha subunit,20200911,-
+112883,40141457,atpF,FDX94_pgp082,Y17076_012,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,ATP synthase CF0 subunit I,20200911,-
+112883,40141458,atpH,FDX94_pgp081,Y17076_013,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,ATP synthase CF0 subunit III,20200911,-
+112883,40141459,atpI,FDX94_pgp080,Y17076_014,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,ATP synthase CF0 subunit IV,20200911,-
+112883,40141460,rps2,FDX94_pgp079,Y17076_015,-,-,-,ribosomal protein S2,protein-coding,-,-,-,ribosomal protein S2,20200911,-
+112883,40141461,rpoC2,FDX94_pgp078,Y17076_016,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+112883,40141462,rpoC1,FDX94_pgp077,Y17076_017,-,-,-,RNA polymerase beta,protein-coding,-,-,-,RNA polymerase beta,20200911,-
+112883,40141463,rpoB,FDX94_pgp076,Y17076_018,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,RNA polymerase beta subunit,20200911,-
+112883,40141464,trnC-GCA,FDX94_pgt007,Y17076_019,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141465,petN,FDX94_pgp075,Y17076_020,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,cytochrome b6/f complex subunit VIII,20200911,-
+112883,40141466,psbM,FDX94_pgp074,Y17076_021,-,-,-,photosystem II protein M,protein-coding,-,-,-,photosystem II protein M,20200911,-
+112883,40141467,trnD-GUC,FDX94_pgt008,Y17076_022,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141468,trnY-GUA,FDX94_pgt009,Y17076_023,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141469,trnE-UUC,FDX94_pgt010,Y17076_024,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141470,trnT-GGU,FDX94_pgt011,Y17076_025,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141471,psbD,FDX94_pgp073,Y17076_026,-,-,-,photosystem II protein D2,protein-coding,-,-,-,photosystem II protein D2,20200911,-
+112883,40141472,psbC,FDX94_pgp072,Y17076_027,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP43 chlorophyll apoprotein,20200911,-
+112883,40141473,trnS-UGA,FDX94_pgt012,Y17076_028,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141474,psbZ,FDX94_pgp071,Y17076_029,-,-,-,photosystem II reaction center Z protein,protein-coding,-,-,-,photosystem II reaction center Z protein,20200911,-
+112883,40141475,trnG-GCC,FDX94_pgt013,Y17076_030,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141476,trnfM-CAU,FDX94_pgt014,Y17076_031,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141477,rps14,FDX94_pgp070,Y17076_032,-,-,-,ribosomal protein S14,protein-coding,-,-,-,ribosomal protein S14,20200911,-
+112883,40141478,psaB,FDX94_pgp069,Y17076_033,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,photosystem I P700 apoprotein A2,20200911,-
+112883,40141479,psaA,FDX94_pgp068,Y17076_034,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,photosystem I P700 apoprotein A1,20200911,-
+112883,40141480,ycf3,FDX94_pgp067,Y17076_035,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,hypothetical chloroplast RF34,20200911,-
+112883,40141481,trnS-GGA,FDX94_pgt015,Y17076_036,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141482,rps4,FDX94_pgp066,Y17076_037,-,-,-,ribosomal protein S4,protein-coding,-,-,-,ribosomal protein S4,20200911,-
+112883,40141483,trnT-UGU,FDX94_pgt016,Y17076_038,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141484,trnL-UAA,FDX94_pgt017,Y17076_039,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141485,trnF-GAA,FDX94_pgt018,Y17076_040,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141486,ndhJ,FDX94_pgp065,Y17076_041,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit J,20200911,-
+112883,40141487,ndhK,FDX94_pgp064,Y17076_042,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit K,20200911,-
+112883,40141488,ndhC,FDX94_pgp063,Y17076_043,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,20200911,-
+112883,40141489,trnV-UAC,FDX94_pgt019,Y17076_044,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141490,trnM-CAU,FDX94_pgt020,Y17076_045,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141491,atpE,FDX94_pgp062,Y17076_046,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,ATP synthase CF1 epsilon subunit,20200911,-
+112883,40141492,atpB,FDX94_pgp061,Y17076_047,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,ATP synthase CF1 beta subunit,20200911,-
+112883,40141493,rbcL,FDX94_pgp060,Y17076_048,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",20200911,-
+112883,40141494,accD,FDX94_pgp059,Y17076_049,-,-,-,acetyl-CoA carboxylase beta subunit,protein-coding,-,-,-,acetyl-CoA carboxylase beta subunit,20200911,-
+112883,40141495,psaI,FDX94_pgp058,Y17076_050,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,photosystem I subunit VIII,20200911,-
+112883,40141496,ycf4,FDX94_pgp057,Y17076_051,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,photosystem I assembly protein ycf4,20200911,-
+112883,40141497,cemA,FDX94_pgp056,Y17076_052,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,chloroplast envelope membrane protein,20200911,-
+112883,40141498,petA,FDX94_pgp055,Y17076_053,-,-,-,cytochrome f,protein-coding,-,-,-,cytochrome f,20200911,-
+112883,40141499,psbJ,FDX94_pgp054,Y17076_054,-,-,-,photosystem II protein J,protein-coding,-,-,-,photosystem II protein J,20200911,-
+112883,40141500,psbL,FDX94_pgp053,Y17076_055,-,-,-,photosystem II protein L,protein-coding,-,-,-,photosystem II protein L,20200911,-
+112883,40141501,psbF,FDX94_pgp052,Y17076_056,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,photosystem II cytochrome b559 beta subunit,20200911,-
+112883,40141502,psbE,FDX94_pgp051,Y17076_057,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,photosystem II cytochrome b559 alpha subunit,20200911,-
+112883,40141503,petL,FDX94_pgp050,Y17076_058,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,cytochrome b6/f complex subunit VI,20200911,-
+112883,40141504,petG,FDX94_pgp049,Y17076_059,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,cytochrome b6/f complex subunit V,20210212,-
+112883,40141505,trnW-CCA,FDX94_pgt021,Y17076_060,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141506,trnP-UGG,FDX94_pgt022,Y17076_061,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141507,psaJ,FDX94_pgp048,Y17076_062,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,photosystem I subunit IX,20200911,-
+112883,40141508,rpl33,FDX94_pgp047,Y17076_063,-,-,-,ribosomal protein L33,protein-coding,-,-,-,ribosomal protein L33,20200911,-
+112883,40141509,rps18,FDX94_pgp046,Y17076_064,-,-,-,ribosomal protein S18,protein-coding,-,-,-,ribosomal protein S18,20200911,-
+112883,40141510,rpl20,FDX94_pgp045,Y17076_065,-,-,-,ribosomal protein L20,protein-coding,-,-,-,ribosomal protein L20,20200911,-
+112883,40141511,rps12,FDX94_pgp043,Y17076_067,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+112883,40141512,trnH-GUG,FDX94_pgt001,Y17076_085,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141513,clpP,FDX94_pgp042,Y17076_068,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,clp protease proteolytic subunit,20200911,-
+112883,40141514,psbB,FDX94_pgp041,Y17076_069,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,photosystem II CP47 chlorophyll apoprotein,20200911,-
+112883,40141515,psbT,FDX94_pgp040,Y17076_070,-,-,-,photosystem II protein T,protein-coding,-,-,-,photosystem II protein T,20200911,-
+112883,40141516,psbN,FDX94_pgp039,Y17076_071,-,-,-,photosystem II protein N,protein-coding,-,-,-,photosystem II protein N,20200911,-
+112883,40141517,psbH,FDX94_pgp038,Y17076_072,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,photosystem II phosphoprotein,20200911,-
+112883,40141518,petB,FDX94_pgp037,Y17076_073,-,-,-,cytochrome b6,protein-coding,-,-,-,cytochrome b6,20200911,-
+112883,40141519,petD,FDX94_pgp036,Y17076_074,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,cytochrome b6/f complex subunit IV,20200911,-
+112883,40141520,rpoA,FDX94_pgp035,Y17076_075,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,RNA polymerase alpha subunit,20200911,-
+112883,40141521,rps11,FDX94_pgp034,Y17076_076,-,-,-,ribosomal protein S11,protein-coding,-,-,-,ribosomal protein S11,20200911,-
+112883,40141522,rpl36,FDX94_pgp033,Y17076_077,-,-,-,ribosomal protein L36,protein-coding,-,-,-,ribosomal protein L36,20200911,-
+112883,40141523,rps8,FDX94_pgp032,Y17076_079,-,-,-,ribosomal protein S8,protein-coding,-,-,-,ribosomal protein S8,20200911,-
+112883,40141524,rpl14,FDX94_pgp031,Y17076_080,-,-,-,ribosomal protein L14,protein-coding,-,-,-,ribosomal protein L14,20200911,-
+112883,40141525,rpl16,FDX94_pgp030,Y17076_081,-,-,-,ribosomal protein L16,protein-coding,-,-,-,ribosomal protein L16,20200911,-
+112883,40141526,rps3,FDX94_pgp029,Y17076_082,-,-,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200911,-
+112883,40141527,rpl22,FDX94_pgp028,Y17076_083,-,-,-,ribosomal protein L22,protein-coding,-,-,-,ribosomal protein L22,20200911,-
+112883,40141528,rps19,FDX94_pgp027,Y17076_084,-,-,-,ribosomal protein S19,protein-coding,-,-,-,ribosomal protein S19,20200911,-
+112883,40141529,rpl2,FDX94_pgp026,Y17076_086,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+112883,40141530,rpl23,FDX94_pgp025,Y17076_087,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+112883,40141531,trnI-CAU,FDX94_pgt023,Y17076_088,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141532,ycf2,FDX94_pgp024,Y17076_089,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-
+112883,40141533,ycf15,FDX94_pgp023,Y17076_133,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+112883,40141534,ndhB,FDX94_pgp022,Y17076_091,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+112883,40141535,rps7,FDX94_pgp021,Y17076_092,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+112883,40141536,trnV-GAC,FDX94_pgt025,Y17076_093,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141537,rrn16,FDX94_pgr008,Y17076_094,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141538,trnI-GAU,FDX94_pgt026,Y17076_095,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141539,trnA-UGC,FDX94_pgt027,Y17076_096,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141540,rrn23,FDX94_pgr007,Y17076_097,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141541,rrn4.5,FDX94_pgr006,Y17076_098,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141542,rrn5,FDX94_pgr005,Y17076_099,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141543,trnR-ACG,FDX94_pgt028,Y17076_100,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141544,trnN-GUU,FDX94_pgt029,Y17076_101,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141545,ycf1,FDX94_pgp020,Y17076_102,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+112883,40141546,ndhF,FDX94_pgp019,Y17076_103,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,20200911,-
+112883,40141547,rpl32,FDX94_pgp018,Y17076_104,-,-,-,ribosomal protein L32,protein-coding,-,-,-,ribosomal protein L32,20200911,-
+112883,40141548,trnL-UAG,FDX94_pgt030,Y17076_105,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141549,ccsA,FDX94_pgp017,Y17076_106,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,cytochrome c heme attachment protein,20200911,-
+112883,40141550,ndhD,FDX94_pgp016,Y17076_107,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,20200911,-
+112883,40141551,psaC,FDX94_pgp015,Y17076_108,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,photosystem I subunit VII,20200911,-
+112883,40141552,ndhE,FDX94_pgp014,Y17076_109,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,20200911,-
+112883,40141553,ndhG,FDX94_pgp013,Y17076_110,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,20200911,-
+112883,40141554,ndhI,FDX94_pgp012,Y17076_111,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit I,20200911,-
+112883,40141555,ndhA,FDX94_pgp011,Y17076_112,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,20200911,-
+112883,40141556,ndhH,FDX94_pgp010,Y17076_113,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,20200911,-
+112883,40141557,rps15,FDX94_pgp009,Y17076_114,-,-,-,ribosomal protein S15,protein-coding,-,-,-,ribosomal protein S15,20200911,-
+112883,40141558,ycf1,FDX94_pgp008,Y17076_115,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,hypothetical chloroplast RF19,20200911,-
+112883,40141559,trnN-GUU,FDX94_pgt031,Y17076_116,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141560,trnR-ACG,FDX94_pgt032,Y17076_117,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141561,rrn5,FDX94_pgr004,Y17076_118,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141562,rrn4.5,FDX94_pgr003,Y17076_119,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141563,rrn23,FDX94_pgr002,Y17076_120,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141564,trnA-UGC,FDX94_pgt033,Y17076_121,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141565,trnI-GAU,FDX94_pgt034,Y17076_122,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141566,rrn16,FDX94_pgr001,Y17076_123,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20200911,-
+112883,40141567,trnV-GAC,FDX94_pgt035,Y17076_124,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141568,rps7,FDX94_pgp007,Y17076_125,-,-,-,ribosomal protein S7,protein-coding,-,-,-,ribosomal protein S7,20200911,-
+112883,40141569,ndhB,FDX94_pgp006,Y17076_126,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,20200911,-
+112883,40141570,trnL-CAA,FDX94_pgt036,Y17076_127,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141571,ycf15,FDX94_pgp005,Y17076_134,-,-,-,Ycf15,protein-coding,-,-,-,Ycf15,20200911,-
+112883,40141572,trnI-CAU,FDX94_pgt037,Y17076_129,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141573,rpl23,FDX94_pgp003,Y17076_130,-,-,-,ribosomal protein L23,protein-coding,-,-,-,ribosomal protein L23,20200911,-
+112883,40141574,rps12,FDX94_pgp044,Y17076_066,-,-,-,ribosomal protein S12,protein-coding,-,-,-,ribosomal protein S12,20200911,-
+112883,40141575,rpl2,FDX94_pgp002,Y17076_131,-,-,-,ribosomal protein L2,protein-coding,-,-,-,ribosomal protein L2,20200911,-
+112883,40141576,rps19,FDX94_pgp001,Y17076_132,-,-,-,pseudo,pseudo,-,-,-,-,20200911,-
+112883,40141577,trnL-CAA,FDX94_pgt024,Y17076_090,-,-,-,tRNA,tRNA,-,-,-,-,20200911,-
+112883,40141578,ycf2,FDX94_pgp004,Y17076_128,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,hypothetical chloroplast RF21,20200911,-

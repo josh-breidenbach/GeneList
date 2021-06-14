@@ -1,0 +1,97 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+101028,20490107,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene.,other,-,-,-,-,20210522,-
+101028,44803745,rps3,HCT45_mgp65,-,-,MT,-,ribosomal protein S3,protein-coding,-,-,-,ribosomal protein S3,20200908,-
+101028,44803746,trnT(tgt),HCT45_mgt01,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803747,trnE(ttc),HCT45_mgt02,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803748,trnM(cat),HCT45_mgt03,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803749,trnM(cat),HCT45_mgt04,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803750,trnG(acc),HCT45_mgt05,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803751,trnL(taa),HCT45_mgt06,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803752,trnG(tcc),HCT45_mgt07,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803753,orf1972,HCT45_mgp64,-,-,MT,-,LV-uORF,protein-coding,-,-,-,LV-uORF,20200908,-
+101028,44803754,trnA(tgc),HCT45_mgt08,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803755,trnF(gaa),HCT45_mgt09,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803756,trnK(ttt),HCT45_mgt10,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803757,trnL(tag),HCT45_mgt11,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803758,trnQ(ttg),HCT45_mgt12,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803759,trnH(gtg),HCT45_mgt13,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803760,trnM(cat),HCT45_mgt14,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803761,nad2,HCT45_mgp63,-,-,MT,-,NADH dehydrogenase subunit 2,protein-coding,-,-,-,NADH dehydrogenase subunit 2,20210129,-
+101028,44803762,iorf425,HCT45_mgp62,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803763,iorf192,HCT45_mgp61,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803764,iorf134,HCT45_mgp60,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803765,iorf109,HCT45_mgp59,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210123,-
+101028,44803766,iorf416,HCT45_mgp58,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803767,iorf341,HCT45_mgp57,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803768,nad3,HCT45_mgp56,-,-,MT,-,NADH dehydrogenase subunit 3,protein-coding,-,-,-,NADH dehydrogenase subunit 3,20210129,-
+101028,44803769,iorf420,HCT45_mgp55,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803770,atp9,HCT45_mgp54,-,-,MT,-,ATP synthase subunit 9,protein-coding,-,-,-,ATP synthase subunit 9,20210129,-
+101028,44803771,iorf282,HCT45_mgp53,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210403,-
+101028,44803772,cox2,HCT45_mgp52,-,-,MT,-,cytochrome c oxidase subunit 2,protein-coding,-,-,-,cytochrome c oxidase subunit 2,20210129,-
+101028,44803773,iorf452,HCT45_mgp51,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803774,iorf455,HCT45_mgp50,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210123,-
+101028,44803775,trnR(acg),HCT45_mgt15,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803776,trnR(tcg),HCT45_mgt16,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803777,orf313,HCT45_mgp49,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20210320,-
+101028,44803778,trnY(ata),HCT45_mgt17,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803779,nad4L,HCT45_mgp48,-,-,MT,-,NADH dehydrogenase subunit 4L,protein-coding,-,-,-,NADH dehydrogenase subunit 4L,20210129,-
+101028,44803780,iorf343,HCT45_mgp47,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803781,nad5,HCT45_mgp46,-,-,MT,-,NADH dehydrogenase subunit 5,protein-coding,-,-,-,NADH dehydrogenase subunit 5,20210129,-
+101028,44803782,iorf302,HCT45_mgp45,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210129,-
+101028,44803783,orf149,HCT45_mgp44,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+101028,44803784,cob,HCT45_mgp43,-,-,MT,-,cytochrome b,protein-coding,-,-,-,cytochrome b,20210129,-
+101028,44803785,iorf408,HCT45_mgp42,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803786,iorf233,HCT45_mgp41,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803787,iorf488,HCT45_mgp40,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210129,-
+101028,44803788,iorf289,HCT45_mgp39,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803789,iorf264,HCT45_mgp38,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803790,iorf252,HCT45_mgp37,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803791,iorf112,HCT45_mgp36,-,-,MT,-,Homing endonuclease,protein-coding,-,-,-,Homing endonuclease,20200908,-
+101028,44803792,iorf309,HCT45_mgp35,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210123,-
+101028,44803793,iorf472,HCT45_mgp34,-,-,MT,-,Homing endonuclease,protein-coding,-,-,-,Homing endonuclease,20200908,-
+101028,44803794,iorf314,HCT45_mgp33,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803795,iorf192,HCT45_mgp32,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803796,trnC(gca),HCT45_mgt18,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803797,cox1,HCT45_mgp31,-,-,MT,-,cytochrome c oxidase subunit 1,protein-coding,-,-,-,cytochrome c oxidase subunit 1,20210129,-
+101028,44803798,iorf322,HCT45_mgp30,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803799,iorf310,HCT45_mgp29,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803800,iorf300,HCT45_mgp28,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803801,iorf361,HCT45_mgp27,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803802,iorf305,HCT45_mgp26,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803803,iorf305,HCT45_mgp25,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803804,iorf323,HCT45_mgp24,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803805,iorf406,HCT45_mgp23,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803806,iorf350,HCT45_mgp22,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803807,iorf318,HCT45_mgp21,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803808,iorf440,HCT45_mgp20,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210129,-
+101028,44803809,iorf146,HCT45_mgp19,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210403,-
+101028,44803810,iorf379,HCT45_mgp18,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210129,-
+101028,44803811,iorf272,HCT45_mgp17,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803812,iorf412,HCT45_mgp16,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803813,iorf362,HCT45_mgp15,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803814,trnR(tct),HCT45_mgt19,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803815,orf154,HCT45_mgp14,-,-,MT,-,hypothetical protein,protein-coding,-,-,-,hypothetical protein,20200908,-
+101028,44803816,nad1,HCT45_mgp13,-,-,MT,-,NADH dehydrogenase subunit 1,protein-coding,-,-,-,NADH dehydrogenase subunit 1,20210129,-
+101028,44803817,iorf332,HCT45_mgp12,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803818,nad4,HCT45_mgp11,-,-,MT,-,NADH dehydrogenase subunit 4,protein-coding,-,-,-,NADH dehydrogenase subunit 4,20210129,-
+101028,44803819,atp8,HCT45_mgp10,-,-,MT,-,ATP synthase subunit 8,protein-coding,-,-,-,ATP synthase subunit 8,20210212,-
+101028,44803820,atp6,HCT45_mgp09,-,-,MT,-,ATP synthase subunit 6,protein-coding,-,-,-,ATP synthase subunit 6,20210129,-
+101028,44803821,iorf387,HCT45_mgp08,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803822,iorf352,HCT45_mgp07,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803823,iorf470,HCT45_mgp06,-,-,MT,-,GIY-YIG endonuclease,protein-coding,-,-,-,GIY-YIG endonuclease,20210320,-
+101028,44803824,rns,HCT45_mgr01,-,-,MT,-,small subunit ribosomal RNA,rRNA,-,-,-,-,20200908,-
+101028,44803825,trnYcopy(gta),HCT45_mgt20,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803826,trnD(gtc),HCT45_mgt21,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803827,trnS(gct),HCT45_mgt22,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803828,trnN(gtt),HCT45_mgt23,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803829,cox3,HCT45_mgp05,-,-,MT,-,cytochrome c oxidase subunit 3,protein-coding,-,-,-,cytochrome c oxidase subunit 3,20210320,-
+101028,44803830,iorf339,HCT45_mgp04,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803831,iorf450,HCT45_mgp03,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210403,-
+101028,44803832,iorf499,HCT45_mgp02,-,-,MT,-,LAGLIDADG endonuclease,protein-coding,-,-,-,LAGLIDADG endonuclease,20210320,-
+101028,44803833,nad6,HCT45_mgp01,-,-,MT,-,NADH dehydrogenase subunit 6,protein-coding,-,-,-,NADH dehydrogenase subunit 6,20210129,-
+101028,44803834,trnV(tac),HCT45_mgt24,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803835,trnI(gat),HCT45_mgt25,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803836,trnS(tga),HCT45_mgt26,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803837,trnW(tca),HCT45_mgt27,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803838,trnP(tgg),HCT45_mgt28,-,-,MT,-,tRNA,tRNA,-,-,-,-,20200908,-
+101028,44803839,rnl,HCT45_mgr02,-,-,MT,-,16S ribosomal RNA,rRNA,-,-,-,-,20200908,-

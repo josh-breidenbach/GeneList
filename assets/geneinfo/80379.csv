@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+80379,32984031,petD,BBW97_gp036,C329_p038,-,-,-,PetD,protein-coding,-,-,-,-,20170609,-
+80379,32984032,trnR,BBW97_gt028,C329_t003,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984033,psbK,BBW97_gp085,C329_p085,-,-,-,PsbK,protein-coding,-,-,-,-,20170609,-
+80379,32984034,trnC,BBW97_gt007,C329_t008,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984035,psbM,BBW97_gp074,C329_p074,-,-,-,PsbM,protein-coding,-,-,-,-,20190608,-
+80379,32984036,trnE,BBW97_gt010,C329_t011,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984037,trnL,BBW97_gt036,C329_t037,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984038,rrn5,BBW97_gr005,C329_r005,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984039,petB,BBW97_gp037,C329_p039,-,-,-,PetB,protein-coding,-,-,-,-,20170908,-
+80379,32984040,accD,BBW97_gp059,C329_p059,-,-,-,AccD,protein-coding,-,-,-,-,20181215,-
+80379,32984041,petL,BBW97_gp050,C329_p050,-,-,-,PetL,protein-coding,-,-,-,-,20170609,-
+80379,32984042,psbD,BBW97_gp073,C329_p073,-,-,-,PsbD,protein-coding,-,-,-,-,20170609,-
+80379,32984043,trnT,BBW97_gt011,C329_t012,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984044,psbL,BBW97_gp053,C329_p053,-,-,-,PsbL,protein-coding,-,-,-,-,20170609,-
+80379,32984045,trnP,BBW97_gt022,C329_t023,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984046,rpoB,BBW97_gp076,C329_p076,-,-,-,RpoB,protein-coding,-,-,-,-,20170908,-
+80379,32984047,rrn23,BBW97_gr007,C329_r007,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984048,rpl23,BBW97_gp002,C329_p004,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170609,-
+80379,32984049,rpl2,BBW97_gp001,C329_p003,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+80379,32984050,psbT,BBW97_gp040,C329_p042,-,-,-,PsbT,protein-coding,-,-,-,-,20170609,-
+80379,32984051,trnI,BBW97_gt026,C329_t027,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984052,atpE,BBW97_gp062,C329_p062,-,-,-,AtpE,protein-coding,-,-,-,-,20170908,-
+80379,32984053,psbJ,BBW97_gp054,C329_p054,-,-,-,PsbJ,protein-coding,-,-,-,-,20170609,-
+80379,32984054,rrn4.5,BBW97_gr006,C329_r006,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984055,ndhC,BBW97_gp063,C329_p063,-,-,-,NdhC,protein-coding,-,-,-,-,20170609,-
+80379,32984056,atpF,BBW97_gp082,C329_p082,-,-,-,AtpF,protein-coding,-,-,-,-,20170908,-
+80379,32984057,rrn23,BBW97_gr002,C329_r002,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984058,ycf2,BBW97_gp023,C329_p026,-,-,-,Ycf2,protein-coding,-,-,-,-,20170607,-
+80379,32984059,trnN,BBW97_gt029,C329_t029,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984060,ycf1,BBW97_gp019,C329_p022,-,-,-,hypothetical protein RF1,pseudo,-,-,-,-,20170607,-
+80379,32984061,trnI,BBW97_gt023,C329_t024,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984062,psbI,BBW97_gp084,C329_p084,-,-,-,PsbI,protein-coding,-,-,-,-,20170609,-
+80379,32984063,ndhF,BBW97_gp018,C329_p021,-,-,-,NdhF,protein-coding,-,-,-,-,20170908,-
+80379,32984064,rpl32,BBW97_gp017,C329_p020,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20181215,-
+80379,32984065,ccsA,BBW97_gp016,C329_p019,-,-,-,CcsA,protein-coding,-,-,-,-,20170609,-
+80379,32984066,trnL,BBW97_gt030,C329_t030,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984067,trnT,BBW97_gt016,C329_t017,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984068,trnH,BBW97_gt001,C329_t001,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984069,ycf15,BBW97_gp022,C329_p025,-,-,-,Ycf15,protein-coding,-,-,-,-,20170908,-
+80379,32984070,ndhD,BBW97_gp015,C329_p018,-,-,-,NdhD,protein-coding,-,-,-,-,20170908,-
+80379,32984071,psaC,BBW97_gp014,C329_p017,-,-,-,PsaC,protein-coding,-,-,-,-,20170908,-
+80379,32984072,ndhE,BBW97_gp013,C329_p016,-,-,-,NdhE,protein-coding,-,-,-,-,20170609,-
+80379,32984073,trnL-CAA,BBW97_gt024,C329_t025,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984074,ndhB,BBW97_gp021,C329_p024,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+80379,32984075,ndhI,BBW97_gp011,C329_p014,-,-,-,NdhI,protein-coding,-,-,-,-,20170908,-
+80379,32984076,ndhG,BBW97_gp012,C329_p015,-,-,-,NdhG,protein-coding,-,-,-,-,20170609,-
+80379,32984077,ndhA,BBW97_gp010,C329_p013,-,-,-,NdhA,protein-coding,-,-,-,-,20170609,-
+80379,32984078,rps7,BBW97_gp020,C329_p023,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170609,-
+80379,32984079,ndhH,BBW97_gp009,C329_p012,-,-,-,NdhH,protein-coding,-,-,-,-,20170908,-
+80379,32984080,trnV,BBW97_gt025,C329_t026,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984081,rps15,BBW97_gp008,C329_p011,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20170609,-
+80379,32984082,ycf1,BBW97_gp007,C329_p010,-,-,-,Ycf1,protein-coding,-,-,-,-,20170908,-
+80379,32984083,rrn16,BBW97_gr001,C329_r001,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984084,trnN,BBW97_gt031,C329_t031,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984085,trnR,BBW97_gt032,C329_t032,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984086,rrn16,BBW97_gr008,C329_r008,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984087,rpl22,BBW97_gp027,C329_p030,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20170609,-
+80379,32984088,trnG,BBW97_gt005,C329_t006,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984089,rrn5,BBW97_gr004,C329_r004,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984090,trnA,BBW97_gt027,C329_t028,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984091,rps18,BBW97_gp046,C329_p046,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20170609,-
+80379,32984092,rrn4.5,BBW97_gr003,C329_r003,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20170607,-
+80379,32984093,trnA,BBW97_gt033,C329_t033,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984094,petG,BBW97_gp049,C329_p049,-,-,-,PetG,protein-coding,-,-,-,-,20210212,-
+80379,32984095,trnK,BBW97_gt002,C329_t002,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984096,petN,BBW97_gp075,C329_p075,-,-,-,PetN,protein-coding,-,-,-,-,20170609,-
+80379,32984097,rbcL,BBW97_gp060,C329_p060,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+80379,32984098,psbH,BBW97_gp038,C329_p040,-,-,-,PsbH,protein-coding,-,-,-,-,20170609,-
+80379,32984099,rps4,BBW97_gp066,C329_p066,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+80379,32984100,ycf2,BBW97_gp003,C329_p005,-,-,-,Ycf2,protein-coding,-,-,-,-,20170607,-
+80379,32984101,psbN,BBW97_gp039,C329_p041,-,-,-,PsbN,protein-coding,-,-,-,-,20170609,-
+80379,32984102,psbF,BBW97_gp052,C329_p052,-,-,-,PsbF,protein-coding,-,-,-,-,20170609,-
+80379,32984103,trnI,BBW97_gt034,C329_t034,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984104,trnV,BBW97_gt019,C329_t020,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984105,ndhJ,BBW97_gp065,C329_p065,-,-,-,NdhJ,protein-coding,-,-,-,-,20170609,-
+80379,32984106,psaB,BBW97_gp069,C329_p069,-,-,-,PsaB,protein-coding,-,-,-,-,20170609,-
+80379,32984107,rpl33,BBW97_gp047,C329_p047,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20170609,-
+80379,32984108,rps7,BBW97_gp006,C329_p008,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20170609,-
+80379,32984109,trnD,BBW97_gt008,C329_t009,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984110,trnQ,BBW97_gt003,C329_t004,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984111,trnH,BBW97_gt037,C329_t035,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984112,atpH,BBW97_gp081,C329_p081,-,-,-,AtpH,protein-coding,-,-,-,-,20170609,-
+80379,32984113,trnI,BBW97_gt038,C329_t038,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984114,ndhK,BBW97_gp064,C329_p064,-,-,-,NdhK,protein-coding,-,-,-,-,20170609,-
+80379,32984115,ndhB,BBW97_gp005,C329_p007,-,-,-,NdhB,protein-coding,-,-,-,-,20170908,-
+80379,32984116,rps16,BBW97_gp086,C329_p086,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20170609,-
+80379,32984117,psaA,BBW97_gp068,C329_p068,-,-,-,PsaA,protein-coding,-,-,-,-,20170609,-
+80379,32984118,psaJ,BBW97_gp048,C329_p048,-,-,-,PsaJ,protein-coding,-,-,-,-,20170609,-
+80379,32984119,ycf4,BBW97_gp057,C329_p057,-,-,-,Ycf4,protein-coding,-,-,-,-,20170609,-
+80379,32984120,ycf15,BBW97_gp004,C329_p006,-,-,-,Ycf15,protein-coding,-,-,-,-,20170908,-
+80379,32984121,trnY,BBW97_gt009,C329_t010,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984122,rpl36,BBW97_gp033,C329_p035,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20170609,-
+80379,32984123,trnW,BBW97_gt021,C329_t022,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984124,trnS,BBW97_gt012,C329_t013,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984125,BBW97_gp032,BBW97_gp032,C329_p002,-,-,-,translation initiation factor 1,pseudo,-,-,-,-,20170607,-
+80379,32984126,psbB,BBW97_gp041,C329_p043,-,-,-,PsbB,protein-coding,-,-,-,-,20170908,-
+80379,32984127,trnM,BBW97_gt020,C329_t021,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984128,petA,BBW97_gp055,C329_p055,-,-,-,PetA,protein-coding,-,-,-,-,20170908,-
+80379,32984129,rpl20,BBW97_gp045,C329_p045,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20170908,-
+80379,32984130,trnR,BBW97_gt006,C329_t007,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984131,psbA,BBW97_gp088,C329_p088,-,-,-,PsbA,protein-coding,-,-,-,-,20170908,-
+80379,32984132,psbZ,BBW97_gp071,C329_p071,-,-,-,PsbZ,protein-coding,-,-,-,-,20170908,-
+80379,32984133,rps12,BBW97_gp043,C329_p001,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170607,-
+80379,32984134,psaI,BBW97_gp058,C329_p058,-,-,-,PsaI,protein-coding,-,-,-,-,20170609,-
+80379,32984135,rpoA,BBW97_gp035,C329_p037,-,-,-,RpoA,protein-coding,-,-,-,-,20170908,-
+80379,32984136,rps19,BBW97_gp026,C329_p029,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20170609,-
+80379,32984137,trnS,BBW97_gt004,C329_t005,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984138,rps3,BBW97_gp028,C329_p031,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170908,-
+80379,32984139,rpl16,BBW97_gp029,C329_p032,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20170609,-
+80379,32984140,trnF,BBW97_gt018,C329_t019,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984141,psbE,BBW97_gp051,C329_p051,-,-,-,PsbE,protein-coding,-,-,-,-,20170908,-
+80379,32984142,rps11,BBW97_gp034,C329_p036,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20170609,-
+80379,32984143,trnV,BBW97_gt035,C329_t036,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984144,clpP,BBW97_gp042,C329_p044,-,-,-,ClpP,protein-coding,-,-,-,-,20170908,-
+80379,32984145,trnfM,BBW97_gt014,C329_t015,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984146,psbC,BBW97_gp072,C329_p072,-,-,-,PsbC,protein-coding,-,-,-,-,20170607,-
+80379,32984147,matK,BBW97_gp087,C329_p087,-,-,-,maturase K,protein-coding,-,-,-,-,20170908,-
+80379,32984148,rps14,BBW97_gp070,C329_p070,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20170609,-
+80379,32984149,trnG,BBW97_gt013,C329_t014,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984150,rps12,BBW97_gp044,C329_p089,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20170607,-
+80379,32984151,rpoC2,BBW97_gp078,C329_p078,-,-,-,RpoC2,protein-coding,-,-,-,-,20170908,-
+80379,32984152,ycf3,BBW97_gp067,C329_p067,-,-,-,Ycf3,protein-coding,-,-,-,-,20170908,-
+80379,32984153,rpl14,BBW97_gp030,C329_p033,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20170609,-
+80379,32984154,rpoC1,BBW97_gp077,C329_p077,-,-,-,RpoC1,protein-coding,-,-,-,-,20170908,-
+80379,32984155,rps2,BBW97_gp079,C329_p079,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20170609,-
+80379,32984156,rps8,BBW97_gp031,C329_p034,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20170609,-
+80379,32984157,trnS,BBW97_gt015,C329_t016,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-
+80379,32984158,cemA,BBW97_gp056,C329_p056,-,-,-,CemA,protein-coding,-,-,-,-,20170609,-
+80379,32984159,atpI,BBW97_gp080,C329_p080,-,-,-,AtpI,protein-coding,-,-,-,-,20170609,-
+80379,32984160,atpB,BBW97_gp061,C329_p061,-,-,-,AtpB,protein-coding,-,-,-,-,20170908,-
+80379,32984161,rpl2,BBW97_gp025,C329_p028,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170908,-
+80379,32984162,atpA,BBW97_gp083,C329_p083,-,-,-,AtpA,protein-coding,-,-,-,-,20170908,-
+80379,32984163,rpl23,BBW97_gp024,C329_p027,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20170609,-
+80379,32984164,trnL,BBW97_gt017,C329_t018,-,-,-,tRNA,tRNA,-,-,-,-,20170607,-

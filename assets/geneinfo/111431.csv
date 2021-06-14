@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+111431,20129598,matK,KP92_p083,-,-,-,-,maturase K,protein-coding,-,-,-,-,20200905,-
+111431,20129599,rps16,KP92_p082,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+111431,20129601,psbK,KP92_p081,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+111431,20129602,psbI,KP92_p080,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+111431,20129604,psbD,KP92_p079,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160716,-
+111431,20129605,psbC,KP92_p078,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+111431,20129607,psbZ,KP92_p077,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+111431,20129615,psbM,KP92_p076,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190608,-
+111431,20129616,petN,KP92_p075,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+111431,20129618,rpoB,KP92_p074,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170906,-
+111431,20129619,rpoC1,KP92_p073,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20180203,-
+111431,20129620,rpoC2,KP92_p072,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20180203,-
+111431,20129621,rps2,KP92_p071,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160813,-
+111431,20129622,atpI,KP92_p070,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+111431,20129623,atpH,KP92_p069,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+111431,20129624,atpF,KP92_p068,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20180203,-
+111431,20129625,atpA,KP92_p067,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+111431,20129628,rps14,KP92_p066,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+111431,20129629,psaB,KP92_p065,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20160325,-
+111431,20129630,psaA,KP92_p064,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+111431,20129631,ycf3,KP92_p063,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170906,-
+111431,20129633,rps4,KP92_p062,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20180203,-
+111431,20129637,ndhJ,KP92_p061,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+111431,20129638,ndhK,KP92_p060,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160827,-
+111431,20129639,ndhC,KP92_p059,-,-,-,-,NADH-plastoquinone oxidoreductase subunit C,protein-coding,-,-,-,-,20150626,-
+111431,20129642,atpE,KP92_p058,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+111431,20129643,atpB,KP92_p057,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+111431,20129644,rbcL,KP92_p056,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20180203,-
+111431,20129645,psaI,KP92_p055,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+111431,20129646,ycf4,KP92_p054,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+111431,20129647,cemA,KP92_p053,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20150626,-
+111431,20129648,petA,KP92_p052,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+111431,20129649,psbJ,KP92_p051,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20160325,-
+111431,20129650,psbL,KP92_p050,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+111431,20129651,psbF,KP92_p049,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+111431,20129652,psbE,KP92_p048,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+111431,20129653,petL,KP92_p047,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+111431,20129654,petG,KP92_p046,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+111431,20129657,psaJ,KP92_p045,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+111431,20129658,rpl33,KP92_p044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+111431,20129659,rps18,KP92_p043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+111431,20129660,rpl20,KP92_p042,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160813,-
+111431,20129661,clpP,KP92_p040,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160813,-
+111431,20129662,psbA,KP92_p001,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160813,-
+111431,20129663,psbB,KP92_p039,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+111431,20129664,psbT,KP92_p038,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+111431,20129665,psbN,KP92_p037,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+111431,20129666,psbH,KP92_p036,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150626,-
+111431,20129667,petB,KP92_p035,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170906,-
+111431,20129668,petD,KP92_p034,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160924,-
+111431,20129669,rpoA,KP92_p033,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170906,-
+111431,20129670,rps11,KP92_p032,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+111431,20129671,rpl36,KP92_p031,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20210212,-
+111431,20129672,infA,KP92_p030,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160813,-
+111431,20129673,rps8,KP92_p029,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+111431,20129674,rpl14,KP92_p028,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+111431,20129675,rpl16,KP92_p027,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+111431,20129676,rps3,KP92_p026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20180203,-
+111431,20129677,rpl22,KP92_p025,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160806,-
+111431,20129678,rps19,KP92_p024,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+111431,20129680,rpl2,KP92_p023,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20180203,-
+111431,20129681,rpl23,KP92_p022,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+111431,20129684,ndhB,KP92_p021,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+111431,20129685,rps7,KP92_p020,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+111431,20129689,ycf68,KP92_p019,-,-,-,-,hypothetical chloroplast RF68,protein-coding,-,-,-,-,20160813,-
+111431,20129696,rps15,KP92_p018,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+111431,20129697,ndhF,KP92_p017,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20180203,-
+111431,20129698,rpl32,KP92_p016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+111431,20129700,ccsA,KP92_p015,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20150626,-
+111431,20129701,ndhD,KP92_p014,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20170906,-
+111431,20129702,psaC,KP92_p013,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+111431,20129703,ndhE,KP92_p012,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+111431,20129704,ndhG,KP92_p011,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150626,-
+111431,20129705,ndhI,KP92_p010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170908,-
+111431,20129706,ndhA,KP92_p009,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+111431,20129707,ndhH,KP92_p008,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20170908,-
+111431,20129708,rps15,KP92_p007,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+111431,20129718,rps7,KP92_p006,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160806,-
+111431,20129719,ndhB,KP92_p005,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170908,-
+111431,20129722,rpl23,KP92_p004,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+111431,20129723,rpl2,KP92_p003,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20180203,-
+111431,20129725,rps19,KP92_p002,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+111431,20129726,rps12,KP92_p041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160813,-
+111431,20169586,trnK-UUU,KP92_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169587,trnQ-UUG,KP92_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169588,trnS-GCU,KP92_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169589,trnS-UGA,KP92_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169590,trnG-UCC,KP92_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169591,trnfM-CAU,KP92_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169592,trnG-UCC,KP92_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169593,trnT-GGU,KP92_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169594,trnE-UUC,KP92_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169595,trnY-GUA,KP92_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169596,trnD-GUC,KP92_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169597,trnC-GCA,KP92_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169598,trnR-UCU,KP92_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169599,trnfM-CAU,KP92_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169600,trnS-GGA,KP92_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169601,trnT-UGU,KP92_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169602,trnL-UAA,KP92_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169603,trnF-GAA,KP92_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169604,trnV-UAC,KP92_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169605,trnM-CAU,KP92_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169606,trnW-CCA,KP92_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169607,trnP-GGG,KP92_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169608,trnH-GUG,KP92_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169609,trnI-CAU,KP92_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169610,trnL-CAA,KP92_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169611,trnV-GAC,KP92_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169612,rrn16,KP92_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169613,trnI-GAU,KP92_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169614,trnA-UGU,KP92_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169615,rrn23,KP92_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169616,rrn4.5,KP92_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169617,rrn5,KP92_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169618,trnR-ACG,KP92_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169619,trnN-GUU,KP92_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169620,trnL-UAG,KP92_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169621,trnN-GUU,KP92_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169622,trnR-ACG,KP92_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169623,rrn5,KP92_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169624,rrn4.5,KP92_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169625,rrn23,KP92_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169626,trnA-UGC,KP92_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169627,trnI-GAU,KP92_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169628,rrn16,KP92_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20140828,-
+111431,20169629,trnV-GAC,KP92_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169630,trnL-CAA,KP92_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169631,trnI-CAU,KP92_t038,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-
+111431,20169632,trnH-GUG,KP92_t039,-,-,-,-,tRNA,tRNA,-,-,-,-,20140828,-

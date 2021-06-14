@@ -1,0 +1,131 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+101007,14210354,psbA,F653_p085,-,-,-,-,photosystem II protein A,protein-coding,-,-,-,-,20160903,-
+101007,14210355,trnF-GAA,F653_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210356,ndhJ,F653_p062,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+101007,14210357,ndhK,F653_p061,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160813,-
+101007,14210358,ndhC,F653_p060,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+101007,14210359,trnV-UAC,F653_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210360,trnM-CAU,F653_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210361,atpE,F653_p059,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210362,atpB,F653_p058,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210363,rbcL,F653_p057,-,-,-,-,"ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170906,-
+101007,14210364,accD,F653_p056,-,-,-,-,acetyl-CoA carboxylase carboxytransferase beta subunit,protein-coding,-,-,-,-,20160325,-
+101007,14210365,psaI,F653_p055,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+101007,14210366,ycf4,F653_p054,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20150626,-
+101007,14210367,cemA,F653_p053,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20160325,-
+101007,14210368,petA,F653_p052,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+101007,14210369,psbJ,F653_p051,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+101007,14210370,psbL,F653_p050,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+101007,14210371,psbF,F653_p049,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+101007,14210372,psbE,F653_p048,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210373,petL,F653_p047,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+101007,14210374,petG,F653_p046,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210123,-
+101007,14210375,trnW-CCA,F653_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210376,trnP-UGG,F653_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210377,psaJ,F653_p045,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+101007,14210378,rpl33,F653_p044,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+101007,14210379,rps18,F653_p043,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+101007,14210380,rpl20,F653_p042,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160813,-
+101007,14210381,rps12,F653_p041,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-
+101007,14210382,clpP,F653_p039,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160813,-
+101007,14210383,trnH-GUG,F653_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210384,psbB,F653_p038,-,-,-,-,photosystem II CP47 chlorophyll apoprotein,protein-coding,-,-,-,-,20160325,-
+101007,14210385,psbT,F653_p037,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20150626,-
+101007,14210386,psbN,F653_p036,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+101007,14210387,psbH,F653_p035,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150626,-
+101007,14210388,petB,F653_p034,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170906,-
+101007,14210389,petD,F653_p033,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160827,-
+101007,14210390,rpoA,F653_p032,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210391,rps11,F653_p031,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20150626,-
+101007,14210392,rpl36,F653_p030,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+101007,14210393,rps8,F653_p029,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+101007,14210394,rpl14,F653_p028,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+101007,14210395,rpl16,F653_p027,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+101007,14210396,rps3,F653_p026,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+101007,14210397,rpl22,F653_p025,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160813,-
+101007,14210398,rps19,F653_p024,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+101007,14210399,rpl2,F653_p023,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+101007,14210400,rpl23,F653_p022,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+101007,14210401,trnI-CAU,F653_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210402,ycf2,F653_p021,-,-,-,-,hypothetical chloroplast RF2,protein-coding,-,-,-,-,20170906,-
+101007,14210403,trnL-CAA,F653_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210404,ndhB,F653_p020,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170906,-
+101007,14210405,rps7,F653_p019,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160910,-
+101007,14210406,trnV-GAC,F653_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210407,rrn16,F653_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210408,trnI-GAU,F653_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210409,trnA-UGC,F653_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210410,rrn23,F653_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210411,rrn4.5,F653_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210412,rrn5,F653_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210413,trnR-ACG,F653_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210414,trnN-GUU,F653_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210415,ycf1,F653_p018,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20210313,-
+101007,14210416,ndhF,F653_p017,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20170906,-
+101007,14210417,rpl32,F653_p016,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+101007,14210418,trnL-UAG,F653_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210419,ccsA,F653_p015,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20150626,-
+101007,14210420,ndhD,F653_p014,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20170906,-
+101007,14210421,psaC,F653_p013,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170906,-
+101007,14210422,ndhE,F653_p012,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+101007,14210423,ndhG,F653_p011,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150626,-
+101007,14210424,ndhI,F653_p010,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+101007,14210425,ndhA,F653_p009,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+101007,14210426,ndhH,F653_p008,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20150701,-
+101007,14210427,rps15,F653_p007,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160813,-
+101007,14210428,ycf1,F653_p006,-,-,-,-,hypothetical chloroplast RF1,protein-coding,-,-,-,-,20160813,-
+101007,14210429,trnN-GUU,F653_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210430,trnR-ACG,F653_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210431,rrn5,F653_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210432,rrn4.5,F653_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210433,rrn23,F653_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210434,trnA-UGC,F653_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210435,trnI-GAU,F653_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210436,rrn16,F653_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20121210,-
+101007,14210437,trnV-GAC,F653_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210438,rps7,F653_p005,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160910,-
+101007,14210439,ndhB,F653_p004,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20170906,-
+101007,14210440,trnK-UUU,F653_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210441,matK,F653_p084,-,-,-,-,maturase K,protein-coding,-,-,-,-,20170906,-
+101007,14210442,rps16,F653_p083,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+101007,14210443,trnQ-UUG,F653_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210444,psbK,F653_p082,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+101007,14210445,psbI,F653_p081,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+101007,14210446,trnS-GCU,F653_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210447,trnG-GCC,F653_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210448,trnR-UCU,F653_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210449,atpA,F653_p080,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210450,atpF,F653_p079,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20170906,-
+101007,14210451,atpH,F653_p078,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+101007,14210452,atpI,F653_p077,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+101007,14210453,rps2,F653_p076,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160813,-
+101007,14210454,rpoC2,F653_p075,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210455,rpoC1,F653_p074,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210456,rpoB,F653_p073,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20170906,-
+101007,14210457,trnC-GCA,F653_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210458,petN,F653_p072,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+101007,14210459,psbM,F653_p071,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20190525,-
+101007,14210460,trnD-GUC,F653_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210461,trnY-GUA,F653_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210462,trnE-UUC,F653_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210463,trnT-GGU,F653_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210464,psbD,F653_p070,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160924,-
+101007,14210465,psbC,F653_p069,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+101007,14210466,trnS-UGA,F653_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210467,psbZ,F653_p068,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+101007,14210468,trnG-UCC,F653_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210469,trnfM-CAU,F653_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210470,rps14,F653_p067,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20160325,-
+101007,14210471,psaB,F653_p066,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+101007,14210472,psaA,F653_p065,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+101007,14210473,ycf3,F653_p064,-,-,-,-,photosystem I assembly protein ycf3,protein-coding,-,-,-,-,20170906,-
+101007,14210474,trnS-GGA,F653_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210475,rps4,F653_p063,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170906,-
+101007,14210476,trnT-UGU,F653_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210477,trnL-UAA,F653_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210478,trnL-CAA,F653_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210479,ycf2,F653_p003,-,-,-,-,hypothetical chloroplast RF2,protein-coding,-,-,-,-,20170906,-
+101007,14210480,trnI-CAU,F653_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20121210,-
+101007,14210481,rpl23,F653_p002,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+101007,14210482,rpl2,F653_p001,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20170906,-
+101007,14210483,rps12,F653_p040,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160924,-

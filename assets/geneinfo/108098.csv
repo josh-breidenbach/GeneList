@@ -1,0 +1,35 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+108098,2830021,NEWENTRY,-,-,-,-,-,Record to support submission of GeneRIFs for a gene not in Gene (Human adenovirus B).,other,-,-,-,-,20200513,-
+108098,6870515,E1B,HAdVB1_gp02,-,-,-,-,control protein E1B 19K;control protein E1B 55K,protein-coding,-,-,-,control protein E1B 19K;control protein E1B 55K,20201220,-
+108098,6870516,IX,HAdVB1_gp03,-,-,-,-,capsid protein IX,protein-coding,-,-,-,capsid protein IX,20201220,-
+108098,6870517,E2B,HAdVB1_gp04,-,-,-,-,DNA polymerase;terminal protein precursor pTP,protein-coding,-,-,-,DNA polymerase;terminal protein precursor pTP,20201220,-
+108098,6870518,IVa2,HAdVB1_gp05,-,-,-,-,encapsidation protein IVa2,protein-coding,-,-,-,encapsidation protein IVa2,20201220,-
+108098,6870519,L5,HAdVB1_gp06,-,-,-,-,fiber,protein-coding,-,-,-,fiber,20201220,-
+108098,6870520,L4,HAdVB1_gp07,-,-,-,-,capsid protein precursor pVIII;encapsidation protein 22K;hexon assembly protein 100K;protein 33K,protein-coding,-,-,-,capsid protein precursor pVIII;encapsidation protein 22K;hexon assembly protein 100K;protein 33K,20210424,-
+108098,6870521,L3,HAdVB1_gp08,-,-,-,-,capsid protein precursor pVI;hexon;protease,protein-coding,-,-,-,capsid protein precursor pVI;hexon;protease,20210424,-
+108098,6870522,L2,HAdVB1_gp09,-,-,-,-,core protein V;core protein precursor pVII;core protein precursor pX;penton base,protein-coding,-,-,-,core protein V;core protein precursor pVII;core protein precursor pX;penton base,20201220,-
+108098,6870523,L1,HAdVB1_gp10,-,-,-,-,capsid protein precursor pIIIa;encapsidation protein 52K;protein 13.6K,protein-coding,-,-,-,capsid protein precursor pIIIa;encapsidation protein 52K;protein 13.6K,20201220,-
+108098,6870524,VAI,HAdVB1_gs01,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201220,-
+108098,6870525,VAII,HAdVB1_gs02,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201220,-
+108098,6870526,E2A,HAdVB1_gp11,-,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201220,-
+108098,6870527,E2A-L,HAdVB1_gp12,-,-,-,-,-,other,-,-,-,-,20201220,-
+108098,6870528,E3,HAdVB1_gp13,-,-,-,-,control protein E3 12.5K;control protein E3 14.7K;membrane glycoprotein E3 CR1-alpha;membrane glycoprotein E3 CR1-beta;membrane glycoprotein E3 CR1-gamma;membrane glycoprotein E3 gp19K;membrane protein E3 CR1-delta;membrane protein E3 RID-alpha;membrane protein E3 RID-beta,protein-coding,-,-,-,control protein E3 12.5K;control protein E3 14.7K;membrane glycoprotein E3 CR1-alpha;membrane glycoprotein E3 CR1-beta;membrane glycoprotein E3 CR1-gamma;membrane glycoprotein E3 gp19K;membrane protein E3 CR1-delta;membrane protein E3 RID-alpha;membrane protein E3 RID-beta,20201220,-
+108098,6870529,U,HAdVB1_gp14,-,-,-,-,protein U,protein-coding,-,-,-,protein U,20201220,-
+108098,6870530,E4,HAdVB1_gp15,-,-,-,-,control protein E4 34K;control protein E4orf1;control protein E4orf2;control protein E4orf3;control protein E4orf4;control protein E4orf6/7,protein-coding,-,-,-,control protein E4 34K;control protein E4orf1;control protein E4orf2;control protein E4orf3;control protein E4orf4;control protein E4orf6/7,20210129,-
+108098,6870531,E1A,HAdVB1_gp01,-,-,-,-,control protein E1A,protein-coding,-,-,-,control protein E1A,20201220,-
+108098,24271506,E2A-L,HAdVB2_gp12,-,-,-,-,single-stranded DNA-binding protein,protein-coding,-,-,-,single-stranded DNA-binding protein,20201220,-
+108098,24271507,E3,HAdVB2_gp13,-,-,-,-,control protein E3 12.5K;control protein E3 14.7K;membrane glycoprotein E3 CR1-alpha;membrane glycoprotein E3 CR1-beta;membrane glycoprotein E3 CR1-gamma;membrane glycoprotein E3 gp19K;membrane protein E3 RID-alpha;membrane protein E3 RID-beta,protein-coding,-,-,-,control protein E3 12.5K;control protein E3 14.7K;membrane glycoprotein E3 CR1-alpha;membrane glycoprotein E3 CR1-beta;membrane glycoprotein E3 CR1-gamma;membrane glycoprotein E3 gp19K;membrane protein E3 RID-alpha;membrane protein E3 RID-beta,20201220,-
+108098,24271508,U,HAdVB2_gp14,-,-,-,-,protein U,protein-coding,-,-,-,protein U,20201220,-
+108098,24271509,E4,HAdVB2_gp15,-,-,-,-,control protein E4 34K;control protein E4orf1;control protein E4orf2;control protein E4orf3;control protein E4orf4;control protein E4orf6/7,protein-coding,-,-,-,control protein E4 34K;control protein E4orf1;control protein E4orf2;control protein E4orf3;control protein E4orf4;control protein E4orf6/7,20201220,-
+108098,24271510,E2A,HAdVB2_gp11,-,-,-,-,-,other,-,-,-,-,20201220,-
+108098,24271511,E1B,HAdVB2_gp02,-,-,-,-,control protein E1B 19K;control protein E1B 55K,protein-coding,-,-,-,control protein E1B 19K;control protein E1B 55K,20201220,-
+108098,24271512,IX,HAdVB2_gp03,-,-,-,-,capsid protein IX,protein-coding,-,-,-,capsid protein IX,20201220,-
+108098,24271513,E2B,HAdVB2_gp04,-,-,-,-,DNA polymerase;terminal protein precursor pTP,protein-coding,-,-,-,DNA polymerase;terminal protein precursor pTP,20201220,-
+108098,24271514,IVa2,HAdVB2_gp05,-,-,-,-,encapsidation protein IVa2,protein-coding,-,-,-,encapsidation protein IVa2,20201220,-
+108098,24271515,L5,HAdVB2_gp06,-,-,-,-,fiber,protein-coding,-,-,-,fiber,20201220,-
+108098,24271516,L4,HAdVB2_gp07,-,-,-,-,capsid protein precursor pVIII;encapsidation protein 22K;hexon assembly protein 100K;protein 33K,protein-coding,-,-,-,capsid protein precursor pVIII;encapsidation protein 22K;hexon assembly protein 100K;protein 33K,20201220,-
+108098,24271517,L3,HAdVB2_gp08,-,-,-,-,capsid protein precursor pVI;hexon;protease,protein-coding,-,-,-,capsid protein precursor pVI;hexon;protease,20201220,-
+108098,24271518,L2,HAdVB2_gp09,-,-,-,-,core protein V;core protein precursor pVII;core protein precursor pX;penton base,protein-coding,-,-,-,core protein V;core protein precursor pVII;core protein precursor pX;penton base,20201220,-
+108098,24271519,L1,HAdVB2_gp10,-,-,-,-,capsid protein precursor pIIIa;encapsidation protein 52K;protein 13.6K,protein-coding,-,-,-,capsid protein precursor pIIIa;encapsidation protein 52K;protein 13.6K,20201220,-
+108098,24271520,VAI,HAdVB2_gr01,-,-,-,-,miscRNA,miscRNA,-,-,-,-,20201220,-
+108098,24271521,E1A,HAdVB2_gp01,-,-,-,-,control protein E1A,protein-coding,-,-,-,control protein E1A,20201220,-

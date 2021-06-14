@@ -1,0 +1,135 @@
+#tax_id,GeneID,Symbol,LocusTag,Synonyms,dbXrefs,chromosome,map_location,description,type_of_gene,Symbol_from_nomenclature_authority,Full_name_from_nomenclature_authority,Nomenclature_status,Other_designations,Modification_date,Feature_type
+133946,17673970,psbA,W879_p089,-,-,-,-,photosystem II protein D1,protein-coding,-,-,-,-,20160813,-
+133946,17673971,trnK-UUU,W879_t002,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673972,matK,W879_p088,-,-,-,-,maturase K,protein-coding,-,-,-,-,20160827,-
+133946,17673973,rps16,W879_p087,-,-,-,-,ribosomal protein S16,protein-coding,-,-,-,-,20150626,-
+133946,17673974,trnQ-UUG,W879_t003,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673975,psbK,W879_p086,-,-,-,-,photosystem II protein K,protein-coding,-,-,-,-,20150626,-
+133946,17673976,psbI,W879_p085,-,-,-,-,photosystem II protein I,protein-coding,-,-,-,-,20150626,-
+133946,17673977,trnS-GCU,W879_t004,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673978,trnG-UCC,W879_t005,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673979,trnR-UCU,W879_t006,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673980,atpA,W879_p084,-,-,-,-,ATP synthase CF1 alpha subunit,protein-coding,-,-,-,-,20170906,-
+133946,17673981,atpF,W879_p083,-,-,-,-,ATP synthase CF0 subunit I,protein-coding,-,-,-,-,20150626,-
+133946,17673982,atpH,W879_p082,-,-,-,-,ATP synthase CF0 subunit III,protein-coding,-,-,-,-,20150626,-
+133946,17673983,atpI,W879_p081,-,-,-,-,ATP synthase CF0 subunit IV,protein-coding,-,-,-,-,20150626,-
+133946,17673984,rps2,W879_p080,-,-,-,-,ribosomal protein S2,protein-coding,-,-,-,-,20160827,-
+133946,17673985,rpoC2,W879_p079,-,-,-,-,RNA polymerase beta' subunit,protein-coding,-,-,-,-,20160827,-
+133946,17673986,rpoC1,W879_p078,-,-,-,-,RNA polymerase beta,protein-coding,-,-,-,-,20210417,-
+133946,17673987,rpoB,W879_p077,-,-,-,-,RNA polymerase beta subunit,protein-coding,-,-,-,-,20160827,-
+133946,17673988,trnC-GCA,W879_t007,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673989,petN,W879_p076,-,-,-,-,cytochrome b6/f complex subunit VIII,protein-coding,-,-,-,-,20150626,-
+133946,17673990,psbM,W879_p075,-,-,-,-,photosystem II protein M,protein-coding,-,-,-,-,20150702,-
+133946,17673991,trnD-GUC,W879_t008,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673992,trnY-GUA,W879_t009,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673993,trnE-UUC,W879_t010,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673994,trnT-GGU,W879_t011,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673995,psbD,W879_p074,-,-,-,-,photosystem II protein D2,protein-coding,-,-,-,-,20160827,-
+133946,17673996,psbC,W879_p073,-,-,-,-,photosystem II CP43 chlorophyll apoprotein,protein-coding,-,-,-,-,20150626,-
+133946,17673997,trnS-UGA,W879_t012,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17673998,psbZ,W879_p072,-,-,-,-,photosystem II protein Z,protein-coding,-,-,-,-,20150626,-
+133946,17673999,trnG-GCC,W879_t013,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674000,trnfM-CAU,W879_t014,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674001,rps14,W879_p071,-,-,-,-,ribosomal protein S14,protein-coding,-,-,-,-,20150626,-
+133946,17674002,psaB,W879_p070,-,-,-,-,photosystem I P700 apoprotein A2,protein-coding,-,-,-,-,20150626,-
+133946,17674003,psaA,W879_p069,-,-,-,-,photosystem I P700 apoprotein A1,protein-coding,-,-,-,-,20150626,-
+133946,17674004,ycf3,W879_p068,-,-,-,-,hypothetical chloroplast RF34,protein-coding,-,-,-,-,20170908,-
+133946,17674005,trnS-GGA,W879_t015,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674006,rps4,W879_p067,-,-,-,-,ribosomal protein S4,protein-coding,-,-,-,-,20170908,-
+133946,17674007,trnT-UGU,W879_t016,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674008,trnL-UAA,W879_t017,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674009,trnF-GAA,W879_t018,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674010,ndhJ,W879_p066,-,-,-,-,NADH-plastoquinone oxidoreductase subunit J,protein-coding,-,-,-,-,20150626,-
+133946,17674011,ndhK,W879_p065,-,-,-,-,NADH-plastoquinone oxidoreductase subunit K,protein-coding,-,-,-,-,20160813,-
+133946,17674012,ndhC,W879_p064,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 3,protein-coding,-,-,-,-,20150626,-
+133946,17674013,trnV-UAC,W879_t019,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674014,trnM-CAU,W879_t020,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674015,atpE,W879_p063,-,-,-,-,ATP synthase CF1 epsilon subunit,protein-coding,-,-,-,-,20170908,-
+133946,17674016,atpB,W879_p062,-,-,-,-,ATP synthase CF1 beta subunit,protein-coding,-,-,-,-,20170908,-
+133946,17674017,rbcL,W879_p061,-,-,-,-,"ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit",protein-coding,-,-,-,-,20170908,-
+133946,17674018,accD,W879_p060,-,-,-,-,acetyl-CoA carboxylase carboxyltransferase beta subunit,protein-coding,-,-,-,-,20150626,-
+133946,17674019,psaI,W879_p059,-,-,-,-,photosystem I subunit VIII,protein-coding,-,-,-,-,20150626,-
+133946,17674020,ycf4,W879_p058,-,-,-,-,photosystem I assembly protein ycf4,protein-coding,-,-,-,-,20160325,-
+133946,17674021,cemA,W879_p057,-,-,-,-,chloroplast envelope membrane protein,protein-coding,-,-,-,-,20150626,-
+133946,17674022,petA,W879_p056,-,-,-,-,cytochrome f,protein-coding,-,-,-,-,20170906,-
+133946,17674023,psbJ,W879_p055,-,-,-,-,photosystem II protein J,protein-coding,-,-,-,-,20150626,-
+133946,17674024,psbL,W879_p054,-,-,-,-,photosystem II protein L,protein-coding,-,-,-,-,20150626,-
+133946,17674025,psbF,W879_p053,-,-,-,-,photosystem II cytochrome b559 beta subunit,protein-coding,-,-,-,-,20150626,-
+133946,17674026,psbE,W879_p052,-,-,-,-,photosystem II cytochrome b559 alpha subunit,protein-coding,-,-,-,-,20170908,-
+133946,17674027,petL,W879_p051,-,-,-,-,cytochrome b6/f complex subunit VI,protein-coding,-,-,-,-,20150626,-
+133946,17674028,petG,W879_p050,-,-,-,-,cytochrome b6/f complex subunit V,protein-coding,-,-,-,-,20210212,-
+133946,17674029,trnW-CCA,W879_t021,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674030,trnP-UGG,W879_t022,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674031,psaJ,W879_p049,-,-,-,-,photosystem I subunit IX,protein-coding,-,-,-,-,20150626,-
+133946,17674032,rpl33,W879_p048,-,-,-,-,ribosomal protein L33,protein-coding,-,-,-,-,20150626,-
+133946,17674033,rps18,W879_p047,-,-,-,-,ribosomal protein S18,protein-coding,-,-,-,-,20150626,-
+133946,17674034,rpl20,W879_p046,-,-,-,-,ribosomal protein L20,protein-coding,-,-,-,-,20160827,-
+133946,17674035,rps12,W879_p001,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+133946,17674036,psbB,W879_p044,-,-,-,-,photosystem II 47KD protein,protein-coding,-,-,-,-,20150626,-
+133946,17674037,psbT,W879_p043,-,-,-,-,photosystem II protein T,protein-coding,-,-,-,-,20160325,-
+133946,17674038,psbN,W879_p042,-,-,-,-,photosystem II protein N,protein-coding,-,-,-,-,20150626,-
+133946,17674039,psbH,W879_p041,-,-,-,-,photosystem II phosphoprotein,protein-coding,-,-,-,-,20150626,-
+133946,17674040,petB,W879_p040,-,-,-,-,cytochrome b6,protein-coding,-,-,-,-,20170908,-
+133946,17674041,petD,W879_p039,-,-,-,-,cytochrome b6/f complex subunit IV,protein-coding,-,-,-,-,20160716,-
+133946,17674042,rpoA,W879_p038,-,-,-,-,RNA polymerase alpha subunit,protein-coding,-,-,-,-,20210320,-
+133946,17674043,rps11,W879_p037,-,-,-,-,ribosomal protein S11,protein-coding,-,-,-,-,20160325,-
+133946,17674044,rpl36,W879_p036,-,-,-,-,ribosomal protein L36,protein-coding,-,-,-,-,20150626,-
+133946,17674045,infA,W879_p035,-,-,-,-,translational initiation factor 1,protein-coding,-,-,-,-,20160806,-
+133946,17674046,rps8,W879_p034,-,-,-,-,ribosomal protein S8,protein-coding,-,-,-,-,20150626,-
+133946,17674047,rpl14,W879_p033,-,-,-,-,ribosomal protein L14,protein-coding,-,-,-,-,20150626,-
+133946,17674048,rpl16,W879_p032,-,-,-,-,ribosomal protein L16,protein-coding,-,-,-,-,20160813,-
+133946,17674049,rps3,W879_p031,-,-,-,-,ribosomal protein S3,protein-coding,-,-,-,-,20170906,-
+133946,17674050,rpl22,W879_p030,-,-,-,-,ribosomal protein L22,protein-coding,-,-,-,-,20160827,-
+133946,17674051,rps19,W879_p029,-,-,-,-,ribosomal protein S19,protein-coding,-,-,-,-,20150626,-
+133946,17674052,rpl2,W879_p028,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20171028,-
+133946,17674053,rpl23,W879_p027,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+133946,17674054,trnI-CAU,W879_t023,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674055,ycf2,W879_p026,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20160827,-
+133946,17674056,ycf15,W879_p025,-,-,-,-,hypothetical chloroplast RF15,protein-coding,-,-,-,-,20170906,-
+133946,17674057,trnL-CAA,W879_t024,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674058,ndhB,W879_p024,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20210320,-
+133946,17674059,rps7,W879_p023,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+133946,17674060,trnV-GAC,W879_t025,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674061,rrn16,W879_r008,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674062,trnI-GAU,W879_t026,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674063,trnA-UGC,W879_t027,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674064,rrn23,W879_r007,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674065,rrn4.5,W879_r006,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674066,rrn5,W879_r005,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674067,trnR-ACG,W879_t028,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674068,trnN-GUU,W879_t029,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674069,ycf1,W879_p022,-,-,-,-,pseudo,pseudo,-,-,-,-,20131120,-
+133946,17674070,ndhF,W879_p021,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 5,protein-coding,-,-,-,-,20160827,-
+133946,17674071,rpl32,W879_p020,-,-,-,-,ribosomal protein L32,protein-coding,-,-,-,-,20150626,-
+133946,17674072,trnL-UAG,W879_t030,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674073,ccsA,W879_p019,-,-,-,-,cytochrome c heme attachment protein,protein-coding,-,-,-,-,20150626,-
+133946,17674074,ndhD,W879_p018,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4,protein-coding,-,-,-,-,20201026,-
+133946,17674075,psaC,W879_p017,-,-,-,-,photosystem I subunit VII,protein-coding,-,-,-,-,20170908,-
+133946,17674076,ndhE,W879_p016,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 4L,protein-coding,-,-,-,-,20150626,-
+133946,17674077,ndhG,W879_p015,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 6,protein-coding,-,-,-,-,20150626,-
+133946,17674078,ndhI,W879_p014,-,-,-,-,NADH-plastoquinone oxidoreductase subunit I,protein-coding,-,-,-,-,20170906,-
+133946,17674079,ndhA,W879_p013,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 1,protein-coding,-,-,-,-,20150626,-
+133946,17674080,ndhH,W879_p012,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 7,protein-coding,-,-,-,-,20170908,-
+133946,17674081,rps15,W879_p011,-,-,-,-,ribosomal protein S15,protein-coding,-,-,-,-,20160827,-
+133946,17674082,ycf1,W879_p010,-,-,-,-,hypothetical chloroplast RF19,protein-coding,-,-,-,-,20160827,-
+133946,17674083,trnN-GUU,W879_t031,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674084,trnR-ACG,W879_t032,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674085,rrn5,W879_r004,-,-,-,-,5S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674086,rrn4.5,W879_r003,-,-,-,-,4.5S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674087,rrn23,W879_r002,-,-,-,-,23S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674088,trnA-UGC,W879_t033,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674089,trnI-GAU,W879_t034,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674090,rrn16,W879_r001,-,-,-,-,16S ribosomal RNA,rRNA,-,-,-,-,20131120,-
+133946,17674091,trnV-GAC,W879_t035,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674092,rps7,W879_p009,-,-,-,-,ribosomal protein S7,protein-coding,-,-,-,-,20160827,-
+133946,17674093,ndhB,W879_p008,-,-,-,-,NADH-plastoquinone oxidoreductase subunit 2,protein-coding,-,-,-,-,20210320,-
+133946,17674094,trnL-CAA,W879_t036,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674095,ycf15,W879_p007,-,-,-,-,hypothetical chloroplast RF15,protein-coding,-,-,-,-,20170906,-
+133946,17674096,ycf2,W879_p006,-,-,-,-,hypothetical chloroplast RF21,protein-coding,-,-,-,-,20160827,-
+133946,17674097,trnI-CAU,W879_t037,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674098,rpl23,W879_p005,-,-,-,-,ribosomal protein L23,protein-coding,-,-,-,-,20150626,-
+133946,17674099,rps12,W879_p002,-,-,-,-,ribosomal protein S12,protein-coding,-,-,-,-,20160827,-
+133946,17674100,rpl2,W879_p004,-,-,-,-,ribosomal protein L2,protein-coding,-,-,-,-,20171028,-
+133946,17674101,rps19,W879_p003,-,-,-,-,pseudo,pseudo,-,-,-,-,20131120,-
+133946,17674102,trnH-GUG,W879_t001,-,-,-,-,tRNA,tRNA,-,-,-,-,20131120,-
+133946,17674103,clpP,W879_p045,-,-,-,-,clp protease proteolytic subunit,protein-coding,-,-,-,-,20160827,-
